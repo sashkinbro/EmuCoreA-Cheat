@@ -34,21 +34,23 @@ def main() -> int:
             continue
         source = ROOT / entry["packPath"]
         pnach = base / item["pnachAsset"]
-        archive = base / item["zipAsset"]
         if pnach.read_bytes() != source.read_bytes():
             bad.append(f"{serial}: pnach bytes differ from catalog pack")
         if sha(pnach) != entry["sha256"] or sha(pnach) != item["pnachSha256"]:
             bad.append(f"{serial}: pnach SHA mismatch")
-        with zipfile.ZipFile(archive) as output:
-            names = output.namelist()
-            expected = f"{serial}.pnach"
-            if names != [expected] or output.read(expected) != source.read_bytes():
-                bad.append(f"{serial}: ZIP payload mismatch")
-        if sha(archive) != item["zipSha256"]:
-            bad.append(f"{serial}: ZIP SHA mismatch")
+        if "zipAsset" in item:
+            archive = base / item["zipAsset"]
+            with zipfile.ZipFile(archive) as output:
+                names = output.namelist()
+                expected = f"{serial}.pnach"
+                if names != [expected] or output.read(expected) != source.read_bytes():
+                    bad.append(f"{serial}: ZIP payload mismatch")
+            if sha(archive) != item["zipSha256"]:
+                bad.append(f"{serial}: ZIP SHA mismatch")
     if bad:
         raise SystemExit("; ".join(bad[:10]))
-    print(f"validated {len(catalog['entries'])} per-game pnach assets and ZIP assets")
+    has_zips = any("zipAsset" in item for item in index["packs"])
+    print(f"validated {len(catalog['entries'])} pnach assets" + (" and ZIP assets" if has_zips else ""))
     print(f"asset directory: {base}")
     return 0
 

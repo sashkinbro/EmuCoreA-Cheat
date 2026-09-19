@@ -15,10 +15,11 @@ pack for a different revision just because the title matches.
 - `cheats.json` - schema version 1 catalog used by EmuCoreA.
 - `files/libretro-psp/` - packs converted from the pinned PSP subset of
   libretro-database under its repository CC-BY-SA-4.0 license.
-- `release/` - locally built ZIP bundles and SHA-256 sums for GitHub Releases;
-  the Android client installs the individual text packs from release asset URLs
-  hosted in this repository. The asset names use the neutral `PSP-Cheat-Catalog`
-  prefix; they do not claim authorship of the underlying cheat data.
+- `release/` - locally built aggregate ZIP bundles and SHA-256 sums for GitHub
+  Releases; the Android client installs the individual `.pnach` text packs from
+  release asset URLs hosted in this repository. The asset names use the neutral
+  `PSP-Cheat-Catalog` prefix; they do not claim authorship of the underlying
+  cheat data.
 - `sources.json` - source attribution and the exact input revision.
 - `schemas/cheat-catalog.schema.json` - public catalog contract.
 - `scripts/build_libretro_batch.py` - reproducible converter for the licensed
@@ -27,7 +28,7 @@ pack for a different revision just because the title matches.
 - `scripts/validate_libretro_source.py` - verifies the pinned libretro commit,
   license file, and selected PSP source files.
 - `scripts/make_game_assets.py` and `scripts/validate_game_assets.py` - create
-  and verify per-game release `.pnach` assets plus ZIP packs.
+  and verify per-game release `.pnach` assets, with optional local ZIP packs.
 
 ## Source and attribution
 
@@ -78,6 +79,19 @@ python scripts/make_release.py --version cheat-catalog
 python scripts/make_game_assets.py --version cheat-catalog
 python scripts/validate_game_assets.py --version cheat-catalog
 ```
+
+For the published release, use `--pnach-only` for `pack-assets.json`. The
+Android client reads `cheats.json` and downloads each entry's `downloadUrl`; it
+does not read `pack-assets.json` or unpack per-game ZIPs. Keeping the direct
+`.pnach` URLs stable allows the release to scale within GitHub's 1,000-asset
+limit. The aggregate ZIP remains an archival download.
+
+If the catalog later outgrows the direct asset limit, add optional shard fields
+to a future catalog schema (`shardUrl`, `shardSha256`, and `entryPath`) and
+teach the Android client to fetch and verify a shard only when `downloadUrl` is
+absent. Until that client change is shipped, every entry must retain a direct
+HTTPS `.pnach` `downloadUrl`; shard metadata alone would be ignored by the
+current app.
 
 The resulting ZIP is an archival distribution bundle. `cheats.json` continues
 to point at the individual HTTPS text packs so the Android client does not
