@@ -1,362 +1,17 @@
 {
-  "batch": "batch-003",
-  "release": "v1.0.3",
-  "source": "https://raw.githubusercontent.com/Saramagrean/CWCheat-Database-Plus-/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
-  "sourceSha256": "F5B5A06699C321AED9A013B42C7F306CA173F1885B8506DCB1085BEEE3794323",
-  "entries": [
-    {
-      "serial": "NPJH-50107",
-      "title": "Kidou Senshi Gundam: Gundam Vs. Gundam Next Plus (PlayStation Store) [JP]",
-      "blocks": 632,
-      "excluded": 62,
-      "sha256": "B25AF0B5B09442BA389CC52AC953E54126A429087739CC5131A5EF479872C479"
-    },
-    {
-      "serial": "NPJH-50352",
-      "title": "God Eater Burst (PlayStation Store) [JP]",
-      "blocks": 725,
-      "excluded": 43,
-      "sha256": "FCC2EDB6203505954A76305384D407FEEC6F0D2D1200BB4ABBA7CB9671AD7653"
-    },
-    {
-      "serial": "NPJH-50443",
-      "title": "Final Fantasy: Type-0 Reishiki (Disk 1) (PlayStation Store) [JP]",
-      "blocks": 440,
-      "excluded": 45,
-      "sha256": "603E30DDF1F1F21809176B8EBB649C60EC52D2478A3C3EC7316C3C0A741BC8B3"
-    },
-    {
-      "serial": "NPJH-50444",
-      "title": "Final Fantasy Type-0 Reishiki (Disk 2) (PlayStation Store) [JP]",
-      "blocks": 422,
-      "excluded": 34,
-      "sha256": "5676C38998FA1940BD493D1CB9D61951DA502A5F55076367DE654EE7DB9C185E"
-    },
-    {
-      "serial": "NPJH-50701",
-      "title": "Sword Art Online: Infinity Moment [JP]",
-      "blocks": 585,
-      "excluded": 20,
-      "sha256": "E74369F3255B73DABB6C39C081CA92BB64737F9F434DAC98CEE529F4A8E32CAE"
-    },
-    {
-      "serial": "NPJH-50832",
-      "title": "God Eater 2 [JP]",
-      "blocks": 546,
-      "excluded": 62,
-      "sha256": "4C9402C6E336A2E2E42C98B0FE1F4C35A22190AAE55ACCBC4277990793727A3D"
-    },
-    {
-      "serial": "NPJH-50878",
-      "title": "Toukiden Kiwami [JP]",
-      "blocks": 564,
-      "excluded": 145,
-      "sha256": "A99C2311B05F9E86ED9DA157AAA644829E60F9FF4B130CDC43454D3F0B43602C"
-    },
-    {
-      "serial": "NPUH-10041",
-      "title": "Valhalla Knights 2: Battle Stance (PlayStation Store) [US]",
-      "blocks": 533,
-      "excluded": 9,
-      "sha256": "84DBE341B7BE8294E07D223428E59A88599741E75FEBDFD35E4D49F58FF7C940"
-    },
-    {
-      "serial": "UCES-00995",
-      "title": "Patapon [EU]",
-      "blocks": 438,
-      "excluded": 3,
-      "sha256": "99EE04FB2301BCE6317EE9C9672E4E2D751374C3DE15C33691613F3EF3507109"
-    },
-    {
-      "serial": "UCES-01245",
-      "title": "Gran Turismo (v1.01) [EU]",
-      "blocks": 572,
-      "excluded": 3,
-      "sha256": "7AC15FED4BC7FDA7895EB9E5695C9F590BE0C79F9ADF56D9B926C02F6624389C"
-    },
-    {
-      "serial": "UCJS-10100",
-      "title": "Gran Turismo [JP]",
-      "blocks": 544,
-      "excluded": 3,
-      "sha256": "F8136C98D60047FE8E3963DA271493DED4F4DD624BC5B6DD0996CC13BFF2F951"
-    },
-    {
-      "serial": "UCUS-98632",
-      "title": "Gran Turismo [US]",
-      "blocks": 703,
-      "excluded": 11,
-      "sha256": "104C142DC66E33E0F639DFD8AC2940ECCE1854E77D8365E166F4DF6C390FBD0D"
-    },
-    {
-      "serial": "UCUS-98653",
-      "title": "God Of War: Chains Of Olympus [US]",
-      "blocks": 73,
-      "excluded": 17,
-      "sha256": "3B624CB3F469FBB100CE8F9A90C7E0CCA382DC354280C93A005339F9E6631355"
-    },
-    {
-      "serial": "UCUS-98737",
-      "title": "God Of War: Ghost Of Sparta [US]",
-      "blocks": 34,
-      "excluded": 11,
-      "sha256": "788C23056D163C7BE204017700BA8701C87EBA3DCB4A5BF7D8E5A0293BFF05F9"
-    },
-    {
-      "serial": "UCUS-98751",
-      "title": "Patapon 3 [US]",
-      "blocks": 133,
-      "excluded": 8,
-      "sha256": "84B950FBB9CB51966B35181881242EB482F7781CE22872F4F674487005EDDD4D"
-    },
-    {
-      "serial": "ULAS-42060",
-      "title": "Monster Hunter Freedom [AS]",
-      "blocks": 403,
-      "excluded": 1,
-      "sha256": "DA9820E03BD32E3501D8D0BEBBFDFF84843A05AC6D3D5F63912BA0DB9F60FEAA"
-    },
-    {
-      "serial": "ULES-00151",
-      "title": "Grand Theft Auto: Liberty City Stories (v1.05&v3.00) [EU]",
-      "blocks": 345,
-      "excluded": 12,
-      "sha256": "8B2268A749658744A6B3EF770B5B45FE0D6D535C4D199BFD58606FFBC3E1EC0F"
-    },
-    {
-      "serial": "ULES-00176",
-      "title": "Tales Of Eternia [EU]",
-      "blocks": 395,
-      "excluded": 3,
-      "sha256": "AB8861D445613E13D0444D07862A9A822DDA517CC589277931F87D7E2ACD6981"
-    },
-    {
-      "serial": "ULES-00318",
-      "title": "Monster Hunter Freedom [EU]",
-      "blocks": 415,
-      "excluded": 3,
-      "sha256": "A2DF5D5929266547F81AD6767DA0869FDDB0549CADB2B9BF416673304A09E9F7"
-    },
-    {
-      "serial": "ULES-00530",
-      "title": "Metal Slug Anthology [EU]",
-      "blocks": 383,
-      "excluded": 16,
-      "sha256": "5B2F02B79514ADBBB47AF7783F82F63B7C3D2DE72AF37B11D5C1D74F70019ADC"
-    },
-    {
-      "serial": "ULJM-05798",
-      "title": "The 3rd Birthday [JP]",
-      "blocks": 414,
-      "excluded": 112,
-      "sha256": "FC27942FB307A96CD21F1A3A754AC654BC6EE890F1B1FC8F384129C0E4B4C5FE"
-    },
-    {
-      "serial": "ULJM-05800",
-      "title": "Monster Hunter Portable 3rd [JP]",
-      "blocks": 343,
-      "excluded": 29,
-      "sha256": "C313D73E5FB2DEA766544D3A487AE467DA48FCF7C3FE51133493F7DF911E43A7"
-    },
-    {
-      "serial": "ULJS-00266",
-      "title": ".Hack//Link [JP]",
-      "blocks": 827,
-      "excluded": 3,
-      "sha256": "E429A58B979E6943A7625A4C4A7A3792105165EB6273F8A5A21DF75E1A683749"
-    },
-    {
-      "serial": "ULUS-10041",
-      "title": "Grand Theft Auto: Liberty City Stories (v1.00-3.00) [US]",
-      "blocks": 406,
-      "excluded": 20,
-      "sha256": "A21D99FACD487BC582035B70FB0B373C86A8100308485F019C7EC5561522528C"
-    },
-    {
-      "serial": "ULUS-10084",
-      "title": "Monster Hunter Freedom [US]",
-      "blocks": 346,
-      "excluded": 3,
-      "sha256": "1ACA01A2323FA44EA22094221EAEC31F4F34889F2681C62D9F9F493EFD55BE72"
-    },
-    {
-      "serial": "ULUS-10114",
-      "title": "Need For Speed: Carbon -Own The City- [US]",
-      "blocks": 39,
-      "excluded": 12,
-      "sha256": "1025DE41E96A507C8334A1C3E5ED246B2242DE587F48206CB6452D5F2A340E2E"
-    },
-    {
-      "serial": "ULUS-10154",
-      "title": "Metal Slug Anthology [US]",
-      "blocks": 385,
-      "excluded": 14,
-      "sha256": "F753C7B7BDCFFB764A59A82039E87D7477041798AAA175F6A1E205404C654A4F"
-    },
-    {
-      "serial": "ULUS-10160",
-      "title": "Grand Theft Auto: Vice City Stories [US]",
-      "blocks": 247,
-      "excluded": 10,
-      "sha256": "24BA31933292034815DCBF0DE7AEFE6F52BE470C5600BCC9D45850AAEA47264C"
-    },
-    {
-      "serial": "ULUS-10202",
-      "title": "Metal Gear Solid: Portable Ops [US]",
-      "blocks": 246,
-      "excluded": 15,
-      "sha256": "03C68186D2986057DC6CD604AB8370A5B6B98207E139451FEAB4BD74BCA8F074"
-    },
-    {
-      "serial": "ULUS-10251",
-      "title": "Final Fantasy: Anniversary Edition [US]",
-      "blocks": 141,
-      "excluded": 3,
-      "sha256": "EDC8E1FDD0AF2C5E0018270C79D9F2BBD9417F4A62C46E922C5BCAFA6BC0A938"
-    },
-    {
-      "serial": "ULUS-10263",
-      "title": "Final Fantasy II: Anniversary Edition [US]",
-      "blocks": 134,
-      "excluded": 1,
-      "sha256": "6274341B59ADA54C181579B2826D3CE81CB216A9CD68B0C3E0AB3D8223A9F0B9"
-    },
-    {
-      "serial": "ULUS-10277",
-      "title": "Castlevania: The Dracula X Chronicles [US]",
-      "blocks": 73,
-      "excluded": 13,
-      "sha256": "773D459C3E4FD9A18BD0694FE1C91216E6DC49CDEA2626F1AF8BF25E721C2B31"
-    },
-    {
-      "serial": "ULUS-10297",
-      "title": "Final Fantasy Tactics: The War Of The Lions [US]",
-      "blocks": 187,
-      "excluded": 4,
-      "sha256": "D479B68032460EF0685DCF52DBCD9105D3F01C7039E6E1E1512A09FF939ABBCC"
-    },
-    {
-      "serial": "ULUS-10336",
-      "title": "Crisis Core: Final Fantasy VII [US]",
-      "blocks": 178,
-      "excluded": 11,
-      "sha256": "793B41A3FC277A8C32BA22423B3A186CB1F565CE920E0966C87F6B9172D4F90E"
-    },
-    {
-      "serial": "ULUS-10383",
-      "title": "Midnight Club: L.A. Remix [US]",
-      "blocks": 70,
-      "excluded": 6,
-      "sha256": "87A7C6C1DAEEAF050FB930A4816471CD85D33155D0AD80B35FB5FF3BC4B8180F"
-    },
-    {
-      "serial": "ULUS-10391",
-      "title": "Monster Hunter Freedom Unite [US]",
-      "blocks": 219,
-      "excluded": 21,
-      "sha256": "4D5964C9B5769C6C0FC3306B23EFF82FF4399BAF18A5953D22B68E9084907C87"
-    },
-    {
-      "serial": "ULUS-10410",
-      "title": "Phantasy Star Portable [US]",
-      "blocks": 514,
-      "excluded": 7,
-      "sha256": "B753B4EC4959F2CDE95A9127815D9653D5C8FF2776E693D0CE7CBBE041DBA2A9"
-    },
-    {
-      "serial": "ULUS-10437",
-      "title": "Dissidia: Final Fantasy [US]",
-      "blocks": 190,
-      "excluded": 10,
-      "sha256": "F1328E3974632831A3C5CC53E52662FB1EAE9DBE8476C3F38B1BDAEC3BB3EF9E"
-    },
-    {
-      "serial": "ULUS-10455",
-      "title": "Assassin's Creed: Bloodline [US]",
-      "blocks": 55,
-      "excluded": 10,
-      "sha256": "F5BBA187F65D5188D7C014F04B674F761A9E26E525005C10EDB6FD7AF92BC274"
-    },
-    {
-      "serial": "ULUS-10466",
-      "title": "Tekken 6 [US]",
-      "blocks": 203,
-      "excluded": 10,
-      "sha256": "4459299489818B9AF6E1C443B3EDFDE25BCD3636BE84AB9460BDCBB9754D305E"
-    },
-    {
-      "serial": "ULUS-10479",
-      "title": "Lord Of Arcana [US]",
-      "blocks": 6594,
-      "excluded": 10,
-      "sha256": "C7F3821BB38D2E3A8CDC5706CD20A3E7EF79D8AB4468914FD0698B7E7D3D88F0"
-    },
-    {
-      "serial": "ULUS-10490",
-      "title": "Grand Theft Auto: Chinatown Wars [US]",
-      "blocks": 457,
-      "excluded": 8,
-      "sha256": "A79597569514E58875FF3A898CBC57B71E0420B827DE1D89F975DCCD8C54E711"
-    },
-    {
-      "serial": "ULUS-10505",
-      "title": "Kingdom Hearts: Birth By Sleep [US]",
-      "blocks": 128,
-      "excluded": 3,
-      "sha256": "20BB4B50122CA8DD9C9EE92CC6332127CB736FBAE9DF4AB40E7246F130C72D46"
-    },
-    {
-      "serial": "ULUS-10509",
-      "title": "Metal Gear Solid: Peace Walker [US]",
-      "blocks": 113,
-      "excluded": 26,
-      "sha256": "FFB8EB353A7DB19B62921CF2B88EB271279B871EEBB6B38506EF699C1F96FB6F"
-    },
-    {
-      "serial": "ULUS-10512",
-      "title": "Shin Megami Tensei: Persona 3 Portable [US]",
-      "blocks": 351,
-      "excluded": 11,
-      "sha256": "4D753442857775D630256448714697CE4F419BC753417D7F58EA06D8A9F552A1"
-    },
-    {
-      "serial": "ULUS-10529",
-      "title": "Phantasy Star Portable 2 [US]",
-      "blocks": 411,
-      "excluded": 9,
-      "sha256": "DC61009AA2E7EA2BB813B895EBC543A6573DE8BEF31CF9E00A1897752E2A79AB"
-    },
-    {
-      "serial": "ULUS-10560",
-      "title": "Final Fantasy IV: The Complete Collection [US]",
-      "blocks": 123,
-      "excluded": 45,
-      "sha256": "5798E467657E559C17530309A6D3DD34991DE75FAF0EF140A63659E21C7A785F"
-    },
-    {
-      "serial": "ULUS-10563",
-      "title": "God Eater Burst [US]",
-      "blocks": 474,
-      "excluded": 37,
-      "sha256": "2AAB5BCE6738B14714084010D0A75DAB595077FDB02E9AEA07C6FB312CB832F2"
-    },
-    {
-      "serial": "ULUS-10566",
-      "title": "Dissidia 012: Duodecim Final Fantasy [US]",
-      "blocks": 41,
-      "excluded": 8,
-      "sha256": "44681716FF7E90EB65A5504729F5CF4A43A6476AD7B7F6123768768CCFD388B2"
-    },
-    {
-      "serial": "ULUS-10582",
-      "title": "Naruto Shippuden: Ultimate Ninja Impact [US]",
-      "blocks": 259,
-      "excluded": 13,
-      "sha256": "4323E6EAA426DB2C7C7307A691DF8E5E09080A34D98BDF710CCB566ACB20FF27"
-    }
-  ],
+  "batch": "batch-004",
+  "release": "v1.0.4",
   "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+  "libretroCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
   "libretroEntries": [
+    {
+      "serial": "NPEH-00134",
+      "sourceFile": "Final Fantasy III (PlayStation Store) [EU] [NPEH-00134].cht",
+      "blocks": 90,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "1A329970D1B3E340EED3E10472E270DC3CE31172CED00FED89DE17DB6E9600C4"
+    },
     {
       "serial": "NPJB-40001",
       "sourceFile": "Monster Hunter Portable 3rd HD Ver. [JP] [NPJB-40001].cht",
@@ -364,6 +19,14 @@
       "excluded": 18,
       "malformed": 1,
       "sha256": "277650F7D7C8D175351A4AF1FD961615005571ACD6E852C00201B94396E2CCFE"
+    },
+    {
+      "serial": "NPJH-50311",
+      "sourceFile": "Eiyuu Densetsu - Zero No Kiseki (PlayStation Store) [JP] [NPJH-50311].cht",
+      "blocks": 125,
+      "excluded": 10,
+      "malformed": 0,
+      "sha256": "C81E2C4617E0CABD6CCBE171C93A927039826A2E399E735E9C7F15C2C54DA88C"
     },
     {
       "serial": "NPJH-50332",
@@ -382,6 +45,22 @@
       "sha256": "C040977820F42F5A34564CCFC52CB58C89B79FE7B017D9B2E89533962733A2FA"
     },
     {
+      "serial": "NPJH-50618",
+      "sourceFile": "Danball Senki W [JP] [NPJH-50618].cht",
+      "blocks": 134,
+      "excluded": 20,
+      "malformed": 0,
+      "sha256": "6AEE78C6512F11220EB983FC1C722DB5382593B47509EF0B5569AE068188CDCB"
+    },
+    {
+      "serial": "NPJH-50619",
+      "sourceFile": "Sol Trigger (PlayStation Store) [JP] [NPJH-50619].cht",
+      "blocks": 128,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "C6B6A016513F7B78EE632D6C363FB0DFA6BE1D2C8FF8A2BC4F3943A7AD63A2ED"
+    },
+    {
       "serial": "NPJH-50789",
       "sourceFile": "Toukiden [JP] [NPJH-50789].cht",
       "blocks": 187,
@@ -390,12 +69,28 @@
       "sha256": "755E35C1F544A3EB0E293E10373399BA38A07BCAC378ACBB27221DA16F4ECCEC"
     },
     {
+      "serial": "NPUH-10125",
+      "sourceFile": "Final Fantasy III (PlayStation Store) [US] [NPUH-10125].cht",
+      "blocks": 90,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "15DD03C27FFBAF3ED4695F238D357B3C60C700FF70DB02AC8C4BA38C34BE1467"
+    },
+    {
       "serial": "UCES-01327",
       "sourceFile": "ModNation Racers [EU] [UCES-01327].cht",
       "blocks": 119,
       "excluded": 6,
       "malformed": 0,
       "sha256": "EC8554871E8A7E222AE04E903998532095206165746651C9DEDDCEB0CD34EC4F"
+    },
+    {
+      "serial": "UCKS-45027",
+      "sourceFile": "Tekken - Dark Resurrection [KR] [UCKS-45027].cht",
+      "blocks": 85,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "975667C50CBAEEB07DA625566D2D26A47B3238663E1543B69C53923FC290BE68"
     },
     {
       "serial": "UCUS-98645",
@@ -438,6 +133,14 @@
       "sha256": "4B975052CDD9036B71EE9DCD008F39F51EC86F41617052E3415B9C9625A56293"
     },
     {
+      "serial": "ULES-01187",
+      "sourceFile": "Star Ocean - Second Evolution [EU] [ULES-01187].cht",
+      "blocks": 116,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "B0E48D120F5BF7FBC4824453A8F63954F5AB27198B7A4D8EAEC38A58F76D6C32"
+    },
+    {
       "serial": "ULES-01213",
       "sourceFile": "Monster Hunter Freedom Unite [EU] [ULES-01213].cht",
       "blocks": 171,
@@ -446,12 +149,36 @@
       "sha256": "7DB73C7A24CA6BA734B6FE358D716325D18D12C9772FC32AC54DAD84849ED7D6"
     },
     {
+      "serial": "ULES-01367",
+      "sourceFile": "Assassin's Creed - Bloodline [EU] [ULES-01367].cht",
+      "blocks": 47,
+      "excluded": 16,
+      "malformed": 0,
+      "sha256": "E1D69DF227B28AB53A0B9B93F5D6A5C1DDFB07F168E8DE452096EEB1CA788CFE"
+    },
+    {
+      "serial": "ULES-01372",
+      "sourceFile": "Metal Gear Solid - Peace Walker [EU] [ULES-01372].cht",
+      "blocks": 101,
+      "excluded": 14,
+      "malformed": 0,
+      "sha256": "48F6198FA79CA38BD774B8DC5AD76B64E3C6A4C606BD8982C9CCABAD8F1CB5A8"
+    },
+    {
       "serial": "ULES-01416",
       "sourceFile": "Dead Or Alive Paradise [EU] [ULES-01416].cht",
       "blocks": 239,
       "excluded": 1,
       "malformed": 0,
       "sha256": "0CE026006714EFF29AB0C7DA5504234B9522B4CB7D852AE5C596E6F709D6AC73"
+    },
+    {
+      "serial": "ULES-01500",
+      "sourceFile": "Tactics Ogre - Let Us Cling Together [EU] [ULES-01500].cht",
+      "blocks": 136,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "17D17EE04C1381D9DBAE4129AD0384B229F510DE42F8D4B6EB4994FA42740755"
     },
     {
       "serial": "ULES-01523",
@@ -542,6 +269,22 @@
       "sha256": "8D788723B932BFA8BE6C244285CC3C8E9F461A0BBFBEF9F2C52BB077C22E242B"
     },
     {
+      "serial": "ULJM-05775",
+      "sourceFile": "Kingdom Hearts - Birth By Sleep Final Mix [JP] [ULJM-05775].cht",
+      "blocks": 114,
+      "excluded": 9,
+      "malformed": 0,
+      "sha256": "857BCE2C5EE44A92B9D5EFF56E2633E9732CC87D81E89BD2FC8DAABA2E940893"
+    },
+    {
+      "serial": "ULJM-05844",
+      "sourceFile": "Busou Shinki - Battle Masters Mk. 2 [JP] [ULJM-05844].cht",
+      "blocks": 27,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "1B937431795D8A5A028DE0A42DF2E7B0206BA3DBF75F4F36C961EB2A73E6F579"
+    },
+    {
       "serial": "ULJS-00048",
       "sourceFile": "Tekken - Dark Resurrection [JP] [ULJS-00048].cht",
       "blocks": 198,
@@ -550,12 +293,116 @@
       "sha256": "E87F14A08F262504FC4D2087E2177ACFD1D7FB67D0D671DA82D5CADEBB535B91"
     },
     {
+      "serial": "ULUS-10059",
+      "sourceFile": "Midway Arcade Treasures - Extended Play [US] [ULUS-10059].cht",
+      "blocks": 125,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "298E3E07F15BD963E2FFAEEE0B3B1A0D03047DAA3A23A5665C311D389EB2B27B"
+    },
+    {
+      "serial": "ULUS-10139",
+      "sourceFile": "Tekken - Dark Resurrection [US] [ULUS-10139].cht",
+      "blocks": 101,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "B04A18BDA75A8D53E9F5DE88A50EDD12D395CB9319AE7413C576DFB9862625D2"
+    },
+    {
+      "serial": "ULUS-10200",
+      "sourceFile": "Blitz - OverTime [US] [ULUS-10200].cht",
+      "blocks": 21,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "5F6D65EC31B11FA76A2F8859BAE9768574969EC4092CD863EFA155E0136CAD60"
+    },
+    {
+      "serial": "ULUS-10219",
+      "sourceFile": "Innocent Life - A Futuristic Harvest Moon [US] [ULUS-10219].cht",
+      "blocks": 46,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "7784D2D8CFA7163D935BE3ABD11BA7883D87FE70A039EEB10E122E0884FA9C25"
+    },
+    {
+      "serial": "ULUS-10266",
+      "sourceFile": "Monster Hunter Freedom 2 [US] [ULUS-10266].cht",
+      "blocks": 122,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "65960EDA847520114484C43FB104DD1D06CFDC89388DC277DF1129175079EE5E"
+    },
+    {
+      "serial": "ULUS-10271",
+      "sourceFile": "Tales Of The World - Radiant Mythology [US] [ULUS-10271].cht",
+      "blocks": 89,
+      "excluded": 8,
+      "malformed": 0,
+      "sha256": "A91F5EFD9EFD495DC3E0B113902E0C862D3C293F9C87CCAB475CF23741317D2F"
+    },
+    {
+      "serial": "ULUS-10290",
+      "sourceFile": "Metal Gear Solid - Portable Ops Plus [US] [ULUS-10290].cht",
+      "blocks": 107,
+      "excluded": 14,
+      "malformed": 0,
+      "sha256": "07330992FAA4E1487D227077C4704BCBB11FE232C52B83B426018E785E8CEFA6"
+    },
+    {
+      "serial": "ULUS-10368",
+      "sourceFile": "Yggdra Union [US] [ULUS-10368].cht",
+      "blocks": 121,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "EA5D763B388718039EA1001310EC34A6582489EC317F0E5786900702AA6A39FD"
+    },
+    {
+      "serial": "ULUS-10374",
+      "sourceFile": "Star Ocean - First Departure [US] [ULUS-10374].cht",
+      "blocks": 133,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "83B5C0E205D6377D15B2409E8FD5F6A60C59BCE6FAB1D65AE1678E1314EA96B2"
+    },
+    {
       "serial": "ULUS-10447",
       "sourceFile": "Naruto Shippuden Legends - Akatsuki Rising [US] [ULUS-10447].cht",
       "blocks": 107,
       "excluded": 0,
       "malformed": 0,
       "sha256": "793CC714B3F0DE7297789982A639031C4F37C753BADE50E5D2996BE6BF48DD74"
+    },
+    {
+      "serial": "ULUS-10458",
+      "sourceFile": "Harvest Moon - Hero Of Leaf Valley [US] [ULUS-10458].cht",
+      "blocks": 267,
+      "excluded": 8,
+      "malformed": 0,
+      "sha256": "08A44BF704A55F63526AA62C64CBD6F965A9BBB2C864AC7BED6CFE88D1080379"
+    },
+    {
+      "serial": "ULUS-10511",
+      "sourceFile": "Ace Combat - Joint Assault [US] [ULUS-10511].cht",
+      "blocks": 116,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "090C96AFC60DB97E008CCDBCBE1FC92EAF89FA3E054DBF5C986D7D64877835F1"
+    },
+    {
+      "serial": "ULUS-10551",
+      "sourceFile": "Ys - Seven [US] [ULUS-10551].cht",
+      "blocks": 73,
+      "excluded": 8,
+      "malformed": 0,
+      "sha256": "93A53F686CB60A62C39E22D8E5578E49281A2290D625E868F6308FEC858D2645"
+    },
+    {
+      "serial": "ULUS-10565",
+      "sourceFile": "Tactics Ogre - Let Us Cling Together [US] [ULUS-10565].cht",
+      "blocks": 137,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "BB604DD155C345A52BCCEBD9B23307BE038D8AEA9AF98DF527FA5066B9E10F54"
     }
   ]
 }

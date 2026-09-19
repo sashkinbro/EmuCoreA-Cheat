@@ -44,7 +44,7 @@ def main() -> int:
         for field in ("downloadUrl", "sourceUrl"):
             if not str(entry[field]).startswith("https://"):
                 fail(f"{field} must be HTTPS for {entry['id']}")
-        relative_pack = entry.get("packPath", f"files/cwcheat-db-plus/{entry['serials'][0]}.pnach")
+        relative_pack = entry.get("packPath", f"files/libretro-psp/{entry['serials'][0]}.pnach")
         path = (ROOT / relative_pack).resolve()
         try:
             path.relative_to(ROOT.resolve())

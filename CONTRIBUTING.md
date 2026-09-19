@@ -1,6 +1,6 @@
 # Contributing PSP cheats
 
-Only PPSSPP/PSP CWCheat material belongs in this repository. PlayStation 1
+Only PPSSPP/PSP cheat material belongs in this repository. PlayStation 1
 GameShark files and PNACH patches for other cores do not belong here.
 
 Every catalog entry must:
@@ -17,15 +17,16 @@ Every catalog entry must:
    malformed or uses a code type the importer cannot represent.
 
 Do not copy data from a source that forbids redistribution. If the source has
-no clear license, keep the pack provenance and attribution explicit and obtain
-permission before adding material outside the already curated source.
+no clear license, keep it link-only in `sources.json` and do not add its pack
+to the manifest or release archive. The active libretro batch requires the
+pinned repository revision and its CC-BY-SA-4.0 license to be retained.
 
 Run all checks before a pull request:
 
 ```bash
-python scripts/build_catalog.py --source path/to/cheat.db
+python scripts/build_libretro_batch.py --source path/to/libretro-database
 python scripts/validate_catalog.py
-python scripts/validate_source.py --source path/to/cheat.db
+python scripts/validate_libretro_source.py --source path/to/libretro-database
 ```
 
 The catalog is an input to the app and is not a guarantee that a code works

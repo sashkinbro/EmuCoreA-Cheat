@@ -20,6 +20,13 @@ SERIALS = {
     "UCUS-98646", "ULJM-05505", "NPJH-50789", "ULJM-05402", "ULUS-10447",
     "ULJM-05255", "ULJM-05297", "ULJM-05341", "ULES-00657", "ULJM-05309",
     "NPJB-40001", "ULJM-05753", "ULES-01523", "ULES-00503", "ULJM-05637",
+    # Batch 004: additional regional and Japanese entries from the same
+    # pinned libretro-database PSP snapshot.
+    "NPJH-50618", "ULES-01372", "ULUS-10290", "ULUS-10551", "ULUS-10511",
+    "ULUS-10266", "ULUS-10368", "ULJM-05844", "ULES-01187", "NPJH-50619",
+    "ULUS-10565", "ULES-01500", "ULUS-10139", "ULES-01367", "UCKS-45027",
+    "NPUH-10125", "NPEH-00134", "ULJM-05775", "ULUS-10059", "NPJH-50311",
+    "ULUS-10458", "ULUS-10219", "ULUS-10271", "ULUS-10200", "ULUS-10374",
 }
 SERIAL_RE = re.compile(r"\[([A-Z]{4}-[0-9]{5})\]\.cht$")
 DESC_RE = re.compile(r'^cheat(\d+)_desc\s*=\s*("(?:\\.|[^"\\])*")$', re.MULTILINE)
@@ -81,8 +88,8 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--source", type=Path, default=Path(__file__).parents[2] / "libretro-database-psp")
     parser.add_argument("--repo", type=Path, default=Path(__file__).parents[1])
-    parser.add_argument("--batch-id", default="batch-003")
-    parser.add_argument("--release-version", default="v1.0.3")
+    parser.add_argument("--batch-id", default="batch-004")
+    parser.add_argument("--release-version", default="v1.0.4")
     args = parser.parse_args()
     source_root = args.source.resolve() / "cht" / "Sony - PlayStation Portable"
     repo = args.repo.resolve()
@@ -128,10 +135,14 @@ def main() -> int:
     catalog["entries"].sort(key=lambda entry: entry["serials"][0])
     catalog_path.write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     report_path = repo / "build-report.json"
-    old_report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
-    old_report.update({"batch": args.batch_id, "release": args.release_version, "libretroSource": f"https://raw.githubusercontent.com/libretro/libretro-database/{SOURCE_COMMIT}/cht/Sony%20-%20PlayStation%20Portable"})
-    old_report["libretroEntries"] = report
-    report_path.write_text(json.dumps(old_report, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
+    report_data = {
+        "batch": args.batch_id,
+        "release": args.release_version,
+        "libretroSource": f"https://raw.githubusercontent.com/libretro/libretro-database/{SOURCE_COMMIT}/cht/Sony%20-%20PlayStation%20Portable",
+        "libretroCommit": SOURCE_COMMIT,
+        "libretroEntries": report,
+    }
+    report_path.write_text(json.dumps(report_data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     print(f"generated {len(entries)} libretro PSP packs from {source_root}")
     print(f"blocks: {sum(item['blocks'] for item in report)}; excluded: {sum(item['excluded'] for item in report)}")
     return 0

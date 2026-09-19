@@ -31,10 +31,15 @@ def main() -> int:
             "UCUS-98646", "ULJM-05505", "NPJH-50789", "ULJM-05402", "ULUS-10447",
             "ULJM-05255", "ULJM-05297", "ULJM-05341", "ULES-00657", "ULJM-05309",
             "NPJB-40001", "ULJM-05753", "ULES-01523", "ULES-00503", "ULJM-05637",
+            "NPJH-50618", "ULES-01372", "ULUS-10290", "ULUS-10551", "ULUS-10511",
+            "ULUS-10266", "ULUS-10368", "ULJM-05844", "ULES-01187", "NPJH-50619",
+            "ULUS-10565", "ULES-01500", "ULUS-10139", "ULES-01367", "UCKS-45027",
+            "NPUH-10125", "NPEH-00134", "ULJM-05775", "ULUS-10059", "NPJH-50311",
+            "ULUS-10458", "ULUS-10219", "ULUS-10271", "ULUS-10200", "ULUS-10374",
         }
     ]
-    if len(selected) != 25:
-        raise SystemExit(f"validation failed: found {len(selected)} selected source files, expected 25")
+    if len(selected) != 50:
+        raise SystemExit(f"validation failed: found {len(selected)} selected source files, expected 50")
     for path in selected:
         text = path.read_text(encoding="utf-8")
         if not CODE_RE.search(text):

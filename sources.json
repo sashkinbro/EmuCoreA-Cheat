@@ -9,7 +9,8 @@
       "commit": "750261bccdc39569dec5eaee380902ac1442a007",
       "rawUrl": "https://raw.githubusercontent.com/Saramagrean/CWCheat-Database-Plus-/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "license": "Upstream terms; no blanket open-source license published",
-      "notes": "The upstream README credits PPSSPP Forum, GameHacking, LunaMoo, TAbdiukov and other PSP cheat sources. Generated packs preserve this provenance and do not relicense the code data."
+      "notes": "No explicit license for cheat data is published in the pinned upstream repository. This source is retained for provenance and link-only reference; no CWCheat-derived pack is included in the current manifest or future release archives.",
+      "distribution": "link-only"
     },
     {
       "id": "libretro-psp",
