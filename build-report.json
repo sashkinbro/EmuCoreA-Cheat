@@ -1,6 +1,6 @@
 {
-  "batch": "batch-010",
-  "release": "v1.1.1",
+  "batch": "consolidated-catalog",
+  "release": "cheat-catalog",
   "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
   "libretroCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
   "libretroEntries": [

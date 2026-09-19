@@ -127,7 +127,7 @@ def main() -> int:
     parser.add_argument("--source", type=Path, default=Path(__file__).parents[2] / "libretro-database-psp")
     parser.add_argument("--repo", type=Path, default=Path(__file__).parents[1])
     parser.add_argument("--batch-id", default="batch-010")
-    parser.add_argument("--release-version", default="v1.1.1")
+    parser.add_argument("--release-version", default="cheat-catalog")
     args = parser.parse_args()
     source_root = args.source.resolve() / "cht" / "Sony - PlayStation Portable"
     repo = args.repo.resolve()
