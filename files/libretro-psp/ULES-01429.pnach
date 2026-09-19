@@ -1,0 +1,272 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-01429
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Enable Leona On Select Screen
+Author = libretro-database contributors / original PSP cheat authors
+20155B14 00000001
+
+// Fast Shot
+Author = libretro-database contributors / original PSP cheat authors
+20516A4C 00000000
+
+// Fire Bombs
+Author = libretro-database contributors / original PSP cheat authors
+20516A50 00000002
+
+// Grenades
+Author = libretro-database contributors / original PSP cheat authors
+20516A50 00000001
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20516A54 0000FFFF
+
+// Infinite Grenades
+Author = libretro-database contributors / original PSP cheat authors
+20516A51 000000FF
+20569976 000000FF
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20516CD7 000000FF
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+205A0619 000000FF
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+20516A18 000000FF
+
+// Max Power
+Author = libretro-database contributors / original PSP cheat authors
+20516A68 00954500
+
+// @Enable Weapon Slots 1
+Author = libretro-database contributors / original PSP cheat authors
+20516A60 FFFFFFFF
+
+// @@Empty S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 00000001
+
+// 2x Machine Gun S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 00000012
+
+// Drop Shot S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 0000000E
+
+// Enemy Chaser S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 0000000C
+
+// Flame Shot S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 00000004
+
+// Flame Shot (Upgraded) S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 00000009
+
+// Heavy Machine Gun S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 00000005
+
+// Heavy Machine Gun (Upgraded) S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 0000000A
+
+// Iron Lizard S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 0000000D
+
+// Laser Gun S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 00000006
+
+// Laser Gun (Upgraded) S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 0000000B
+
+// Shot Gun S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 00000002
+
+// Rocket Launcher S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 00000003
+
+// Rocket Launcher (Upgraded) S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 00000008
+
+// Shot Gun (Upgraded) S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 00000007
+
+// Super Grenade S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 0000000F
+
+// Thunder Shot S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 00000014
+
+// Zantetsu Sword S1
+Author = libretro-database contributors / original PSP cheat authors
+20516A5B 00000013
+
+// @Enable Weapon Slots 2
+Author = libretro-database contributors / original PSP cheat authors
+20516A60 FFFFFFFF
+
+// @@Empty S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 00000001
+
+// 2x Machine Gun S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 00000012
+
+// Drop Shot S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 0000000E
+
+// Enemy Chaser S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 0000000C
+
+// Flame Shot S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 00000004
+
+// Flame Shot (Upgraded) S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 00000009
+
+// Heavy Machine Gun S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 00000005
+
+// Heavy Machine Gun (Upgraded) S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 0000000A
+
+// Iron Lizard S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 0000000D
+
+// Laser Gun S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 00000006
+
+// Laser Gun (Upgraded) S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 0000000B
+
+// Rocket Launcher S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 00000003
+
+// Rocket Launcher (Upgraded) S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 00000008
+
+// Shot Gun S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 00000002
+
+// Shot Gun (Upgraded) S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 00000007
+
+// Super Grenade S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 0000000F
+
+// Thunder Shot S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 00000014
+
+// Zantetsu Sword S2
+Author = libretro-database contributors / original PSP cheat authors
+20516A5C 00000013
+
+// @Enable Weapon Slots 3
+Author = libretro-database contributors / original PSP cheat authors
+20516A60 FFFFFFFF
+
+// @@Empty S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 00000001
+
+// 2x Machine Gun S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 00000012
+
+// Drop Shot S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 0000000E
+
+// Enemy Chaser S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 0000000C
+
+// Flame Shot S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 00000004
+
+// Flame Shot (Upgraded) S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 00000009
+
+// Heavy Machine Gun S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 00000005
+
+// Heavy Machine Gun (Upgraded) S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 0000000A
+
+// Iron Lizard S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 0000000D
+
+// Laser Gun S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 00000006
+
+// Laser Gun (Upgraded) S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 0000000B
+
+// Rocket Launcher S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 00000003
+
+// Rocket Launcher (Upgraded) S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 00000008
+
+// Shot Gun S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 00000002
+
+// Shot Gun (Upgraded) S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 00000007
+
+// Super Grenade S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 0000000F
+
+// Thunder Shot S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 00000014
+
+// Zantetsu Sword S3
+Author = libretro-database contributors / original PSP cheat authors
+20516A5D 00000013

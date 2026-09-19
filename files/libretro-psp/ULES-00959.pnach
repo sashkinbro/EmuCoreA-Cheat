@@ -1,0 +1,396 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-00959
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Crazy Taxi 1 Only, Default]
+Author = libretro-database contributors / original PSP cheat authors
+E001411A 00195BAC
+2001F1A0 ACA45BA8
+
+// 60 FPS [Crazy Taxi 1 Only]
+Author = libretro-database contributors / original PSP cheat authors
+E0018235 00195BAC
+2001F1A0 00000000
+
+// 30 FPS [Crazy Taxi 2 Only, Default]
+Author = libretro-database contributors / original PSP cheat authors
+E001411A 001B67EC
+001B680C 00000000
+
+// 60 FPS [Crazy Taxi 2 Only]
+Author = libretro-database contributors / original PSP cheat authors
+E0018235 001B67EC
+001B680C 00000001
+
+// 60 FPS v2
+Author = libretro-database contributors / original PSP cheat authors
+D0019E40 20000002
+20019E40 34040001
+
+// Alex
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000001
+D2000000 00000000
+20F56358 00000002
+
+// Bride
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000016
+D2000000 00000000
+
+// Drive Through Cars
+Author = libretro-database contributors / original PSP cheat authors
+20DE109C 00000000
+20E19578 CFCCCCCC
+D2000000 00000000
+
+// Drive Through Cars v2
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F4EF00 CFCCCCCC
+D2000000 00000000
+
+// Drive Through Cars v3
+Author = libretro-database contributors / original PSP cheat authors
+20F4EF00 CFCCCCCC
+20E19578 CFCCCCCC
+
+// Game Time Unlimit
+Author = libretro-database contributors / original PSP cheat authors
+201D8A18 00000000
+20DE1090 00000000
+
+// Game Time Unlimit [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201D8A18 00000001
+20DE1090 00000001
+
+// Gena
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000003
+D2000000 00000000
+
+// Girl With Bandana
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000022
+D2000000 00000000
+
+// Girl With Crazy Hair
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000002F
+D2000000 00000000
+
+// Girl With Green Polo/White Shirt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000001C
+D2000000 00000000
+
+// Girl With Green Shirt/Blond Hair/Tan
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000013
+D2000000 00000000
+
+// Girl With Pink Shirt/Blond Hair
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000000C
+D2000000 00000000
+
+// Girl With Pink Shirt/Blond Hair/Tan
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000000D
+D2000000 00000000
+
+// Girl With White Shirt/Blond Hair/Tan
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000011
+D2000000 00000000
+
+// Girl With Yellow Shirt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000032
+D2000000 00000000
+
+// Gus
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000004
+D2000000 00000000
+
+// Guy In Costume
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000029
+D2000000 00000000
+
+// Guy With Blue Shirt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000026
+D2000000 00000000
+
+// Guy With Blue Shirt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000001F
+D2000000 00000000
+
+// Guy With Blue Shirt/Red Hair
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000007
+D2000000 00000000
+
+// Guy With Blue Shirt/Shaved Hair
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000005
+D2000000 00000000
+
+// Guy With Brown Polo
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000001D
+D2000000 00000000
+
+// Guy With Dark Shirt/Headphones
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000001B
+D2000000 00000000
+
+// Guy With Green Shirt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000030
+D2000000 00000000
+
+// Guy With Green Shirt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000002E
+D2000000 00000000
+
+// Guy With Green Shirt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000000B
+D2000000 00000000
+
+// Guy With Green Shirt/Blond Hair/Tan/Tuba
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000015
+D2000000 00000000
+
+// Guy With Hat
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000033
+D2000000 00000000
+
+// Guy With Hawaian Shirt/Dark Hair
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000019
+D2000000 00000000
+
+// Guy With Orange Shirt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000023
+D2000000 00000000
+
+// Guy With Pink Punk Hair
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000034
+D2000000 00000000
+
+// Guy With Purple Shirt/Dark Hair
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000008
+D2000000 00000000
+
+// Guy With Red Flowers
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000021
+D2000000 00000000
+
+// Guy With Red Shirt/Hair
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000000A
+D2000000 00000000
+
+// Guy With Red Visor
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000002C
+D2000000 00000000
+
+// Guy With Squared Shirt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000031
+D2000000 00000000
+
+// Guy With Strippy Shirt/Brown Hair
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000009
+D2000000 00000000
+
+// Guy With T Shirt (18)
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000020
+D2000000 00000000
+
+// Guy With Tuba Mask
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000037
+D2000000 00000000
+
+// Guy With Tuba Mask/Punk Pink Hair
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000003A
+D2000000 00000000
+
+// Guy With Tuba Mask/Red Shirt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000038
+D2000000 00000000
+
+// Guy With Tuba Mask/Squared Shirt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000039
+D2000000 00000000
+
+// Guy With White Shirt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000010
+D2000000 00000000
+
+// Guy With White Shirt/Brown Hair
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000006
+D2000000 00000000
+
+// Guy With White Shirt/Dark Hair
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000001A
+D2000000 00000000
+
+// Guyl With White Shirt/Blond Hair/Tan
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000012
+D2000000 00000000
+
+// Old Guy
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000024
+D2000000 00000000
+
+// Old Woman
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000001E
+D2000000 00000000
+
+// Passenger Time Unlimit
+Author = libretro-database contributors / original PSP cheat authors
+201D8A1C 00000000
+20DE1094 00000000
+
+// Passenger Time Unlimit [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201D8A1C 00000001
+20DE1094 00000001
+
+// Policeman
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000000E
+D2000000 00000000
+
+// Policeman 2
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000000F
+D2000000 00000000
+
+// Posh Girl
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000017
+D2000000 00000000
+
+// Posh Guy
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000018
+D2000000 00000000
+
+// Teacher
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000027
+D2000000 00000000
+
+// Textureless Driver
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000000
+D2000000 00000000
+
+// Woman In Blue Shirt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000002D
+D2000000 00000000
+
+// Woman In Cyan Outfitt
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000035
+D2000000 00000000
+
+// Woman In Red
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 0000002B
+D2000000 00000000
+
+// Woman With Tuba Mask
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000036
+D2000000 00000000
+
+// Woman With White Hat
+Author = libretro-database contributors / original PSP cheat authors
+201D8A24 00000000
+20F56358 00000028
+D2000000 00000000

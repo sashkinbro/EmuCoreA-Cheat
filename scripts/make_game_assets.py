@@ -38,7 +38,11 @@ def main() -> int:
         if archive.exists():
             archive.unlink()
         with zipfile.ZipFile(archive, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as output:
-            output.write(source, f"{serial}.pnach")
+            # Pin ZIP metadata so rebuilding the same pack preserves its SHA.
+            info = zipfile.ZipInfo(f"{serial}.pnach", date_time=(1980, 1, 1, 0, 0, 0))
+            info.compress_type = zipfile.ZIP_DEFLATED
+            info.external_attr = 0o100644 << 16
+            output.writestr(info, source.read_bytes())
         assets.append({
             "serial": serial,
             "catalogId": entry["id"],

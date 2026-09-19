@@ -1,0 +1,331 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULJM-05492
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Hang Workaround
+Author = libretro-database contributors / original PSP cheat authors
+E0010003 002259A4
+202259A4 34070001
+
+// Hang Workaround [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 002259A4
+202259A4 28A70003
+
+// 2-4P AC AP
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10100000
+20475F94 00000000
+20478E54 00000000
+2047BD14 00000000
+
+// AC Full Custom
+Author = libretro-database contributors / original PSP cheat authors
+10484116 000003E8
+10484118 000003E8
+10484236 000003E8
+10484238 000003E8
+1048423E 000003F7
+10484386 000003E8
+10484388 000003E8
+104844C6 000003E8
+104844C8 000003E8
+104844E2 000003E8
+104844D4 0000FFFF
+104844D6 0000FFFF
+104739C4 0000FFFF
+10484614 0000FFFF
+
+// Always Locked On
+Author = libretro-database contributors / original PSP cheat authors
+00473220 00030080
+00000002 00000000
+
+// Ammo Cost
+Author = libretro-database contributors / original PSP cheat authors
+2051B8F8 00000000
+
+// AP 9999
+Author = libretro-database contributors / original PSP cheat authors
+204730D4 00009C39
+
+// Arm Unit L
+Author = libretro-database contributors / original PSP cheat authors
+1048FC88 000007D0
+
+// Arm Unit L: Blade Atk. Level
+Author = libretro-database contributors / original PSP cheat authors
+10473972 0000FFFF
+
+// Arm Unit L: Blade Bame Atk. Level
+Author = libretro-database contributors / original PSP cheat authors
+10473982 0000FFFF
+
+// Arm Unit L: Blade EX 0 Consumption
+Author = libretro-database contributors / original PSP cheat authors
+10473C44 00000000
+
+// Arm Unit L: Gun Inf. Bullet
+Author = libretro-database contributors / original PSP cheat authors
+1048FC88 000007D0
+
+// Arm Unit R
+Author = libretro-database contributors / original PSP cheat authors
+104739A8 000003E8
+
+// Arm Unit R: 12 Missile Lock
+Author = libretro-database contributors / original PSP cheat authors
+004739E6 0000000C
+
+// Arm Unit R: Heat
+Author = libretro-database contributors / original PSP cheat authors
+10484984 0000FFFF
+
+// Arm Unit R: Inf. Bullet
+Author = libretro-database contributors / original PSP cheat authors
+104739A8 270F270F
+
+// Arm Unit R: Lock On Max
+Author = libretro-database contributors / original PSP cheat authors
+004739CE 000000FF
+
+// Arm Unit R: Maximum Lock-On Range
+Author = libretro-database contributors / original PSP cheat authors
+004739DA 000000FF
+004739DE 000000FF
+
+// Arm Unit R: Maximum Lock-On Range Tracking Site
+Author = libretro-database contributors / original PSP cheat authors
+004739D2 000000FF
+004739D6 000000FF
+
+// Arm Unit R: Speed Max Missile Lock
+Author = libretro-database contributors / original PSP cheat authors
+004739E4 00000000
+
+// Back Unit L
+Author = libretro-database contributors / original PSP cheat authors
+10473A28 000003E8
+
+// Back Unit L: 12 Missile Lock
+Author = libretro-database contributors / original PSP cheat authors
+00473A66 0000000C
+
+// Back Unit L: Inf. Bullet
+Author = libretro-database contributors / original PSP cheat authors
+10473A28 000003E8
+
+// Back Unit L: Lock On
+Author = libretro-database contributors / original PSP cheat authors
+00473A4E 000000FF
+
+// Back Unit L: Maximum Lock-On Range
+Author = libretro-database contributors / original PSP cheat authors
+00473A5A 000000FF
+00473A5E 000000FF
+
+// Back Unit L: Maximum Lock-On Range Tracking Site
+Author = libretro-database contributors / original PSP cheat authors
+00473A52 000000FF
+00473A56 000000FF
+
+// Back Unit L: Speed Max Missile Lock
+Author = libretro-database contributors / original PSP cheat authors
+00473A64 00000000
+
+// Back Unit R
+Author = libretro-database contributors / original PSP cheat authors
+10473AA8 000003E8
+
+// Back Unit R: 12 Missile Lock
+Author = libretro-database contributors / original PSP cheat authors
+00473AE6 0000000C
+
+// Back Unit R: Inf. Bullet
+Author = libretro-database contributors / original PSP cheat authors
+10473AA8 000003E8
+
+// Back Unit R: Lock On
+Author = libretro-database contributors / original PSP cheat authors
+00473ACE 000000FF
+
+// Back Unit R: Maximum Lock-On Range
+Author = libretro-database contributors / original PSP cheat authors
+00473ADA 000000FF
+00473ADE 000000FF
+
+// Back Unit R: Maximum Lock-On Range Tracking Site
+Author = libretro-database contributors / original PSP cheat authors
+00473AD2 000000FF
+00473AD6 000000FF
+
+// Back Unit R: Speed Max Missile Lock
+Author = libretro-database contributors / original PSP cheat authors
+00473AE4 00000000
+
+// Booster Full Custom
+Author = libretro-database contributors / original PSP cheat authors
+10484614 0000FFFF
+
+// Booster Hojo Full Custom
+Author = libretro-database contributors / original PSP cheat authors
+10484AB6 0000FFFF
+00484BAC 00000000
+00484BB0 00000000
+
+// Bullet
+Author = libretro-database contributors / original PSP cheat authors
+2011A1F0 24840000
+
+// EN
+Author = libretro-database contributors / original PSP cheat authors
+201093E0 00C52821
+
+// Energy Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+204730D8 00006D60
+
+// Exceed Orbit Bullet
+Author = libretro-database contributors / original PSP cheat authors
+10491FF8 000003E7
+
+// Extension Bullet
+Author = libretro-database contributors / original PSP cheat authors
+10473BA8 000003E7
+
+// Extension Operation Time
+Author = libretro-database contributors / original PSP cheat authors
+00474B3C 00000000
+00474B38 00000078
+00474B34 000000F0
+
+// Extension Stealth Bullet
+Author = libretro-database contributors / original PSP cheat authors
+00474B30 00000064
+
+// Heat Mukou
+Author = libretro-database contributors / original PSP cheat authors
+201052E0 460E8381
+
+// High Gravity
+Author = libretro-database contributors / original PSP cheat authors
+0010B15C 00000000
+
+// High Gravity [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+0010B15C 00000002
+
+// High Gravity [Weightlessness]
+Author = libretro-database contributors / original PSP cheat authors
+0010B15C 00000005
+
+// Inside
+Author = libretro-database contributors / original PSP cheat authors
+10473B28 000003E8
+
+// Inside: 12 Missile Lock
+Author = libretro-database contributors / original PSP cheat authors
+00473A66 0000000C
+
+// Inside: Inf. Bullet
+Author = libretro-database contributors / original PSP cheat authors
+10473B28 000003E8
+
+// Inside: Lock On Max
+Author = libretro-database contributors / original PSP cheat authors
+10473B4E 000000FF
+
+// Inside: Maximum Lock-On Range
+Author = libretro-database contributors / original PSP cheat authors
+00473B5A 000000FF
+00473B5E 000000FF
+
+// Inside: Maximum Lock-On Range Tracking Site
+Author = libretro-database contributors / original PSP cheat authors
+00473B52 000000FF
+00473B56 000000FF
+
+// Inside: Speed Max Missile Lock
+Author = libretro-database contributors / original PSP cheat authors
+00473A64 00000000
+
+// Jikan Hyouji
+Author = libretro-database contributors / original PSP cheat authors
+2048FA90 000001F0
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+213A44A0 000F4240
+
+// Max Energy
+Author = libretro-database contributors / original PSP cheat authors
+204730D8 00006D60
+
+// Max PP
+Author = libretro-database contributors / original PSP cheat authors
+204730D4 00009C39
+
+// Mission Clear Rank S
+Author = libretro-database contributors / original PSP cheat authors
+20832658 05020000
+4083265C 00190001
+05020502 00000000
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+2083883C 3B9AC9FF
+
+// OP Parts
+Author = libretro-database contributors / original PSP cheat authors
+200938B8 AE000004
+2009389C 8E040004
+
+// Payload
+Author = libretro-database contributors / original PSP cheat authors
+1048423C 0000FFFF
+104844CE 0000FFFF
+104738E4 00000000
+104738DC 00000000
+104738E8 00000000
+10473CC0 00000000
+104840D0 00000000
+104841F0 00000000
+10484340 00000000
+10484480 00000000
+104845D0 00000000
+10484830 00000000
+10484940 00000000
+10484A50 00000000
+10484B60 00000000
+10484C80 00000000
+10484DA0 00000000
+10484EC0 00000000
+10484FD0 00000000
+
+// Repairing Cost
+Author = libretro-database contributors / original PSP cheat authors
+2051B8FC 00000000
+
+// Srot Shouhi 0
+Author = libretro-database contributors / original PSP cheat authors
+01270FA0 00000000
+
+// Time 0
+Author = libretro-database contributors / original PSP cheat authors
+102ECBFC 00000000
+1048FAB4 00000000
+1048FC54 00000000
+
+// Time 1 Fun
+Author = libretro-database contributors / original PSP cheat authors
+102ECBFC 000006FB
+1048FAB4 000006FB
+1048FC54 000006FB
+
+// Time Display
+Author = libretro-database contributors / original PSP cheat authors
+2048FA90 000001F0
+
+// Time Display [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2048FA90 00000000

@@ -1,5 +1,5 @@
 {
-  "batch": "consolidated-catalog",
+  "batch": "batch-011",
   "release": "cheat-catalog",
   "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
   "libretroCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
@@ -35,6 +35,14 @@
       "excluded": 0,
       "malformed": 0,
       "sha256": "F137E006C2C9AE05D98D3F54A093FDF4F301DBC790CC6C97A3C3A0094C650A06"
+    },
+    {
+      "serial": "NPJH-50044",
+      "sourceFile": "Metal Slug XX (PlayStation Store) [JP] [NPJH-50044].cht",
+      "blocks": 75,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "6DA883DA49E7C967AB268B5DBBF944EC1E0D16A1EC969AEC8EA96A6FCF7C78D9"
     },
     {
       "serial": "NPJH-50045",
@@ -75,6 +83,22 @@
       "excluded": 10,
       "malformed": 0,
       "sha256": "C81E2C4617E0CABD6CCBE171C93A927039826A2E399E735E9C7F15C2C54DA88C"
+    },
+    {
+      "serial": "NPJH-50316",
+      "sourceFile": "Criminal Girls (PlayStation Store) [JP] [NPJH-50316].cht",
+      "blocks": 69,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "AC8755080E2DEE1987CE34F72CFDE9E3708BDE2BE6B0424C2EFFDC432F1098F4"
+    },
+    {
+      "serial": "NPJH-50331",
+      "sourceFile": "Phantom Brave Portable (PlayStation Store) [JP] [NPJH-50331].cht",
+      "blocks": 71,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "8DCFDB8C58BE917AE4CEEBEAE9DDD2996C9E6020C929BFF48CD7BCBAB380D588"
     },
     {
       "serial": "NPJH-50332",
@@ -141,6 +165,14 @@
       "sha256": "7AE31F880048583942437110CBB807C41B624F6E0C9F0C929A6C57C5581603DC"
     },
     {
+      "serial": "NPJH-50459",
+      "sourceFile": "7th Dragon 2020 (PlayStation Store) [JP] [NPJH-50459].cht",
+      "blocks": 61,
+      "excluded": 10,
+      "malformed": 0,
+      "sha256": "24BF4BA3A200B5C0F686E6B2EF573BE7A45EA3EB1D414B72973A66A1A442735C"
+    },
+    {
       "serial": "NPJH-50473",
       "sourceFile": "Eiyuu Densetsu - Ao No Kiseki (PlayStation Store) [JP] [NPJH-50473].cht",
       "blocks": 240,
@@ -155,6 +187,14 @@
       "excluded": 13,
       "malformed": 0,
       "sha256": "C040977820F42F5A34564CCFC52CB58C89B79FE7B017D9B2E89533962733A2FA"
+    },
+    {
+      "serial": "NPJH-50530",
+      "sourceFile": "Shining Blade [JP] [NPJH-50530].cht",
+      "blocks": 70,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "275BB1AD89696ED6842AB942FDCA9E55CF0C351D3402411DDE1B93EA2D97CC26"
     },
     {
       "serial": "NPJH-50567",
@@ -213,6 +253,14 @@
       "sha256": "B04424780EB9DA3C2BEEE1149CD54D7D60BE0C788E44B1F4E827D10DF3FC3057"
     },
     {
+      "serial": "NPJH-50717",
+      "sourceFile": "Shining Ark [JP] [NPJH-50717].cht",
+      "blocks": 67,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "8E38A03F4F7AB61161D366E0C314E2E330E98A7FC7AE06FDA08C2415DC238503"
+    },
+    {
       "serial": "NPJH-50721",
       "sourceFile": "Frontier Gate Boost+ (v1.00-1.01) [JP] [NPJH-50721].cht",
       "blocks": 118,
@@ -269,12 +317,36 @@
       "sha256": "EC6E044F8802864223FFDA4B2648D570665BA007CAC563DE4E01066857F5888C"
     },
     {
+      "serial": "NPUH-10195",
+      "sourceFile": "Brandish - The Dark Revenant [US] [NPUH-10195].cht",
+      "blocks": 63,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "EC2AD72041D3121894D507600B18EF0D1C22655277B8E03BFD9E402FB550906C"
+    },
+    {
       "serial": "NPUH-10197",
       "sourceFile": "The Legend Of Heroes - Trails In The Sky - SC (Disc 2) [US] [NPUH-10197].cht",
       "blocks": 78,
       "excluded": 4,
       "malformed": 0,
       "sha256": "67902FF62A7AD2C82B9DB6AF1C518DD8AE44EFCD1DB55BDC11055D15F33CB412"
+    },
+    {
+      "serial": "NPUH-10198",
+      "sourceFile": "Summon Night 5 [USA] [NPUH-10198].cht",
+      "blocks": 65,
+      "excluded": 8,
+      "malformed": 0,
+      "sha256": "2C1F2B6C94A5702A3EE37B8FD7ADBB678000BE00D05C213E276F35DEE58B34C7"
+    },
+    {
+      "serial": "UCES-00001",
+      "sourceFile": "Wipeout Pure [EU] [UCES-00001].cht",
+      "blocks": 67,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "C6A2329CD383E859F4A5260F3AA0370FCA9AFD0EB0C9A5378BCAEE7F5D75831C"
     },
     {
       "serial": "UCES-00356",
@@ -315,6 +387,14 @@
       "excluded": 8,
       "malformed": 0,
       "sha256": "19EB8CA88A9013C2E972B849D47FBF626539F0EECB269E4FF2C17811197D5458"
+    },
+    {
+      "serial": "UCES-01312",
+      "sourceFile": "Fat Princess - Fistful Of Cake [EU] [UCES-01312].cht",
+      "blocks": 79,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "6450CCEB8B5C5FD60FB52F1DA394278112DB6D9BF0C1D61318C52AD8BEECC1AA"
     },
     {
       "serial": "UCES-01327",
@@ -557,6 +637,14 @@
       "sha256": "C39793D82F809437B6994C0747EFC73C4E934569A93E781D4137471E43D09DA5"
     },
     {
+      "serial": "ULES-00959",
+      "sourceFile": "Crazy Taxi - Fare Wars [EU] [ULES-00959].cht",
+      "blocks": 67,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "A03BF017FCD4247565381F615C22C028FF8B8C31BDD6DBC7BF25354669700212"
+    },
+    {
       "serial": "ULES-00981",
       "sourceFile": "Star Wars - The Force Unleashed [EU] [ULES-00981].cht",
       "blocks": 91,
@@ -661,6 +749,22 @@
       "sha256": "B2FF606DF8C2A95818FCCF11347274D58B6826084BF2D8B3F64A67EDEBE2FF38"
     },
     {
+      "serial": "ULES-01322",
+      "sourceFile": "FIFA 10 [EU] [ULES-01322].cht",
+      "blocks": 76,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "F11E59C27C3D8F1D5A9CD56C92C9BA4F5EA1E28128D3F463A4671CB32A6C0121"
+    },
+    {
+      "serial": "ULES-01330",
+      "sourceFile": "FIFA 10 [EU] [ULES-01330].cht",
+      "blocks": 68,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "D216DC4C6121A0736C4A0BF6940FD6C6A4864092032D67792A659C9AC2710026"
+    },
+    {
       "serial": "ULES-01347",
       "sourceFile": "Grand Theft Auto - Chinatown Wars [EU] [ULES-01347].cht",
       "blocks": 146,
@@ -707,6 +811,14 @@
       "excluded": 1,
       "malformed": 0,
       "sha256": "0CE026006714EFF29AB0C7DA5504234B9522B4CB7D852AE5C596E6F709D6AC73"
+    },
+    {
+      "serial": "ULES-01429",
+      "sourceFile": "Metal Slug XX [EU] [ULES-01429].cht",
+      "blocks": 67,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "9CB5766FB51817C4420E09C3A26A8846DB7E8D9FD7612563AA71A404F9D8D890"
     },
     {
       "serial": "ULES-01431",
@@ -869,12 +981,28 @@
       "sha256": "D3A2C138D08DC5816FAEAF4E5CF4902344EFBBA2E8C2AFDA02D686A6E7618816"
     },
     {
+      "serial": "ULJM-05440",
+      "sourceFile": "Fantasy Golf Pangya Portable [JP] [ULJM-05440].cht",
+      "blocks": 67,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "021441644B23A891254AAEDD8DFECB3FE208A766C4D637699A4652DB505B5726"
+    },
+    {
       "serial": "ULJM-05490",
       "sourceFile": "Blazing Souls - Accelate [JP] [ULJM-05490].cht",
       "blocks": 128,
       "excluded": 2,
       "malformed": 0,
       "sha256": "0EFFC45DEDED63C5BF2D8B1C09EA97B6E8E954543CDC436ACE4DFC707095260F"
+    },
+    {
+      "serial": "ULJM-05492",
+      "sourceFile": "Armored Core 3 Portable [JP] [ULJM-05492].cht",
+      "blocks": 68,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "C9B1E9564CF245AE67F4DCB68C1C300B2464DABD5CE30CBAC07C77F965B894F1"
     },
     {
       "serial": "ULJM-05493",
@@ -901,6 +1029,14 @@
       "sha256": "D3060A8FE0455B5CFAAC1E0898C0E8AC61C2EC3717FB24C43ED1E0B2B59623E2"
     },
     {
+      "serial": "ULJM-05524",
+      "sourceFile": "Shin Sangoku Musou 5 Special [JP] [ULJM-05524].cht",
+      "blocks": 70,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F9F294D1F14546BBE20314BC3A4BBC10D166A7F670BB021E706352959369664A"
+    },
+    {
       "serial": "ULJM-05552",
       "sourceFile": "Armored Core - Silent Line Portable [JP] [ULJM-05552].cht",
       "blocks": 49,
@@ -923,6 +1059,14 @@
       "excluded": 1,
       "malformed": 0,
       "sha256": "D107F20CD9DF95A109FFA42DDD56282C212BB1A58F26B1B38802997D20D3CCA9"
+    },
+    {
+      "serial": "ULJM-05611",
+      "sourceFile": "Armored Core - Last Raven Portable [JP] [ULJM-05611].cht",
+      "blocks": 71,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "0841E95D0B778BAC2DDC0AA1A7EC358A932E2D17463676FE3831DD99FB25DA2B"
     },
     {
       "serial": "ULJM-05637",
@@ -997,6 +1141,14 @@
       "sha256": "BD7E2BA9C9240A49A068F8D1929A6721D525731D95897373BA2182C2CD3B8F48"
     },
     {
+      "serial": "ULJM-06081",
+      "sourceFile": "Persona 2 - Eternal Punishment [JP] [ULJM-06081].cht",
+      "blocks": 69,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "3B89ADF1DD107EEF9656F129E43B7DE7E1BC37783327D7A5EA158921F721AD38"
+    },
+    {
       "serial": "ULJS-00048",
       "sourceFile": "Tekken - Dark Resurrection [JP] [ULJS-00048].cht",
       "blocks": 198,
@@ -1043,6 +1195,14 @@
       "excluded": 0,
       "malformed": 0,
       "sha256": "98FBB3F62E0490208455D1C1350B2FE69BC7CAB1F52F358951F92F2B9FC7EC3A"
+    },
+    {
+      "serial": "ULJS-00188",
+      "sourceFile": "Bokujou Monogatari - Sugar Mura To Minna No Negai [JP] [ULJS-00188].cht",
+      "blocks": 67,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "D735244F028E6AEB3A89A33969B2E4F3417396E5F759A757A2CD95310A38758A"
     },
     {
       "serial": "ULJS-00202",
@@ -1357,6 +1517,14 @@
       "sha256": "473784DA76DDC5C81722CAA5395590981996F682619C1A8D7E036EA42314588E"
     },
     {
+      "serial": "ULUS-10340",
+      "sourceFile": "N+ [US] [ULUS-10340].cht",
+      "blocks": 65,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "A570B05E7F69FFD55BBB9B950E8DD8E4680FD689EC0ED7FE61474E7310AD9251"
+    },
+    {
       "serial": "ULUS-10345",
       "sourceFile": "Star Wars - The Force Unleashed [US] [ULUS-10345].cht",
       "blocks": 87,
@@ -1397,6 +1565,14 @@
       "sha256": "1FDA1AB71570D780A7AE33CE0BC63B3BBD8A7C9E82F613576751708FDA5D7540"
     },
     {
+      "serial": "ULUS-10383",
+      "sourceFile": "Midnight Club - L.A. Remix [US] [ULUS-10383].cht",
+      "blocks": 70,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "D675B1FB4740173ED2964AC7079FA811A38DDAE6000F57E39FB298B18998E117"
+    },
+    {
       "serial": "ULUS-10390",
       "sourceFile": "Star Wars - Battlefront - Elite Squadron [US] [ULUS-10390].cht",
       "blocks": 230,
@@ -1411,6 +1587,22 @@
       "excluded": 18,
       "malformed": 1,
       "sha256": "82D58931852ADBDBC807CFD1E01CE92A19263DA46627533E02669B8C098DF8AA"
+    },
+    {
+      "serial": "ULUS-10400",
+      "sourceFile": "Crimson Gem Saga [US] [ULUS-10400].cht",
+      "blocks": 66,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "F5FBB05CB8E525F57D790302C76486AB668C9DC0F1F5CCA95375D3C0AB6B2188"
+    },
+    {
+      "serial": "ULUS-10409",
+      "sourceFile": "Guilty Gear XX Accent Core Plus [US] [ULUS-10409].cht",
+      "blocks": 73,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "D08C8F098EA483573ADADFDB36B909057AA9D7E01C82C2EBF72BC710B916B55E"
     },
     {
       "serial": "ULUS-10410",
@@ -1531,6 +1723,14 @@
       "excluded": 3,
       "malformed": 0,
       "sha256": "FB88B8F0B187BC66CF3D8FF531BDCCF3342453F95AE043BA36C8116035631E95"
+    },
+    {
+      "serial": "ULUS-10506",
+      "sourceFile": "Hexyz Force [US] [ULUS-10506].cht",
+      "blocks": 70,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "4E4BB79068681A2AA8376200E92F5E162D281699C278D73FBB3D6B1E2E8125E8"
     },
     {
       "serial": "ULUS-10511",

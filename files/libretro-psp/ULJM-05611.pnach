@@ -1,0 +1,427 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULJM-05611
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// [AP] HED Core Arm Leg
+Author = libretro-database contributors / original PSP cheat authors
+204399C4 00009C3B
+10344770 00009C3B
+103448B0 00009C3B
+10344A00 00009C3B
+10344B50 00009C3B
+
+// [Arm L] Atk.
+Author = libretro-database contributors / original PSP cheat authors
+103441A2 0000270F
+
+// [Arm L] Blade Range
+Author = libretro-database contributors / original PSP cheat authors
+20344588 42200000
+
+// [Arm L] Bullet
+Author = libretro-database contributors / original PSP cheat authors
+20344188 270F270F
+
+// [Arm L] Rapid
+Author = libretro-database contributors / original PSP cheat authors
+00344177 00000009
+20344178 00000001
+0034417B 00000000
+003441EE 00000000
+
+// [Arm L] Rock
+Author = libretro-database contributors / original PSP cheat authors
+203441B4 44960000
+203441B8 41000000
+203441BC 41000000
+203441C0 41000000
+203441C4 41000000
+203441C8 000C0000
+203441CC 000C0000
+
+// [Arm R] Atk.
+Author = libretro-database contributors / original PSP cheat authors
+10439C06 0000270F
+
+// [Arm R] Bullet
+Author = libretro-database contributors / original PSP cheat authors
+20439BEC 270F270F
+
+// [Arm R] Bullet
+Author = libretro-database contributors / original PSP cheat authors
+20439BEC 270F270F
+
+// [Arm R] Rapid
+Author = libretro-database contributors / original PSP cheat authors
+00439BDB 00000009
+20439BDC 00000001
+00439BDF 00000000
+00439C52 00000000
+
+// [Arm R] Rock
+Author = libretro-database contributors / original PSP cheat authors
+20439C18 44960000
+20439C1C 41000000
+20439C20 41000000
+20439C24 41000000
+20439C28 41000000
+20439C2C 000C0000
+20439C30 000C0000
+
+// [Back L] Atk.
+Author = libretro-database contributors / original PSP cheat authors
+10439C9E 0000270F
+
+// [Back L] Bullet
+Author = libretro-database contributors / original PSP cheat authors
+20439C84 270F270F
+
+// [Back L] Rapid
+Author = libretro-database contributors / original PSP cheat authors
+00439C73 00000009
+20439C74 00000001
+00439C77 00000000
+00439CEA 00000000
+
+// [Back L] Rock
+Author = libretro-database contributors / original PSP cheat authors
+20439CB0 44960000
+20439CB4 41000000
+20439CB8 41000000
+20439CBC 41000000
+20439CC0 41000000
+20439CC4 000C0000
+20439CC8 000C0000
+
+// [Back R] Atk.
+Author = libretro-database contributors / original PSP cheat authors
+10439D36 0000270F
+
+// [Back R] Bullet
+Author = libretro-database contributors / original PSP cheat authors
+20439D1C 270F270F
+
+// [Back R] Rapid
+Author = libretro-database contributors / original PSP cheat authors
+00439D0B 00000009
+20439D0C 00000001
+00439D82 00000000
+
+// [Back R] Rock
+Author = libretro-database contributors / original PSP cheat authors
+20439D48 44960000
+20439D4C 41000000
+20439D50 41000000
+20439D54 41000000
+20439D58 41000000
+20439D5C 000C0000
+20439D60 000C0000
+
+// [Def.&Edef.] HED Core Arm Leg
+Author = libretro-database contributors / original PSP cheat authors
+10344772 0000FFFF
+10344774 0000FFFF
+103448B2 0000FFFF
+103448B4 0000FFFF
+10344A02 0000FFFF
+10344A04 0000FFFF
+10344B52 0000FFFF
+10344B54 0000FFFF
+
+// [EO] Bullet
+Author = libretro-database contributors / original PSP cheat authors
+10343076 000003E7
+
+// [Ext.]
+Author = libretro-database contributors / original PSP cheat authors
+00439E3B 00000063
+20439E3C 00000001
+20439E40 00000007
+
+// [Ext.] ANT Missile
+Author = libretro-database contributors / original PSP cheat authors
+00345280 000000FF
+00345284 000000FA
+
+// [Ext.] Missile Bullet
+Author = libretro-database contributors / original PSP cheat authors
+20439E4C 270F270F
+
+// [Inside] Bullet
+Author = libretro-database contributors / original PSP cheat authors
+20439DB4 270F270F
+
+// 2P-AP
+Author = libretro-database contributors / original PSP cheat authors
+2043BFD4 00000000
+
+// A.Unit L Lock On 12
+Author = libretro-database contributors / original PSP cheat authors
+203441C8 000C0000
+203441CC 000C0000
+
+// A.Unit L Lock Range
+Author = libretro-database contributors / original PSP cheat authors
+203441B4 44960000
+203441B8 41000000
+203441BC 41000000
+203441C0 41000000
+203441C4 41000000
+
+// A.Unit R Lock On 12
+Author = libretro-database contributors / original PSP cheat authors
+20439D5C 000C0000
+20439D60 000C0000
+
+// A.Unit R Lock On 12 v2
+Author = libretro-database contributors / original PSP cheat authors
+20439C2C 000C0000
+20439C30 000C0000
+
+// A.Unit R Lock Range
+Author = libretro-database contributors / original PSP cheat authors
+20439D48 44960000
+20439D4C 41000000
+20439D50 41000000
+20439D54 41000000
+20439D58 41000000
+
+// A.Unit R Lock Range v2
+Author = libretro-database contributors / original PSP cheat authors
+20439C18 44960000
+20439C1C 41000000
+20439C20 41000000
+20439C24 41000000
+20439C28 41000000
+
+// AP
+Author = libretro-database contributors / original PSP cheat authors
+204399C4 00009C3A
+
+// AP 9999 (In Battle)
+Author = libretro-database contributors / original PSP cheat authors
+204399C4 00009C3C
+
+// AP Max
+Author = libretro-database contributors / original PSP cheat authors
+50439B4C 00000004
+004399C4 00000000
+
+// Boost Consumption Reduction
+Author = libretro-database contributors / original PSP cheat authors
+10344CA2 00000AF0
+10344CB0 000010CC
+
+// Boost Max
+Author = libretro-database contributors / original PSP cheat authors
+10344CA2 00000000
+10344CB0 00000000
+
+// Boost Max v2
+Author = libretro-database contributors / original PSP cheat authors
+5043BA2C 00000004
+0043BA28 00000000
+
+// Cooling
+Author = libretro-database contributors / original PSP cheat authors
+20345050 9C405DC0
+
+// Core System
+Author = libretro-database contributors / original PSP cheat authors
+003448D1 000000FF
+20344900 44960000
+
+// Credit
+Author = libretro-database contributors / original PSP cheat authors
+6078DB78 3B9AC9FF
+00020001 00000008
+
+// Credit Max
+Author = libretro-database contributors / original PSP cheat authors
+213AFE38 05F5E0FE
+
+// EN Recovery
+Author = libretro-database contributors / original PSP cheat authors
+20439EE8 0000FFFF
+2043BA28 00061A7C
+
+// Enemy AC Charge NG
+Author = libretro-database contributors / original PSP cheat authors
+1043E038 00000000
+
+// Enemy AC Self-Destruction
+Author = libretro-database contributors / original PSP cheat authors
+1043E042 FFFFFFFF
+
+// Enemy ECM Concentration Max
+Author = libretro-database contributors / original PSP cheat authors
+1040C226 0000270F
+
+// Energy Gauge Inf.
+Author = libretro-database contributors / original PSP cheat authors
+2043BA28 00061A7C
+
+// Enhanced Human v2
+Author = libretro-database contributors / original PSP cheat authors
+103902B4 0000FFFF
+
+// EO Inf.
+Author = libretro-database contributors / original PSP cheat authors
+00343076 000003E7
+
+// Fighting AP 9999
+Author = libretro-database contributors / original PSP cheat authors
+204399C4 00009C3C
+
+// Fighting Energy No Delete
+Author = libretro-database contributors / original PSP cheat authors
+2043BA28 00061A7C
+
+// Generator Enhancements
+Author = libretro-database contributors / original PSP cheat authors
+20344F40 9C404E20
+20344F44 0BB807D0
+
+// Grid Radar
+Author = libretro-database contributors / original PSP cheat authors
+00439AEF 00000003
+
+// HED System
+Author = libretro-database contributors / original PSP cheat authors
+20344778 018E03DE
+2034477C 1D030112
+20344780 44480000
+00344788 00000001
+2034478C FFFF0001
+00344790 00000001
+
+// Inf. L Arm
+Author = libretro-database contributors / original PSP cheat authors
+00344188 000003E7
+
+// Inf. L Shoulder
+Author = libretro-database contributors / original PSP cheat authors
+00439C84 000003E7
+
+// Inf. R Arm
+Author = libretro-database contributors / original PSP cheat authors
+00439BEC 000003E7
+
+// Inf. R Shoulder
+Author = libretro-database contributors / original PSP cheat authors
+00439D1C 000003E7
+
+// Money Inf.
+Author = libretro-database contributors / original PSP cheat authors
+214B5D48 0098967F
+
+// OB Inf.
+Author = libretro-database contributors / original PSP cheat authors
+00439E4C 000003E7
+
+// Payload
+Author = libretro-database contributors / original PSP cheat authors
+10344B5A 0000270F
+10439B50 00000000
+103448B8 0000270F
+
+// Plus (Enhanced Human)
+Author = libretro-database contributors / original PSP cheat authors
+00439AEF 00000003
+20344778 018E03DE
+2034477C 1D030112
+20344780 44480000
+00344788 00000001
+2034478C FFFF0001
+00344790 00000001
+20345050 4E203A98
+00439AEA 00000007
+10344CA2 00000BB8
+10344CB0 000010CC
+20344F40 88B832C8
+20344F44 0BB80BB8
+10344B6E 0000008C
+20344588 41700000
+10344B5A 0000270F
+10439B50 00000000
+103448B8 0000270F
+
+// Plus (Enhanced Human) v3
+Author = libretro-database contributors / original PSP cheat authors
+20344778 018E03DE
+2034477C 1D030112
+20344780 44480000
+00344788 00000001
+2034478C 7CCCDA3F
+00344790 00000001
+10344B5A 0000270F
+103448B8 0000270F
+20345050 9C406AA0
+10344B6E 00000096
+00439AEF 00000003
+00439AEA 00000007
+20344588 41700000
+003448D1 000000FF
+20344900 44960000
+20344F40 9C404E20
+10344CA2 00000490
+10344CB0 0000050C
+10344B6A 00000490
+10344B74 0000050C
+103473BA 00000490
+103473C4 0000050C
+1034726A 00000490
+10347274 0000050C
+103448C2 00000EC9
+103448C8 0000050C
+10346E72 00000EC9
+10346E78 0000050C
+20439B1C 0000080F
+00344DD5 00000063
+
+// Power
+Author = libretro-database contributors / original PSP cheat authors
+2043BA20 000055CC
+
+// Radiator
+Author = libretro-database contributors / original PSP cheat authors
+20345050 FFFFFFFF
+
+// Rifle
+Author = libretro-database contributors / original PSP cheat authors
+50439BEE 00000002
+00439BEC 00000000
+
+// S Missile
+Author = libretro-database contributors / original PSP cheat authors
+50439D1E 00000002
+00439D1C 00000000
+
+// Time
+Author = libretro-database contributors / original PSP cheat authors
+20454A80 0002BEF6
+
+// Total Credit Max
+Author = libretro-database contributors / original PSP cheat authors
+214B5D48 05F5E0FF
+
+// VR Arena Enemy AP1
+Author = libretro-database contributors / original PSP cheat authors
+2043BFD4 00000001
+
+// Warp System
+Author = libretro-database contributors / original PSP cheat authors
+D0000005 10001300
+504399D0 00000004
+00000630 00000000
+504399D4 00000004
+00000634 00000000
+504399D8 00000004
+00000638 00000000
+D0000005 10002300
+50000630 00000004
+004399D0 00000000
+50000634 00000004
+004399D4 00000000
+50000638 00000004
+004399D8 00000000

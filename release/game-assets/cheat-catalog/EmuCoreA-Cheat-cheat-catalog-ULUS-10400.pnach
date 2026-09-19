@@ -1,0 +1,382 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10400
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Cards
+Author = libretro-database contributors / original PSP cheat authors
+803ED663 001A0001
+00000063 00000000
+
+// All Char. HP
+Author = libretro-database contributors / original PSP cheat authors
+403EAAF8 000601D2
+0000270F 00000000
+403EAAFC 000601D2
+
+// All Elementals
+Author = libretro-database contributors / original PSP cheat authors
+803ED65D 00060001
+00000063 00000000
+
+// All Gems
+Author = libretro-database contributors / original PSP cheat authors
+803ED652 00070001
+00000063 00000000
+
+// All Items
+Author = libretro-database contributors / original PSP cheat authors
+803ED618 00650001
+00000063 00000000
+
+// All Medallions
+Author = libretro-database contributors / original PSP cheat authors
+803ED659 00040001
+00000063 00000000
+
+// Exp. Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+E0076B60 0000DEF4
+2000DEF4 0E20040B
+2000DEF8 46806B60
+2000102C 3C1B4000
+20001030 449BF000
+20001034 461E6302
+20001038 03E00008
+2000103C 460C6B00
+
+// Exp. Multiplier [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2000DEF4 46806B60
+2000DEF8 460C6B00
+
+// Full Armor
+Author = libretro-database contributors / original PSP cheat authors
+F0C31A07 058B6102
+D6CA6655 48FA8E91
+0D4DCCFA 2EC73C08
+9793B5B9 22ABE741
+11045703 A6F68483
+ED3635F4 4DE65270
+AF947E95 BB05E480
+0A3E084B 09E80000
+
+// Full Necklace
+Author = libretro-database contributors / original PSP cheat authors
+F024E007 A0EFA602
+D6CA6D55 48FA8591
+0D4DB3FA 2EC73C08
+17DB5439 3E6A04D4
+11D08303 A6F68483
+ED3635F4 4DE65270
+AF947E95 BB05E480
+0A3E084B 09E80000
+
+// Full Wide Arms
+Author = libretro-database contributors / original PSP cheat authors
+F0A2C807 6B6B6002
+D6CBF255 48FB1A91
+0D4DCDFA 2EC73C08
+A643F5E3 9AED8CB1
+11686B03 A6F18484
+ED3635F4 4DE65270
+AF947E95 BB05E480
+0A3E084B 09E80000
+
+// Full Wide ring
+Author = libretro-database contributors / original PSP cheat authors
+F0390C07 68CE0A02
+D7CA3454 49FADC90
+0D4DCCFA 2EC73C08
+661696EA 47E8A075
+11983B03 A6F18484
+ED3635F4 4DE65270
+AF947E95 BB05E480
+0A3E084B 09E80000
+
+// Full Wide shoes
+Author = libretro-database contributors / original PSP cheat authors
+F002F507 380D6E02
+D6CA3055 48FAD891
+0D4DCCFA 2EC73C08
+57B0EC72 02958B6C
+118DCF03 A6F18484
+ED3635F4 4DE65270
+AF947E95 BB05E480
+0A3E084B 09E80000
+
+// Hits 999
+Author = libretro-database contributors / original PSP cheat authors
+20CD6D50 000003E7
+
+// HP/MP
+Author = libretro-database contributors / original PSP cheat authors
+E008060C 00057B40
+20057B40 0E200410
+20001040 8E250090
+20001044 03E00008
+20001048 AE25060C
+20057CC8 0E200413
+2000104C 8E250094
+20001050 03E00008
+20001054 AE250610
+
+// HP/MP [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20057B40 8E25060C
+20057CC8 8E250610
+
+// Infinite Gold
+Author = libretro-database contributors / original PSP cheat authors
+203FDB18 0098967F
+
+// Infinite MP CH 1
+Author = libretro-database contributors / original PSP cheat authors
+10409E24 000003E7
+
+// Infinite MP CH 2
+Author = libretro-database contributors / original PSP cheat authors
+1040A56C 000003E7
+
+// Infinite MP CH 3
+Author = libretro-database contributors / original PSP cheat authors
+1040ACB4 000003E7
+
+// Infinite MP CH 4
+Author = libretro-database contributors / original PSP cheat authors
+1040B3FC 000003E7
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+1038F3F8 00000101
+2040A2FC 00952670
+
+// Leading Full Resistance
+Author = libretro-database contributors / original PSP cheat authors
+403EAB44 00060001
+000000FF 00000000
+
+// Leading Property 10000
+Author = libretro-database contributors / original PSP cheat authors
+403EAB00 00040001
+47C35000 00000000
+
+// Max HP/MP Role In The Whole 9999
+Author = libretro-database contributors / original PSP cheat authors
+403EAAF8 000601D2
+0000270F 00000000
+403EAAFC 000601D2
+
+// Max Level After One Fight
+Author = libretro-database contributors / original PSP cheat authors
+203EB0A4 0098967F
+
+// Max/Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+203FDB18 0098967F
+
+// Max/Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+203FDB1C 00007530
+
+// Movement Speed Mod
+Author = libretro-database contributors / original PSP cheat authors
+100AD150 00000009
+
+// Never Loose Consumables/Money
+Author = libretro-database contributors / original PSP cheat authors
+E00F0099 0003FC24
+2003FC24 0A200400
+2003FC28 3C070099
+20001000 00A0D82A
+20001004 13600002
+20001008 00852821
+2000100C 00802821
+20001010 0A20FF0B
+20001014 00000000
+2003FCA0 0E200406
+2003FCA4 82242BB8
+20001018 0200D82A
+2000101C 53600001
+20001020 00902021
+20001024 03E00008
+20001028 00000000
+
+// Never Loose Consumables/Money [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2003FC24 3C070099
+2003FC28 00852821
+2003FCA0 82242BB8
+2003FCA4 00902021
+
+// No Encounter 2 (L+X On, L+O Off)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10004100
+10000FF0 00000001
+D0000FF0 00000001
+2019E7A0 000000FF
+D0000001 10002100
+10000FF0 00000000
+2019E7A0 00000000
+
+// No Random Battles
+Author = libretro-database contributors / original PSP cheat authors
+E0010010 0004FD94
+2004FD94 34040008
+
+// No Random Battles [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2004FD94 8E440010
+
+// Over The Whole Value Of The Role Of Experience
+Author = libretro-database contributors / original PSP cheat authors
+403EB0A4 000601D2
+000F423F 00000000
+
+// Player 2 Full Resistance
+Author = libretro-database contributors / original PSP cheat authors
+403EB28C 00060001
+000000FF 00000000
+
+// Player 3 Full Resistance
+Author = libretro-database contributors / original PSP cheat authors
+403EB9D4 00060001
+000000FF 00000000
+
+// Player 4 Full Resistance
+Author = libretro-database contributors / original PSP cheat authors
+403EC11C 00060001
+000000FF 00000000
+
+// Prop 99 Does Not Contain The Whole Story
+Author = libretro-database contributors / original PSP cheat authors
+803ED618 00650001
+00000063 00000000
+
+// Acelora: All Res. Max
+Author = libretro-database contributors / original PSP cheat authors
+403ECFAC 00060001
+000000FF 00000000
+
+// Acelora: EP 999999
+Author = libretro-database contributors / original PSP cheat authors
+203ED50C 000F423F
+
+// Acelora: High Stats
+Author = libretro-database contributors / original PSP cheat authors
+403ECF68 00040001
+47C35000 00000000
+
+// Acelora: MP 999
+Author = libretro-database contributors / original PSP cheat authors
+203ED4E0 000003E7
+203ECF64 000003E7
+
+// Gelts: All Res. Max
+Author = libretro-database contributors / original PSP cheat authors
+403EC11C 00060001
+000000FF 00000000
+
+// Gelts: EP 999999
+Author = libretro-database contributors / original PSP cheat authors
+203EC67C 000F423F
+
+// Gelts: High Stats
+Author = libretro-database contributors / original PSP cheat authors
+403EC0D8 00040001
+47C35000 00000000
+
+// Gelts: MP 999
+Author = libretro-database contributors / original PSP cheat authors
+203EC650 000003E7
+203EC0D4 000003E7
+
+// Henson: All Res. Max
+Author = libretro-database contributors / original PSP cheat authors
+403EB9D4 00060001
+000000FF 00000000
+
+// Henson: EP 999999
+Author = libretro-database contributors / original PSP cheat authors
+203EBF34 000F423F
+
+// Henson: High Stats
+Author = libretro-database contributors / original PSP cheat authors
+403EB990 00040001
+47C35000 00000000
+
+// Henson: MP 999
+Author = libretro-database contributors / original PSP cheat authors
+203EBF08 000003E7
+203EB98C 000003E7
+
+// Killian: All Res. Max
+Author = libretro-database contributors / original PSP cheat authors
+403EAB44 00060001
+000000FF 00000000
+
+// Killian: Exp. 999999
+Author = libretro-database contributors / original PSP cheat authors
+203EB0A4 000F423F
+
+// Killian: High Stats
+Author = libretro-database contributors / original PSP cheat authors
+403EAB00 00040001
+47C35000 00000000
+
+// Killian: HP 9999
+Author = libretro-database contributors / original PSP cheat authors
+203EB074 0000270F
+20409E20 0000720F
+2040A568 0000270E
+
+// Killian: Max After 1 Fight
+Author = libretro-database contributors / original PSP cheat authors
+203EB0A4 0098967F
+
+// Killian: MP 999
+Author = libretro-database contributors / original PSP cheat authors
+203EAAFC 000003E7
+203EB078 000003E7
+
+// Lahduk: All Res. Max
+Author = libretro-database contributors / original PSP cheat authors
+403EC864 00060001
+000000FF 00000000
+
+// Lahduk: EP 999999
+Author = libretro-database contributors / original PSP cheat authors
+203ECDC4 000F423F
+
+// Lahduk: High Stats
+Author = libretro-database contributors / original PSP cheat authors
+403EC820 00040001
+47C35000 00000000
+
+// Lahduk: MP 999
+Author = libretro-database contributors / original PSP cheat authors
+203ECD98 000003E7
+203EC81C 000003E7
+
+// Spinel: All Res. Max
+Author = libretro-database contributors / original PSP cheat authors
+403EB28C 00060001
+000000FF 00000000
+
+// Spinal: EP 999999
+Author = libretro-database contributors / original PSP cheat authors
+203EB7EC 000F423F
+
+// Spinel: High Stats
+Author = libretro-database contributors / original PSP cheat authors
+403EB248 00040001
+47C35000 00000000
+
+// Spinal: HP 9999
+Author = libretro-database contributors / original PSP cheat authors
+20409E20 0000279E
+203EB240 0000270F
+
+// Spinal: MP 999
+Author = libretro-database contributors / original PSP cheat authors
+203EB7C0 000003E7
+203EB244 000003E7

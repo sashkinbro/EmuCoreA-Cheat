@@ -1,0 +1,347 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULJS-00188
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 96 Important Items
+Author = libretro-database contributors / original PSP cheat authors
+804D1DEE 001E0004
+00000060 00000000
+
+// 999999 G
+Author = libretro-database contributors / original PSP cheat authors
+204F22F8 000F423F
+
+// 999999999 G
+Author = libretro-database contributors / original PSP cheat authors
+204F22F8 3B9AC9FF
+
+// All MM & Villagers Feeling Max
+Author = libretro-database contributors / original PSP cheat authors
+804F23C8 001B000B
+1000015E 00000000
+
+// All Shipment 999 Pieces
+Author = libretro-database contributors / original PSP cheat authors
+8050A2FA 00260002
+100003E7 00000000
+
+// Auto Fishing
+Author = libretro-database contributors / original PSP cheat authors
+C0132FB4 00641821
+
+// Barn Infinite Feed
+Author = libretro-database contributors / original PSP cheat authors
+004D21EE 00000063
+
+// Big Protagonist
+Author = libretro-database contributors / original PSP cheat authors
+204F1B24 3FE00000
+
+// Character Open
+Author = libretro-database contributors / original PSP cheat authors
+804F23C4 001C0016
+00000003 00000000
+
+// Dash
+Author = libretro-database contributors / original PSP cheat authors
+200991E4 3C024300
+20099210 3C024300
+E0024000 0056E310
+200991E4 3C024240
+20099210 3C024240
+
+// Dog
+Author = libretro-database contributors / original PSP cheat authors
+004C50CE 000000DC
+
+// Fishing Record
+Author = libretro-database contributors / original PSP cheat authors
+8050A2DC 00030005
+1000270F 00000000
+
+// Hand Tool 30 Category
+Author = libretro-database contributors / original PSP cheat authors
+004D21EC 0000001E
+
+// Hand Tool 96 Items Tool 10
+Author = libretro-database contributors / original PSP cheat authors
+804D1CEE 000A0004
+00000060 00000000
+104D1CEC 00000047
+104D1CF0 00000048
+104D1CF4 00000049
+104D1CF8 00000050
+104D1CFC 00000051
+104D1D00 00000052
+104D1D04 00000053
+104D1D08 00000054
+104D1D0C 00000055
+104D1D10 000000FF
+
+// Handheld Props. 96
+Author = libretro-database contributors / original PSP cheat authors
+404D1CEC 001E0001
+00600047 00000001
+
+// Hirou 0 (Fatigue)
+Author = libretro-database contributors / original PSP cheat authors
+104F1BD6 00000000
+
+// Horse
+Author = libretro-database contributors / original PSP cheat authors
+004F7C4D 000000FF
+
+// Infinite 1st Slot Hold Item
+Author = libretro-database contributors / original PSP cheat authors
+004D1CEE 00000063
+
+// Infinite 2nd Slot Hold Item
+Author = libretro-database contributors / original PSP cheat authors
+004D1CF2 00000063
+
+// Infinite 3rd Slot Hold Item
+Author = libretro-database contributors / original PSP cheat authors
+004D1CF6 00000063
+
+// Infinite 4th Slot Hold Item
+Author = libretro-database contributors / original PSP cheat authors
+004D1CFA 00000063
+
+// Infinite All Hold Items
+Author = libretro-database contributors / original PSP cheat authors
+804D1CEE 001E0004
+00000063 00000000
+
+// Infinite Fridge Item
+Author = libretro-database contributors / original PSP cheat authors
+804D20EE 003C0004
+00000063 00000000
+
+// Infinite Fridge Item Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+004D20EE 00000063
+
+// Infinite Fridge Item Slot 2
+Author = libretro-database contributors / original PSP cheat authors
+004D20F2 00000063
+
+// Infinite Gold
+Author = libretro-database contributors / original PSP cheat authors
+204F22F8 3B9AC9FF
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+004F1BD6 00000000
+
+// Infinite Horse Event Bets
+Author = libretro-database contributors / original PSP cheat authors
+104DA0C0 000003E7
+104DA200 000003E7
+104DA340 000003E7
+104DA480 000003E7
+104EC658 000003E7
+1050BDFE 000003E7
+
+// Infinite Stamina
+Author = libretro-database contributors / original PSP cheat authors
+004F1BD2 00000064
+
+// Infinite Stamina [Off When Changing Map]
+Author = libretro-database contributors / original PSP cheat authors
+004F1BD2 00000064
+00AE9AA2 00000064
+00AECE1C 00000064
+00AECE1E 00000064
+017B8F74 00000064
+017B8FD8 00000064
+
+// Infinite Toolbox Hold Item
+Author = libretro-database contributors / original PSP cheat authors
+804D1EEE 003C0004
+00000063 00000000
+
+// Infinite Toolbox Hold Item Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+004D1EEE 00000063
+
+// Infinite Use Of Water Can
+Author = libretro-database contributors / original PSP cheat authors
+004D21F0 00000063
+
+// Installed 96 First
+Author = libretro-database contributors / original PSP cheat authors
+404D1BEC 001E0001
+00600000 00000001
+
+// Installed 96 Second
+Author = libretro-database contributors / original PSP cheat authors
+404D1BEC 001E0001
+0060001F 00000001
+
+// Installed 96 Third
+Author = libretro-database contributors / original PSP cheat authors
+404D1BEC 000A0001
+0060003D 00000001
+
+// Mod: Day
+Author = libretro-database contributors / original PSP cheat authors
+0050A2E0 00000001
+0050A2EA 00000001
+0050A2F4 00000001
+
+// Mod: Year/Month
+Author = libretro-database contributors / original PSP cheat authors
+1050A2DE 00000101
+1050A2E8 00000101
+1050A2F2 00000101
+
+// Money 999999
+Author = libretro-database contributors / original PSP cheat authors
+204F22F8 000F423F
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+204F22F8 3B9AC9FF
+
+// Money Max AFT Change
+Author = libretro-database contributors / original PSP cheat authors
+20098070 00000000
+
+// Month Change Fall
+Author = libretro-database contributors / original PSP cheat authors
+004B7E50 00000003
+
+// Month Change Spring
+Author = libretro-database contributors / original PSP cheat authors
+004B7E50 00000001
+
+// Month Change Summer
+Author = libretro-database contributors / original PSP cheat authors
+004B7E50 00000002
+
+// Month Change Wintter
+Author = libretro-database contributors / original PSP cheat authors
+004B7E50 00000004
+
+// No Tool Lost
+Author = libretro-database contributors / original PSP cheat authors
+C00463C8 00601021
+
+// Number
+Author = libretro-database contributors / original PSP cheat authors
+1050A2F6 00007FBC
+
+// Own Rod
+Author = libretro-database contributors / original PSP cheat authors
+C0132FB4 00641821
+
+// Principal Angular Displacement
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10004010
+504F1B40 0000000C
+00001010 00000000
+D0000001 10004040
+50001010 0000000C
+004F1B40 00000000
+
+// Props Items 96 (1st)
+Author = libretro-database contributors / original PSP cheat authors
+404D1EEC 003C0001
+00600000 00000001
+
+// Props Items 96 (2nd)
+Author = libretro-database contributors / original PSP cheat authors
+404D1EEC 002B0001
+0060003C 00000001
+404D1F94 00120001
+00600078 00000001
+
+// Props Items 96 (3rd)
+Author = libretro-database contributors / original PSP cheat authors
+404D1EEC 000F0001
+0060008A 00000001
+404D1F28 002D0001
+0060009A 00000001
+
+// Props Items 96 (4th)
+Author = libretro-database contributors / original PSP cheat authors
+404D1EEC 003C0001
+006000C7 00000001
+
+// Props Items 96 (5th)
+Author = libretro-database contributors / original PSP cheat authors
+404D1EEC 00180001
+00600103 00000001
+404D1F4C 000E0001
+0060011C 00000001
+404D1F80 00170001
+0060012B 00000001
+
+// Props Items 96 (6th)
+Author = libretro-database contributors / original PSP cheat authors
+404D1EEC 003C0001
+00600142 00000001
+
+// Props Items 96 (7th)
+Author = libretro-database contributors / original PSP cheat authors
+404D1EEC 003C0001
+0060017E 00000001
+
+// Props Items 96 (8th)
+Author = libretro-database contributors / original PSP cheat authors
+404D1EEC 003C0001
+006001BA 00000001
+
+// Props Items 96 (9th)
+Author = libretro-database contributors / original PSP cheat authors
+404D1EEC 00040001
+006001F6 00000001
+
+// Sales Record Max
+Author = libretro-database contributors / original PSP cheat authors
+8150A2FA 00260004
+000003E7 00000000
+
+// Size
+Author = libretro-database contributors / original PSP cheat authors
+1050A2DC 0000FFFF
+1050A2E6 0000FFFF
+1050A2F0 0000FFFF
+
+// Sky Change
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10002010
+204F4DFC 00100000
+D0000000 10002040
+204F4DFC 00000100
+
+// Stamina Kusakeiba
+Author = libretro-database contributors / original PSP cheat authors
+204D16A4 00030D40
+
+// Star Period 1
+Author = libretro-database contributors / original PSP cheat authors
+004B7E54 00000001
+
+// Tairyoku Not Lost (Physical Strength)
+Author = libretro-database contributors / original PSP cheat authors
+504F1BD4 00000002
+004F1BD2 00000000
+
+// Tool Immortality
+Author = libretro-database contributors / original PSP cheat authors
+C008653C 00601023
+
+// Watering Pot Full
+Author = libretro-database contributors / original PSP cheat authors
+004D21F0 00000063
+
+// X+Jouge Time
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10004010
+30500000 004B7E48
+000001C2 00000000
+30500000 004F4DFC
+D0000003 10004040
+30600000 004B7E48
+30600000 004F4DFC

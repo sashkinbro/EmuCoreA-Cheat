@@ -1,0 +1,425 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10506
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 999 Max Stats (Griek)
+Author = libretro-database contributors / original PSP cheat authors
+1034899C 000003E7
+1034899E 000003E7
+103489A0 000003E7
+103489A2 000003E7
+103489A4 000003E7
+103489A6 000003E7
+
+// 999 Max Stats (Levant)
+Author = libretro-database contributors / original PSP cheat authors
+103487F8 000003E7
+103487FA 000003E7
+103487FC 000003E7
+103487FE 000003E7
+10348800 000003E7
+10348802 000003E7
+
+// 999 PR (Irene)
+Author = libretro-database contributors / original PSP cheat authors
+10348944 000003E7
+10348942 000003E7
+
+// 999 RP (Axel)
+Author = libretro-database contributors / original PSP cheat authors
+10348A40 000003E7
+10348A3E 000003E7
+
+// 999 RP (Cecilia)
+Author = libretro-database contributors / original PSP cheat authors
+103487A0 000003E7
+1034879E 000003E7
+
+// 999 RP (Griek)
+Author = libretro-database contributors / original PSP cheat authors
+10348998 000003E7
+10348996 000003E7
+
+// 999 Rp (Ignus)
+Author = libretro-database contributors / original PSP cheat authors
+103489EC 000003E7
+103489EA 000003E7
+
+// 999 RP (Levant)
+Author = libretro-database contributors / original PSP cheat authors
+103487F4 000003E7
+103487F2 000003E7
+
+// 999 RP (Rafael)
+Author = libretro-database contributors / original PSP cheat authors
+10348848 000003E7
+10348846 000003E7
+
+// 999 Stats (Axel)
+Author = libretro-database contributors / original PSP cheat authors
+10348A44 000003E7
+10348A46 000003E7
+10348A48 000003E7
+10348A4A 000003E7
+10348A4C 000003E7
+
+// 999 Stats (Cecilia)
+Author = libretro-database contributors / original PSP cheat authors
+103487A4 000003E7
+103487A6 000003E7
+103487A8 000003E7
+103487AA 000003E7
+103487AC 000003E7
+103487AE 000003E7
+
+// 999 Stats (Griek)
+Author = libretro-database contributors / original PSP cheat authors
+1034899C 000003E7
+1034899E 000003E7
+103489A0 000003E7
+103489A2 000003E7
+103489A4 000003E7
+103489A6 000003E7
+
+// 999 Stats (Ignus)
+Author = libretro-database contributors / original PSP cheat authors
+103489F0 000003E7
+103489F2 000003E7
+103489F4 000003E7
+103489F6 000003E7
+103489F8 000003E7
+103489FA 000003E7
+
+// 999 Stats (Irene)
+Author = libretro-database contributors / original PSP cheat authors
+10348948 000003E7
+1034894A 000003E7
+1034894C 000003E7
+1034894E 000003E7
+10348950 000003E7
+10348952 000003E7
+
+// 999 Stats (Levant)
+Author = libretro-database contributors / original PSP cheat authors
+103487F8 000003E7
+103487FA 000003E7
+103487FC 000003E7
+103487FE 000003E7
+10348800 000003E7
+10348802 000003E7
+
+// 999 Stats (Rafael)
+Author = libretro-database contributors / original PSP cheat authors
+1034884C 000003E7
+1034884E 000003E7
+10348850 000003E7
+10348852 000003E7
+10348854 000003E7
+10348856 000003E7
+
+// 999% Charge (In-Battle)
+Author = libretro-database contributors / original PSP cheat authors
+10DD9340 00000383
+10DD938C 00000383
+
+// 9999 HP (Axel)
+Author = libretro-database contributors / original PSP cheat authors
+10348A3A 0000270F
+10348A38 0000270F
+
+// 9999 HP (Cecilia)
+Author = libretro-database contributors / original PSP cheat authors
+10348798 0000270F
+1034879A 0000270F
+
+// 9999 HP (Griek)
+Author = libretro-database contributors / original PSP cheat authors
+10348992 0000270F
+10348990 0000270F
+
+// 9999 HP (Ignus)
+Author = libretro-database contributors / original PSP cheat authors
+103489E4 0000270F
+103489E6 0000270F
+
+// 9999 HP (Irene)
+Author = libretro-database contributors / original PSP cheat authors
+1034893C 0000270F
+1034893E 0000270F
+
+// 9999 HP (Levant)
+Author = libretro-database contributors / original PSP cheat authors
+103487EE 0000270F
+103487EC 0000270F
+
+// 9999 HP (Rafael)
+Author = libretro-database contributors / original PSP cheat authors
+10348842 0000270F
+10348840 0000270F
+
+// 9999 HP & RP (Griek)
+Author = libretro-database contributors / original PSP cheat authors
+10348992 0000270F
+
+// 9999 HP & RP (Ciel)
+Author = libretro-database contributors / original PSP cheat authors
+103488EA 0000270F
+103488F0 0000270F
+10348998 0000270F
+
+// 9999 HP & RP (Irene)
+Author = libretro-database contributors / original PSP cheat authors
+1034893E 0000270F
+10348944 0000270F
+
+// 9999 HP & RP (Levant)
+Author = libretro-database contributors / original PSP cheat authors
+103487EE 0000270F
+103487F4 0000270F
+
+// 99999 FP
+Author = libretro-database contributors / original PSP cheat authors
+20348744 0001869F
+
+// All Character Atk. Pow. 9999
+Author = libretro-database contributors / original PSP cheat authors
+10348A86 0000270F
+10348AFE 0000270F
+10348B4E 0000270F
+10348AD6 0000270F
+
+// All Item 99
+Author = libretro-database contributors / original PSP cheat authors
+8034910A 01780008
+00000063 00000000
+
+// Atk. Pow. 9999 (Ciel)
+Author = libretro-database contributors / original PSP cheat authors
+10348AD6 0000270F
+
+// Atk. Pow. 9999 (Griek)
+Author = libretro-database contributors / original PSP cheat authors
+10348B4E 0000270F
+
+// Atk. Pow. 9999 (Irene)
+Author = libretro-database contributors / original PSP cheat authors
+10348AFE 0000270F
+
+// Atk. Pow. 9999 (Levant)
+Author = libretro-database contributors / original PSP cheat authors
+10348A86 0000270F
+
+// Exp. & FP 100k After Battle
+Author = libretro-database contributors / original PSP cheat authors
+20DD939C 000186A0
+20DD93E0 000186A0
+
+// Experience Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+20021F4C 0A200800
+20021F50 8E240054
+20002000 00042040
+20002004 0A2087D5
+20002008 00A42021
+
+// Experience Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20021F4C 0A200800
+20021F50 8E240054
+20002000 00042080
+20002004 0A2087D5
+20002008 00A42021
+
+// Experience Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+20021F4C 0A200800
+20021F50 8E240054
+20002000 000420C0
+20002004 0A2087D5
+20002008 00A42021
+
+// Experience Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+20021F4C 0A200800
+20021F50 8E240054
+20002000 00042100
+20002004 0A2087D5
+20002008 00A42021
+
+// Experience Multiplier x32
+Author = libretro-database contributors / original PSP cheat authors
+20021F4C 0A200800
+20021F50 8E240054
+20002000 00042140
+20002004 0A2087D5
+20002008 00A42021
+
+// Experience Multiplier x64
+Author = libretro-database contributors / original PSP cheat authors
+20021F4C 0A200800
+20021F50 8E240054
+20002000 00042180
+20002004 0A2087D5
+20002008 00A42021
+
+// Experience Multiplier x128
+Author = libretro-database contributors / original PSP cheat authors
+20021F4C 0A200800
+20021F50 8E240054
+20002000 000421C0
+20002004 0A2087D5
+20002008 00A42021
+
+// Experience Multiplier x256
+Author = libretro-database contributors / original PSP cheat authors
+20021F4C 0A200800
+20021F50 8E240054
+20002000 00042200
+20002004 0A2087D5
+20002008 00A42021
+
+// Experience Multiplier x512
+Author = libretro-database contributors / original PSP cheat authors
+20021F4C 0A200800
+20021F50 8E240054
+20002000 00042240
+20002004 0A2087D5
+20002008 00A42021
+
+// Experience Multiplier x1024
+Author = libretro-database contributors / original PSP cheat authors
+20021F4C 0A200800
+20021F50 8E240054
+20002000 00042280
+20002004 0A2087D5
+20002008 00A42021
+
+// Experience Multiplier x2048
+Author = libretro-database contributors / original PSP cheat authors
+20021F4C 0A200800
+20021F50 8E240054
+20002000 000422C0
+20002004 0A2087D5
+20002008 00A42021
+
+// Gain 10k FP
+Author = libretro-database contributors / original PSP cheat authors
+10DDD3E0 0000270F
+
+// Gain 999k Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20DD939C 000F423F
+
+// Get Item For Max
+Author = libretro-database contributors / original PSP cheat authors
+2000AA7C 00000000
+2000AADC 34050063
+
+// Have All Items On Check Items Menu
+Author = libretro-database contributors / original PSP cheat authors
+2008F2EC 0A20080C
+20002030 34100063
+20002034 0A223CBD
+20002038 A6300002
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+20026878 0A200803
+2000200C 8C850014
+20002010 0A209A20
+20002014 AC850010
+
+// Infinite RP
+Author = libretro-database contributors / original PSP cheat authors
+20026E8C 0A200806
+20026E90 8EF6001C
+20002018 AEF60018
+2000201C 0A209BA6
+20002020 0016B825
+
+// Infinite Weapon Durability
+Author = libretro-database contributors / original PSP cheat authors
+20022464 00062025
+
+// Max Force Burst
+Author = libretro-database contributors / original PSP cheat authors
+20DD9FB0 43960000
+10DD9FB2 00004396
+10DD9398 0000012C
+
+// Max Force Burst v2
+Author = libretro-database contributors / original PSP cheat authors
+20027480 0A200809
+20002024 3405012C
+20002028 0A209D22
+2000202C A6651418
+
+// Max Stats: Cecilia
+Author = libretro-database contributors / original PSP cheat authors
+203487A4 03E703E7
+203487A8 03E703E7
+203487AC 03E703E7
+
+// Max Stats: Griek
+Author = libretro-database contributors / original PSP cheat authors
+2034899C 03E703E7
+203489A0 03E703E7
+203489A4 03E703E7
+
+// Max Stats: Irena
+Author = libretro-database contributors / original PSP cheat authors
+20348948 03E703E7
+2034894C 03E703E7
+20348950 03E703E7
+
+// Max Stats: Levant
+Author = libretro-database contributors / original PSP cheat authors
+203487F8 03E703E7
+203487FC 03E703E7
+20348800 03E703E7
+
+// Max Stats: Rafael
+Author = libretro-database contributors / original PSP cheat authors
+2034884C 03E703E7
+20348850 03E703E7
+20348854 03E703E7
+
+// Max FP
+Author = libretro-database contributors / original PSP cheat authors
+20348744 0001869F
+
+// Quick Exp. Gain
+Author = libretro-database contributors / original PSP cheat authors
+20DDD39C 000F423F
+
+// Quick FP Gain
+Author = libretro-database contributors / original PSP cheat authors
+20DDD3E0 0000270F
+
+// Quick Level Up (Ciel)
+Author = libretro-database contributors / original PSP cheat authors
+203488E0 0000000A
+
+// Quick Level Up (Griek)
+Author = libretro-database contributors / original PSP cheat authors
+10348988 0000000A
+20348988 0000000A
+
+// Quick Level Up (Irene)
+Author = libretro-database contributors / original PSP cheat authors
+00348934 0000000A
+10348934 0000000A
+20348934 0000000A
+
+// Quick Level Up (Levant)
+Author = libretro-database contributors / original PSP cheat authors
+203487E4 0000000A
+103487E4 0000000A
+
+// Walk Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+00010F30 34050013
+
+// Walk Through Walls [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+00010F30 30A50004

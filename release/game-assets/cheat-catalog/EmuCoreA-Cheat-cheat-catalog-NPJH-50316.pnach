@@ -1,0 +1,367 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPJH-50316
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Heal S [99]
+Author = libretro-database contributors / original PSP cheat authors
+21683920 00000063
+
+// Break Ticket 99
+Author = libretro-database contributors / original PSP cheat authors
+01683920 00000063
+
+// CG All From 2ch
+Author = libretro-database contributors / original PSP cheat authors
+21662F18 FFFFFFFF
+21662F1C FFFFFFFF
+01662F20 000000FF
+01662F3C 00000001
+
+// Credit 50000
+Author = libretro-database contributors / original PSP cheat authors
+11693FF8 0000C350
+
+// Does Not Meet The Enemy
+Author = libretro-database contributors / original PSP cheat authors
+C00E4770 00000000
+
+// Electoric L Gage Up
+Author = libretro-database contributors / original PSP cheat authors
+20040EB8 10E00006
+D0000000 10000100
+20040EB8 1000000F
+
+// Electoric Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+2004120C 24060001
+
+// Exp. 2x
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8E260170
+20002004 00052840
+20002008 0A2285C1
+200A16FC 0A200800
+
+// Exp. 4x
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8E260170
+20002004 00052880
+20002008 0A2285C1
+200A16FC 0A200800
+
+// Exp. 8x
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8E260170
+20002004 000528C0
+20002008 0A2285C1
+200A16FC 0A200800
+
+// Exp. 16x
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8E260170
+20002004 00052900
+20002008 0A2285C1
+200A16FC 0A200800
+
+// Exp. 32x
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8E260170
+20002004 00052940
+20002008 0A2285C1
+200A16FC 0A200800
+
+// Exp. 64x
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8E260170
+20002004 00052980
+20002008 0A2285C1
+200A16FC 0A200800
+
+// Heal S [99]
+Author = libretro-database contributors / original PSP cheat authors
+21683910 00000063
+
+// Hold L Key HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+200A4898 AE4800F0
+D0000000 10000100
+200A4898 00000000
+
+// In Fight Infinite Use Stage Prop.
+Author = libretro-database contributors / original PSP cheat authors
+C00B3B9C 00000000
+
+// Infinite escapes From 2ch
+Author = libretro-database contributors / original PSP cheat authors
+C009FAB0 00000000
+
+// Item All
+Author = libretro-database contributors / original PSP cheat authors
+21683908 00000026
+4168390C 00260002
+00000000 00000001
+41683910 00260002
+0000000F 00000000
+41683B0C 00260001
+2168390C 00000008
+
+// Item Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200EAB68 00000000
+
+// Momimimi L Gage Up
+Author = libretro-database contributors / original PSP cheat authors
+200417AC 10600020
+D0000000 10000100
+200417AC 10000004
+
+// Momimomi Time Over Success
+Author = libretro-database contributors / original PSP cheat authors
+2004193C 34060003
+20041944 10000009
+
+// MP No Dec.
+Author = libretro-database contributors / original PSP cheat authors
+C00A4FB0 00000000
+
+// Nurunuru L Success
+Author = libretro-database contributors / original PSP cheat authors
+2004016C 14A60051
+D0000000 10000100
+2004016C 00000000
+
+// Nurunuru Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+200403DC 24060001
+
+// OP 999999
+Author = libretro-database contributors / original PSP cheat authors
+21693FF8 000F423F
+
+// OP Max
+Author = libretro-database contributors / original PSP cheat authors
+21693FF8 000F423F
+
+// Oshioki Auto (Punish Mode Auto Play) From 2ch
+Author = libretro-database contributors / original PSP cheat authors
+2003DF94 24010003
+2003DFB8 A4C1E06C
+200403E4 24010003
+20040408 A4A1E06C
+20040D20 24010003
+20040D74 A481E06C
+2004121C 10000004
+2004128C 24060003
+20041290 10000009
+20041900 10000004
+2004193C 24060003
+20041944 10000009
+
+// Revive S [99]
+Author = libretro-database contributors / original PSP cheat authors
+21683918 00000063
+
+// Sawasawa All Range
+Author = libretro-database contributors / original PSP cheat authors
+20040B64 00000000
+
+// Sawasawa Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+20040D18 24060001
+
+// Spanking Very Good
+Author = libretro-database contributors / original PSP cheat authors
+2003DEAC 24020003
+
+// Spnking Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+2003DF8C 24060001
+
+// The Stage Prop Does Not Reduce
+Author = libretro-database contributors / original PSP cheat authors
+C00EAB68 24840000
+
+// The Whole Staff PostWar Must Promote
+Author = libretro-database contributors / original PSP cheat authors
+21683D58 00000000
+21683D5C 00000001
+21686254 00000000
+21686258 00000001
+21688750 00000000
+21688754 00000001
+2168AC4C 00000000
+2168AC50 00000001
+2168D148 00000000
+2168D14C 00000001
+2168F644 00000000
+2168F648 00000001
+21691B40 00000000
+21691B44 00000001
+
+// Alice: HP
+Author = libretro-database contributors / original PSP cheat authors
+1168875C 000003E7
+11688760 000003E7
+
+// Alice: Lv.
+Author = libretro-database contributors / original PSP cheat authors
+01688749 00000063
+
+// Alice: MP
+Author = libretro-database contributors / original PSP cheat authors
+11688764 000003E7
+11688768 000003E7
+
+// Alice: PostWar Must Promote
+Author = libretro-database contributors / original PSP cheat authors
+21688750 00000000
+21688754 00000001
+
+// Alice: Various Generic Attribute
+Author = libretro-database contributors / original PSP cheat authors
+81688774 00040001
+100003E7 00000000
+
+// Kisaragi: HP
+Author = libretro-database contributors / original PSP cheat authors
+11683D64 000003E7
+11683D68 000003E7
+
+// Kisaragi: Lv.
+Author = libretro-database contributors / original PSP cheat authors
+01683D51 00000063
+
+// Kisaragi: MP
+Author = libretro-database contributors / original PSP cheat authors
+11683D6C 000003E7
+11683D70 000003E7
+
+// Kisaragi: PostWar Must Promote
+Author = libretro-database contributors / original PSP cheat authors
+21683D58 00000000
+21683D5C 00000001
+
+// Kisaragi: Various Generic Attribute
+Author = libretro-database contributors / original PSP cheat authors
+81683D7C 00040001
+100003E7 00000000
+
+// Ran: HP
+Author = libretro-database contributors / original PSP cheat authors
+11686260 000003E7
+11686264 000003E7
+
+// Ran: Lv.
+Author = libretro-database contributors / original PSP cheat authors
+0168624D 00000063
+
+// Ran: MP
+Author = libretro-database contributors / original PSP cheat authors
+11686268 000003E7
+1168626C 000003E7
+
+// Ran: PostWar Must Promote
+Author = libretro-database contributors / original PSP cheat authors
+21686254 00000000
+21686258 00000001
+
+// Ran: Various Generic Attribute
+Author = libretro-database contributors / original PSP cheat authors
+81686278 00040001
+100003E7 00000000
+
+// Sako: HP
+Author = libretro-database contributors / original PSP cheat authors
+1168D154 000003E7
+1168D158 000003E7
+
+// Sako: Lv.
+Author = libretro-database contributors / original PSP cheat authors
+0168D141 00000063
+
+// Sako: MP
+Author = libretro-database contributors / original PSP cheat authors
+1168D15C 000003E7
+1168D160 000003E7
+
+// Sako: PostWar Must Promote
+Author = libretro-database contributors / original PSP cheat authors
+2168D148 00000000
+2168D14C 00000001
+
+// Sako: Various Generic Attribute
+Author = libretro-database contributors / original PSP cheat authors
+8168D16C 00040001
+100003E7 00000000
+
+// Shin: HP
+Author = libretro-database contributors / original PSP cheat authors
+11691B4C 000003E7
+11691B50 000003E7
+
+// Shin: Lv.
+Author = libretro-database contributors / original PSP cheat authors
+01691B39 00000063
+
+// Shin: MP
+Author = libretro-database contributors / original PSP cheat authors
+11691B54 000003E7
+11691B58 000003E7
+
+// Shin: PostWar Must Promote
+Author = libretro-database contributors / original PSP cheat authors
+21691B40 00000000
+21691B44 00000001
+
+// Shin: Various Generic Attribute
+Author = libretro-database contributors / original PSP cheat authors
+81691B64 00040001
+100003E7 00000000
+
+// Tomoe: HP
+Author = libretro-database contributors / original PSP cheat authors
+1168AC58 000003E7
+1168AC5C 000003E7
+
+// Tomoe: Lv.
+Author = libretro-database contributors / original PSP cheat authors
+0168AC45 00000063
+
+// Tomoe: MP
+Author = libretro-database contributors / original PSP cheat authors
+1168AC60 000003E7
+1168AC64 000003E7
+
+// Tomoe: PostWar Must Promote
+Author = libretro-database contributors / original PSP cheat authors
+2168AC4C 00000000
+2168AC50 00000001
+
+// Tomoe: Various Generic Attribute
+Author = libretro-database contributors / original PSP cheat authors
+8168AC70 00040001
+100003E7 00000000
+
+// Yuko: HP
+Author = libretro-database contributors / original PSP cheat authors
+1168F650 000003E7
+1168F654 000003E7
+
+// Yuko: Lv.
+Author = libretro-database contributors / original PSP cheat authors
+0168F63D 00000063
+
+// Yuko: MP
+Author = libretro-database contributors / original PSP cheat authors
+1168F658 000003E7
+1168F65C 000003E7
+
+// Yuko: PostWar Must Promote
+Author = libretro-database contributors / original PSP cheat authors
+2168F644 00000000
+2168F648 00000001
+
+// Yuko: Various Generic Attribute
+Author = libretro-database contributors / original PSP cheat authors
+8168F668 00040001
+100003E7 00000000

@@ -1,0 +1,427 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10409
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1P Any Hit Into Dust Attack
+Author = libretro-database contributors / original PSP cheat authors
+0093D0E1 000000FF
+
+// 1P Attack Damage Mod (00-FF)
+Author = libretro-database contributors / original PSP cheat authors
+0093D0E6 000000FF
+0042FF84 000000FF
+
+// 1P Auto Guard
+Author = libretro-database contributors / original PSP cheat authors
+1093D02A 0000400F
+0042FFAC 00000001
+
+// Untitled cheat 3
+Author = libretro-database contributors / original PSP cheat authors
+0046BB58 00000017
+
+// Untitled cheat 4
+Author = libretro-database contributors / original PSP cheat authors
+00430590 00000017
+
+// Untitled cheat 5
+Author = libretro-database contributors / original PSP cheat authors
+00430594 00000017
+
+// Untitled cheat 6
+Author = libretro-database contributors / original PSP cheat authors
+00430598 00000017
+
+// Untitled cheat 7
+Author = libretro-database contributors / original PSP cheat authors
+004305C0 00000001
+004305C4 00000001
+004305C8 00000001
+
+// Untitled cheat 8
+Author = libretro-database contributors / original PSP cheat authors
+004305CC 00000001
+004305D0 00000001
+004305D4 00000001
+
+// 1P Damage 1 Hit Destroy [R]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000200
+0093D0E3 000000FF
+
+// 1P Damage Effect
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10004000
+0093D0E2 00000008
+D0000000 10002000
+0093D0E2 00000004
+D0000000 10008000
+0093D0E2 00000009
+D0000000 10001000
+0093D0E2 00000005
+D0000000 10000200
+0093D0E2 00000002
+
+// 1P Defence Mod (00-14/FF)
+Author = libretro-database contributors / original PSP cheat authors
+0042FF88 00000014
+
+// 1P Extra Cancels
+Author = libretro-database contributors / original PSP cheat authors
+0046BBF5 000000FF
+0046BBF6 000000FF
+D0000000 10002000
+0046BBF4 000000FF
+D0000000 10004000
+
+// 1P Jump Cancel [Down Then Up]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000040
+0093D036 000000FF
+0093D035 00000012
+
+// 1P Kizetsu/Easy Dizzy
+Author = libretro-database contributors / original PSP cheat authors
+004306F4 00000001
+
+// 1P Max Burst
+Author = libretro-database contributors / original PSP cheat authors
+1046BC74 00003AC1
+0046BC76 00000001
+0046BC77 00000000
+
+// 1P Max Health
+Author = libretro-database contributors / original PSP cheat authors
+1093D01E 000001A4
+
+// 1P Max Tension
+Author = libretro-database contributors / original PSP cheat authors
+1046BB7C 00002710
+
+// 1P More Extra Cancels
+Author = libretro-database contributors / original PSP cheat authors
+0093D0F8 00000000
+0093D0F9 00000000
+0093D02B 000000FF
+
+// 1P Recovery
+Author = libretro-database contributors / original PSP cheat authors
+0042FF90 00000002
+0042FF94 000000FF
+0042FFA0 00000002
+0042FFA8 000000FF
+0042FFD0 00000001
+
+// 1P Recovery Flash [R+X]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10004200
+0093D039 00000008
+
+// 1P Shadow / Gold
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000081
+0046BA0C 00000013
+0046BAE8 00000002
+D0000000 10000021
+0046BA0C 0000000E
+0046BAE8 00000001
+
+// 1P Shin Roman Cancel [L]
+Author = libretro-database contributors / original PSP cheat authors
+0093D034 000000FF
+D0000000 10000100
+0093D035 00000012
+0093D0E0 00000005
+0042FFE4 00000001
+0042FFE8 00000001
+0042FFF0 00000001
+
+// 1P SP / EX
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 1000C040
+0046BAF0 00000000
+D0000000 10003040
+0046BAF0 00000001
+
+// 1P Speed Mod (00-FF)
+Author = libretro-database contributors / original PSP cheat authors
+0042FF8C 00000014
+
+// 1P Super Jump & Dash
+Author = libretro-database contributors / original PSP cheat authors
+0046BBEC 00000001
+0046BBED 00000001
+0046BB86 00000001
+
+// 1P Tension: Normal/Destroy
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10200200
+0046BC54 00000000
+D0000000 10100200
+0046BC54 00000001
+
+// 1P Time Bomb Destroy
+Author = libretro-database contributors / original PSP cheat authors
+0046BC54 00000001
+0042FF9C 00000001
+1046BB7C 00000000
+
+// 2P Attack Damage Mod (00-FF)
+Author = libretro-database contributors / original PSP cheat authors
+0093D20A 000000FF
+0043001C 000000FF
+
+// 2P Auto Guard
+Author = libretro-database contributors / original PSP cheat authors
+1093D14E 0000400F
+00430044 00000001
+
+// Untitled cheat 30
+Author = libretro-database contributors / original PSP cheat authors
+0046BB5A 00000017
+
+// Untitled cheat 31
+Author = libretro-database contributors / original PSP cheat authors
+0043059C 00000017
+
+// Untitled cheat 32
+Author = libretro-database contributors / original PSP cheat authors
+004305A0 00000017
+
+// Untitled cheat 33
+Author = libretro-database contributors / original PSP cheat authors
+004305A4 00000017
+
+// 2P Defence Mod (00-14/FF)
+Author = libretro-database contributors / original PSP cheat authors
+00430020 00000014
+
+// 2P Extra Cancels
+Author = libretro-database contributors / original PSP cheat authors
+0046BD1A 000000FF
+0046BD1B 000000FF
+0046BD19 000000FF
+
+// 2P Guard Beat/No Count Combo
+Author = libretro-database contributors / original PSP cheat authors
+004307B8 00000001
+
+// 2P Kizetsu/Easy Dizzy
+Author = libretro-database contributors / original PSP cheat authors
+0043004C 00000001
+
+// 2P Max Tension & Burst
+Author = libretro-database contributors / original PSP cheat authors
+1046BCC4 00002710
+1046BDBC 00003AC1
+0046BDBE 00000001
+0046BDBF 00000000
+
+// 2P More Extra Cancels
+Author = libretro-database contributors / original PSP cheat authors
+0093D21C 00000000
+0093D21D 00000000
+0093D14F 000000FF
+
+// 2P Recovery HP, Tension, Burst
+Author = libretro-database contributors / original PSP cheat authors
+00430028 00000002
+0043002C 000000FF
+00430038 00000002
+00430040 000000FF
+00430044 00000001
+00430068 00000001
+
+// 2P Shadow / Gold
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000088
+0046BA0E 00000013
+0046BAEC 00000002
+D0000000 10000028
+0046BA0E 0000000E
+0046BAEC 00000001
+
+// 2P Shin Roman Cancel
+Author = libretro-database contributors / original PSP cheat authors
+0093D158 000000FF
+0093D15A 000000FF
+0043007C 00000001
+00430080 00000001
+00430088 00000001
+0093D204 00000005
+
+// 2P SP / EX
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 1000C010
+0046BAF4 00000000
+0046BAF4 00000001
+
+// 2P Speed Mod (00-FF)
+Author = libretro-database contributors / original PSP cheat authors
+00430024 00000014
+
+// 2P Super Jump & Dash
+Author = libretro-database contributors / original PSP cheat authors
+0046BD34 00000001
+0046BD35 00000001
+0046BCCE 00000001
+
+// 2P Tension Type (00-02)
+Author = libretro-database contributors / original PSP cheat authors
+0046BD9C 00000000
+
+// ABA/EX Pack & Beserk Mode
+Author = libretro-database contributors / original PSP cheat authors
+0046BC06 00000004
+1046BC0C 00002710
+1046BC0A 000001A4
+D0000000 10204000
+0046BC04 00000000
+D0000000 10202000
+0046BC04 00000001
+D0000000 10208000
+0046BC04 00000002
+
+// Chipp Shuriken
+Author = libretro-database contributors / original PSP cheat authors
+00466BCE 00000002
+
+// Chipp/EX Camouflage
+Author = libretro-database contributors / original PSP cheat authors
+1046BC08 000001F4
+
+// Dizzy EX Necro Install
+Author = libretro-database contributors / original PSP cheat authors
+0046BC0F 00000001
+
+// Dizzy/EX Multi Bites
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10004000
+0046BC04 00000001
+D0000000 10002000
+0046BC05 00000002
+D0000000 10008000
+0046BC06 00000004
+D0000000 10001000
+0046BC07 00000005
+D0000000 10000200
+0046BC04 00000009
+D0000000 10000100
+0046BC05 0000000A
+00466BE5 00000001
+
+// Eddie/EX E Gauge & Hide
+Author = libretro-database contributors / original PSP cheat authors
+1046BC08 00001770
+1046BC06 00000000
+
+// Faust/EX Suprise
+Author = libretro-database contributors / original PSP cheat authors
+00466BD4 00000007
+
+// I-No/EX Onkai Lv.5
+Author = libretro-database contributors / original PSP cheat authors
+00466BEA 00000005
+
+// JAM Powerups
+Author = libretro-database contributors / original PSP cheat authors
+0046BC06 00000003
+0046BC09 00000003
+0046BC08 00000003
+
+// Johnny Bacchus Sigh
+Author = libretro-database contributors / original PSP cheat authors
+0046BDB9 0000004E
+
+// Johnny EX M.Finer Hold
+Author = libretro-database contributors / original PSP cheat authors
+0046BC09 0000007F
+
+// Johnny M.Finer & Coins
+Author = libretro-database contributors / original PSP cheat authors
+0046BC04 00000002
+0046BC08 00000000
+
+// May Lv.4 Hakushu & Air Spins
+Author = libretro-database contributors / original PSP cheat authors
+00466BCA 00000004
+0046BC04 00000004
+
+// Millia/EX Max SF & Lust Shaker
+Author = libretro-database contributors / original PSP cheat authors
+00466BCC 00000001
+0046BC04 000000FF
+
+// Millia/EX Secret Garden *Mod
+Author = libretro-database contributors / original PSP cheat authors
+0046BC08 00000002
+0046BC09 00000003
+0046BC0A 00000005
+0046BC0B 00000007
+
+// Order SOL Dragon Install
+Author = libretro-database contributors / original PSP cheat authors
+0046BC11 00000003
+
+// Order SOL Lv.3 Charge
+Author = libretro-database contributors / original PSP cheat authors
+1046BC12 0000176F
+
+// Robo KY/EX Shock + Max Heat
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10005040
+0046BC0A 00000001
+0046BC0B 00000000
+0046BC09 00000023
+
+// SOL Dragon Install
+Author = libretro-database contributors / original PSP cheat authors
+0046BC05 00000001
+
+// Testament/EX Crow & Dolls
+Author = libretro-database contributors / original PSP cheat authors
+0046BC04 00000005
+0046BC08 00000004
+
+// Testament/EX Crow Patterns
+Author = libretro-database contributors / original PSP cheat authors
+00466BD8 00000004
+
+// Time [Hold L+SEL - d-pad]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000111
+2046CC14 0000FFFF
+D0000000 10000121
+2046CC14 00001734
+D0000000 10000141
+2046CC14 00000E10
+D0000000 10000181
+2046CC14 00000708
+
+// Venom EX Object 3 Balls
+Author = libretro-database contributors / original PSP cheat authors
+0046BC0C 00000003
+
+// Venom Fast Stinger
+Author = libretro-database contributors / original PSP cheat authors
+0046BC06 00000080
+
+// Venom Stinger Aim Max
+Author = libretro-database contributors / original PSP cheat authors
+0046BC05 00000064
+
+// Zappa/EX Fixed Summon
+Author = libretro-database contributors / original PSP cheat authors
+1046BC08 000003C0
+D0000000 10009080
+00466BEC 00000001
+0046BC04 00000001
+D0000000 10006080
+00466BEC 00000002
+0046BC04 00000002
+D0000000 10009020
+00466BEC 00000003
+0046BC04 00000003
+D0000000 10006020
+00466BEC 00000004
+0046BC04 00000004
