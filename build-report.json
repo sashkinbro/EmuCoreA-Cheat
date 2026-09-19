@@ -1,5 +1,5 @@
 {
-  "batch": "batch-014",
+  "batch": "batch-015",
   "release": "cheat-catalog",
   "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
   "libretroCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
@@ -411,6 +411,806 @@
       "excluded": 0,
       "malformed": 0,
       "sha256": "CED9C06B144825A2B547D991B734EE2ABFD53B97BFE1996496DA437C979E5F63"
+    },
+    {
+      "serial": "NPEH-00154",
+      "sourceFile": "Carnage Heart EXA [EU] [NPEH-00154].cht",
+      "blocks": 4,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "613EF789EA9987EA01E4CEC98221DCDDED09F074A0317B04B33A42A3B97BF0CE"
+    },
+    {
+      "serial": "NPEH-00166",
+      "sourceFile": "The Legend Of Heroes - Trails In The Sky - SC [EU] [NPEH-00166].cht",
+      "blocks": 6,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "912055D73BF09002D90AC5672D4C0E94E0BE8A153A57A3DD8466CC9844331783"
+    },
+    {
+      "serial": "NPEH-00170",
+      "sourceFile": "Retro City Rampage DX [EU] [NPEH-00170].cht",
+      "blocks": 7,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "5C44394F865956CF8A21D2B41C8A4C7290ADC197130FF6625F05347024F14DC6"
+    },
+    {
+      "serial": "NPEH-10029",
+      "sourceFile": "James Cameron's Avatar - The Game (PlayStation Store) [EU] [NPEH-10029].cht",
+      "blocks": 9,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "4E9A46246CCD125019947F9B582D61166F61AAEAB0B6FB576BEA0426A5E629CE"
+    },
+    {
+      "serial": "NPEH-90001",
+      "sourceFile": "Warhammer 40,000 - Squad Command (Demo) [EU] [NPEH-90001].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "61E46631D717BF1697ABE2FA28F23D5388C4ECE8BD513ADBBD6B51D8DC4FDF50"
+    },
+    {
+      "serial": "NPEH-90006",
+      "sourceFile": "Pipe Mania (Demo) [EU] [NPEH-90006].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "C1333AE55685C781AF3244C573C7330E484550AD9D390A3EA8EF3FCA755D67A8"
+    },
+    {
+      "serial": "NPEH-90011",
+      "sourceFile": "Monster Hunter Freedom Unite (Demo) [EU] [NPEH-90011].cht",
+      "blocks": 12,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F0811C8560B224978E5A6F8770CBAB5FB8D5F5F4F62008B329D8C9AE2DC078F5"
+    },
+    {
+      "serial": "NPEH-90014",
+      "sourceFile": "Dissidia Final Fantasy (PlayStation Store) (Demo) [EU] [NPEH-90014].cht",
+      "blocks": 5,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "FB1617757BA61A291E7B695478D4BD28A903623A637262DF29056ED4005637CC"
+    },
+    {
+      "serial": "NPEH-90015",
+      "sourceFile": "Holy Invasion Of Privacy, Badman! (Demo) [EU] [NPEH-90015].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "68F37715061625DB7CDB76D7180FF189FAE9E3B6957F91A6EFB88EAEB9D766AE"
+    },
+    {
+      "serial": "NPEH-90022",
+      "sourceFile": "Crystal Defenders (Demo) [EU] [NPEH-90022].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "376BEDE68419CA4B36D347700EC7F90343A9090CD8A6627408B27CE8F809F657"
+    },
+    {
+      "serial": "NPEH-90026",
+      "sourceFile": "Half-Minute Hero - Hero 30 (Demo) [EU] [NPEH-90026].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "2DD8AAFA1FFDD43998051B02965A25C9A6C6F697736D3D8F8915A2E304E1E88C"
+    },
+    {
+      "serial": "NPEH-90028",
+      "sourceFile": "Army Of Two - The 40th Day (Demo) [EU] [NPEH-90028].cht",
+      "blocks": 12,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "7A04C37748BE968C96628B3BFD29567AEA98CF5E944A656C4208851DB79012B7"
+    },
+    {
+      "serial": "NPEH-90032",
+      "sourceFile": "Undead Knights (Demo) [EU] [NPEH-90032].cht",
+      "blocks": 13,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "BBC70BEC670309EA1D98093246C8CAAA84E7057BEF929EE5B27A48CACE40C94E"
+    },
+    {
+      "serial": "NPEH-90038",
+      "sourceFile": "Naruto Shippuden - Ultimate Ninja Heroes 3 (Demo) [EU] [NPEH-90038].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "7393CECFE0D3D5897C05BBCC6FD33A9F758C4C9CE5F31398FA2A4E598940B585"
+    },
+    {
+      "serial": "NPEH-90049",
+      "sourceFile": "Naruto Shippuden - Kizuna Drive (Demo) [EU] [NPEH-90049].cht",
+      "blocks": 7,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "58DCE8288AF2B57AF1C47B5F5530FF43BF661A8F026BD1C49BD25D008B276D45"
+    },
+    {
+      "serial": "NPEH-90051",
+      "sourceFile": "Hoard (Demo) [EU] [NPEH-90051].cht",
+      "blocks": 5,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "625D53169C66EA279A98B3C1E56804AEF7E818397A6AFA6BCF4161A50EA290AA"
+    },
+    {
+      "serial": "NPEX-00004",
+      "sourceFile": "Sheep Defence (Mini) [EU] [NPEX-00004].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "5B86D6770230B91F9A1296535B9BCE35937B01849516BA0690406144FF730FB7"
+    },
+    {
+      "serial": "NPEX-00005",
+      "sourceFile": "Charge Tank Squad (Mini) [EU] [NPEX-00005].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "8C02F1810B58E70F2540D674E3E67A82E64C871F741556D6A8CA56BFED0139A1"
+    },
+    {
+      "serial": "NPEZ-00001",
+      "sourceFile": "Puzzle Scape Mini (PlayStation Store) [EU] [NPEZ-00001].cht",
+      "blocks": 5,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "BA7623E5AFE9D8AC0C8EF79525B810A05F51325ABB3E6B5132DFD08D112E09EC"
+    },
+    {
+      "serial": "NPEZ-00002",
+      "sourceFile": "Stand O'Food (Mini) [EU] [NPEZ-00002].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "32704A9E9E105D9A2CAF33A770B4E94C8C526A826272896329B12D5C0DACAD84"
+    },
+    {
+      "serial": "NPEZ-00003",
+      "sourceFile": "Mahjongg Artifacts - Chapter 2 (PlayStation Store) [EU] [NPEZ-00003].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "47E14D4EB84ADB47A4BA508CBE2CCF1A962D2DD9050241CF7FE7EA71484A1722"
+    },
+    {
+      "serial": "NPEZ-00004",
+      "sourceFile": "Funky Punch (PlayStation Store) [EU] [NPEZ-00004].cht",
+      "blocks": 14,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "86B8C5F1EAB17F9DEBEC3F9ABF77078F639D81E756A4A00FA743CA6BFC5D09C0"
+    },
+    {
+      "serial": "NPEZ-00007",
+      "sourceFile": "Circles, Circles, Circles (PlayStation Store) [EU] [NPEZ-00007].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "B552D755A814925CBB7139ABEF58D96A03C011B60877D5BAC6EAFE46A5E0FF48"
+    },
+    {
+      "serial": "NPEZ-00009",
+      "sourceFile": "Kahoots (PlayStation Store) [EU] [NPEZ-00009].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "420CC6CAFB6492DF47ADA709EEB432D04BC87AA10D4BF91635A8E6C3DC824BC1"
+    },
+    {
+      "serial": "NPEZ-00011",
+      "sourceFile": "BreakQuest (PlayStation Store) [EU] [NPEZ-00011].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "9A2F51140C3A3A8F3AAC35189BC5A56212174043B308DECC212A5EC09DD6BFA5"
+    },
+    {
+      "serial": "NPEZ-00021",
+      "sourceFile": "Pinball Dreams (Mini) [EU] [NPEZ-00021].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "8D15379069E0D17D2CDFDC9AF00D20D59800D4DE21DDA8411C847BAE6251B5BA"
+    },
+    {
+      "serial": "NPEZ-00022",
+      "sourceFile": "Pinball Fantasies (PlayStation Store) [EU] [NPEZ-00022].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "86B446F91A92C2B3E6FD39CD59EC493262988CFB3AFE1ED6CB77B90AC84F4D2F"
+    },
+    {
+      "serial": "NPEZ-00023",
+      "sourceFile": "Bubble Trubble (Mini) [EU] [NPEZ-00023].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "08A45C4ED362C88007F98EA8460793513CF8FC83909F1AB2871B9E2F3945B19D"
+    },
+    {
+      "serial": "NPEZ-00024",
+      "sourceFile": "Freekscape - Escape From Hell (Mini) [EU] [NPEZ-00024].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "3E4F4CA98348E1F8D07B00B5180B4A6F452B628DB4431AD02E7E07806113B93E"
+    },
+    {
+      "serial": "NPEZ-00025",
+      "sourceFile": "Alien Havoc (PlayStation Store) [EU] [NPEZ-00025].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "B35DF8B561F322DFCB0E43BEE8F69F16134524DAA7909B91089AA6390890B088"
+    },
+    {
+      "serial": "NPEZ-00027",
+      "sourceFile": "Sudoku (PlayStation Store) [EU] [NPEZ-00027].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "D309558EFE558AB59790056393521B89BA4AC89F0D9EA02DA52D5978FEAD8FBC"
+    },
+    {
+      "serial": "NPEZ-00031",
+      "sourceFile": "Hero Of Sparta (PlayStation Store) [EU] [NPEZ-00031].cht",
+      "blocks": 12,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "1379A086714CFCD5565299E5892CC194CD430A35A3E31BE635E2328D6DC4E0EB"
+    },
+    {
+      "serial": "NPEZ-00032",
+      "sourceFile": "Let's Golf (Mini) [EU] [NPEZ-00032].cht",
+      "blocks": 5,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "5BADF99BBCE51C624DC6EB3B7E9CA34A6863E956CBD59ACB0AF3ECEE90E916B3"
+    },
+    {
+      "serial": "NPEZ-00041",
+      "sourceFile": "Blast Off (Mini) [EU] [NPEZ-00041].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "FF7E123F8959BAA03B0FC24137E1936D542DA61495C6F799B9B67A8424F69307"
+    },
+    {
+      "serial": "NPEZ-00042",
+      "sourceFile": "Echoes (Mini) [EU] [NPEZ-00042].cht",
+      "blocks": 9,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "7E399B61B2F2EA93342501D8FB15F851EDA1EEB8BCCC2A886C2EE8CFACC5059A"
+    },
+    {
+      "serial": "NPEZ-00043",
+      "sourceFile": "Aero Racer (Mini) [EU] [NPEZ-00043].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "DE376D2EA62FC7F102011B7F46C470DE3F2ED2CF8BC9C1AA6A95418B52B9E6C7"
+    },
+    {
+      "serial": "NPEZ-00044",
+      "sourceFile": "Age Of Zombies (PlayStation Store) [EU] [NPEZ-00044].cht",
+      "blocks": 5,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "6D5CFA68C2A051E67CEE23170F7CC9CDC77797263E63371FB70A3FB43CC65BF2"
+    },
+    {
+      "serial": "NPEZ-00045",
+      "sourceFile": "Bloons (PlayStation Store) [EU] [NPEZ-00045].cht",
+      "blocks": 5,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "BC1315E3657F1169C93CC4FFC2CCB6551E9C5F192A65200F9D8F146144967AE2"
+    },
+    {
+      "serial": "NPEZ-00046",
+      "sourceFile": "Brainpipe (Mini) [EU] [NPEZ-00046].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "FFC550CE66D2B93FC96BAD0BBAD598D265FCD0B40453DFFEB7538318AFC1E5CF"
+    },
+    {
+      "serial": "NPEZ-00047",
+      "sourceFile": "YetiSports (Mini) [EU] [NPEZ-00047].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "39A6F6F9E443AB0041AA4600634C6E4B50E5EDE471CAE11C631FDC074DF45B3E"
+    },
+    {
+      "serial": "NPEZ-00058",
+      "sourceFile": "Vempire (PlayStation Store) (Mini) [EU] [NPEZ-00058].cht",
+      "blocks": 6,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F12BD195D1A172C0D0B893D65890C3ED7BCC591499E712E8C374969964F90F62"
+    },
+    {
+      "serial": "NPEZ-00080",
+      "sourceFile": "Numba (Mini) [EU] [NPEZ-00080].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F46DFA99FA8843EBBB3B851A0B36C2CC071F46F32E62E45E2B73D8BC51960F1F"
+    },
+    {
+      "serial": "NPEZ-00081",
+      "sourceFile": "Beam 'em Up (Mini) [EU] [NPEZ-00081].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "D688607E877247E17E0F7CC7D4BD0CE0E3DCDA5CC5211C17D4B4407139640872"
+    },
+    {
+      "serial": "NPEZ-00087",
+      "sourceFile": "Pac-Man Championship Edition (Mini) [EU] [NPEZ-00087].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "8854E40080ABD2CD4FA2684F8733F670E3C8DFAC30814C2FD273B46C3B976863"
+    },
+    {
+      "serial": "NPEZ-00093",
+      "sourceFile": "Tetris (PlayStation Store) [EU] [NPEZ-00093].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "5544114F92AD0250E87D3F513AF0DEC5DC593F51ABD09C14F8AD41FC48EE0ECF"
+    },
+    {
+      "serial": "NPEZ-00094",
+      "sourceFile": "Yummy Yummy Cooking Jam (PlayStation Store) [EU] [NPEZ-00094].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "A9DC391264EE35C105720CA4F16241DA2038F98F7CEAE5AF7CEB90F75409D965"
+    },
+    {
+      "serial": "NPEZ-00095",
+      "sourceFile": "Heracles Chariot Racing (Mini) [EU] [NPEZ-00095].cht",
+      "blocks": 12,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "1C9B477828F925BF5C50A0416D137B15B5335CCF3717C7060821E0461EA454BA"
+    },
+    {
+      "serial": "NPEZ-00096",
+      "sourceFile": "Fortix (PlayStation Store) [EU] [NPEZ-00096].cht",
+      "blocks": 12,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "26E3426B99EE7893C40D5A8EBAAAFC3C2A17B5C66D63C35121BBF2BBA22E329B"
+    },
+    {
+      "serial": "NPEZ-00098",
+      "sourceFile": "Fieldrunners (PlayStation Store) [EU] [NPEZ-00098].cht",
+      "blocks": 14,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "CFCF548C1DAEE2E8C76389D5FF9C75A09AA34F6B4DEB33C6C42DCDD8CF5F5DDD"
+    },
+    {
+      "serial": "NPEZ-00100",
+      "sourceFile": "Red Bull X-Fighters (Mini) [EU] [NPEZ-00100].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "59DC67112DFD86119D895DD222F079C605DE6261AFA9DE6F9C728CE7EA89E904"
+    },
+    {
+      "serial": "NPEZ-00101",
+      "sourceFile": "Cubixx (Mini) [EU] [NPEZ-00101].cht",
+      "blocks": 6,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F98117A29E1950054F99F2DBB0D40618CB70CE9C08207DD24BAC75BDB047FC62"
+    },
+    {
+      "serial": "NPEZ-00107",
+      "sourceFile": "Spot The Differences! (PlayStation Store) [EU] [NPEZ-00107].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "D8B6116E470313E1BF834E4FB92C461E5961F621E133076C284145919B1BACF5"
+    },
+    {
+      "serial": "NPEZ-00108",
+      "sourceFile": "Finde Die Unterschiede (Mini) [DE] [NPEZ-00108].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "8A7A77B625A4A51AF449E2174984FC34F7CE954F3E4057B899B0946F81A6BD46"
+    },
+    {
+      "serial": "NPEZ-00115",
+      "sourceFile": "Alien Zombie Death (PlayStation Store) [EU] [NPEZ-00115].cht",
+      "blocks": 23,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "31E1BC143E3CB56204104747ECC883759CD7A0B8625710F212FB6A0A0EE031FA"
+    },
+    {
+      "serial": "NPEZ-00117",
+      "sourceFile": "DynoGems (Mini) [EU] [NPEZ-00117].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "40198B3E7DFD6887B19A1533D65EC0FD397D0B9C3F6C24ABD40AC7C16A3C4CB6"
+    },
+    {
+      "serial": "NPEZ-00118",
+      "sourceFile": "Monopoly (Mini) [EU] [NPEZ-00118].cht",
+      "blocks": 24,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "216212BF061A9A41D0A89B30CB439FFE211F387C299E0A010B39FAAE91193D70"
+    },
+    {
+      "serial": "NPEZ-00122",
+      "sourceFile": "Monsters (Probably) Stole My Princess (Mini) [EU] [NPEZ-00122].cht",
+      "blocks": 6,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "0263ADC1A4A6F2FDC89ED4A16D318A7BD50A205B20D2399F5CB83E5EAF52964C"
+    },
+    {
+      "serial": "NPEZ-00124",
+      "sourceFile": "Dracula - Undead Awakening (PlayStation Store) [EU] [NPEZ-00124].cht",
+      "blocks": 25,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "DC5AE75F7C509ADE4CDD5E4D242CF29D361AFD00D90CFA6507FDE3C4937D6768"
+    },
+    {
+      "serial": "NPEZ-00126",
+      "sourceFile": "Tehra Dark Warrior (PlayStation Store) [EU] [NPEZ-00126].cht",
+      "blocks": 12,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "915D4628839A25078C56155EF7DC10C1BDEB2668B4BC71CB342608F15A7E3DB9"
+    },
+    {
+      "serial": "NPEZ-00130",
+      "sourceFile": "Vector TD (PlayStation Store) [EU] [NPEZ-00130].cht",
+      "blocks": 8,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "DF28D78168926C82180310DDE87AF4E3C638373A796596145D6334ED722B6D9B"
+    },
+    {
+      "serial": "NPEZ-00131",
+      "sourceFile": "Wackylands Boss (Mini) [EU] [NPEZ-00131].cht",
+      "blocks": 7,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "D3EE1B276FB37A9A643BFEB2B45641A560A734BCFE3583026C8A3C40E6B613E7"
+    },
+    {
+      "serial": "NPEZ-00133",
+      "sourceFile": "Widgets Odyssey (Mini) [EU] [NPEZ-00133].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "ECA1E5ECB66E9BD151337F4A90E7EE41C840265421C7D0B7FC9AC41AF8E4B2A4"
+    },
+    {
+      "serial": "NPEZ-00135",
+      "sourceFile": "Normal Tanks (PlayStation Store) [EU] [NPEZ-00135].cht",
+      "blocks": 6,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "42F570CB26E5199B856C82C3B9ECF984436B5055C0765BA43CB4E85B429E4E55"
+    },
+    {
+      "serial": "NPEZ-00136",
+      "sourceFile": "Crime Spree (Mini) [EU] [NPEZ-00136].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "5EC878D7C323AB9A4673CBCF0120E8515310015CEB9B441F7E4F5AA8EF447D42"
+    },
+    {
+      "serial": "NPEZ-00140",
+      "sourceFile": "The Terminator (Mini) [EU] [NPEZ-00140].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "3C6E5410043893531276FDB7F565692BBBACAA264433B7D9FDF65B150D89B670"
+    },
+    {
+      "serial": "NPEZ-00145",
+      "sourceFile": "Ice Road Truckers (Mini) [EU] [NPEZ-00145].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "21BD6848397D872237CC59F61D75FC7BB4BA407552EEFC1E03153D34D0EDC28C"
+    },
+    {
+      "serial": "NPEZ-00147",
+      "sourceFile": "Bashi Blocks (Mini) [EU] [NPEZ-00147].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "50EC2D5641CC9AA19FF5DDE4C33E941195BAFF0D76E6E759005ECCF97DD6BBAC"
+    },
+    {
+      "serial": "NPEZ-00149",
+      "sourceFile": "Widgets Odyssey II (Mini) [EU] [NPEZ-00149].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "622B9098B6B3BCACAE721ABB2CD1E35783BBE45827E1DBF320D9085E17A8E245"
+    },
+    {
+      "serial": "NPEZ-00151",
+      "sourceFile": "Flying Hamster (Mini) [EU] [NPEZ-00151].cht",
+      "blocks": 14,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "E79B959F14D3270CB301FB79E206988E403BABEBBB5317E5F461767301053EBE"
+    },
+    {
+      "serial": "NPEZ-00153",
+      "sourceFile": "Vibes (Mini) [EU] [NPEZ-00153].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "9C8616E54A614595685DF09EA8DE60D323AF0CEDA68D169D2BDD17653366786B"
+    },
+    {
+      "serial": "NPEZ-00154",
+      "sourceFile": "Stellar Attack (Mini) [EU] [NPEZ-00154].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "193BADFC65ADB79DB07C9D979DD44C8F063BD799D0DBB027F818956CDFE57E78"
+    },
+    {
+      "serial": "NPEZ-00157",
+      "sourceFile": "Galcon Labs (Mini) [EU] [NPEZ-00157].cht",
+      "blocks": 9,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "8EDD824C5515CD948E72ADC2F81E186F39BBED28FC6D436661F493BCD3054920"
+    },
+    {
+      "serial": "NPEZ-00158",
+      "sourceFile": "Hysteria Project (Mini) [EU] [NPEZ-00158].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "40047944581A540E95C26C8A5AFBD7C1E96769964D8D3EC5832B05559B7BC825"
+    },
+    {
+      "serial": "NPEZ-00164",
+      "sourceFile": "Coconut Dodge (Mini) [EU] [NPEZ-00164].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F78103C2A0B0BE41FF3BB7B20A46E16F14EB5A121453749C2E57FEF9A0B8992D"
+    },
+    {
+      "serial": "NPEZ-00166",
+      "sourceFile": "JellyCar 2 (Mini) [EU] [NPEZ-00166].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "92E631EF6BE823EA85702C56553DFCBECCD13F679AEA88BBFF1FCF6C5E50A06F"
+    },
+    {
+      "serial": "NPEZ-00167",
+      "sourceFile": "Carnivores - Dinosaur Hunter (Mini) [EU] [NPEZ-00167].cht",
+      "blocks": 11,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "43B765CEDE83517D10DD7DE5945EFC15A341C025EE6DC2A67CF9B696D1BF8148"
+    },
+    {
+      "serial": "NPEZ-00168",
+      "sourceFile": "Brick Breaker (Mini) [EU] [NPEZ-00168].cht",
+      "blocks": 14,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "AD6D89BFCF4BF920DEB2D82C7545611B1B66C7BAA32F91AF9D0461BFDB0F3BF4"
+    },
+    {
+      "serial": "NPEZ-00171",
+      "sourceFile": "Labyrinth (Mini) [EU] [NPEZ-00171].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "8F862F08A910AE252AC42736B80B3C198FB3E8EAEFD00A2C4330C7C37C07E86A"
+    },
+    {
+      "serial": "NPEZ-00176",
+      "sourceFile": "Urbanix (Mini) [EU] [NPEZ-00176].cht",
+      "blocks": 7,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "058D9322F5DCB49BFD58B8D1595C494C2BDF5E96F3C5590D5C7DBD635486E5D7"
+    },
+    {
+      "serial": "NPEZ-00178",
+      "sourceFile": "Who's That Flying! (Mini) [EU] [NPEZ-00178].cht",
+      "blocks": 8,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "8B12B47A2F93333D3E07C544AB59BE3150F40E305DA0EC7BF4861BECCE35A25E"
+    },
+    {
+      "serial": "NPEZ-00184",
+      "sourceFile": "Apache Overkill (Mini) [EU] [NPEZ-00184].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "11613FBF2D2C8360130BE61D391678004CADA12BFBF5F6F8FE4299290BD4CA33"
+    },
+    {
+      "serial": "NPEZ-00185",
+      "sourceFile": "Jewel Keepers - Easter Island (Mini) [EU] [NPEZ-00185].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "38E0C6921EB070093CD8807CC245582A5ECB9AD209DA9E4A61C64BE6CB433D9C"
+    },
+    {
+      "serial": "NPEZ-00195",
+      "sourceFile": "Fort Commander - King's Gambit (Mini) [EU] [NPEZ-00195].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "319B70D4499DD11F655E9AA67815F56AF93F32E4AECD0FD74267E0AAD840B803"
+    },
+    {
+      "serial": "NPEZ-00196",
+      "sourceFile": "Fort Commander II - Counter Attack (Mini) [EU] [NPEZ-00196].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "88E80DFA02C805B10917C330238908C2E97EEBD01470C7E783A69A2E8ECED0DE"
+    },
+    {
+      "serial": "NPEZ-00199",
+      "sourceFile": "Enigmo (Mini) [EU] [NPEZ-00199].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "E8897A007D077AE4A458FDCABF35C046F260BDC48D5B3E6C60F6D97276BF298D"
+    },
+    {
+      "serial": "NPEZ-00200",
+      "sourceFile": "Jane's Hotel (Mini) [EU] [NPEZ-00200].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "949702DE3540E01ADBEA79896D55889A9893019EB31C243D647DE3B3F676D5CD"
+    },
+    {
+      "serial": "NPEZ-00203",
+      "sourceFile": "Archibald's Adventures (Mini) [EU] [NPEZ-00203].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "81B779D6D8996EC17B64E6D77BE1ADD6A66FAF1DD5A43468D2981834ACEE8678"
+    },
+    {
+      "serial": "NPEZ-00205",
+      "sourceFile": "4x4 Jam (Mini) [EU] [NPEZ-00205].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "A77E868A87BCE47E3B0E1138A4359C8C74D5B6CAC83699C42A424461CD1B9794"
+    },
+    {
+      "serial": "NPEZ-00212",
+      "sourceFile": "Fly Fu (Mini) [EU] [NPEZ-00212].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "0BF4C9D4116EDF1DFE1BB1F5934325766A4136C0578A2A0FE45CEFCC64938767"
+    },
+    {
+      "serial": "NPEZ-00215",
+      "sourceFile": "Cohort Chess (Mini) [EU] [NPEZ-00215].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "5B9A5627C5DFAA91A67F6FD309145D3732665D0871C8D31D04C70A08E9D9A872"
+    },
+    {
+      "serial": "NPEZ-00217",
+      "sourceFile": "Beach Buzzin' Chopper (PlayStation Store) [EU] [NPEZ-00217].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "14AE6C89B63D5A0D8C888CCD858CDB0BCF75415BB93933E406501E04342EA065"
+    },
+    {
+      "serial": "NPEZ-00218",
+      "sourceFile": "Ace Armstrong Vs. The Alien Scumbags (Mini) [EU] [NPEZ-00218].cht",
+      "blocks": 11,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "FE5F6E40B7FD95D13B042F4E3F3092488E3B259BB40F29ED83D14D559C32B0BA"
+    },
+    {
+      "serial": "NPEZ-00219",
+      "sourceFile": "Arctic Adventures - Polar's Puzzles (Mini) [EU] [NPEZ-00219].cht",
+      "blocks": 5,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "686C6650549471B33E3FC3C7FF8DBB12FEFA8FBEBA3A523F0B1A10DD2B4BBC48"
+    },
+    {
+      "serial": "NPEZ-00222",
+      "sourceFile": "N.O.V.A. [EU] [NPEZ-00222].cht",
+      "blocks": 29,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "C75BD71CC7D61AA898119D97D5D91D0AD391E4CEF0ABB9E151CE49F70B027EB1"
+    },
+    {
+      "serial": "NPEZ-00225",
+      "sourceFile": "SkyForce (PlayStation Store) [EU] [NPEZ-00225].cht",
+      "blocks": 9,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "E7E15F0F0E5AA5318013529104872B0221AB8A1706603CFB56C0B7A83D67111C"
+    },
+    {
+      "serial": "NPEZ-00229",
+      "sourceFile": "Farm Frenzy (Mini) [EU] [NPEZ-00229].cht",
+      "blocks": 13,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "C29E3C3762DC1D8D211D6AE3AEC8CBCCA46503B5D1116AEBC4CCD82A22246AFA"
+    },
+    {
+      "serial": "NPEZ-00230",
+      "sourceFile": "Paper Wars - Cannon Fodder (Mini) [EU] [NPEZ-00230].cht",
+      "blocks": 8,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "1BD5ACEE0C14A90B45EC0E3E3EB4ECB40D961FB0B6123612AA3BB55447B5C462"
+    },
+    {
+      "serial": "NPEZ-00235",
+      "sourceFile": "MiniSquadron (Mini) [EU] [NPEZ-00235].cht",
+      "blocks": 20,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "3AD5959D50888F974970D22538B5E8561C0935DEB972DA43156E7A79C39F759E"
+    },
+    {
+      "serial": "NPEZ-00236",
+      "sourceFile": "Blimp - The Flying Adventures [EU] [NPEZ-00236].cht",
+      "blocks": 12,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "8B3B04CF32DC6A62CD72E69E36D778EA373A63CBAC04673BE620D36BF69F741A"
+    },
+    {
+      "serial": "NPEZ-00237",
+      "sourceFile": "Dr.Maybee And The Adventures Of Scarygirl (Mini) [EU] [NPEZ-00237].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "8ED83CFCEB48B93BC2C070B57DD0029C81674517649754116CDBE8E337AF5005"
     },
     {
       "serial": "NPHH-00068",

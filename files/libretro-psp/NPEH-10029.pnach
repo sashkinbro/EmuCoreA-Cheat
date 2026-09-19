@@ -1,0 +1,41 @@
+# PSP cheat pack
+# Serial: NPEH-10029
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Ewya Spirits
+Author = libretro-database contributors / original PSP cheat authors
+2131FEA4 3B9AC9FF
+
+// Speed Mod: Bit Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2055D5B8 3FA00000
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2055D5B8 40000000
+
+// Speed Mod: Normal Mode
+Author = libretro-database contributors / original PSP cheat authors
+2015BF0C E48C0000
+
+// Speed Mod: Normal Speed
+Author = libretro-database contributors / original PSP cheat authors
+2055D5B8 3F800000
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2055D5B8 3FC00000
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2055D5B8 3F000000
+
+// Stealth Mode
+Author = libretro-database contributors / original PSP cheat authors
+2015BF0C AC800000
+
+// Unlock All Stages (1-12)
+Author = libretro-database contributors / original PSP cheat authors
+B7800000 0000000A
+205226F0 00000001
+D3800000 00000004

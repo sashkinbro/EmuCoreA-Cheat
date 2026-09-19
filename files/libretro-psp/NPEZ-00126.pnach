@@ -1,0 +1,82 @@
+# PSP cheat pack
+# Serial: NPEZ-00126
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+20017FAC AE200068
+2001D3E4 AE000068
+2001D400 00000000
+20015284 AE000068
+20036874 00000000
+
+// Buy Upgrades Even Without Coins & Even They Are Greyed Out
+Author = libretro-database contributors / original PSP cheat authors
+20030BE8 00000000
+20030C94 00000000
+
+// Infinite Energy
+Author = libretro-database contributors / original PSP cheat authors
+20008278 0A200400
+20001000 3C08088B
+20001004 8D0898E4
+20001008 3C0942C8
+2000100C 35290000
+20001010 AD092D34
+20001014 03E00008
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20008278 0A200400
+20001000 3C08088B
+20001004 8D0898E4
+20001008 3C0942C8
+2000100C 35290000
+20001010 AD092D30
+20001014 03E00008
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0F42F4
+20002004 03E00008
+20002008 AC8F0280
+2001DD50 0A200800
+
+// Infinite Mana
+Author = libretro-database contributors / original PSP cheat authors
+20002010 3C0F42C8
+20002014 03E00008
+20002018 AC8F0284
+2001DD58 0A200804
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+215CBF60 3B9AC9FF
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+20011180 10000015
+2001C184 1000000A
+20036A58 00000000
+
+// Max Cash On View Magic Upgrades
+Author = libretro-database contributors / original PSP cheat authors
+20002020 3C0605F6
+20002024 24C6E0FF
+20002028 0A20C4E8
+2000202C AEA60010
+20031398 0A200808
+2003139C 26240020
+
+// No Need For Mana To Use Powers
+Author = libretro-database contributors / original PSP cheat authors
+20022108 24020001
+
+// No Need For Mana To Use Unlocked Powers
+Author = libretro-database contributors / original PSP cheat authors
+200220EC 24020001
+
+// Unlock All Challenges
+Author = libretro-database contributors / original PSP cheat authors
+20023744 ACB30000
+20023748 10000021

@@ -89,6 +89,27 @@ SERIALS = {
     "NPEH-00007",    "NPEH-00017",    "NPEH-00020",    "NPEH-00021",    "NPEH-00027",
     "NPEH-00029",    "NPEH-00031",    "NPEH-00033",    "NPEH-00064",    "NPEH-00065",
     "NPEH-00073",    "NPEH-00076",    "NPEH-00077",    "NPEH-00100",    "NPEH-00124",
+    # Batch 015: 100 additional PSP serials from the same pinned libretro snapshot.
+    "NPEH-00154",    "NPEH-00166",    "NPEH-00170",    "NPEH-10029",    "NPEH-90001",
+    "NPEH-90006",    "NPEH-90011",    "NPEH-90014",    "NPEH-90015",    "NPEH-90022",
+    "NPEH-90026",    "NPEH-90028",    "NPEH-90032",    "NPEH-90038",    "NPEH-90049",
+    "NPEH-90051",    "NPEX-00004",    "NPEX-00005",    "NPEZ-00001",    "NPEZ-00002",
+    "NPEZ-00003",    "NPEZ-00004",    "NPEZ-00007",    "NPEZ-00009",    "NPEZ-00011",
+    "NPEZ-00021",    "NPEZ-00022",    "NPEZ-00023",    "NPEZ-00024",    "NPEZ-00025",
+    "NPEZ-00027",    "NPEZ-00031",    "NPEZ-00032",    "NPEZ-00041",    "NPEZ-00042",
+    "NPEZ-00043",    "NPEZ-00044",    "NPEZ-00045",    "NPEZ-00046",    "NPEZ-00047",
+    "NPEZ-00058",    "NPEZ-00080",    "NPEZ-00081",    "NPEZ-00087",    "NPEZ-00093",
+    "NPEZ-00094",    "NPEZ-00095",    "NPEZ-00096",    "NPEZ-00098",    "NPEZ-00100",
+    "NPEZ-00101",    "NPEZ-00107",    "NPEZ-00108",    "NPEZ-00115",    "NPEZ-00117",
+    "NPEZ-00118",    "NPEZ-00122",    "NPEZ-00124",    "NPEZ-00126",    "NPEZ-00130",
+    "NPEZ-00131",    "NPEZ-00133",    "NPEZ-00135",    "NPEZ-00136",    "NPEZ-00140",
+    "NPEZ-00145",    "NPEZ-00147",    "NPEZ-00149",    "NPEZ-00151",    "NPEZ-00153",
+    "NPEZ-00154",    "NPEZ-00157",    "NPEZ-00158",    "NPEZ-00164",    "NPEZ-00166",
+    "NPEZ-00167",    "NPEZ-00168",    "NPEZ-00171",    "NPEZ-00176",    "NPEZ-00178",
+    "NPEZ-00184",    "NPEZ-00185",    "NPEZ-00195",    "NPEZ-00196",    "NPEZ-00199",
+    "NPEZ-00200",    "NPEZ-00203",    "NPEZ-00205",    "NPEZ-00212",    "NPEZ-00215",
+    "NPEZ-00217",    "NPEZ-00218",    "NPEZ-00219",    "NPEZ-00222",    "NPEZ-00225",
+    "NPEZ-00229",    "NPEZ-00230",    "NPEZ-00235",    "NPEZ-00236",    "NPEZ-00237",
 
 }
 SERIAL_RE = re.compile(r"\[([A-Z]{4}-[0-9]{5})\]\.cht$")
@@ -151,7 +172,7 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--source", type=Path, default=Path(__file__).parents[2] / "libretro-database-psp")
     parser.add_argument("--repo", type=Path, default=Path(__file__).parents[1])
-    parser.add_argument("--batch-id", default="batch-014")
+    parser.add_argument("--batch-id", default="batch-015")
     parser.add_argument("--release-version", default="cheat-catalog")
     args = parser.parse_args()
     source_root = args.source.resolve() / "cht" / "Sony - PlayStation Portable"

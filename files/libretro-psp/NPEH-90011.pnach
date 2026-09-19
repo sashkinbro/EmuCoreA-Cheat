@@ -1,0 +1,65 @@
+# PSP cheat pack
+# Serial: NPEH-90011
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Character Speed Mod: Faster Speed
+Author = libretro-database contributors / original PSP cheat authors
+20827E96 00004080
+20827ED6 00004080
+
+// Character Speed Mod: Much Faster Speed
+Author = libretro-database contributors / original PSP cheat authors
+20827E96 00004100
+20827ED6 00004100
+
+// Character Speed Mod: Much Slower Speed
+Author = libretro-database contributors / original PSP cheat authors
+20827E96 00003F00
+20827ED6 00003F00
+
+// Character Speed Mod: Normal Speed
+Author = libretro-database contributors / original PSP cheat authors
+20827E96 00004000
+20827ED6 00004000
+
+// Character Speed Mod: Slower Speed
+Author = libretro-database contributors / original PSP cheat authors
+20827E96 00003F80
+20827ED6 00003F80
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+208280E4 00000098
+2082821E 00000098
+
+// Infinite Items
+Author = libretro-database contributors / original PSP cheat authors
+211794B8 00000063
+
+// Infinite Stamina
+Author = libretro-database contributors / original PSP cheat authors
+2082835A 000001C8
+2082842E 000001C8
+
+// Quick Boss Kill
+Author = libretro-database contributors / original PSP cheat authors
+20835ED4 00000001
+20835E74 00000001
+
+// Size Mod: Bigger
+Author = libretro-database contributors / original PSP cheat authors
+20828022 00004000
+20828026 00004000
+2082802A 00004000
+
+// Size Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20828022 00003F80
+20828026 00003F80
+2082802A 00003F80
+
+// Size Mod: Smaller
+Author = libretro-database contributors / original PSP cheat authors
+20828022 00003F00
+20828026 00003F00
+2082802A 00003F00

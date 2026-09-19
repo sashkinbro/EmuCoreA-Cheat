@@ -1,0 +1,43 @@
+# PSP cheat pack
+# Serial: NPEZ-00176
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20073FF0 00000000
+
+// Score Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8E480000
+20002004 0A21A694
+20002008 00084040
+20069A48 0A200800
+
+// Score Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8E480000
+20002004 0A21A694
+20002008 00084080
+20069A48 0A200800
+
+// Score Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8E480000
+20002004 0A21A694
+20002008 000840C0
+20069A48 0A200800
+
+// Score Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8E480000
+20002004 0A21A694
+20002008 00084100
+20069A48 0A200800
+
+// Timer
+Author = libretro-database contributors / original PSP cheat authors
+2005E0F8 0E22CCCB
+
+// Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2005E0F8 00000000

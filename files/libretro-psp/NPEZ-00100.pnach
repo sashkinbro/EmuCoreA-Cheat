@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: NPEZ-00100
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+20002000 2442E0FF
+20002004 03E00008
+20002008 AC82014C
+200552C0 0A200800
+200552C4 3C0205F6
+
+// Timer Disable
+Author = libretro-database contributors / original PSP cheat authors
+20059720 00000000
+
+// Timer Enable
+Author = libretro-database contributors / original PSP cheat authors
+20059720 24840001

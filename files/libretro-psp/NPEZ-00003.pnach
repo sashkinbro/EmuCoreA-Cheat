@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: NPEZ-00003
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+202B4258 05F5E0FF
+
+// Max Score v2
+Author = libretro-database contributors / original PSP cheat authors
+201251D8 00000000
+0000AC08 05F5E0FF
+D2000000 00000000
+
+// Max Score v3
+Author = libretro-database contributors / original PSP cheat authors
+201251D8 05F5E0FF
+00020000 0000AC08
+
+// Max Score v4
+Author = libretro-database contributors / original PSP cheat authors
+201251D8 05F5E0FF
+00020001 0000AC08

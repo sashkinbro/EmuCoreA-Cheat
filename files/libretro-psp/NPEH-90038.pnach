@@ -1,0 +1,21 @@
+# PSP cheat pack
+# Serial: NPEH-90038
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health & Chakra
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0F3F80
+20002004 AC6F007C
+20002008 3C0F4170
+2000200C AC6F0080
+20002010 0A2565E8
+20002014 44801000
+20159798 0A200800
+
+// Timer Disable
+Author = libretro-database contributors / original PSP cheat authors
+20177230 00000000
+
+// Timer Enable
+Author = libretro-database contributors / original PSP cheat authors
+20177230 AE030004

@@ -1,0 +1,32 @@
+# PSP cheat pack
+# Serial: NPEH-00170
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Weapons & Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+200DF3CC 00000000
+200DFE50 00000000
+
+// Always Full Life
+Author = libretro-database contributors / original PSP cheat authors
+0024AD1D 00000064
+
+// Buy Even Without Money
+Author = libretro-database contributors / original PSP cheat authors
+200D7FB0 00000000
+
+// Disable Flickering Invulnerability
+Author = libretro-database contributors / original PSP cheat authors
+200785D8 1000000F
+
+// Earn Points For Maximum Points
+Author = libretro-database contributors / original PSP cheat authors
+200DA7A0 1000000C
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+200DF3CC 00000000
+
+// Invulnerable
+Author = libretro-database contributors / original PSP cheat authors
+0024ADCF 00000064

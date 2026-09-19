@@ -1,0 +1,25 @@
+# PSP cheat pack
+# Serial: NPEZ-00081
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2005FC94 00000000
+0000023C 00000100
+D2000000 00000000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+2005FC94 00000000
+2005FC94 00000100
+00020000 0000023C
+
+// Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+2005FC94 00000000
+2005FC94 00000100
+00020001 0000023C
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+2006DC44 00000004

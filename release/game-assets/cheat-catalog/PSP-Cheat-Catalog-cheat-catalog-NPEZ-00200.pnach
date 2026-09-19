@@ -1,0 +1,20 @@
+# PSP cheat pack
+# Serial: NPEZ-00200
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Cash And Popularity
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0605F6
+20002004 24C6E0FF
+20002008 ACA600A4
+2000200C 24060064
+20002010 0A23A2DB
+20002014 ACA600A8
+200E8B64 0A200800
+
+// Reset Guests Anger (Press L)
+Author = libretro-database contributors / original PSP cheat authors
+2002D9F8 00000000
+2011CE08 FEFF0100
+2002D9F8 AE0002F0
+D2000000 00000000

@@ -1,0 +1,61 @@
+# PSP cheat pack
+# Serial: NPEZ-00236
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Bombs
+Author = libretro-database contributors / original PSP cheat authors
+20009398 00000000
+
+// Infinite Clients
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00244BD0
+000015EC 05F5E0FF
+
+// Infinite Clients v2
+Author = libretro-database contributors / original PSP cheat authors
+60244BD0 05F5E0FF
+00020001 000015EC
+
+// Infinite Diamonds
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00244F64
+0000134C 05F5E0FF
+
+// Infinite Diamonds v2
+Author = libretro-database contributors / original PSP cheat authors
+60244F64 05F5E0FF
+00020001 0000134C
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00244BD0
+0000158C 42C80000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+60244BD0 42C80000
+00020001 0000158C
+
+// Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+2000BDA0 E48D0C2C
+
+// Infinite Plates
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00244F64
+000012B0 05F5E0FF
+
+// Infinite Plates v2
+Author = libretro-database contributors / original PSP cheat authors
+60244F64 05F5E0FF
+00020001 000012B0
+
+// Infinite Total
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00244F64
+00001340 05F5E0FF
+
+// Infinite Total v2
+Author = libretro-database contributors / original PSP cheat authors
+60244F64 05F5E0FF
+00020001 00001340

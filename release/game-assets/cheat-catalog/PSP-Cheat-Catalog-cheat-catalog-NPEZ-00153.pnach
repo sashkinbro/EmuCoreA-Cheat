@@ -1,0 +1,16 @@
+# PSP cheat pack
+# Serial: NPEZ-00153
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+20016EAC 03E00008
+20016EB0 00000000
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+20002000 00E07821
+20002004 24070006
+20002008 0A204670
+2000200C A1E70624
+200119B8 0A200800

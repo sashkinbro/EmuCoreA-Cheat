@@ -1,0 +1,222 @@
+# PSP cheat pack
+# Serial: NPEZ-00222
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Set FoV [Float]
+Author = libretro-database contributors / original PSP cheat authors
+2035D3A4 3F99999A
+2035D3A8 3F99999A
+2035D3B4 3F99999A
+
+// Set FoV [Float, Default]
+Author = libretro-database contributors / original PSP cheat authors
+2035D3A4 3F800000
+2035D3A8 3F800000
+2035D3B4 3F800000
+
+// 20 FPS v3 [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0070019 1016A9F8
+2016A9F8 24020019
+2016A9FC 10A20008
+2016CBF4 0E2CD9D4
+201390E0 C441A8C4
+201390EC 468008A0
+205C0B20 00000019
+200BA1C0 02D71821
+
+// 30 FPS v3
+Author = libretro-database contributors / original PSP cheat authors
+E0100023 1016A9F8
+2016A9F8 24050023
+2016A9FC 00000000
+2016CBF4 00000000
+201390E0 3C0140D5
+201390EC 44811000
+205C0B20 00000023
+200BA1C0 0A200E41
+20003904 4480A800
+20003908 46150032
+2000390C 00000000
+20003910 45010003
+20003914 02D71821
+20003918 0A22E872
+2000391C 00000000
+20003920 0A22E873
+20003924 00000000
+
+// 60 FPS v3
+Author = libretro-database contributors / original PSP cheat authors
+E0100041 1016A9F8
+2016A9F8 24050041
+2016A9FC 00000000
+2016CBF4 00000000
+201390E0 3C014055
+201390EC 44811000
+205C0B20 00000041
+200BA1C0 0A200E41
+20003904 4480A800
+20003908 46150032
+2000390C 00000000
+20003910 45010003
+20003914 02D71821
+20003918 0A22E872
+2000391C 00000000
+20003920 0A22E873
+20003924 00000000
+
+// Up/Down Camera Limit In Degrees
+Author = libretro-database contributors / original PSP cheat authors
+2033A8C8 0000004B
+
+// Up/Down Camera Limit In Degrees [Default]
+Author = libretro-database contributors / original PSP cheat authors
+2033A8C8 0000002D
+
+// 1 Hit Kills (All Levels Most Enemys)
+Author = libretro-database contributors / original PSP cheat authors
+0038FD13 0000003B
+0038FD0F 0000003B
+0038FD17 0000003B
+0038FD1B 0000003B
+
+// Health Lock (Still Can Die)
+Author = libretro-database contributors / original PSP cheat authors
+0038FDCF 00000046
+
+// Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20F8A4BC 000003E7
+20F04D74 00000063
+
+// Inf. Ammo v2
+Author = libretro-database contributors / original PSP cheat authors
+20E109EC 000003E7
+
+// Infinite Grenades
+Author = libretro-database contributors / original PSP cheat authors
+20002030 8C66001C
+20002034 24040009
+20002038 0A219C65
+2000203C ACC40094
+2006718C 0A20080C
+20067190 8C430008
+
+// Infinite Shield (HP)
+Author = libretro-database contributors / original PSP cheat authors
+20138720 3C0F4310
+20138728 AC8F005C
+20138730 448F0800
+
+// Instant Regain Health
+Author = libretro-database contributors / original PSP cheat authors
+2038FDDC 00000000
+
+// Jump Higher
+Author = libretro-database contributors / original PSP cheat authors
+2038FDF4 41200000
+
+// Kind Of Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+2038FDD8 4F000000
+2038FDDC 00000000
+2038FDCC 4F000000
+
+// Low Gravity
+Author = libretro-database contributors / original PSP cheat authors
+2038FDFC 40000000
+
+// Max Health
+Author = libretro-database contributors / original PSP cheat authors
+2038FDCC 4F000000
+
+// Max/Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20002010 AC920084
+20002014 2412FFFF
+20002018 AC920094
+2000201C 0A2198DD
+20002020 C4800084
+2006636C 0A200804
+20066370 3C1242C6
+
+// No Recoil Walking
+Author = libretro-database contributors / original PSP cheat authors
+2038F95C 3E000000
+
+// Regain A Lot Of Health
+Author = libretro-database contributors / original PSP cheat authors
+2038FDD8 4A000000
+
+// Text Speed
+Author = libretro-database contributors / original PSP cheat authors
+2038FDAC 43200000
+
+// Ultimate Assault Rifle
+Author = libretro-database contributors / original PSP cheat authors
+2038F860 BF800000
+2038F868 4A000000
+2038F86C 4A000000
+2038F870 4A000000
+2038F874 4A000000
+2038F878 4A000000
+2038F888 40000000
+2038F89C 3E000000
+2038FE30 40800000
+
+// Ultimate Grenade
+Author = libretro-database contributors / original PSP cheat authors
+2038F7F8 4A000000
+2038F804 40000000
+2038F7E4 4A000000
+2038F7E8 4A000000
+2038F7DC 459C4000
+2038F7E0 441C4000
+
+// Ultimate Pistol
+Author = libretro-database contributors / original PSP cheat authors
+2038F84C 4A000000
+2038F850 4A000000
+2038F854 4A000000
+2038F858 4A000000
+2038F85C 40000000
+2038FE28 40800000
+
+// Ultimate Rocket Launcher
+Author = libretro-database contributors / original PSP cheat authors
+2038F918 BF800000
+2038F920 4A000000
+2038F924 4A000000
+2038F928 4A000000
+2038F92C 4A000000
+2038F938 40000000
+2038FE3C 40800000
+
+// Ultimate Shotgun
+Author = libretro-database contributors / original PSP cheat authors
+2038F808 BF800000
+2038F810 4A000000
+2038F814 4A000000
+2038F818 4A000000
+2038F81C 4A000000
+2038F820 4A000000
+2038F824 40000000
+2038F83C 40000000
+2038FE2C 40800000
+
+// Ultimate Sniper
+Author = libretro-database contributors / original PSP cheat authors
+2038F8A8 BF800000
+2038F8B0 4A000000
+2038F8B4 4A000000
+2038F8B8 4A000000
+2038F8BC 4A000000
+2038F8C0 4A000000
+2038F8D8 40000000
+
+// Weapons No Reload & Ammo
+Author = libretro-database contributors / original PSP cheat authors
+0035B9EF 0000003B
+0035B9DB 0000003B
+0035BA4F 0000003B
+0035BA6B 0000003B

@@ -1,0 +1,36 @@
+# PSP cheat pack
+# Serial: NPEZ-00130
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Bank
+Author = libretro-database contributors / original PSP cheat authors
+10739938 0000270F
+
+// Inf. Bonus
+Author = libretro-database contributors / original PSP cheat authors
+10739944 000003E7
+
+// Max Bank
+Author = libretro-database contributors / original PSP cheat authors
+20739938 0098967F
+
+// Max Bonus
+Author = libretro-database contributors / original PSP cheat authors
+20739944 000003E7
+
+// Max Cash Per Monster
+Author = libretro-database contributors / original PSP cheat authors
+207334E8 0000270F
+
+// Max Lives
+Author = libretro-database contributors / original PSP cheat authors
+20739948 05F5E0FF
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+20739940 05F5E0FF
+
+// Weak Monsters
+Author = libretro-database contributors / original PSP cheat authors
+207334E0 00000001
+207334E4 00000001

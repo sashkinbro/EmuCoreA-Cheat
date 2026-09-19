@@ -1,0 +1,60 @@
+# PSP cheat pack
+# Serial: NPEZ-00229
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Animals Unlocked & Buy Everything Even Without Money
+Author = libretro-database contributors / original PSP cheat authors
+200202D4 00008821
+
+// Automatic Well Works Even Without Money
+Author = libretro-database contributors / original PSP cheat authors
+200333E0 00000000
+
+// Buy Items Even Without Stars
+Author = libretro-database contributors / original PSP cheat authors
+20031A90 3407F423
+200317A0 3407F423
+
+// Buy Upgrades Even Without Money
+Author = libretro-database contributors / original PSP cheat authors
+20033528 00000000
+2003C550 00000000
+2003CD98 00000000
+200226C0 10000004
+2001E0B0 10000003
+
+// Infinite Water
+Author = libretro-database contributors / original PSP cheat authors
+20032C8C 00000000
+
+// Infinite Water [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20032C8C 00A62823
+
+// Instant Cargo & Animal Transport
+Author = libretro-database contributors / original PSP cheat authors
+2001CA50 00002021
+
+// No Need For Money To Refill Water
+Author = libretro-database contributors / original PSP cheat authors
+20032DA8 00000000
+
+// No Need For Water To Place Grass
+Author = libretro-database contributors / original PSP cheat authors
+2000A254 00000000
+
+// Scroll & Unlock Other Animals [Press R]
+Author = libretro-database contributors / original PSP cheat authors
+2008A748 10000002
+
+// Time Stopped
+Author = libretro-database contributors / original PSP cheat authors
+2002A3B8 00000000
+
+// Timer
+Author = libretro-database contributors / original PSP cheat authors
+20040644 460C6B00
+
+// Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20040644 C60C000C

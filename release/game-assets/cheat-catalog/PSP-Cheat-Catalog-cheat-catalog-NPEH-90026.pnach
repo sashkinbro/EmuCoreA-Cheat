@@ -1,0 +1,24 @@
+# PSP cheat pack
+# Serial: NPEH-90026
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+20AABA60 0098967F
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+20AABA64 000003E7
+20AAC65C 000003E7
+
+// Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000005
+20AABA68 000003E7
+DC000000 00000004
+D2000000 00000000
+
+// Max Stats v2
+Author = libretro-database contributors / original PSP cheat authors
+20AABA68 00000004
+000003E7 00000000
