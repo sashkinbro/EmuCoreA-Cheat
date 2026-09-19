@@ -1,6 +1,6 @@
 {
-  "batch": "batch-004",
-  "release": "v1.0.4",
+  "batch": "batch-005",
+  "release": "v1.0.5",
   "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
   "libretroCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
   "libretroEntries": [
@@ -21,6 +21,14 @@
       "sha256": "277650F7D7C8D175351A4AF1FD961615005571ACD6E852C00201B94396E2CCFE"
     },
     {
+      "serial": "NPJH-50107",
+      "sourceFile": "Kidou Senshi Gundam - Gundam Vs. Gundam Next Plus (PlayStation Store) [JP] [NPJH-50107].cht",
+      "blocks": 632,
+      "excluded": 62,
+      "malformed": 0,
+      "sha256": "64D5ACB2B4A5B83567E277F245F947F01FC74BDBCD4CF69E13E9828EEF12AC84"
+    },
+    {
       "serial": "NPJH-50311",
       "sourceFile": "Eiyuu Densetsu - Zero No Kiseki (PlayStation Store) [JP] [NPJH-50311].cht",
       "blocks": 125,
@@ -35,6 +43,30 @@
       "excluded": 18,
       "malformed": 0,
       "sha256": "8FF953C593EB5044D3AC053A955AD16DF07A09FFBE01A767C4F068FDDA892C48"
+    },
+    {
+      "serial": "NPJH-50352",
+      "sourceFile": "God Eater Burst (PlayStation Store) [JP] [NPJH-50352].cht",
+      "blocks": 730,
+      "excluded": 38,
+      "malformed": 0,
+      "sha256": "F12E3D6F3EEA99C332492444994CA3A464FB6EC75905F6EF2F52B7EA464F2623"
+    },
+    {
+      "serial": "NPJH-50443",
+      "sourceFile": "Final Fantasy - Type-0 Reishiki (Disk 1) (PlayStation Store) [JP] [NPJH-50443].cht",
+      "blocks": 440,
+      "excluded": 43,
+      "malformed": 0,
+      "sha256": "2B3B3C4BCFA91051F46980377883299034B5B0E94953D9F24793FEFADF60846F"
+    },
+    {
+      "serial": "NPJH-50444",
+      "sourceFile": "Final Fantasy Type-0 Reishiki (Disk 2) (PlayStation Store) [JP] [NPJH-50444].cht",
+      "blocks": 423,
+      "excluded": 33,
+      "malformed": 0,
+      "sha256": "7AE31F880048583942437110CBB807C41B624F6E0C9F0C929A6C57C5581603DC"
     },
     {
       "serial": "NPJH-50521",
@@ -69,6 +101,14 @@
       "sha256": "755E35C1F544A3EB0E293E10373399BA38A07BCAC378ACBB27221DA16F4ECCEC"
     },
     {
+      "serial": "NPJH-50878",
+      "sourceFile": "Toukiden Kiwami [JP] [NPJH-50878].cht",
+      "blocks": 605,
+      "excluded": 103,
+      "malformed": 0,
+      "sha256": "9B1A352B22C32DFF1D7A3B7DE3FAE2A147550B89A0145A1E3C574E881AE65A1F"
+    },
+    {
       "serial": "NPUH-10125",
       "sourceFile": "Final Fantasy III (PlayStation Store) [US] [NPUH-10125].cht",
       "blocks": 90,
@@ -93,6 +133,14 @@
       "sha256": "975667C50CBAEEB07DA625566D2D26A47B3238663E1543B69C53923FC290BE68"
     },
     {
+      "serial": "UCUS-98632",
+      "sourceFile": "Gran Turismo [US] [UCUS-98632].cht",
+      "blocks": 703,
+      "excluded": 11,
+      "malformed": 0,
+      "sha256": "59B3C0B0EE28545171AC8CB94E9CF2746A77DA93ED835244BF56F55720816EC2"
+    },
+    {
       "serial": "UCUS-98645",
       "sourceFile": "SOCOM - U.S. Navy Seals Fireteam Bravo 2 [US] [UCUS-98645].cht",
       "blocks": 165,
@@ -115,6 +163,38 @@
       "excluded": 9,
       "malformed": 0,
       "sha256": "D2FF7077909420DF02D8BC8A893A250F4CFEC84BB83D9558729F5C867537FCE6"
+    },
+    {
+      "serial": "UCUS-98751",
+      "sourceFile": "Patapon 3 [US] [UCUS-98751].cht",
+      "blocks": 133,
+      "excluded": 8,
+      "malformed": 0,
+      "sha256": "51606FF2684A41FF1AD88C40CAAF4B8842E15FD29F7977C5F0712E3CA74E3050"
+    },
+    {
+      "serial": "ULES-00151",
+      "sourceFile": "Grand Theft Auto - Liberty City Stories (v1.05&v3.00) [EU] [ULES-00151].cht",
+      "blocks": 345,
+      "excluded": 12,
+      "malformed": 0,
+      "sha256": "12EE7E1AE9BB73186E545355F369057F8E53853C7F6D7835CA30D9C029A9370E"
+    },
+    {
+      "serial": "ULES-00182",
+      "sourceFile": "Grand Theft Auto - Liberty City Stories (v1.00) [GER] [ULES-00182].cht",
+      "blocks": 205,
+      "excluded": 11,
+      "malformed": 0,
+      "sha256": "4566A05F361E6F1FF717F5E74260E7FD75D67D4B2256F5B28CB4CA5114849437"
+    },
+    {
+      "serial": "ULES-00502",
+      "sourceFile": "Grand Theft Auto - Vice City Stories [EU] [ULES-00502].cht",
+      "blocks": 320,
+      "excluded": 12,
+      "malformed": 0,
+      "sha256": "740CABCEF689B80710613B8A624CBDCD36145AFFE8C240EC026E281B91BEDFC9"
     },
     {
       "serial": "ULES-00503",
@@ -277,6 +357,14 @@
       "sha256": "857BCE2C5EE44A92B9D5EFF56E2633E9732CC87D81E89BD2FC8DAABA2E940893"
     },
     {
+      "serial": "ULJM-05800",
+      "sourceFile": "Monster Hunter Portable 3rd [JP] [ULJM-05800].cht",
+      "blocks": 347,
+      "excluded": 24,
+      "malformed": 0,
+      "sha256": "7CCF8FC304FF20275B2E7B2A2B1B30A8D7299D35CA698AC919340C764C331508"
+    },
+    {
       "serial": "ULJM-05844",
       "sourceFile": "Busou Shinki - Battle Masters Mk. 2 [JP] [ULJM-05844].cht",
       "blocks": 27,
@@ -293,6 +381,14 @@
       "sha256": "E87F14A08F262504FC4D2087E2177ACFD1D7FB67D0D671DA82D5CADEBB535B91"
     },
     {
+      "serial": "ULUS-10041",
+      "sourceFile": "Grand Theft Auto - Liberty City Stories (v1.00-3.00) [US] [ULUS-10041].cht",
+      "blocks": 408,
+      "excluded": 18,
+      "malformed": 0,
+      "sha256": "40DB98D78A059036424505DC99DE94E4A65845E050B84A122D205227A102BB25"
+    },
+    {
       "serial": "ULUS-10059",
       "sourceFile": "Midway Arcade Treasures - Extended Play [US] [ULUS-10059].cht",
       "blocks": 125,
@@ -307,6 +403,14 @@
       "excluded": 4,
       "malformed": 0,
       "sha256": "B04A18BDA75A8D53E9F5DE88A50EDD12D395CB9319AE7413C576DFB9862625D2"
+    },
+    {
+      "serial": "ULUS-10160",
+      "sourceFile": "Grand Theft Auto - Vice City Stories [US] [ULUS-10160].cht",
+      "blocks": 247,
+      "excluded": 10,
+      "malformed": 0,
+      "sha256": "86A44034FABFB4B15385034DC134A672C9DEF93107032C5C5E9E75BECD0CB14D"
     },
     {
       "serial": "ULUS-10200",
@@ -349,6 +453,22 @@
       "sha256": "07330992FAA4E1487D227077C4704BCBB11FE232C52B83B426018E785E8CEFA6"
     },
     {
+      "serial": "ULUS-10297",
+      "sourceFile": "Final Fantasy Tactics - The War Of The Lions [US] [ULUS-10297].cht",
+      "blocks": 187,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "83BEC394A4A620B54A63488A8259CEB5D2F051FA55BCFF6031E6BC30E2F09554"
+    },
+    {
+      "serial": "ULUS-10336",
+      "sourceFile": "Crisis Core - Final Fantasy VII [US] [ULUS-10336].cht",
+      "blocks": 178,
+      "excluded": 11,
+      "malformed": 0,
+      "sha256": "473784DA76DDC5C81722CAA5395590981996F682619C1A8D7E036EA42314588E"
+    },
+    {
       "serial": "ULUS-10368",
       "sourceFile": "Yggdra Union [US] [ULUS-10368].cht",
       "blocks": 121,
@@ -363,6 +483,38 @@
       "excluded": 3,
       "malformed": 0,
       "sha256": "83B5C0E205D6377D15B2409E8FD5F6A60C59BCE6FAB1D65AE1678E1314EA96B2"
+    },
+    {
+      "serial": "ULUS-10390",
+      "sourceFile": "Star Wars - Battlefront - Elite Squadron [US] [ULUS-10390].cht",
+      "blocks": 230,
+      "excluded": 23,
+      "malformed": 0,
+      "sha256": "73512EF78D3756915DAFCAC673D6999F9882A41E2012E432E90B6B7C9CBFD2DE"
+    },
+    {
+      "serial": "ULUS-10391",
+      "sourceFile": "Monster Hunter Freedom Unite [US] [ULUS-10391].cht",
+      "blocks": 210,
+      "excluded": 18,
+      "malformed": 1,
+      "sha256": "82D58931852ADBDBC807CFD1E01CE92A19263DA46627533E02669B8C098DF8AA"
+    },
+    {
+      "serial": "ULUS-10410",
+      "sourceFile": "Phantasy Star Portable [US] [ULUS-10410].cht",
+      "blocks": 514,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "8AD34371396D425306BF5381FB55F64650140BE3BD9BDEDC158CBF0C0CC5019F"
+    },
+    {
+      "serial": "ULUS-10437",
+      "sourceFile": "Dissidia - Final Fantasy [US] [ULUS-10437].cht",
+      "blocks": 190,
+      "excluded": 10,
+      "malformed": 0,
+      "sha256": "E1D5837EA3FF6E276191777B7733B8CAF688C80F02923C90C371405014237341"
     },
     {
       "serial": "ULUS-10447",
@@ -381,6 +533,30 @@
       "sha256": "08A44BF704A55F63526AA62C64CBD6F965A9BBB2C864AC7BED6CFE88D1080379"
     },
     {
+      "serial": "ULUS-10466",
+      "sourceFile": "Tekken 6 [US] [ULUS-10466].cht",
+      "blocks": 204,
+      "excluded": 9,
+      "malformed": 0,
+      "sha256": "3486D93B4A6B5AAAA85570C68E1AE32EDBB2D22E3F64FDC6B1D27324FC20EFB5"
+    },
+    {
+      "serial": "ULUS-10479",
+      "sourceFile": "Lord Of Arcana [US] [ULUS-10479].cht",
+      "blocks": 6594,
+      "excluded": 10,
+      "malformed": 0,
+      "sha256": "6B8A382004AE93F19B4A30A49A2C347022B3534ED4842EA0A86ED098DAB76F5C"
+    },
+    {
+      "serial": "ULUS-10490",
+      "sourceFile": "Grand Theft Auto - Chinatown Wars [US] [ULUS-10490].cht",
+      "blocks": 457,
+      "excluded": 8,
+      "malformed": 0,
+      "sha256": "9ACE26B456157F17BC1F00C2D10928FD40EE0CC3086BD3D5C29690A3F923CD6E"
+    },
+    {
       "serial": "ULUS-10511",
       "sourceFile": "Ace Combat - Joint Assault [US] [ULUS-10511].cht",
       "blocks": 116,
@@ -397,12 +573,36 @@
       "sha256": "93A53F686CB60A62C39E22D8E5578E49281A2290D625E868F6308FEC858D2645"
     },
     {
+      "serial": "ULUS-10560",
+      "sourceFile": "Final Fantasy IV - The Complete Collection [US] [ULUS-10560].cht",
+      "blocks": 75,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "354790AE8FFD1A25B557421AD1EF8436407D45604A5C72A70E1611F59A201ACF"
+    },
+    {
+      "serial": "ULUS-10563",
+      "sourceFile": "God Eater Burst [US] [ULUS-10563].cht",
+      "blocks": 477,
+      "excluded": 34,
+      "malformed": 0,
+      "sha256": "3CEF99E2713E75053DEAC664007D0FCA703D7F014488D58D7E4EA467AAE7E9DC"
+    },
+    {
       "serial": "ULUS-10565",
       "sourceFile": "Tactics Ogre - Let Us Cling Together [US] [ULUS-10565].cht",
       "blocks": 137,
       "excluded": 0,
       "malformed": 0,
       "sha256": "BB604DD155C345A52BCCEBD9B23307BE038D8AEA9AF98DF527FA5066B9E10F54"
+    },
+    {
+      "serial": "ULUS-10582",
+      "sourceFile": "Naruto Shippuden - Ultimate Ninja Impact [US] [ULUS-10582].cht",
+      "blocks": 259,
+      "excluded": 12,
+      "malformed": 0,
+      "sha256": "FB9CA5A686D7DECA47F48DE4F646C677F894472D0E9889AD80F7FAB321FD76BA"
     }
   ]
 }
