@@ -1,6 +1,6 @@
 {
-  "batch": "batch-005",
-  "release": "v1.0.5",
+  "batch": "batch-006",
+  "release": "v1.0.6",
   "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
   "libretroCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
   "libretroEntries": [
@@ -19,6 +19,14 @@
       "excluded": 18,
       "malformed": 1,
       "sha256": "277650F7D7C8D175351A4AF1FD961615005571ACD6E852C00201B94396E2CCFE"
+    },
+    {
+      "serial": "NPJH-50043",
+      "sourceFile": "Phantasy Star Portable 2 (PlayStation Store) [JP] [NPJH-50043].cht",
+      "blocks": 131,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F137E006C2C9AE05D98D3F54A093FDF4F301DBC790CC6C97A3C3A0094C650A06"
     },
     {
       "serial": "NPJH-50107",
@@ -69,6 +77,14 @@
       "sha256": "7AE31F880048583942437110CBB807C41B624F6E0C9F0C929A6C57C5581603DC"
     },
     {
+      "serial": "NPJH-50473",
+      "sourceFile": "Eiyuu Densetsu - Ao No Kiseki (PlayStation Store) [JP] [NPJH-50473].cht",
+      "blocks": 240,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "9AB1349A1B7BB18F0A22D1546DDF60F2A39DEDF8C4175A586D73A91161422122"
+    },
+    {
       "serial": "NPJH-50521",
       "sourceFile": "Super Robot Taisen - Operation Extend [JP] [NPJH-50521].cht",
       "blocks": 200,
@@ -91,6 +107,14 @@
       "excluded": 7,
       "malformed": 0,
       "sha256": "C6B6A016513F7B78EE632D6C363FB0DFA6BE1D2C8FF8A2BC4F3943A7AD63A2ED"
+    },
+    {
+      "serial": "NPJH-50701",
+      "sourceFile": "Sword Art Online - Infinity Moment [JP] [NPJH-50701].cht",
+      "blocks": 585,
+      "excluded": 20,
+      "malformed": 0,
+      "sha256": "B04424780EB9DA3C2BEEE1149CD54D7D60BE0C788E44B1F4E827D10DF3FC3057"
     },
     {
       "serial": "NPJH-50789",
@@ -117,12 +141,52 @@
       "sha256": "15DD03C27FFBAF3ED4695F238D357B3C60C700FF70DB02AC8C4BA38C34BE1467"
     },
     {
+      "serial": "UCES-00356",
+      "sourceFile": "Tekken - Dark Resurrection [EU] [UCES-00356].cht",
+      "blocks": 131,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "C305EA062AF07CADFEF68ED3DBA05ADD2BCF22047E73115C55D0B45C7E986019"
+    },
+    {
+      "serial": "UCES-01242",
+      "sourceFile": "SOCOM - U.S. Navy Seals Fireteam Bravo 3 [EU] [UCES-01242].cht",
+      "blocks": 205,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "2DCFE295DB510886DA3CC7928E2ED1B0F7911D32F76BE44015D31B5BD2B5B09A"
+    },
+    {
+      "serial": "UCES-01245",
+      "sourceFile": "Gran Turismo (v1.01) [EU] [UCES-01245].cht",
+      "blocks": 572,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "B96F99E601B26F45CF5A688227C2113E22BF27257D36F8F7911D1F210546D029"
+    },
+    {
+      "serial": "UCES-01264",
+      "sourceFile": "LittleBigPlanet (Version 2.02) [EU] [UCES-01264].cht",
+      "blocks": 72,
+      "excluded": 8,
+      "malformed": 0,
+      "sha256": "19EB8CA88A9013C2E972B849D47FBF626539F0EECB269E4FF2C17811197D5458"
+    },
+    {
       "serial": "UCES-01327",
       "sourceFile": "ModNation Racers [EU] [UCES-01327].cht",
       "blocks": 119,
       "excluded": 6,
       "malformed": 0,
       "sha256": "EC8554871E8A7E222AE04E903998532095206165746651C9DEDDCEB0CD34EC4F"
+    },
+    {
+      "serial": "UCJS-10100",
+      "sourceFile": "Gran Turismo [JP] [UCJS-10100].cht",
+      "blocks": 544,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "A464D78E79A6C448B2DA7C4B5DD5F8CD3F1A495A88B824C1FA3DEF7B15CF411E"
     },
     {
       "serial": "UCKS-45027",
@@ -139,6 +203,14 @@
       "excluded": 11,
       "malformed": 0,
       "sha256": "59B3C0B0EE28545171AC8CB94E9CF2746A77DA93ED835244BF56F55720816EC2"
+    },
+    {
+      "serial": "UCUS-98633",
+      "sourceFile": "Ratchet & Clank - Size Matters [US] [UCUS-98633].cht",
+      "blocks": 163,
+      "excluded": 16,
+      "malformed": 0,
+      "sha256": "25CDE5C08C9765E350BE654226601598BDFC207FCF6CCA52A40003ACCD5A470F"
     },
     {
       "serial": "UCUS-98645",
@@ -165,12 +237,28 @@
       "sha256": "D2FF7077909420DF02D8BC8A893A250F4CFEC84BB83D9558729F5C867537FCE6"
     },
     {
+      "serial": "UCUS-98711",
+      "sourceFile": "Patapon [US] [UCUS-98711].cht",
+      "blocks": 181,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "0C33AD61D840F6F851DBF8138B3E318EB0E198C95160E2722179D7C92D7D6A23"
+    },
+    {
       "serial": "UCUS-98751",
       "sourceFile": "Patapon 3 [US] [UCUS-98751].cht",
       "blocks": 133,
       "excluded": 8,
       "malformed": 0,
       "sha256": "51606FF2684A41FF1AD88C40CAAF4B8842E15FD29F7977C5F0712E3CA74E3050"
+    },
+    {
+      "serial": "ULAS-42060",
+      "sourceFile": "Monster Hunter Freedom [AS] [ULAS-42060].cht",
+      "blocks": 403,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "CE7364D08CABEFCEE1C6C0E05C03863529D8D79E79F2A8BFF8AA974282234CDD"
     },
     {
       "serial": "ULES-00151",
@@ -181,12 +269,28 @@
       "sha256": "12EE7E1AE9BB73186E545355F369057F8E53853C7F6D7835CA30D9C029A9370E"
     },
     {
+      "serial": "ULES-00176",
+      "sourceFile": "Tales Of Eternia [EU] [ULES-00176].cht",
+      "blocks": 395,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "4126E3432F6E11D1AF495F73AD4691B2CDAFD4564B38440D07AE9DE597296370"
+    },
+    {
       "serial": "ULES-00182",
       "sourceFile": "Grand Theft Auto - Liberty City Stories (v1.00) [GER] [ULES-00182].cht",
       "blocks": 205,
       "excluded": 11,
       "malformed": 0,
       "sha256": "4566A05F361E6F1FF717F5E74260E7FD75D67D4B2256F5B28CB4CA5114849437"
+    },
+    {
+      "serial": "ULES-00318",
+      "sourceFile": "Monster Hunter Freedom [EU] [ULES-00318].cht",
+      "blocks": 416,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "136A0960286525645CA00A5AA23612A2EEDD04496E4D1DC35D8B7266FC77AC76"
     },
     {
       "serial": "ULES-00502",
@@ -211,6 +315,30 @@
       "excluded": 2,
       "malformed": 0,
       "sha256": "4B975052CDD9036B71EE9DCD008F39F51EC86F41617052E3415B9C9625A56293"
+    },
+    {
+      "serial": "ULES-00841",
+      "sourceFile": "Castlevania - The Dracula X Chronicles [EU] [ULES-00841].cht",
+      "blocks": 151,
+      "excluded": 10,
+      "malformed": 0,
+      "sha256": "820FD809D194F4AD26D6AE9283460868D8D5379D83CF51FFD9B9C3F177328EB1"
+    },
+    {
+      "serial": "ULES-00850",
+      "sourceFile": "Final Fantasy Tactics - The War Of The Lions [EU] [ULES-00850].cht",
+      "blocks": 244,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "C39793D82F809437B6994C0747EFC73C4E934569A93E781D4137471E43D09DA5"
+    },
+    {
+      "serial": "ULES-01183",
+      "sourceFile": "Yu-Gi-Oh! Duel Monsters GX - Tag Force 3 [EU] [ULES-01183].cht",
+      "blocks": 70,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "D970D7B13D34DFA63431F1446CBE4449B8010D4C5F2B20114E7D36A722F15E41"
     },
     {
       "serial": "ULES-01187",
@@ -267,6 +395,14 @@
       "excluded": 6,
       "malformed": 0,
       "sha256": "3D3EB0942B212FF7BC5BDE63E31BCC60106E703A6AE342C8C6628FCB831F9242"
+    },
+    {
+      "serial": "ULJM-05101",
+      "sourceFile": "Valkyrie Profile - Lenneth [JP] [ULJM-05101].cht",
+      "blocks": 232,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "3A845822B99D15E12BC85249246ACE060BF2FAB088A25C8968953E64A8CCEC71"
     },
     {
       "serial": "ULJM-05255",
@@ -333,6 +469,22 @@
       "sha256": "D3060A8FE0455B5CFAAC1E0898C0E8AC61C2EC3717FB24C43ED1E0B2B59623E2"
     },
     {
+      "serial": "ULJM-05552",
+      "sourceFile": "Armored Core - Silent Line Portable [JP] [ULJM-05552].cht",
+      "blocks": 49,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F2BF360D63E6612AD316C0C13C998A98D18A4DBE93550EDD28EBBD8DAFAEF24F"
+    },
+    {
+      "serial": "ULJM-05600",
+      "sourceFile": "Kingdom Hearts - Birth By Sleep [JP] [ULJM-05600].cht",
+      "blocks": 307,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "616F158DF5AA6A392524F94789AE432A6C34BCC6D5BB2A834D0B3C3951B47F6C"
+    },
+    {
       "serial": "ULJM-05637",
       "sourceFile": "Shin Sangoku Musou - Multi Raid 2 [JP] [ULJM-05637].cht",
       "blocks": 200,
@@ -373,12 +525,36 @@
       "sha256": "1B937431795D8A5A028DE0A42DF2E7B0206BA3DBF75F4F36C961EB2A73E6F579"
     },
     {
+      "serial": "ULJM-05940",
+      "sourceFile": "Yu-Gi-Oh! 5D's Tag Force 6 [JP] [ULJM-05940].cht",
+      "blocks": 60,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "7508A809C262BB6177466F5312C6EF42963A00FBD87C0E3ECDAD048612B581D6"
+    },
+    {
       "serial": "ULJS-00048",
       "sourceFile": "Tekken - Dark Resurrection [JP] [ULJS-00048].cht",
       "blocks": 198,
       "excluded": 3,
       "malformed": 0,
       "sha256": "E87F14A08F262504FC4D2087E2177ACFD1D7FB67D0D671DA82D5CADEBB535B91"
+    },
+    {
+      "serial": "ULJS-00097",
+      "sourceFile": "Tales Of Destiny 2 [JP] [ULJS-00097].cht",
+      "blocks": 81,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "4259AB9B4570460A371462C04BB6F3C4FF8C7C260F76AA345D53364812A5A268"
+    },
+    {
+      "serial": "ULJS-00237",
+      "sourceFile": "God Eater [JP] [ULJS-00237].cht",
+      "blocks": 96,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "04DAB063BC794D1E9F67CDA1651B12A5ECCE60DEE4B16E8CAC0AA3B0EE8F2921"
     },
     {
       "serial": "ULUS-10041",
@@ -395,6 +571,14 @@
       "excluded": 1,
       "malformed": 0,
       "sha256": "298E3E07F15BD963E2FFAEEE0B3B1A0D03047DAA3A23A5665C311D389EB2B27B"
+    },
+    {
+      "serial": "ULUS-10084",
+      "sourceFile": "Monster Hunter Freedom [US] [ULUS-10084].cht",
+      "blocks": 346,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "BAE2C3659E3AB4203D548AD945B33ED01D20CF3F9BF54D65145DD1250B80E00E"
     },
     {
       "serial": "ULUS-10139",
@@ -461,6 +645,14 @@
       "sha256": "83BEC394A4A620B54A63488A8259CEB5D2F051FA55BCFF6031E6BC30E2F09554"
     },
     {
+      "serial": "ULUS-10310",
+      "sourceFile": "Medal Of Honor - Heroes 2 [US] [ULUS-10310].cht",
+      "blocks": 165,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "D9C20B79CEB160EBB0603B997B8958ACA3D14A8702FF38C5FB7705146D7FE3AB"
+    },
+    {
       "serial": "ULUS-10336",
       "sourceFile": "Crisis Core - Final Fantasy VII [US] [ULUS-10336].cht",
       "blocks": 178,
@@ -483,6 +675,14 @@
       "excluded": 3,
       "malformed": 0,
       "sha256": "83B5C0E205D6377D15B2409E8FD5F6A60C59BCE6FAB1D65AE1678E1314EA96B2"
+    },
+    {
+      "serial": "ULUS-10375",
+      "sourceFile": "Star Ocean - Second Evolution [US] [ULUS-10375].cht",
+      "blocks": 146,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "2445E1BFAC3D9692D17CE3F5E71C39F58CE1BFF3C271F0E582DFA6A0330685AF"
     },
     {
       "serial": "ULUS-10390",

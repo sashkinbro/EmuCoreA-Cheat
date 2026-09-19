@@ -37,7 +37,9 @@ license over individual code authors' rights.
 The former CWCheat Database Plus source is retained in `sources.json` as
 link-only provenance because its cheat data has no explicit redistribution
 license in the pinned upstream repository. No CWCheat-derived pack is present
-in the current manifest or release archives.
+in the current manifest or release archives. The active GitHub release line
+starts at `v1.0.4`; releases `v1.0.0` through `v1.0.3` were removed because
+they contained packs from that link-only source.
 
 ## Pack format
 
@@ -68,7 +70,7 @@ python scripts/validate_libretro_source.py --source path/to/libretro-database
 To prepare a release bundle after validation:
 
 ```bash
-python scripts/make_release.py --version v1.0.0
+python scripts/make_release.py --version v1.0.6
 ```
 
 The resulting ZIP is an archival distribution bundle. `cheats.json` continues
