@@ -22,7 +22,9 @@ def main() -> int:
         request = Request(EXPECTED_URL, headers={"User-Agent": "EmuCoreA-Cheat-validator"})
         with urlopen(request, timeout=45) as response:
             payload = response.read()
-    digest = hashlib.sha256(payload).hexdigest().upper()
+    # Normalize checkout line endings before comparing against the build
+    # report. GitHub raw blobs use LF while Windows Git may use CRLF locally.
+    digest = hashlib.sha256(payload.replace(b"\r\n", b"\n")).hexdigest().upper()
     report = json.loads((ROOT / "build-report.json").read_text(encoding="utf-8"))
     if report.get("source") != EXPECTED_URL:
         raise SystemExit("validation failed: build report source is not pinned")

@@ -84,6 +84,10 @@ def main() -> int:
     repo = args.repo.resolve()
     source_bytes = source.read_bytes()
     text = source_bytes.decode("utf-8", errors="strict")
+    # Git checkout settings may materialize the pinned blob with CRLF on
+    # Windows. Hash the canonical UTF-8/LF representation so local and raw
+    # GitHub verification produce the same provenance digest.
+    canonical_source_bytes = text.replace("\r\n", "\n").encode("utf-8")
     parsed = parse_db(text)
     files = repo / "files" / "cwcheat-db-plus"
     files.mkdir(parents=True, exist_ok=True)
@@ -120,9 +124,9 @@ def main() -> int:
         report.append({"serial": serial, "title": title, "blocks": block_count, "excluded": excluded, "sha256": digest})
     catalog = {"schemaVersion": 1, "generatedAt": "2026-09-19T00:00:00Z", "entries": entries}
     (repo / "cheats.json").write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
-    (repo / "build-report.json").write_text(json.dumps({"source": SOURCE_RAW, "sourceSha256": hashlib.sha256(source_bytes).hexdigest().upper(), "entries": report}, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
+    (repo / "build-report.json").write_text(json.dumps({"source": SOURCE_RAW, "sourceSha256": hashlib.sha256(canonical_source_bytes).hexdigest().upper(), "entries": report}, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     print(f"generated {len(entries)} packs from {source}")
-    print(f"source sha256: {hashlib.sha256(source_bytes).hexdigest().upper()}")
+    print(f"source sha256: {hashlib.sha256(canonical_source_bytes).hexdigest().upper()}")
     for row in report:
         print(f"{row['serial']}: {row['blocks']} blocks, {row['excluded']} excluded")
     return 0
