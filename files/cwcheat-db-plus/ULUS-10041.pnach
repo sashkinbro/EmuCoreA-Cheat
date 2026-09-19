@@ -1,0 +1,2909 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10041
+# Source: https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db
+// Unbuffered Rendering HackFix [USA-v3.00]
+Author = Saramagrean / original CWCheat authors
+E0070200 002DA5F0
+202DA5F0 340601E0
+202DA5F4 34070110
+200B70AC 340601E0
+200B70B0 34070110
+202B4110 02C02021
+E0010000 00356AE4
+2027EECC ADA00000
+
+// Unbuffered Rendering No-Fix [USA-v3.00,Default]
+Author = Saramagrean / original CWCheat authors
+E00601E0 002DA5F0
+202DA5F0 34060200
+202DA5F4 34070140
+200B70AC 34060200
+200B70B0 34070140
+202B4110 00B62021
+2027EECC ADA50000
+
+// 30 FPS (USAv1) [Normal]
+Author = Saramagrean / original CWCheat authors
+202B343C 1000FFF7
+
+// 30 FPS (UMDv3.0) [Default]
+Author = Saramagrean / original CWCheat authors
+E0010000 002B338C
+202B338C 1000FFF7
+
+// 60 FPS (USAv1)
+Author = Saramagrean / original CWCheat authors
+202B343C 00000000
+
+// 60 FPS (UMDv3.0)
+Author = Saramagrean / original CWCheat authors
+E001FFF7 002B338C
+202B338C 00000000
+
+// Right Analog v1.1 [X/R Swap][USA-v1.00]
+Author = Saramagrean / original CWCheat authors
+E0430001 100033FC
+E042502B 000F1C8C
+20003404 340B000D
+2006ACCC 0E200D01
+200F1C88 240AFFFF
+20297604 00000000
+20297668 00000000
+20297F10 8486000E
+20297F40 8482002A
+202980F0 8482000E
+20298B28 3C0408B9
+20298B30 3C020880
+20298B34 244233FE
+20298B58 00000000
+20298B5C 84420002
+20298B84 00000000
+20298B88 84420002
+20298B94 00000000
+20298B98 84420002
+20298C2C 3C0408B9
+20298C34 3C020880
+20298C38 244233FE
+20298C44 3C020880
+20298C48 244233FE
+20298C4C 00402025
+20298C50 84420004
+20298CB4 00402025
+20298CB8 84420004
+20298D54 00000000
+20298DD0 3C020880
+20298DD4 244233FE
+20298DD8 00402025
+20298DDC 84820002
+20298E54 00000000
+20298E88 3C020880
+20298E8C 244233FE
+20298E90 00402025
+20298E94 84820004
+200033FC 00000001
+20003408 000B5023
+2000340C 3C0F0880
+20003410 27AE001E
+20003414 91CD0000
+20003418 25ADFF80
+2000341C 91CC0001
+20003420 258CFF80
+20003424 01AB082A
+20003428 10200004
+2000342C 01AA082A
+20003430 14200002
+20003434 00000000
+20003438 00006821
+2000343C 018B082A
+20003440 10200004
+20003444 018A082A
+20003448 14200002
+2000344C 00000000
+20003450 00006021
+20003454 A5ED3400
+20003458 A5EC3402
+2000345C 03E00008
+20003460 44806800
+E0029CA0 002964C8
+20298B2C 84849CAA
+20298C30 84849CAA
+E0029D60 002964C8
+20298B2C 84849D6A
+20298C30 84849D6A
+
+// Right Analog v1.1 [X/R No Swap][USA-v1.00]
+Author = Saramagrean / original CWCheat authors
+E0430002 100033FC
+E042502B 000F1C8C
+20003404 340B000D
+2006ACCC 0E200D01
+200F1C88 240AFFFF
+20297604 00000000
+20297668 00000000
+20297F10 8486002A
+20297F40 8482000E
+202980F0 8482002A
+20298B28 3C0408B9
+20298B30 3C020880
+20298B34 244233FE
+20298B58 00000000
+20298B5C 84420002
+20298B84 00000000
+20298B88 84420002
+20298B94 00000000
+20298B98 84420002
+20298C2C 3C0408B9
+20298C34 3C020880
+20298C38 244233FE
+20298C44 3C020880
+20298C48 244233FE
+20298C4C 00402025
+20298C50 84420004
+20298CB4 00402025
+20298CB8 84420004
+20298D54 00000000
+20298DD0 3C020880
+20298DD4 244233FE
+20298DD8 00402025
+20298DDC 84820002
+20298E54 00000000
+20298E88 3C020880
+20298E8C 244233FE
+20298E90 00402025
+20298E94 84820004
+200033FC 00000002
+20003408 000B5023
+2000340C 3C0F0880
+20003410 27AE001E
+20003414 91CD0000
+20003418 25ADFF80
+2000341C 91CC0001
+20003420 258CFF80
+20003424 01AB082A
+20003428 10200004
+2000342C 01AA082A
+20003430 14200002
+20003434 00000000
+20003438 00006821
+2000343C 018B082A
+20003440 10200004
+20003444 018A082A
+20003448 14200002
+2000344C 00000000
+20003450 00006021
+20003454 A5ED3400
+20003458 A5EC3402
+2000345C 03E00008
+20003460 44806800
+E0029CA0 002964C8
+20298B2C 84849CAA
+20298C30 84849CAA
+E0029D60 002964C8
+20298B2C 84849D6A
+20298C30 84849D6A
+
+// Right Analog v1.1 [Off, Default][USA-v1.00]
+Author = Saramagrean / original CWCheat authors
+E026FFFF 000F1C88
+2006ACCC 44806800
+200F1C88 850A000A
+20297604 10A00008
+20297668 10A00008
+20297F10 8486002A
+20297F40 8482000E
+202980F0 8482002A
+20298B28 00000000
+20298B2C 0E2A592E
+20298B30 00002025
+20298B34 8444000A
+20298B58 0E2A5B44
+20298B5C 02002025
+20298B84 0E2A5B44
+20298B88 02002025
+20298B94 0E2A5B44
+20298B98 02002025
+20298C2C 00000000
+20298C30 0E2A592E
+20298C34 00002025
+20298C38 8444000A
+20298C44 0E2A592E
+20298C48 00002025
+20298C4C 0E2A5B55
+20298C50 00402025
+20298CB4 0E2A5B55
+20298CB8 02002025
+20298D54 14800034
+20298DD0 0E2A592E
+20298DD4 00002025
+20298DD8 0E2A5B44
+20298DDC 00402025
+20298E54 14800027
+20298E88 0E2A592E
+20298E8C 00002025
+20298E90 0E2A5B55
+20298E94 00402025
+200033FC 00000000
+
+// Right Analog v1.1 [X/R Swap][USA-v3.00]
+Author = Saramagrean / original CWCheat authors
+E0430001 100033FC
+E042502B 000F1BF0
+20003404 340B000D
+2006ACBC 0E200D01
+200F1BEC 240AFFFF
+20297554 00000000
+202975B8 00000000
+20297E60 8486000E
+20297E90 8482002A
+20298040 8482000E
+20298A78 3C0408B9
+20298A80 3C020880
+20298A84 244233FE
+20298AA8 00000000
+20298AAC 84420002
+20298AD4 00000000
+20298AD8 84420002
+20298AE4 00000000
+20298AE8 84420002
+20298B7C 3C0408B9
+20298B84 3C020880
+20298B88 244233FE
+20298B94 3C020880
+20298B98 244233FE
+20298B9C 00402025
+20298BA0 84420004
+20298C04 00402025
+20298C08 84420004
+20298CA4 00000000
+20298D20 3C020880
+20298D24 244233FE
+20298D28 00402025
+20298D2C 84820002
+20298DA4 00000000
+20298DD8 3C020880
+20298DDC 244233FE
+20298DE0 00402025
+20298DE4 84820004
+200033FC 00000001
+20003408 000B5023
+2000340C 3C0F0880
+20003410 27AE001E
+20003414 91CD0000
+20003418 25ADFF80
+2000341C 91CC0001
+20003420 258CFF80
+20003424 01AB082A
+20003428 10200004
+2000342C 01AA082A
+20003430 14200002
+20003434 00000000
+20003438 00006821
+2000343C 018B082A
+20003440 10200004
+20003444 018A082A
+20003448 14200002
+2000344C 00000000
+20003450 00006021
+20003454 A5ED3400
+20003458 A5EC3402
+2000345C 03E00008
+20003460 44806800
+E0029DA0 00296418
+20298A7C 84849DAA
+20298B80 84849DAA
+E0029E20 00296418
+20298A7C 84849E2A
+20298B80 84849E2A
+
+// Right Analog v1.1 [X/R No Swap][USA-v3.00]
+Author = Saramagrean / original CWCheat authors
+E0430002 100033FC
+E042502B 000F1BF0
+20003404 340B000D
+2006ACBC 0E200D01
+200F1BEC 240AFFFF
+20297554 00000000
+202975B8 00000000
+20297E60 8486002A
+20297E90 8482000E
+20298040 8482002A
+20298A78 3C0408B9
+20298A80 3C020880
+20298A84 244233FE
+20298AA8 00000000
+20298AAC 84420002
+20298AD4 00000000
+20298AD8 84420002
+20298AE4 00000000
+20298AE8 84420002
+20298B7C 3C0408B9
+20298B84 3C020880
+20298B88 244233FE
+20298B94 3C020880
+20298B98 244233FE
+20298B9C 00402025
+20298BA0 84420004
+20298C04 00402025
+20298C08 84420004
+20298CA4 00000000
+20298D20 3C020880
+20298D24 244233FE
+20298D28 00402025
+20298D2C 84820002
+20298DA4 00000000
+20298DD8 3C020880
+20298DDC 244233FE
+20298DE0 00402025
+20298DE4 84820004
+200033FC 00000002
+20003408 000B5023
+2000340C 3C0F0880
+20003410 27AE001E
+20003414 91CD0000
+20003418 25ADFF80
+2000341C 91CC0001
+20003420 258CFF80
+20003424 01AB082A
+20003428 10200004
+2000342C 01AA082A
+20003430 14200002
+20003434 00000000
+20003438 00006821
+2000343C 018B082A
+20003440 10200004
+20003444 018A082A
+20003448 14200002
+2000344C 00000000
+20003450 00006021
+20003454 A5ED3400
+20003458 A5EC3402
+2000345C 03E00008
+20003460 44806800
+E0029DA0 00296418
+20298A7C 84849DAA
+20298B80 84849DAA
+E0029E20 00296418
+20298A7C 84849E2A
+20298B80 84849E2A
+
+// Right Analog v1.1 [Off, Default][USA-v3.00]
+Author = Saramagrean / original CWCheat authors
+E026FFFF 000F1BEC
+2006ACBC 44806800
+200F1BEC 850A000A
+20297554 10A00008
+202975B8 10A00008
+20297E60 8486002A
+20297E90 8482000E
+20298040 8482002A
+20298A78 00000000
+20298A7C 0E2A5902
+20298A80 00002025
+20298A84 8444000A
+20298AA8 0E2A5B18
+20298AAC 02002025
+20298AD4 0E2A5B18
+20298AD8 02002025
+20298AE4 0E2A5B18
+20298AE8 02002025
+20298B7C 00000000
+20298B80 0E2A5902
+20298B84 00002025
+20298B88 8444000A
+20298B94 0E2A5902
+20298B98 00002025
+20298B9C 0E2A5B29
+20298BA0 00402025
+20298C04 0E2A5B29
+20298C08 02002025
+20298CA4 14800034
+20298D20 0E2A5902
+20298D24 00002025
+20298D28 0E2A5B18
+20298D2C 00402025
+20298DA4 14800027
+20298DD8 0E2A5902
+20298DDC 00002025
+20298DE0 0E2A5B29
+20298DE4 00402025
+200033FC 00000000
+
+// $9999999 [v1.00]
+Author = Saramagrean / original CWCheat authors
+20389ACC 05F5E0FF
+
+// Saves [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E180 00000000
+
+// 00 Moltov Cocktails [v1.00]
+Author = Saramagrean / original CWCheat authors
+0114BCC8 00000064
+
+// 357 No Reload-Inf. Ammo [v1.00]
+Author = Saramagrean / original CWCheat authors
+0114BCE0 00000006
+0114BCE4 000000FF
+
+// 5000 Shotgun Ammo [v1.00]
+Author = Saramagrean / original CWCheat authors
+1114BD00 00001388
+
+// All Green Lights [v1.00]
+Author = Saramagrean / original CWCheat authors
+203314AC 00000001
+
+// All Green Lights [v3.00]
+Author = Saramagrean / original CWCheat authors
+203315AC 00000001
+
+// All Normal Lights [v1.00]
+Author = Saramagrean / original CWCheat authors
+203314AC 00000000
+
+// All Normal Lights [v3.00]
+Author = Saramagrean / original CWCheat authors
+203315AC 00000000
+
+// Assault Rifle [v1.00]
+Author = Saramagrean / original CWCheat authors
+2114BD34 000003E8
+2114BD38 000003E8
+
+// Auto Reload
+Author = Saramagrean / original CWCheat authors
+20055AB8 00000000
+
+// Balloon Blood
+Author = Saramagrean / original CWCheat authors
+2033A184 3E4CCCCD
+2033A274 3D75C28F
+2033A0E4 3E4CCCCD
+
+// Blinking Players & Cars/Invisible
+Author = Saramagrean / original CWCheat authors
+2035E994 00000000
+2035E990 00000000
+2035E98C 00000000
+2035E980 00000000
+
+// Bubble Heads [v1.00]
+Author = Saramagrean / original CWCheat authors
+00348E2B 00000001
+
+// Bubble Heads [v3.00]
+Author = Saramagrean / original CWCheat authors
+00348F3B 00000001
+
+// Car Damage Disable [v1.00]
+Author = Saramagrean / original CWCheat authors
+2001D8F4 00000000
+200214F4 03E00008
+200214F8 00000000
+
+// Car Damage Disable [v3.00]
+Author = Saramagrean / original CWCheat authors
+2001D8F4 00000000
+200214F4 03E00008
+200214F8 00000000
+
+// Car Damage Enable [v1.00]
+Author = Saramagrean / original CWCheat authors
+2001D8F4 00000000
+200214F4 27BDFF30
+200214F8 AFB000B0
+
+// Car Damage Enable [v3.00]
+Author = Saramagrean / original CWCheat authors
+2001D8F4 00000000
+200214F4 27BDFF30
+200214F8 AFB000B0
+
+// Cars: Black [v1.00]
+Author = Saramagrean / original CWCheat authors
+20333B4C 00000001
+
+// Cars: Black [v3.00]
+Author = Saramagrean / original CWCheat authors
+20333C4C 00000001
+
+// Cars: Chrome [v1.00]
+Author = Saramagrean / original CWCheat authors
+20358986 00000001
+
+// Cars: Chrome [v3.00]
+Author = Saramagrean / original CWCheat authors
+20358AC6 00000001
+
+// Cars: Drive On Water [v1.00]
+Author = Saramagrean / original CWCheat authors
+00333E32 00000001
+
+// Cars: Drive On Water [v3.00]
+Author = Saramagrean / original CWCheat authors
+20333F32 00000001
+
+// Cars: Normal Cars [v1.00]
+Author = Saramagrean / original CWCheat authors
+20333B4C 00000000
+20333E2E 00000000
+20333E32 00000000
+20358986 00000000
+
+// Cars: Normal Cars [v3.00]
+Author = Saramagrean / original CWCheat authors
+20333C4C 00000000
+20333F2E 00000000
+20333F32 00000000
+20358AC6 00000000
+
+// Cars: Perfect Traction [v1.00]
+Author = Saramagrean / original CWCheat authors
+20333E2E 00000001
+
+// Cars: Perfect Traction [v3.00]
+Author = Saramagrean / original CWCheat authors
+20333F2E 00000001
+
+// Cars: White [v1.00]
+Author = Saramagrean / original CWCheat authors
+20333B4C 00000100
+
+// Cars: White [v3.00]
+Author = Saramagrean / original CWCheat authors
+20333C4D 00000001
+
+// Coordinate Teleportation [S.H 1st]
+Author = Saramagrean / original CWCheat authors
+0114B524 C38363F6
+0114B520 4490DF3B
+0114B528 418A1D18
+
+// Drive On Water [v3.00]
+Author = Saramagrean / original CWCheat authors
+00333F32 00000001
+
+// Drivers: Aggressive [v1.00]
+Author = Saramagrean / original CWCheat authors
+2034BC10 00000001
+
+// Drivers: Aggressive [v3.00]
+Author = Saramagrean / original CWCheat authors
+2034BD20 00000001
+
+// Drivers: Normal [v1.00]
+Author = Saramagrean / original CWCheat authors
+2034BC10 00000000
+
+// Drivers: Normal [v3.00]
+Author = Saramagrean / original CWCheat authors
+2034BD20 00000000
+
+// Everyone Bears Firearms [v3.00]
+Author = Saramagrean / original CWCheat authors
+00356618 00000001
+
+// Everyone Follows You [v3.00]
+Author = Saramagrean / original CWCheat authors
+00348F39 00000001
+
+// Freeze Camera [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00000001
+00000001 00000560
+
+// Freeze Camera [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00000001
+00000001 00000560
+
+// Freeze Camera [Disable] [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00000000
+00000001 00000560
+
+// Freeze Camera [Disable] [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00000000
+00000001 00000560
+
+// Game Speed 50% [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E040 3F000000
+
+// Game Speed 50% [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E158 3F000000
+
+// Game Speed 100% [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E040 3F800000
+
+// Game Speed 100% [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E158 3F800000
+
+// Game Speed 200% [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E040 40000000
+
+// Game Speed 200% [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E158 40000000
+
+// Green Traffic Lights [v1.00]
+Author = Saramagrean / original CWCheat authors
+003314AC 00000001
+
+// Green Traffic Lights [v3.00]
+Author = Saramagrean / original CWCheat authors
+003315AC 00000001
+
+// Grenades [v1.00]
+Author = Saramagrean / original CWCheat authors
+2114BCC8 00000064
+
+// Hide Ammunition
+Author = Saramagrean / original CWCheat authors
+00189E30 00000000
+
+// Hijack Vehicle Radio
+Author = Saramagrean / original CWCheat authors
+00003000 3C0809AD
+00003004 8D084C5C
+00003008 24090200
+0000300C 3C0A089D
+00003010 1109000A
+00003014 00000000
+00003018 240B0000
+0000301C AD4B589C
+00003020 240C0000
+00003024 AD4C58A8
+00003028 240D0000
+0000302C AD4D58B0
+00003030 240E0000
+00003034 AD4E58B8
+00003038 03E00008
+0000303C 00000000
+00003040 3C08089D
+00003044 3C091080
+00003048 25290006
+0000304C AD09589C
+00003050 3C0A10A0
+00003054 254A0002
+00003058 AD0A58A8
+0000305C 3C0B1000
+00003060 256B0002
+00003064 AD0B58B0
+00003068 240C1025
+0000306C AD0C58B8
+00003070 03E00008
+00003074 00000000
+00107FC8 0A200C00
+
+// Hijack Vehicle Radio [Disable]
+Author = Saramagrean / original CWCheat authors
+001D58B8 00000000
+
+// Increasing Ammunition
+Author = Saramagrean / original CWCheat authors
+20055814 00000000
+
+// Increased Exhaust Fumes
+Author = Saramagrean / original CWCheat authors
+D0000000 10000110
+2033A1CC 0000FF00
+D0000000 10000140
+2033A1CC 00000000
+
+// Indestructible Driven Vehicles [v1.00]
+Author = Saramagrean / original CWCheat authors
+60383684 49742400
+00020001 00000268
+
+// Infinite Ammo [v1.00]
+Author = Saramagrean / original CWCheat authors
+20055798 00000000
+20055810 00000000
+
+// Infinite Ammo [v3.00]
+Author = Saramagrean / original CWCheat authors
+20055788 00000000
+20055800 00000000
+
+// Infinite Ammo v2 [v3.00]
+Author = Saramagrean / original CWCheat authors
+20055788 24840000
+20055800 24840000
+20050F38 24840000
+20050FA0 24840000
+
+// Infinite Ammunition (1)
+Author = Saramagrean / original CWCheat authors
+20051070 AE04000C
+20055AB4 2A840000
+
+// Infinite Ammunition (2)
+Author = Saramagrean / original CWCheat authors
+20055814 00000000
+20051098 AC440010
+
+// Infinite Ammunition (3)
+Author = Saramagrean / original CWCheat authors
+200557E4 00000000
+20051098 AC440010
+
+// Infinite Armor [v1.00]
+Author = Saramagrean / original CWCheat authors
+2114B9AC 42C80000
+
+// Infinite Armor v2 [v1.00]
+Author = Saramagrean / original CWCheat authors
+1114BBAE 000042C8
+
+// Infinite Cash [v1.00]
+Author = Saramagrean / original CWCheat authors
+20389ACC 3B9AC9FF
+
+// Infinite Full Armor [v1.00]
+Author = Saramagrean / original CWCheat authors
+1114BBAE 0000445C
+
+// Infinite Full Health [v1.00]
+Author = Saramagrean / original CWCheat authors
+1114BBAA 0000445C
+
+// Infinite Health [v1.00]
+Author = Saramagrean / original CWCheat authors
+1114BBAA 000042C8
+
+// Infinite Health v2 [v1.00]
+Author = Saramagrean / original CWCheat authors
+2114B9A8 42C80000
+
+// Infinite Health v3 [v1.00]
+Author = Saramagrean / original CWCheat authors
+2114BBA8 42C80000
+
+// Infinite Health v4 [v1.00]
+Author = Saramagrean / original CWCheat authors
+2114B9A8 42C80000
+
+// Infinite Health & Armor [v1.00]
+Author = Saramagrean / original CWCheat authors
+2018A2A8 0A200800
+20002000 3C06447A
+20002004 AC8604B8
+20002008 AC8604BC
+2000200C 0A2628AB
+20002010 C48C04B8
+
+// Infinite Map Markers [v1.00]
+Author = Saramagrean / original CWCheat authors
+20359B20 00000000
+
+// Infinite Map Markers [v3.00]
+Author = Saramagrean / original CWCheat authors
+20359C60 00000000
+
+// Infinite Mission Time [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0000000 10000180
+202C66AC 00000000
+D0000000 10000120
+202C66AC 00CA3023
+
+// Indestructible Driven Vehicles [v3.00]
+Author = Saramagrean / original CWCheat authors
+60383784 49742400
+00020001 00000268
+
+// Insane Spreadshot
+Author = Saramagrean / original CWCheat authors
+20058200 00000000
+
+// Invisible Guns All Weapons
+Author = Saramagrean / original CWCheat authors
+2114B7D4 00000000
+2114BAC4 00000000
+2114BB84 00000000
+
+// Kill With Aim (βeta) [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0331542 003007FF
+60331540 00000000
+00020001 000004B8
+
+// Load Full Mag
+Author = Saramagrean / original CWCheat authors
+20051078 10000008
+
+// M16-AK No Reload-Inf. Ammo [v1.00]
+Author = Saramagrean / original CWCheat authors
+0114BD34 0000001E
+0114BD38 000003E8
+
+// Machine Guns [v1.00]
+Author = Saramagrean / original CWCheat authors
+2114BD18 000003E8
+2114BD1C 000003E8
+
+// Max Ammo: Carbine [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00002580
+00020001 00000648
+
+// Max Ammo: Carbine [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00002580
+00020001 00000648
+
+// Max Ammo: Pistol [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00002580
+00020001 000005F4
+
+// Max Ammo: Pistol [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00002580
+00020001 000005F4
+
+// Max Ammo: Rockets [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00002580
+00020001 00000664
+
+// Max Ammo: Rockets [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00002580
+00020001 00000664
+
+// Max Ammo: Sniper [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00002580
+00020001 00000680
+
+// Max Ammo: Sniper [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00002580
+00020001 00000680
+
+// Max Ammo: Shotgun [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00002580
+00020001 00000610
+
+// Max Ammo: Shotgun [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00002580
+00020001 00000610
+
+// Max Ammo: SMG [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00002580
+00020001 0000062C
+
+// Max Ammo: SMG [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00002580
+00020001 0000062C
+
+// Max Ammo: Throwable [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00002580
+00020001 000005D8
+
+// Max Ammo: Throwable [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00002580
+00020001 000005D8
+
+// Max Cash [v1.00]
+Author = Saramagrean / original CWCheat authors
+20389ACC 05F5E0FF
+20389AD0 05F5E0FF
+
+// Max Cash [v3.00]
+Author = Saramagrean / original CWCheat authors
+20389BCC 05F5E0FF
+20389BD0 05F5E0FF
+
+// Max HP & Armor [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 447A0000
+00020001 000004B8
+00020001 000004BC
+
+// Max HP & Armor [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 447A0000
+00020001 000004B8
+00020001 000004BC
+
+// Max Money [v1.00]
+Author = Saramagrean / original CWCheat authors
+201D90FC 00000000
+
+// Max Sharpness [v1.00]
+Author = Saramagrean / original CWCheat authors
+20779F34 00002710
+
+// Max Wanted Level [v1.00]
+Author = Saramagrean / original CWCheat authors
+2114BD20 00000006
+0114BF20 00000006
+
+// Mission Timer Freeze [v1.00]
+Author = Saramagrean / original CWCheat authors
+202D2570 00000000
+
+// Mission Timer Freeze [v3.00]
+Author = Saramagrean / original CWCheat authors
+202D2458 00000000
+
+// Mission Timer Restart [v1.00]
+Author = Saramagrean / original CWCheat authors
+202D2570 0E20F2AE
+
+// Mission Timer Restart [v3.00]
+Author = Saramagrean / original CWCheat authors
+202D2458 0E20F2AE
+
+// Money Always Maxium
+Author = Saramagrean / original CWCheat authors
+201D91B8 00000000
+
+// Money Change Instant
+Author = Saramagrean / original CWCheat authors
+201D81BC 8FC400BC
+201D81CC 8FC400BC
+
+// Never Fall Off Bike [v1.00]
+Author = Saramagrean / original CWCheat authors
+200E2FCC 24020000
+2023881C 24020000
+20241D20 24020000
+
+// Never Wanted [v1.00]
+Author = Saramagrean / original CWCheat authors
+0114BF20 00000000
+
+// Never Wanted v2 [v1.00]
+Author = Saramagrean / original CWCheat authors
+2114BD20 00000000
+
+// No Clip
+Author = Saramagrean / original CWCheat authors
+20051098 AC440010
+
+// No Clip Reload
+Author = Saramagrean / original CWCheat authors
+20055AB4 2A840000
+
+// No Reloading: Carbine [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00000380
+00020001 00000644
+
+// No Reloading: Carbine [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00000380
+00020001 00000644
+
+// No Reloading: Pistol [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00000380
+00020001 000005F0
+
+// No Reloading: Pistol [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00000380
+00020001 000005F0
+
+// No Reloading: Rockets [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00000380
+00020001 00000660
+
+// No Reloading: Rockets [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00000380
+00020001 00000660
+
+// No Reloading: Shotgun [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00000380
+00020001 0000060C
+
+// No Reloading: Shotgun [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00000380
+00020001 0000060C
+
+// No Reloading: SMG [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00000380
+00020001 00000628
+
+// No Reloading: SMG [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00000380
+00020001 00000628
+
+// No Reloading: Sniper [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00000380
+00020001 0000067C
+
+// No Reloading: Sniper [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00000380
+00020001 0000067C
+
+// No Reloading: Throwable [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00000380
+00020001 000005D4
+
+// No Reloading: Throwable [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00000380
+00020001 000005D4
+
+// Peds.Don't Fight Back
+Author = Saramagrean / original CWCheat authors
+20093114 03E00008
+
+// Pedestrians Bobble Head World [v1.00]
+Author = Saramagrean / original CWCheat authors
+20348E2B 00000001
+
+// Pedestrians Bobble Head World [v3.00]
+Author = Saramagrean / original CWCheat authors
+20348F3B 00000001
+
+// Pedestrians Follow You [v1.00]
+Author = Saramagrean / original CWCheat authors
+20348E29 00000001
+
+// Pedestrians Follow You [v3.00]
+Author = Saramagrean / original CWCheat authors
+20348F39 00000001
+
+// Pedestrians Have Weapons [v1.00]
+Author = Saramagrean / original CWCheat authors
+003564D8 00000001
+
+// Pedestrians Have Weapons [v3.00]
+Author = Saramagrean / original CWCheat authors
+20356618 00000001
+
+// Pedestrians Normal [v1.00]
+Author = Saramagrean / original CWCheat authors
+20348E29 00000000
+20348E2B 00000000
+203564D8 00000000
+
+// Pedestrians Normal [v3.00]
+Author = Saramagrean / original CWCheat authors
+20348F39 00000000
+20348F3B 00000000
+20356618 00000000
+
+// Perfect Traction [v1.00]
+Author = Saramagrean / original CWCheat authors
+00333E2E 00000001
+
+// Perfect Traction [v3.00]
+Author = Saramagrean / original CWCheat authors
+00333F2E 00000001
+
+// Pistol [v1.00]
+Author = Saramagrean / original CWCheat authors
+2114BCE0 000003E8
+2114BCE4 000003E8
+
+// Player Car Has Infinite Health [v1.00]
+Author = Saramagrean / original CWCheat authors
+20002030 3C0F47C3
+20002034 AE2F0268
+
+// Player Car Has Infinite Health [v3.00]
+Author = Saramagrean / original CWCheat authors
+2001D8F4 AE040268
+200214F4 27BDFF30
+200214F8 AFB000B0
+
+// Radio Station: Disable
+Author = Saramagrean / original CWCheat authors
+001D5898 00000000
+
+// Radio Station: Never Show
+Author = Saramagrean / original CWCheat authors
+001C2EC0 00000000
+
+// Reckless Drivers [v1.00]
+Author = Saramagrean / original CWCheat authors
+0034BC10 00000001
+
+// Reckless Drivers [v3.00]
+Author = Saramagrean / original CWCheat authors
+0034BD20 00000001
+
+// Run Speed: Even Quicker [v1.00]
+Author = Saramagrean / original CWCheat authors
+20172460 3C044000
+
+// Run Speed: Even Quicker [v3.00]
+Author = Saramagrean / original CWCheat authors
+201723D0 3C044000
+
+// Run Speed: Maniac [v1.00]
+Author = Saramagrean / original CWCheat authors
+20172460 3C044080
+
+// Run Speed: Maniac [v3.00]
+Author = Saramagrean / original CWCheat authors
+201723D0 3C044080
+
+// Run Speed: Normal [v1.00]
+Author = Saramagrean / original CWCheat authors
+20172460 3C043F80
+
+// Run Speed: Normal [v3.00]
+Author = Saramagrean / original CWCheat authors
+201723D0 3C043F80
+
+// Run Speed: Quicker [v1.00]
+Author = Saramagrean / original CWCheat authors
+20172460 3C043FC0
+
+// Run Speed: Quicker [v3.00]
+Author = Saramagrean / original CWCheat authors
+201723D0 3C043FC0
+
+// Screen: Crazy Frozen Pixels/See Thru Walls
+Author = Saramagrean / original CWCheat authors
+20333684 00000000
+20333688 00000000
+2033368C 00000000
+20333690 00000000
+
+// Screen: Invisible Player/Displaced Objects
+Author = Saramagrean / original CWCheat authors
+20333690 00000000
+
+// Screen: Lock Player Position/Sometimes
+Author = Saramagrean / original CWCheat authors
+20331610 00000001
+20331640 099BB310
+20338B38 00000001
+2034D368 3FB33333
+20383CF4 0000000B
+211D437C B9A0904C
+211D4380 39856D9F
+211D4384 3F23B0B7
+211D4430 39A07061
+211D4434 B9856D9F
+211D4438 3F23B0B7
+211D45F8 00000002
+217F5CD0 09FF5FA0
+217F5F3C 09FF6310
+2114BBAC 099BB310
+
+// Screen: No Movement (Stupidness)
+Author = Saramagrean / original CWCheat authors
+2114B83C 0000000C
+
+// Screen: Normal [v1.00]
+Author = Saramagrean / original CWCheat authors
+20333580 00000000
+
+// Screen: Normal [v3.00]
+Author = Saramagrean / original CWCheat authors
+20333680 00000000
+
+// Screen: Upside Down [v1.00]
+Author = Saramagrean / original CWCheat authors
+20333580 00000001
+
+// Screen: Upside Down [v3.00]
+Author = Saramagrean / original CWCheat authors
+20333680 00000001
+
+// Screen: Wierd Teleport
+Author = Saramagrean / original CWCheat authors
+2038354C 00000008
+20383CF4 00000008
+20389DAC 00FF0000
+
+// Set Time To "12:24" [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 0000000C
+0035E091 00000018
+
+// Set Time To "12:24" [v3.00]
+Author = Saramagrean / original CWCheat authors
+0035E1A8 0000000C
+0035E1A9 00000018
+
+// Shotgun [v1.00]
+Author = Saramagrean / original CWCheat authors
+2114BCFC 000003E8
+2114BD00 000003E8
+
+// Slow Motion [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E042 00000000
+
+// Slow Motion [Disable] [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E042 00000080
+
+// SMG No Reload-Inf. Ammo [v1.00]
+Author = Saramagrean / original CWCheat authors
+0114BD18 0000001E
+0114BD1C 000003E8
+
+// Sniper Rifle [v1.00]
+Author = Saramagrean / original CWCheat authors
+2114BD6C 000003E8
+2114BD70 000003E8
+
+// Speed Mod: Even Faster [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E040 3FC00000
+
+// Speed Mod: Even Faster [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E158 3FC00000
+
+// Speed Mod: Faster [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E040 3FA00000
+
+// Speed Mod: Faster [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E158 3FA00000
+
+// Speed Mod: Hyper [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E040 40000000
+
+// Speed Mod: Hyper [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E158 40000000
+
+// Speed Mod: Normal [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E040 3F800000
+
+// Speed Mod: Normal [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E158 3F800000
+
+// Speed Mod: Slow Motion [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E040 3F000000
+
+// Speed Mod: Slow Motion [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E158 3F000000
+
+// Speed Mod: Super Slow Motion [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E040 3E800000
+
+// Speed Mod: Super Slow Motion [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E158 3E800000
+
+// Stop Day Time [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0000001 10000110
+2003C528 00000000
+2003C5A0 00000000
+D0000001 10000140
+2003C528 254A0001
+2003C5A0 A485E1AA
+
+// Suicide [v1.00]
+Author = Saramagrean / original CWCheat authors
+D0383916 003007FF
+60383914 00000000
+00020001 000004B8
+
+// Suicide [v3.00]
+Author = Saramagrean / original CWCheat authors
+D0383A16 003007FF
+60383A14 00000000
+00020001 000004B8
+
+// Time Modifier 0 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000000
+
+// Time Modifier 0 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000000
+
+// Time Modifier 1 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000001
+
+// Time Modifier 1 Pm. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 0000000D
+
+// Time Modifier 2 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000002
+
+// Time Modifier 2 Pm. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 0000000E
+
+// Time Modifier 3 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000003
+
+// Time Modifier 3 Pm. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 0000000F
+
+// Time Modifier 4 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000004
+
+// Time Modifier 4 Pm. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000010
+
+// Time Modifier 5 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000005
+
+// Time Modifier 5 Pm. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000011
+
+// Time Modifier 6 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000006
+
+// Time Modifier 6 Pm. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000012
+
+// Time Modifier 7 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000007
+
+// Time Modifier 7 Pm. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000013
+
+// Time Modifier 8 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000008
+
+// Time Modifier 8 Pm. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000014
+
+// Time Modifier 9 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000009
+
+// Time Modifier 9 Pm. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000015
+
+// Time Modifier 10 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 0000000A
+
+// Time Modifier 10 Pm. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000016
+
+// Time Modifier 11 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 0000000B
+
+// Time Modifier 11 Pm. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 00000017
+
+// Time Modifier 12 Am. [v1.00]
+Author = Saramagrean / original CWCheat authors
+0035E090 0000000C
+
+// Timeflow Faster [v1.00]
+Author = Saramagrean / original CWCheat authors
+0033400C 00000001
+
+// Timeflow Faster [v3.00]
+Author = Saramagrean / original CWCheat authors
+0033410C 00000001
+
+// Tires Never Pop [v1.00]
+Author = Saramagrean / original CWCheat authors
+20002038 862F0354
+2000203C 15E00003
+20002044 A6200356
+20002048 A6200358
+2000204C A62003F8
+
+// Tons Of Money [v1.00]
+Author = Saramagrean / original CWCheat authors
+20389ACC 5F5C0000
+20389AD0 5F5C0000
+
+// Tons Of Money [v3.00]
+Author = Saramagrean / original CWCheat authors
+203DE5CC 5F5C0000
+20389BD0 5F5C0000
+
+// Tyre Size 50% [v1.00]
+Author = Saramagrean / original CWCheat authors
+203562E0 3F000000
+
+// Tyre Size 50% [v3.00]
+Author = Saramagrean / original CWCheat authors
+20356420 3F000000
+
+// Tyre Size 100% [v1.00]
+Author = Saramagrean / original CWCheat authors
+203562E0 3F800000
+
+// Tyre Size 100% [v3.00]
+Author = Saramagrean / original CWCheat authors
+20356420 3F800000
+
+// Tyre Size 200% [v1.00]
+Author = Saramagrean / original CWCheat authors
+203562E0 40000000
+
+// Tyre Size 200% [v3.00]
+Author = Saramagrean / original CWCheat authors
+20356420 40000000
+
+// Upside Down [v1.00]
+Author = Saramagrean / original CWCheat authors
+00333580 00000001
+
+// Upside Down [v3.00]
+Author = Saramagrean / original CWCheat authors
+00333680 00000001
+
+// Wanted Level 1 [v1.00]
+Author = Saramagrean / original CWCheat authors
+0114BF20 00000001
+
+// Wanted Level Max [v1.00]
+Author = Saramagrean / original CWCheat authors
+201D8E8C 24140006
+
+// Weather Mod: Black Sky [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E36C 00060006
+
+// Weather Mod: Black Sky [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E484 00060006
+
+// Weather Mod: Clear [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E36C 00040004
+
+// Weather Mod: Clear [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E484 00040004
+
+// Weather Mod: Foggy [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E36C 00030003
+
+// Weather Mod: Foggy [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E484 00030003
+
+// Weather Mod: Heavy Rain [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E36C 00050005
+
+// Weather Mod: Heavy Rain [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E484 00050005
+
+// Weather Mod: Overcast [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E36C 00010001
+
+// Weather Mod: Overcast [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E484 00010001
+
+// Weather Mod: Rainy [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E36C 00020002
+
+// Weather Mod: Rainy [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E484 00020002
+
+// Weather Mod: Snowy [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E36C 00070007
+
+// Weather Mod: Snowy [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E484 00070007
+
+// Weather Mod: Sunny [v1.00]
+Author = Saramagrean / original CWCheat authors
+2035E36C 00000000
+
+// Weather Mod: Sunny [v3.00]
+Author = Saramagrean / original CWCheat authors
+2035E484 00000000
+
+// [M] Enable Cars Code
+Author = Saramagrean / original CWCheat authors
+2003C9A8 0A200809
+20002024 8C910000
+20002028 12200015
+20002080 0A20F26C
+
+// Rhino
+Author = Saramagrean / original CWCheat authors
+20294678 340400A2
+
+// Trashmaster
+Author = Saramagrean / original CWCheat authors
+20294694 3404008B
+
+// Ambulance In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010093
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Ambulance In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010093
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Angel In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CA
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Angel In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CA
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Avenger In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D0
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Avenger In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D0
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Ballot Van In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B8
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Ballot Van In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B8
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Banshee In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A0
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Banshee In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A0
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// BF Injection In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401009B
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// BF Injection In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401009B
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Bickle'76 In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B5
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Bickle'76 In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B5
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Blista In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401008F
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Blista In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401008F
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Bobcat In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010099
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Bobcat In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010099
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Bus In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A1
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Bus In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A1
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Cabbie In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A6
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Cabbie In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A6
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Campaign Rumpo In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B7
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Campaign Rumpo In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B7
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Cartel Cruiser In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B0
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Cartel Cruiser In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B0
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Cheetah In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010092
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Cheetah In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010092
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Coach In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A5
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Coach In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A5
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Dablio Stallion In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AF
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Dablio Stallion In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AF
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Diemos SP In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010082
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Diemos SP In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010082
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Esperanto In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010096
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Esperanto In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010096
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Faggio In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CE
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Faggio In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CE
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// FBI Cruiser In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010094
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// FBI Cruiser In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010094
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Fire Truck In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401008A
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Fire Truck In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401008A
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Forelli Excess In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BF
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Forelli Excess In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BF
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Freeway In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CF
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Freeway In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CF
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Hearse In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401009C
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Hearse In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401009C
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Hellenbach GT In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B9
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Hellenbach GT In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B9
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Hood Rumpo XL In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B1
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Hood Rumpo XL In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B1
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Idaho In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010084
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Idaho In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010084
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Infernus In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401008E
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Infernus In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401008E
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Kuruma In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010098
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Kuruma In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010098
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Landstalker In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010083
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Landstalker In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010083
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Leone Sentinel In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AC
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Leone Sentinel In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AC
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Manana In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401008D
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Manana In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401008D
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Manchez In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D1
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Manchez In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D1
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Moonbeam In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010095
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Moonbeam In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010095
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Mr.Whoopee In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401009A
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Mr.Whoopee In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401009A
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Mule In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010091
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Mule In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010091
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// NoodleBoy In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CC
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// NoodleBoy In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CC
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Panlantic In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B2
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Panlantic In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B2
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Patriot In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010089
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Patriot In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010089
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// PCJ 600 In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CD
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// PCJ 600 In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CD
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Perennial In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010087
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Perennial In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010087
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Phobos VT In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BA
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Phobos VT In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BA
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Pizza Boy In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CB
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Pizza Boy In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CB
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Plane In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A4
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Plane In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A4
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Police Car In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401009D
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Police Car In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401009D
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Police Van In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401009E
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Police Van In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401009E
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Pony In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010090
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Pony In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010090
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Pop Car On Top Of Garage (Small Garage) [v1.00]
+Author = Saramagrean / original CWCheat authors
+2013AF04 0E200410
+20001040 3C0141C0
+20001044 AC410038
+20001048 0A230117
+
+// Pop Car On Top Of Garage (Small Garage) [v3.00]
+Author = Saramagrean / original CWCheat authors
+2013AE74 0E200410
+20001040 3C0141C0
+20001044 AC410038
+20001048 0A2300F5
+
+// Pop Car On Top Of Garage (Height 2) [v1.00]
+Author = Saramagrean / original CWCheat authors
+2013AF04 0E200410
+20001040 3C014240
+20001044 AC410038
+20001048 0A230117
+
+// Pop Car On Top Of Garage (Height 2) [v3.00]
+Author = Saramagrean / original CWCheat authors
+2013AE74 0E200410
+20001040 3C014240
+20001044 AC410038
+20001048 0A2300F5
+
+// Pop Car On Top Of Garage (Height 3) [v1.00]
+Author = Saramagrean / original CWCheat authors
+2013AF04 0E200410
+20001040 3C014300
+20001044 AC410038
+20001048 0A230117
+
+// Pop Car On Top Of Garage (Height 3) [v3.00]
+Author = Saramagrean / original CWCheat authors
+2013AE74 0E200410
+20001040 3C014300
+20001044 AC410038
+20001048 0A2300F5
+
+// Pop Car On Top Of Garage Codes [Disable] [v1.00]
+Author = Saramagrean / original CWCheat authors
+2013AF04 0E230117
+
+// Pop Car On Top Of Garage Codes [Disable] [v3.00]
+Author = Saramagrean / original CWCheat authors
+2013AE74 0E2300F5
+
+// Rumpo In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A8
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Rumpo In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A8
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Sanchez In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D2
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Sanchez In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D2
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Securicar In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401009F
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Securicar In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401009F
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Sentinel In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010088
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Sentinel In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010088
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Sindacco Argento In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BE
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Sindacco Argento In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BE
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Stallion In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A7
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Stallion In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A7
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Stinger In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010085
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Stinger In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010085
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Stretch In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401008C
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Stretch In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401008C
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Tank In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A2
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Tank In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A2
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Taxi In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010097
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Taxi In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010097
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Thunder RROD In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BD
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Thunder RROD In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BD
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Toyz In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B6
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Toyz In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B6
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Trashmaster In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401008B
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Trashmaster In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401008B
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Truck In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BC
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Truck In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010086
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Truck 2 In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B4
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Truck 2 In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A3
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Truck 3 In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B3
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Truck 3 In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AA
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Truck 4 In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AA
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Truck 4 In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AB
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Truck 5 In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AB
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Truck 5 In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B3
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Truck 6 In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100A3
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Truck 6 In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B4
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Truck 7 In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010086
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Truck In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BC
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// V8 Ghost In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BB
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// V8 Ghost In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BB
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Yakuze Stinger In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AE
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Yakuze Stinger In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AE
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC
+
+// Yardi Lobo In Garage [v1.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AD
+20001004 A4A10000
+20001008 0A24EBAE
+20141248 0E2003FC
+
+// Yardi Lobo In Garage [v3.00]
+Author = Saramagrean / original CWCheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AD
+20001004 A4A10000
+20001008 0A24EB8A
+201411B8 0E2003FC

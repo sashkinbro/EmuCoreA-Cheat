@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "cwcheat-database-plus",
+      "name": "CWCheat Database Plus",
+      "author": "Saramagrean and the original CWCheat code authors",
+      "url": "https://github.com/Saramagrean/CWCheat-Database-Plus-",
+      "commit": "750261bccdc39569dec5eaee380902ac1442a007",
+      "rawUrl": "https://raw.githubusercontent.com/Saramagrean/CWCheat-Database-Plus-/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "license": "Upstream terms; no blanket open-source license published",
+      "notes": "The upstream README credits PPSSPP Forum, GameHacking, LunaMoo, TAbdiukov and other PSP cheat sources. Generated packs preserve this provenance and do not relicense the code data."
+    }
+  ]
+}

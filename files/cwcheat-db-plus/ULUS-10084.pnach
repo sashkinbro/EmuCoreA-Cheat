@@ -1,0 +1,1434 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10084
+# Source: https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db
+// Input Drop Fix
+Author = Saramagrean / original CWCheat authors
+D10DC1BE 00001460
+110DC1BE 00001060
+
+// Synchronize Save
+Author = Saramagrean / original CWCheat authors
+E00308EC 0009E65C
+2009E65C 00C31821
+2009E660 8C65FFF8
+2009E678 8C64FFFC
+
+// Synchronize Save [Disable]
+Author = Saramagrean / original CWCheat authors
+E0031821 0009E65C
+2009E65C 8C8508EC
+2009E660 00C31821
+2009E678 8C8408F0
+
+// 0000 Guild Points
+Author = Saramagrean / original CWCheat authors
+11053B58 00002710
+
+// Attack Value (Test)
+Author = Saramagrean / original CWCheat authors
+0077F591 0000FFFF
+
+// Change Name (Guild Card)
+Author = Saramagrean / original CWCheat authors
+11057EA0 00000000
+11057EA2 00000000
+11057EA4 00000000
+11057EA6 00000000
+11057EA8 00000000
+11057EAA 00000000
+11057EAC 00000000
+11057EAE 00000000
+
+// Equipment Slot 1 Mod (FFFF To Item Value)
+Author = Saramagrean / original CWCheat authors
+11053BA2 0000FFFF
+
+// Infinite Carve
+Author = Saramagrean / original CWCheat authors
+01092766 00000064
+
+// Infinite HP
+Author = Saramagrean / original CWCheat authors
+00779152 00000064
+
+// Infinite Time
+Author = Saramagrean / original CWCheat authors
+01058C60 00000064
+
+// Infinite Zenny
+Author = Saramagrean / original CWCheat authors
+21053B5C 05F5E0FF
+
+// Item 1 x99
+Author = Saramagrean / original CWCheat authors
+007793EC 00000063
+
+// Item Box 1-5 Mod (FFFF To Item Value)
+Author = Saramagrean / original CWCheat authors
+210542A8 0063FFFF
+210542AC 0063FFFF
+210542B0 0063FFFF
+210542B4 0063FFFF
+210542B8 0063FFFF
+
+// Item Spawning
+Author = Saramagrean / original CWCheat authors
+210542A8 006300DC
+210542AC 006300DB
+210542B0 006301FA
+
+// Item Spawning v2
+Author = Saramagrean / original CWCheat authors
+210542A8 006300F8
+210542AC 0063010C
+210542B0 006301FB
+
+// Item Spawning v3
+Author = Saramagrean / original CWCheat authors
+210542A8 006300DC
+210542AC 006300DB
+210542B0 006301FA
+
+// Kokoto Farm Points
+Author = Saramagrean / original CWCheat authors
+21057FCC 00000063
+
+// Max Guild Points
+Author = Saramagrean / original CWCheat authors
+21053B58 0098967F
+
+// Moon Jump Off Cliffs
+Author = Saramagrean / original CWCheat authors
+D0000000 10000300
+107790B6 00004200
+
+// No Reloading
+Author = Saramagrean / original CWCheat authors
+007794AB 00000001
+
+// One Hit Kills
+Author = Saramagrean / original CWCheat authors
+00782512 00000001
+00782513 00000001
+00788EC0 00000001
+00788EC1 00000001
+00788EC2 00000001
+00781FC0 00000001
+00781FC1 00000001
+00781FC2 00000001
+007826BD 00000001
+00788980 00000001
+00788981 00000001
+00788982 00000001
+00781FC3 00000001
+00782271 00000001
+00782272 00000001
+00782274 00000001
+
+// Quick Drunk
+Author = Saramagrean / original CWCheat authors
+00779373 0000000A
+
+// Quick Stamina
+Author = Saramagrean / original CWCheat authors
+0077927C 00000064
+
+// Quick Stamina Fill
+Author = Saramagrean / original CWCheat authors
+0077927C 00000064
+
+// Rust Stones (Item Box Slot 1-5)
+Author = Saramagrean / original CWCheat authors
+210542A8 006301FA
+210542AC 006301FB
+210542B0 006301FC
+210542B4 006301FD
+210542B8 006301FE
+
+// Walk Through Walls (Town Only)
+Author = Saramagrean / original CWCheat authors
+0077926C 00000000
+
+// Item Box Slot 1
+Author = Saramagrean / original CWCheat authors
+21054748 006300F6
+
+// Item Box Slot 1 v2
+Author = Saramagrean / original CWCheat authors
+21054744 00630196
+
+// Item Box Slot 1 v3
+Author = Saramagrean / original CWCheat authors
+21054740 00630197
+
+// Item Box Slot 1 v4
+Author = Saramagrean / original CWCheat authors
+2105473C 00630141
+
+// Item Box Slot 1 v5
+Author = Saramagrean / original CWCheat authors
+21054738 006301ED
+
+// Item Box Slot 1 v6
+Author = Saramagrean / original CWCheat authors
+21054734 0063018B
+
+// Item Box Slot 1 v7
+Author = Saramagrean / original CWCheat authors
+21054730 00630186
+
+// Item Box Slot 1 v8
+Author = Saramagrean / original CWCheat authors
+2105472C 0063012A
+
+// Item Box Slot 1 v9
+Author = Saramagrean / original CWCheat authors
+21054728 00630149
+
+// Item Box Slot 1 v10
+Author = Saramagrean / original CWCheat authors
+21054724 00630111
+
+// Item Box Slot 1 v11
+Author = Saramagrean / original CWCheat authors
+21054720 00630166
+
+// Item Box Slot 1 v12
+Author = Saramagrean / original CWCheat authors
+2105471C 0063015F
+
+// Item Box Slot 1 v13
+Author = Saramagrean / original CWCheat authors
+21054718 0063011B
+
+// Item Box Slot 1 v14
+Author = Saramagrean / original CWCheat authors
+21054714 00630122
+
+// Item Box Slot 1 v15
+Author = Saramagrean / original CWCheat authors
+21054710 0063010A
+
+// Item Box Slot 1 v16
+Author = Saramagrean / original CWCheat authors
+2105470C 006300B1
+
+// Item Box Slot 1 v17
+Author = Saramagrean / original CWCheat authors
+21054708 0063008A
+
+// Item Box Slot 1 v18
+Author = Saramagrean / original CWCheat authors
+21054704 00630095
+
+// Item Box Slot 1 v19
+Author = Saramagrean / original CWCheat authors
+21054700 0063008B
+
+// Item Box Slot 1 v20
+Author = Saramagrean / original CWCheat authors
+210546FC 0063008D
+
+// Item Box Slot 1 v21
+Author = Saramagrean / original CWCheat authors
+210546F8 006300BC
+
+// Item Box Slot 1 v22
+Author = Saramagrean / original CWCheat authors
+210546F4 006300FC
+
+// Item Box Slot 1 v23
+Author = Saramagrean / original CWCheat authors
+210546F0 006300BB
+
+// Item Box Slot 1 v24
+Author = Saramagrean / original CWCheat authors
+210546EC 006300BA
+
+// Item Box Slot 1 v25
+Author = Saramagrean / original CWCheat authors
+210546E8 00630203
+
+// Item Box Slot 1 v26
+Author = Saramagrean / original CWCheat authors
+210546E4 00630202
+
+// Item Box Slot 1 v27
+Author = Saramagrean / original CWCheat authors
+210546E0 00630201
+
+// Item Box Slot 1 v28
+Author = Saramagrean / original CWCheat authors
+210546DC 00630200
+
+// Item Box Slot 1 v29
+Author = Saramagrean / original CWCheat authors
+210546D8 006301FF
+
+// Item Box Slot 1 v30
+Author = Saramagrean / original CWCheat authors
+210546D4 006301F7
+
+// Item Box Slot 1 v31
+Author = Saramagrean / original CWCheat authors
+210546D0 006301F6
+
+// Item Box Slot 1 v32
+Author = Saramagrean / original CWCheat authors
+210546CC 006301F5
+
+// Item Box Slot 1 v33
+Author = Saramagrean / original CWCheat authors
+210546C8 006301F4
+
+// Item Box Slot 1 v34
+Author = Saramagrean / original CWCheat authors
+210546C4 006301F3
+
+// Item Box Slot 1 v35
+Author = Saramagrean / original CWCheat authors
+210546C0 006301F2
+
+// Item Box Slot 1 v36
+Author = Saramagrean / original CWCheat authors
+210546BC 006301F1
+
+// Item Box Slot 1 v37
+Author = Saramagrean / original CWCheat authors
+210546B8 006301F0
+
+// Item Box Slot 1 v38
+Author = Saramagrean / original CWCheat authors
+210546B4 006301EF
+
+// Item Box Slot 1 v39
+Author = Saramagrean / original CWCheat authors
+210546B0 006301EE
+
+// Item Box Slot 1 v40
+Author = Saramagrean / original CWCheat authors
+210546AC 006301EC
+
+// Item Box Slot 1 v41
+Author = Saramagrean / original CWCheat authors
+210546A8 006301EB
+
+// Item Box Slot 1 v42
+Author = Saramagrean / original CWCheat authors
+210546A4 006301EA
+
+// Item Box Slot 1 v43
+Author = Saramagrean / original CWCheat authors
+210546A0 006301E9
+
+// Item Box Slot 1 v44
+Author = Saramagrean / original CWCheat authors
+2105469C 006301E8
+
+// Item Box Slot 1 v45
+Author = Saramagrean / original CWCheat authors
+21054698 006301E7
+
+// Item Box Slot 1 v46
+Author = Saramagrean / original CWCheat authors
+21054694 006301E6
+
+// Item Box Slot 1 v47
+Author = Saramagrean / original CWCheat authors
+21054690 006301E5
+
+// Item Box Slot 1 v48
+Author = Saramagrean / original CWCheat authors
+2105468C 006301E4
+
+// Item Box Slot 1 v49
+Author = Saramagrean / original CWCheat authors
+21054688 006301E3
+
+// Item Box Slot 1 v50
+Author = Saramagrean / original CWCheat authors
+21054684 006301E2
+
+// Item Box Slot 1 v51
+Author = Saramagrean / original CWCheat authors
+21054680 006301E1
+
+// Item Box Slot 1 v52
+Author = Saramagrean / original CWCheat authors
+2105467C 006301E0
+
+// Item Box Slot 1 v53
+Author = Saramagrean / original CWCheat authors
+21054678 006301DF
+
+// Item Box Slot 1 v54
+Author = Saramagrean / original CWCheat authors
+21054674 006301DE
+
+// Item Box Slot 1 v55
+Author = Saramagrean / original CWCheat authors
+21054670 006301DD
+
+// Item Box Slot 1 v56
+Author = Saramagrean / original CWCheat authors
+2105466C 006301DC
+
+// Item Box Slot 1 v57
+Author = Saramagrean / original CWCheat authors
+21054668 006301DB
+
+// Item Box Slot 1 v58
+Author = Saramagrean / original CWCheat authors
+21054664 006301DA
+
+// Item Box Slot 1 v59
+Author = Saramagrean / original CWCheat authors
+21054660 006301D9
+
+// Item Box Slot 1 v60
+Author = Saramagrean / original CWCheat authors
+2105465C 006301CD
+
+// Item Box Slot 1 v61
+Author = Saramagrean / original CWCheat authors
+21054658 006301CC
+
+// Item Box Slot 1 v62
+Author = Saramagrean / original CWCheat authors
+21054654 006301CB
+
+// Item Box Slot 1 v63
+Author = Saramagrean / original CWCheat authors
+21054650 006301CA
+
+// Item Box Slot 1 v64
+Author = Saramagrean / original CWCheat authors
+2105464C 006301C9
+
+// Item Box Slot 1 v65
+Author = Saramagrean / original CWCheat authors
+21054648 006301C8
+
+// Item Box Slot 1 v66
+Author = Saramagrean / original CWCheat authors
+21054644 006301C7
+
+// Item Box Slot 1 v67
+Author = Saramagrean / original CWCheat authors
+21054640 006301C6
+
+// Item Box Slot 1 v68
+Author = Saramagrean / original CWCheat authors
+2105463C 006301C5
+
+// Item Box Slot 1 v69
+Author = Saramagrean / original CWCheat authors
+21054638 006301C4
+
+// Item Box Slot 1 v70
+Author = Saramagrean / original CWCheat authors
+21054634 006301C3
+
+// Item Box Slot 1 v71
+Author = Saramagrean / original CWCheat authors
+21054630 006301C2
+
+// Item Box Slot 1 v72
+Author = Saramagrean / original CWCheat authors
+2105462C 006301C1
+
+// Item Box Slot 1 v73
+Author = Saramagrean / original CWCheat authors
+21054628 006301C0
+
+// Item Box Slot 1 v74
+Author = Saramagrean / original CWCheat authors
+21054624 006301BF
+
+// Item Box Slot 1 v75
+Author = Saramagrean / original CWCheat authors
+21054620 006301BE
+
+// Item Box Slot 1 v76
+Author = Saramagrean / original CWCheat authors
+2105461C 006301BD
+
+// Item Box Slot 1 v77
+Author = Saramagrean / original CWCheat authors
+21054618 006301BC
+
+// Item Box Slot 1 v78
+Author = Saramagrean / original CWCheat authors
+21054614 006301BB
+
+// Item Box Slot 1 v79
+Author = Saramagrean / original CWCheat authors
+21054610 006301BA
+
+// Item Box Slot 1 v80
+Author = Saramagrean / original CWCheat authors
+2105460C 006301B9
+
+// Item Box Slot 1 v81
+Author = Saramagrean / original CWCheat authors
+21054608 006301B8
+
+// Item Box Slot 1 v82
+Author = Saramagrean / original CWCheat authors
+21054604 006301B7
+
+// Item Box Slot 1 v83
+Author = Saramagrean / original CWCheat authors
+21054600 006301B6
+
+// Item Box Slot 1 v84
+Author = Saramagrean / original CWCheat authors
+210545FC 006301B5
+
+// Item Box Slot 1 v85
+Author = Saramagrean / original CWCheat authors
+210545F8 006301B4
+
+// Item Box Slot 1 v86
+Author = Saramagrean / original CWCheat authors
+210545F4 006301B3
+
+// Item Box Slot 1 v87
+Author = Saramagrean / original CWCheat authors
+210545F0 006301B2
+
+// Item Box Slot 1 v88
+Author = Saramagrean / original CWCheat authors
+210545EC 006301B1
+
+// Item Box Slot 1 v89
+Author = Saramagrean / original CWCheat authors
+210545E8 006301B0
+
+// Item Box Slot 1 v90
+Author = Saramagrean / original CWCheat authors
+210545E4 006301AF
+
+// Item Box Slot 1 v91
+Author = Saramagrean / original CWCheat authors
+210545E0 006301AE
+
+// Item Box Slot 1 v92
+Author = Saramagrean / original CWCheat authors
+210545DC 006301AD
+
+// Item Box Slot 1 v93
+Author = Saramagrean / original CWCheat authors
+210545D8 006301AC
+
+// Item Box Slot 1 v94
+Author = Saramagrean / original CWCheat authors
+210545D4 006301AB
+
+// Item Box Slot 1 v95
+Author = Saramagrean / original CWCheat authors
+210545D0 006301AA
+
+// Item Box Slot 1 v96
+Author = Saramagrean / original CWCheat authors
+210545CC 006301A9
+
+// Item Box Slot 1 v97
+Author = Saramagrean / original CWCheat authors
+210545C8 006301A8
+
+// Item Box Slot 1 v98
+Author = Saramagrean / original CWCheat authors
+210545C4 006301A7
+
+// Item Box Slot 1 v99
+Author = Saramagrean / original CWCheat authors
+210545C0 006301A6
+
+// Item Box Slot 1 v100
+Author = Saramagrean / original CWCheat authors
+210545BC 006301A5
+
+// Item Box Slot 1 v101
+Author = Saramagrean / original CWCheat authors
+210545B8 006301A4
+
+// Item Box Slot 1 v102
+Author = Saramagrean / original CWCheat authors
+210545B4 006301A3
+
+// Item Box Slot 1 v103
+Author = Saramagrean / original CWCheat authors
+210545B0 006301A2
+
+// Item Box Slot 1 v104
+Author = Saramagrean / original CWCheat authors
+210545AC 006301A1
+
+// Item Box Slot 1 v105
+Author = Saramagrean / original CWCheat authors
+210545A8 006301A0
+
+// Item Box Slot 1 v106
+Author = Saramagrean / original CWCheat authors
+210545A4 0063019F
+
+// Item Box Slot 1 v107
+Author = Saramagrean / original CWCheat authors
+210545A0 0063019E
+
+// Item Box Slot 1 v108
+Author = Saramagrean / original CWCheat authors
+2105459C 0063019D
+
+// Item Box Slot 1 v109
+Author = Saramagrean / original CWCheat authors
+21054598 0063019C
+
+// Item Box Slot 1 v110
+Author = Saramagrean / original CWCheat authors
+21054594 0063019B
+
+// Item Box Slot 1 v111
+Author = Saramagrean / original CWCheat authors
+21054590 0063019A
+
+// Item Box Slot 1 v112
+Author = Saramagrean / original CWCheat authors
+2105458C 00630199
+
+// Item Box Slot 1 v113
+Author = Saramagrean / original CWCheat authors
+21054588 00630198
+
+// Item Box Slot 1 v114
+Author = Saramagrean / original CWCheat authors
+21054584 00630195
+
+// Item Box Slot 1 v115
+Author = Saramagrean / original CWCheat authors
+21054580 00630194
+
+// Item Box Slot 1 v116
+Author = Saramagrean / original CWCheat authors
+2105457C 00630193
+
+// Item Box Slot 1 v117
+Author = Saramagrean / original CWCheat authors
+21054578 00630192
+
+// Item Box Slot 1 v118
+Author = Saramagrean / original CWCheat authors
+21054574 00630191
+
+// Item Box Slot 1 v119
+Author = Saramagrean / original CWCheat authors
+21054570 00630190
+
+// Item Box Slot 1 v120
+Author = Saramagrean / original CWCheat authors
+2105456C 0063018F
+
+// Item Box Slot 1 v121
+Author = Saramagrean / original CWCheat authors
+21054568 0063018D
+
+// Item Box Slot 1 v122
+Author = Saramagrean / original CWCheat authors
+21054564 0063018C
+
+// Item Box Slot 1 v123
+Author = Saramagrean / original CWCheat authors
+21054560 0063018A
+
+// Item Box Slot 1 v124
+Author = Saramagrean / original CWCheat authors
+2105455C 00630189
+
+// Item Box Slot 1 v125
+Author = Saramagrean / original CWCheat authors
+21054558 00630188
+
+// Item Box Slot 1 v126
+Author = Saramagrean / original CWCheat authors
+21054554 00630187
+
+// Item Box Slot 1 v127
+Author = Saramagrean / original CWCheat authors
+21054550 00630185
+
+// Item Box Slot 1 v128
+Author = Saramagrean / original CWCheat authors
+2105454C 00630184
+
+// Item Box Slot 1 v129
+Author = Saramagrean / original CWCheat authors
+21054548 00630183
+
+// Item Box Slot 1 v130
+Author = Saramagrean / original CWCheat authors
+21054544 00630182
+
+// Item Box Slot 1 v131
+Author = Saramagrean / original CWCheat authors
+21054540 00630181
+
+// Item Box Slot 1 v132
+Author = Saramagrean / original CWCheat authors
+2105453C 00630180
+
+// Item Box Slot 1 v133
+Author = Saramagrean / original CWCheat authors
+21054538 0063017F
+
+// Item Box Slot 1 v134
+Author = Saramagrean / original CWCheat authors
+21054534 0063017E
+
+// Item Box Slot 1 v135
+Author = Saramagrean / original CWCheat authors
+21054530 0063017C
+
+// Item Box Slot 1 v136
+Author = Saramagrean / original CWCheat authors
+2105452C 0063017B
+
+// Item Box Slot 1 v137
+Author = Saramagrean / original CWCheat authors
+21054528 00630179
+
+// Item Box Slot 1 v138
+Author = Saramagrean / original CWCheat authors
+21054524 00630178
+
+// Item Box Slot 1 v139
+Author = Saramagrean / original CWCheat authors
+21054520 00630177
+
+// Item Box Slot 1 v140
+Author = Saramagrean / original CWCheat authors
+2105451C 00630176
+
+// Item Box Slot 1 v141
+Author = Saramagrean / original CWCheat authors
+21054518 00630175
+
+// Item Box Slot 1 v142
+Author = Saramagrean / original CWCheat authors
+21054514 00630174
+
+// Item Box Slot 1 v143
+Author = Saramagrean / original CWCheat authors
+21054510 00630173
+
+// Item Box Slot 1 v144
+Author = Saramagrean / original CWCheat authors
+2105450C 00630172
+
+// Item Box Slot 1 v145
+Author = Saramagrean / original CWCheat authors
+21054508 00630171
+
+// Item Box Slot 1 v146
+Author = Saramagrean / original CWCheat authors
+21054504 00630170
+
+// Item Box Slot 1 v147
+Author = Saramagrean / original CWCheat authors
+21054500 0063016F
+
+// Item Box Slot 1 v148
+Author = Saramagrean / original CWCheat authors
+210544FC 0063016E
+
+// Item Box Slot 1 v149
+Author = Saramagrean / original CWCheat authors
+210544F8 0063016D
+
+// Item Box Slot 1 v150
+Author = Saramagrean / original CWCheat authors
+210544F4 0063016C
+
+// Item Box Slot 1 v151
+Author = Saramagrean / original CWCheat authors
+210544F0 0063016A
+
+// Item Box Slot 1 v152
+Author = Saramagrean / original CWCheat authors
+210544EC 00630169
+
+// Item Box Slot 1 v153
+Author = Saramagrean / original CWCheat authors
+210544E8 00630168
+
+// Item Box Slot 1 v154
+Author = Saramagrean / original CWCheat authors
+210544E4 00630167
+
+// Item Box Slot 1 v155
+Author = Saramagrean / original CWCheat authors
+210544E0 00630165
+
+// Item Box Slot 1 v156
+Author = Saramagrean / original CWCheat authors
+210544DC 00630164
+
+// Item Box Slot 1 v157
+Author = Saramagrean / original CWCheat authors
+210544D8 00630163
+
+// Item Box Slot 1 v158
+Author = Saramagrean / original CWCheat authors
+210544D4 00630162
+
+// Item Box Slot 1 v159
+Author = Saramagrean / original CWCheat authors
+210544D0 00630161
+
+// Item Box Slot 1 v160
+Author = Saramagrean / original CWCheat authors
+210544CC 00630160
+
+// Item Box Slot 1 v161
+Author = Saramagrean / original CWCheat authors
+210544C8 0063015E
+
+// Item Box Slot 1 v162
+Author = Saramagrean / original CWCheat authors
+210544C4 0063015D
+
+// Item Box Slot 1 v163
+Author = Saramagrean / original CWCheat authors
+210544C0 0063015C
+
+// Item Box Slot 1 v164
+Author = Saramagrean / original CWCheat authors
+210544BC 0063015B
+
+// Item Box Slot 1 v165
+Author = Saramagrean / original CWCheat authors
+210544B8 0063015A
+
+// Item Box Slot 1 v166
+Author = Saramagrean / original CWCheat authors
+210544B4 00630159
+
+// Item Box Slot 1 v167
+Author = Saramagrean / original CWCheat authors
+210544B0 00630158
+
+// Item Box Slot 1 v168
+Author = Saramagrean / original CWCheat authors
+210544AC 00630157
+
+// Item Box Slot 1 v169
+Author = Saramagrean / original CWCheat authors
+210544A8 00630156
+
+// Item Box Slot 1 v170
+Author = Saramagrean / original CWCheat authors
+210544A4 00630155
+
+// Item Box Slot 1 v171
+Author = Saramagrean / original CWCheat authors
+210544A0 00630154
+
+// Item Box Slot 1 v172
+Author = Saramagrean / original CWCheat authors
+2105449C 00630153
+
+// Item Box Slot 1 v173
+Author = Saramagrean / original CWCheat authors
+21054498 00630152
+
+// Item Box Slot 1 v174
+Author = Saramagrean / original CWCheat authors
+21054494 00630151
+
+// Item Box Slot 1 v175
+Author = Saramagrean / original CWCheat authors
+21054490 00630150
+
+// Item Box Slot 1 v176
+Author = Saramagrean / original CWCheat authors
+2105448C 0063014F
+
+// Item Box Slot 1 v177
+Author = Saramagrean / original CWCheat authors
+21054488 0063014E
+
+// Item Box Slot 1 v178
+Author = Saramagrean / original CWCheat authors
+21054484 0063014D
+
+// Item Box Slot 1 v179
+Author = Saramagrean / original CWCheat authors
+21054480 0063014C
+
+// Item Box Slot 1 v180
+Author = Saramagrean / original CWCheat authors
+2105447C 0063014B
+
+// Item Box Slot 1 v181
+Author = Saramagrean / original CWCheat authors
+21054478 0063014A
+
+// Item Box Slot 1 v182
+Author = Saramagrean / original CWCheat authors
+21054474 00630148
+
+// Item Box Slot 1 v183
+Author = Saramagrean / original CWCheat authors
+21054470 00630147
+
+// Item Box Slot 1 v184
+Author = Saramagrean / original CWCheat authors
+2105446C 00630146
+
+// Item Box Slot 1 v185
+Author = Saramagrean / original CWCheat authors
+21054468 00630144
+
+// Item Box Slot 1 v186
+Author = Saramagrean / original CWCheat authors
+21054464 00630143
+
+// Item Box Slot 1 v187
+Author = Saramagrean / original CWCheat authors
+21054460 00630142
+
+// Item Box Slot 1 v188
+Author = Saramagrean / original CWCheat authors
+2105445C 00630140
+
+// Item Box Slot 1 v189
+Author = Saramagrean / original CWCheat authors
+21054458 0063013F
+
+// Item Box Slot 1 v190
+Author = Saramagrean / original CWCheat authors
+21054454 0063013E
+
+// Item Box Slot 1 v191
+Author = Saramagrean / original CWCheat authors
+21054450 0063013D
+
+// Item Box Slot 1 v192
+Author = Saramagrean / original CWCheat authors
+2105444C 0063013C
+
+// Item Box Slot 1 v193
+Author = Saramagrean / original CWCheat authors
+21054448 0063013B
+
+// Item Box Slot 1 v194
+Author = Saramagrean / original CWCheat authors
+21054444 0063013A
+
+// Item Box Slot 1 v195
+Author = Saramagrean / original CWCheat authors
+21054440 00630139
+
+// Item Box Slot 1 v196
+Author = Saramagrean / original CWCheat authors
+2105443C 00630138
+
+// Item Box Slot 1 v197
+Author = Saramagrean / original CWCheat authors
+21054438 00630137
+
+// Item Box Slot 1 v198
+Author = Saramagrean / original CWCheat authors
+21054434 00630136
+
+// Item Box Slot 1 v199
+Author = Saramagrean / original CWCheat authors
+21054430 00630135
+
+// Item Box Slot 1 v200
+Author = Saramagrean / original CWCheat authors
+2105442C 00630134
+
+// Item Box Slot 1 v201
+Author = Saramagrean / original CWCheat authors
+21054428 00630133
+
+// Item Box Slot 1 v202
+Author = Saramagrean / original CWCheat authors
+21054424 00630132
+
+// Item Box Slot 1 v203
+Author = Saramagrean / original CWCheat authors
+21054420 00630131
+
+// Item Box Slot 1 v204
+Author = Saramagrean / original CWCheat authors
+2105441C 00630130
+
+// Item Box Slot 1 v205
+Author = Saramagrean / original CWCheat authors
+21054418 0063012F
+
+// Item Box Slot 1 v206
+Author = Saramagrean / original CWCheat authors
+21054414 0063012D
+
+// Item Box Slot 1 v207
+Author = Saramagrean / original CWCheat authors
+21054410 0063012C
+
+// Item Box Slot 1 v208
+Author = Saramagrean / original CWCheat authors
+2105440C 0063012B
+
+// Item Box Slot 1 v209
+Author = Saramagrean / original CWCheat authors
+21054408 00630129
+
+// Item Box Slot 1 v210
+Author = Saramagrean / original CWCheat authors
+21054404 00630128
+
+// Item Box Slot 1 v211
+Author = Saramagrean / original CWCheat authors
+21054400 00630127
+
+// Item Box Slot 1 v212
+Author = Saramagrean / original CWCheat authors
+210543FC 00630126
+
+// Item Box Slot 1 v213
+Author = Saramagrean / original CWCheat authors
+210543F8 00630125
+
+// Item Box Slot 1 v214
+Author = Saramagrean / original CWCheat authors
+210543F4 00630123
+
+// Item Box Slot 1 v215
+Author = Saramagrean / original CWCheat authors
+210543F0 00630121
+
+// Item Box Slot 1 v216
+Author = Saramagrean / original CWCheat authors
+210543EC 00630120
+
+// Item Box Slot 1 v217
+Author = Saramagrean / original CWCheat authors
+210543E8 0063011F
+
+// Item Box Slot 1 v218
+Author = Saramagrean / original CWCheat authors
+210543E4 0063011D
+
+// Item Box Slot 1 v219
+Author = Saramagrean / original CWCheat authors
+210543E0 0063011C
+
+// Item Box Slot 1 v220
+Author = Saramagrean / original CWCheat authors
+210543DC 00630119
+
+// Item Box Slot 1 v221
+Author = Saramagrean / original CWCheat authors
+210543D8 00630118
+
+// Item Box Slot 1 v222
+Author = Saramagrean / original CWCheat authors
+210543D4 00630117
+
+// Item Box Slot 1 v223
+Author = Saramagrean / original CWCheat authors
+210543D0 00630115
+
+// Item Box Slot 1 v224
+Author = Saramagrean / original CWCheat authors
+210543CC 00630114
+
+// Item Box Slot 1 v225
+Author = Saramagrean / original CWCheat authors
+210543C8 00630113
+
+// Item Box Slot 1 v226
+Author = Saramagrean / original CWCheat authors
+210543C4 00630112
+
+// Item Box Slot 1 v227
+Author = Saramagrean / original CWCheat authors
+210543C0 00630110
+
+// Item Box Slot 1 v228
+Author = Saramagrean / original CWCheat authors
+210543BC 0063010F
+
+// Item Box Slot 1 v229
+Author = Saramagrean / original CWCheat authors
+210543B8 0063010E
+
+// Item Box Slot 1 v230
+Author = Saramagrean / original CWCheat authors
+210543B4 0063010D
+
+// Item Box Slot 1 v231
+Author = Saramagrean / original CWCheat authors
+210543B0 0063010C
+
+// Item Box Slot 1 v232
+Author = Saramagrean / original CWCheat authors
+210543AC 00630109
+
+// Item Box Slot 1 v233
+Author = Saramagrean / original CWCheat authors
+210543A8 00630107
+
+// Item Box Slot 1 v234
+Author = Saramagrean / original CWCheat authors
+210543A4 00630106
+
+// Item Box Slot 1 v235
+Author = Saramagrean / original CWCheat authors
+210543A0 00630105
+
+// Item Box Slot 1 v236
+Author = Saramagrean / original CWCheat authors
+2105439C 00630104
+
+// Item Box Slot 1 v237
+Author = Saramagrean / original CWCheat authors
+21054398 00630103
+
+// Item Box Slot 1 v238
+Author = Saramagrean / original CWCheat authors
+21054394 00630102
+
+// Item Box Slot 1 v239
+Author = Saramagrean / original CWCheat authors
+21054390 006300FF
+
+// Item Box Slot 1 v240
+Author = Saramagrean / original CWCheat authors
+2105438C 006300FE
+
+// Item Box Slot 1 v241
+Author = Saramagrean / original CWCheat authors
+21054388 006300FD
+
+// Item Box Slot 1 v242
+Author = Saramagrean / original CWCheat authors
+21054384 006300FB
+
+// Item Box Slot 1 v243
+Author = Saramagrean / original CWCheat authors
+21054380 006300F8
+
+// Item Box Slot 1 v244
+Author = Saramagrean / original CWCheat authors
+2105437C 006300F7
+
+// Item Box Slot 1 v245
+Author = Saramagrean / original CWCheat authors
+21054378 006300F5
+
+// Item Box Slot 1 v246
+Author = Saramagrean / original CWCheat authors
+21054374 006300F2
+
+// Item Box Slot 1 v247
+Author = Saramagrean / original CWCheat authors
+21054370 006300F1
+
+// Item Box Slot 1 v248
+Author = Saramagrean / original CWCheat authors
+2105436C 006300F0
+
+// Item Box Slot 1 v249
+Author = Saramagrean / original CWCheat authors
+21054368 006300EF
+
+// Item Box Slot 1 v250
+Author = Saramagrean / original CWCheat authors
+21054364 006300EE
+
+// Item Box Slot 1 v251
+Author = Saramagrean / original CWCheat authors
+21054360 006300ED
+
+// Item Box Slot 1 v252
+Author = Saramagrean / original CWCheat authors
+2105435C 006300EB
+
+// Item Box Slot 1 v253
+Author = Saramagrean / original CWCheat authors
+21054358 006300E6
+
+// Item Box Slot 1 v254
+Author = Saramagrean / original CWCheat authors
+21054354 006300E4
+
+// Item Box Slot 1 v255
+Author = Saramagrean / original CWCheat authors
+21054350 006300E3
+
+// Item Box Slot 1 v256
+Author = Saramagrean / original CWCheat authors
+2105434C 006300E2
+
+// Item Box Slot 1 v257
+Author = Saramagrean / original CWCheat authors
+21054348 006300E1
+
+// Item Box Slot 1 v258
+Author = Saramagrean / original CWCheat authors
+21054344 006300DF
+
+// Item Box Slot 1 v259
+Author = Saramagrean / original CWCheat authors
+21054340 006300DD
+
+// Item Box Slot 1 v260
+Author = Saramagrean / original CWCheat authors
+2105433C 006300DC
+
+// Item Box Slot 1 v261
+Author = Saramagrean / original CWCheat authors
+21054338 006300DB
+
+// Item Box Slot 1 v262
+Author = Saramagrean / original CWCheat authors
+21054334 006300DA
+
+// Item Box Slot 1 v263
+Author = Saramagrean / original CWCheat authors
+21054330 006300D9
+
+// Item Box Slot 1 v264
+Author = Saramagrean / original CWCheat authors
+2105432C 006300D8
+
+// Item Box Slot 1 v265
+Author = Saramagrean / original CWCheat authors
+21054328 006300D7
+
+// Item Box Slot 1 v266
+Author = Saramagrean / original CWCheat authors
+21054324 006300D6
+
+// Item Box Slot 1 v267
+Author = Saramagrean / original CWCheat authors
+21054320 006300D5
+
+// Item Box Slot 1 v268
+Author = Saramagrean / original CWCheat authors
+2105431C 006300D4
+
+// Item Box Slot 1 v269
+Author = Saramagrean / original CWCheat authors
+21054318 006300D3
+
+// Item Box Slot 1 v270
+Author = Saramagrean / original CWCheat authors
+21054314 006300D2
+
+// Item Box Slot 1 v271
+Author = Saramagrean / original CWCheat authors
+21054310 006300D1
+
+// Item Box Slot 1 v272
+Author = Saramagrean / original CWCheat authors
+2105430C 006300D0
+
+// Item Box Slot 1 v273
+Author = Saramagrean / original CWCheat authors
+21054308 006300CF
+
+// Item Box Slot 1 v274
+Author = Saramagrean / original CWCheat authors
+21054304 006300CE
+
+// Item Box Slot 1 v275
+Author = Saramagrean / original CWCheat authors
+21054300 006300CD
+
+// Item Box Slot 1 v276
+Author = Saramagrean / original CWCheat authors
+210542FC 006300CC
+
+// Item Box Slot 1 v277
+Author = Saramagrean / original CWCheat authors
+210542F8 006300CA
+
+// Item Box Slot 1 v278
+Author = Saramagrean / original CWCheat authors
+210542F4 006300C9
+
+// Item Box Slot 1 v279
+Author = Saramagrean / original CWCheat authors
+210542F0 006300C8
+
+// Item Box Slot 1 v280
+Author = Saramagrean / original CWCheat authors
+210542EC 006300C7
+
+// Item Box Slot 1 v281
+Author = Saramagrean / original CWCheat authors
+210542E8 006300B0
+
+// Item Box Slot 1 v282
+Author = Saramagrean / original CWCheat authors
+210542E4 006300AF
+
+// Item Box Slot 1 v283
+Author = Saramagrean / original CWCheat authors
+210542E0 006300AE
+
+// Item Box Slot 1 v284
+Author = Saramagrean / original CWCheat authors
+210542DC 006300AD
+
+// Item Box Slot 1 v285
+Author = Saramagrean / original CWCheat authors
+210542D8 006300AC
+
+// Item Box Slot 1 v286
+Author = Saramagrean / original CWCheat authors
+210542D4 006300AB
+
+// Item Box Slot 1 v287
+Author = Saramagrean / original CWCheat authors
+210542D0 006300AA
+
+// Item Box Slot 1 v288
+Author = Saramagrean / original CWCheat authors
+210542CC 006300A9
+
+// Item Box Slot 1 v289
+Author = Saramagrean / original CWCheat authors
+210542C8 006300A8
+
+// Item Box Slot 1 v289
+Author = Saramagrean / original CWCheat authors
+210542C4 006300A7
+
+// Item Box Slot 1 v291
+Author = Saramagrean / original CWCheat authors
+210542C0 006300A6
+
+// Item Box Slot 1 v292
+Author = Saramagrean / original CWCheat authors
+210542BC 006300A5
+
+// Item Box Slot 1 v293
+Author = Saramagrean / original CWCheat authors
+210542B8 006300A4
+
+// Item Box Slot 1 v294
+Author = Saramagrean / original CWCheat authors
+210542B4 006300A3
+
+// Item Box Slot 1 v295
+Author = Saramagrean / original CWCheat authors
+210542B0 006300A2
+
+// Item Box Slot 1 v296
+Author = Saramagrean / original CWCheat authors
+210542AC 006300A1
+
+// Item Box Slot 1 v297
+Author = Saramagrean / original CWCheat authors
+210542A8 006300A0
+
+// Item Box Slot 1 Mod (FFFF To Value)
+Author = Saramagrean / original CWCheat authors
+210542A8 0063FFFF
+
+// Item Spawning
+Author = Saramagrean / original CWCheat authors
+210542A8 006300DC
+210542AC 006300DB
+210542B0 006301FA
+
+// Item Spawning v2
+Author = Saramagrean / original CWCheat authors
+210542A8 006300F8
+210542AC 0063010C
+210542B0 006301FB
+
+// Item1 99 Quantity
+Author = Saramagrean / original CWCheat authors
+007793EC 00000063
+
+// Item2 99 Quantity
+Author = Saramagrean / original CWCheat authors
+007793F0 00000063
+
+// Item3 99 Quantity
+Author = Saramagrean / original CWCheat authors
+007793F4 00000063
+
+// Item4 99 Quantity
+Author = Saramagrean / original CWCheat authors
+007793F8 00000063
+
+// Item5 99 Quantity
+Author = Saramagrean / original CWCheat authors
+007793FC 00000063
+
+// Item6 99 Quantity
+Author = Saramagrean / original CWCheat authors
+00779400 00000063
+
+// Item7 99 Quantity
+Author = Saramagrean / original CWCheat authors
+00779404 00000063
+
+// Item8 99 Quantity
+Author = Saramagrean / original CWCheat authors
+00779408 00000063
+
+// Item9 99 Quantity
+Author = Saramagrean / original CWCheat authors
+0077940C 00000063
+
+// Item10 99 Quantity
+Author = Saramagrean / original CWCheat authors
+00779410 00000063
+
+// Item11 99 Quantity
+Author = Saramagrean / original CWCheat authors
+00779414 00000063
+
+// Item12 99 Quantity
+Author = Saramagrean / original CWCheat authors
+00779418 00000063
+
+// Item13 99 Quantity
+Author = Saramagrean / original CWCheat authors
+0077941C 00000063
+
+// Item14 99 Quantity
+Author = Saramagrean / original CWCheat authors
+00779420 00000063
+
+// Item15 99 Quantity
+Author = Saramagrean / original CWCheat authors
+00779424 00000063
+
+// Item16 99 Quantity
+Author = Saramagrean / original CWCheat authors
+00779428 00000063
+
+// Item17 99 Quantity
+Author = Saramagrean / original CWCheat authors
+0077942C 00000063
+
+// Item18 99 Quantity
+Author = Saramagrean / original CWCheat authors
+00779430 00000063
+
+// Item19 99 Quantity
+Author = Saramagrean / original CWCheat authors
+00779434 00000063
+
+// Item20 99 Quantity
+Author = Saramagrean / original CWCheat authors
+00779438 00000063

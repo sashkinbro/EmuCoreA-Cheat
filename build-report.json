@@ -1,0 +1,181 @@
+{
+  "source": "https://raw.githubusercontent.com/Saramagrean/CWCheat-Database-Plus-/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+  "sourceSha256": "E3037715E5260F94FD464FC0543E8BF216FA2D40861DB3262863643A2C5FAE86",
+  "entries": [
+    {
+      "serial": "UCUS-98653",
+      "title": "God Of War: Chains Of Olympus [US]",
+      "blocks": 73,
+      "excluded": 17,
+      "sha256": "3B624CB3F469FBB100CE8F9A90C7E0CCA382DC354280C93A005339F9E6631355"
+    },
+    {
+      "serial": "UCUS-98737",
+      "title": "God Of War: Ghost Of Sparta [US]",
+      "blocks": 34,
+      "excluded": 11,
+      "sha256": "788C23056D163C7BE204017700BA8701C87EBA3DCB4A5BF7D8E5A0293BFF05F9"
+    },
+    {
+      "serial": "UCUS-98751",
+      "title": "Patapon 3 [US]",
+      "blocks": 133,
+      "excluded": 8,
+      "sha256": "E39E9B36D5D805AAA3620D93F58600EAD4B4CFDD2EDBAE837AF37DFE588DFA02"
+    },
+    {
+      "serial": "ULUS-10041",
+      "title": "Grand Theft Auto: Liberty City Stories (v1.00-3.00) [US]",
+      "blocks": 406,
+      "excluded": 20,
+      "sha256": "A21D99FACD487BC582035B70FB0B373C86A8100308485F019C7EC5561522528C"
+    },
+    {
+      "serial": "ULUS-10084",
+      "title": "Monster Hunter Freedom [US]",
+      "blocks": 346,
+      "excluded": 3,
+      "sha256": "1ACA01A2323FA44EA22094221EAEC31F4F34889F2681C62D9F9F493EFD55BE72"
+    },
+    {
+      "serial": "ULUS-10114",
+      "title": "Need For Speed: Carbon -Own The City- [US]",
+      "blocks": 39,
+      "excluded": 12,
+      "sha256": "1025DE41E96A507C8334A1C3E5ED246B2242DE587F48206CB6452D5F2A340E2E"
+    },
+    {
+      "serial": "ULUS-10160",
+      "title": "Grand Theft Auto: Vice City Stories [US]",
+      "blocks": 247,
+      "excluded": 10,
+      "sha256": "24BA31933292034815DCBF0DE7AEFE6F52BE470C5600BCC9D45850AAEA47264C"
+    },
+    {
+      "serial": "ULUS-10202",
+      "title": "Metal Gear Solid: Portable Ops [US]",
+      "blocks": 246,
+      "excluded": 15,
+      "sha256": "03C68186D2986057DC6CD604AB8370A5B6B98207E139451FEAB4BD74BCA8F074"
+    },
+    {
+      "serial": "ULUS-10251",
+      "title": "Final Fantasy: Anniversary Edition [US]",
+      "blocks": 141,
+      "excluded": 3,
+      "sha256": "EDC8E1FDD0AF2C5E0018270C79D9F2BBD9417F4A62C46E922C5BCAFA6BC0A938"
+    },
+    {
+      "serial": "ULUS-10263",
+      "title": "Final Fantasy II: Anniversary Edition [US]",
+      "blocks": 134,
+      "excluded": 1,
+      "sha256": "6274341B59ADA54C181579B2826D3CE81CB216A9CD68B0C3E0AB3D8223A9F0B9"
+    },
+    {
+      "serial": "ULUS-10277",
+      "title": "Castlevania: The Dracula X Chronicles [US]",
+      "blocks": 73,
+      "excluded": 13,
+      "sha256": "773D459C3E4FD9A18BD0694FE1C91216E6DC49CDEA2626F1AF8BF25E721C2B31"
+    },
+    {
+      "serial": "ULUS-10297",
+      "title": "Final Fantasy Tactics: The War Of The Lions [US]",
+      "blocks": 187,
+      "excluded": 4,
+      "sha256": "D479B68032460EF0685DCF52DBCD9105D3F01C7039E6E1E1512A09FF939ABBCC"
+    },
+    {
+      "serial": "ULUS-10336",
+      "title": "Crisis Core: Final Fantasy VII [US]",
+      "blocks": 178,
+      "excluded": 11,
+      "sha256": "1F685923C26DBC9F9FB2FF799CA74828389A6BAC8D27B8664DC8781FB03B5F4F"
+    },
+    {
+      "serial": "ULUS-10383",
+      "title": "Midnight Club: L.A. Remix [US]",
+      "blocks": 70,
+      "excluded": 6,
+      "sha256": "87A7C6C1DAEEAF050FB930A4816471CD85D33155D0AD80B35FB5FF3BC4B8180F"
+    },
+    {
+      "serial": "ULUS-10391",
+      "title": "Monster Hunter Freedom Unite [US]",
+      "blocks": 219,
+      "excluded": 21,
+      "sha256": "273E6C63F084FD9D049BF8394F822BC665BFAC2DDB11CEC22370ECEE3FD424F0"
+    },
+    {
+      "serial": "ULUS-10437",
+      "title": "Dissidia: Final Fantasy [US]",
+      "blocks": 190,
+      "excluded": 10,
+      "sha256": "F1328E3974632831A3C5CC53E52662FB1EAE9DBE8476C3F38B1BDAEC3BB3EF9E"
+    },
+    {
+      "serial": "ULUS-10455",
+      "title": "Assassin's Creed: Bloodline [US]",
+      "blocks": 55,
+      "excluded": 10,
+      "sha256": "F5BBA187F65D5188D7C014F04B674F761A9E26E525005C10EDB6FD7AF92BC274"
+    },
+    {
+      "serial": "ULUS-10466",
+      "title": "Tekken 6 [US]",
+      "blocks": 203,
+      "excluded": 10,
+      "sha256": "6D00CD312B3E20C735D264D99401EED961FB0109BAFF1B8F9D5A62FDF964AAA7"
+    },
+    {
+      "serial": "ULUS-10490",
+      "title": "Grand Theft Auto: Chinatown Wars [US]",
+      "blocks": 457,
+      "excluded": 8,
+      "sha256": "A79597569514E58875FF3A898CBC57B71E0420B827DE1D89F975DCCD8C54E711"
+    },
+    {
+      "serial": "ULUS-10505",
+      "title": "Kingdom Hearts: Birth By Sleep [US]",
+      "blocks": 128,
+      "excluded": 3,
+      "sha256": "20BB4B50122CA8DD9C9EE92CC6332127CB736FBAE9DF4AB40E7246F130C72D46"
+    },
+    {
+      "serial": "ULUS-10509",
+      "title": "Metal Gear Solid: Peace Walker [US]",
+      "blocks": 113,
+      "excluded": 26,
+      "sha256": "FFB8EB353A7DB19B62921CF2B88EB271279B871EEBB6B38506EF699C1F96FB6F"
+    },
+    {
+      "serial": "ULUS-10512",
+      "title": "Shin Megami Tensei: Persona 3 Portable [US]",
+      "blocks": 351,
+      "excluded": 11,
+      "sha256": "4D753442857775D630256448714697CE4F419BC753417D7F58EA06D8A9F552A1"
+    },
+    {
+      "serial": "ULUS-10560",
+      "title": "Final Fantasy IV: The Complete Collection [US]",
+      "blocks": 123,
+      "excluded": 45,
+      "sha256": "5798E467657E559C17530309A6D3DD34991DE75FAF0EF140A63659E21C7A785F"
+    },
+    {
+      "serial": "ULUS-10566",
+      "title": "Dissidia 012: Duodecim Final Fantasy [US]",
+      "blocks": 41,
+      "excluded": 8,
+      "sha256": "44681716FF7E90EB65A5504729F5CF4A43A6476AD7B7F6123768768CCFD388B2"
+    },
+    {
+      "serial": "ULUS-10582",
+      "title": "Naruto Shippuden: Ultimate Ninja Impact [US]",
+      "blocks": 259,
+      "excluded": 13,
+      "sha256": "0A006A5F7C761B8A0252A55A28D097B414F89A993650D8E567C232F342FACB9E"
+    }
+  ]
+}

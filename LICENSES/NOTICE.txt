@@ -1,0 +1,11 @@
+EmuCoreA-Cheat catalog notice
+
+The generated PSP cheat data is derived from the public CWCheat Database Plus
+repository at commit 750261bccdc39569dec5eaee380902ac1442a007:
+https://github.com/Saramagrean/CWCheat-Database-Plus-
+
+That upstream repository does not publish a blanket open-source license for
+the cheat data. The original authors and upstream terms remain applicable;
+this notice is attribution and provenance, not a new license. The repository's
+Python scripts are standalone tooling and may be reused under the terms chosen
+by their author.

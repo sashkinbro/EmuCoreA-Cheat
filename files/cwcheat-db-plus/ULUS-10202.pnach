@@ -1,0 +1,1225 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10202
+# Source: https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db
+// 20/30 FPS v4 [Default]
+Author = Saramagrean / original CWCheat authors
+E016003C 1003DBD8
+2003DBD8 1205003C
+2003DBE0 14400029
+2003DC88 1600FFDC
+2003DD24 10830016
+2003DD2C 1440000E
+2003DD68 10800003
+2003DE60 10A60021
+2003DE6C 14400016
+2003DEC8 54A0FFF0
+20043DDC 10830012
+20043DE4 1440000C
+20043E18 1080FFFB
+2003DBC8 AC444FE4
+201F4FE4 00000002
+200EE420 44802000
+200EE430 C6404FD8
+201236E8 00121843
+20123734 00125843
+201247D0 00121843
+2012481C 00125843
+201ED4D8 3F800000
+201ED6A4 3F800000
+
+// 30 FPS v4
+Author = Saramagrean / original CWCheat authors
+E00EF733 1003DBD8
+2003DBD8 0A20F733
+2003DD24 0A20F760
+2003DE60 0A20F7BA
+20043DDC 0A210F8A
+2003DBC8 24040001
+201F4FE4 00000001
+200EE420 44802000
+200EE430 C6404FD8
+201236E8 00121843
+20123734 00125843
+201247D0 00121843
+2012481C 00125843
+201ED4D8 3F800000
+201ED6A4 3F800000
+
+// 60 FPS v4 [Always]
+Author = Saramagrean / original CWCheat authors
+E0220000 1003DBD8
+2003DBD8 00000000
+2003DBE0 0A20F722
+2003DC88 00000000
+2003DD24 00000000
+2003DD2C 0A20F75A
+2003DD68 0A20F75E
+2003DE60 00000000
+2003DE6C 0A20F7B2
+2003DEC8 00000000
+20043DDC 00000000
+20043DE4 0A210F86
+20043E18 0A210F82
+2003DBC8 24040000
+201F4FE4 00000000
+200EE420 0A200D81
+200EE430 44950000
+20003604 2415000A
+20003608 0A23B909
+2000360C 44802000
+201236E8 00121803
+20123734 00125803
+201247D0 00121803
+2012481C 00125803
+201ED4D8 3F000000
+201ED6A4 3F000000
+20003618 AFB00000
+2000361C 0A200D8C
+20003620 240E0002
+20003624 00000000
+20003628 27FFFFCC
+2000362C 240E0001
+20003630 3C0F089F
+20003634 03E00008
+20003638 ADEE5210
+E002AFB0 0037BA76
+2037BA74 0E200D86
+2037BC20 0E200D8A
+E002AFB0 003ACB56
+203ACB54 0E200D86
+203ACD00 0E200D8A
+E003AFB0 003834EE
+203834EC 0E200D86
+20383698 0E200D8A
+20388848 00052800
+
+// 60 FPS v3 [In-Game Only]
+Author = Saramagrean / original CWCheat authors
+E0130003 001F5210
+201F5210 00000001
+201F4FD8 00000005
+201F2EE0 00000001
+201F4FE4 00000000
+201F4FE8 3F800000
+201F4FEC 3F800000
+201F4FF0 40AE38E4
+20218E6C 0000003C
+200EE420 0A200D81
+200EE430 44950000
+20003604 2415000A
+20003608 0A23B909
+2000360C 44802000
+201236E8 00121803
+20123734 00125803
+201247D0 00121803
+2012481C 00125803
+201ED4D8 3F000000
+201ED6A4 3F000000
+
+// Force 20 FPS (Old)
+Author = Saramagrean / original CWCheat authors
+201F5210 00000003
+201F4FD8 0000000F
+
+// Force 30 FPS (Old)
+Author = Saramagrean / original CWCheat authors
+201F5210 00000002
+201F4FD8 0000000A
+
+// Force 60 FPS (Old)
+Author = Saramagrean / original CWCheat authors
+201F5210 00000001
+201F4FD8 00000005
+
+// Screen (16:9) PSP
+Author = Saramagrean / original CWCheat authors
+201E9728 3F800000
+
+// Screen (21:9) UltraWide
+Author = Saramagrean / original CWCheat authors
+201E9728 3F35C28F
+
+// Screen (32:9) SuperWide
+Author = Saramagrean / original CWCheat authors
+201E9728 3F000000
+
+// 99 Stealth Camos
+Author = Saramagrean / original CWCheat authors
+20224498 00000063
+
+// All Infinite Objects & Weapons & Ammo
+Author = Saramagrean / original CWCheat authors
+8022442E 004E0001
+1000270F 00000000
+
+// Athelete & Scout Combo
+Author = Saramagrean / original CWCheat authors
+2021CA81 00000024
+
+// Always November 22nd
+Author = Saramagrean / original CWCheat authors
+20224CD8 00000028
+
+// Animation Freeze Game Sharing
+Author = Saramagrean / original CWCheat authors
+2120C1D8 00000000
+
+// Character Modifier : Ski Mask Soldier With Jungle
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000002D
+
+// Equip Claymore
+Author = Saramagrean / original CWCheat authors
+2021CA90 0000001C
+
+// Equip Stealth Camo
+Author = Saramagrean / original CWCheat authors
+1021CA92 00004014
+
+// Escape Time 99.99
+Author = Saramagrean / original CWCheat authors
+2025CC4C 000046B4
+20460978 000046B4
+
+// Fast Running Game Sharing
+Author = Saramagrean / original CWCheat authors
+2121151E 00000000
+
+// Funky Camera
+Author = Saramagrean / original CWCheat authors
+20208302 000003E7
+
+// Get 9999 Of All Weapons, Items & Ammo In Your Re
+Author = Saramagrean / original CWCheat authors
+1022442E 0000270F
+10224430 0000270F
+10224432 0000270F
+
+// Inf. Ammo MK 22
+Author = Saramagrean / original CWCheat authors
+21358B84 00000028
+
+// Inf. Ammo & No Reload MK22
+Author = Saramagrean / original CWCheat authors
+11358B84 00000028
+1021CA40 00000009
+11358B8C 00000009
+
+// Inf. Chaff Grenades
+Author = Saramagrean / original CWCheat authors
+21307760 00000005
+
+// Inf. Health
+Author = Saramagrean / original CWCheat authors
+20251790 00009978
+
+// Inf. HP Stamina Game Sharing
+Author = Saramagrean / original CWCheat authors
+01211FE0 00000064
+212A9B40 00000064
+21211FE5 00000226
+
+// Inf. Silencer MK 22
+Author = Saramagrean / original CWCheat authors
+21358B96 0000001E
+
+// Inf. Smoke Grenade
+Author = Saramagrean / original CWCheat authors
+2130778C 00000005
+
+// Inf. Stamina
+Author = Saramagrean / original CWCheat authors
+2021CC08 00018670
+
+// Inf. Stamina v2
+Author = Saramagrean / original CWCheat authors
+2021CB80 00018670
+
+// Inf. Stamina v3
+Author = Saramagrean / original CWCheat authors
+2021CAF8 00018670
+
+// Infinite Ammo
+Author = Saramagrean / original CWCheat authors
+00007230 0E2C0000
+00301000 3C0808B0
+00301004 8D09A560
+00301008 8D0AA690
+0030100C 8D0BA7C0
+00301010 8D0CA8F0
+00301014 8D0DAB50
+00301018 240E00FF
+0030101C 11200008
+00301024 AD2E0014
+00301028 AD2E001C
+0030102C AD2E0040
+00301030 AD2E004C
+00301034 AD2E006C
+00301038 AD2E0074
+0030103C AD2E00A0
+00301040 11400008
+00301048 AD4E0014
+0030104C AD4E001C
+00301050 AD4E0040
+00301054 AD4E004C
+00301058 AD4E006C
+0030105C AD4E0074
+00301060 AD4E00A0
+00301064 11600008
+0030106C AD6E0014
+00301070 AD6E001C
+00301074 AD6E0040
+00301078 AD6E004C
+0030107C AD6E006C
+00301080 AD6E0074
+00301084 AD6E00A0
+00301088 11800008
+00301090 AD8E0014
+00301094 AD8E001C
+00301098 AD8E0040
+0030109C AD8E004C
+003010A0 AD8E006C
+003010A4 AD8E0074
+003010A8 AD8E00A0
+003010AC 11A00008
+003010B4 ADAE0014
+003010B8 ADAE001C
+003010BC ADAE0040
+003010C0 ADAE004C
+003010C4 ADAE006C
+003010C8 ADAE0074
+003010CC ADAE00A0
+003010D0 03E00008
+003010D4 0E20FD7D
+
+// Infinite Ammo MK22
+Author = Saramagrean / original CWCheat authors
+11358B84 00000028
+1021CA40 00000009
+11358B8C 00000009
+
+// Infinite Health
+Author = Saramagrean / original CWCheat authors
+10251790 0000012C
+
+// Infinite Health v2
+Author = Saramagrean / original CWCheat authors
+20251790 000000FF
+
+// Infinite Health v3
+Author = Saramagrean / original CWCheat authors
+20251790 00FF00FF
+
+// Infinite HP
+Author = Saramagrean / original CWCheat authors
+1021CC00 000003E7
+
+// Infinite Items/Ammo (Bottom Item)
+Author = Saramagrean / original CWCheat authors
+21358BDC 0000270F
+
+// Infinite Items/Ammo (Left Item)
+Author = Saramagrean / original CWCheat authors
+21358C08 0000270F
+
+// Infinite Items/Ammo (Right Item)
+Author = Saramagrean / original CWCheat authors
+21358BB0 0000270F
+
+// Infinite Items/Ammo (Top Item)
+Author = Saramagrean / original CWCheat authors
+21358B84 0000270F
+
+// Infinite Weapons, Items And Ammo
+Author = Saramagrean / original CWCheat authors
+8022442E 004E0001
+1000270F 00000000
+
+// Infinite Life Snake
+Author = Saramagrean / original CWCheat authors
+00251790 22000200
+
+// Infinite Stamina
+Author = Saramagrean / original CWCheat authors
+2021CC08 00018670
+
+// Infinite Stamina (Lots)
+Author = Saramagrean / original CWCheat authors
+20251794 00780078
+20251795 000000F8
+
+// Infinite Stamina (Lots) v2
+Author = Saramagrean / original CWCheat authors
+00251795 000000F8
+00251794 00009E98
+
+// Infinite Stamina (Medium)
+Author = Saramagrean / original CWCheat authors
+20251794 00019AFB
+
+// Infinite Stamina (Regular)
+Author = Saramagrean / original CWCheat authors
+20251794 00007430
+
+// Infiniite Suppressors [MK 22]
+Author = Saramagrean / original CWCheat authors
+21358B96 0000001E
+
+// Johnathan Life Point Max
+Author = Saramagrean / original CWCheat authors
+2021CAF0 00001388
+2021CAF4 00001388
+
+// Lots Of Health Kits (L)
+Author = Saramagrean / original CWCheat authors
+10224474 000003E7
+
+// Lots Of MK22
+Author = Saramagrean / original CWCheat authors
+10224432 000003E7
+
+// Lots Of Rations (L)
+Author = Saramagrean / original CWCheat authors
+10224478 000003E7
+
+// Make A Time Paradox Report
+Author = Saramagrean / original CWCheat authors
+10224426 0000270F
+10224428 0000270F
+1022442A 0000270F
+
+// Max Health
+Author = Saramagrean / original CWCheat authors
+20251792 0000012C
+
+// Max Items/Ammo (Bottom Item)
+Author = Saramagrean / original CWCheat authors
+21358BE0 0000270F
+
+// Max Items/Ammo (Left Item)
+Author = Saramagrean / original CWCheat authors
+21358C0C 0000270F
+
+// Max Items/Ammo (Right Item)
+Author = Saramagrean / original CWCheat authors
+21358BB4 0000270F
+
+// Max Items/Ammo (Top Item)
+Author = Saramagrean / original CWCheat authors
+21358B88 0000270F
+
+// Max MediKits
+Author = Saramagrean / original CWCheat authors
+10224474 000003E7
+
+// Max Weapons, Items And Ammo
+Author = Saramagrean / original CWCheat authors
+1022442E 0000270F
+10224430 0000270F
+10224432 0000270F
+
+// Max Ration
+Author = Saramagrean / original CWCheat authors
+20224476 000003E7
+
+// Max Rations v2
+Author = Saramagrean / original CWCheat authors
+10224478 000003E7
+
+// MK22 Max
+Author = Saramagrean / original CWCheat authors
+10224432 000003E7
+
+// MK22 Ammo
+Author = Saramagrean / original CWCheat authors
+102244A6 0000270F
+
+// Score Modifier Game Sharing
+Author = Saramagrean / original CWCheat authors
+2024736C 00001000
+202473A8 00001000
+2024755C 00001000
+
+// Slot 1 - Roy Cambell
+Author = Saramagrean / original CWCheat authors
+2021CA44 00000010
+
+// Slot 1 - 99 SNS
+Author = Saramagrean / original CWCheat authors
+2021CA78 00000063
+
+// Slot 1 - Max Stamina
+Author = Saramagrean / original CWCheat authors
+2021CA74 00018670
+
+// Slot 1 - Shirtless Snake
+Author = Saramagrean / original CWCheat authors
+2021CA44 00000012
+
+// Slot1 Codes (Snake) Inf.Stamina
+Author = Saramagrean / original CWCheat authors
+2021CA70 00018670
+
+// Slot1 Codes (Snake) Infinite HP
+Author = Saramagrean / original CWCheat authors
+1021CA68 000003E7
+
+// Snake Becomes Jack-Of-All-Trades (Gain All Career)
+Author = Saramagrean / original CWCheat authors
+2021CA80 0001FFFF
+
+// Snake Infinite HP
+Author = Saramagrean / original CWCheat authors
+1021CA68 000003E7
+
+// Snake Life Mod
+Author = Saramagrean / original CWCheat authors
+2021CA68 00001388
+2021CA6C 00001388
+
+// Snake Max HP
+Author = Saramagrean / original CWCheat authors
+1021CA6C 000003E7
+
+// Snake's Equip: Claymore
+Author = Saramagrean / original CWCheat authors
+0021CA90 0000001C
+
+// Snake's Life
+Author = Saramagrean / original CWCheat authors
+20251790 02000200
+
+// Snake's Sensor Set To Maximum
+Author = Saramagrean / original CWCheat authors
+1021CA78 000003E7
+
+// Snake's Stamina
+Author = Saramagrean / original CWCheat authors
+10251794 0000FFFF
+
+// Snake's Status
+Author = Saramagrean / original CWCheat authors
+2021CB28 0000270F
+2021CB2C 0000270F
+2021CB30 000F41DC
+2021CB34 000F41DC
+2021CB38 000003E7
+2021CB40 0001FFFF
+2021CB44 03030303
+2021CB48 03030303
+2021CB4C 00030303
+2021CB60 0001FFFF
+
+// Sniper Zoom Modifier: [4000 = Normal, 4140 = Normal]
+Author = Saramagrean / original CWCheat authors
+2025125C 41400000
+
+// Speed Up Time Game Sharing
+Author = Saramagrean / original CWCheat authors
+212616DC 00001000
+212B4F48 00001000
+
+// Stmn. Address (Give 500 Stmn.)
+Author = Saramagrean / original CWCheat authors
+2021CA70 0000C350
+2021CA74 0000C350
+
+// Truck's Ammo All x9999
+Author = Saramagrean / original CWCheat authors
+10224566 0000270F
+10224568 0000270F
+1022456A 0000270F
+1022456C 0000270F
+1022456E 0000270F
+10224570 0000270F
+10224572 0000270F
+10224574 0000270F
+10224576 0000270F
+10224578 0000270F
+1022457A 0000270F
+
+// Truck's Items All x9999
+Author = Saramagrean / original CWCheat authors
+10224532 0000270F
+10224534 0000270F
+10224536 0000270F
+10224538 0000270F
+1022453A 0000270F
+1022453C 0000270F
+10224540 0000270F
+10224542 0000270F
+10224544 0000270F
+10224546 0000270F
+10224548 0000270F
+1022454A 0000270F
+1022454C 0000270F
+1022454E 0000270F
+10224550 0000270F
+10224552 0000270F
+10224554 0000270F
+10224556 0000270F
+10224558 0000270F
+
+// Truck's Weapons All x9999
+Author = Saramagrean / original CWCheat authors
+102244EE 0000270F
+102244F0 0000270F
+102244F2 0000270F
+102244F4 0000270F
+102244F6 0000270F
+102244F8 0000270F
+102244FA 0000270F
+102244FC 0000270F
+10224500 0000270F
+10224502 0000270F
+10224504 0000270F
+10224506 0000270F
+10224508 0000270F
+1022450A 0000270F
+1022450C 0000270F
+1022450E 0000270F
+10224510 0000270F
+10224512 0000270F
+10224516 0000270F
+10224518 0000270F
+1022451A 0000270F
+1022451C 0000270F
+1022451E 0000270F
+10224520 0000270F
+10224524 0000270F
+10224526 0000270F
+10224528 0000270F
+1022452A 0000270F
+1022452C 0000270F
+
+// Character Mod Slot 1 (17 Ski Mask Soldier)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000014
+
+// Character Mod Slot 1 (Anime Style Girl 1 -From AC!D ?-)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000000B
+
+// Character Mod Slot 1 (Anime Style Girl 2 -From AC!D ?-)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000000C
+
+// Character Mod Slot 1 (Blonde Female Scientist)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000022
+
+// Character Mod Slot 1 (Blonde Female With Beret)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000001B
+
+// Character Mod Slot 1 (Brunette Female Scientist)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000021
+
+// Character Mod Slot 1 (Brunette Female With Beret)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000001D
+
+// Character Mod Slot 1 (Brunette Female With Glasses Scientist)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000023
+
+// Character Mod Slot 1 (Cunningham)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000000D
+
+// Character Mod Slot 1 (Elisa)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000000A
+
+// Character Mod Slot 1 (Eva -Blonde Chick From MGS 3-)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000002
+
+// Character Mod Slot 1 (Gene)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000007
+
+// Character Mod Slot 1 (Ghost -The Doctor Guy-)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000000F
+
+// Character Mod Slot 1 (Government Offficial)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000002A
+
+// Character Mod Slot 1 (Null)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000001
+
+// Character Mod Slot 1 (Ocelot)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000004
+
+// Character Mod Slot 1 (Old Guy -Major Zero?-)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000005
+
+// Character Mod Slot 1 (Para-Medic)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000003
+
+// Character Mod Slot 1 (Pilot 1)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000024
+
+// Character Mod Slot 1 (Pilot 2)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000025
+
+// Character Mod Slot 1 (Pilot 3)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000026
+
+// Character Mod Slot 1 (Python)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000008
+
+// Character Mod Slot 1 (Raikov -Raiden MGS 2-)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000006
+
+// Character Mod Slot 1 (Red Head Female With Beret)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000001C
+
+// Character Mod Slot 1 (Roy Cambell)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000010
+
+// Character Mod Slot 1 (Scientist 1)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000001E
+
+// Character Mod Slot 1 (Scientist 2)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000001F
+
+// Character Mod Slot 1 (Scientist 3)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000020
+
+// Character Mod Slot 1 (Shirtless Snake)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000012
+
+// Character Mod Slot 1 (Signit)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000000E
+
+// Character Mod Slot 1 (Ski Mask Soldier -Johnathan ?-)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000011
+
+// Character Mod Slot 1 (Ski Mask Soldier With Aqua Cammo)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000032
+
+// Character Mod Slot 1 (Ski Mask Soldier With Bleret)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000002B
+
+// Character Mod Slot 1 (Ski Mask Soldier With Blue/Animated Character Cammo)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000033
+
+// Character Mod Slot 1 (Ski Mask Soldier With Desert Cammo)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000002F
+
+// Character Mod Slot 1 (Ski Mask Soldier With Jungle Cammo)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000013
+
+// Character Mod Slot 1 (Ski Mask Soldier With Jungle Cammo 2)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000002D
+
+// Character Mod Slot 1 (Ski Mask Soldier With Red/White Japanese Letters Cammo)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000030
+
+// Character Mod Slot 1 (Ski Mask Soldier With Snow Cammo)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000002E
+
+// Character Mod Slot 1 (Ski Mask Soldier With Snow Cammo 2)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000031
+
+// Character Mod Slot 1 (Ski Mask Soldier With White Japanese Ads Cammo)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000035
+
+// Character Mod Slot 1 (Ski Mask Soldier With White/Red Joshin Letters Cammo)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000034
+
+// Character Mod Slot 1 (Snake)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000000
+
+// Character Mod Slot 1 (Soldier General 1)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000027
+
+// Character Mod Slot 1 (Soldier General 2)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000028
+
+// Character Mod Slot 1 (Soldier General 3)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000029
+
+// Character Mod Slot 1 (Soldier With Beret 1)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000018
+
+// Character Mod Slot 1 (Soldier With Beret 2)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000019
+
+// Character Mod Slot 1 (Soldier With Beret 3)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000001A
+
+// Character Mod Slot 1 (Soldier With Hoodie & Face Mask)
+Author = Saramagrean / original CWCheat authors
+2021CA48 0000002C
+
+// Character Mod Slot 1 (Ursula)
+Author = Saramagrean / original CWCheat authors
+2021CA48 00000009
+
+// AK-47 +99
+Author = Saramagrean / original CWCheat authors
+20224440 0000270F
+
+// Bandana +99
+Author = Saramagrean / original CWCheat authors
+20224496 0000270F
+
+// Binoculars +99
+Author = Saramagrean / original CWCheat authors
+2022447C 0000270F
+
+// Body Armor +99
+Author = Saramagrean / original CWCheat authors
+20224484 0000270F
+
+// Bowie Knife +99
+Author = Saramagrean / original CWCheat authors
+2022446C 0000270F
+
+// Blueprints +99
+Author = Saramagrean / original CWCheat authors
+20224494 0000270F
+
+// Cardboard Box +99
+Author = Saramagrean / original CWCheat authors
+20224486 0000270F
+
+// Chaff G. +99
+Author = Saramagrean / original CWCheat authors
+2022445A 0000270F
+
+// Claymore +99
+Author = Saramagrean / original CWCheat authors
+20224464 0000270F
+
+// GA-Ko. +99
+Author = Saramagrean / original CWCheat authors
+2022446A 0000270F
+
+// Grenade +99
+Author = Saramagrean / original CWCheat authors
+20224456 0000270F
+
+// Key A +99
+Author = Saramagrean / original CWCheat authors
+2022448E 0000270F
+
+// Key B +99
+Author = Saramagrean / original CWCheat authors
+20224488 0000270F
+
+// Key C +99
+Author = Saramagrean / original CWCheat authors
+2022448A 0000270F
+
+// Key D +99
+Author = Saramagrean / original CWCheat authors
+2022448C 0000270F
+
+// Key E +99
+Author = Saramagrean / original CWCheat authors
+20224490 0000270F
+
+// Knife +99
+Author = Saramagrean / original CWCheat authors
+2022442E 0000270F
+
+// Laser +99
+Author = Saramagrean / original CWCheat authors
+20224450 0000270F
+
+// LN G. +99
+Author = Saramagrean / original CWCheat authors
+2022445E 0000270F
+
+// M10 +99
+Author = Saramagrean / original CWCheat authors
+2022444E 0000270F
+
+// M16A1 +99
+Author = Saramagrean / original CWCheat authors
+2022443C 0000270F
+
+// M1911A1 +99
+Author = Saramagrean / original CWCheat authors
+20224434 0000270F
+
+// MK22 +99
+Author = Saramagrean / original CWCheat authors
+20224432 0000270F
+
+// M37 +99
+Author = Saramagrean / original CWCheat authors
+20224442 0000270F
+
+// M63 +99
+Author = Saramagrean / original CWCheat authors
+20224446 0000270F
+
+// M870 +99
+Author = Saramagrean / original CWCheat authors
+20224444 0000270F
+
+// Machete +99
+Author = Saramagrean / original CWCheat authors
+20224452 0000270F
+
+// Magazine +99
+Author = Saramagrean / original CWCheat authors
+20224466 0000270F
+
+// Medical Kit(L) +99
+Author = Saramagrean / original CWCheat authors
+20224474 0000270F
+
+// Medical Kit(S) +99
+Author = Saramagrean / original CWCheat authors
+20224472 0000270F
+
+// Mine Detector +99
+Author = Saramagrean / original CWCheat authors
+20224482 0000270F
+
+// Mosin N. +99
+Author = Saramagrean / original CWCheat authors
+2022444A 0000270F
+
+// Night Vision Goggles +99
+Author = Saramagrean / original CWCheat authors
+20224480 0000270F
+
+// None +99
+Author = Saramagrean / original CWCheat authors
+20224454 0000270F
+
+// Pentazemin +99
+Author = Saramagrean / original CWCheat authors
+2022447A 0000270F
+
+// Ration(L) +99
+Author = Saramagrean / original CWCheat authors
+20224478 0000270F
+
+// Ration(S) +99
+Author = Saramagrean / original CWCheat authors
+20224476 0000270F
+
+// RPG-7 +99
+Author = Saramagrean / original CWCheat authors
+2022444C 0000270F
+
+// SAA +99
+Author = Saramagrean / original CWCheat authors
+20224436 0000270F
+
+// Scorpion +99
+Author = Saramagrean / original CWCheat authors
+20224438 0000270F
+
+// Secret Doc. +99
+Author = Saramagrean / original CWCheat authors
+20224492 0000270F
+
+// Shield +99
+Author = Saramagrean / original CWCheat authors
+20224468 0000270F
+
+// Smoke G. +99
+Author = Saramagrean / original CWCheat authors
+2022445C 0000270F
+
+// SP Knife +99
+Author = Saramagrean / original CWCheat authors
+20224430 0000270F
+
+// Stealth +99
+Author = Saramagrean / original CWCheat authors
+20224498 0000270F
+
+// Stun G. +99
+Author = Saramagrean / original CWCheat authors
+20224458 0000270F
+
+// SVD +99
+Author = Saramagrean / original CWCheat authors
+20224448 0000270F
+
+// Thermal Goggles +99
+Author = Saramagrean / original CWCheat authors
+2022447E 0000270F
+
+// Time Bomb +99
+Author = Saramagrean / original CWCheat authors
+20224462 0000270F
+
+// TNT +99
+Author = Saramagrean / original CWCheat authors
+20224460 0000270F
+
+// Uzi +99
+Author = Saramagrean / original CWCheat authors
+2022443A 0000270F
+
+// XM177E2 +99
+Author = Saramagrean / original CWCheat authors
+2022443E 0000270F
+
+// Skill: Assult Rifle
+Author = Saramagrean / original CWCheat authors
+0021CA86 00000003
+
+// Skill: Handgun
+Author = Saramagrean / original CWCheat authors
+0021CA84 00000003
+
+// Skill: Heavy Weapons
+Author = Saramagrean / original CWCheat authors
+0021CA89 00000003
+
+// Skill: Knife
+Author = Saramagrean / original CWCheat authors
+0021CA8A 00000003
+
+// Skill: Medical
+Author = Saramagrean / original CWCheat authors
+0021CA8E 00000003
+
+// Skill: Shotgun
+Author = Saramagrean / original CWCheat authors
+0021CA87 00000003
+
+// Skill: Sniper Rifle
+Author = Saramagrean / original CWCheat authors
+0021CA88 00000003
+
+// Skill: Sub Machinegun
+Author = Saramagrean / original CWCheat authors
+0021CA85 00000003
+
+// Skill: Technical
+Author = Saramagrean / original CWCheat authors
+0021CA8D 00000003
+
+// Skill: Throwing Weapons
+Author = Saramagrean / original CWCheat authors
+0021CA8B 00000003
+
+// Skill: Traps
+Author = Saramagrean / original CWCheat authors
+0021CA8C 00000003
+
+// Skill Rank S: (Snake)A.Rifle SK
+Author = Saramagrean / original CWCheat authors
+0021CA86 00000003
+
+// Skill Rank S: (Snake)Handgun SK
+Author = Saramagrean / original CWCheat authors
+0021CA84 00000003
+
+// Skill Rank S: (Snake)HeavyWep SK
+Author = Saramagrean / original CWCheat authors
+0021CA89 00000003
+
+// Skill Rank S: (Snake)Knife SK
+Author = Saramagrean / original CWCheat authors
+0021CA8A 00000003
+
+// Skill Rank S: (Snake)Medical SK
+Author = Saramagrean / original CWCheat authors
+0021CA8E 00000003
+
+// Skill Rank S: (Snake)Tech SK
+Author = Saramagrean / original CWCheat authors
+0021CA8D 00000003
+
+// Skill Rank S: (Snake)ThrowWep SK
+Author = Saramagrean / original CWCheat authors
+0021CA8B 00000003
+
+// Skill Rank S: (Snake)Trap SK
+Author = Saramagrean / original CWCheat authors
+0021CA8C 00000003
+
+// Skill Rank S: (Snake)Shotgun SK
+Author = Saramagrean / original CWCheat authors
+0021CA87 00000003
+
+// Skill Rank S: (Snake)SniperR SK
+Author = Saramagrean / original CWCheat authors
+0021CA88 00000003
+
+// Skill Rank S: (Snake)Sub.Mac SK
+Author = Saramagrean / original CWCheat authors
+0021CA85 00000003
+
+// Skill Rank S: A.Rifle SK
+Author = Saramagrean / original CWCheat authors
+0021CC1E 00000003
+
+// Skill Rank S: A.Rifle SK v2
+Author = Saramagrean / original CWCheat authors
+0021CB96 00000003
+
+// Skill Rank S: A.Rifle SK v3
+Author = Saramagrean / original CWCheat authors
+0021CB0E 00000003
+
+// Skill Rank S: Handgun SK
+Author = Saramagrean / original CWCheat authors
+0021CC1C 00000003
+
+// Skill Rank S: Handgun SK v2
+Author = Saramagrean / original CWCheat authors
+0021CB94 00000003
+
+// Skill Rank S: Handgun SK v3
+Author = Saramagrean / original CWCheat authors
+0021CB0C 00000003
+
+// Skill Rank S: HeavyWep SK
+Author = Saramagrean / original CWCheat authors
+0021CC21 00000003
+
+// Skill Rank S: HeavyWep SK v2
+Author = Saramagrean / original CWCheat authors
+0021CB99 00000003
+
+// Skill Rank S: HeavyWep SK v3
+Author = Saramagrean / original CWCheat authors
+0021CB11 00000003
+
+// Skill Rank S: Knife SK
+Author = Saramagrean / original CWCheat authors
+0021CC22 00000003
+
+// Skill Rank S: Knife SK v2
+Author = Saramagrean / original CWCheat authors
+0021CB9A 00000003
+
+// Skill Rank S: Knife SK v3
+Author = Saramagrean / original CWCheat authors
+0021CB12 00000003
+
+// Skill Rank S: Medical SK
+Author = Saramagrean / original CWCheat authors
+0021CC26 00000003
+
+// Skill Rank S: Medical SK v2
+Author = Saramagrean / original CWCheat authors
+0021CB9E 00000003
+
+// Skill Rank S: Medical SK v3
+Author = Saramagrean / original CWCheat authors
+0021CB16 00000003
+
+// Skill Rank S: Shotgun SK
+Author = Saramagrean / original CWCheat authors
+0021CC1F 00000003
+
+// Skill Rank S: Shotgun SK v2
+Author = Saramagrean / original CWCheat authors
+0021CB97 00000003
+
+// Skill Rank S: Shotgun SK v3
+Author = Saramagrean / original CWCheat authors
+0021CB0F 00000003
+
+// Skill Rank S: SniperR SK
+Author = Saramagrean / original CWCheat authors
+0021CC20 00000003
+
+// Skill Rank S: SniperR SK v2
+Author = Saramagrean / original CWCheat authors
+0021CB98 00000003
+
+// Skill Rank S: SniperR SK v3
+Author = Saramagrean / original CWCheat authors
+0021CB10 00000003
+
+// Skill Rank S: Sub.Mac SK
+Author = Saramagrean / original CWCheat authors
+0021CC1D 00000003
+
+// Skill Rank S: Sub.Mac SK v2
+Author = Saramagrean / original CWCheat authors
+0021CB95 00000003
+
+// Skill Rank S: Sub.Mac SK v3
+Author = Saramagrean / original CWCheat authors
+0021CB0D 00000003
+
+// Skill Rank S: Tech SK
+Author = Saramagrean / original CWCheat authors
+0021CC25 00000003
+
+// Skill Rank S: Tech SK v2
+Author = Saramagrean / original CWCheat authors
+0021CB9D 00000003
+
+// Skill Rank S: Tech SK v3
+Author = Saramagrean / original CWCheat authors
+0021CB15 00000003
+
+// Skill Rank S: ThrowWep SK
+Author = Saramagrean / original CWCheat authors
+0021CC23 00000003
+
+// Skill Rank S: ThrowWep SK v2
+Author = Saramagrean / original CWCheat authors
+0021CB9B 00000003
+
+// Skill Rank S: ThrowWep SK v3
+Author = Saramagrean / original CWCheat authors
+0021CB13 00000003
+
+// Skill Rank S: Trap SK
+Author = Saramagrean / original CWCheat authors
+0021CC24 00000003
+
+// Skill Rank S: Trap SK v2
+Author = Saramagrean / original CWCheat authors
+0021CB9C 00000003
+
+// Skill Rank S: Trap SK v3
+Author = Saramagrean / original CWCheat authors
+0021CB14 00000003
