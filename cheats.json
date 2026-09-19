@@ -3,6 +3,222 @@
   "generatedAt": "2026-09-19T00:00:00Z",
   "entries": [
     {
+      "id": "cwcheat-npjh-50107",
+      "title": "Kidou Senshi Gundam: Gundam Vs. Gundam Next Plus (PlayStation Store) [JP]",
+      "serials": [
+        "NPJH-50107"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "632 serial-specific CWCheat blocks for NPJH-50107; 62 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50107.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 632,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "B25AF0B5B09442BA389CC52AC953E54126A429087739CC5131A5EF479872C479"
+    },
+    {
+      "id": "cwcheat-npjh-50352",
+      "title": "God Eater Burst (PlayStation Store) [JP]",
+      "serials": [
+        "NPJH-50352"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "725 serial-specific CWCheat blocks for NPJH-50352; 43 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50352.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 725,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "FCC2EDB6203505954A76305384D407FEEC6F0D2D1200BB4ABBA7CB9671AD7653"
+    },
+    {
+      "id": "cwcheat-npjh-50443",
+      "title": "Final Fantasy: Type-0 Reishiki (Disk 1) (PlayStation Store) [JP]",
+      "serials": [
+        "NPJH-50443"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "440 serial-specific CWCheat blocks for NPJH-50443; 45 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50443.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 440,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "603E30DDF1F1F21809176B8EBB649C60EC52D2478A3C3EC7316C3C0A741BC8B3"
+    },
+    {
+      "id": "cwcheat-npjh-50444",
+      "title": "Final Fantasy Type-0 Reishiki (Disk 2) (PlayStation Store) [JP]",
+      "serials": [
+        "NPJH-50444"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "422 serial-specific CWCheat blocks for NPJH-50444; 34 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50444.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 422,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "5676C38998FA1940BD493D1CB9D61951DA502A5F55076367DE654EE7DB9C185E"
+    },
+    {
+      "id": "cwcheat-npjh-50701",
+      "title": "Sword Art Online: Infinity Moment [JP]",
+      "serials": [
+        "NPJH-50701"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "585 serial-specific CWCheat blocks for NPJH-50701; 20 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50701.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 585,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "E74369F3255B73DABB6C39C081CA92BB64737F9F434DAC98CEE529F4A8E32CAE"
+    },
+    {
+      "id": "cwcheat-npjh-50832",
+      "title": "God Eater 2 [JP]",
+      "serials": [
+        "NPJH-50832"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "546 serial-specific CWCheat blocks for NPJH-50832; 62 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50832.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 546,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "4C9402C6E336A2E2E42C98B0FE1F4C35A22190AAE55ACCBC4277990793727A3D"
+    },
+    {
+      "id": "cwcheat-npjh-50878",
+      "title": "Toukiden Kiwami [JP]",
+      "serials": [
+        "NPJH-50878"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "564 serial-specific CWCheat blocks for NPJH-50878; 145 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50878.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 564,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "A99C2311B05F9E86ED9DA157AAA644829E60F9FF4B130CDC43454D3F0B43602C"
+    },
+    {
+      "id": "cwcheat-npuh-10041",
+      "title": "Valhalla Knights 2: Battle Stance (PlayStation Store) [US]",
+      "serials": [
+        "NPUH-10041"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "533 serial-specific CWCheat blocks for NPUH-10041; 9 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPUH-10041.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 533,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "84DBE341B7BE8294E07D223428E59A88599741E75FEBDFD35E4D49F58FF7C940"
+    },
+    {
+      "id": "cwcheat-uces-00995",
+      "title": "Patapon [EU]",
+      "serials": [
+        "UCES-00995"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "438 serial-specific CWCheat blocks for UCES-00995; 3 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/UCES-00995.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 438,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "99EE04FB2301BCE6317EE9C9672E4E2D751374C3DE15C33691613F3EF3507109"
+    },
+    {
+      "id": "cwcheat-uces-01245",
+      "title": "Gran Turismo (v1.01) [EU]",
+      "serials": [
+        "UCES-01245"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "572 serial-specific CWCheat blocks for UCES-01245; 3 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/UCES-01245.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 572,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7AC15FED4BC7FDA7895EB9E5695C9F590BE0C79F9ADF56D9B926C02F6624389C"
+    },
+    {
+      "id": "cwcheat-ucjs-10100",
+      "title": "Gran Turismo [JP]",
+      "serials": [
+        "UCJS-10100"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "544 serial-specific CWCheat blocks for UCJS-10100; 3 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/UCJS-10100.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 544,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "F8136C98D60047FE8E3963DA271493DED4F4DD624BC5B6DD0996CC13BFF2F951"
+    },
+    {
+      "id": "cwcheat-ucus-98632",
+      "title": "Gran Turismo [US]",
+      "serials": [
+        "UCUS-98632"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "703 serial-specific CWCheat blocks for UCUS-98632; 11 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/UCUS-98632.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 703,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "104C142DC66E33E0F639DFD8AC2940ECCE1854E77D8365E166F4DF6C390FBD0D"
+    },
+    {
       "id": "cwcheat-ucus-98653",
       "title": "God Of War: Chains Of Olympus [US]",
       "serials": [
@@ -54,7 +270,151 @@
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 133,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "E39E9B36D5D805AAA3620D93F58600EAD4B4CFDD2EDBAE837AF37DFE588DFA02"
+      "sha256": "84B950FBB9CB51966B35181881242EB482F7781CE22872F4F674487005EDDD4D"
+    },
+    {
+      "id": "cwcheat-ulas-42060",
+      "title": "Monster Hunter Freedom [AS]",
+      "serials": [
+        "ULAS-42060"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "403 serial-specific CWCheat blocks for ULAS-42060; 1 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULAS-42060.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 403,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "DA9820E03BD32E3501D8D0BEBBFDFF84843A05AC6D3D5F63912BA0DB9F60FEAA"
+    },
+    {
+      "id": "cwcheat-ules-00151",
+      "title": "Grand Theft Auto: Liberty City Stories (v1.05&v3.00) [EU]",
+      "serials": [
+        "ULES-00151"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "345 serial-specific CWCheat blocks for ULES-00151; 12 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULES-00151.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 345,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "8B2268A749658744A6B3EF770B5B45FE0D6D535C4D199BFD58606FFBC3E1EC0F"
+    },
+    {
+      "id": "cwcheat-ules-00176",
+      "title": "Tales Of Eternia [EU]",
+      "serials": [
+        "ULES-00176"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "395 serial-specific CWCheat blocks for ULES-00176; 3 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULES-00176.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 395,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "AB8861D445613E13D0444D07862A9A822DDA517CC589277931F87D7E2ACD6981"
+    },
+    {
+      "id": "cwcheat-ules-00318",
+      "title": "Monster Hunter Freedom [EU]",
+      "serials": [
+        "ULES-00318"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "415 serial-specific CWCheat blocks for ULES-00318; 3 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULES-00318.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 415,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "A2DF5D5929266547F81AD6767DA0869FDDB0549CADB2B9BF416673304A09E9F7"
+    },
+    {
+      "id": "cwcheat-ules-00530",
+      "title": "Metal Slug Anthology [EU]",
+      "serials": [
+        "ULES-00530"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "383 serial-specific CWCheat blocks for ULES-00530; 16 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULES-00530.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 383,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "5B2F02B79514ADBBB47AF7783F82F63B7C3D2DE72AF37B11D5C1D74F70019ADC"
+    },
+    {
+      "id": "cwcheat-uljm-05798",
+      "title": "The 3rd Birthday [JP]",
+      "serials": [
+        "ULJM-05798"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "414 serial-specific CWCheat blocks for ULJM-05798; 112 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULJM-05798.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 414,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "FC27942FB307A96CD21F1A3A754AC654BC6EE890F1B1FC8F384129C0E4B4C5FE"
+    },
+    {
+      "id": "cwcheat-uljm-05800",
+      "title": "Monster Hunter Portable 3rd [JP]",
+      "serials": [
+        "ULJM-05800"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "343 serial-specific CWCheat blocks for ULJM-05800; 29 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULJM-05800.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 343,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C313D73E5FB2DEA766544D3A487AE467DA48FCF7C3FE51133493F7DF911E43A7"
+    },
+    {
+      "id": "cwcheat-uljs-00266",
+      "title": ".Hack//Link [JP]",
+      "serials": [
+        "ULJS-00266"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "827 serial-specific CWCheat blocks for ULJS-00266; 3 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULJS-00266.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 827,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "E429A58B979E6943A7625A4C4A7A3792105165EB6273F8A5A21DF75E1A683749"
     },
     {
       "id": "cwcheat-ulus-10041",
@@ -109,6 +469,24 @@
       "blockCount": 39,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "1025DE41E96A507C8334A1C3E5ED246B2242DE587F48206CB6452D5F2A340E2E"
+    },
+    {
+      "id": "cwcheat-ulus-10154",
+      "title": "Metal Slug Anthology [US]",
+      "serials": [
+        "ULUS-10154"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "385 serial-specific CWCheat blocks for ULUS-10154; 14 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10154.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 385,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "F753C7B7BDCFFB764A59A82039E87D7477041798AAA175F6A1E205404C654A4F"
     },
     {
       "id": "cwcheat-ulus-10160",
@@ -234,7 +612,7 @@
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 178,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "1F685923C26DBC9F9FB2FF799CA74828389A6BAC8D27B8664DC8781FB03B5F4F"
+      "sha256": "793B41A3FC277A8C32BA22423B3A186CB1F565CE920E0966C87F6B9172D4F90E"
     },
     {
       "id": "cwcheat-ulus-10383",
@@ -270,7 +648,25 @@
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 219,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "273E6C63F084FD9D049BF8394F822BC665BFAC2DDB11CEC22370ECEE3FD424F0"
+      "sha256": "4D5964C9B5769C6C0FC3306B23EFF82FF4399BAF18A5953D22B68E9084907C87"
+    },
+    {
+      "id": "cwcheat-ulus-10410",
+      "title": "Phantasy Star Portable [US]",
+      "serials": [
+        "ULUS-10410"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "514 serial-specific CWCheat blocks for ULUS-10410; 7 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10410.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 514,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "B753B4EC4959F2CDE95A9127815D9653D5C8FF2776E693D0CE7CBBE041DBA2A9"
     },
     {
       "id": "cwcheat-ulus-10437",
@@ -324,7 +720,25 @@
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 203,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "6D00CD312B3E20C735D264D99401EED961FB0109BAFF1B8F9D5A62FDF964AAA7"
+      "sha256": "4459299489818B9AF6E1C443B3EDFDE25BCD3636BE84AB9460BDCBB9754D305E"
+    },
+    {
+      "id": "cwcheat-ulus-10479",
+      "title": "Lord Of Arcana [US]",
+      "serials": [
+        "ULUS-10479"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "6594 serial-specific CWCheat blocks for ULUS-10479; 10 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10479.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 6594,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C7F3821BB38D2E3A8CDC5706CD20A3E7EF79D8AB4468914FD0698B7E7D3D88F0"
     },
     {
       "id": "cwcheat-ulus-10490",
@@ -399,6 +813,24 @@
       "sha256": "4D753442857775D630256448714697CE4F419BC753417D7F58EA06D8A9F552A1"
     },
     {
+      "id": "cwcheat-ulus-10529",
+      "title": "Phantasy Star Portable 2 [US]",
+      "serials": [
+        "ULUS-10529"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "411 serial-specific CWCheat blocks for ULUS-10529; 9 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10529.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 411,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "DC61009AA2E7EA2BB813B895EBC543A6573DE8BEF31CF9E00A1897752E2A79AB"
+    },
+    {
       "id": "cwcheat-ulus-10560",
       "title": "Final Fantasy IV: The Complete Collection [US]",
       "serials": [
@@ -415,6 +847,24 @@
       "blockCount": 123,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "5798E467657E559C17530309A6D3DD34991DE75FAF0EF140A63659E21C7A785F"
+    },
+    {
+      "id": "cwcheat-ulus-10563",
+      "title": "God Eater Burst [US]",
+      "serials": [
+        "ULUS-10563"
+      ],
+      "authors": [
+        "Saramagrean and the original CWCheat code authors"
+      ],
+      "description": "474 serial-specific CWCheat blocks for ULUS-10563; 37 malformed upstream blocks excluded during conversion.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10563.pnach",
+      "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
+      "sourceName": "CWCheat Database Plus",
+      "license": "Upstream terms; no blanket open-source license published",
+      "blockCount": 474,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "2AAB5BCE6738B14714084010D0A75DAB595077FDB02E9AEA07C6FB312CB832F2"
     },
     {
       "id": "cwcheat-ulus-10566",
@@ -450,7 +900,7 @@
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 259,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "0A006A5F7C761B8A0252A55A28D097B414F89A993650D8E567C232F342FACB9E"
+      "sha256": "4323E6EAA426DB2C7C7307A691DF8E5E09080A34D98BDF710CCB566ACB20FF27"
     }
   ]
 }

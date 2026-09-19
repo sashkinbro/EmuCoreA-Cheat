@@ -23,6 +23,13 @@ SERIALS = {
     "ULUS-10505", "ULUS-10509", "ULUS-10202", "ULUS-10391", "ULUS-10084",
     "ULUS-10512", "ULUS-10466", "ULUS-10582", "UCUS-98751", "ULUS-10114",
     "ULUS-10383", "ULUS-10455", "ULUS-10277", "ULUS-10251", "ULUS-10263",
+    # Batch 002: additional regional and Japanese serials from the same
+    # pinned CWCheat Database Plus snapshot.
+    "ULUS-10479", "ULJS-00266", "NPJH-50352", "UCUS-98632", "NPJH-50107",
+    "NPJH-50878", "NPJH-50701", "NPJH-50832", "UCES-01245", "UCJS-10100",
+    "NPUH-10041", "ULUS-10410", "ULUS-10563", "NPJH-50443", "NPJH-50444",
+    "UCES-00995", "ULJM-05798", "ULUS-10529", "ULES-00318", "ULAS-42060",
+    "ULES-00176", "ULUS-10154", "ULES-00530", "ULJM-05800", "ULES-00151",
 }
 CODE_RE = re.compile(r"^([0-9A-Fa-f]{8})[\s:+-]+([0-9A-Fa-f]{1,8})$")
 SERIAL_RE = re.compile(r"^[A-Z]{4}-[0-9]{5}$")
@@ -61,8 +68,11 @@ def pack_for(serial: str, game: dict[str, object]) -> tuple[str, int, int]:
     blocks: list[dict[str, object]] = []
     excluded = 0
     for block in game["blocks"]:
-        lines = block["lines"]
-        if block["invalid"] or not lines or all(line == "00000000 00000000" for line in lines):
+        # A zero address/value pair is a CWCheat placeholder, not an
+        # executable code line. Remove it even when a block also contains
+        # valid lines; an all-placeholder block is excluded below.
+        lines = [line for line in block["lines"] if line != "00000000 00000000"]
+        if block["invalid"] or not lines:
             excluded += 1
             continue
         blocks.append({"title": block["title"], "lines": list(dict.fromkeys(lines))})
@@ -79,6 +89,8 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--source", type=Path, default=Path(__file__).parents[2] / "CWCheat-Database-Plus" / "cheat.db")
     parser.add_argument("--repo", type=Path, default=Path(__file__).parents[1])
+    parser.add_argument("--batch-id", default="batch-002")
+    parser.add_argument("--release-version", default="v1.0.2")
     args = parser.parse_args()
     source = args.source.resolve()
     repo = args.repo.resolve()
@@ -124,7 +136,7 @@ def main() -> int:
         report.append({"serial": serial, "title": title, "blocks": block_count, "excluded": excluded, "sha256": digest})
     catalog = {"schemaVersion": 1, "generatedAt": "2026-09-19T00:00:00Z", "entries": entries}
     (repo / "cheats.json").write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
-    (repo / "build-report.json").write_text(json.dumps({"source": SOURCE_RAW, "sourceSha256": hashlib.sha256(canonical_source_bytes).hexdigest().upper(), "entries": report}, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
+    (repo / "build-report.json").write_text(json.dumps({"batch": args.batch_id, "release": args.release_version, "source": SOURCE_RAW, "sourceSha256": hashlib.sha256(canonical_source_bytes).hexdigest().upper(), "entries": report}, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     print(f"generated {len(entries)} packs from {source}")
     print(f"source sha256: {hashlib.sha256(canonical_source_bytes).hexdigest().upper()}")
     for row in report:

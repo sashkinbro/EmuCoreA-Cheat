@@ -1,0 +1,2326 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10563
+# Source: https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db
+// 60 FPS
+Author = Saramagrean / original CWCheat authors
+2026B418 00000000
+D040B7A4 00003F80
+2040B7A4 3C013F00
+E0023F80 0041A670
+2041A670 3C013F00
+2041BD74 3C013F00
+
+// 60 FPS [Off]
+Author = Saramagrean / original CWCheat authors
+2026B418 00000001
+D040B7A4 00003F00
+2040B7A4 3C013F80
+E0023F00 0041A670
+2041A670 3C013F80
+2041BD74 3C013F80
+
+// Screen (3:2) Handheld
+Author = Saramagrean / original CWCheat authors
+2028ACC8 3FC00000
+
+// Screen (16:9) PSP
+Author = Saramagrean / original CWCheat authors
+2028ACC8 3FE1E1E1
+
+// Screen (21:9) UltraWide
+Author = Saramagrean / original CWCheat authors
+2028ACC8 401E147B
+
+// Screen (32:9) SuperWide
+Author = Saramagrean / original CWCheat authors
+2028ACC8 4063D70A
+
+// Inf. & Max HP/OP/SP (0.91)
+Author = Saramagrean / original CWCheat authors
+203156BC 4859E100
+203156C0 4859E100
+203156C4 4859E100
+103156BA 00004316
+103156B6 00004316
+103156B2 00004316
+
+// 0:00 Mission Time (0.9.8)
+Author = Saramagrean / original CWCheat authors
+2036B0C8 000F4650
+
+// st Item In Hand x10 (0.9.8)
+Author = Saramagrean / original CWCheat authors
+0031D6DE 0000000A
+
+// st Item In Hand x50 (0.9.8)
+Author = Saramagrean / original CWCheat authors
+0031D6DE 00000032
+
+// st Item In Hand x99 (0.9.8)
+Author = Saramagrean / original CWCheat authors
+0031D6DE 00000063
+
+// Gun Stats Up [9999] (0.9.8)
+Author = Saramagrean / original CWCheat authors
+1031E1BC 0000270F
+1031E1BE 0000270F
+1031E1C0 0000270F
+1031E1C2 0000270F
+1031E1C4 0000270F
+1031E1C6 0000270F
+1031BD6A 0000270F
+1031BD6C 0000270F
+1031BD6E 0000270F
+1031BD70 0000270F
+1031BD72 0000270F
+1031BD74 0000270F
+
+// Inf. Money (0.9.8)
+Author = Saramagrean / original CWCheat authors
+20320A30 05F5E100
+
+// Inf. Burst [Must Acquire 1st] (0.9.8)
+Author = Saramagrean / original CWCheat authors
+11489CE6 0000445A
+
+// Inf. God Ammo [Must Acquire 1st] (0.9.8)
+Author = Saramagrean / original CWCheat authors
+1031EF02 00000009
+1031F178 00000009
+1031F660 00000009
+1031FB48 00000009
+
+// Inf. & Max HP/OP/SP (0.9.8)
+Author = Saramagrean / original CWCheat authors
+2031D6BC 4859E100
+2031D6C0 4859E100
+2031D6C4 4859E100
+1031D6BA 00004316
+1031D6B6 00004316
+1031D6B2 00004316
+
+// Inventory x96 (0.9.8)
+Author = Saramagrean / original CWCheat authors
+8031D6DE 0020004C
+00000060 00000000
+
+// Shield Stats Up [9999] (0.9.8)
+Author = Saramagrean / original CWCheat authors
+1031E206 0000270F
+1031E208 0000270F
+1031E20A 0000270F
+1031E20C 0000270F
+1031E20E 0000270F
+1031E210 0000270F
+1031E212 0000270F
+
+// Sword Stats Up [9999] (0.9.8)
+Author = Saramagrean / original CWCheat authors
+1031E16E 0000270F
+1031E170 0000270F
+1031E172 0000270F
+1031E174 0000270F
+1031E176 0000270F
+1031E178 0000270F
+1031E17A 0000270F
+
+// st Item In Hand x10 [Adjustable] (1.01)
+Author = Saramagrean / original CWCheat authors
+003287DE 0000000A
+
+// st Item In Hand x99 (1.01)
+Author = Saramagrean / original CWCheat authors
+003287DE 00000063
+
+// Blade Atk. 200 (1.01)
+Author = Saramagrean / original CWCheat authors
+1032D86E 000000C8
+1032D870 000000C8
+1032D872 000000C8
+1032D874 000000C8
+1032D876 000000C8
+1032D878 000000C8
+1032D87A 000000C8
+
+// Blade Atk. 9999 (1.01)
+Author = Saramagrean / original CWCheat authors
+1032D86E 0000270F
+1032D870 0000270F
+1032D872 0000270F
+1032D874 0000270F
+1032D876 0000270F
+1032D878 0000270F
+1032D87A 0000270F
+
+// Gun Atk. 200 (1.01)
+Author = Saramagrean / original CWCheat authors
+1032D8BC 000000C8
+1032D8BE 000000C8
+1032D8C0 000000C8
+1032D8C2 000000C8
+1032D8C4 000000C8
+1032D8C6 000000C8
+1032B46A 000000C8
+1032B46C 000000C8
+1032B46E 000000C8
+1032B470 000000C8
+1032B472 000000C8
+1032B474 000000C8
+
+// Gun Stats Max (1.01)
+Author = Saramagrean / original CWCheat authors
+1032D8BC 0000270F
+1032D8BE 0000270F
+1032D8C0 0000270F
+1032D8C2 0000270F
+1032D8C4 0000270F
+1032D8C6 0000270F
+1032B46A 0000270F
+1032B46C 0000270F
+1032B46E 0000270F
+1032B470 0000270F
+1032B472 0000270F
+1032B474 0000270F
+
+// Inf. HP/OP/SP (1.01)
+Author = Saramagrean / original CWCheat authors
+2031D6BC 4859E100
+2031D6C0 4859E100
+2031D6C4 4859E100
+
+// Inf. HP/OP/ST 9999 (1.01)
+Author = Saramagrean / original CWCheat authors
+203218B0 7E76CA00
+203218B8 7E76CA00
+203218BC 7E76CA00
+203218C4 7E76CA00
+203218B4 7E76CA00
+203218C0 7E76CA00
+
+// Inf. HP/OP/SP (1.01)
+Author = Saramagrean / original CWCheat authors
+2032CDBC 4859E100
+2032CDC0 4859E100
+2032CDC4 4859E100
+
+// Inf. Money (1.01)
+Author = Saramagrean / original CWCheat authors
+20330130 05F5E100
+
+// Infinite Items In Storage [99] (1.01)
+Author = Saramagrean / original CWCheat authors
+80339DC4 0320004C
+00000063 00000000
+
+// Item 99 1st Slot (1.01)
+Author = Saramagrean / original CWCheat authors
+0032CDDE 00000063
+
+// Item ID 1 Quantity Modifier (1.01)
+Author = Saramagrean / original CWCheat authors
+103350DE 00000063
+
+// Max & Inf. HP/OP/SP 1.01)
+Author = Saramagrean / original CWCheat authors
+203210BC 4859E100
+203210C0 4859E100
+203210C4 4859E100
+103210BA 00004316
+103210B6 00004316
+103210B2 00004316
+
+// Max Gun Damage (1.01)
+Author = Saramagrean / original CWCheat authors
+10335BBC 0000270F
+10335BBE 0000270F
+10335BC0 0000270F
+10335BC2 0000270F
+10335BC4 0000270F
+10335BC6 0000270F
+
+// Max HP/OP/SP (1.01)
+Author = Saramagrean / original CWCheat authors
+1032CDBA 00004316
+1032CDB6 00004316
+1032CDB2 00004316
+
+// Max Melee Damage (1.01)
+Author = Saramagrean / original CWCheat authors
+10335B6E 0000270F
+10335B70 0000270F
+10335B72 0000270F
+10335B74 0000270F
+10335B76 0000270F
+10335B78 0000270F
+10335B7A 0000270F
+
+// Max/Inf. HP (1.01)
+Author = Saramagrean / original CWCheat authors
+2032CDBC 4859E100
+
+// Max/Inf. OP (1.01)
+Author = Saramagrean / original CWCheat authors
+2032CDC0 4859E100
+
+// Max/Inf. SP (1.01)
+Author = Saramagrean / original CWCheat authors
+2032CDC4 4859E100
+
+// Shield Atk. 255 (1.01)
+Author = Saramagrean / original CWCheat authors
+1032D906 000000FF
+1032D908 000000FF
+1032D90A 000000FF
+1032D90C 000000FF
+1032D90E 000000FF
+1032D910 000000FF
+1032D912 000000FF
+
+// Shield Max (1.01)
+Author = Saramagrean / original CWCheat authors
+1032D906 0000270F
+1032D908 0000270F
+1032D90A 0000270F
+1032D90C 0000270F
+1032D90E 0000270F
+1032D910 0000270F
+1032D912 0000270F
+
+// st Item In Hand x10 [Adjustable] (1.1.1)
+Author = Saramagrean / original CWCheat authors
+003287DE 0000000A
+
+// st Item In Hand x99 (1.1.1)
+Author = Saramagrean / original CWCheat authors
+003287DE 00000063
+
+// 9999 HP (1.1.1)
+Author = Saramagrean / original CWCheat authors
+20319CBC 47868C00
+
+// 9999 OP (1.1.1)
+Author = Saramagrean / original CWCheat authors
+20319CC0 47868C00
+
+// 9999 ST (1.1.1)
+Author = Saramagrean / original CWCheat authors
+20319CC4 47868C00
+
+// Blade Atk. 200 (1.1.1)
+Author = Saramagrean / original CWCheat authors
+1032D86E 000000C8
+1032D870 000000C8
+1032D872 000000C8
+1032D874 000000C8
+1032D876 000000C8
+1032D878 000000C8
+1032D87A 000000C8
+
+// Blade Atk. 9999 (1.1.1)
+Author = Saramagrean / original CWCheat authors
+1032D86E 0000270F
+1032D870 0000270F
+1032D872 0000270F
+1032D874 0000270F
+1032D876 0000270F
+1032D878 0000270F
+1032D87A 0000270F
+
+// Gun Atk. 200 (1.1.1)
+Author = Saramagrean / original CWCheat authors
+1032D8BC 000000C8
+1032D8BE 000000C8
+1032D8C0 000000C8
+1032D8C2 000000C8
+1032D8C4 000000C8
+1032D8C6 000000C8
+1032B46A 000000C8
+1032B46C 000000C8
+1032B46E 000000C8
+1032B470 000000C8
+1032B472 000000C8
+1032B474 000000C8
+
+// Gun Stats Max (1.1.1)
+Author = Saramagrean / original CWCheat authors
+1032D8BC 0000270F
+1032D8BE 0000270F
+1032D8C0 0000270F
+1032D8C2 0000270F
+1032D8C4 0000270F
+1032D8C6 0000270F
+1032B46A 0000270F
+1032B46C 0000270F
+1032B46E 0000270F
+1032B470 0000270F
+1032B472 0000270F
+1032B474 0000270F
+
+// Inf. HP/OP/SP (1.1.1)
+Author = Saramagrean / original CWCheat authors
+2032CDBC 4859E100
+2032CDC0 4859E100
+2032CDC4 4859E100
+
+// Inf. Life (1.1.1)
+Author = Saramagrean / original CWCheat authors
+20321FBC 42F00000
+
+// Inf. Money (1.1.1)
+Author = Saramagrean / original CWCheat authors
+20330130 05F5E100
+
+// Inf. Money v2 (1.1.1)
+Author = Saramagrean / original CWCheat authors
+20318A30 05F5E100
+
+// Inf. Money v3 (1.1.1)
+Author = Saramagrean / original CWCheat authors
+20299B30 04F5E100
+
+// Inf. OP (1.1.1)
+Author = Saramagrean / original CWCheat authors
+20321FC0 42F00000
+
+// Infinite Items In Storage [99] (1.1.1)
+Author = Saramagrean / original CWCheat authors
+80339DC4 0320004C
+00000063 00000000
+
+// Infinite Predation (1.1.1)
+Author = Saramagrean / original CWCheat authors
+D013B680 000001B0
+2013B680 34060000
+
+// Item ID 1 Quantity Modifier (1.1.1)
+Author = Saramagrean / original CWCheat authors
+103350DE 00000063
+
+// Max/Inf. HP (1.1.1)
+Author = Saramagrean / original CWCheat authors
+2032CDBC 4859E100
+
+// Max/Inf. OP (1.1.1)
+Author = Saramagrean / original CWCheat authors
+2032CDC0 4859E100
+
+// Max/Inf. SP (1.1.1)
+Author = Saramagrean / original CWCheat authors
+2032CDC4 4859E100
+
+// Max Gun Damage (1.1.1)
+Author = Saramagrean / original CWCheat authors
+10335BBC 0000270F
+10335BBE 0000270F
+10335BC0 0000270F
+10335BC2 0000270F
+10335BC4 0000270F
+10335BC6 0000270F
+
+// Max HP (1.1.1)
+Author = Saramagrean / original CWCheat authors
+5032CDB0 00000004
+0032CDBC 00000000
+
+// Max HP/OP/SP (1.1.1)
+Author = Saramagrean / original CWCheat authors
+20315FBC 4859E100
+20315FC0 4859E100
+20315FC4 4859E100
+10315FBA 00004316
+10315FB6 00004316
+10315FB2 00004316
+
+// Max Melee Damage (1.1.1)
+Author = Saramagrean / original CWCheat authors
+10335B6E 0000270F
+10335B70 0000270F
+10335B72 0000270F
+10335B74 0000270F
+10335B76 0000270F
+10335B78 0000270F
+10335B7A 0000270F
+
+// Max OP (1.1.1)
+Author = Saramagrean / original CWCheat authors
+5032CDB4 00000004
+0032CDC0 00000000
+
+// Max ST (1.1.1)
+Author = Saramagrean / original CWCheat authors
+5032CDB8 00000004
+0032CDC4 00000000
+
+// Max Status: Gun (1.1.1)
+Author = Saramagrean / original CWCheat authors
+8032D8BC 00060001
+10007530 00000000
+
+// Max Status: Shield (1.1.1)
+Author = Saramagrean / original CWCheat authors
+8032D906 00070001
+100001F4 00000000
+
+// Max Status: Sword (1.1.1)
+Author = Saramagrean / original CWCheat authors
+8032D86E 00070001
+100001F4 00000000
+
+// Mod Bronze F-Ticket Slot 1 x99 (1.1.1)
+Author = Saramagrean / original CWCheat authors
+1032CDDA 00000CA4
+0032CDDE 00000063
+
+// Mod Silver F-Ticket Slot 1 x99 (1.1.1)
+Author = Saramagrean / original CWCheat authors
+1032CDDA 00000CA5
+0032CDDE 00000063
+
+// Mod Gold F-Ticket Slot 1 x99 (1.1.1)
+Author = Saramagrean / original CWCheat authors
+1032CDDA 00000CA6
+0032CDDE 00000063
+
+// Money Max (1.1.1)
+Author = Saramagrean / original CWCheat authors
+20330130 3B9AC9FF
+
+// Shield Atk. 255 (1.1.1)
+Author = Saramagrean / original CWCheat authors
+1032D906 000000FF
+1032D908 000000FF
+1032D90A 000000FF
+1032D90C 000000FF
+1032D90E 000000FF
+1032D910 000000FF
+1032D912 000000FF
+
+// Shield Stats Max (1.1.1)
+Author = Saramagrean / original CWCheat authors
+1032D906 0000270F
+1032D908 0000270F
+1032D90A 0000270F
+1032D90C 0000270F
+1032D90E 0000270F
+1032D910 0000270F
+1032D912 0000270F
+
+// Shield Stats Up [9999] (1.1.1)
+Author = Saramagrean / original CWCheat authors
+10316206 0000270F
+10316208 0000270F
+1031620A 0000270F
+1031620C 0000270F
+1031620E 0000270F
+10316210 0000270F
+10316212 0000270F
+
+// Sword Stats Up [999] (1.1.1)
+Author = Saramagrean / original CWCheat authors
+1032D86E 00017AE7
+1032D870 00017AE7
+1032D872 00017AE7
+1032D874 00017AE7
+1032D876 00017AE7
+1032D878 00017AE7
+1032D87A 00017AE7
+
+// Sword Stats Up [999] v2 (1.1.1)
+Author = Saramagrean / original CWCheat authors
+1031616E 000003E7
+10316170 000003E7
+10316172 000003E7
+10316174 000003E7
+10316176 000003E7
+10316178 000003E7
+1031617A 000003E7
+
+// Inf. & Max HP/OP/SP (1.2.2)
+Author = Saramagrean / original CWCheat authors
+202F56BC 4859E100
+202F56C0 4859E100
+202F56C4 4859E100
+102F56BA 00004316
+102F56B6 00004316
+102F56B2 00004316
+
+// Money (1.2.2)
+Author = Saramagrean / original CWCheat authors
+202F8A30 0098967F
+
+// Inf. & Max HP/OP/SP (1.3)
+Author = Saramagrean / original CWCheat authors
+202F56BC 4859E100
+202F56C0 4859E100
+202F56C4 4859E100
+102F56BA 00004316
+102F56B6 00004316
+102F56B2 00004316
+
+// Infinite Items In Storage [99] (1.3)
+Author = Saramagrean / original CWCheat authors
+803026C4 0320004C
+00000063 00000000
+
+// Money (1.3)
+Author = Saramagrean / original CWCheat authors
+202F8A30 0098967F
+
+// Inf. & Max HP/OP/SP (1.4.2)
+Author = Saramagrean / original CWCheat authors
+202F56BC 4859E100
+202F56C0 4859E100
+202F56C4 4859E100
+102F56BA 00004316
+102F56B6 00004316
+102F56B2 00004316
+
+// Infinite Items In Storage [99] (1.4.2)
+Author = Saramagrean / original CWCheat authors
+803026C4 0320004C
+00000063 00000000
+
+// Money (1.4.2)
+Author = Saramagrean / original CWCheat authors
+202F8A30 0098967F
+
+// Aragami Bullets (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+E0011023 000A5FD0
+200A5FD0 00000000
+
+// Aragami Bullets [Disable] (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+200A5FD0 00451023
+
+// Buy 1 Thing For Money (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+E00233F0 000AFBE0
+200AFBE0 3C040008
+200AFBE8 2482A120
+
+// Buy 1 Thing For Money [Disable] (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+200AFBE0 8C8433F0
+200AFBE8 00861021
+
+// Damage Multiplier x2 (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+E00F46FF 000A16CC
+200A16CC 0E200800
+200A16D0 3C0146FF
+20002000 3C1B088E
+20002004 277BBC94
+20002008 173B0008
+2000200C 3C1B4000
+20002010 449B0000
+20002014 4600A502
+20002018 4600AD42
+2000201C 4600B582
+20002020 4600BDC2
+20002024 4600C602
+20002028 4600CE42
+2000202C 03E00008
+20002030 3421FE00
+
+// Damage Multiplier x1000 (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+E00F46FF 000A16CC
+200A16CC 0E200800
+200A16D0 3C0146FF
+20002000 3C1B088E
+20002004 277BBC94
+20002008 173B0008
+2000200C 3C1B447A
+20002010 449B0000
+20002014 4600A502
+20002018 4600AD42
+2000201C 4600B582
+20002020 4600BDC2
+20002024 4600C602
+20002028 4600CE42
+2000202C 03E00008
+20002030 3421FE00
+
+// Damage Multiplier [Disable] (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+200A16CC 3C0146FF
+200A16D0 3421FE00
+
+// God Mode (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+E0030840 000B01E0
+200B01E0 00000000
+200AFB88 46000086
+200B027C 00000000
+
+// God Mode [Disable] (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+200B01E0 46140840
+200AFB88 460C0080
+200B027C 46140840
+
+// Infinite Predation (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+20119020 34060000
+
+// Max HP (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+202F56B0 43160000
+202F56BC 43160000
+
+// Max OP (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+202F56B4 43160000
+202F56C0 43160000
+
+// Max ST (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+202F56B8 43160000
+202F56C4 43160000
+
+// Money 90M (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+202F8A30 0098967F
+
+// Money Max (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+202F8A30 3B9AC9FF
+
+// Respawn Does Not Decrease (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+203430D8 00030000
+
+// Stats Blade Atk. Max (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+102F616E 0000270F
+102F6170 0000270F
+102F6172 0000270F
+102F6174 0000270F
+102F6176 0000270F
+102F6178 0000270F
+102F617A 0000270F
+
+// Stats Gun Atk. Max (1.5.4+)
+Author = Saramagrean / original CWCheat authors
+102F61BC 0000270F
+102F61BE 0000270F
+102F61C0 0000270F
+102F61C2 0000270F
+102F61C4 0000270F
+102F61C6 0000270F
+
+// Blade Change: Alisa
+Author = Saramagrean / original CWCheat authors
+002F614A 0000003D
+
+// Blade Change: Annette
+Author = Saramagrean / original CWCheat authors
+002F614A 00000018
+
+// Blade Change: Brendan
+Author = Saramagrean / original CWCheat authors
+002F614A 00000003
+
+// Blade Change: Federico
+Author = Saramagrean / original CWCheat authors
+002F614A 00000024
+
+// Blade Change: Rindou
+Author = Saramagrean / original CWCheat authors
+002F614A 0000003E
+
+// Blade Change: Rindou (Erosion/Return)
+Author = Saramagrean / original CWCheat authors
+002F614A 00000092
+
+// Blade Change: Ren
+Author = Saramagrean / original CWCheat authors
+002F614A 00000093
+
+// Blade Change: Shio
+Author = Saramagrean / original CWCheat authors
+002F614A 00000040
+
+// Blade Change: Soma (Late Stage)
+Author = Saramagrean / original CWCheat authors
+002F614A 00000049
+
+// Blade Change: Soma (Previous Term)
+Author = Saramagrean / original CWCheat authors
+002F614A 0000003F
+
+// Blade Change: Shun
+Author = Saramagrean / original CWCheat authors
+002F614A 0000000D
+
+// Blade Change: Tatsumi
+Author = Saramagrean / original CWCheat authors
+002F614A 00000011
+
+// Blade Change: Terminator
+Author = Saramagrean / original CWCheat authors
+002F614A 0000003C
+
+// Core Change: Normal
+Author = Saramagrean / original CWCheat authors
+002F60FE 00000000
+
+// Core Change: Ren
+Author = Saramagrean / original CWCheat authors
+002F60FE 00000004
+
+// Core Change: Rindou
+Author = Saramagrean / original CWCheat authors
+002F60FE 00000003
+
+// Core Change: Shio
+Author = Saramagrean / original CWCheat authors
+002F60FE 00000002
+
+// Core Change: Soma
+Author = Saramagrean / original CWCheat authors
+002F60FE 00000001
+
+// Face: Alisa
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000008
+
+// Face: Alisa (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000019
+
+// Face: Annette
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000018
+
+// Face: Brendan
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000000F
+
+// Face: Camellia
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000001C
+
+// Face: Canon
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000000E
+
+// Face: Eric
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000001E
+
+// Face: Federico
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000001C
+
+// Face: Female 08
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000010
+
+// Face: Female 09
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000011
+
+// Face: Female 10
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000012
+
+// Face: Female 11
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000013
+
+// Face: Female 12
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000014
+
+// Face: Female 13
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000015
+
+// Face: Female 14
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000016
+
+// Face: Female 15
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000017
+
+// Face: Female 16
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000001D
+
+// Face: Female 17
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000001E
+
+// Face: Female 18
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000001F
+
+// Face: Female 19
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000020
+
+// Face: Gina
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000000F
+
+// Face: Karel
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000011
+
+// Face: Kouta
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000007
+
+// Face: Kouta (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000001F
+
+// Face: Man/Female 01
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000000
+
+// Face: Man/Female 02
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000001
+
+// Face: Man/Female 03
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000002
+
+// Face: Man/Female 04
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000003
+
+// Face: Man/Female 05
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000004
+
+// Face: Man/Female 06
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000005
+
+// Face: Man/Female 07
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000006
+
+// Face: Man/Female 08
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000012
+
+// Face: Man/Female 09
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000013
+
+// Face: Man/Female 10
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000014
+
+// Face: Man/Female 11
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000015
+
+// Face: Man/Female 12
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000016
+
+// Face: Man/Female 13
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000017
+
+// Face: Man/Female 14
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000018
+
+// Face: Man/Female 15
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000019
+
+// Face: Man/Female 16
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000022
+
+// Face: Man/Female 17
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000023
+
+// Face: Man/Female 18
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000024
+
+// Face: Man/Female 19
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000025
+
+// Face: Masked De Ogre
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000021
+
+// Face: Ren
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000001B
+
+// Face: Rindou
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000009
+
+// Face: Rindou (Erosion)
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000001A
+
+// Face: Rindou (Return)
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000001D
+
+// Face: Sakuya
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000000C
+
+// Face: Sakuya (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000001B
+
+// Face: Shio
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000000B
+
+// Face: Shio (Dress)
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000000D
+
+// Face: Shio (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000001A
+
+// Face: Shun
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000010
+
+// Face: Soma
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000000A
+
+// Face: Soma (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56C9 00000020
+
+// Face: Tatsumi
+Author = Saramagrean / original CWCheat authors
+002F56C9 0000000E
+
+// Gun: Alisa
+Author = Saramagrean / original CWCheat authors
+002F6196 0000003E
+
+// Gun: Annette
+Author = Saramagrean / original CWCheat authors
+002F6196 00000008
+
+// Gun: Camellia
+Author = Saramagrean / original CWCheat authors
+002F6196 00000044
+
+// Gun: Canon
+Author = Saramagrean / original CWCheat authors
+002F6196 00000006
+
+// Gun: Eric/Masked De Ogre
+Author = Saramagrean / original CWCheat authors
+002F6196 0000000C
+
+// Gun: Federico
+Author = Saramagrean / original CWCheat authors
+002F6196 00000018
+
+// Gun: Gina
+Author = Saramagrean / original CWCheat authors
+002F6196 00000012
+
+// Gun: Karel
+Author = Saramagrean / original CWCheat authors
+002F6196 00000003
+
+// Gun: Kouta
+Author = Saramagrean / original CWCheat authors
+002F6196 0000003D
+
+// Gun: Ren
+Author = Saramagrean / original CWCheat authors
+002F6196 00000087
+
+// Gun: Rindou
+Author = Saramagrean / original CWCheat authors
+002F6196 00000086
+
+// Gun: Sakuya
+Author = Saramagrean / original CWCheat authors
+002F6196 00000041
+
+// Gun: Shio
+Author = Saramagrean / original CWCheat authors
+002F6196 00000040
+
+// Gun: Soma (Late Stage)
+Author = Saramagrean / original CWCheat authors
+002F6196 0000003F
+
+// Gun: Terminator
+Author = Saramagrean / original CWCheat authors
+002F6196 0000003C
+
+// Hair Color: 01
+Author = Saramagrean / original CWCheat authors
+002F56CB 00000000
+
+// Hair Color: 02
+Author = Saramagrean / original CWCheat authors
+002F56CB 00000001
+
+// Hair Color: 03
+Author = Saramagrean / original CWCheat authors
+002F56CB 00000002
+
+// Hair Color: 04
+Author = Saramagrean / original CWCheat authors
+002F56CB 00000003
+
+// Hair Color: 05
+Author = Saramagrean / original CWCheat authors
+002F56CB 00000004
+
+// Hair Color: 06
+Author = Saramagrean / original CWCheat authors
+002F56CB 00000005
+
+// Hair Color: 07
+Author = Saramagrean / original CWCheat authors
+002F56CB 00000006
+
+// Hair Color: 08
+Author = Saramagrean / original CWCheat authors
+002F56CB 00000007
+
+// Hair Color: 09
+Author = Saramagrean / original CWCheat authors
+002F56CB 00000008
+
+// Hair Color: 10
+Author = Saramagrean / original CWCheat authors
+002F56CB 00000009
+
+// Hair Color: 11
+Author = Saramagrean / original CWCheat authors
+002F56CB 0000000A
+
+// Hair Color: 12
+Author = Saramagrean / original CWCheat authors
+002F56CB 0000000B
+
+// Hair Color: 13
+Author = Saramagrean / original CWCheat authors
+002F56CB 0000000C
+
+// Hair Color: 14
+Author = Saramagrean / original CWCheat authors
+002F56CB 0000000D
+
+// Hair Color: 15
+Author = Saramagrean / original CWCheat authors
+002F56CB 0000000E
+
+// Hair Style: Alisa
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000000D
+
+// Hair Style: Alisa (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000022
+
+// Hair Style: Annette
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000021
+
+// Hair Style: Brendan
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000014
+
+// Hair Style: Camellia (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000025
+
+// Hair Style: Canon
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000013
+
+// Hair Style: Eric
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000027
+
+// Hair Style: Federico
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000025
+
+// Hair Style: Gina
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000014
+
+// Hair Style: Karel
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000016
+
+// Hair Style: Kouta
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000000C
+
+// Hair Style: Kouta (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000028
+
+// Hair Style: Female 13
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000016
+
+// Hair Style: Female 14
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000001D
+
+// Hair Style: Female 15
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000001E
+
+// Hair Style: Female 16
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000001F
+
+// Hair Style: Female 17
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000017
+
+// Hair Style: Female 18
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000018
+
+// Hair Style: Female 19
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000001B
+
+// Hair Style: Female 20
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000019
+
+// Hair Style: Female 21
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000015
+
+// Hair Style: Female 22
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000020
+
+// Hair Style: Female 23
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000001C
+
+// Hair Style: Female 24
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000001A
+
+// Hair Style: Female 25
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000026
+
+// Hair Style: Female 26
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000027
+
+// Hair Style: Female 27
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000028
+
+// Hair Style: Female 28
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000029
+
+// Hair Style: Female 29
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000002A
+
+// Hair Style: Female 30
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000002B
+
+// Hair Style: Man 13
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000017
+
+// Hair Style: Man 14
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000019
+
+// Hair Style: Man 15
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000001C
+
+// Hair Style: Man 16
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000020
+
+// Hair Style: Man 17
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000021
+
+// Hair Style: Man 18
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000001A
+
+// Hair Style: Man 19
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000001F
+
+// Hair Style: Man 20
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000001B
+
+// Hair Style: Man 21
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000001D
+
+// Hair Style: Man 22
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000018
+
+// Hair Style: Man 23
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000022
+
+// Hair Style: Man 24
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000001E
+
+// Hair Style: Man 25
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000002B
+
+// Hair Style: Man 26
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000002D
+
+// Hair Style: Man 27
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000002E
+
+// Hair Style: Man 28
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000002F
+
+// Hair Style: Man/Female 01
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000000
+
+// Hair Style: Man/Female 02
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000001
+
+// Hair Style: Man/Female 03
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000002
+
+// Hair Style: Man/Female 04
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000003
+
+// Hair Style: Man/Female 05
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000004
+
+// Hair Style: Man/Female 06
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000005
+
+// Hair Style: Man/Female 07
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000006
+
+// Hair Style: Man/Female 08
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000007
+
+// Hair Style: Man/Female 09
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000008
+
+// Hair Style: Man/Female 10
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000009
+
+// Hair Style: Man/Female 11
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000000A
+
+// Hair Style: Man/Female 12
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000000B
+
+// Hair Style: Masked De Ogre
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000002A
+
+// Hair Style: One Way
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000002C
+
+// Hair Style: Ren
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000024
+
+// Hair Style: Rindou
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000000E
+
+// Hair Style: Rindou (Erosion)
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000023
+
+// Hair Style: Rindou (Return)
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000026
+
+// Hair Style: Sakuya
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000011
+
+// Hair Style: Sakuya (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000024
+
+// Hair Style: Shio
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000010
+
+// Hair Style: Shio (Dress)
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000012
+
+// Hair Style: Shio (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000023
+
+// Hair Style: Soma
+Author = Saramagrean / original CWCheat authors
+002F56CA 0000000F
+
+// Hair Style: Soma (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000029
+
+// Hair Style: Shun
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000015
+
+// Hair Style: Tatsumi
+Author = Saramagrean / original CWCheat authors
+002F56CA 00000013
+
+// Shield: Alisa
+Author = Saramagrean / original CWCheat authors
+002F61E2 0000003D
+
+// Shield: Annette
+Author = Saramagrean / original CWCheat authors
+002F61E2 00000018
+
+// Shield: Brendan
+Author = Saramagrean / original CWCheat authors
+002F61E2 0000001D
+
+// Shield: Federico
+Author = Saramagrean / original CWCheat authors
+002F61E2 00000014
+
+// Shield: Ren
+Author = Saramagrean / original CWCheat authors
+002F61E2 0000007B
+
+// Shield: Rindou
+Author = Saramagrean / original CWCheat authors
+002F61E2 0000003E
+
+// Shield: Rindou (Erosion/Return)
+Author = Saramagrean / original CWCheat authors
+002F61E2 0000007A
+
+// Shield: Shio
+Author = Saramagrean / original CWCheat authors
+002F61E2 00000040
+
+// Shield: Shun
+Author = Saramagrean / original CWCheat authors
+002F61E2 00000009
+
+// Shield: Soma (Late Stage)
+Author = Saramagrean / original CWCheat authors
+002F61E2 00000049
+
+// Shield: Soma (Previous Term)
+Author = Saramagrean / original CWCheat authors
+002F61E2 0000003F
+
+// Shield: Tatsumi
+Author = Saramagrean / original CWCheat authors
+002F61E2 0000000E
+
+// Shield: Terminator
+Author = Saramagrean / original CWCheat authors
+002F61E2 0000003C
+
+// Skin: Alisa
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000008
+
+// Skin: Alisa (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000019
+
+// Skin: Annette
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000001
+
+// Skin: Brendan
+Author = Saramagrean / original CWCheat authors
+002F56CC 0000000F
+
+// Skin: Coater
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000007
+
+// Skin: Camellia
+Author = Saramagrean / original CWCheat authors
+002F56CC 0000001D
+
+// Skin: Canon
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000010
+
+// Skin: Eric
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000017
+
+// Skin: Federico
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000000
+
+// Skin: Gina
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000013
+
+// Skin: Karel
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000012
+
+// Skin: Kouta (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000018
+
+// Skin: Man/Female 01
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000000
+
+// Skin: Man/Female 02
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000001
+
+// Skin: Man/Female 03
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000002
+
+// Skin: Man/Female 04
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000003
+
+// Skin: Man/Female 05
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000004
+
+// Skin: Man/Female 06
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000005
+
+// Skin: Man/Female 07
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000006
+
+// Skin: Masked De Ogre
+Author = Saramagrean / original CWCheat authors
+002F56CC 0000001E
+
+// Skin: Ren
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000015
+
+// Skin: Rindou
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000009
+
+// Skin: Rindou (Erosion)
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000014
+
+// Skin: Rindou (Return)
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000016
+
+// Skin: Sakuya
+Author = Saramagrean / original CWCheat authors
+002F56CC 0000000C
+
+// Skin: Sakuya (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56CC 0000001C
+
+// Skin: Shio
+Author = Saramagrean / original CWCheat authors
+002F56CC 0000000B
+
+// Skin: Shio (Dress)
+Author = Saramagrean / original CWCheat authors
+002F56CC 0000000D
+
+// Skin: Shio (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56CC 0000001B
+
+// Skin: Shun
+Author = Saramagrean / original CWCheat authors
+002F56CC 00000011
+
+// Skin: Soma
+Author = Saramagrean / original CWCheat authors
+002F56CC 0000000A
+
+// Skin: Soma (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F56CC 0000001A
+
+// Skin: Tatsumi
+Author = Saramagrean / original CWCheat authors
+002F56CC 0000000E
+
+// Bottoms: Alisa
+Author = Saramagrean / original CWCheat authors
+002F60B2 00000016
+
+// Tops: Alisa
+Author = Saramagrean / original CWCheat authors
+002F6066 00000016
+
+// Bottoms: Alisa (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F60B2 000000D6
+
+// Tops: Alisa (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F6066 000000D6
+
+// Bottoms: Annette
+Author = Saramagrean / original CWCheat authors
+002F60B2 000000D5
+
+// Tops: Annette
+Author = Saramagrean / original CWCheat authors
+002F6066 000000D5
+
+// Bottoms: Brendan
+Author = Saramagrean / original CWCheat authors
+002F60B2 0000004A
+
+// Tops: Brendan
+Author = Saramagrean / original CWCheat authors
+002F6066 0000004A
+
+// Bottoms: Camellia
+Author = Saramagrean / original CWCheat authors
+002F60B2 000000D9
+
+// Tops: Camellia
+Author = Saramagrean / original CWCheat authors
+002F6066 000000D9
+
+// Bottoms: Canon
+Author = Saramagrean / original CWCheat authors
+002F60B2 00000049
+
+// Tops: Canon
+Author = Saramagrean / original CWCheat authors
+002F6066 0000004A
+
+// Bottoms: Eric
+Author = Saramagrean / original CWCheat authors
+002F60B2 000000D9
+
+// Tops: Eric
+Author = Saramagrean / original CWCheat authors
+002F6066 000000D9
+
+// Bottoms: Federico
+Author = Saramagrean / original CWCheat authors
+002F60B2 000000D7
+
+// Tops: Federico
+Author = Saramagrean / original CWCheat authors
+002F6066 000000D7
+
+// Bottoms: Gina
+Author = Saramagrean / original CWCheat authors
+002F60B2 0000004A
+
+// Tops: Gina
+Author = Saramagrean / original CWCheat authors
+002F6066 0000004B
+
+// Bottoms: Karel
+Author = Saramagrean / original CWCheat authors
+002F60B2 0000004C
+
+// Tops: Karel
+Author = Saramagrean / original CWCheat authors
+002F6066 0000004C
+
+// Bottoms: Kouta
+Author = Saramagrean / original CWCheat authors
+002F60B2 00000015
+
+// Tops: Kouta
+Author = Saramagrean / original CWCheat authors
+002F6066 00000015
+
+// Bottoms: Kouta (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F60B2 000000DA
+
+// Tops: Kouta (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F6066 000000DA
+
+// Bottoms: Masked De Ogre
+Author = Saramagrean / original CWCheat authors
+002F60B2 000000DC
+
+// Tops: Masked De Ogre
+Author = Saramagrean / original CWCheat authors
+002F6066 000000DC
+
+// Bottoms: Ren
+Author = Saramagrean / original CWCheat authors
+002F60B2 000000D6
+
+// Tops: Ren
+Author = Saramagrean / original CWCheat authors
+002F6066 000000D6
+
+// Bottoms: Rindou
+Author = Saramagrean / original CWCheat authors
+002F60B2 00000017
+
+// Tops: Rindou
+Author = Saramagrean / original CWCheat authors
+002F6066 00000017
+
+// Bottoms: Rindou (Erosion)
+Author = Saramagrean / original CWCheat authors
+002F60B2 000000D5
+
+// Tops: Rindou (Erosion)
+Author = Saramagrean / original CWCheat authors
+002F6066 000000D5
+
+// Bottoms: Rindou (Return)
+Author = Saramagrean / original CWCheat authors
+002F60B2 000000D8
+
+// Tops: Rindou (Return)
+Author = Saramagrean / original CWCheat authors
+002F6066 000000D8
+
+// Bottoms: Sakuya
+Author = Saramagrean / original CWCheat authors
+002F60B2 0000001A
+
+// Tops: Sakuya
+Author = Saramagrean / original CWCheat authors
+002F6066 0000001A
+
+// Bottoms: Sakuya (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F60B2 000000D8
+
+// Tops: Sakuya (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F6066 000000D8
+
+// Bottoms: Shio
+Author = Saramagrean / original CWCheat authors
+002F60B2 00000019
+
+// Tops: Shio
+Author = Saramagrean / original CWCheat authors
+002F6066 00000019
+
+// Bottoms: Shio (Dress)
+Author = Saramagrean / original CWCheat authors
+002F60B2 0000001B
+
+// Tops: Shio (Dress)
+Author = Saramagrean / original CWCheat authors
+002F6066 0000001B
+
+// Bottoms: Shio (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F60B2 000000D7
+
+// Tops: Shio (Privilege)
+Author = Saramagrean / original CWCheat authors
+002F6066 000000D7
+
+// Bottoms: Shun
+Author = Saramagrean / original CWCheat authors
+002F60B2 0000004B
+
+// Tops: Shun
+Author = Saramagrean / original CWCheat authors
+002F6066 0000004B
+
+// Bottoms: Soma
+Author = Saramagrean / original CWCheat authors
+002F60B2 00000018
+
+// Tops: Soma
+Author = Saramagrean / original CWCheat authors
+002F6066 00000018
+
+// Bottoms: Soma (Bonus)
+Author = Saramagrean / original CWCheat authors
+002F60B2 000000DB
+
+// Tops: Soma (Bonus)
+Author = Saramagrean / original CWCheat authors
+002F6066 000000DB
+
+// Bottoms: Tatsumi
+Author = Saramagrean / original CWCheat authors
+002F60B2 00000049
+
+// Tops: Tatsumi
+Author = Saramagrean / original CWCheat authors
+002F6066 00000049
+
+// Voice Female: Alisa (Mid Term)
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000001E
+
+// Voice Female: Alisa (Late Stage)
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000019
+
+// Voice Female: Alisa (Previous Term)
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000018
+
+// Voice Female: Annette
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000001C
+
+// Voice Female: Camellia
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000001D
+
+// Voice Female: Canon
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000001A
+
+// Voice Female: Gina
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000001B
+
+// Voice Female: Sakuya (Late Stage)
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000017
+
+// Voice Female: Sakuya (Previous Term)
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000016
+
+// Voice Female: Shio (Late Stage)
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000015
+
+// Voice Female: Shio (Previous Term)
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000014
+
+// Voice Man: Brendan
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000001C
+
+// Voice Man: Eric
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000014
+
+// Voice Man: Federico
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000001F
+
+// Voice Man: Karel
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000001D
+
+// Voice Man: Kouta
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000001A
+
+// Voice Man: Ren
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000015
+
+// Voice Man: Rindou
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000018
+
+// Voice Man: Rindou (Erosion/Return)
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000019
+
+// Voice Man: Shun
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000001E
+
+// Voice Man: Soma (Late Stage)
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000017
+
+// Voice Man: Soma (Previous Term)
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000016
+
+// Voice Man: Tatsumi
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000001B
+
+// Voice Man/Female: 01
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000000
+
+// Voice Man/Female: 02
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000001
+
+// Voice Man/Female: 03
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000002
+
+// Voice Man/Female: 04
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000003
+
+// Voice Man/Female: 05
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000004
+
+// Voice Man/Female: 06
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000005
+
+// Voice Man/Female: 07
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000006
+
+// Voice Man/Female: 08
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000007
+
+// Voice Man/Female: 09
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000008
+
+// Voice Man/Female: 10
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000009
+
+// Voice Man/Female: 11
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000000A
+
+// Voice Man/Female: 12
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000000B
+
+// Voice Man/Female: 13
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000000C
+
+// Voice Man/Female: 14
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000000D
+
+// Voice Man/Female: 15
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000000E
+
+// Voice Man/Female: 16
+Author = Saramagrean / original CWCheat authors
+002F8A58 0000000F
+
+// Voice Man/Female: 17
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000010
+
+// Voice Man/Female: 18
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000011
+
+// Voice Man/Female: 19
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000012
+
+// Voice Man/Female: 20
+Author = Saramagrean / original CWCheat authors
+002F8A58 00000013
+
+// st Item In Hand x10 [Adjustable] (???)
+Author = Saramagrean / original CWCheat authors
+003156DE 0000000A
+
+// Gun Stats Up 500 (???)
+Author = Saramagrean / original CWCheat authors
+1031E1BC 000001F4
+1031E1BE 000001F4
+1031E1C0 000001F4
+1031E1C2 000001F4
+1031E1C4 000001F4
+1031E1C6 000001F4
+
+// Inf. HP/OP/SP (???)
+Author = Saramagrean / original CWCheat authors
+2031D6BC 4859E100
+2031D6C0 4859E100
+2031D6C4 4859E100
+
+// Inf. HP/OP/SP v2 (???)
+Author = Saramagrean / original CWCheat authors
+2031D6BC 4859E100
+2031D6C0 4859E100
+2031D6C4 4859E100
+
+// Inf. Money (???)
+Author = Saramagrean / original CWCheat authors
+20318A30 05F5E100
+
+// Inf. Money v2 (???)
+Author = Saramagrean / original CWCheat authors
+20299B30 04F5E100
+
+// Inf. Money v3 (???)
+Author = Saramagrean / original CWCheat authors
+20320A30 05F5E100
+
+// Items In Inventory x96 (???)
+Author = Saramagrean / original CWCheat authors
+8031D6DE 0020004C
+00000060 00000000
+
+// Mod Inventory Slot 1 x99 (???)
+Author = Saramagrean / original CWCheat authors
+103156DA 0000066B
+003156DE 00000063
+
+// Shield Stats Up [9999] (???)
+Author = Saramagrean / original CWCheat authors
+10316206 0000270F
+10316208 0000270F
+1031620A 0000270F
+1031620C 0000270F
+1031620E 0000270F
+10316210 0000270F
+10316212 0000270F
+
+// Sword Stats Up [999] (???)
+Author = Saramagrean / original CWCheat authors
+1031616E 000003E7
+10316170 000003E7
+10316172 000003E7
+10316174 000003E7
+10316176 000003E7
+10316178 000003E7
+1031617A 000003E7
+
+// Sword Stats Up 500 (???)
+Author = Saramagrean / original CWCheat authors
+1031E16E 000001F4
+1031E170 000001F4
+1031E172 000001F4
+1031E174 000001F4
+1031E176 000001F4
+1031E178 000001F4
+1031E17A 000001F4
+
+// st Inventory Slot 99 (???)
+Author = Saramagrean / original CWCheat authors
+0030E7DE 00000063
+
+// st Item In Hand x10 [Adjustable] (???)
+Author = Saramagrean / original CWCheat authors
+003156DE 0000000A
+
+// st Item In Hand x99 (???)
+Author = Saramagrean / original CWCheat authors
+003156DE 00000063
+
+// Blade Stats 9999 (???)
+Author = Saramagrean / original CWCheat authors
+1031A76E 0000270F
+1031A770 0000270F
+1031A772 0000270F
+1031A774 0000270F
+1031A776 0000270F
+1031A778 0000270F
+1031A77A 0000270F
+
+// Gun Stats Max (???)
+Author = Saramagrean / original CWCheat authors
+1031A7BC 0000270F
+1031A7BE 0000270F
+1031A7C0 0000270F
+1031A7C2 0000270F
+1031A7C4 0000270F
+1031A7C6 0000270F
+1031836A 0000270F
+1031836C 0000270F
+1031836E 0000270F
+10318370 0000270F
+10318372 0000270F
+10318374 0000270F
+
+// Gun Stats Max (Patched) (???)
+Author = Saramagrean / original CWCheat authors
+1030F2BC 0000270F
+1030F2BE 0000270F
+1030F2C0 0000270F
+1030F2C2 0000270F
+1030F2C4 0000270F
+1030F2C6 0000270F
+1030CE6A 0000270F
+1030CE6C 0000270F
+1030CE6E 0000270F
+1030CE70 0000270F
+1030CE72 0000270F
+1030CE74 0000270F
+
+// HP/OP/SP Inf. (Patched) (???)
+Author = Saramagrean / original CWCheat authors
+2030E7BC 4859E100
+2030E7C0 4859E100
+2030E7C4 4859E100
+1030E7BA 00004316
+1030E7B6 00004316
+1030E7B2 00004316
+
+// Inf. HP (???)
+Author = Saramagrean / original CWCheat authors
+00321FBE 000000C8
+
+// Inf. HP/OP/SP (???)
+Author = Saramagrean / original CWCheat authors
+20319CBC 4859E100
+20319CC0 4859E100
+20319CC4 4859E100
+
+// Inf. Money (???)
+Author = Saramagrean / original CWCheat authors
+2031D030 05F5E100
+
+// Inf. OP (???)
+Author = Saramagrean / original CWCheat authors
+00321FC2 000000C8
+
+// Inf. ST (???)
+Author = Saramagrean / original CWCheat authors
+00321FC6 000000C8
+
+// Inf. HP/OP/ST 9999 (???)
+Author = Saramagrean / original CWCheat authors
+2030E7B0 7E76CA00
+2030E7B8 7E76CA00
+2030E7BC 7E76CA00
+2030E7C4 7E76CA00
+2030E7B4 7E76CA00
+2030E7C0 7E76CA00
+
+// Inventory Max (Patched) (???)
+Author = Saramagrean / original CWCheat authors
+8030E7DE 0020004C
+000008FF 00000000
+
+// Item 99 1st Slot (???)
+Author = Saramagrean / original CWCheat authors
+00319CDE 00000063
+
+// Item ID 1 Quantity Modifier (???)
+Author = Saramagrean / original CWCheat authors
+10321FDE 00000063
+
+// Max & Inf. HP/OP/SP (???)
+Author = Saramagrean / original CWCheat authors
+2030DFBC 4859E100
+2030DFC0 4859E100
+2030DFC4 4859E100
+1030DFBA 00004316
+1030DFB6 00004316
+1030DFB2 00004316
+
+// Max Gun Damage (???)
+Author = Saramagrean / original CWCheat authors
+10322ABC 0000270F
+10322ABE 0000270F
+10322AC0 0000270F
+10322AC2 0000270F
+10322AC4 0000270F
+10322AC6 0000270F
+
+// Max HP/OP/SP (???)
+Author = Saramagrean / original CWCheat authors
+10319CBA 00004316
+10319CB6 00004316
+10319CB2 00004316
+
+// Max Melee Damage (???)
+Author = Saramagrean / original CWCheat authors
+10322A6E 0000270F
+10322A70 0000270F
+10322A72 0000270F
+10322A74 0000270F
+10322A76 0000270F
+10322A78 0000270F
+10322A7A 0000270F
+
+// Max Money (???)
+Author = Saramagrean / original CWCheat authors
+00325330 000F423F
+
+// Max/Inf. HP (???)
+Author = Saramagrean / original CWCheat authors
+20319CBC 4859E100
+
+// Max/Inf. OP (???)
+Author = Saramagrean / original CWCheat authors
+20319CC0 4859E100
+
+// Max/Inf. SP (???)
+Author = Saramagrean / original CWCheat authors
+20319CC4 4859E100
+
+// Money 10 Million (???)
+Author = Saramagrean / original CWCheat authors
+20311330 00989680
+
+// Money Max (???)
+Author = Saramagrean / original CWCheat authors
+20325330 05F5E0FF
+
+// Money Max (Patched) (???)
+Author = Saramagrean / original CWCheat authors
+20311B30 05F5E100
+
+// Shield Stats Max (???)
+Author = Saramagrean / original CWCheat authors
+1031A806 0000270F
+1031A808 0000270F
+1031A80A 0000270F
+1031A80C 0000270F
+1031A80E 0000270F
+1031A810 0000270F
+1031A812 0000270F
+
+// Shield Stats Max (Patched) (???)
+Author = Saramagrean / original CWCheat authors
+1030F306 0000270F
+1030F308 0000270F
+1030F30A 0000270F
+1030F30C 0000270F
+1030F30E 0000270F
+1030F310 0000270F
+1030F312 0000270F
+
+// Shield Stats Up [99] (???)
+Author = Saramagrean / original CWCheat authors
+10316206 00000063
+10316208 00000063
+1031620A 00000063
+1031620C 00000063
+1031620E 00000063
+10316210 00000063
+10316212 00000063
+
+// Shield Stats Up [999] (???)
+Author = Saramagrean / original CWCheat authors
+10316206 000003E7
+10316208 000003E7
+1031620A 000003E7
+1031620C 000003E7
+1031620E 000003E7
+10316210 000003E7
+10316212 000003E7
+
+// Shield Stats Up [9999] (???)
+Author = Saramagrean / original CWCheat authors
+10316206 0000270F
+10316208 0000270F
+1031620A 0000270F
+1031620C 0000270F
+1031620E 0000270F
+10316210 0000270F
+10316212 0000270F
+
+// Storage Max (Patched) (???)
+Author = Saramagrean / original CWCheat authors
+8031B7C4 0064004C
+000008FF 00000000
+
+// Sword Stats Max (Patched) (???)
+Author = Saramagrean / original CWCheat authors
+1030F26E 0000270F
+1030F270 0000270F
+1030F272 0000270F
+1030F274 0000270F
+1030F276 0000270F
+1030F278 0000270F
+1030F27A 0000270F
+
+// Sword Stats Up [99] (???)
+Author = Saramagrean / original CWCheat authors
+1031616E 00000063
+10316170 00000063
+10316172 00000063
+10316174 00000063
+10316176 00000063
+10316178 00000063
+1031617A 00000063
+
+// Sword Stats Up [999] (???)
+Author = Saramagrean / original CWCheat authors
+1031616E 000003E7
+10316170 000003E7
+10316172 000003E7
+10316174 000003E7
+10316176 000003E7
+10316178 000003E7
+1031617A 000003E7
+
+// Sword Stats Up [9999] (???)
+Author = Saramagrean / original CWCheat authors
+1031616E 0000270F
+10316170 0000270F
+10316172 0000270F
+10316174 0000270F
+10316176 0000270F
+10316178 0000270F
+1031617A 0000270F

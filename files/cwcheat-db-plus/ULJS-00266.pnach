@@ -1,0 +1,3620 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULJS-00266
+# Source: https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db
+// 4x Running Speed
+Author = Saramagrean / original CWCheat authors
+101C2184 00004080
+
+// 999 Timeline Keys
+Author = Saramagrean / original CWCheat authors
+10689D42 000003E7
+
+// 99999999 GP
+Author = Saramagrean / original CWCheat authors
+20689F00 000F423F
+
+// A Virus Core Total
+Author = Saramagrean / original CWCheat authors
+10689C9E 00000032
+
+// All Excellent Gauge Bean Bags
+Author = Saramagrean / original CWCheat authors
+201BE650 3C030300
+
+// All Friend Sinmitsu
+Author = Saramagrean / original CWCheat authors
+200AA900 00000000
+200AA940 54000004
+
+// All Item
+Author = Saramagrean / original CWCheat authors
+40689DA4 002F0001
+00304E20 00000001
+40689D38 001B0001
+00302710 00000001
+40689D2C 00030001
+0030044C 00000001
+40689D24 00020001
+00300384 00000001
+20689D1C 003002BC
+20689D20 00300320
+40689D10 00030001
+00300258 00000001
+40689D04 00030001
+003001AE 0000000A
+40689CF4 00040001
+003001F4 00000001
+40689CE0 00050001
+00300190 00000001
+40689CD8 00020001
+0030015E 00000001
+40689CD0 00020001
+0030012C 00000001
+40689CC4 00030001
+003000FA 00000001
+40689CB8 00030001
+003000C8 00000001
+40689CAC 00030001
+00300096 00000001
+40689CA0 00030001
+00300064 00000001
+40689C94 00030001
+00300032 00000001
+40689C88 00030001
+00300001 00000001
+
+// All Item 50 (Consumables) 1/2
+Author = Saramagrean / original CWCheat authors
+40689C88 00030001
+00320001 00000001
+40689C94 00030001
+00320032 00000001
+40689CA0 00030001
+00320064 00000001
+40689CAC 00030001
+00320096 00000001
+40689CB8 00030001
+003200C8 00000001
+40689CC4 00030001
+003200FA 00000001
+40689CD0 00020001
+0032012C 00000001
+40689CD8 00020001
+0032015E 00000001
+40689CE0 00050001
+00320190 00000001
+
+// All Item 50 (Consumables) 2/2
+Author = Saramagrean / original CWCheat authors
+20689CF4 003201AE
+20689CF8 003201B8
+20689CFC 003201C2
+40689D00 00040001
+003201F4 00000001
+20689D1C 003202BC
+20689D20 00320320
+40689D24 000C0001
+003203E8 00000001
+40689D54 00030001
+0032044C 00000001
+40689D60 001B0001
+00322710 00000001
+40689DCC 00030001
+00324E28 00000001
+40689DD8 00050001
+00324E3F 00000001
+20689DEC 00324E4E
+20689DF0 00324E3D
+
+// All Items Ver 1 (Confirmed)
+Author = Saramagrean / original CWCheat authors
+40689DA4 002F0001
+00304E20 00000001
+40689D38 001B0001
+00302710 00000001
+40689D2C 00030001
+0030044C 00000001
+40689D24 00020001
+00300384 00000001
+20689D1C 003002BC
+20689D20 00300320
+40689D10 00030001
+00300258 00000001
+40689D04 00030001
+003001AE 0000000A
+40689CF4 00040001
+003001F4 00000001
+40689CE0 00050001
+00300190 00000001
+40689CD8 00020001
+0030015E 00000001
+40689CD0 00020001
+0030012C 00000001
+40689CC4 00030001
+003000FA 00000001
+40689CB8 00030001
+003000C8 00000001
+40689CAC 00030001
+00300096 00000001
+40689CA0 00030001
+00300064 00000001
+40689C94 00030001
+00300032 00000001
+40689C88 00030001
+00300001 00000001
+
+// All Items Ver 2 (Confirmed)
+Author = Saramagrean / original CWCheat authors
+20689C78 00310001
+20689C7C 00310002
+20689C80 00310003
+20689C84 00310032
+20689C88 00310033
+20689C8C 00310034
+20689C90 00310064
+20689C94 00310065
+20689C98 00310066
+20689C9C 00310096
+20689CA0 00310097
+20689CA4 00310098
+20689CA8 003100C8
+20689CAC 003100C9
+20689CB0 003100CA
+20689CB4 003100FA
+20689CB8 003100FB
+20689CBC 003100FC
+20689CC0 0031012C
+20689CC4 0031012D
+20689CC8 0031015E
+20689CCC 0031015F
+20689CD0 00310190
+20689CD4 00310191
+20689CD8 00310192
+20689CDC 00310193
+20689CE0 00310194
+20689CE4 003101C2
+20689CE8 003101F4
+20689CEC 003101F5
+20689CF0 003101F6
+20689CF4 003101F7
+20689CF8 00310258
+20689CFC 00310259
+20689D00 0031025A
+20689D04 003102BC
+20689D08 00310320
+20689D0C 00310384
+20689D10 00310385
+20689D14 003103E8
+20689D18 003103E9
+20689D1C 003103EA
+20689D20 003103EB
+20689D24 003103EC
+20689D28 003103ED
+20689D2C 003103EE
+20689D30 003103EF
+20689D34 0031044C
+20689D38 0031044D
+20689D3C 0031044E
+
+// All/Max Items In Inventory
+Author = Saramagrean / original CWCheat authors
+40689DA4 002F0001
+00324E20 00000001
+40689D38 001B0001
+00322710 00000001
+40689D2C 00030001
+0032044C 00000001
+40689D24 00020001
+00320384 00000001
+20689D1C 003002BC
+20689D20 00300320
+40689D10 00030001
+00320258 00000001
+40689D04 00030001
+003201AE 0000000A
+40689CF4 00040001
+003201F4 00000001
+40689CE0 00050001
+00320190 00000001
+40689CD8 00020001
+0032015E 00000001
+40689CD0 00020001
+0032012C 00000001
+40689CC4 00030001
+003200FA 00000001
+40689CB8 00030001
+003200C8 00000001
+40689CAC 00030001
+00320096 00000001
+40689CA0 00030001
+00320064 00000001
+40689C94 00030001
+00320032 00000001
+40689C88 00030001
+00320001 00000001
+
+// Always S Rank Area Result
+Author = Saramagrean / original CWCheat authors
+2032CA50 10000092
+2032CC9C 24020064
+
+// B Virus Core Total
+Author = Saramagrean / original CWCheat authors
+10689C96 00000032
+
+// Black Rose & The Overthrow Of One Body Up Lv.
+Author = Saramagrean / original CWCheat authors
+20689108 003C03E7
+
+// Blake Immediately
+Author = Saramagrean / original CWCheat authors
+20115A0C 44800800
+
+// C Virus Core Total
+Author = Saramagrean / original CWCheat authors
+10689CAA 00000032
+
+// D Virus Core Total
+Author = Saramagrean / original CWCheat authors
+10689CC2 00000032
+
+// Defeat At Blow Enemy
+Author = Saramagrean / original CWCheat authors
+20126B34 AE6000A8
+
+// E Virus Core Total
+Author = Saramagrean / original CWCheat authors
+10689CB2 00000032
+
+// Easy Lvl. Up (1 Kill For 1 Lvl. Up)
+Author = Saramagrean / original CWCheat authors
+200AA328 240503E8
+
+// Easy Union Combo: Excellent
+Author = Saramagrean / original CWCheat authors
+201BE650 3C030001
+
+// Enemy Killed Instantly
+Author = Saramagrean / original CWCheat authors
+20126B34 AE6000A8
+
+// Enemy Killed Instantly [Off]
+Author = Saramagrean / original CWCheat authors
+20126B34 E66000A8
+
+// Erase All Items
+Author = Saramagrean / original CWCheat authors
+40689C88 00630001
+
+// Exp. x2
+Author = Saramagrean / original CWCheat authors
+200AA32C 00000000
+200AA328 0A200FC0
+20003F00 00073880
+20003F04 00A72821
+20003F08 0A22A8CC
+20003F0C 7C053E20
+
+// Exp. x4
+Author = Saramagrean / original CWCheat authors
+200AA32C 00000000
+200AA328 0A200FC0
+20003F00 000738C0
+20003F04 00A72821
+20003F08 0A22A8CC
+20003F0C 7C053E20
+
+// Exp. x8
+Author = Saramagrean / original CWCheat authors
+200AA32C 00000000
+200AA328 0A200FC0
+20003F00 00073900
+20003F04 00A72821
+20003F08 0A22A8CC
+20003F0C 7C053E20
+
+// Exp. Up To Lv. Up
+Author = Saramagrean / original CWCheat authors
+200AA328 240503E8
+
+// F Virus Core Total
+Author = Saramagrean / original CWCheat authors
+10689CB6 00000032
+
+// Flat Characters
+Author = Saramagrean / original CWCheat authors
+20689C24 C30C30C3
+20689C28 30C30C30
+20689C2C 0C30C30C
+20689C30 C30C30C3
+20689C34 30C30C30
+20689C38 0C30C30C
+20689C3C 000C30C3
+
+// Fri x2
+Author = Saramagrean / original CWCheat authors
+2025F768 0A200FC4
+20003F10 00052880
+20003F18 0A297DDB
+20003F14 00651821
+
+// Fri x4
+Author = Saramagrean / original CWCheat authors
+2025F768 0A200FC4
+20003F10 000528C0
+20003F18 0A297DDB
+20003F14 00651821
+
+// Fri x8
+Author = Saramagrean / original CWCheat authors
+2025F768 0A200FC4
+20003F10 00052900
+20003F18 0A297DDB
+20003F14 00651821
+
+// Geki Ranger Always
+Author = Saramagrean / original CWCheat authors
+201C7E5C 240203E8
+201BF274 240203E8
+
+// Ginkan Exp.
+Author = Saramagrean / original CWCheat authors
+20688FF4 003C03E7
+
+// Ginkan Sinmitsu
+Author = Saramagrean / original CWCheat authors
+10688FE0 000003E8
+
+// GP Max
+Author = Saramagrean / original CWCheat authors
+20689F00 05F5E0FF
+208D9710 05F5E0FF
+
+// Have 3 Squares Completed On Timeline
+Author = Saramagrean / original CWCheat authors
+0068A31B 00000063
+0068A324 00000063
+0068A326 00000063
+
+// Have All Gear In Accessories Shop
+Author = Saramagrean / original CWCheat authors
+0069BC60 000000AA
+4069BC08 00160001
+AAAAAAAA 00000000
+
+// Have All Link Card Word Database
+Author = Saramagrean / original CWCheat authors
+4069BB68 00260001
+FFFFFFFF 00000000
+
+// Hero HP Does Not Decrease
+Author = Saramagrean / original CWCheat authors
+201B8EA4 00000000
+
+// Hero SP Does Not Decrease
+Author = Saramagrean / original CWCheat authors
+201B9050 00000000
+
+// HP 9999
+Author = Saramagrean / original CWCheat authors
+2068CE18 0000270F
+
+// In Obtaining Items 49 Carrying Individual
+Author = Saramagrean / original CWCheat authors
+80689C8A 00160004
+00000031 00000000
+
+// Inf. GP [Money]
+Author = Saramagrean / original CWCheat authors
+20689F00 05F5E100
+
+// Intimacy Max
+Author = Saramagrean / original CWCheat authors
+10688FE0 000003E8
+
+// Infinite HP (1P)
+Author = Saramagrean / original CWCheat authors
+201B8EA4 00000000
+
+// Infinite HP (1P) v2
+Author = Saramagrean / original CWCheat authors
+20300914 C62200B0
+20300934 E62200A8
+
+// Infinite HP (UPC)
+Author = Saramagrean / original CWCheat authors
+201D4988 00000000
+
+// Infinite HP (UPC) v2
+Author = Saramagrean / original CWCheat authors
+203009CC C60200B0
+203009EC E60200A8
+
+// Infinite SP (1P)
+Author = Saramagrean / original CWCheat authors
+201B9050 00000000
+
+// Infinite SP (1P) v2
+Author = Saramagrean / original CWCheat authors
+2030093C C62200BC
+20300988 C62200BC
+203009AC E62200B4
+
+// Infinite SP (UPC)
+Author = Saramagrean / original CWCheat authors
+201D4AF8 00000000
+
+// Infinite SP (UPC) v2
+Author = Saramagrean / original CWCheat authors
+203009F4 C60200BC
+20300A1C C60200BC
+20300A40 E60200B4
+
+// Instant Break Enemies
+Author = Saramagrean / original CWCheat authors
+20115A0C 44800800
+
+// Instant Kill Enemies
+Author = Saramagrean / original CWCheat authors
+20126B34 AE6000A8
+
+// Instant Run
+Author = Saramagrean / original CWCheat authors
+201C2148 54000040
+
+// Intimacy Up To Max
+Author = Saramagrean / original CWCheat authors
+200AA900 00000000
+200AA940 54000004
+
+// Intimacy Up To Max
+Author = Saramagrean / original CWCheat authors
+200AA900 00000000
+200AA940 54000004
+
+// Item All Delete
+Author = Saramagrean / original CWCheat authors
+40689C88 00800001
+
+// Job Braid
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000004
+
+// Job Burandish
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000005
+
+// Job Dual
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000001
+
+// Job Dual X
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000002
+
+// Job Flicker
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000009
+
+// Job Grappler
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000008
+
+// Job Hervest
+Author = Saramagrean / original CWCheat authors
+0068CE12 0000000A
+
+// Job Paltizantiez
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000007
+
+// Job Stiam
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000006
+
+// Job Tuin
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000003
+
+// Job Worook
+Author = Saramagrean / original CWCheat authors
+0068CE12 0000000B
+
+// Level Characters All 99
+Author = Saramagrean / original CWCheat authors
+80688E10 0022005C
+00000063 00000000
+
+// Level Up By Increasing Experience
+Author = Saramagrean / original CWCheat authors
+200AA328 240503E8
+
+// Level Up On Exp. Gain
+Author = Saramagrean / original CWCheat authors
+200AA328 240503E8
+
+// Level Up On Exp. Gain [Disable]
+Author = Saramagrean / original CWCheat authors
+200AA328 00A72821
+
+// Lv. Body & One Defeat Tsukasa Up
+Author = Saramagrean / original CWCheat authors
+20688F98 003C03E7
+
+// Max Affection On Gain
+Author = Saramagrean / original CWCheat authors
+200AA900 00000000
+200AA940 00000000
+
+// Max Cash
+Author = Saramagrean / original CWCheat authors
+20689F00 05F5E0FF
+
+// Max Exp. Kaito
+Author = Saramagrean / original CWCheat authors
+20689330 000003E8
+
+// Max Exp. Mimiru
+Author = Saramagrean / original CWCheat authors
+20688F3C 000003E8
+
+// Max Exp. Subaru
+Author = Saramagrean / original CWCheat authors
+20689050 000003E8
+
+// Max Exp. Tokio
+Author = Saramagrean / original CWCheat authors
+20688E28 000003E8
+
+// Max Exp. Tsukasa
+Author = Saramagrean / original CWCheat authors
+20688F98 000003E8
+
+// Max GP
+Author = Saramagrean / original CWCheat authors
+20689F00 3B9AC9FF
+
+// Max Link Gauge
+Author = Saramagrean / original CWCheat authors
+20294680 00000000
+202949E4 00000000
+
+// Max Rengeki
+Author = Saramagrean / original CWCheat authors
+201C7E5C 240203E8
+201BF274 240203E8
+
+// Max Time Played
+Author = Saramagrean / original CWCheat authors
+1069BCDE 00006363
+0069BCE0 00000063
+
+// Mil Mi-1 Body & Kill Lv. Up
+Author = Saramagrean / original CWCheat authors
+20688F3C 003C03E7
+
+// Mission Select: Entire Timeline Unlocked
+Author = Saramagrean / original CWCheat authors
+4068D800 00550001
+01430143 00000000
+0068A1D0 00000000
+4068A1D4 00550001
+
+// Money Max To Buy
+Author = Saramagrean / original CWCheat authors
+2025F780 00000000
+2025F7BC 0A297DE2
+
+// MP/HP Fellow Comeback (Repeat)
+Author = Saramagrean / original CWCheat authors
+C01D4988 00000000
+C01D4AF8 00000000
+
+// MP/HP His Comeback (Repeat)
+Author = Saramagrean / original CWCheat authors
+C01B8EA4 00000000
+C01B9050 00000000
+
+// No Running Motion Blur
+Author = Saramagrean / original CWCheat authors
+201C21D8 3C02FF00
+
+// No Wait Timer
+Author = Saramagrean / original CWCheat authors
+201BA82C 24100000
+
+// One Hit Kill
+Author = Saramagrean / original CWCheat authors
+20126B34 AE6000A8
+
+// One Hit Kill [Disable]
+Author = Saramagrean / original CWCheat authors
+20126B34 EE6000A8
+
+// Preferences For All Up (Confirmed)
+Author = Saramagrean / original CWCheat authors
+200AA900 00000000
+200AA940 54000004
+
+// Results A Rank (S Where W)
+Author = Saramagrean / original CWCheat authors
+10689C9E 00000032
+
+// Set Link Card Words: Unlock Tales Of Grace Costume Haseo
+Author = Saramagrean / original CWCheat authors
+1069BA4E 00000002
+1069BA50 0000010F
+1069BA52 000001D7
+
+// Simply Beat One Pet Tokio Lv. Up
+Author = Saramagrean / original CWCheat authors
+10688E28 000003E8
+
+// SP 9999
+Author = Saramagrean / original CWCheat authors
+2068CE1A 0000270F
+
+// SP No Use
+Author = Saramagrean / original CWCheat authors
+201B904C 00000000
+201D4AF4 00000000
+
+// Type-A 99 Virus Core
+Author = Saramagrean / original CWCheat authors
+00689C9A 00000063
+
+// U Lv. P1 & Overthrow Of Body
+Author = Saramagrean / original CWCheat authors
+20688FF4 003C03E7
+
+// U Lv. Barumundo P1 & Overthrow Of Body
+Author = Saramagrean / original CWCheat authors
+2068921C 003C03E7
+
+// Unicom Gage Excellent
+Author = Saramagrean / original CWCheat authors
+201BE650 3C030300
+
+// Unlock All Link Card Backgrounds
+Author = Saramagrean / original CWCheat authors
+2069BC00 FFFFFFFF
+
+// Unlock All UPC & NPC
+Author = Saramagrean / original CWCheat authors
+40689C24 00090003
+C30C30C3 00000000
+40689C28 00080003
+30C30C30 00000000
+40689C2C 00080003
+0C30C30C 00000000
+
+// Unlock All Wallpapers & BGM
+Author = Saramagrean / original CWCheat authors
+4068D960 00150001
+FFFFFFFF 00000000
+
+// Unlock Auto Modes In Options
+Author = Saramagrean / original CWCheat authors
+1069BD16 00000101
+0069BD18 00000001
+
+// Up By Increased Familiarity
+Author = Saramagrean / original CWCheat authors
+200AA900 00000000
+200AA940 54000004
+
+// UPC HP Does Not Decrease
+Author = Saramagrean / original CWCheat authors
+201D4988 00000000
+
+// Valuables Complete
+Author = Saramagrean / original CWCheat authors
+40689DF4 00080001
+00014E20 00000001
+40689E14 00120001
+00014E2B 00000001
+20689E5C 00014E3E
+40689E60 000A0001
+00014E44 00000001
+
+// UPC Modifier [Albireo]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000005
+
+// UPC Modifier [Alkaid]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000019
+
+// UPC Modifier [Atoli]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000013
+
+// UPC Modifier [Azure Kite]
+Author = Saramagrean / original CWCheat authors
+00688CBA 0000001F
+
+// UPC Modifier [Balmung]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000009
+
+// UPC Modifier [BlackRose]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000006
+
+// UPC Modifier [Bo]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000016
+
+// UPC Modifier [Cello]
+Author = Saramagrean / original CWCheat authors
+00688CBA 0000001C
+
+// UPC Modifier [Cubia]
+Author = Saramagrean / original CWCheat authors
+00688CBA 0000000B
+
+// UPC Modifier [Endrance]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000017
+
+// UPC Modifier [Fluegel]
+Author = Saramagrean / original CWCheat authors
+00688CBA 0000001E
+
+// UPC Modifier [Haseo]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000012
+
+// UPC Modifier [Haseo B-st Form]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000021
+
+// UPC Modifier [Helba]
+Author = Saramagrean / original CWCheat authors
+00688CBA 0000000A
+
+// UPC Modifier [Kaede]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000020
+
+// UPC Modifier [Kite]
+Author = Saramagrean / original CWCheat authors
+00688CBA 0000000C
+
+// UPC Modifier [Kite-Sora]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000022
+
+// UPC Modifier [Klarinette]
+Author = Saramagrean / original CWCheat authors
+00688CBA 0000001D
+
+// UPC Modifier [Kuhn]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000010
+
+// UPC Modifier [Midori]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000011
+
+// UPC Modifier [Mimiru]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000001
+
+// UPC Modifier [Mistral]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000007
+
+// UPC Modifier [Orca]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000008
+
+// UPC Modifier [Ovan]
+Author = Saramagrean / original CWCheat authors
+00688CBA 0000001B
+
+// UPC Modifier [Pi]
+Author = Saramagrean / original CWCheat authors
+00688CBA 0000000F
+
+// UPC Modifier [Sakaki]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000018
+
+// UPC Modifier [Saku]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000015
+
+// UPC Modifier [Shino]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000014
+
+// UPC Modifier [Silabus]
+Author = Saramagrean / original CWCheat authors
+00688CBA 0000000E
+
+// UPC Modifier [Silver Knight]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000003
+
+// UPC Modifier [Subaru]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000004
+
+// UPC Modifier [Tabby]
+Author = Saramagrean / original CWCheat authors
+00688CBA 0000000D
+
+// UPC Modifier [Toki][Solo]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000000
+
+// UPC Modifier [Tsukasa]
+Author = Saramagrean / original CWCheat authors
+00688CBA 00000002
+
+// UPC Modifier [Zelkova]
+Author = Saramagrean / original CWCheat authors
+00688CBA 0000001A
+
+// UPC SP Does Not Decrease
+Author = Saramagrean / original CWCheat authors
+201D4AF8 00000000
+
+// Albireo All Skills
+Author = Saramagrean / original CWCheat authors
+806890C2 00030002
+00000014 00000001
+
+// Albireo Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00689096 00000004
+
+// Albireo Class-Duel
+Author = Saramagrean / original CWCheat authors
+00689096 00000001
+
+// Albireo Class-Duel x
+Author = Saramagrean / original CWCheat authors
+00689096 00000002
+
+// Albireo Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00689096 00000009
+
+// Albireo Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00689096 0000000A
+
+// Albireo Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00689096 00000005
+
+// Albireo Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00689096 00000007
+
+// Albireo Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00689096 0000000B
+
+// Albireo Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00689096 00000006
+
+// Albireo Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00689096 00000008
+
+// Albireo Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00689096 00000003
+
+// Albireo Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00689096 0000000C
+
+// Albireo Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00689096 0000000D
+
+// Albireo Form 1st
+Author = Saramagrean / original CWCheat authors
+00689097 00000000
+
+// Albireo From Xth
+Author = Saramagrean / original CWCheat authors
+00689097 00000001
+
+// Albireo Lv.99
+Author = Saramagrean / original CWCheat authors
+00689094 00000063
+
+// Albireo Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689098 000003E8
+
+// Albireo Max Exp.
+Author = Saramagrean / original CWCheat authors
+106890AC 000003E8
+
+// Albireo Max Job Rank
+Author = Saramagrean / original CWCheat authors
+0068909A 00000004
+
+// Alkaid Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+006897C6 00000004
+
+// Alkaid Class-Duel
+Author = Saramagrean / original CWCheat authors
+006897C6 00000001
+
+// Alkaid Class-Duel X
+Author = Saramagrean / original CWCheat authors
+006897C6 00000002
+
+// Alkaid Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+006897C6 00000009
+
+// Alkaid Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+006897C6 0000000A
+
+// Alkaid Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+006897C6 00000005
+
+// Alkaid Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+006897C6 00000007
+
+// Alkaid Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+006897C6 0000000B
+
+// Alkaid Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+006897C6 00000006
+
+// Alkaid Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+006897C6 00000008
+
+// Alkaid Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+006897C6 00000003
+
+// Alkaid Class-Unknown
+Author = Saramagrean / original CWCheat authors
+006897C6 0000000C
+
+// Alkaid Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+006897C6 0000000D
+
+// Alkaid From 1st
+Author = Saramagrean / original CWCheat authors
+006897C7 00000000
+
+// Alkaid From Xth
+Author = Saramagrean / original CWCheat authors
+006897C7 00000001
+
+// Alkaid Lv.99
+Author = Saramagrean / original CWCheat authors
+006897C4 00000063
+
+// Alkaid Max Confidence
+Author = Saramagrean / original CWCheat authors
+106897C8 000003E8
+
+// Alkaid Max Exp.
+Author = Saramagrean / original CWCheat authors
+106897DC 000003E8
+
+// Alkaid Max Job Rank
+Author = Saramagrean / original CWCheat authors
+006897CA 00000004
+
+// Atoli All Skills
+Author = Saramagrean / original CWCheat authors
+006895CA 00000025
+006895CC 00000026
+806895CE 0000002B
+806895D0 0000002C
+806895D2 0000003D
+806895D4 0000003E
+806895D6 00000043
+806895D8 00000044
+
+// Atoli Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+0068959E 00000004
+
+// Atoli Class-Duel
+Author = Saramagrean / original CWCheat authors
+0068959E 00000001
+
+// Atoli Class-Duel X
+Author = Saramagrean / original CWCheat authors
+0068959E 00000002
+
+// Atoli Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+0068959E 00000009
+
+// Atoli Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+0068959E 0000000A
+
+// Atoli Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+0068959E 00000005
+
+// Atoli Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+0068959E 00000007
+
+// Atoli Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+0068959E 0000000B
+
+// Atoli Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+0068959E 00000006
+
+// Atoli Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+0068959E 00000008
+
+// Atoli Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+0068959E 00000003
+
+// Atoli Class-Unknown
+Author = Saramagrean / original CWCheat authors
+0068959E 0000000C
+
+// Atoli Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+0068959E 0000000D
+
+// Atoli From 1st
+Author = Saramagrean / original CWCheat authors
+0068959F 00000000
+
+// Atoli From Xth
+Author = Saramagrean / original CWCheat authors
+0068959F 00000001
+
+// Atoli Lv.99
+Author = Saramagrean / original CWCheat authors
+0068959C 00000063
+
+// Atoli Max Confidence
+Author = Saramagrean / original CWCheat authors
+106895A0 000003E8
+
+// Atoli Max Exp.
+Author = Saramagrean / original CWCheat authors
+106895B4 000003E8
+
+// Atoli Max Job Rank
+Author = Saramagrean / original CWCheat authors
+006895A2 00000004
+
+// Azure Kite Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+006899EE 00000004
+
+// Azure Kite Class-Duel
+Author = Saramagrean / original CWCheat authors
+006899EE 00000001
+
+// Azure Kite Class-Duel X
+Author = Saramagrean / original CWCheat authors
+006899EE 00000002
+
+// Azure Kite Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+006899EE 00000009
+
+// Azure Kite Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+006899EE 0000000A
+
+// Azure Kite Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+006899EE 00000005
+
+// Azure Kite Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+006899EE 00000007
+
+// Azure Kite Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+006899EE 0000000B
+
+// Azure Kite Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+006899EE 00000006
+
+// Azure Kite Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+006899EE 00000008
+
+// Azure Kite Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+006899EE 00000003
+
+// Azure Kite Class-Unknown
+Author = Saramagrean / original CWCheat authors
+006899EE 0000000C
+
+// Azure Kite Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+006899EE 0000000D
+
+// Azure Kite Lv.99
+Author = Saramagrean / original CWCheat authors
+006899EC 00000063
+
+// Azure Kite Max Confidence
+Author = Saramagrean / original CWCheat authors
+106899F0 000003E8
+
+// Azure Kite Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689A04 000003E8
+
+// Azure Kite Max Job Rank
+Author = Saramagrean / original CWCheat authors
+006899F2 00000004
+
+// Balmung All Skills
+Author = Saramagrean / original CWCheat authors
+80689232 00030002
+0000000E 00000001
+
+// Balmung Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00689206 00000004
+
+// Balmung Class-Duel
+Author = Saramagrean / original CWCheat authors
+00689206 00000001
+
+// Balmung Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00689206 00000002
+
+// Balmung Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00689206 00000009
+
+// Balmung Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00689206 0000000A
+
+// Balmung Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00689206 00000005
+
+// Balmung Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00689206 00000007
+
+// Balmung Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00689206 0000000B
+
+// Balmung Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00689206 00000006
+
+// Balmung Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00689206 00000008
+
+// Balmung Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00689206 00000003
+
+// Balmung Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00689206 0000000C
+
+// Balmung Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00689206 0000000D
+
+// Balmung Exp.
+Author = Saramagrean / original CWCheat authors
+2068921C 003C03E7
+
+// Balmung From 1st
+Author = Saramagrean / original CWCheat authors
+00689207 00000000
+
+// Balmung From Xth
+Author = Saramagrean / original CWCheat authors
+00689207 00000001
+
+// Balmung Lv.99
+Author = Saramagrean / original CWCheat authors
+00689204 00000063
+
+// Balmung Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689208 000003E8
+
+// Balmung Max Exp.
+Author = Saramagrean / original CWCheat authors
+1068921C 000003E8
+
+// Balmung Max Job Rank
+Author = Saramagrean / original CWCheat authors
+0068920A 00000004
+
+// BlackRose All Skills
+Author = Saramagrean / original CWCheat authors
+8068911E 00030002
+00000005 00000001
+
+// BlackRose Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+006890F2 00000004
+
+// BlackRose Class-Duel
+Author = Saramagrean / original CWCheat authors
+006890F2 00000001
+
+// BlackRose Class-Duel X
+Author = Saramagrean / original CWCheat authors
+006890F2 00000002
+
+// BlackRose Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+006890F2 00000009
+
+// BlackRose Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+006890F2 0000000A
+
+// BlackRose Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+006890F2 00000005
+
+// BlackRose Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+006890F2 00000007
+
+// BlackRose Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+006890F2 0000000B
+
+// BlackRose Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+006890F2 00000006
+
+// BlackRose Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+006890F2 00000008
+
+// BlackRose Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+006890F2 00000003
+
+// BlackRose Class-Unknown
+Author = Saramagrean / original CWCheat authors
+006890F2 0000000C
+
+// BlackRose Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+006890F2 0000000D
+
+// Blackrose Exp.
+Author = Saramagrean / original CWCheat authors
+20689108 003C03E7
+
+// BlackRose Form 1st
+Author = Saramagrean / original CWCheat authors
+006890F3 00000000
+
+// BlackRose Form Xth
+Author = Saramagrean / original CWCheat authors
+006890F3 00000001
+
+// BlackRose Lv.99
+Author = Saramagrean / original CWCheat authors
+006890F0 00000063
+
+// BlackRose Max Confidence
+Author = Saramagrean / original CWCheat authors
+106890F4 000003E8
+
+// BlackRose Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689108 000003E8
+
+// BlackRose Max Job Rank
+Author = Saramagrean / original CWCheat authors
+006890F6 00000004
+
+// Bo Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+006896B2 00000004
+
+// Bo Class-Duel
+Author = Saramagrean / original CWCheat authors
+006896B2 00000001
+
+// Bo Class-Duel X
+Author = Saramagrean / original CWCheat authors
+006896B2 00000002
+
+// Bo Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+006896B2 00000009
+
+// Bo Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+006896B2 0000000A
+
+// Bo Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+006896B2 00000005
+
+// Bo Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+006896B2 00000007
+
+// Bo Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+006896B2 0000000B
+
+// Bo Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+006896B2 00000006
+
+// Bo Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+006896B2 00000008
+
+// Bo Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+006896B2 00000003
+
+// Bo Class-Unknown
+Author = Saramagrean / original CWCheat authors
+006896B2 0000000C
+
+// Bo Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+006896B2 0000000D
+
+// Bo From 1st
+Author = Saramagrean / original CWCheat authors
+006896B3 00000000
+
+// Bo From Xth
+Author = Saramagrean / original CWCheat authors
+006896B3 00000001
+
+// Bo Lv.99
+Author = Saramagrean / original CWCheat authors
+006896B0 00000063
+
+// Bo Max Confidence
+Author = Saramagrean / original CWCheat authors
+106896B4 000003E8
+
+// Bo Max Exp.
+Author = Saramagrean / original CWCheat authors
+106896C8 000003E8
+
+// Bo Max Job Rank
+Author = Saramagrean / original CWCheat authors
+006896B6 00000004
+
+// Cello Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+006898DA 00000004
+
+// Cello Class-Duel
+Author = Saramagrean / original CWCheat authors
+006898DA 00000001
+
+// Cello Class-Duel X
+Author = Saramagrean / original CWCheat authors
+006898DA 00000002
+
+// Cello Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+006898DA 00000009
+
+// Cello Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+006898DA 0000000A
+
+// Cello Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+006898DA 00000005
+
+// Cello Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+006898DA 00000007
+
+// Cello Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+006898DA 0000000B
+
+// Cello Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+006898DA 00000006
+
+// Cello Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+006898DA 00000008
+
+// Cello Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+006898DA 00000003
+
+// Cello Class-Unknown
+Author = Saramagrean / original CWCheat authors
+006898DA 0000000C
+
+// Cello Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+006898DA 0000000D
+
+// Cello Lv.99
+Author = Saramagrean / original CWCheat authors
+006898D8 00000063
+
+// Cello Max Confidence
+Author = Saramagrean / original CWCheat authors
+106898DC 000003E8
+
+// Cello Max Exp.
+Author = Saramagrean / original CWCheat authors
+106898F0 000003E8
+
+// Cello Max Job Rank
+Author = Saramagrean / original CWCheat authors
+006898DE 00000004
+
+// Cubia All Skills
+Author = Saramagrean / original CWCheat authors
+806892EA 00030002
+00000011 00000001
+
+// Cubia Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00682BEA 00000004
+
+// Cubia Class-Duel
+Author = Saramagrean / original CWCheat authors
+00682BEA 00000001
+
+// Cubia Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00682BEA 00000002
+
+// Cubia Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00682BEA 00000009
+
+// Cubia Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00682BEA 0000000A
+
+// Cubia Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00682BEA 00000005
+
+// Cubia Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00682BEA 00000007
+
+// Cubia Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00682BEA 0000000B
+
+// Cubia Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00682BEA 00000006
+
+// Cubia Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00682BEA 00000008
+
+// Cubia Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00682BEA 00000003
+
+// Cubia Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00682BEA 0000000C
+
+// Cubia Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00682BEA 0000000D
+
+// Cubia Lv.99
+Author = Saramagrean / original CWCheat authors
+006892BC 00000063
+
+// Cubia Max Confidence
+Author = Saramagrean / original CWCheat authors
+10682C00 000003E8
+
+// Cubia Max Exp.
+Author = Saramagrean / original CWCheat authors
+106892D4 000003E8
+
+// Cubia Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00682C20 00000004
+
+// Endrance Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+0068970E 00000004
+
+// Endrance Class-Duel
+Author = Saramagrean / original CWCheat authors
+0068970E 00000001
+
+// Endrance Class-Duel X
+Author = Saramagrean / original CWCheat authors
+0068970E 00000002
+
+// Endrance Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+0068970E 00000009
+
+// Endrance Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+0068970E 0000000A
+
+// Endrance Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+0068970E 00000005
+
+// Endrance Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+0068970E 00000007
+
+// Endrance Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+0068970E 0000000B
+
+// Endrance Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+0068970E 00000006
+
+// Endrance Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+0068970E 00000008
+
+// Endrance Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+0068970E 00000003
+
+// Endrance Class-Unknown
+Author = Saramagrean / original CWCheat authors
+0068970E 00000008
+
+// Endrance Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+0068970E 00000003
+
+// Endrance From 1st
+Author = Saramagrean / original CWCheat authors
+0068970F 00000000
+
+// Endrance From Xth
+Author = Saramagrean / original CWCheat authors
+0068970F 00000001
+
+// Endrance Lv.99
+Author = Saramagrean / original CWCheat authors
+0068970C 00000063
+
+// Endrance Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689710 000003E8
+
+// Endrance Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689724 000003E8
+
+// Endrance Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00689712 00000004
+
+// Fluegel Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00689992 00000004
+
+// Fluegel Class-Duel
+Author = Saramagrean / original CWCheat authors
+00689992 00000001
+
+// Fluegel Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00689992 00000002
+
+// Fluegel Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00689992 00000009
+
+// Fluegel Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00689992 0000000A
+
+// Fluegel Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00689992 00000005
+
+// Fluegel Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00689992 00000007
+
+// Fluegel Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00689992 0000000B
+
+// Fluegel Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00689992 00000006
+
+// Fluegel Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00689992 00000008
+
+// Fluegel Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00689992 00000003
+
+// Fluegel Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00689992 0000000C
+
+// Fluegel Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00689992 0000000D
+
+// Fluegel Lv.99
+Author = Saramagrean / original CWCheat authors
+00689990 00000063
+
+// Fluegel Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689994 000003E8
+
+// Fluegel Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689A80 000003E8
+
+// Fluegel Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00689996 00000004
+
+// Haseo (B-st Form) Lv.99
+Author = Saramagrean / original CWCheat authors
+00689AA4 00000063
+
+// Haseo (B-st Form) Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689AA8 000003E8
+
+// Haseo (B-st Form) Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689ABC 000003E8
+
+// Haseo (B-st Form) Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00689AAA 00000004
+
+// Haseo All Skills
+Author = Saramagrean / original CWCheat authors
+8068956E 00040002
+00000001 00000001
+80689576 00000017
+80689578 00000018
+
+// Haseo Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00689542 00000004
+
+// Haseo Class-Blade Brandier II
+Author = Saramagrean / original CWCheat authors
+00689AA6 00000004
+
+// Haseo Class-Duel
+Author = Saramagrean / original CWCheat authors
+00689542 00000001
+
+// Haseo Class-Duel II
+Author = Saramagrean / original CWCheat authors
+00689AA6 00000001
+
+// Haseo Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00689542 00000002
+
+// Haseo Class-Duel X II
+Author = Saramagrean / original CWCheat authors
+00689AA6 00000002
+
+// Haseo Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00689542 00000009
+
+// Haseo Class-Flick Reaper II
+Author = Saramagrean / original CWCheat authors
+00689AA6 00000009
+
+// Haseo Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00689542 0000000A
+
+// Haseo Class-Harvest Cleric II
+Author = Saramagrean / original CWCheat authors
+00689AA6 0000000A
+
+// Haseo Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00689542 00000005
+
+// Haseo Class-Heavy Blades II
+Author = Saramagrean / original CWCheat authors
+00689AA6 00000005
+
+// Haseo Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00689542 00000007
+
+// Haseo Class-Lord Partizan II
+Author = Saramagrean / original CWCheat authors
+00689AA6 00000007
+
+// Haseo Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00689542 0000000B
+
+// Haseo Class-Shadow Warlock II
+Author = Saramagrean / original CWCheat authors
+00689AA6 0000000B
+
+// Haseo Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00689542 00000006
+
+// Haseo Class-Steam Gunner II
+Author = Saramagrean / original CWCheat authors
+00689AA6 00000006
+
+// Haseo Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00689542 00000008
+
+// Haseo Class-Tribal Grappler II
+Author = Saramagrean / original CWCheat authors
+00689AA6 00000008
+
+// Haseo Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00689542 00000003
+
+// Haseo Class-Twin Blade II
+Author = Saramagrean / original CWCheat authors
+00689AA6 00000003
+
+// Haseo Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00689542 0000000C
+
+// Haseo Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00689542 0000000D
+
+// Haseo Costume [Normal]
+Author = Saramagrean / original CWCheat authors
+0069BD8C 00000000
+
+// Haseo Costume [Tales Of Grace]
+Author = Saramagrean / original CWCheat authors
+0069BD8C 00000002
+
+// Haseo From 1st
+Author = Saramagrean / original CWCheat authors
+00689543 00000000
+
+// Haseo From Xth
+Author = Saramagrean / original CWCheat authors
+00689543 00000001
+
+// Haseo Lv.99
+Author = Saramagrean / original CWCheat authors
+00689540 00000063
+
+// Haseo Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689544 000003E8
+
+// Haseo Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689558 000003E8
+
+// Haseo Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00689546 00000004
+
+// Helba All Skills
+Author = Saramagrean / original CWCheat authors
+8068928E 00030002
+0000002A 00000001
+00689294 00000031
+00689296 00000032
+00689298 0000003E
+0068929A 0000003F
+
+// Helba Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00689262 00000004
+
+// Helba Class-Duel
+Author = Saramagrean / original CWCheat authors
+00689262 00000001
+
+// Helba Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00689262 00000002
+
+// Helba Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00689262 00000009
+
+// Helba Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00689262 0000000A
+
+// Helba Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00689262 00000005
+
+// Helba Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00689262 00000007
+
+// Helba Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00689262 0000000B
+
+// Helba Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00689262 00000006
+
+// Helba Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00689262 00000008
+
+// Helba Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00689262 00000003
+
+// Helba Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00689262 00000008
+
+// Helba Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00689262 00000003
+
+// Helba Lv.99
+Author = Saramagrean / original CWCheat authors
+00689260 00000063
+
+// Helba Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689264 000003E8
+
+// Helba Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689278 000003E8
+
+// Helba Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00689266 00000004
+
+// Jobuchenji-Blade
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000004
+
+// Jobuchenji-Cheeses Partisan
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000007
+
+// Jobuchenji-Dual
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000001
+
+// Jobuchenji-Dual X
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000002
+
+// Jobuchenji-Fricker
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000009
+
+// Jobuchenji-Gurappura
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000008
+
+// Jobuchenji-Harvest
+Author = Saramagrean / original CWCheat authors
+0068CE12 0000000A
+
+// Jobuchenji-Steam
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000006
+
+// Jobuchenji-Twin
+Author = Saramagrean / original CWCheat authors
+0068CE12 00000003
+
+// Jobuchenji-Warlock
+Author = Saramagrean / original CWCheat authors
+0068CE12 0000000B
+
+// Kaede Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00689A4A 00000004
+
+// Kaede Class-Duel
+Author = Saramagrean / original CWCheat authors
+00689A4A 00000001
+
+// Kaede Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00689A4A 00000002
+
+// Kaede Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00689A4A 00000009
+
+// Kaede Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00689A4A 0000000A
+
+// Kaede Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00689A4A 00000005
+
+// Kaede Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00689A4A 00000007
+
+// Kaede Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00689A4A 0000000B
+
+// Kaede Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00689A4A 00000006
+
+// Kaede Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00689A4A 00000008
+
+// Kaede Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00689A4A 00000003
+
+// Kaede Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00689A4A 0000000C
+
+// Kaede Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00689A4A 0000000D
+
+// Kaede From 1st
+Author = Saramagrean / original CWCheat authors
+00689A4B 00000000
+
+// Kaede From Xth
+Author = Saramagrean / original CWCheat authors
+00689A4B 00000001
+
+// Kaede Lv.99
+Author = Saramagrean / original CWCheat authors
+00689A48 00000063
+
+// Kaede Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689A4C 000003E8
+
+// Kaede Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689A60 000003E8
+
+// Kaede Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00689A4E 00000004
+
+// Kaito Exp.
+Author = Saramagrean / original CWCheat authors
+20689330 003C03E7
+
+// Kaito Sinmitu
+Author = Saramagrean / original CWCheat authors
+1068931C 000003E8
+
+// Kite (Sora) Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00689B02 00000004
+
+// Kite (Sora) Class-Duel
+Author = Saramagrean / original CWCheat authors
+00689B02 00000001
+
+// Kite (Sora) Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00689B02 00000002
+
+// Kite (Sora) Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00689B02 00000009
+
+// Kite (Sora) Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00689B02 0000000A
+
+// Kite (Sora) Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00689B02 00000005
+
+// Kite (Sora) Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00689B02 00000007
+
+// Kite (Sora) Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00689B02 0000000B
+
+// Kite (Sora) Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00689B02 00000006
+
+// Kite (Sora) Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00689B02 00000008
+
+// Kite (Sora) Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00689B02 00000003
+
+// Kite (Sora) Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00689B02 0000000C
+
+// Kite (Sora) Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00689B02 0000000D
+
+// Kite (Sora) Lv.99
+Author = Saramagrean / original CWCheat authors
+00689B00 00000063
+
+// Kite (Sora) Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689B04 000003E8
+
+// Kite (Sora) Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689B18 000003E8
+
+// Kite (Sora) Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00689B06 00000004
+
+// Kite (Unknown) Lv.99
+Author = Saramagrean / original CWCheat authors
+00689B00 00000063
+
+// Kite All Skills
+Author = Saramagrean / original CWCheat authors
+80689346 00040002
+00000001 00000001
+
+// Kite Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+0068931A 00000004
+
+// Kite Class-Duel
+Author = Saramagrean / original CWCheat authors
+0068931A 00000001
+
+// Kite Class-Duel X
+Author = Saramagrean / original CWCheat authors
+0068931A 00000002
+
+// Kite Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+0068931A 00000009
+
+// Kite Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+0068931A 0000000A
+
+// Kite Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+0068931A 00000005
+
+// Kite Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+0068931A 00000007
+
+// Kite Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+0068931A 0000000B
+
+// Kite Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+0068931A 00000006
+
+// Kite Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+0068931A 00000008
+
+// Kite Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+0068931A 00000003
+
+// Kite Class-Unknown
+Author = Saramagrean / original CWCheat authors
+0068931A 0000000C
+
+// Kite Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+0068931A 0000000D
+
+// Kite Down & One Body Up Lv.
+Author = Saramagrean / original CWCheat authors
+20689330 003C03E7
+
+// Kite From 1st
+Author = Saramagrean / original CWCheat authors
+0068931B 00000000
+
+// Kite From Xth
+Author = Saramagrean / original CWCheat authors
+0068931B 00000001
+
+// Kite Intimacy Max
+Author = Saramagrean / original CWCheat authors
+1068931C 000003E8
+
+// Kite Lv.99
+Author = Saramagrean / original CWCheat authors
+00689318 00000063
+
+// Kite Max Confidence
+Author = Saramagrean / original CWCheat authors
+1068931C 000003E8
+
+// Kite Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689330 000003E8
+
+// Kite Max Job Rank
+Author = Saramagrean / original CWCheat authors
+0068931E 00000004
+
+// Klarinette Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00689936 00000004
+
+// Klarinette Class-Duel
+Author = Saramagrean / original CWCheat authors
+00689936 00000001
+
+// Klarinette Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00689936 00000002
+
+// Klarinette Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00689936 00000009
+
+// Klarinette Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00689936 0000000A
+
+// Klarinette Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00689936 00000005
+
+// Klarinette Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00689936 00000007
+
+// Klarinette Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00689936 0000000B
+
+// Klarinette Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00689936 00000006
+
+// Klarinette Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00689936 00000008
+
+// Klarinette Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00689936 00000003
+
+// Klarinette Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00689936 0000000C
+
+// Klarinette Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00689936 0000000D
+
+// Klarinette Lv.99
+Author = Saramagrean / original CWCheat authors
+00689934 00000063
+
+// Klarinette Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689938 000003E8
+
+// Klarinette Max Exp.
+Author = Saramagrean / original CWCheat authors
+1068994C 000003E8
+
+// Klarinette Max Job Rank
+Author = Saramagrean / original CWCheat authors
+0068993A 00000004
+
+// Kuhn All Skills
+Author = Saramagrean / original CWCheat authors
+806894B6 00030002
+00000008 00000001
+
+// Kuhn Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+0068948A 00000004
+
+// Kuhn Class-Duel
+Author = Saramagrean / original CWCheat authors
+0068948A 00000001
+
+// Kuhn Class-Duel X
+Author = Saramagrean / original CWCheat authors
+0068948A 00000002
+
+// Kuhn Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+0068948A 00000009
+
+// Kuhn Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+0068948A 0000000A
+
+// Kuhn Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+0068948A 00000005
+
+// Kuhn Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+0068948A 00000007
+
+// Kuhn Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+0068948A 0000000B
+
+// Kuhn Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+0068948A 00000006
+
+// Kuhn Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+0068948A 00000008
+
+// Kuhn Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+0068948A 00000003
+
+// Kuhn Class-Unknown
+Author = Saramagrean / original CWCheat authors
+0068948A 0000000C
+
+// Kuhn Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+0068948A 0000000D
+
+// Kuhn From 1st
+Author = Saramagrean / original CWCheat authors
+0068948B 00000000
+
+// Kuhn From Xth
+Author = Saramagrean / original CWCheat authors
+0068948B 00000001
+
+// Kuhn Lv.99
+Author = Saramagrean / original CWCheat authors
+00689488 00000063
+
+// Kuhn Max Confidence
+Author = Saramagrean / original CWCheat authors
+1068948C 000003E8
+
+// Kuhn Max Exp.
+Author = Saramagrean / original CWCheat authors
+106894A0 000003E8
+
+// Kuhn Max Job Rank
+Author = Saramagrean / original CWCheat authors
+0068948E 00000004
+
+// Midori All Skills
+Author = Saramagrean / original CWCheat authors
+80689512 00030002
+00000005 00000001
+
+// Midori Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+006894E6 00000004
+
+// Midori Class-Duel
+Author = Saramagrean / original CWCheat authors
+006894E6 00000001
+
+// Midori Class-Duel X
+Author = Saramagrean / original CWCheat authors
+006894E6 00000002
+
+// Midori Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+006894E6 00000009
+
+// Midori Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+006894E6 0000000A
+
+// Midori Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+006894E6 00000005
+
+// Midori Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+006894E6 00000007
+
+// Midori Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+006894E6 0000000B
+
+// Midori Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+006894E6 00000006
+
+// Midori Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+006894E6 00000008
+
+// Midori Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+006894E6 00000003
+
+// Midori Class-Unknown
+Author = Saramagrean / original CWCheat authors
+006894E6 0000000C
+
+// Midori Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+006894E6 0000000D
+
+// Midori From 1st
+Author = Saramagrean / original CWCheat authors
+006894E7 00000000
+
+// Midori From Xth
+Author = Saramagrean / original CWCheat authors
+006894E7 00000001
+
+// Midori Lv.99
+Author = Saramagrean / original CWCheat authors
+006894E4 00000063
+
+// Midori Max Confidence
+Author = Saramagrean / original CWCheat authors
+106894E8 000003E8
+
+// Midori Max Exp.
+Author = Saramagrean / original CWCheat authors
+106894FC 000003E8
+
+// Midori Max Job Rank
+Author = Saramagrean / original CWCheat authors
+006894EA 00000004
+
+// Mimiru All Skills
+Author = Saramagrean / original CWCheat authors
+80688F52 00030002
+00000005 00000001
+
+// Mimiru Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00688F26 00000004
+
+// Mimiru Class-Duel
+Author = Saramagrean / original CWCheat authors
+00688F26 00000001
+
+// Mimiru Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00688F26 00000002
+
+// Mimiru Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00688F26 00000009
+
+// Mimiru Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00688F26 0000000A
+
+// Mimiru Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00688F26 00000005
+
+// Mimiru Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00688F26 00000007
+
+// Mimiru Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00688F26 0000000B
+
+// Mimiru Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00688F26 00000006
+
+// Mimiru Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00688F26 00000008
+
+// Mimiru Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00688F26 00000003
+
+// Mimiru Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00688F26 0000000C
+
+// Mimiru Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00688F26 0000000D
+
+// Mimiru Exp.
+Author = Saramagrean / original CWCheat authors
+20688F3C 003C03E7
+
+// Mimiru Form 1st
+Author = Saramagrean / original CWCheat authors
+00688F27 00000000
+
+// Mimiru Form Xth
+Author = Saramagrean / original CWCheat authors
+00688F27 00000001
+
+// Mimiru Lv.99
+Author = Saramagrean / original CWCheat authors
+00688F24 00000063
+
+// Mimiru Max Confidence
+Author = Saramagrean / original CWCheat authors
+10688F28 000003E8
+
+// Mimiru Max Exp.
+Author = Saramagrean / original CWCheat authors
+10688F3C 000003E8
+
+// Mimiru Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00688F2A 00000004
+
+// Mistral All Skill
+Author = Saramagrean / original CWCheat authors
+0068917A 00000021
+0068917C 00000022
+0068917E 00000029
+00689180 0000002A
+00689182 00000037
+00689184 00000039
+00689186 0000003D
+00689188 0000003E
+0068918A 0000003F
+
+// Mistral Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+0068914E 00000004
+
+// Mistral Class-Duel
+Author = Saramagrean / original CWCheat authors
+0068914E 00000001
+
+// Mistral Class-Duel X
+Author = Saramagrean / original CWCheat authors
+0068914E 00000002
+
+// Mistral Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+0068914E 00000009
+
+// Mistral Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+0068914E 0000000A
+
+// Mistral Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+0068914E 00000005
+
+// Mistral Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+0068914E 00000007
+
+// Mistral Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+0068914E 0000000B
+
+// Mistral Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+0068914E 00000006
+
+// Mistral Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+0068914E 00000008
+
+// Mistral Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+0068914E 00000003
+
+// Mistral Class-Unknown
+Author = Saramagrean / original CWCheat authors
+0068914E 0000000C
+
+// Mistral Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+0068914E 0000000D
+
+// Mistral Exp.
+Author = Saramagrean / original CWCheat authors
+20689164 003C03E7
+
+// Mistral From 1st
+Author = Saramagrean / original CWCheat authors
+0068914F 00000000
+
+// Mistral From Xth
+Author = Saramagrean / original CWCheat authors
+0068914F 00000001
+
+// Mistral Lv.99
+Author = Saramagrean / original CWCheat authors
+0068914C 00000063
+
+// Mistral Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689150 000003E8
+
+// Mistral Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689164 000003E8
+
+// Mistral Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00689152 00000004
+
+// Orca All Skills
+Author = Saramagrean / original CWCheat authors
+806891D6 00030002
+00000005 00000001
+
+// Orca Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+006891AA 00000004
+
+// Orca Class-Duel
+Author = Saramagrean / original CWCheat authors
+006891AA 00000001
+
+// Orca Class-Duel X
+Author = Saramagrean / original CWCheat authors
+006891AA 00000002
+
+// Orca Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+006891AA 00000009
+
+// Orca Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+006891AA 0000000A
+
+// Orca Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+006891AA 00000005
+
+// Orca Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+006891AA 00000007
+
+// Orca Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+006891AA 0000000B
+
+// Orca Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+006891AA 00000006
+
+// Orca Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+006891AA 00000008
+
+// Orca Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+006891AA 00000003
+
+// Orca Class-Unknown
+Author = Saramagrean / original CWCheat authors
+006891AA 0000000C
+
+// Orca Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+006891AA 0000000D
+
+// Orca Form 1st
+Author = Saramagrean / original CWCheat authors
+006891AB 00000000
+
+// Orca Form Xth
+Author = Saramagrean / original CWCheat authors
+006891AB 00000001
+
+// Orca Lv.99
+Author = Saramagrean / original CWCheat authors
+006891A8 00000063
+
+// Orca Max Confidence
+Author = Saramagrean / original CWCheat authors
+106891AC 000003E8
+
+// Orca Max Exp.
+Author = Saramagrean / original CWCheat authors
+106891C0 000003E8
+
+// Orca Max Job Rank
+Author = Saramagrean / original CWCheat authors
+006891AE 00000004
+
+// Ovan Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+0068987E 00000004
+
+// Ovan Class-Duel
+Author = Saramagrean / original CWCheat authors
+0068987E 00000001
+
+// Ovan Class-Duel X
+Author = Saramagrean / original CWCheat authors
+0068987E 00000002
+
+// Ovan Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+0068987E 00000009
+
+// Ovan Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+0068987E 0000000A
+
+// Ovan Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+0068987E 00000005
+
+// Ovan Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+0068987E 00000007
+
+// Ovan Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+0068987E 0000000B
+
+// Ovan Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+0068987E 00000006
+
+// Ovan Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+0068987E 00000008
+
+// Ovan Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+0068987E 00000003
+
+// Ovan Class-Unknown
+Author = Saramagrean / original CWCheat authors
+0068987E 0000000C
+
+// Ovan Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+0068987E 0000000D
+
+// Ovan Costume [Nornal]
+Author = Saramagrean / original CWCheat authors
+0069BD8D 00000000
+
+// Ovan Costume [Tales Of Grace]
+Author = Saramagrean / original CWCheat authors
+0069BD8D 00000002
+
+// Ovan Lv.99
+Author = Saramagrean / original CWCheat authors
+0068987C 00000063
+
+// Ovan Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689880 000003E8
+
+// Ovan Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689898 000003E8
+
+// Ovan Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00689882 00000004
+
+// Pi All Skills
+Author = Saramagrean / original CWCheat authors
+8068945A 00030002
+0000000B 00000001
+
+// Pi Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+0068942E 00000004
+
+// Pi Class-Duel
+Author = Saramagrean / original CWCheat authors
+0068942E 00000001
+
+// Pi Class-Duel X
+Author = Saramagrean / original CWCheat authors
+0068942E 00000002
+
+// Pi Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+0068942E 00000009
+
+// Pi Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+0068942E 0000000A
+
+// Pi Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+0068942E 00000005
+
+// Pi Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+0068942E 00000007
+
+// Pi Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+0068942E 0000000B
+
+// Pi Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+0068942E 00000006
+
+// Pi Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+0068942E 00000008
+
+// Pi Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+0068942E 00000003
+
+// Pi Class-Unknown
+Author = Saramagrean / original CWCheat authors
+0068942E 0000000C
+
+// Pi Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+0068942E 0000000D
+
+// Pi From 1st
+Author = Saramagrean / original CWCheat authors
+0068942F 00000000
+
+// Pi From Xth
+Author = Saramagrean / original CWCheat authors
+0068942F 00000001
+
+// Pi Lv.99
+Author = Saramagrean / original CWCheat authors
+0068942C 00000063
+
+// Pi Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689430 000003E8
+
+// Pi Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689444 000003E8
+
+// Pi Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00689432 00000004
+
+// Sakaki Lv.99
+Author = Saramagrean / original CWCheat authors
+00689768 00000063
+
+// Sakaki Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689780 000003E8
+
+// Saku Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00689656 00000004
+
+// Saku Class-Duel
+Author = Saramagrean / original CWCheat authors
+00689656 00000001
+
+// Saku Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00689656 00000002
+
+// Saku Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00689656 00000009
+
+// Saku Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00689656 0000000A
+
+// Saku Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00689656 00000005
+
+// Saku Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00689656 00000007
+
+// Saku Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00689656 0000000B
+
+// Saku Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00689656 00000006
+
+// Saku Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00689656 00000008
+
+// Saku Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00689656 00000003
+
+// Saku Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00689656 0000000C
+
+// Saku Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00689656 0000000D
+
+// Saku From 1st
+Author = Saramagrean / original CWCheat authors
+00689657 00000000
+
+// Saku From Xth
+Author = Saramagrean / original CWCheat authors
+00689657 00000001
+
+// Saku Lv.99
+Author = Saramagrean / original CWCheat authors
+00689654 00000063
+
+// Saku Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689658 000003E8
+
+// Saku Max Exp.
+Author = Saramagrean / original CWCheat authors
+1068966C 000003E8
+
+// Saku Max Job Rank
+Author = Saramagrean / original CWCheat authors
+0068965A 00000004
+
+// Shino All Skills
+Author = Saramagrean / original CWCheat authors
+00689626 00000025
+00689628 00000026
+0068962A 0000002B
+0068962C 0000002C
+8068962E 00030002
+0000003D 00000001
+00689634 00000048
+
+// Shino Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+006895FA 00000004
+
+// Shino Class-Duel
+Author = Saramagrean / original CWCheat authors
+006895FA 00000001
+
+// Shino Class-Duel X
+Author = Saramagrean / original CWCheat authors
+006895FA 00000002
+
+// Shino Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+006895FA 00000009
+
+// Shino Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+006895FA 0000000A
+
+// Shino Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+006895FA 00000005
+
+// Shino Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+006895FA 00000007
+
+// Shino Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+006895FA 0000000B
+
+// Shino Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+006895FA 00000006
+
+// Shino Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+006895FA 00000008
+
+// Shino Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+006895FA 00000003
+
+// Shino Class-Unknown
+Author = Saramagrean / original CWCheat authors
+006895FA 0000000C
+
+// Shino Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+006895FA 0000000D
+
+// Shino From 1st
+Author = Saramagrean / original CWCheat authors
+006895FB 00000000
+
+// Shino From Xth
+Author = Saramagrean / original CWCheat authors
+006895FB 00000001
+
+// Shino Lv.99
+Author = Saramagrean / original CWCheat authors
+006895F8 00000063
+
+// Shino Max Confidence
+Author = Saramagrean / original CWCheat authors
+106895FC 000003E8
+
+// Shino Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689610 000003E8
+
+// Shino Max Job Rank
+Author = Saramagrean / original CWCheat authors
+006895FE 00000004
+
+// Silabus All Skills
+Author = Saramagrean / original CWCheat authors
+806893FE 00030002
+0000000E 00000001
+
+// Silabus Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+006893D2 00000004
+
+// Silabus Class-Duel
+Author = Saramagrean / original CWCheat authors
+006893D2 00000001
+
+// Silabus Class-Duel X
+Author = Saramagrean / original CWCheat authors
+006893D2 00000002
+
+// Silabus Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+006893D2 00000009
+
+// Silabus Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+006893D2 0000000A
+
+// Silabus Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+006893D2 00000005
+
+// Silabus Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+006893D2 00000007
+
+// Silabus Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+006893D2 0000000B
+
+// Silabus Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+006893D2 00000006
+
+// Silabus Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+006893D2 00000008
+
+// Silabus Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+006893D2 00000003
+
+// Silabus Class-Unknown
+Author = Saramagrean / original CWCheat authors
+006893D2 0000000C
+
+// Silabus Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+006893D2 0000000D
+
+// Silabus From 1st
+Author = Saramagrean / original CWCheat authors
+006893D3 00000000
+
+// Silabus From Xth
+Author = Saramagrean / original CWCheat authors
+006893D3 00000001
+
+// Silabus Lv.99
+Author = Saramagrean / original CWCheat authors
+006893D0 00000063
+
+// Silabus Max Confidence
+Author = Saramagrean / original CWCheat authors
+106893D4 000003E8
+
+// Silabus Max Exp.
+Author = Saramagrean / original CWCheat authors
+106893E8 000003E8
+
+// Silabus Max Job Rank
+Author = Saramagrean / original CWCheat authors
+006893D6 00000004
+
+// Silver Knight All Skills
+Author = Saramagrean / original CWCheat authors
+8068900A 00030002
+0000000E 00000001
+
+// Silver Knight Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00688FDE 00000004
+
+// Silver Knight Class-Duel
+Author = Saramagrean / original CWCheat authors
+00688FDE 00000001
+
+// Silver Knight Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00688FDE 00000002
+
+// Silver Knight Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00688FDE 00000009
+
+// Silver Knight Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00688FDE 0000000A
+
+// Silver Knight Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00688FDE 00000005
+
+// Silver Knight Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00688FDE 00000007
+
+// Silver Knight Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00688FDE 0000000B
+
+// Silver Knight Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00688FDE 00000006
+
+// Silver Knight Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00688FDE 00000008
+
+// Silver Knight Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00688FDE 00000003
+
+// Silver Knight Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00688FDE 0000000C
+
+// Silver Knight Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00688FDE 0000000D
+
+// Silver Knight Form 1st
+Author = Saramagrean / original CWCheat authors
+00688FDF 00000000
+
+// Silver Knight Form Xth
+Author = Saramagrean / original CWCheat authors
+00688FDF 00000001
+
+// Silver Knight Lv.99
+Author = Saramagrean / original CWCheat authors
+00688FDC 00000063
+
+// Silver Knight Max Confidence
+Author = Saramagrean / original CWCheat authors
+10688FE0 000003E8
+
+// Silver Knight Max Exp.
+Author = Saramagrean / original CWCheat authors
+10688FF4 000003E8
+
+// Silver Knight Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00688FE2 00000004
+
+// Subaru All Skills
+Author = Saramagrean / original CWCheat authors
+80689066 00030002
+00000014 00000001
+
+// Subaru & The Overthrow Of One Body Up Lv.
+Author = Saramagrean / original CWCheat authors
+20689050 003C03E7
+
+// Subaru Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+0068903A 00000004
+
+// Subaru Class-Duel
+Author = Saramagrean / original CWCheat authors
+0068903A 00000001
+
+// Subaru Class-Duel X
+Author = Saramagrean / original CWCheat authors
+0068903A 00000002
+
+// Subaru Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+0068903A 00000009
+
+// Subaru Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+0068903A 0000000A
+
+// Subaru Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+0068903A 00000005
+
+// Subaru Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+0068903A 00000007
+
+// Subaru Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+0068903A 0000000B
+
+// Subaru Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+0068903A 00000006
+
+// Subaru Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+0068903A 00000008
+
+// Subaru Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+0068903A 00000003
+
+// Subaru Class-Unknown
+Author = Saramagrean / original CWCheat authors
+0068903A 0000000C
+
+// Subaru Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+0068903A 0000000D
+
+// Subaru Exp.
+Author = Saramagrean / original CWCheat authors
+20689050 003C03E7
+
+// Subaru Form 1st
+Author = Saramagrean / original CWCheat authors
+0068903B 00000000
+
+// Subaru From Xth
+Author = Saramagrean / original CWCheat authors
+0068903B 00000001
+
+// Subaru Intimacy Max
+Author = Saramagrean / original CWCheat authors
+1068903C 000003E8
+
+// Subaru Lv.99
+Author = Saramagrean / original CWCheat authors
+00689038 00000063
+
+// Subaru Max Confidence
+Author = Saramagrean / original CWCheat authors
+1068903C 000003E8
+
+// Subaru Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689050 000003E8
+
+// Subaru Max Job Rank
+Author = Saramagrean / original CWCheat authors
+0068903E 00000004
+
+// Subaru Sinmitsu
+Author = Saramagrean / original CWCheat authors
+1068903C 000003E8
+
+// Tabby All Skills
+Author = Saramagrean / original CWCheat authors
+806893A2 00030002
+0000000B 00000001
+
+// Tabby Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00689376 00000004
+
+// Tabby Class-Duel
+Author = Saramagrean / original CWCheat authors
+00689376 00000001
+
+// Tabby Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00689376 00000002
+
+// Tabby Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00689376 00000009
+
+// Tabby Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00689376 0000000A
+
+// Tabby Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00689376 00000005
+
+// Tabby Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00689376 00000007
+
+// Tabby Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00689376 0000000B
+
+// Tabby Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00689376 00000006
+
+// Tabby Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00689376 00000008
+
+// Tabby Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00689376 00000003
+
+// Tabby Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00689376 0000000C
+
+// Tabby Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00689376 0000000D
+
+// Tabby From 1st
+Author = Saramagrean / original CWCheat authors
+00689377 00000000
+
+// Tabby From Xth
+Author = Saramagrean / original CWCheat authors
+00689377 00000001
+
+// Tabby Lv.99
+Author = Saramagrean / original CWCheat authors
+00689374 00000063
+
+// Tabby Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689378 000003E8
+
+// Tabby Max Exp.
+Author = Saramagrean / original CWCheat authors
+1068938C 000003E8
+
+// Tabby Max Job Rank
+Author = Saramagrean / original CWCheat authors
+0068937A 00000004
+
+// Tokio All Skills
+Author = Saramagrean / original CWCheat authors
+80688E3E 00040002
+0000001D 00000001
+
+// Tokio Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00688E12 00000004
+
+// Tokio Class-Duel
+Author = Saramagrean / original CWCheat authors
+00688E12 00000001
+
+// Tokio Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00688E12 00000002
+
+// Tokio Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00688E12 00000009
+
+// Tokio Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00688E12 0000000A
+
+// Tokio Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00688E12 00000005
+
+// Tokio Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00688E12 00000007
+
+// Tokio Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00688E12 0000000B
+
+// Tokio Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00688E12 00000006
+
+// Tokio Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00688E12 00000008
+
+// Tokio Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00688E12 00000003
+
+// Tokio Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00688E12 0000000C
+
+// Tokio Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00688E12 0000000D
+
+// Tokio From 1st
+Author = Saramagrean / original CWCheat authors
+00688E13 00000000
+
+// Tokio From Xth
+Author = Saramagrean / original CWCheat authors
+00688E13 00000001
+
+// Tokio Lv.99
+Author = Saramagrean / original CWCheat authors
+00688E10 00000063
+
+// Tokio Max Exp.
+Author = Saramagrean / original CWCheat authors
+10688E28 000003E8
+
+// Tokio Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00688E16 00000004
+
+// Tokio Exp.
+Author = Saramagrean / original CWCheat authors
+20688E28 003C03E7
+
+// Tsukasa All Skills
+Author = Saramagrean / original CWCheat authors
+00688FAE 00000023
+00688FB0 00000024
+00688FB2 00000027
+00688FB4 00000028
+00688FB6 00000034
+00688FB8 0000003E
+00688FBA 0000003F
+
+// Tsukasa Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00688F82 00000004
+
+// Tsukasa Class-Duel
+Author = Saramagrean / original CWCheat authors
+00688F82 00000001
+
+// Tsukasa Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00688F82 00000002
+
+// Tsukasa Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00688F82 00000009
+
+// Tsukasa Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00688F82 0000000A
+
+// Tsukasa Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00688F82 00000005
+
+// Tsukasa Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00688F82 00000007
+
+// Tsukasa Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00688F82 0000000B
+
+// Tsukasa Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00688F82 00000006
+
+// Tsukasa Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00688F82 00000008
+
+// Tsukasa Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00688F82 00000003
+
+// Tsukasa Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00688F82 0000000C
+
+// Tsukasa Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00688F82 0000000D
+
+// Tsukasa Exp.
+Author = Saramagrean / original CWCheat authors
+20688F98 003C03E7
+
+// Tsukasa Form 1st
+Author = Saramagrean / original CWCheat authors
+00688F83 00000000
+
+// Tsukasa Form Xth
+Author = Saramagrean / original CWCheat authors
+00688F83 00000001
+
+// Tsukasa Intimacy Max
+Author = Saramagrean / original CWCheat authors
+1068CF84 000003E8
+
+// Tsukasa Lv.99
+Author = Saramagrean / original CWCheat authors
+00688F80 00000063
+
+// Tsukasa Max Confidence
+Author = Saramagrean / original CWCheat authors
+10688F84 000003E8
+
+// Tsukasa Max Exp.
+Author = Saramagrean / original CWCheat authors
+10688F98 000003E8
+
+// Tsukasa Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00688F86 00000004
+
+// Tsukasa Sinmitsu
+Author = Saramagrean / original CWCheat authors
+1068CF84 000003E8
+
+// Zelkova Class-Blade Brandier
+Author = Saramagrean / original CWCheat authors
+00689822 00000004
+
+// Zelkova Class-Duel
+Author = Saramagrean / original CWCheat authors
+00689822 00000001
+
+// Zelkova Class-Duel X
+Author = Saramagrean / original CWCheat authors
+00689822 00000002
+
+// Zelkova Class-Flick Reaper
+Author = Saramagrean / original CWCheat authors
+00689822 00000009
+
+// Zelkova Class-Harvest Cleric
+Author = Saramagrean / original CWCheat authors
+00689822 0000000A
+
+// Zelkova Class-Heavy Blades
+Author = Saramagrean / original CWCheat authors
+00689822 00000005
+
+// Zelkova Class-Lord Partizan
+Author = Saramagrean / original CWCheat authors
+00689822 00000007
+
+// Zelkova Class-Shadow Warlock
+Author = Saramagrean / original CWCheat authors
+00689822 0000000B
+
+// Zelkova Class-Steam Gunner
+Author = Saramagrean / original CWCheat authors
+00689822 00000006
+
+// Zelkova Class-Tribal Grappler
+Author = Saramagrean / original CWCheat authors
+00689822 00000008
+
+// Zelkova Class-Twin Blade
+Author = Saramagrean / original CWCheat authors
+00689822 00000003
+
+// Zelkova Class-Unknown
+Author = Saramagrean / original CWCheat authors
+00689822 0000000C
+
+// Zelkova Class-Unknown II
+Author = Saramagrean / original CWCheat authors
+00689822 0000000D
+
+// Zelkova Lv.99
+Author = Saramagrean / original CWCheat authors
+00689820 00000063
+
+// Zelkova Max Confidence
+Author = Saramagrean / original CWCheat authors
+10689824 000003E8
+
+// Zelkova Max Exp.
+Author = Saramagrean / original CWCheat authors
+10689838 000003E8
+
+// Zelkova Max Job Rank
+Author = Saramagrean / original CWCheat authors
+00689826 00000004

@@ -1,0 +1,2162 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPUH-10041
+# Source: https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db
+// 30 FPS
+Author = Saramagrean / original CWCheat authors
+20074524 0E25DAE9
+20066F04 3C023F80
+20095AA0 3C023F80
+2008B964 3C023F80
+
+// 60 FPS
+Author = Saramagrean / original CWCheat authors
+20074524 00000000
+20066F04 3C023F00
+20095AA0 3C023F40
+2008B964 3C023F60
+
+// ****Agoromo
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010076
+
+// ****Agoromo CorSage
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010084
+
+// st Slot Chaos 99
+Author = Saramagrean / original CWCheat authors
+0023FDA1 00000063
+
+// st Slot Dark 99
+Author = Saramagrean / original CWCheat authors
+0023FD91 00000063
+
+// st Slot Fire 99
+Author = Saramagrean / original CWCheat authors
+0023FD9E 00000063
+
+// st Slot Haste 99
+Author = Saramagrean / original CWCheat authors
+0023FD8E 00000063
+
+// st Slot Ice 99
+Author = Saramagrean / original CWCheat authors
+0023FD9F 00000063
+
+// st Slot M.Atk. 99
+Author = Saramagrean / original CWCheat authors
+0023FDA6 00000063
+
+// st Slot M.Def. 99
+Author = Saramagrean / original CWCheat authors
+0023FDA7 00000063
+
+// st Slot P.Atk. 99
+Author = Saramagrean / original CWCheat authors
+0023FDA4 00000063
+
+// st Slot P.Def. 99
+Author = Saramagrean / original CWCheat authors
+2023FDA5 00000063
+
+// st Slot Paralysis 99
+Author = Saramagrean / original CWCheat authors
+0023FD93 00000063
+
+// st Slot Poison 99
+Author = Saramagrean / original CWCheat authors
+0023FD90 00000063
+
+// st Slot Sick 99
+Author = Saramagrean / original CWCheat authors
+0023FD94 00000063
+
+// st Slot Silence 99
+Author = Saramagrean / original CWCheat authors
+0023FD92 00000063
+
+// st Slot Slow 99
+Author = Saramagrean / original CWCheat authors
+0023FD8F 00000063
+
+// st Slot Stone 99
+Author = Saramagrean / original CWCheat authors
+0023FD8E 00000063
+
+// st Slot Wind 99
+Author = Saramagrean / original CWCheat authors
+0023FDA0 00000063
+
+// Aaron
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100007C
+
+// Adya KAtti
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100001F
+
+// Aid Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102002F
+
+// Aid Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102000F
+
+// All Quick LVLUP After Battle
+Author = Saramagrean / original CWCheat authors
+10240998 0001869F
+102EC31C 0001869F
+116E0620 0001869F
+116E0624 0001869F
+116E0638 0001869F
+1024099C 0001869F
+1027BF20 0001869F
+102EC318 0001869F
+116E0628 0001869F
+116E0640 00000155
+
+// All Quick LVLUP After Battle
+Author = Saramagrean / original CWCheat authors
+10240998 0001869F
+102EC31C 0001869F
+116E0620 0001869F
+116E0624 0001869F
+116E0638 0001869F
+1024099C 0001869F
+1027BF20 0001869F
+102EC318 0001869F
+116E0628 0001869F
+116E0640 00000155
+
+// All Warp Points
+Author = Saramagrean / original CWCheat authors
+216C335C 003FFFFF
+
+// Alloy Staff
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000090
+
+// Amakuni
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000062
+
+// AmeNotsurugi
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100004B
+
+// Analysis Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020032
+
+// Analysis Card
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020060
+
+// Anchor Card
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020062
+
+// Angel Bow
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000074
+
+// Anti-Poison Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102003A
+
+// Anti-Poison Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020006
+
+// Anti-Poison Necklace
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101008F
+
+// APC Rounds
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000EF
+
+// APCR Rounds
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000F0
+
+// Appease Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102003D
+
+// Aquinas
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000004
+
+// Arbalest
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000071
+
+// Armor Piercing
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000EB
+
+// Artemis
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000072
+
+// Atame
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100000E
+
+// Attack Bracelet
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010056
+
+// Aura Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020052
+
+// Avk861
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000B7
+
+// Balmung
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100002A
+
+// Bandana
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010001
+
+// Bardiche
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000A5
+
+// Barong
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100003D
+
+// Barrel Launcher
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000BF
+
+// Barrier Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102004C
+
+// Barrier Ring
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101009E
+
+// Barrier Zone Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020059
+
+// Baselard
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000009
+
+// Bastard Sword
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000033
+
+// Battle Armor
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010036
+
+// Battle Armor v2
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010058
+
+// Battle Axe
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000A0
+
+// Battle Fauld
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010078
+
+// Battle Helm
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010010
+
+// Battle Staff
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100008C
+
+// Big Tusk
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000C9
+
+// Black Core
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000ED
+
+// Black Dogi: Bottom
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101008A
+
+// Black Dogi: Top
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010048
+
+// Blade Cutter
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100002F
+
+// Blank Card
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020069
+
+// Blessed Crown
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010012
+
+// Blind Zone Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020058
+
+// Blindness Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020048
+
+// Blindness Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102000B
+
+// Blood Axe
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000A3
+
+// Boar Sword
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000026
+
+// Bones Dagger
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100000F
+
+// Bracelet
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010055
+
+// Bracelet Of Faith
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101005A
+
+// Brass Knuckles
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000DB
+
+// Brave Sword Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102005A
+
+// Brawa
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100008A
+
+// Brawler's Hat
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010014
+
+// Brawler's Kilt
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101007C
+
+// Brawler's Robe
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101003A
+
+// Breastplate
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010030
+
+// Brigandine
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101002D
+
+// Brightness Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020034
+
+// Brightness Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020005
+
+// Brightness Necklace
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010090
+
+// Broadsword
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000017
+
+// Broken Tornado
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000C2
+
+// Bronze Harness
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101002C
+
+// Brush
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000084
+
+// Buffalo Helm
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010023
+
+// Bullove
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000B0
+
+// Cane
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000075
+
+// Capture Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020035
+
+// Capture Card
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020061
+
+// Cat's Paw
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000DF
+
+// Celestial Arrows
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000E9
+
+// Celestial Crown
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010019
+
+// Celtis
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000A4
+
+// Cercion
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100007A
+
+// Ceremonial Blade
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100002E
+
+// Chain Gloves
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010050
+
+// Chain Helm
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010003
+
+// Chain LEggings
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010072
+
+// Chain Mail
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101002E
+
+// Chainsaw
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000C4
+
+// Chaos Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102002A
+
+// Chaos Grave Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102002C
+
+// Chaos Ring
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101009D
+
+// Charge Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020014
+
+// Cinqueda
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000013
+
+// Circlet
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101000E
+
+// Claiomh Solais
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100002B
+
+// Claymore
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000030
+
+// Clear Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020043
+
+// Clear Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020016
+
+// Cloth Boots
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101006D
+
+// Cloth Gloves
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101004D
+
+// Cloths
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010025
+
+// Club
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100007D
+
+// Cold Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020021
+
+// Cold Storm Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020025
+
+// Composite Bow
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100006B
+
+// CorSage
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101000D
+
+// Crash Band
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000D4
+
+// Crazy Voice
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100009B
+
+// Cross Elements Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102002D
+
+// Cross Knuckles
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000DA
+
+// Cross Shuriken
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020067
+
+// Crystal Wand
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000078
+
+// Cure Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020036
+
+// Cursed Shield Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102004D
+
+// Cursed Sword Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020053
+
+// Curtana
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000034
+
+// Cutlass
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100001A
+
+// Cyclone Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020029
+
+// Dagger
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100000A
+
+// Damascus Sword
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100003B
+
+// Dandelion
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000C5
+
+// Dark Magician Robe
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101004B
+
+// Darkness Arrows
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000E5
+
+// Darkness Cape
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101003F
+
+// Darkness Shoes
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010081
+
+// Death Dancer
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000C6
+
+// Deca Pennae
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100002D
+
+// Defense Bracelet
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010057
+
+// Devil Shooter
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000BE
+
+// Dilute Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102004A
+
+// Disappear Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102002B
+
+// DiSease Arrows
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000E4
+
+// Dizzy Necklace
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010098
+
+// Domaru Armor
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010033
+
+// Dragon Hand
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010054
+
+// Dragon Tattoo
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010040
+
+// Drill Arm
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000C0
+
+// Drill Head
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000EE
+
+// Dual Edge
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000AC
+
+// Dust Mask
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101001E
+
+// Earth Rod
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100008D
+
+// Effect Card
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102006A
+
+// Eian
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000092
+
+// ELastic Bow
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000073
+
+// Electric Hacksaw No. 3
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000C7
+
+// Elekhi
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000046
+
+// Elemental Hammer
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000098
+
+// Enchanter Card
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020066
+
+// Entoutachi
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000049
+
+// Escape Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020041
+
+// Escape Card
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102005F
+
+// Estoc
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000024
+
+// Excalibur
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000045
+
+// Executioner
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000043
+
+// Exodus Axe
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000A9
+
+// Falchion
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100003E
+
+// Falx
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000021
+
+// Fear Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020022
+
+// Feather Knuckles
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000D9
+
+// Feather Staff
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100008B
+
+// Firangi
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100003F
+
+// Fire Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020017
+
+// Fire Ring
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101009A
+
+// Fire Slacks
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101008C
+
+// Fire Storm Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102001B
+
+// Fisherman Flag
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000093
+
+// Flailin
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000080
+
+// Flamberg
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000040
+
+// Flame Knuckles
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000DC
+
+// Flare Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020027
+
+// Flash Fist
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000D6
+
+// Flower Boquet
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100002C
+
+// Force Ring
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101009F
+
+// Force Shield Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020055
+
+// Force Sword Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020056
+
+// Fortune Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102005E
+
+// Francesca
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000A8
+
+// Freeze Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020028
+
+// Fry Pan
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000AA
+
+// Gauntlet
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010051
+
+// Gendawa
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100006C
+
+// Gladius
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000018
+
+// Glove
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000D1
+
+// God Mode
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000099
+
+// Godendag
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000085
+
+// Gothic Gauntlet
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010052
+
+// Gothic Greaves
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010075
+
+// Gothic Helm
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010008
+
+// Gothic Mail
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010031
+
+// Grahm
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000041
+
+// Grand Mace
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000097
+
+// Great Armor
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010041
+
+// Great Boots
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010083
+
+// Great Bow
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100006E
+
+// Great Gauntlet
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010063
+
+// Great Helm
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101001B
+
+// Great Sword
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000039
+
+// Gubasa
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000036
+
+// Guitar Case
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000B9
+
+// Gurz
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100008E
+
+// HacHigane
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101000B
+
+// HacHimaki
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010009
+
+// Hachiman Armor
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101003D
+
+// Hachiman Dragon Hand
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101005F
+
+// Hachiman Hakama
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101007F
+
+// Hachiman Kabuto
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010017
+
+// Hakama
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010077
+
+// Halberd
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000A6
+
+// Hand Axe
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100009D
+
+// Haori Cloak
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010044
+
+// Hard Bow
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000070
+
+// Hard Leather Armor
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101002B
+
+// Hard Leather Gaiters
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010070
+
+// Head Axe
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000AF
+
+// Heal Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102003E
+
+// Heal Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020011
+
+// Heat Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020020
+
+// Heat Rounds
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000F1
+
+// Heat Storm Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020024
+
+// Heavy Band
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000D3
+
+// Heavy Bow
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100006F
+
+// Helmet
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010006
+
+// Hold Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102004E
+
+// Hood
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101000C
+
+// HP Necklace
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010097
+
+// Hunting Bow
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100006A
+
+// Hunting Jerkin
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010039
+
+// HVAP Rounds
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000F3
+
+// Hyper Express
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000CA
+
+// Ice Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020018
+
+// Ice Ring
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101009B
+
+// Ice Storm Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102001C
+
+// Ichimonji
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000051
+
+// Illusionist's Bracelet
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010065
+
+// Illusionist's Hat
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101001D
+
+// Illusionist's Robe
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010043
+
+// Illusionist's Shoes
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010085
+
+// Inf. Money
+Author = Saramagrean / original CWCheat authors
+216B8318 000F423F
+
+// Inf. Battle Points [Char.1]
+Author = Saramagrean / original CWCheat authors
+016E05CC 00000009
+
+// Inf. HP Char. 2
+Author = Saramagrean / original CWCheat authors
+002439E8 00000063
+00243A88 00000063
+
+// Inf. HP Char. 3
+Author = Saramagrean / original CWCheat authors
+00246C28 00000063
+00240A08 00000063
+
+// Infection Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020054
+
+// Infection Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102000A
+
+// Inv. Samurai
+Author = Saramagrean / original CWCheat authors
+2023FD88 01026462
+
+// Inventory Slot 1 Blank Card
+Author = Saramagrean / original CWCheat authors
+2023FD88 01026964
+
+// Inventory Slot 1 Enchantress
+Author = Saramagrean / original CWCheat authors
+2023FD88 01026662
+
+// Inventory Slot 1 Knight Card
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020062
+
+// Inventory Slot 1 Samurai Card
+Author = Saramagrean / original CWCheat authors
+2023FD88 01026462
+
+// Iron Axe
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000A2
+
+// Jabberwock
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100007E
+
+// Janadhar
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000002
+
+// Janbiya
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000005
+
+// Jitte
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000015
+
+// Judgement Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102002E
+
+// Jyoui
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010034
+
+// Jyoui CorSage
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010042
+2023FD88 0101000A
+
+// KabutsuchitacHi
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100004A
+
+// Kagura
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100004F
+
+// Kaiser Knuckles
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000DE
+
+// KaneHira
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000063
+
+// Kanemitsu
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100004D
+
+// Kannagi
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000082
+
+// Karabela
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000025
+
+// Kard
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000010
+
+// Kaskara
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000031
+
+// Kastane
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000020
+
+// Katana
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000047
+
+// Katzbalger
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000028
+
+// Khanda
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000029
+
+// Kiyomitsu
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000054
+
+// Kizanmaru
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000053
+
+// Knife
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000001
+
+// Knight Card
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020063
+
+// Knowledge Crown
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010011
+
+// Knuckle Tape
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101005C
+
+// Knuckles
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000D7
+
+// Kogarasu
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000050
+
+// Kogitsunemaru
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000060
+
+// Kris Naga
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000012
+
+// Kuro No Tachi
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100005C
+
+// Kuroshozoku
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010035
+
+// Labrys
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000A7
+
+// Laundry Pole
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000055
+
+// Leather Boots
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101006F
+
+// Leather Gloves
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101004F
+
+// Leather Helm
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010002
+
+// Lightning Spark
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000CE
+
+// Long Bow
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100006D
+
+// Longsword
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000016
+
+// M150
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000BA
+
+// Mace
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000094
+
+// Mage's Hat
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010005
+
+// Mage's Robe
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010028
+
+// Mage's Shoes
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010073
+
+// Magical Hand
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010068
+
+// Magical Hat
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010020
+
+// Magical Pants
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010088
+
+// Magical Robe
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010046
+
+// Magician's Rod
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000081
+
+// Main-Gauche
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100000D
+
+// Mammoth Meat
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000AB
+
+// Mask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010004
+
+// Masumune
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000059
+
+// Max Money
+Author = Saramagrean / original CWCheat authors
+216B8318 000F423F
+
+// Mech Arm
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101006A
+
+// Medicine Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102003C
+
+// Medicine Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020004
+
+// Medicine Necklace
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010093
+
+// Metal Fist
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000D8
+
+// Midnight Glove
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010061
+
+// Misericorde
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000011
+
+// Mistilteinn
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000037
+
+// Mitsukane
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100005A
+
+// Monster Stick
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000088
+
+// Morning Star
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100008F
+
+// MP Ring
+Author = Saramagrean / original CWCheat authors
+2023FD88 010100A0
+
+// Munechika
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100004C
+
+// Myohomuramasa
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100004E
+
+// Necklace
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101008D
+
+// New Cheat 1
+Author = Saramagrean / original CWCheat authors
+0023F437 00000064
+
+// Ninja Card
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020065
+
+// Ninja Dragon Hand
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010060
+
+// Ninja Garb
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101003E
+
+// Ninja Hakama
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010080
+
+// Ninja Hood
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010018
+
+// Octo Shuriken
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020068
+
+// Odin's Fists
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000DD
+
+// Old Ale
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100003C
+
+// Order Robe
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101003B
+
+// Oreichalkos
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100001B
+
+// Paper Fan
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000048
+
+// Parallel Aid Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020033
+
+// Parallel Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020045
+
+// Parallel Cure Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020037
+
+// Parallel Heal Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102003F
+
+// Paralysis Arrows
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000E7
+
+// Paralysis Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102004F
+
+// Paralysis Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102000D
+
+// Paralyze Zone Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102005C
+
+// Platinum Gauntlet
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101005E
+
+// Platinum Greaves
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101007E
+
+// Platinum Helm
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010016
+
+// Platinum Plate
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101003C
+
+// Point Bullets
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000EA
+
+// Poison Arrows
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000E6
+
+// Poison Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020047
+
+// Poison Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102000C
+
+// Power Glove
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000D2
+
+// Prayer Bracelet
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101000C
+
+// Prayer Gloves
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101005D
+
+// Prayer Robe
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010038
+
+// Prayer Tiara
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010015
+
+// Printed T-Shirt
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101004C
+
+// ProMinence
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000BB
+
+// Proof Of Champion
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000E0
+
+// Prove Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020046
+
+// Quadarra
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000042
+
+// Quick Lvl. All Class First Char.
+Author = Saramagrean / original CWCheat authors
+116E0650 00000001
+
+// Quickness Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020051
+
+// Quickness Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020001
+
+// Quickness Necklace
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101008E
+
+// Quilted Boots
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101006E
+
+// Quilted Gloves
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101004E
+
+// Quited Armor
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101002A
+
+// Raikunitoshi
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100005D
+
+// Rajouvic
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000AD
+
+// Rapid Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102005D
+
+// Rapid Fire
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000B8
+
+// Ray Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102001A
+
+// Ray Storm Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102001E
+
+// Rebirth Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020040
+
+// Rebirth Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020013
+
+// Recovery Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020039
+
+// Recovery Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020007
+
+// Recovery Necklace
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010092
+
+// Refresh Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020015
+
+// Release Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102003B
+
+// Release Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020003
+
+// Release Necklace
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010094
+
+// Rich Want
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000079
+
+// Ring
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010099
+
+// Ring Of Knowledge
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010059
+
+// Rising Force
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000044
+
+// Robe
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010027
+
+// Rocket Launcher
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000BD
+
+// Rondel Dagger
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100000B
+
+// Rosary
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010066
+
+// Sabre
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000022
+
+// Safety Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020030
+
+// Saind Weddigan
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100009A
+
+// Saint's Boots
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101007A
+
+// Samauri Card
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020064
+
+// Scale Armor
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101002F
+
+// Sceptre
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000077
+
+// Schoolgirl Blouse
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010049
+
+// Schoolgirl Skirt
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101008B
+
+// Schweitzer Sword
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000035
+
+// Scimitar
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100001C
+
+// Screwdriver
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000C3
+
+// Search Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020031
+
+// Seax
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000003
+
+// Shaman's Shoes
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101007D
+
+// Shanshir
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100001D
+
+// ShAre Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020044
+
+// SHashbul
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100007B
+
+// Shiavona
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000019
+
+// Shield Necklace
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010095
+
+// Shigure
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000064
+
+// Shoes
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010071
+
+// Short Bow
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000068
+
+// Short Sword
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000008
+
+// Silence Arrows
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000E8
+
+// Silence Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102004B
+
+// Silence Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102000E
+
+// Silver Gauntlet
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101006B
+
+// SinclAir Sabre
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000027
+
+// Skill Armlet
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101005B
+
+// Slowness Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020049
+
+// Slowness Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020002
+
+// Slugger Helm
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010022
+
+// Speak Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020038
+
+// Speak Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020008
+
+// Speak Necklace
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010091
+
+// Spiked Club
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100007F
+
+// Spinning Needle
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000C8
+
+// Spiral Fang
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000C1
+
+// Spirit Band
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101001C
+
+// SSF Rounds
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000F2
+
+// Staff
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000089
+
+// Steam Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102001F
+
+// Steam Storm Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020023
+
+// Steel Arrows
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000E3
+
+// Steel Helm
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010007
+
+// Steel Jacket
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000EC
+
+// Steel LEggings
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010074
+
+// Stilleto
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100000C
+
+// StillMore Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102005B
+
+// Sting Stick
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000087
+
+// Stone Arrows
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000E2
+
+// Stone Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020057
+
+// Stone Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020009
+
+// Street Cap
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101001F
+2023FD88 010000CB
+
+// Stun Gun
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000CD
+
+// SuiRyu
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100005B
+
+// Suishomaru
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000065
+
+// Sumihomura
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000056
+
+// Sumihomura v2
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000057
+
+// Sunglasses
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101001A
+
+// Suzune
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000061
+
+// Svk73
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000B6
+
+// Sword Breaker
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000007
+
+// Sword Mace
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000096
+
+// Sword Necklace
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010096
+
+// Tabard
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000A1
+
+// TalWar
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100001E
+
+// Tanko Armor
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010032
+
+// Taping
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010064
+
+// Tattoo
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010062
+
+// Tebutje
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000038
+
+// Tekko Fist
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000D5
+
+// Terror Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020026
+
+// Theif's Cap
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010013
+
+// Theif's Greaves
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101007B
+
+// Tiara
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101000F
+
+// Tiger Tattoo
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101004A
+
+// Tights
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010089
+
+// Tights: Arm
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010069
+
+// Tights: Hat
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010021
+
+// Tights: Top
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010047
+
+// Tomahawk
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100009F
+
+// Toranyudou
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000052
+
+// Toy Hammer
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100009C
+
+// Training Sword
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000058
+
+// Treat Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020042
+
+// Treat Flask
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020012
+
+// Trendy Style
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010024
+
+// Trident Staff
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000091
+
+// Tunic
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010026
+
+// Two-Handed Sword
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000032
+
+// Type-0 Grenade Launcher
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000BC
+
+// Ukonvasara
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000AE
+
+// Umbrella
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000059
+
+// Vajra
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000083
+
+// Vegetable Root
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000066
+
+// Verdun
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000023
+
+// Video Cable
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000D0
+
+// Viking Axe
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100009E
+
+// Viking Sword
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100003A
+
+// Voodoo Brand
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000086
+
+// Vortex Driver
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000CF
+
+// W.C.S
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000014
+
+// Wand
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000076
+
+// Wanderer's Robe
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010029
+
+// War Hammer
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000095
+
+// Warning Flash
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000CC
+
+// Weapped Bow
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000069
+
+// Weiser
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000006
+
+// White Glove
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010067
+
+// White Uniform Jacket
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010045
+
+// White Uniform Pants
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010087
+
+// Wind Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 01020019
+
+// Wind Ring
+Author = Saramagrean / original CWCheat authors
+2023FD88 0101009C
+
+// Wind Storm Book
+Author = Saramagrean / original CWCheat authors
+2023FD88 0102001D
+
+// Wing Hakama
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010086
+
+// Wizard's Garb
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010037
+
+// Wizard's LEggings
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010079
+
+// Wooden Arrows
+Author = Saramagrean / original CWCheat authors
+2023FD88 010000E1
+
+// Wooden Clogs
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010082
+
+// Wooden Sword
+Author = Saramagrean / original CWCheat authors
+2023FD88 01000067
+
+// Wrist Guard
+Author = Saramagrean / original CWCheat authors
+2023FD88 01010053
+
+// Yoshimitsu
+Author = Saramagrean / original CWCheat authors
+2023FD88 0100005E
