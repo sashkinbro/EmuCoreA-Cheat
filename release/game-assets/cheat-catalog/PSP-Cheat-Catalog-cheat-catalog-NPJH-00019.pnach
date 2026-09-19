@@ -1,0 +1,33 @@
+# PSP cheat pack
+# Serial: NPJH-00019
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Experience
+Author = libretro-database contributors / original PSP cheat authors
+2008BB68 240203E8
+
+// Infinite Experience [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2008BB68 00C51023
+
+// Infinite Health And Energy
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8C43028C
+20002004 24010500
+20002008 AC610614
+2000200C 24120700
+20002010 0A20C2AE
+20002014 AC7201BC
+20030AB0 0A200800
+
+// Infinite Health And Energy [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20030AB0 8C43028C
+
+// Max Combo
+Author = libretro-database contributors / original PSP cheat authors
+2008C894 2405270F
+
+// Max Combo [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2008C894 24450001

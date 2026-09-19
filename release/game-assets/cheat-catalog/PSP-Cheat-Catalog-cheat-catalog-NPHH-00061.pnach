@@ -1,0 +1,238 @@
+# PSP cheat pack
+# Serial: NPHH-00061
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Away Team Normal AI
+Author = libretro-database contributors / original PSP cheat authors
+204F6780 0E36E64C
+
+// Away Team Slo-Mo AI
+Author = libretro-database contributors / original PSP cheat authors
+204F6780 00000000
+
+// Away Team Scores 0
+Author = libretro-database contributors / original PSP cheat authors
+20772424 00000000
+
+// Away Team Scores 99
+Author = libretro-database contributors / original PSP cheat authors
+20772424 00000063
+
+// Be A Pro XP Modifier x2
+Author = libretro-database contributors / original PSP cheat authors
+20119BA8 0E200400
+20001000 00139840
+20001004 0A247040
+
+// Be A Pro XP Modifier x4
+Author = libretro-database contributors / original PSP cheat authors
+20119BA8 0E200400
+20001000 00139880
+20001004 0A247040
+
+// Be A Pro XP Modifier x8
+Author = libretro-database contributors / original PSP cheat authors
+20119BA8 0E200400
+20001000 001398C0
+20001004 0A247045
+
+// Be A Pro XP Modifier x16
+Author = libretro-database contributors / original PSP cheat authors
+20119BA8 0E200400
+20001000 00139900
+20001004 0A247045
+
+// Be A Pro XP Modifier x32
+Author = libretro-database contributors / original PSP cheat authors
+20119BA8 0E200400
+20001000 00139940
+20001004 0A247045
+
+// Be A Pro XP Modifier x64
+Author = libretro-database contributors / original PSP cheat authors
+20119BA8 0E200400
+20001000 00139980
+20001004 0A247045
+
+// Be A Pro XP Modifier x128
+Author = libretro-database contributors / original PSP cheat authors
+20119BA8 0E200400
+20001000 001399C0
+20001004 0A247045
+
+// Camera: #All Camera Codes [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20076660 10A00007
+20076664 34110007
+20076718 24040001
+
+// Camera: Action
+Author = libretro-database contributors / original PSP cheat authors
+20076660 10000007
+20076664 24110005
+20076718 24040000
+
+// Camera: Bird's Eye View
+Author = libretro-database contributors / original PSP cheat authors
+20076660 10000007
+20076664 2411000C
+20076718 24040000
+
+// Camera: Broadcast
+Author = libretro-database contributors / original PSP cheat authors
+20076660 10000007
+20076664 24110001
+20076718 24040000
+
+// Camera: End To End
+Author = libretro-database contributors / original PSP cheat authors
+20076660 10000007
+20076664 24110002
+20076718 24040000
+
+// Camera: Far Away
+Author = libretro-database contributors / original PSP cheat authors
+20076660 10000007
+20076664 24110003
+20076718 24040000
+
+// Camera: From Above
+Author = libretro-database contributors / original PSP cheat authors
+20076660 10000007
+20076664 2411000B
+20076718 24040000
+
+// Camera: Replay
+Author = libretro-database contributors / original PSP cheat authors
+20076660 10000007
+20076664 2411000F
+20076718 24040000
+
+// Camera: Sideline
+Author = libretro-database contributors / original PSP cheat authors
+20076660 10000007
+20076664 24110007
+20076718 24040000
+
+// Camera: Sideline 2
+Author = libretro-database contributors / original PSP cheat authors
+20076660 10000007
+20076664 2411000A
+20076718 24040000
+
+// Camera: Tele
+Author = libretro-database contributors / original PSP cheat authors
+20076660 10000007
+20076664 24110008
+20076718 24040000
+
+// Clock: Fast Clock
+Author = libretro-database contributors / original PSP cheat authors
+2052E72C 00000000
+
+// Clock: Frozen Clock
+Author = libretro-database contributors / original PSP cheat authors
+2052E6D0 24100000
+
+// Clock: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2052E72C 14530005
+2052E6D0 00808025
+
+// Fouls Off
+Author = libretro-database contributors / original PSP cheat authors
+2052F218 03E00008
+2052F21C 00000000
+
+// Fouls On
+Author = libretro-database contributors / original PSP cheat authors
+2052F218 27BDFF80
+2052F21C 3C063EAA
+
+// Game Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+207C1040 00000060
+
+// Game Speed Mod: Much Quicker
+Author = libretro-database contributors / original PSP cheat authors
+207C1040 00000048
+
+// Game Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+207C1040 00000030
+
+// Game Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+207C1040 0000003C
+
+// Game Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+207C1040 00000020
+
+// Gravity: High
+Author = libretro-database contributors / original PSP cheat authors
+20715220 BF75C28F
+
+// Gravity: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20715220 BE75C28F
+
+// Gravity: Low
+Author = libretro-database contributors / original PSP cheat authors
+20715220 BE05C28F
+
+// Gravity: Even Lower
+Author = libretro-database contributors / original PSP cheat authors
+20715220 BD75C28F
+
+// Home Team Normal AI
+Author = libretro-database contributors / original PSP cheat authors
+204F6778 0E36E64C
+
+// Home Team Slo-Mo AI
+Author = libretro-database contributors / original PSP cheat authors
+204F6778 00000000
+
+// Home Team Scores 0
+Author = libretro-database contributors / original PSP cheat authors
+2076AFA0 00000000
+
+// Home Team Scores 99
+Author = libretro-database contributors / original PSP cheat authors
+2076AFA0 00000063
+
+// Infinite Boost Points
+Author = libretro-database contributors / original PSP cheat authors
+200D66B8 240603E7
+
+// Invisible Walls (Indoor Soccer)
+Author = libretro-database contributors / original PSP cheat authors
+207B9F30 00000001
+
+// Invisible Walls (Indoor Soccer) [Off]
+Author = libretro-database contributors / original PSP cheat authors
+207B9F30 00000000
+
+// Items Cost Nothing
+Author = libretro-database contributors / original PSP cheat authors
+20085AAC 24060000
+
+// Manager: No Transfer Cost
+Author = libretro-database contributors / original PSP cheat authors
+20094038 24020000
+
+// Manager: Normal Transfer Cost
+Author = libretro-database contributors / original PSP cheat authors
+20094038 0E25C9F7
+
+// Play With Light Ball
+Author = libretro-database contributors / original PSP cheat authors
+204F4590 00000000
+
+// Play With Normal Ball
+Author = libretro-database contributors / original PSP cheat authors
+204F4590 10400011
+
+// Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+20116464 3C02B000

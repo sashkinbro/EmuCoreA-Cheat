@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: NPEZ-01264
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Gold (In Battle)
+Author = libretro-database contributors / original PSP cheat authors
+20062E50 0001869F
+
+// Max Gold (Out Of Battle)
+Author = libretro-database contributors / original PSP cheat authors
+20062B70 0001869F

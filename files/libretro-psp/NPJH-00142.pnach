@@ -1,0 +1,279 @@
+# PSP cheat pack
+# Serial: NPJH-00142
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS (Alpha)
+Author = libretro-database contributors / original PSP cheat authors
+2003D144 00000000
+
+// Enable DLC Translation
+Author = libretro-database contributors / original PSP cheat authors
+200153FC 01003021
+20015450 01003021
+
+// [*] Master Code
+Author = libretro-database contributors / original PSP cheat authors
+C17FF874 FFFFFFFF
+C0758E34 00000000
+50758E38 00000004
+017FF874 00000000
+217FF878 00000001
+
+// [*] All Cards x3 With Variant [NC]
+Author = libretro-database contributors / original PSP cheat authors
+C17FF878 00000001
+617FF874 0000030C
+00041C58 00009F60
+90000002 00000000
+
+// [*] No Ban List [NC]
+Author = libretro-database contributors / original PSP cheat authors
+C17FF878 00000001
+617FF874 0000030C
+00031C58 00009F5E
+90000004 00000000
+
+// [*] DP [1.000.000]
+Author = libretro-database contributors / original PSP cheat authors
+C17FF878 00000001
+617FF874 000F4240
+00050001 0001753C
+
+// All Cards
+Author = libretro-database contributors / original PSP cheat authors
+200312B4 3402090F
+200312B8 A4820000
+200312BC 34020003
+
+// All Cards x9
+Author = libretro-database contributors / original PSP cheat authors
+80326364 00350002
+1000090F 00000000
+8032643C 002D0002
+803264F4 00100002
+8032653C 00580002
+803266A0 00670002
+803269A4 1AC60002
+
+// Change Atk. Or Def. [Square+Left]
+Author = libretro-database contributors / original PSP cheat authors
+E00678F0 01017880
+D0000005 10008080
+21017B84 00030003
+21017884 00000003
+21017888 00000009
+2101788C 0000000A
+21017890 00000500
+
+// Control Tag Partner
+Author = libretro-database contributors / original PSP cheat authors
+20002010 16200004
+20002014 00000000
+20002018 24100000
+2000201C 0A20080A
+20002020 00000000
+20002024 24100001
+20002028 AC900008
+2000202C 0A60466D
+210119B0 0A200804
+
+// Deck <40
+Author = libretro-database contributors / original PSP cheat authors
+D073857A 00008E04
+20738578 34040028
+
+// DP
+Author = libretro-database contributors / original PSP cheat authors
+E0010000 00339F10
+2031FEB0 01000000
+
+// DP v2
+Author = libretro-database contributors / original PSP cheat authors
+2031FEDC 01000000
+
+// DP 999999999
+Author = libretro-database contributors / original PSP cheat authors
+2031FEB0 3B9AC9FF
+
+// DP Max
+Author = libretro-database contributors / original PSP cheat authors
+2002BBB4 03FFF821
+
+// Draw 6 Cards In First Turn
+Author = libretro-database contributors / original PSP cheat authors
+211E71DC 0A679D8E
+
+// Flip Commands [Square+Down]
+Author = libretro-database contributors / original PSP cheat authors
+E00678F0 01017880
+D0000005 10008040
+21017B84 00030003
+21017884 00000003
+21017888 00000003
+2101788C 00000004
+21017890 00000005
+
+// Heart Max
+Author = libretro-database contributors / original PSP cheat authors
+20030B94 03FFF821
+
+// Instant Win [Before Duel]
+Author = libretro-database contributors / original PSP cheat authors
+11571C1C 00000000
+
+// Instant Win [Toggle L+Square]
+Author = libretro-database contributors / original PSP cheat authors
+D0000005 10008100
+10E07548 00000000
+10E07550 00000000
+10E07560 00000000
+114F6FD4 00000000
+114F6FDC 00000000
+11571C1C 00000000
+
+// JP 999999999
+Author = libretro-database contributors / original PSP cheat authors
+20339D04 3B9AC9FF
+
+// JP Max
+Author = libretro-database contributors / original PSP cheat authors
+2002D254 03FFF821
+
+// Max Duel Points
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C023B9B
+20002004 2442C9FF
+20002008 03E00008
+2002BB50 0E200800
+
+// One Hit Duel
+Author = libretro-database contributors / original PSP cheat authors
+20002034 3C04095F
+20002038 24847240
+2000203C 3C020076
+20002040 3442A6D0
+20002044 00821021
+20002048 14C00004
+2000204C 00000000
+20002050 00863021
+20002054 0A558F52
+20002058 00000000
+2000205C 24050000
+20002060 AC850010
+20002064 AC45000C
+20002068 0A200813
+20D63D3C 0A20080D
+
+// Opponent Life 0 Win
+Author = libretro-database contributors / original PSP cheat authors
+D0000005 10008100
+10E07548 00000000
+10E07550 00000000
+10E07560 00000000
+114F6FD4 00000000
+114F6FDC 00000000
+11571C1C 00000000
+
+// Partner Control
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 0157458C
+0157458C 00000000
+
+// Partner Control v2
+Author = libretro-database contributors / original PSP cheat authors
+E0030957 001B18C2
+601B18C0 00000000
+00000001 007F9ADC
+90000000 00000000
+
+// Partner Favorite Disable
+Author = libretro-database contributors / original PSP cheat authors
+D0731E78 0000302A
+20731E78 03FF3026
+
+// Partner Favorite Release
+Author = libretro-database contributors / original PSP cheat authors
+8087D9F5 003C0006
+00000001 00000000
+8087D8E5 000F0006
+
+// Partner Limit Disable
+Author = libretro-database contributors / original PSP cheat authors
+2000CA60 1000000C
+
+// Partner No Ban List
+Author = libretro-database contributors / original PSP cheat authors
+800D6722 00980004
+00000003 00000000
+
+// Remove Banlist
+Author = libretro-database contributors / original PSP cheat authors
+80326366 00350002
+10000003 00000000
+8032643E 002D0002
+803264F6 00100002
+8032653E 00580002
+803266A2 00670002
+803269A6 1AC60002
+
+// Reset Duelist Level
+Author = libretro-database contributors / original PSP cheat authors
+2002B994 24020000
+2002BAD0 24020000
+
+// See Face Downs [L+Up]
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10000110
+81571C63 000A0018
+00000001 00000000
+
+// See Opponent EX Deck [L+Down]
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10000140
+01571C38 00000028
+5157216C 000000A0
+
+// See Opponent Deck [L+Right]
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10000120
+01571C38 00000028
+51571F8C 000000A0
+0157261C 00000000
+
+// See Your Hand [L+Up]
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10000110
+01571DA4 00000003
+
+// Speed Up
+Author = libretro-database contributors / original PSP cheat authors
+0003D12A 00000000
+
+// Summon/Set/Active [Press R]
+Author = libretro-database contributors / original PSP cheat authors
+D0000014 10000200
+E0120000 1157449C
+01017B84 00000001
+01017B86 00000001
+01017B1E 0000001D
+01017B1C 000000A0
+01017888 00000003
+E0060000 10DF63A8
+01017B1E 0000003A
+01017B1C 00000090
+0101788C 00000002
+01017890 00000007
+01017B84 00000003
+01017B86 00000003
+
+// Take Control Of Opponent's Monster [Press Square+Right]
+Author = libretro-database contributors / original PSP cheat authors
+D0000005 10008020
+01571C6C 00000001
+01571C84 00000001
+01571C9C 00000001
+01571CB4 00000001
+
+// Win
+Author = libretro-database contributors / original PSP cheat authors
+11571C1C 00000000

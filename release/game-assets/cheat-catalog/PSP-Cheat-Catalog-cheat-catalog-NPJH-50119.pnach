@@ -1,0 +1,17 @@
+# PSP cheat pack
+# Serial: NPJH-50119
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1P Phase Only
+Author = libretro-database contributors / original PSP cheat authors
+004DEBC4 00000000
+
+// 2P Phase Only
+Author = libretro-database contributors / original PSP cheat authors
+004DEBC4 00000001
+
+// All Resources 999
+Author = libretro-database contributors / original PSP cheat authors
+105F7520 000003E7
+105F7524 000003E7
+105F7528 000003E7

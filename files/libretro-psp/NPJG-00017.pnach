@@ -1,0 +1,61 @@
+# PSP cheat pack
+# Serial: NPJG-00017
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20002000 03E00008
+20002004 AC820004
+20055914 0A200800
+20055918 24020063
+
+// Max Unlock Points
+Author = libretro-database contributors / original PSP cheat authors
+20002020 02402821
+20002024 3C0605F5
+20002028 34C6E0FF
+2000202C 0A240C2A
+20002030 AC460020
+201030A0 0A200808
+
+// Score Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+20002010 03E00008
+20002014 AC820008
+20055938 00052840
+2005593C 0A200804
+20055940 00451021
+
+// Score Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20002010 03E00008
+20002014 AC820008
+20055938 00052880
+2005593C 0A200804
+20055940 00451021
+
+// Score Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+20002010 03E00008
+20002014 AC820008
+20055938 000528C0
+2005593C 0A200804
+20055940 00451021
+
+// Score Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+20002010 03E00008
+20002014 AC820008
+20055938 00052900
+2005593C 0A200804
+20055940 00451021
+
+// Unlock All Single Play
+Author = libretro-database contributors / original PSP cheat authors
+2016BDDC 24030001
+2016BDE0 A0430000
+
+// Unlock Travel Play Mode
+Author = libretro-database contributors / original PSP cheat authors
+2016B9F8 24030001
+2016B9FC A0430094

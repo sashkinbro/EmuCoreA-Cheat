@@ -1,0 +1,57 @@
+# PSP cheat pack
+# Serial: NPEZ-00365
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+2011E028 00000000
+
+// Max Coins
+Author = libretro-database contributors / original PSP cheat authors
+20002000 24020006
+20002004 14A20002
+20002008 2402270F
+2000200C AC820000
+20002028 0A229747
+2000202C 8C820000
+200A5D14 0A200800
+
+// Max Inventory Items
+Author = libretro-database contributors / original PSP cheat authors
+20002010 28A20009
+20002014 14400004
+20002018 2A22000E
+2000201C 10400002
+20002020 24020063
+20002024 AC820000
+20002028 0A229747
+2000202C 8C820000
+200A5D14 0A200800
+
+// Score Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+20002030 00052840
+20002034 0E22242B
+2000203C 0A249DE1
+2012777C 0A20080C
+
+// Score Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20002030 00052880
+20002034 0E22242B
+2000203C 0A249DE1
+2012777C 0A20080C
+
+// Score Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+20002030 000528C0
+20002034 0E22242B
+2000203C 0A249DE1
+2012777C 0A20080C
+
+// Score Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+20002030 00052900
+20002034 0E22242B
+2000203C 0A249DE1
+2012777C 0A20080C

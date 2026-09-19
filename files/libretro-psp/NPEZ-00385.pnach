@@ -1,0 +1,13 @@
+# PSP cheat pack
+# Serial: NPEZ-00385
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Always Correct Access Code
+Author = libretro-database contributors / original PSP cheat authors
+200486FC 24020000
+2004D644 24020000
+200505E8 24020000
+
+// Lasers Don't Kill
+Author = libretro-database contributors / original PSP cheat authors
+2003F688 10000106

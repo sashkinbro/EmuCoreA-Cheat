@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: NPJG-90088
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Troops Speed: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2016E748 3C024080
+
+// Troops Speed: Maniac
+Author = libretro-database contributors / original PSP cheat authors
+2016E748 3C024100
+
+// Troops Speed: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2016E748 3C023FF0
+
+// Troops Speed: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2016E748 3C024040

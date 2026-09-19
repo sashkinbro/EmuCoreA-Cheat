@@ -1,0 +1,16 @@
+# PSP cheat pack
+# Serial: NPEZ-00297
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Disable Moves Counter
+Author = libretro-database contributors / original PSP cheat authors
+20008138 24A50000
+2000A3BC 26310000
+
+// Timer
+Author = libretro-database contributors / original PSP cheat authors
+2000AB50 02248821
+
+// Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2000AB50 02208821

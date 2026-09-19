@@ -1,0 +1,33 @@
+# PSP cheat pack
+# Serial: NPJH-00069
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// EX 9999
+Author = libretro-database contributors / original PSP cheat authors
+6039B464 461C4000
+00020002 00000018
+2000054C 00000000
+
+// Hit-9999
+Author = libretro-database contributors / original PSP cheat authors
+6039B464 0000270F
+00010002 00000014
+2000054C 00000000
+
+// HP-9999
+Author = libretro-database contributors / original PSP cheat authors
+6039B464 0000270F
+00010002 0000000C
+2000054C 00000000
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+6039B464 00000000
+00010002 00000008
+2000054C 00000000
+
+// One Hit
+Author = libretro-database contributors / original PSP cheat authors
+6039B464 461C4000
+00020002 0000001C
+2000054C 00000000

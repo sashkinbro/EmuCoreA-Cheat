@@ -1,0 +1,20 @@
+# PSP cheat pack
+# Serial: NPEZ-00242
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20002000 24110063
+20002004 0A206105
+20002008 AE110014
+2001840C 0A200800
+20018410 8E04001C
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+20002010 3C110001
+20002014 3631869F
+20002018 0A206123
+2000201C AE110018
+20018484 0A200804
+20018488 8E040020

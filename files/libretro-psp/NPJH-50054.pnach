@@ -1,0 +1,119 @@
+# PSP cheat pack
+# Serial: NPJH-50054
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Battle Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+C00B0E30 00000000
+C00B1004 00000000
+
+// Equipment All
+Author = libretro-database contributors / original PSP cheat authors
+8065EBA4 008F0004
+00000050 00000000
+
+// Item All
+Author = libretro-database contributors / original PSP cheat authors
+8065EE20 00090004
+00000050 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+2046F1DC 0098967F
+
+// No Encount
+Author = libretro-database contributors / original PSP cheat authors
+0046A518 00000000
+
+// Puromaido All
+Author = libretro-database contributors / original PSP cheat authors
+8065EDEC 000D0004
+00000001 00000000
+
+// Win Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+C013081C 0E200400
+C013090C 0E200404
+20001000 8E660288
+20001004 03E00008
+20001008 00063040
+20001010 8E670288
+20001014 03E00008
+20001018 00073840
+
+// Win Exp. x4
+Author = libretro-database contributors / original PSP cheat authors
+C013081C 0E200400
+C013090C 0E200404
+20001000 8E660288
+20001004 03E00008
+20001008 00063080
+20001010 8E670288
+20001014 03E00008
+20001018 00073880
+
+// Win Exp. x8
+Author = libretro-database contributors / original PSP cheat authors
+C013081C 0E200400
+C013090C 0E200404
+20001000 8E660288
+20001004 03E00008
+20001008 000630C0
+20001010 8E670288
+20001014 03E00008
+20001018 000738C0
+
+// Win Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+C013081C 0E200400
+C013090C 0E200404
+20001000 8E660288
+20001004 03E00008
+20001008 00063100
+20001010 8E670288
+20001014 03E00008
+20001018 00073900
+
+// Win Exp. x32
+Author = libretro-database contributors / original PSP cheat authors
+C013081C 0E200400
+C013090C 0E200404
+20001000 8E660288
+20001004 03E00008
+20001008 00063140
+20001010 8E670288
+20001014 03E00008
+20001018 00073940
+
+// Win Exp. x64
+Author = libretro-database contributors / original PSP cheat authors
+C013081C 0E200400
+C013090C 0E200404
+20001000 8E660288
+20001004 03E00008
+20001008 00063180
+20001010 8E670288
+20001014 03E00008
+20001018 00073980
+
+// Win Exp. x128
+Author = libretro-database contributors / original PSP cheat authors
+C013081C 0E200400
+C013090C 0E200404
+20001000 8E660288
+20001004 03E00008
+20001008 000631C0
+20001010 8E670288
+20001014 03E00008
+20001018 000739C0
+
+// Win Exp. x256
+Author = libretro-database contributors / original PSP cheat authors
+C013081C 0E200400
+C013090C 0E200404
+20001000 8E660288
+20001004 03E00008
+20001008 00063200
+20001010 8E670288
+20001014 03E00008
+20001018 00073A00

@@ -89,6 +89,27 @@ SERIALS = {
     "NPEH-00007",    "NPEH-00017",    "NPEH-00020",    "NPEH-00021",    "NPEH-00027",
     "NPEH-00029",    "NPEH-00031",    "NPEH-00033",    "NPEH-00064",    "NPEH-00065",
     "NPEH-00073",    "NPEH-00076",    "NPEH-00077",    "NPEH-00100",    "NPEH-00124",
+    # Batch 016: 100 additional PSP serials from the same pinned libretro snapshot.
+    "NPEZ-00242",    "NPEZ-00250",    "NPEZ-00272",    "NPEZ-00294",    "NPEZ-00297",
+    "NPEZ-00306",    "NPEZ-00308",    "NPEZ-00310",    "NPEZ-00311",    "NPEZ-00313",
+    "NPEZ-00317",    "NPEZ-00318",    "NPEZ-00319",    "NPEZ-00320",    "NPEZ-00321",
+    "NPEZ-00322",    "NPEZ-00327",    "NPEZ-00328",    "NPEZ-00330",    "NPEZ-00331",
+    "NPEZ-00333",    "NPEZ-00339",    "NPEZ-00343",    "NPEZ-00344",    "NPEZ-00346",
+    "NPEZ-00347",    "NPEZ-00350",    "NPEZ-00351",    "NPEZ-00354",    "NPEZ-00357",
+    "NPEZ-00362",    "NPEZ-00363",    "NPEZ-00365",    "NPEZ-00374",    "NPEZ-00385",
+    "NPEZ-00391",    "NPEZ-00400",    "NPEZ-00401",    "NPEZ-00416",    "NPEZ-00417",
+    "NPEZ-00419",    "NPEZ-00420",    "NPEZ-00436",    "NPEZ-00444",    "NPEZ-00469",
+    "NPEZ-01264",    "NPHG-00013",    "NPHG-00014",    "NPHG-00024",    "NPHG-00025",
+    "NPHG-00032",    "NPHG-00035",    "NPHG-00080",    "NPHG-00087",    "NPHG-00091",
+    "NPHG-00092",    "NPHH-00061",    "NPHH-00293",    "NPHH-00351",    "NPJB-40002",
+    "NPJB-40003",    "NPJG-00013",    "NPJG-00017",    "NPJG-00034",    "NPJG-00035",
+    "NPJG-00044",    "NPJG-00045",    "NPJG-00103",    "NPJG-00116",    "NPJG-00122",
+    "NPJG-90009",    "NPJG-90025",    "NPJG-90034",    "NPJG-90068",    "NPJG-90070",
+    "NPJG-90088",    "NPJG-90095",    "NPJH-00002",    "NPJH-00004",    "NPJH-00007",
+    "NPJH-00008",    "NPJH-00018",    "NPJH-00019",    "NPJH-00026",    "NPJH-00069",
+    "NPJH-00126",    "NPJH-00142",    "NPJH-50006",    "NPJH-50007",    "NPJH-50040",
+    "NPJH-50050",    "NPJH-50054",    "NPJH-50065",    "NPJH-50075",    "NPJH-50076",
+    "NPJH-50093",    "NPJH-50119",    "NPJH-50141",    "NPJH-50144",    "NPJH-50145",
     # Batch 015: 100 additional PSP serials from the same pinned libretro snapshot.
     "NPEH-00154",    "NPEH-00166",    "NPEH-00170",    "NPEH-10029",    "NPEH-90001",
     "NPEH-90006",    "NPEH-90011",    "NPEH-90014",    "NPEH-90015",    "NPEH-90022",
@@ -172,7 +193,7 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--source", type=Path, default=Path(__file__).parents[2] / "libretro-database-psp")
     parser.add_argument("--repo", type=Path, default=Path(__file__).parents[1])
-    parser.add_argument("--batch-id", default="batch-015")
+    parser.add_argument("--batch-id", default="batch-016")
     parser.add_argument("--release-version", default="cheat-catalog")
     args = parser.parse_args()
     source_root = args.source.resolve() / "cht" / "Sony - PlayStation Portable"

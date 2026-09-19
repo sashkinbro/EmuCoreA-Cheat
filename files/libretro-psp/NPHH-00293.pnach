@@ -1,0 +1,133 @@
+# PSP cheat pack
+# Serial: NPHH-00293
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Force 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20415444 00000001
+20415448 00000001
+
+// All Equiment
+Author = libretro-database contributors / original PSP cheat authors
+803BFDBA 02A50004
+00000064 00000000
+
+// All Ring
+Author = libretro-database contributors / original PSP cheat authors
+803C0866 024E0004
+00000064 00000000
+
+// All Summon
+Author = libretro-database contributors / original PSP cheat authors
+803C125F 003D0004
+00000003 00000000
+
+// AP Max Battle
+Author = libretro-database contributors / original PSP cheat authors
+112F0EE8 0000270F
+
+// Battle End AP Max
+Author = libretro-database contributors / original PSP cheat authors
+C00B948C 00000000
+
+// Battle End Lv. 100
+Author = libretro-database contributors / original PSP cheat authors
+601D8020 00000064
+00010003 00000000
+20000038 2000052C
+
+// CP Limit Off
+Author = libretro-database contributors / original PSP cheat authors
+E0021080 002CDC12
+202CDC10 10000005
+202DCA8C 10000002
+
+// Enemy Assist Attack 0
+Author = libretro-database contributors / original PSP cheat authors
+601D8020 00000000
+00020003 0000001C
+2000003C 2000052C
+
+// Enemy Brave Attack 0
+Author = libretro-database contributors / original PSP cheat authors
+601D8020 00000000
+00010003 00000014
+2000003C 2000052C
+
+// Enemy EX Gauge 0
+Author = libretro-database contributors / original PSP cheat authors
+601D8020 00000000
+00020003 00000018
+2000003C 2000052C
+
+// Enemy HP 0 In Battle
+Author = libretro-database contributors / original PSP cheat authors
+601D8020 00000000
+00020003 0000000C
+2000003C 2000052C
+
+// Enemy HP Attack 0
+Author = libretro-database contributors / original PSP cheat authors
+601D8020 0001869F
+00020003 00000008
+2000003C 2000052C
+
+// Equipment Limit Off
+Author = libretro-database contributors / original PSP cheat authors
+E0021080 002FA772
+200C2E68 2411FFFF
+202FA770 10000003
+
+// Gil Max
+Author = libretro-database contributors / original PSP cheat authors
+203C13A0 05F5E0FF
+
+// KP
+Author = libretro-database contributors / original PSP cheat authors
+203EFCBC 05F5E0FF
+
+// Labyrinth Mode Medal Max
+Author = libretro-database contributors / original PSP cheat authors
+20ED1274 002E00FF
+
+// Player Brave Max
+Author = libretro-database contributors / original PSP cheat authors
+601D8020 0000270F
+00010003 00000014
+20000038 2000052C
+
+// Player EX Max
+Author = libretro-database contributors / original PSP cheat authors
+601D8020 461C4000
+00020003 00000018
+20000038 2000052C
+
+// Player HP Max In Battle
+Author = libretro-database contributors / original PSP cheat authors
+601D8020 0001869F
+00020003 0000000C
+20000038 2000052C
+
+// Player HP Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+601D8020 00000000
+00020003 00000008
+20000038 2000052C
+
+// PP
+Author = libretro-database contributors / original PSP cheat authors
+203CE4D8 05F5E0FF
+
+// Push L Button Assist
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10000100
+601D8020 461C4000
+00020003 0000001C
+20000038 2000052C
+
+// R+□ EX Gauge Maximum
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10008200
+601D8020 461C4000
+00020003 00000018
+20000038 2000052C

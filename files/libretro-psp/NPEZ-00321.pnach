@@ -1,0 +1,95 @@
+# PSP cheat pack
+# Serial: NPEZ-00321
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Score Multiplier x3
+Author = libretro-database contributors / original PSP cheat authors
+20002010 24120003
+20002014 0A208BE3
+20002018 AC920060
+20022F84 0A200804
+
+// Score Multiplier x6
+Author = libretro-database contributors / original PSP cheat authors
+20002010 24120006
+20002014 0A208BE3
+20002018 AC920060
+20022F84 0A200804
+
+// Score Multiplier x9
+Author = libretro-database contributors / original PSP cheat authors
+20002010 24120009
+20002014 0A208BE3
+20002018 AC920060
+20022F84 0A200804
+
+// Score Multiplier Codes [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20022F84 8C920060
+
+// Start At Construction Yard
+Author = libretro-database contributors / original PSP cheat authors
+2002E3B4 24040003
+2002E3BC ACA41714
+2002E648 24040003
+2002E64C AFC41714
+
+// Start At Prison
+Author = libretro-database contributors / original PSP cheat authors
+2002E3B4 24040000
+2002E3BC ACA41714
+2002E648 24040000
+2002E64C AFC41714
+
+// Start At Rooftops
+Author = libretro-database contributors / original PSP cheat authors
+2002E3B4 24040005
+2002E3BC ACA41714
+2002E648 24040005
+2002E64C AFC41714
+
+// Start At Sewers
+Author = libretro-database contributors / original PSP cheat authors
+2002E3B4 24040002
+2002E3BC ACA41714
+2002E648 24040002
+2002E64C AFC41714
+
+// Start At Suburbs
+Author = libretro-database contributors / original PSP cheat authors
+2002E3B4 24040004
+2002E3BC ACA41714
+2002E648 24040004
+2002E64C AFC41714
+
+// Start At Underground
+Author = libretro-database contributors / original PSP cheat authors
+2002E3B4 24040001
+2002E3BC ACA41714
+2002E648 24040001
+2002E64C AFC41714
+
+// Timer Speed Mod: Even Faster
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0E3E00
+20002004 0A209F7E
+20002008 448E6800
+20027DF0 0A200800
+
+// Timer Speed Mod: Faster
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0E3E80
+20002004 0A209F7E
+20002008 448E6800
+20027DF0 0A200800
+
+// Timer Speed Mod: Hyper Mode
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0E3E80
+20002004 0A209F7E
+20002008 448E6800
+20027DF0 0A200800
+
+// Timer Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20027DF0 C62D0000

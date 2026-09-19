@@ -1,0 +1,71 @@
+# PSP cheat pack
+# Serial: NPJB-40002
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS (Beta)
+Author = libretro-database contributors / original PSP cheat authors
+200F0A8C 00000000
+
+// Almost All Props
+Author = libretro-database contributors / original PSP cheat authors
+007F8C09 00000063
+007F8C0A 00000063
+007F8C0B 00000063
+007F8C0C 00000063
+007F8C0D 00000063
+007F8C0E 00000063
+007F8C0F 00000063
+007F8C10 00000063
+
+// Automatically Play
+Author = libretro-database contributors / original PSP cheat authors
+2001E390 00152021
+2001E3A4 10000011
+
+// Full Collection
+Author = libretro-database contributors / original PSP cheat authors
+807F8C14 00090001
+000000FF 00000000
+407F8CA8 000C0001
+FFFFFFFF 00000000
+107F8CDA 0000FFFF
+407F8CDC 00030001
+207F8CE8 FFFFFFFF
+
+// Full Consumption Props
+Author = libretro-database contributors / original PSP cheat authors
+807F8C09 00080001
+
+// Full CG Open
+Author = libretro-database contributors / original PSP cheat authors
+407F8C98 00030001
+FFFFFFFF 00000000
+207F8CA4 0FFFFFFF
+
+// Full Event
+Author = libretro-database contributors / original PSP cheat authors
+807F8CFC 00080001
+000000FF 00000000
+
+// Full Option Is On
+Author = libretro-database contributors / original PSP cheat authors
+107F8CD8 000001FF
+
+// Full Sound Open
+Author = libretro-database contributors / original PSP cheat authors
+207F8C2C 000FFFFF
+207F8C34 000FFFFF
+
+// Full Voice
+Author = libretro-database contributors / original PSP cheat authors
+407F8C38 000B0001
+FFFFFFFF 00000000
+107F8C64 000001FF
+
+// Tension Max
+Author = libretro-database contributors / original PSP cheat authors
+207F6FB8 00000147
+
+// The Song Is Full
+Author = libretro-database contributors / original PSP cheat authors
+207F8C20 000FFFFF

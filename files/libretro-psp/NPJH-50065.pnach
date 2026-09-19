@@ -1,0 +1,353 @@
+# PSP cheat pack
+# Serial: NPJH-50065
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Accessory 99
+Author = libretro-database contributors / original PSP cheat authors
+8043AFBE 023D0004
+10000063 00000000
+
+// After Battle AP 256 [X=Time AP]
+Author = libretro-database contributors / original PSP cheat authors
+C01F38E4 0007F200
+
+// All Chara. Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+8042CF0C 001604B6
+1000FFFF 00000000
+
+// All Character
+Author = libretro-database contributors / original PSP cheat authors
+00457C88 000000FF
+00457C89 000000FF
+00457C8A 000000FF
+
+// All Items From Shop
+Author = libretro-database contributors / original PSP cheat authors
+C027DD68 34840002
+C027DD6C A2C40003
+C027E358 34A50002
+C027E35C A2A50003
+C027E898 34C60001
+C027E89C A2660001
+
+// All Summon
+Author = libretro-database contributors / original PSP cheat authors
+8043B8C0 00330008
+10000003 00000000
+
+// An Exchange Any Exchangeable Items From Shop 2
+Author = libretro-database contributors / original PSP cheat authors
+C01F4604 00000000
+
+// AP Max After Battle
+Author = libretro-database contributors / original PSP cheat authors
+201F3878 00000000
+
+// AP N Times [x=0~7]
+Author = libretro-database contributors / original PSP cheat authors
+201F38E4 0007F
+
+// Brave Max
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 0000270F
+00010003 0000000A
+20000014 2000051C
+603A4720 270F270F
+00020003 0000000C
+
+// Can Exchange Any Exchangeable Items From Shop 1
+Author = libretro-database contributors / original PSP cheat authors
+C027F194 34050000
+
+// Can Exchange Any Exchangeable Items From Shop 2
+Author = libretro-database contributors / original PSP cheat authors
+C01F4604 00000000
+
+// Change My Replacement 99
+Author = libretro-database contributors / original PSP cheat authors
+C01F3BC4 00000000
+
+// Control An Enemy [L+O Remember L+? Copy The Coordinates Of Their Own Enemies,L+X Unlocked]
+Author = libretro-database contributors / original PSP cheat authors
+D0000008 10002100
+F09C3F08 F069CE02
+586DA77B 14A9D02E
+0FF28842 1A6E3C08
+4683F0C1 524B6F4C
+8CBF9735 38EF0AED
+47D54AC4 72D1C561
+4BD546C8 7ED1C96D
+A1BEA149 04A2B8F1
+0A3E0822 0A080000
+D0000000 10008100
+10000FFC 00000001
+D0000000 10004100
+10000FFC 00000000
+E0090001 00000FFC
+F065FE08 3058FC02
+4A83F0C5 5E4B6F48
+ACE289E5 A4AF88C0
+9762871F 8AA7FD95
+9B628B1B 86A7F191
+51E9F1C8 EC5AF6C0
+
+// CP Seigen Kaijo
+Author = libretro-database contributors / original PSP cheat authors
+C0223444 10000005
+C022F3B8 64060000
+
+// CPU Invisible
+Author = libretro-database contributors / original PSP cheat authors
+603FED3C 00000000
+00020001 00000040
+603FED4C 00000000
+603FED5C 00000000
+
+// Destiny Points Change
+Author = libretro-database contributors / original PSP cheat authors
+C01BA9D8 24070007
+
+// Destiny Points Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+C01BA9D8 00000000
+
+// DP Change
+Author = libretro-database contributors / original PSP cheat authors
+201BA9D8 2407000
+
+// During Battle Current HP Max
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 0000270F
+00010003 00000008
+20000014 2000051C
+
+// During Exchange Items Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+C027B3A4 34040000
+
+// Enemy Brave 0
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 00000000
+00010003 0000000A
+20000018 2000051C
+00020003 0000000C
+
+// Enemy EX 0
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 00000000
+00020003 00000014
+20000018 2000051C
+
+// Enemy HP 0
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 0000270F
+00010003 00000002
+20000018 2000051C
+603A4720 270F270F
+00020003 00000004
+
+// Enemy Speed 1/4
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 3E800000
+00020002 000003B0
+20000018 00000000
+00020002 000003BC
+
+// EnemyShoukan 0
+Author = libretro-database contributors / original PSP cheat authors
+603A6320 00000000
+00020002 00004E6C
+2000003C 00000000
+
+// EX Gauge Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 461C4000
+00020003 00000014
+20000014 2000051C
+
+// EX Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 461C4000
+00020003 00000014
+20000014 2000051C
+
+// Exp. N Times (x4) [xx=04(2)-20(256)]
+Author = libretro-database contributors / original PSP cheat authors
+20123508 00113040
+
+// Freeze Opponents Movement
+Author = libretro-database contributors / original PSP cheat authors
+D0000008 10002100
+F09C3F08 F069CE02
+586DA77B 14A9D02E
+0FF28842 1A6E3C08
+4683F0C1 524B6F4C
+8CBF9735 38EF0AED
+47D54AC4 72D1C561
+4BD546C8 7ED1C96D
+A1BEA149 04A2B8F1
+0A3E0822 0A080000
+D0000000 10008100
+10000FFC 00000001
+D0000000 10004100
+10000FFC 00000000
+E0090001 00000FFC
+F065FE08 3058FC02
+4A83F0C5 5E4B6F48
+ACE289E5 A4AF88C0
+9762871F 8AA7FD95
+9B628B1B 86A7F191
+51E9F1C8 EC5AF6C0
+
+// Geography Bypas
+Author = libretro-database contributors / original PSP cheat authors
+C01CB9F8 24020001
+
+// Gil Max
+Author = libretro-database contributors / original PSP cheat authors
+2043BB20 05F5E0FF
+
+// HP Attack? Times
+Author = libretro-database contributors / original PSP cheat authors
+C0135BC4 00122A80
+
+// HP Attacks XXX Times
+Author = libretro-database contributors / original PSP cheat authors
+C0135BC4 00122A80
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 00000000
+00010003 00000002
+20000014 2000051C
+00020003 00000004
+
+// HP Jougen Max
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 0000270F
+00010003 00000008
+20000014 2000051C
+
+// HP Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 00000000
+00010003 00000002
+20000014 2000051C
+00020003 00000004
+
+// Invisible
+Author = libretro-database contributors / original PSP cheat authors
+603FEAD4 00000000
+00020001 00000040
+603FEAE4 00000000
+603FEAF4 00000000
+
+// Kakutoku Exp. x256
+Author = libretro-database contributors / original PSP cheat authors
+C0123508 00113200
+
+// Max AP After Battle [Master]
+Author = libretro-database contributors / original PSP cheat authors
+C01F3878 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+2043BB20 05F5E0FF
+
+// Muteki Shogaibutu Mushi
+Author = libretro-database contributors / original PSP cheat authors
+F05A6C05 0224C002
+9AE6E1F0 363B8311
+0AF30849 1A2E0000
+0634DF81 86D93CC8
+4A9AA0A0 D2ACA3A6
+0A3E084B 09E80000
+
+// PP [0-3B9AC9FF]
+Author = libretro-database contributors / original PSP cheat authors
+20446240 05F5E0FF
+
+// PP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+C0299E68 00000000
+
+// PP kakutoku Max
+Author = libretro-database contributors / original PSP cheat authors
+C01131BC 00000000
+
+// PP Max
+Author = libretro-database contributors / original PSP cheat authors
+20446240 05F5E0FF
+
+// PP Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+C0299E68 00000000
+
+// PPMax
+Author = libretro-database contributors / original PSP cheat authors
+20446240 05F5E0FF
+
+// Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+C00B5E84 00000000
+
+// Shokan Inf.
+Author = libretro-database contributors / original PSP cheat authors
+603A6320 00000001
+00020002 00004E6C
+20000038 00000000
+
+// Soubi Seigen Kaijo
+Author = libretro-database contributors / original PSP cheat authors
+C01FA3C8 00401027
+C0243420 00401027
+
+// Teki Brave 0
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 00000000
+00010003 0000000A
+20000018 2000051C
+00020003 0000000C
+
+// Teki EX 0
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 00000000
+00020003 00000014
+20000018 2000051C
+
+// Teki HP Jougen 0
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 00000000
+00010003 00000008
+20000018 2000051C
+
+// Teki HP 0
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 0000270F
+00010003 00000002
+20000018 2000051C
+603A4720 270F270F
+00020003 00000004
+
+// Teki Shoukan 0
+Author = libretro-database contributors / original PSP cheat authors
+603A6320 00000000
+00020002 00004E6C
+2000003C 00000000
+
+// Teki Speed 1/4
+Author = libretro-database contributors / original PSP cheat authors
+603A4720 3E800000
+00020002 000003B0
+20000018 00000000
+00020002 000003BC
+
+// Weapon & Armor 99
+Author = libretro-database contributors / original PSP cheat authors
+8043A7BE 01DB0004
+10000063 00000000
+
+// When Level Up, Level Will Be Max
+Author = libretro-database contributors / original PSP cheat authors
+C00B5E8C 24040064

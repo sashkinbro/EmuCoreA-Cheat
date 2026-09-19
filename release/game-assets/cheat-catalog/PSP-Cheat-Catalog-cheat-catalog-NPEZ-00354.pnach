@@ -1,0 +1,18 @@
+# PSP cheat pack
+# Serial: NPEZ-00354
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Mistake Meter
+Author = libretro-database contributors / original PSP cheat authors
+2001B768 00000000
+2001B8F8 00000000
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8D290004
+20002004 240FFFFF
+20002008 152F0002
+20002010 AD200004
+20002014 0A20A1B7
+200286D0 01267021
+200286D4 0A200800

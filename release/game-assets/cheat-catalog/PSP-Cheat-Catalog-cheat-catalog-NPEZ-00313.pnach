@@ -1,0 +1,36 @@
+# PSP cheat pack
+# Serial: NPEZ-00313
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Base Health
+Author = libretro-database contributors / original PSP cheat authors
+2000D8C0 8C820044
+2000D8C4 AC820040
+
+// Infinite Health/Shield
+Author = libretro-database contributors / original PSP cheat authors
+20002000 A3A00014
+20002004 3C0F453B
+20002008 35EF8000
+2000200C AC8F0094
+20002010 3C0F44FA
+20002014 0A202923
+20002018 AC8F0098
+2000A484 0A200800
+
+// Timer
+Author = libretro-database contributors / original PSP cheat authors
+200626F4 460D6300
+
+// Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200626F4 00000000
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+20002020 3442869F
+20002024 03E00008
+20002028 AC620000
+200628C4 00441821
+200628C8 3C020001
+200628CC 0A200808

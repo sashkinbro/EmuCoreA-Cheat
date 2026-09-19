@@ -1,0 +1,40 @@
+# PSP cheat pack
+# Serial: NPEZ-00319
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1000 Zombie Hearts
+Author = libretro-database contributors / original PSP cheat authors
+20EA1630 000003E7
+20EC1AF4 000003E7
+20EC1AF8 000003E7
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20EA162C 000003E7
+20EC1AE8 000003E7
+
+// Infinite Energy
+Author = libretro-database contributors / original PSP cheat authors
+20002010 0E209530
+20002018 0A213623
+2000201C AE820204
+2004D884 0A200804
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20EA1628 00000190
+20EC1AE0 00000118
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+20002000 0E209529
+20002008 0A2135EA
+2000200C AE820200
+2004D7A0 0A200800
+
+// Max Zombie Hearts
+Author = libretro-database contributors / original PSP cheat authors
+20002020 2404270F
+20002024 0A2134B9
+20002028 AE040208
+2004D2DC 0A200808

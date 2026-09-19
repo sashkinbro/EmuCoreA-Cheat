@@ -1,0 +1,61 @@
+# PSP cheat pack
+# Serial: NPJG-00044
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Have Drones
+Author = libretro-database contributors / original PSP cheat authors
+2004CD70 24020001
+
+// Have EMP
+Author = libretro-database contributors / original PSP cheat authors
+2004CD70 24020002
+
+// Have Lightning
+Author = libretro-database contributors / original PSP cheat authors
+2004CD70 24020003
+
+// Have Plasma Ball
+Author = libretro-database contributors / original PSP cheat authors
+2004CD70 24020000
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2004CD8C 00000000
+
+// Infinite Fuel
+Author = libretro-database contributors / original PSP cheat authors
+2003EEF0 C64C0010
+2003EEF8 E60C00C0
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20002000 2406000A
+20002004 0A215B4F
+20002008 AE460224
+20056D34 0A200800
+
+// Infinite Shield
+Author = libretro-database contributors / original PSP cheat authors
+2003F46C 1000003A
+2003F558 C64C0014
+2003F564 E60C00C8
+
+// Score Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+2004AAF0 00052840
+2004AB00 10E0002D
+
+// Score Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+2004AAF0 00052880
+2004AB00 10E0002D
+
+// Score Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+2004AAF0 000528C0
+2004AB00 10E0002D
+
+// Score Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+2004AAF0 00052900
+2004AB00 10E0002D

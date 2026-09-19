@@ -1,0 +1,10 @@
+# PSP cheat pack
+# Serial: NPEZ-00317
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 2402000E
+20002004 0A2052A0
+20002008 AEC20020
+20014A78 0A200800

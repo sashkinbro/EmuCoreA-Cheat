@@ -1,0 +1,239 @@
+# PSP cheat pack
+# Serial: NPJH-50040
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Academic
+Author = libretro-database contributors / original PSP cheat authors
+00666898 000003E7
+
+// Academics, Charm, Courage
+Author = libretro-database contributors / original PSP cheat authors
+80666898 00030001
+100003E0 00000000
+
+// Academics, Charm, Courage v2
+Author = libretro-database contributors / original PSP cheat authors
+406671F5 003F0001
+60606060 00000000
+80666898 00030001
+100003E0 00000000
+
+// All Compendium Open
+Author = libretro-database contributors / original PSP cheat authors
+21397164 03E7270F
+21397168 636303E7
+2139716C 63636363
+213971E0 270F270F
+213971E4 03E703E7
+213971E8 63636363
+21397260 03E7270F
+21397264 636303E7
+21397268 63636363
+213972DC 270F270F
+213972E0 03E703E7
+213972E4 63636363
+
+// All Items
+Author = libretro-database contributors / original PSP cheat authors
+406671F5 003F0001
+60606060 00000000
+80666898 00030001
+100003E0 00000000
+
+// All Skill Cards
+Author = libretro-database contributors / original PSP cheat authors
+40667384 003E0001
+60606060 00000000
+
+// All Time Cutin
+Author = libretro-database contributors / original PSP cheat authors
+201C9060 00000000
+201C9080 10000003
+201C90B4 1000038E
+
+// Charm
+Author = libretro-database contributors / original PSP cheat authors
+0066689A 000003E7
+
+// Commu
+Author = libretro-database contributors / original PSP cheat authors
+200101A8 00000000
+
+// Condition Max
+Author = libretro-database contributors / original PSP cheat authors
+2000E3C0 24050002
+
+// Courage
+Author = libretro-database contributors / original PSP cheat authors
+0066689C 000003E7
+
+// Equip All
+Author = libretro-database contributors / original PSP cheat authors
+00666CF5 00000060
+10666CF6 00006060
+40666CF8 01260001
+60606060 00000000
+
+// Experience After Battle x2
+Author = libretro-database contributors / original PSP cheat authors
+202572FC 00051040
+
+// Experience After Battle x4
+Author = libretro-database contributors / original PSP cheat authors
+202572FC 00051080
+
+// Experience After Battle x8
+Author = libretro-database contributors / original PSP cheat authors
+202572FC 000510C0
+
+// Experience After Battle x16
+Author = libretro-database contributors / original PSP cheat authors
+202572FC 00051100
+
+// Experience After Battle x32
+Author = libretro-database contributors / original PSP cheat authors
+202572FC 00051140
+
+// Experience After Battle x64
+Author = libretro-database contributors / original PSP cheat authors
+202572FC 00051180
+
+// Experience After Battle x128
+Author = libretro-database contributors / original PSP cheat authors
+202572FC 000511C0
+
+// Experience After Battle x256
+Author = libretro-database contributors / original PSP cheat authors
+202572FC 00051200
+
+// Health Status: Great
+Author = libretro-database contributors / original PSP cheat authors
+2000E3C0 24050002
+
+// Health Status: Normal
+Author = libretro-database contributors / original PSP cheat authors
+0066BBB4 00000000
+
+// Health Status: Sick
+Author = libretro-database contributors / original PSP cheat authors
+0066BBB4 00000005
+
+// Health Status: Tired
+Author = libretro-database contributors / original PSP cheat authors
+0066BBB4 00000003
+
+// High Grow
+Author = libretro-database contributors / original PSP cheat authors
+202576A0 2403022B
+
+// Invisible
+Author = libretro-database contributors / original PSP cheat authors
+200C7404 24020000
+
+// Item All
+Author = libretro-database contributors / original PSP cheat authors
+406671F5 003F0001
+60606060 00000000
+
+// Max Academic
+Author = libretro-database contributors / original PSP cheat authors
+10666898 000003E7
+
+// Max Academic, Charm & Courage
+Author = libretro-database contributors / original PSP cheat authors
+20174264 240603E7
+
+// Max Charm
+Author = libretro-database contributors / original PSP cheat authors
+1066689A 000003E7
+
+// Max Courage
+Author = libretro-database contributors / original PSP cheat authors
+1066689C 000003E7
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+2066B3C4 0098967F
+
+// No Lv. Limit (Persona Fusion)
+Author = libretro-database contributors / original PSP cheat authors
+2005C338 00000000
+
+// No Lvl Limit When Creating Persona
+Author = libretro-database contributors / original PSP cheat authors
+2005C338 00000000
+
+// Non Dec. HP&SP (Skill Use)
+Author = libretro-database contributors / original PSP cheat authors
+20001F00 03E00008
+20001F04 24020000
+20233A3C 0A2007C0
+
+// Persona Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+11397162 0000270F
+113971EC 00006363
+1139725E 0000270F
+113972E8 00006363
+
+// Select+[Up] Repeat Select+[Down] Normal
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000011
+2000EC18 00000000
+2000EC30 00000000
+D0000000 10000041
+2000EC18 A0447486
+2000EC30 A044748E
+
+// Skill Card
+Author = libretro-database contributors / original PSP cheat authors
+40667384 00400001
+60606060 00000000
+
+// Total Recovery (After Battle)
+Author = libretro-database contributors / original PSP cheat authors
+201BFDAC 24020001
+
+// Use Skills Without Consuming HP/MP
+Author = libretro-database contributors / original PSP cheat authors
+20001F00 03E00008
+20001F04 24020000
+20233A3C 0A2007C0
+
+// Using Persona Skills Does Not Consume HP/SP
+Author = libretro-database contributors / original PSP cheat authors
+20001F00 03E00008
+20001F04 24020000
+20233A3C 0A2007C0
+
+// Hero Exp.
+Author = libretro-database contributors / original PSP cheat authors
+006668A0 000003E7
+
+// Hero HP
+Author = libretro-database contributors / original PSP cheat authors
+00666864 000003E7
+
+// Hero Lv.
+Author = libretro-database contributors / original PSP cheat authors
+00666862 000003E7
+
+// Hero SP
+Author = libretro-database contributors / original PSP cheat authors
+00666866 000003E7
+
+// Junpei HP
+Author = libretro-database contributors / original PSP cheat authors
+0066BB74 000003E7
+
+// Junpei SP
+Author = libretro-database contributors / original PSP cheat authors
+0066BB76 000003E7
+
+// Yukari HP
+Author = libretro-database contributors / original PSP cheat authors
+0066B82C 000003E7
+
+// Yukari SP
+Author = libretro-database contributors / original PSP cheat authors
+0066B82E 000003E7

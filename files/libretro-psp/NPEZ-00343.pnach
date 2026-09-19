@@ -1,0 +1,22 @@
+# PSP cheat pack
+# Serial: NPEZ-00343
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0405F5
+20002004 3484E0FF
+20002008 0A2063F4
+2000200C ADE40018
+20018FC8 00977821
+20018FCC 0A200800
+
+// Start On Final Lap
+Author = libretro-database contributors / original PSP cheat authors
+20002010 8DE4011C
+20002014 10850002
+2000201C 24A4FFFF
+20002020 ADE4011C
+20002024 0A20512C
+200144A4 00947821
+200144A8 0A200804

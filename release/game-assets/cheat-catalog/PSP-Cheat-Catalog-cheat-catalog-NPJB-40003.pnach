@@ -1,0 +1,74 @@
+# PSP cheat pack
+# Serial: NPJB-40003
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+208058F4 0A200400
+2077D400 3C0109C1
+2077D404 342145A0
+2077D408 54270001
+2077D40C A4E0000C
+2077D410 03E00008
+
+// Always Hyper Weapon Mod
+Author = libretro-database contributors / original PSP cheat authors
+01B8FB5B 0000000A
+21B8FAD4 00200000
+
+// Always Musou Mode
+Author = libretro-database contributors / original PSP cheat authors
+11B909A0 00002010
+11B86C56 0000FF25
+11B86A76 0000FF25
+
+// Always Musou Mode v2
+Author = libretro-database contributors / original PSP cheat authors
+01BFB9A7 0000002A
+
+// Combo
+Author = libretro-database contributors / original PSP cheat authors
+21BFBCCC 000000FF
+
+// Community PT 99999
+Author = libretro-database contributors / original PSP cheat authors
+21BBCF5C 0001869F
+
+// Infinity Jump
+Author = libretro-database contributors / original PSP cheat authors
+21B909C9 00000000
+
+// Infinite Jump V. 2
+Author = libretro-database contributors / original PSP cheat authors
+01B909C9 00000000
+01B909C8 00000001
+
+// Infinity Money
+Author = libretro-database contributors / original PSP cheat authors
+21BBCF64 05F5E0FF
+
+// Infinite Sprint
+Author = libretro-database contributors / original PSP cheat authors
+21B909C7 00000000
+
+// Lock HP
+Author = libretro-database contributors / original PSP cheat authors
+11B909AA 00000262
+11B909AC 00000262
+11B909AE 00000262
+
+// Lock Power
+Author = libretro-database contributors / original PSP cheat authors
+21B909B1 01F401F4
+
+// Money 9999999
+Author = libretro-database contributors / original PSP cheat authors
+21BBCF64 0098967F
+
+// Point
+Author = libretro-database contributors / original PSP cheat authors
+21BFBCD6 0000270F
+
+// Stop Time
+Author = libretro-database contributors / original PSP cheat authors
+20839378 24830000

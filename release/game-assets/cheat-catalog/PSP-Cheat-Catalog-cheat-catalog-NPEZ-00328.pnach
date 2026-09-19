@@ -1,0 +1,30 @@
+# PSP cheat pack
+# Serial: NPEZ-00328
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Lives (Both Players)
+Author = libretro-database contributors / original PSP cheat authors
+20002000 00000000
+20002004 24060009
+20002008 AE260000
+2000200C 0A201A60
+20002010 8E260000
+20006978 0A200800
+
+// Infinite Lives (Player 1 Only)
+Author = libretro-database contributors / original PSP cheat authors
+20002000 16600002
+20002004 24060009
+20002008 AE260000
+2000200C 0A201A60
+20002010 8E260000
+20006978 0A200800
+
+// Infinite Lives (Player 2 Only)
+Author = libretro-database contributors / original PSP cheat authors
+20002000 12600002
+20002004 24060009
+20002008 AE260000
+2000200C 0A201A60
+20002010 8E260000
+20006978 0A200800
