@@ -44,7 +44,12 @@ def main() -> int:
         for field in ("downloadUrl", "sourceUrl"):
             if not str(entry[field]).startswith("https://"):
                 fail(f"{field} must be HTTPS for {entry['id']}")
-        path = ROOT / "files" / "cwcheat-db-plus" / f"{entry['serials'][0]}.pnach"
+        relative_pack = entry.get("packPath", f"files/cwcheat-db-plus/{entry['serials'][0]}.pnach")
+        path = (ROOT / relative_pack).resolve()
+        try:
+            path.relative_to(ROOT.resolve())
+        except ValueError:
+            fail(f"packPath escapes repository for {entry['id']}")
         if not path.is_file():
             fail(f"missing pack {path}")
         text = path.read_text(encoding="utf-8")

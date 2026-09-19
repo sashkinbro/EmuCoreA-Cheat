@@ -126,6 +126,7 @@ def main() -> int:
             "authors": ["Saramagrean and the original CWCheat code authors"],
             "description": f"{block_count} serial-specific CWCheat blocks for {serial}; {excluded} malformed upstream blocks excluded during conversion.",
             "downloadUrl": f"https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/{serial}.pnach",
+            "packPath": f"files/cwcheat-db-plus/{serial}.pnach",
             "sourceUrl": SOURCE_PAGE,
             "sourceName": SOURCE_NAME,
             "license": LICENSE,
@@ -134,6 +135,17 @@ def main() -> int:
             "sha256": digest,
         })
         report.append({"serial": serial, "title": title, "blocks": block_count, "excluded": excluded, "sha256": digest})
+    # Keep packs produced by other approved source adapters (for example the
+    # libretro CC-BY-SA batch) when rebuilding the CWCheat source.
+    old_catalog_path = repo / "cheats.json"
+    if old_catalog_path.is_file():
+        old_catalog = json.loads(old_catalog_path.read_text(encoding="utf-8"))
+        preserved = [
+            entry for entry in old_catalog.get("entries", [])
+            if entry.get("sourceName") != SOURCE_NAME
+        ]
+        entries = preserved + entries
+        entries.sort(key=lambda entry: entry["serials"][0])
     catalog = {"schemaVersion": 1, "generatedAt": "2026-09-19T00:00:00Z", "entries": entries}
     (repo / "cheats.json").write_text(json.dumps(catalog, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     (repo / "build-report.json").write_text(json.dumps({"batch": args.batch_id, "release": args.release_version, "source": SOURCE_RAW, "sourceSha256": hashlib.sha256(canonical_source_bytes).hexdigest().upper(), "entries": report}, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")

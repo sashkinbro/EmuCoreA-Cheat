@@ -3,6 +3,25 @@
   "generatedAt": "2026-09-19T00:00:00Z",
   "entries": [
     {
+      "id": "libretro-psp-npjb-40001",
+      "title": "Monster Hunter Portable 3rd HD Ver.",
+      "serials": [
+        "NPJB-40001"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "169 libretro PSP cheat blocks for NPJB-40001; 18 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/NPJB-40001.pnach",
+      "packPath": "files/libretro-psp/NPJB-40001.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 169,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "277650F7D7C8D175351A4AF1FD961615005571ACD6E852C00201B94396E2CCFE"
+    },
+    {
       "id": "cwcheat-npjh-50107",
       "title": "Kidou Senshi Gundam: Gundam Vs. Gundam Next Plus (PlayStation Store) [JP]",
       "serials": [
@@ -13,12 +32,32 @@
       ],
       "description": "632 serial-specific CWCheat blocks for NPJH-50107; 62 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50107.pnach",
+      "packPath": "files/cwcheat-db-plus/NPJH-50107.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 632,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "B25AF0B5B09442BA389CC52AC953E54126A429087739CC5131A5EF479872C479"
+    },
+    {
+      "id": "libretro-psp-npjh-50332",
+      "title": "Phantasy Star Portable 2 Infinity (PlayStation Store)",
+      "serials": [
+        "NPJH-50332"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "185 libretro PSP cheat blocks for NPJH-50332; 18 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/NPJH-50332.pnach",
+      "packPath": "files/libretro-psp/NPJH-50332.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 185,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "8FF953C593EB5044D3AC053A955AD16DF07A09FFBE01A767C4F068FDDA892C48"
     },
     {
       "id": "cwcheat-npjh-50352",
@@ -31,6 +70,7 @@
       ],
       "description": "725 serial-specific CWCheat blocks for NPJH-50352; 43 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50352.pnach",
+      "packPath": "files/cwcheat-db-plus/NPJH-50352.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -49,6 +89,7 @@
       ],
       "description": "440 serial-specific CWCheat blocks for NPJH-50443; 45 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50443.pnach",
+      "packPath": "files/cwcheat-db-plus/NPJH-50443.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -67,12 +108,32 @@
       ],
       "description": "422 serial-specific CWCheat blocks for NPJH-50444; 34 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50444.pnach",
+      "packPath": "files/cwcheat-db-plus/NPJH-50444.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 422,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "5676C38998FA1940BD493D1CB9D61951DA502A5F55076367DE654EE7DB9C185E"
+    },
+    {
+      "id": "libretro-psp-npjh-50521",
+      "title": "Super Robot Taisen - Operation Extend",
+      "serials": [
+        "NPJH-50521"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "200 libretro PSP cheat blocks for NPJH-50521; 13 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/NPJH-50521.pnach",
+      "packPath": "files/libretro-psp/NPJH-50521.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 200,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C040977820F42F5A34564CCFC52CB58C89B79FE7B017D9B2E89533962733A2FA"
     },
     {
       "id": "cwcheat-npjh-50701",
@@ -85,12 +146,32 @@
       ],
       "description": "585 serial-specific CWCheat blocks for NPJH-50701; 20 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50701.pnach",
+      "packPath": "files/cwcheat-db-plus/NPJH-50701.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 585,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "E74369F3255B73DABB6C39C081CA92BB64737F9F434DAC98CEE529F4A8E32CAE"
+    },
+    {
+      "id": "libretro-psp-npjh-50789",
+      "title": "Toukiden",
+      "serials": [
+        "NPJH-50789"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "187 libretro PSP cheat blocks for NPJH-50789; 8 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/NPJH-50789.pnach",
+      "packPath": "files/libretro-psp/NPJH-50789.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 187,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "755E35C1F544A3EB0E293E10373399BA38A07BCAC378ACBB27221DA16F4ECCEC"
     },
     {
       "id": "cwcheat-npjh-50832",
@@ -103,6 +184,7 @@
       ],
       "description": "546 serial-specific CWCheat blocks for NPJH-50832; 62 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50832.pnach",
+      "packPath": "files/cwcheat-db-plus/NPJH-50832.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -121,6 +203,7 @@
       ],
       "description": "564 serial-specific CWCheat blocks for NPJH-50878; 145 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPJH-50878.pnach",
+      "packPath": "files/cwcheat-db-plus/NPJH-50878.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -139,6 +222,7 @@
       ],
       "description": "533 serial-specific CWCheat blocks for NPUH-10041; 9 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/NPUH-10041.pnach",
+      "packPath": "files/cwcheat-db-plus/NPUH-10041.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -157,6 +241,7 @@
       ],
       "description": "438 serial-specific CWCheat blocks for UCES-00995; 3 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/UCES-00995.pnach",
+      "packPath": "files/cwcheat-db-plus/UCES-00995.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -175,12 +260,32 @@
       ],
       "description": "572 serial-specific CWCheat blocks for UCES-01245; 3 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/UCES-01245.pnach",
+      "packPath": "files/cwcheat-db-plus/UCES-01245.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 572,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "7AC15FED4BC7FDA7895EB9E5695C9F590BE0C79F9ADF56D9B926C02F6624389C"
+    },
+    {
+      "id": "libretro-psp-uces-01327",
+      "title": "ModNation Racers",
+      "serials": [
+        "UCES-01327"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "119 libretro PSP cheat blocks for UCES-01327; 6 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/UCES-01327.pnach",
+      "packPath": "files/libretro-psp/UCES-01327.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 119,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "EC8554871E8A7E222AE04E903998532095206165746651C9DEDDCEB0CD34EC4F"
     },
     {
       "id": "cwcheat-ucjs-10100",
@@ -193,6 +298,7 @@
       ],
       "description": "544 serial-specific CWCheat blocks for UCJS-10100; 3 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/UCJS-10100.pnach",
+      "packPath": "files/cwcheat-db-plus/UCJS-10100.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -211,12 +317,51 @@
       ],
       "description": "703 serial-specific CWCheat blocks for UCUS-98632; 11 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/UCUS-98632.pnach",
+      "packPath": "files/cwcheat-db-plus/UCUS-98632.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 703,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "104C142DC66E33E0F639DFD8AC2940ECCE1854E77D8365E166F4DF6C390FBD0D"
+    },
+    {
+      "id": "libretro-psp-ucus-98645",
+      "title": "SOCOM - U.S. Navy Seals Fireteam Bravo 2",
+      "serials": [
+        "UCUS-98645"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "165 libretro PSP cheat blocks for UCUS-98645; 5 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/UCUS-98645.pnach",
+      "packPath": "files/libretro-psp/UCUS-98645.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 165,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "975E3CE1DF9F25217A443C818C904F2FB6AFCFD0B3D2E577BE64AA18A306BA69"
+    },
+    {
+      "id": "libretro-psp-ucus-98646",
+      "title": "Killzone - Liberation",
+      "serials": [
+        "UCUS-98646"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "279 libretro PSP cheat blocks for UCUS-98646; 12 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/UCUS-98646.pnach",
+      "packPath": "files/libretro-psp/UCUS-98646.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 279,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "8F62BD638905C1E1784862232B70CFB22369EDCCF569A38AE1AB66B147302483"
     },
     {
       "id": "cwcheat-ucus-98653",
@@ -229,12 +374,32 @@
       ],
       "description": "73 serial-specific CWCheat blocks for UCUS-98653; 17 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/UCUS-98653.pnach",
+      "packPath": "files/cwcheat-db-plus/UCUS-98653.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 73,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "3B624CB3F469FBB100CE8F9A90C7E0CCA382DC354280C93A005339F9E6631355"
+    },
+    {
+      "id": "libretro-psp-ucus-98668",
+      "title": "Resistance - Retribution",
+      "serials": [
+        "UCUS-98668"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "193 libretro PSP cheat blocks for UCUS-98668; 9 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/UCUS-98668.pnach",
+      "packPath": "files/libretro-psp/UCUS-98668.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 193,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "D2FF7077909420DF02D8BC8A893A250F4CFEC84BB83D9558729F5C867537FCE6"
     },
     {
       "id": "cwcheat-ucus-98737",
@@ -247,6 +412,7 @@
       ],
       "description": "34 serial-specific CWCheat blocks for UCUS-98737; 11 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/UCUS-98737.pnach",
+      "packPath": "files/cwcheat-db-plus/UCUS-98737.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -265,6 +431,7 @@
       ],
       "description": "133 serial-specific CWCheat blocks for UCUS-98751; 8 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/UCUS-98751.pnach",
+      "packPath": "files/cwcheat-db-plus/UCUS-98751.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -283,6 +450,7 @@
       ],
       "description": "403 serial-specific CWCheat blocks for ULAS-42060; 1 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULAS-42060.pnach",
+      "packPath": "files/cwcheat-db-plus/ULAS-42060.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -301,6 +469,7 @@
       ],
       "description": "345 serial-specific CWCheat blocks for ULES-00151; 12 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULES-00151.pnach",
+      "packPath": "files/cwcheat-db-plus/ULES-00151.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -319,6 +488,7 @@
       ],
       "description": "395 serial-specific CWCheat blocks for ULES-00176; 3 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULES-00176.pnach",
+      "packPath": "files/cwcheat-db-plus/ULES-00176.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -337,12 +507,32 @@
       ],
       "description": "415 serial-specific CWCheat blocks for ULES-00318; 3 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULES-00318.pnach",
+      "packPath": "files/cwcheat-db-plus/ULES-00318.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 415,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "A2DF5D5929266547F81AD6767DA0869FDDB0549CADB2B9BF416673304A09E9F7"
+    },
+    {
+      "id": "libretro-psp-ules-00503",
+      "title": "Grand Theft Auto - Vice City Stories",
+      "serials": [
+        "ULES-00503"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "201 libretro PSP cheat blocks for ULES-00503; 6 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULES-00503.pnach",
+      "packPath": "files/libretro-psp/ULES-00503.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 201,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C1DD551D5FE58289FBAAADF55E2B6F31BB9F33ECA259853DB32AFECCFB85D968"
     },
     {
       "id": "cwcheat-ules-00530",
@@ -355,12 +545,279 @@
       ],
       "description": "383 serial-specific CWCheat blocks for ULES-00530; 16 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULES-00530.pnach",
+      "packPath": "files/cwcheat-db-plus/ULES-00530.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 383,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "5B2F02B79514ADBBB47AF7783F82F63B7C3D2DE72AF37B11D5C1D74F70019ADC"
+    },
+    {
+      "id": "libretro-psp-ules-00657",
+      "title": "Valhalla Knights",
+      "serials": [
+        "ULES-00657"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "189 libretro PSP cheat blocks for ULES-00657; 2 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULES-00657.pnach",
+      "packPath": "files/libretro-psp/ULES-00657.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 189,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "4B975052CDD9036B71EE9DCD008F39F51EC86F41617052E3415B9C9625A56293"
+    },
+    {
+      "id": "libretro-psp-ules-01213",
+      "title": "Monster Hunter Freedom Unite",
+      "serials": [
+        "ULES-01213"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "171 libretro PSP cheat blocks for ULES-01213; 11 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULES-01213.pnach",
+      "packPath": "files/libretro-psp/ULES-01213.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 171,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7DB73C7A24CA6BA734B6FE358D716325D18D12C9772FC32AC54DAD84849ED7D6"
+    },
+    {
+      "id": "libretro-psp-ules-01416",
+      "title": "Dead Or Alive Paradise",
+      "serials": [
+        "ULES-01416"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "239 libretro PSP cheat blocks for ULES-01416; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULES-01416.pnach",
+      "packPath": "files/libretro-psp/ULES-01416.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 239,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "0CE026006714EFF29AB0C7DA5504234B9522B4CB7D852AE5C596E6F709D6AC73"
+    },
+    {
+      "id": "libretro-psp-ules-01523",
+      "title": "Persona 3 Portable",
+      "serials": [
+        "ULES-01523"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "271 libretro PSP cheat blocks for ULES-01523; 6 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULES-01523.pnach",
+      "packPath": "files/libretro-psp/ULES-01523.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 271,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "3D3EB0942B212FF7BC5BDE63E31BCC60106E703A6AE342C8C6628FCB831F9242"
+    },
+    {
+      "id": "libretro-psp-uljm-05255",
+      "title": "Grand Theft Auto - Liberty City Stories",
+      "serials": [
+        "ULJM-05255"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "221 libretro PSP cheat blocks for ULJM-05255; 11 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULJM-05255.pnach",
+      "packPath": "files/libretro-psp/ULJM-05255.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 221,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "CC11E691736A5BCE1AFD1850762C848488EC0D31EB80CAC390BEC8B0F22D5AB8"
+    },
+    {
+      "id": "libretro-psp-uljm-05261",
+      "title": "Metal Gear Solid - Portable Ops Plus",
+      "serials": [
+        "ULJM-05261"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "80 libretro PSP cheat blocks for ULJM-05261; 6 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULJM-05261.pnach",
+      "packPath": "files/libretro-psp/ULJM-05261.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 80,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "6F159B2A4FA623C650A8B5C3664948BB1135DC3CE7FB5E770CB076E18A44A2AD"
+    },
+    {
+      "id": "libretro-psp-uljm-05297",
+      "title": "Grand Theft Auto - Vice City Stories",
+      "serials": [
+        "ULJM-05297"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "229 libretro PSP cheat blocks for ULJM-05297; 6 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULJM-05297.pnach",
+      "packPath": "files/libretro-psp/ULJM-05297.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 229,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "F02F94AAC8A6EA4C3A820A6B5E2457D3AB5811F763DEC4B48E45779C2998A4C2"
+    },
+    {
+      "id": "libretro-psp-uljm-05309",
+      "title": "Phantasy Star Portable",
+      "serials": [
+        "ULJM-05309"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "113 libretro PSP cheat blocks for ULJM-05309; 2 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULJM-05309.pnach",
+      "packPath": "files/libretro-psp/ULJM-05309.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 113,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C391466566D37D11B028322C3343FC763F03788D54C47605FCBF77D54B1C12C5"
+    },
+    {
+      "id": "libretro-psp-uljm-05341",
+      "title": "Winning Post 6 2008",
+      "serials": [
+        "ULJM-05341"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "39 libretro PSP cheat blocks for ULJM-05341; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULJM-05341.pnach",
+      "packPath": "files/libretro-psp/ULJM-05341.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 39,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "05E64979A2F0B39E6827C0A29FFBD352521ECA407B312F7B4BDADF53D3D80C71"
+    },
+    {
+      "id": "libretro-psp-uljm-05402",
+      "title": "Musou Orochi - Maou Sairin",
+      "serials": [
+        "ULJM-05402"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "154 libretro PSP cheat blocks for ULJM-05402; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULJM-05402.pnach",
+      "packPath": "files/libretro-psp/ULJM-05402.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 154,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "D50201324BB31E3A3921306E171E3F8001F1FC7F13DF7B671210AC9F04C580F8"
+    },
+    {
+      "id": "libretro-psp-uljm-05500",
+      "title": "Monster Hunter Portable 2nd G",
+      "serials": [
+        "ULJM-05500"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "306 libretro PSP cheat blocks for ULJM-05500; 26 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULJM-05500.pnach",
+      "packPath": "files/libretro-psp/ULJM-05500.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 306,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "434CFD72E1A743C99E5369B28412B2AB436D62CDB6D160E9831CA6BA76D6F763"
+    },
+    {
+      "id": "libretro-psp-uljm-05505",
+      "title": "Ninja Katsugeki - Tenchu San Portable",
+      "serials": [
+        "ULJM-05505"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "129 libretro PSP cheat blocks for ULJM-05505; 5 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULJM-05505.pnach",
+      "packPath": "files/libretro-psp/ULJM-05505.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 129,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "D3060A8FE0455B5CFAAC1E0898C0E8AC61C2EC3717FB24C43ED1E0B2B59623E2"
+    },
+    {
+      "id": "libretro-psp-uljm-05637",
+      "title": "Shin Sangoku Musou - Multi Raid 2",
+      "serials": [
+        "ULJM-05637"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "200 libretro PSP cheat blocks for ULJM-05637; 6 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULJM-05637.pnach",
+      "packPath": "files/libretro-psp/ULJM-05637.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 200,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "0751D89ED846B8A732EE49EB6D0879D0F876FDF757504E37B48EC29143DF8DF7"
+    },
+    {
+      "id": "libretro-psp-uljm-05753",
+      "title": "Tactics Ogre - Unmei No Wa",
+      "serials": [
+        "ULJM-05753"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "112 libretro PSP cheat blocks for ULJM-05753; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULJM-05753.pnach",
+      "packPath": "files/libretro-psp/ULJM-05753.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 112,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "8D788723B932BFA8BE6C244285CC3C8E9F461A0BBFBEF9F2C52BB077C22E242B"
     },
     {
       "id": "cwcheat-uljm-05798",
@@ -373,6 +830,7 @@
       ],
       "description": "414 serial-specific CWCheat blocks for ULJM-05798; 112 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULJM-05798.pnach",
+      "packPath": "files/cwcheat-db-plus/ULJM-05798.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -391,12 +849,32 @@
       ],
       "description": "343 serial-specific CWCheat blocks for ULJM-05800; 29 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULJM-05800.pnach",
+      "packPath": "files/cwcheat-db-plus/ULJM-05800.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 343,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "C313D73E5FB2DEA766544D3A487AE467DA48FCF7C3FE51133493F7DF911E43A7"
+    },
+    {
+      "id": "libretro-psp-uljs-00048",
+      "title": "Tekken - Dark Resurrection",
+      "serials": [
+        "ULJS-00048"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "198 libretro PSP cheat blocks for ULJS-00048; 3 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULJS-00048.pnach",
+      "packPath": "files/libretro-psp/ULJS-00048.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 198,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "E87F14A08F262504FC4D2087E2177ACFD1D7FB67D0D671DA82D5CADEBB535B91"
     },
     {
       "id": "cwcheat-uljs-00266",
@@ -409,6 +887,7 @@
       ],
       "description": "827 serial-specific CWCheat blocks for ULJS-00266; 3 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULJS-00266.pnach",
+      "packPath": "files/cwcheat-db-plus/ULJS-00266.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -427,6 +906,7 @@
       ],
       "description": "406 serial-specific CWCheat blocks for ULUS-10041; 20 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10041.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10041.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -445,6 +925,7 @@
       ],
       "description": "346 serial-specific CWCheat blocks for ULUS-10084; 3 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10084.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10084.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -463,6 +944,7 @@
       ],
       "description": "39 serial-specific CWCheat blocks for ULUS-10114; 12 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10114.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10114.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -481,6 +963,7 @@
       ],
       "description": "385 serial-specific CWCheat blocks for ULUS-10154; 14 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10154.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10154.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -499,6 +982,7 @@
       ],
       "description": "247 serial-specific CWCheat blocks for ULUS-10160; 10 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10160.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10160.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -517,6 +1001,7 @@
       ],
       "description": "246 serial-specific CWCheat blocks for ULUS-10202; 15 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10202.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10202.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -535,6 +1020,7 @@
       ],
       "description": "141 serial-specific CWCheat blocks for ULUS-10251; 3 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10251.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10251.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -553,6 +1039,7 @@
       ],
       "description": "134 serial-specific CWCheat blocks for ULUS-10263; 1 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10263.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10263.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -571,6 +1058,7 @@
       ],
       "description": "73 serial-specific CWCheat blocks for ULUS-10277; 13 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10277.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10277.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -589,6 +1077,7 @@
       ],
       "description": "187 serial-specific CWCheat blocks for ULUS-10297; 4 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10297.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10297.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -607,6 +1096,7 @@
       ],
       "description": "178 serial-specific CWCheat blocks for ULUS-10336; 11 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10336.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10336.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -625,6 +1115,7 @@
       ],
       "description": "70 serial-specific CWCheat blocks for ULUS-10383; 6 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10383.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10383.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -643,6 +1134,7 @@
       ],
       "description": "219 serial-specific CWCheat blocks for ULUS-10391; 21 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10391.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10391.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -661,6 +1153,7 @@
       ],
       "description": "514 serial-specific CWCheat blocks for ULUS-10410; 7 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10410.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10410.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -679,12 +1172,32 @@
       ],
       "description": "190 serial-specific CWCheat blocks for ULUS-10437; 10 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10437.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10437.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
       "blockCount": 190,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "F1328E3974632831A3C5CC53E52662FB1EAE9DBE8476C3F38B1BDAEC3BB3EF9E"
+    },
+    {
+      "id": "libretro-psp-ulus-10447",
+      "title": "Naruto Shippuden Legends - Akatsuki Rising",
+      "serials": [
+        "ULUS-10447"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "107 libretro PSP cheat blocks for ULUS-10447; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/ULUS-10447.pnach",
+      "packPath": "files/libretro-psp/ULUS-10447.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 107,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "793CC714B3F0DE7297789982A639031C4F37C753BADE50E5D2996BE6BF48DD74"
     },
     {
       "id": "cwcheat-ulus-10455",
@@ -697,6 +1210,7 @@
       ],
       "description": "55 serial-specific CWCheat blocks for ULUS-10455; 10 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10455.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10455.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -715,6 +1229,7 @@
       ],
       "description": "203 serial-specific CWCheat blocks for ULUS-10466; 10 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10466.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10466.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -733,6 +1248,7 @@
       ],
       "description": "6594 serial-specific CWCheat blocks for ULUS-10479; 10 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10479.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10479.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -751,6 +1267,7 @@
       ],
       "description": "457 serial-specific CWCheat blocks for ULUS-10490; 8 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10490.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10490.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -769,6 +1286,7 @@
       ],
       "description": "128 serial-specific CWCheat blocks for ULUS-10505; 3 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10505.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10505.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -787,6 +1305,7 @@
       ],
       "description": "113 serial-specific CWCheat blocks for ULUS-10509; 26 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10509.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10509.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -805,6 +1324,7 @@
       ],
       "description": "351 serial-specific CWCheat blocks for ULUS-10512; 11 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10512.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10512.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -823,6 +1343,7 @@
       ],
       "description": "411 serial-specific CWCheat blocks for ULUS-10529; 9 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10529.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10529.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -841,6 +1362,7 @@
       ],
       "description": "123 serial-specific CWCheat blocks for ULUS-10560; 45 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10560.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10560.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -859,6 +1381,7 @@
       ],
       "description": "474 serial-specific CWCheat blocks for ULUS-10563; 37 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10563.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10563.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -877,6 +1400,7 @@
       ],
       "description": "41 serial-specific CWCheat blocks for ULUS-10566; 8 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10566.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10566.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",
@@ -895,6 +1419,7 @@
       ],
       "description": "259 serial-specific CWCheat blocks for ULUS-10582; 13 malformed upstream blocks excluded during conversion.",
       "downloadUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/cwcheat-db-plus/ULUS-10582.pnach",
+      "packPath": "files/cwcheat-db-plus/ULUS-10582.pnach",
       "sourceUrl": "https://github.com/Saramagrean/CWCheat-Database-Plus-/blob/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "sourceName": "CWCheat Database Plus",
       "license": "Upstream terms; no blanket open-source license published",

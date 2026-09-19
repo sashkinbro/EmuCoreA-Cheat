@@ -1,0 +1,1377 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-00503
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0010000 00207324
+20207324 1000FFF7
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E001FFF7 00207324
+20207324 00000000
+
+// All Green Lights
+Author = libretro-database contributors / original PSP cheat authors
+203AFFC0 00000001
+
+// All Normal Lights
+Author = libretro-database contributors / original PSP cheat authors
+203AFFC0 00000000
+
+// Bike: Huge Bike Tyres
+Author = libretro-database contributors / original PSP cheat authors
+203AE084 40800000
+
+// Bike: Massive Bikes
+Author = libretro-database contributors / original PSP cheat authors
+2005F88C 3C054040
+
+// Bike: Never Fall Off Bike
+Author = libretro-database contributors / original PSP cheat authors
+200A826C 24020000
+200EFE8C 24020000
+2025B7E4 24020000
+20265730 24020000
+
+// Bike: Normal Bikes
+Author = libretro-database contributors / original PSP cheat authors
+203AE084 3F800000
+2005F88C 3C053F80
+
+// Bike: Paper Thin Bikes
+Author = libretro-database contributors / original PSP cheat authors
+2005F88C 3C053D80
+
+// Car Damage Disable
+Author = libretro-database contributors / original PSP cheat authors
+20044824 00000000
+20049214 03E00008
+20049218 00000000
+
+// Car Damage Enable
+Author = libretro-database contributors / original PSP cheat authors
+20044824 00000000
+20049214 27BDFF50
+20049218 E7B4007C
+
+// Car: Black
+Author = libretro-database contributors / original PSP cheat authors
+203B1314 00000001
+
+// Car: Bouncy
+Author = libretro-database contributors / original PSP cheat authors
+20268388 3C094080
+
+// Car: Chrome
+Author = libretro-database contributors / original PSP cheat authors
+203ADA96 00000001
+
+// Car: Invisible
+Author = libretro-database contributors / original PSP cheat authors
+203B26B0 00000001
+
+// Car: Lowrider
+Author = libretro-database contributors / original PSP cheat authors
+20268374 03E00008
+
+// Car: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20268374 27BDFFC0
+20268388 3C093F80
+203ADA94 00000000
+203ADA96 00000000
+203B1314 00000000
+203B1315 00000000
+203B26B0 00000000
+203B26B2 00000000
+2030DB4C 00000006
+
+// Car: Perfect Traction
+Author = libretro-database contributors / original PSP cheat authors
+203B26B2 00000001
+
+// Car: Translucent
+Author = libretro-database contributors / original PSP cheat authors
+203ADA94 00000001
+
+// Car: Tyres Never Pop
+Author = libretro-database contributors / original PSP cheat authors
+2030DB4C 00000000
+
+// Car: White
+Author = libretro-database contributors / original PSP cheat authors
+203B1315 00000001
+
+// Drivers Aggressive
+Author = libretro-database contributors / original PSP cheat authors
+203B3528 00000001
+
+// Drivers Normal
+Author = libretro-database contributors / original PSP cheat authors
+203B3528 00000000
+
+// Everyone Bears Firearms
+Author = libretro-database contributors / original PSP cheat authors
+003AF16C 00000001
+
+// Everyone Follows You
+Author = libretro-database contributors / original PSP cheat authors
+003AD035 00000001
+
+// Freeze Camera
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00000001
+00000001 00000550
+
+// Freeze Camera [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00000000
+00000001 00000550
+
+// Game Speed 50%
+Author = libretro-database contributors / original PSP cheat authors
+003B3DB8 3F000000
+
+// Game Speed 100%
+Author = libretro-database contributors / original PSP cheat authors
+003B3DB8 3F800000
+
+// Game Speed 200%
+Author = libretro-database contributors / original PSP cheat authors
+003B3DB8 40000000
+
+// Green Traffic Lights
+Author = libretro-database contributors / original PSP cheat authors
+003AFFC0 00000001
+
+// Indestructible Driven Vehicles
+Author = libretro-database contributors / original PSP cheat authors
+603C8830 49742400
+00020001 0000027C
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20245EAC 00000000
+20245F20 00000000
+
+// Infinite Ammo In Car
+Author = libretro-database contributors / original PSP cheat authors
+2024112C 24840000
+20241194 24840000
+
+// Infinite Armor
+Author = libretro-database contributors / original PSP cheat authors
+203C83B0 00000000
+000004E8 42C80000
+D2000000 00000000
+
+// Infinite Armor v2
+Author = libretro-database contributors / original PSP cheat authors
+203C83B0 42C80000
+00020000 000004E8
+
+// Infinite Armor v3
+Author = libretro-database contributors / original PSP cheat authors
+203C83B0 42C80000
+00020001 000004E8
+
+// Infinite Breath
+Author = libretro-database contributors / original PSP cheat authors
+203C83B0 00000000
+0000082C 3F800000
+D2000000 00000000
+
+// Infinite Breath v2
+Author = libretro-database contributors / original PSP cheat authors
+203C83B0 3F800000
+00020000 0000082C
+
+// Infinite Breath v3
+Author = libretro-database contributors / original PSP cheat authors
+203C83B0 3F800000
+00020001 0000082C
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+68BC83B0 00000000
+B8BC83B0 00000000
+000004E4 42C80000
+D2000000 00000000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+203C83B0 42C80000
+00020000 000004E4
+
+// Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+203C83B0 42C80000
+00020001 000004E4
+
+// Infinite Map Markers
+Author = libretro-database contributors / original PSP cheat authors
+21263412 00000000
+
+// Infinite Run
+Author = libretro-database contributors / original PSP cheat authors
+201489A4 00000000
+
+// Max Ammo: Carbine
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00002580
+00020001 0000062C
+
+// Max Ammo: Pistol
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00002580
+00020001 000005D8
+
+// Max Ammo: Rockets
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00002580
+00020001 00000648
+
+// Max Ammo: Shotgun
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00002580
+00020001 000005F4
+
+// Max Ammo: SMG
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00002580
+00020001 00000610
+
+// Max Ammo: Sniper
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00002580
+00020001 00000664
+
+// Max Ammo: Throwable
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00002580
+00020001 000005BC
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+203DE79C 05F5E0FF
+203DE7A0 05F5E0FF
+
+// Max HP & Armor
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 447A0000
+00020001 000004E4
+00020001 000004E8
+
+// Max Wanted Level
+Author = libretro-database contributors / original PSP cheat authors
+20163B4C 24050006
+20163B50 AC850910
+
+// Night Vision
+Author = libretro-database contributors / original PSP cheat authors
+2038EDE8 3F900000
+
+// No Reloading: Carbine
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00000380
+00020001 00000628
+
+// No Reloading: Pistol
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00000380
+00020001 000005D4
+
+// No Reloading: Rockets
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00000380
+00020001 00000644
+
+// No Reloading: Shotgun
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00000380
+00020001 000005F0
+
+// No Reloading: SMG
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00000380
+00020001 0000060C
+
+// No Reloading: Sniper
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00000380
+00020001 00000660
+
+// No Reloading: Throwable
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00000380
+00020001 000005B8
+
+// No Wanted Level
+Author = libretro-database contributors / original PSP cheat authors
+20163B4C 24050000
+20163B50 AC850910
+
+// Partial Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00002010
+00010001 0000004C
+
+// Partial Invincibility [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00000000
+00010001 0000004C
+
+// Pedestrians: Bobble Head World
+Author = libretro-database contributors / original PSP cheat authors
+203AD037 00000001
+
+// Pedestrians: Follow You
+Author = libretro-database contributors / original PSP cheat authors
+203AD035 00000001
+
+// Pedestrians: Have Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203AF16C 00000001
+
+// Pedestrians: Normal
+Author = libretro-database contributors / original PSP cheat authors
+203AD035 00000000
+203AD037 00000000
+203AF16C 00000000
+
+// Perfect Traction
+Author = libretro-database contributors / original PSP cheat authors
+003B26B2 00000001
+
+// Player Car Has Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20044824 AE04027C
+20319EBC 27BDFF60
+20319EC0 E7B40080
+
+// Reckless Drivers
+Author = libretro-database contributors / original PSP cheat authors
+003B3528 00000001
+
+// Run Speed: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2004D6EC 3C044000
+
+// Run Speed: Maniac
+Author = libretro-database contributors / original PSP cheat authors
+2004D6EC 3C044080
+
+// Run Speed: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2004D6EC 3C043F80
+
+// Run Speed: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2004D6EC 3C043FC0
+
+// Screen: Normal
+Author = libretro-database contributors / original PSP cheat authors
+203ABBCC 00000000
+
+// Screen: Upside Down
+Author = libretro-database contributors / original PSP cheat authors
+203ABBCC 00000001
+
+// Untitled cheat 83
+Author = libretro-database contributors / original PSP cheat authors
+003B3DA0 0000000C
+003B3DA1 00000018
+
+// Speed Mod: Even Faster
+Author = libretro-database contributors / original PSP cheat authors
+203B3DB8 3FC00000
+
+// Speed Mod: Faster
+Author = libretro-database contributors / original PSP cheat authors
+203B3DB8 3FA00000
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+203B3DB8 40000000
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+203B3DB8 3F800000
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+203B3DB8 3F000000
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+203B3DB8 3E800000
+
+// Suicide
+Author = libretro-database contributors / original PSP cheat authors
+D03DE6F2 003007FF
+603DE6F0 00000000
+00020001 000004E4
+
+// Timeflow Faster
+Author = libretro-database contributors / original PSP cheat authors
+003B3014 00000001
+
+// Timer Mod: Freeze Daily
+Author = libretro-database contributors / original PSP cheat authors
+20141C7C 00000000
+20141CE8 00000000
+
+// Timer Mod: Restart Daily
+Author = libretro-database contributors / original PSP cheat authors
+20141C7C 24C60001
+20141CE8 A7841E02
+
+// Timer Mod: Freeze Mission
+Author = libretro-database contributors / original PSP cheat authors
+202A3AB4 00000000
+
+// Timer Mod: Restart Mission
+Author = libretro-database contributors / original PSP cheat authors
+202A3AB4 00C93023
+
+// Tons Of Money
+Author = libretro-database contributors / original PSP cheat authors
+003DE79C 5F5C0000
+003DE7A0 5F5C0000
+
+// Upside Down
+Author = libretro-database contributors / original PSP cheat authors
+003ABBCC 00000001
+
+// Weather Mod: Black Sky
+Author = libretro-database contributors / original PSP cheat authors
+203B4060 00000006
+
+// Weather Mod: Clear
+Author = libretro-database contributors / original PSP cheat authors
+203B4060 00000004
+
+// Weather Mod: Foggy
+Author = libretro-database contributors / original PSP cheat authors
+203B4060 00000003
+
+// Weather Mod: Heavy Rain
+Author = libretro-database contributors / original PSP cheat authors
+203B4060 00000005
+
+// Weather Mod: Overcast
+Author = libretro-database contributors / original PSP cheat authors
+203B4060 00000001
+
+// Weather Mod: Rainy
+Author = libretro-database contributors / original PSP cheat authors
+203B4060 00000002
+
+// Weather Mod: Sunny
+Author = libretro-database contributors / original PSP cheat authors
+203B4060 00000000
+
+// (@) Disable Garage Modifier
+Author = libretro-database contributors / original PSP cheat authors
+2033A8F4 0E2CD487
+
+// Admiral In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AB
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Air Ambulance (Helicopter) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BC
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Air Ambulance (Helicopter 2) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BD
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Ambulance (Ambulance Missions) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100E3
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// B7 Injection In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100FF
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Baggage Handler In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AE
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Banshee In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AF
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Barracks 01 In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100DA
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Barracks 02 In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100DD
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Benson In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100EC
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Biker Angel In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100E7
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Biplane In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100DE
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Blista Compact In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B1
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// BMX In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B2
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// BMX 2 In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B3
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Bobcat > In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B4
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// BoxVille In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20001000 240100EB
+20000FF4 8CA10000
+20000FF8 10010003
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Bulldozer In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B5
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Burrito In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B6
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Cabby Taxi (Missions) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B7
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Caddy In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B8
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Cheatah In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AC
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Coach In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100ED
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Comet In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401010A
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Cuban Hermes In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401010B
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Deluxo In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BB
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Domestobot In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D0
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// ESperanto In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100C0
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Faggio (Bike) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100E5
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// FBI Ranger (Vigilante Missions) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401010C
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// FBI Washington (Missions) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100C1
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Fire Truck (Missions) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100C2
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Flatbed In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100DC
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Forklift In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100FB
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Freeway (Bike) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100E8
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Gang Rancher In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401010D
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Glendale In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100C3
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Greenwood In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100C4
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Helicopter In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010104
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Helicopter 2 In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010105
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Hermes In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100C5
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Hunter (Helicopter) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010113
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Idaho In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100C7
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Infernus In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401010E
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Landstalker In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100C8
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// LinerRunner In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D8
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Little Willie (Small Helicopter) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AD
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Manana In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100C9
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Maverick (Helicopter) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010117
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Maverick (Helicopter 2) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D5
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Mesa Grande In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010103
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Moon Beam In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100DF
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Mr.Whoppee (Ice Cream Van) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100F4
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Mule In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100EE
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Oceanic In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CB
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Patriot In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D1
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// PCJ 600 (Bike) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D4
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Perennial In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100B0
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Phoenix In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010100
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Polaris In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BA
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Police Bike (Vigilante Missions) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BF
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Pony In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D2
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Pop Car On Top Of Garage (Small Garage)
+Author = libretro-database contributors / original PSP cheat authors
+20335268 0E200410
+20001040 3C0141C0
+20001044 AC410038
+20001048 0A22468B
+
+// Pop Car On Top Of Garage (Height 2)
+Author = libretro-database contributors / original PSP cheat authors
+20335268 0E200410
+20001040 3C014240
+20001044 AC410038
+20001048 0A22468B
+
+// Pop Car On Top Of Garage (Height 3)
+Author = libretro-database contributors / original PSP cheat authors
+20335268 0E200410
+20001040 3C014300
+20001044 AC410038
+20001048 0A22468B
+
+// Pop Car On Top Of Garage Codes [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20335268 0E22468B
+
+// Quad In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100E6
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Regina In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 2401010F
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Rhino (Tank) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100F6
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Rumpo In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100E0
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Sabre In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010110
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Sabre Turbo In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010111
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Sanchez (Bike) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CD
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// SandKing (Tank) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100F5
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Sea Sparrow (Helicopter) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010107
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Securicar In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100F0
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Sentinel In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D3
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Sentinel XS In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010112
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Shobot Sabre In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010109
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Skimmer (Plane) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010116
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Sparrow (Helicopter) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010106
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Split 6 ATV In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100AA
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Stallion In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CE
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Stinger In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100FE
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Street Fighter (Mortorbike) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100FC
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Stretch In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100E4
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Taxi (Taxi Missions) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100E2
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Trashmaster In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100F1
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Ventoso In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CA
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// VCPD Cheetah (Vigilante Missions) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CC
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// VCPD Cruiser (Vigilante Missions) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100CF
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// VCPD Enforcer (Vigilante Missions) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100EA
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// VCPD Wintergreen (Bike Missions) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BF
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Virgo In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100FD
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Voodoo In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100EF
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Walton In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100D9
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Washington In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 24010114
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Wintergreen (Bike) In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100BE
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC
+
+// Yankee In Garage
+Author = libretro-database contributors / original PSP cheat authors
+20000FF4 8CA10000
+20000FF8 10010003
+20001000 240100F3
+20001004 A4A10000
+20001008 0A2CD487
+2033A8F4 0E2003FC

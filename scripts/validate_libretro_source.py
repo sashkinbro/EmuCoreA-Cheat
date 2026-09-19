@@ -1,0 +1,48 @@
+#!/usr/bin/env python3
+"""Verify the pinned libretro PSP source revision and converted source files."""
+from __future__ import annotations
+
+import argparse
+import re
+import subprocess
+from pathlib import Path
+
+EXPECTED_COMMIT = "740ebdf03247073658ccea45ddedfd57ea9d2974"
+SERIAL_RE = re.compile(r"\[([A-Z]{4}-[0-9]{5})\]\.cht$")
+CODE_RE = re.compile(r"_L\s+0x[0-9A-Fa-f]{8}\s+0x[0-9A-Fa-f]{1,8}")
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--source", type=Path, required=True)
+    args = parser.parse_args()
+    source = args.source.resolve()
+    head = subprocess.check_output(["git", "-C", str(source), "rev-parse", "HEAD"], text=True).strip()
+    if head != EXPECTED_COMMIT:
+        raise SystemExit(f"validation failed: source HEAD {head} != pinned {EXPECTED_COMMIT}")
+    if not (source / "LICENSE").is_file():
+        raise SystemExit("validation failed: source LICENSE is missing")
+    files = list((source / "cht" / "Sony - PlayStation Portable").glob("*.cht"))
+    selected = [
+        path for path in files
+        if SERIAL_RE.search(path.name) and SERIAL_RE.search(path.name).group(1) in {
+            "ULES-01416", "ULJM-05500", "ULES-01213", "ULJS-00048", "UCUS-98645",
+            "UCUS-98668", "UCES-01327", "ULJM-05261", "NPJH-50332", "NPJH-50521",
+            "UCUS-98646", "ULJM-05505", "NPJH-50789", "ULJM-05402", "ULUS-10447",
+            "ULJM-05255", "ULJM-05297", "ULJM-05341", "ULES-00657", "ULJM-05309",
+            "NPJB-40001", "ULJM-05753", "ULES-01523", "ULES-00503", "ULJM-05637",
+        }
+    ]
+    if len(selected) != 25:
+        raise SystemExit(f"validation failed: found {len(selected)} selected source files, expected 25")
+    for path in selected:
+        text = path.read_text(encoding="utf-8")
+        if not CODE_RE.search(text):
+            raise SystemExit(f"validation failed: no CWCheat lines in {path.name}")
+    print(f"verified libretro-database PSP source commit {head}")
+    print(f"verified CC-BY-SA-4.0 LICENSE and {len(selected)} selected source files")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

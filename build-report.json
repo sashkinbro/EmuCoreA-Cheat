@@ -1,6 +1,6 @@
 {
-  "batch": "batch-002",
-  "release": "v1.0.2",
+  "batch": "batch-003",
+  "release": "v1.0.3",
   "source": "https://raw.githubusercontent.com/Saramagrean/CWCheat-Database-Plus-/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
   "sourceSha256": "F5B5A06699C321AED9A013B42C7F306CA173F1885B8506DCB1085BEEE3794323",
   "entries": [
@@ -353,6 +353,209 @@
       "blocks": 259,
       "excluded": 13,
       "sha256": "4323E6EAA426DB2C7C7307A691DF8E5E09080A34D98BDF710CCB566ACB20FF27"
+    }
+  ],
+  "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+  "libretroEntries": [
+    {
+      "serial": "NPJB-40001",
+      "sourceFile": "Monster Hunter Portable 3rd HD Ver. [JP] [NPJB-40001].cht",
+      "blocks": 169,
+      "excluded": 18,
+      "malformed": 1,
+      "sha256": "277650F7D7C8D175351A4AF1FD961615005571ACD6E852C00201B94396E2CCFE"
+    },
+    {
+      "serial": "NPJH-50332",
+      "sourceFile": "Phantasy Star Portable 2 Infinity (PlayStation Store) [JP] [NPJH-50332].cht",
+      "blocks": 185,
+      "excluded": 18,
+      "malformed": 0,
+      "sha256": "8FF953C593EB5044D3AC053A955AD16DF07A09FFBE01A767C4F068FDDA892C48"
+    },
+    {
+      "serial": "NPJH-50521",
+      "sourceFile": "Super Robot Taisen - Operation Extend [JP] [NPJH-50521].cht",
+      "blocks": 200,
+      "excluded": 13,
+      "malformed": 0,
+      "sha256": "C040977820F42F5A34564CCFC52CB58C89B79FE7B017D9B2E89533962733A2FA"
+    },
+    {
+      "serial": "NPJH-50789",
+      "sourceFile": "Toukiden [JP] [NPJH-50789].cht",
+      "blocks": 187,
+      "excluded": 8,
+      "malformed": 1,
+      "sha256": "755E35C1F544A3EB0E293E10373399BA38A07BCAC378ACBB27221DA16F4ECCEC"
+    },
+    {
+      "serial": "UCES-01327",
+      "sourceFile": "ModNation Racers [EU] [UCES-01327].cht",
+      "blocks": 119,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "EC8554871E8A7E222AE04E903998532095206165746651C9DEDDCEB0CD34EC4F"
+    },
+    {
+      "serial": "UCUS-98645",
+      "sourceFile": "SOCOM - U.S. Navy Seals Fireteam Bravo 2 [US] [UCUS-98645].cht",
+      "blocks": 165,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "975E3CE1DF9F25217A443C818C904F2FB6AFCFD0B3D2E577BE64AA18A306BA69"
+    },
+    {
+      "serial": "UCUS-98646",
+      "sourceFile": "Killzone - Liberation [US] [UCUS-98646].cht",
+      "blocks": 279,
+      "excluded": 12,
+      "malformed": 0,
+      "sha256": "8F62BD638905C1E1784862232B70CFB22369EDCCF569A38AE1AB66B147302483"
+    },
+    {
+      "serial": "UCUS-98668",
+      "sourceFile": "Resistance - Retribution [US] [UCUS-98668].cht",
+      "blocks": 193,
+      "excluded": 9,
+      "malformed": 0,
+      "sha256": "D2FF7077909420DF02D8BC8A893A250F4CFEC84BB83D9558729F5C867537FCE6"
+    },
+    {
+      "serial": "ULES-00503",
+      "sourceFile": "Grand Theft Auto - Vice City Stories [EU-German] [ULES-00503].cht",
+      "blocks": 201,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "C1DD551D5FE58289FBAAADF55E2B6F31BB9F33ECA259853DB32AFECCFB85D968"
+    },
+    {
+      "serial": "ULES-00657",
+      "sourceFile": "Valhalla Knights [EU] [ULES-00657].cht",
+      "blocks": 189,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "4B975052CDD9036B71EE9DCD008F39F51EC86F41617052E3415B9C9625A56293"
+    },
+    {
+      "serial": "ULES-01213",
+      "sourceFile": "Monster Hunter Freedom Unite [EU] [ULES-01213].cht",
+      "blocks": 171,
+      "excluded": 11,
+      "malformed": 0,
+      "sha256": "7DB73C7A24CA6BA734B6FE358D716325D18D12C9772FC32AC54DAD84849ED7D6"
+    },
+    {
+      "serial": "ULES-01416",
+      "sourceFile": "Dead Or Alive Paradise [EU] [ULES-01416].cht",
+      "blocks": 239,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "0CE026006714EFF29AB0C7DA5504234B9522B4CB7D852AE5C596E6F709D6AC73"
+    },
+    {
+      "serial": "ULES-01523",
+      "sourceFile": "Persona 3 Portable [EU] [ULES-01523].cht",
+      "blocks": 271,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "3D3EB0942B212FF7BC5BDE63E31BCC60106E703A6AE342C8C6628FCB831F9242"
+    },
+    {
+      "serial": "ULJM-05255",
+      "sourceFile": "Grand Theft Auto - Liberty City Stories [JP] [ULJM-05255].cht",
+      "blocks": 221,
+      "excluded": 11,
+      "malformed": 0,
+      "sha256": "CC11E691736A5BCE1AFD1850762C848488EC0D31EB80CAC390BEC8B0F22D5AB8"
+    },
+    {
+      "serial": "ULJM-05261",
+      "sourceFile": "Metal Gear Solid - Portable Ops Plus [JP] [ULJM-05261].cht",
+      "blocks": 80,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "6F159B2A4FA623C650A8B5C3664948BB1135DC3CE7FB5E770CB076E18A44A2AD"
+    },
+    {
+      "serial": "ULJM-05297",
+      "sourceFile": "Grand Theft Auto - Vice City Stories [JP] [ULJM-05297].cht",
+      "blocks": 229,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "F02F94AAC8A6EA4C3A820A6B5E2457D3AB5811F763DEC4B48E45779C2998A4C2"
+    },
+    {
+      "serial": "ULJM-05309",
+      "sourceFile": "Phantasy Star Portable [JP] [ULJM-05309].cht",
+      "blocks": 113,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "C391466566D37D11B028322C3343FC763F03788D54C47605FCBF77D54B1C12C5"
+    },
+    {
+      "serial": "ULJM-05341",
+      "sourceFile": "Winning Post 6 2008 [JP] [ULJM-05341].cht",
+      "blocks": 39,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "05E64979A2F0B39E6827C0A29FFBD352521ECA407B312F7B4BDADF53D3D80C71"
+    },
+    {
+      "serial": "ULJM-05402",
+      "sourceFile": "Musou Orochi - Maou Sairin [JP] [ULJM-05402].cht",
+      "blocks": 154,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "D50201324BB31E3A3921306E171E3F8001F1FC7F13DF7B671210AC9F04C580F8"
+    },
+    {
+      "serial": "ULJM-05500",
+      "sourceFile": "Monster Hunter Portable 2nd G [JP] [ULJM-05500].cht",
+      "blocks": 306,
+      "excluded": 26,
+      "malformed": 0,
+      "sha256": "434CFD72E1A743C99E5369B28412B2AB436D62CDB6D160E9831CA6BA76D6F763"
+    },
+    {
+      "serial": "ULJM-05505",
+      "sourceFile": "Ninja Katsugeki - Tenchu San Portable [JP] [ULJM-05505].cht",
+      "blocks": 129,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "D3060A8FE0455B5CFAAC1E0898C0E8AC61C2EC3717FB24C43ED1E0B2B59623E2"
+    },
+    {
+      "serial": "ULJM-05637",
+      "sourceFile": "Shin Sangoku Musou - Multi Raid 2 [JP] [ULJM-05637].cht",
+      "blocks": 200,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "0751D89ED846B8A732EE49EB6D0879D0F876FDF757504E37B48EC29143DF8DF7"
+    },
+    {
+      "serial": "ULJM-05753",
+      "sourceFile": "Tactics Ogre - Unmei No Wa [JP] [ULJM-05753].cht",
+      "blocks": 112,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "8D788723B932BFA8BE6C244285CC3C8E9F461A0BBFBEF9F2C52BB077C22E242B"
+    },
+    {
+      "serial": "ULJS-00048",
+      "sourceFile": "Tekken - Dark Resurrection [JP] [ULJS-00048].cht",
+      "blocks": 198,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "E87F14A08F262504FC4D2087E2177ACFD1D7FB67D0D671DA82D5CADEBB535B91"
+    },
+    {
+      "serial": "ULUS-10447",
+      "sourceFile": "Naruto Shippuden Legends - Akatsuki Rising [US] [ULUS-10447].cht",
+      "blocks": 107,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "793CC714B3F0DE7297789982A639031C4F37C753BADE50E5D2996BE6BF48DD74"
     }
   ]
 }

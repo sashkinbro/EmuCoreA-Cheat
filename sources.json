@@ -10,6 +10,16 @@
       "rawUrl": "https://raw.githubusercontent.com/Saramagrean/CWCheat-Database-Plus-/750261bccdc39569dec5eaee380902ac1442a007/cheat.db",
       "license": "Upstream terms; no blanket open-source license published",
       "notes": "The upstream README credits PPSSPP Forum, GameHacking, LunaMoo, TAbdiukov and other PSP cheat sources. Generated packs preserve this provenance and do not relicense the code data."
+    },
+    {
+      "id": "libretro-psp",
+      "name": "libretro-database PSP cheats",
+      "author": "libretro-database contributors and the original PSP cheat authors",
+      "url": "https://github.com/libretro/libretro-database",
+      "commit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
+      "rawUrl": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "notes": "The repository LICENSE is CC-BY-SA-4.0. Its README says cheat files are collected from web sources and user contributions, so this catalog preserves source attribution and does not relicense individual code authors rights."
     }
   ]
 }

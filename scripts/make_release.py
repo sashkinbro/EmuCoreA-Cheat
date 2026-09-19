@@ -25,7 +25,7 @@ def main() -> int:
     if archive.exists():
         archive.unlink()
     members = [ROOT / "README.md", ROOT / "CONTRIBUTING.md", ROOT / "CONTRIBUTING.md", ROOT / "sources.json", ROOT / "cheats.json", ROOT / "build-report.json"]
-    members += sorted((ROOT / "files" / "cwcheat-db-plus").glob("*.pnach"))
+    members += sorted((ROOT / "files").glob("**/*.pnach"))
     unique: list[Path] = []
     seen: set[Path] = set()
     for member in members:
