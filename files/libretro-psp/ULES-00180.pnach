@@ -1,0 +1,659 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-00180
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 720 Inf. Cash
+Author = libretro-database contributors / original PSP cheat authors
+00096063 0000007C
+
+// 720 Inf. Play Time
+Author = libretro-database contributors / original PSP cheat authors
+00096D28 00000019
+
+// 720 Inf. Skate Time
+Author = libretro-database contributors / original PSP cheat authors
+00096060 00000087
+
+// 720 Inf. Tickets
+Author = libretro-database contributors / original PSP cheat authors
+00096067 00000004
+
+// Arch Rivals Inf. Period Time
+Author = libretro-database contributors / original PSP cheat authors
+007649DB 000000FF
+
+// Arch Rivals Inf. Period Time
+Author = libretro-database contributors / original PSP cheat authors
+007649DB 000000FF
+
+// Arch Rivals Inf. Shot Time
+Author = libretro-database contributors / original PSP cheat authors
+007649D2 00000018
+
+// Arch Rivals No Period Time
+Author = libretro-database contributors / original PSP cheat authors
+007649DB 00000000
+
+// Arch Rivals Period 1
+Author = libretro-database contributors / original PSP cheat authors
+00762C8B 00000001
+
+// Arch Rivals Period 2
+Author = libretro-database contributors / original PSP cheat authors
+00762C8B 00000002
+
+// Arch Rivals Period 3
+Author = libretro-database contributors / original PSP cheat authors
+00762C8B 00000003
+
+// Arch Rivals Period 4
+Author = libretro-database contributors / original PSP cheat authors
+00762C8B 00000004
+
+// Arch Rivals PL2 Score 0
+Author = libretro-database contributors / original PSP cheat authors
+00762CBB 00000000
+
+// Arch Rivals Sudden Death
+Author = libretro-database contributors / original PSP cheat authors
+00762C8B 00000008
+
+// Away Team Can't Score
+Author = libretro-database contributors / original PSP cheat authors
+20762CBB 00000000
+
+// Chmpnshp Sprint Fast Chopper
+Author = libretro-database contributors / original PSP cheat authors
+000DBBC8 00000005
+
+// Chmpnshp Sprint Inf. Wrenches
+Author = libretro-database contributors / original PSP cheat authors
+000DBBB8 00000003
+
+// Chmpnshp Sprint Max Accel
+Author = libretro-database contributors / original PSP cheat authors
+000DBBC4 00000005
+
+// Chmpnshp Sprint Max Speed
+Author = libretro-database contributors / original PSP cheat authors
+000DBBBC 00000005
+
+// Chmpnshp Sprint Max Traction
+Author = libretro-database contributors / original PSP cheat authors
+000DBBC0 00000005
+
+// Cyrax
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 00000008
+
+// Defender: Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+003811B1 00000002
+
+// Defender: Inf. Smart Bombs
+Author = libretro-database contributors / original PSP cheat authors
+003811B3 00000004
+
+// Elf: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20B28104 0000E803
+
+// Elf: Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+20328104 0000E803
+
+// Elf: Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+20B28104 0000E803
+
+// Elf: Infinite Keys
+Author = libretro-database contributors / original PSP cheat authors
+20B2810D 00000003
+
+// Elf: Infinite Keys v2
+Author = libretro-database contributors / original PSP cheat authors
+2032810D 00000003
+
+// Elf: Infinite Keys v3
+Author = libretro-database contributors / original PSP cheat authors
+20B2810D 00000003
+
+// Elf: Infinite Potions
+Author = libretro-database contributors / original PSP cheat authors
+20B28109 00000003
+
+// Elf: Infinite Potions v2
+Author = libretro-database contributors / original PSP cheat authors
+20328109 00000003
+
+// Elf: Infinite Potions v3
+Author = libretro-database contributors / original PSP cheat authors
+20B28109 00000003
+
+// Gauntlet: Edit To Select Lvl
+Author = libretro-database contributors / original PSP cheat authors
+00B27825 00000019
+
+// Gauntlet: Edit To Select Lvl v2
+Author = libretro-database contributors / original PSP cheat authors
+20327825 00000019
+
+// Gauntlet: Edit To Select Lvl v3
+Author = libretro-database contributors / original PSP cheat authors
+20B27825 00000019
+
+// Gauntlet: Inf. Health Warrior
+Author = libretro-database contributors / original PSP cheat authors
+00B280F6 00000027
+
+// Gauntlet: Inf. Health Warrior v2
+Author = libretro-database contributors / original PSP cheat authors
+203280F6 00000027
+
+// Gauntlet: Inf. Health Warrior v3
+Author = libretro-database contributors / original PSP cheat authors
+20B280F6 00000027
+
+// Gauntlet: Inf. Keys Warrior
+Author = libretro-database contributors / original PSP cheat authors
+00B2810A 00000005
+
+// Gauntlet: Inf. Keys Warrior v2
+Author = libretro-database contributors / original PSP cheat authors
+2032810A 00000005
+
+// Gauntlet: Inf. Keys Warrior v3
+Author = libretro-database contributors / original PSP cheat authors
+20B2810A 00000005
+
+// Gauntlet: Inf. Potions Warrior
+Author = libretro-database contributors / original PSP cheat authors
+00B28106 00000006
+
+// Gauntlet: Inf. Potions Warrior v2
+Author = libretro-database contributors / original PSP cheat authors
+20328106 00000006
+
+// Gauntlet: Inf. Potions Warrior v3
+Author = libretro-database contributors / original PSP cheat authors
+20B28106 00000006
+
+// George: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20385486 000000C8
+
+// George: Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+20B85486 000000C8
+
+// Green Never Finishes
+Author = libretro-database contributors / original PSP cheat authors
+200DB389 00000000
+
+// Home Team Starts With 9 Pts.
+Author = libretro-database contributors / original PSP cheat authors
+20762CB6 00FF0900
+20762CB7 00000009
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20095962 00000006
+
+// Infinite Lives v2
+Author = libretro-database contributors / original PSP cheat authors
+20381039 00000004
+
+// Infinite Misses
+Author = libretro-database contributors / original PSP cheat authors
+206159BD 00000000
+
+// Infinite Papers
+Author = libretro-database contributors / original PSP cheat authors
+2009595B 0000000A
+
+// Infinite Smart Bombs
+Author = libretro-database contributors / original PSP cheat authors
+203811B3 00000004
+
+// Infinite Tickets
+Author = libretro-database contributors / original PSP cheat authors
+20096067 00000004
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+20620BA3 0000005A
+
+// Jax
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 00000002
+
+// Kabal
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 0000000A
+
+// Kano
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 00000000
+
+// Kung Lao
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 00000009
+
+// Liu Kang
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 0000000D
+
+// Lizzie: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+203854D6 000000C8
+
+// Lizzie: Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+20B854D6 000000C8
+
+// Marble Madness Inf. Time
+Author = libretro-database contributors / original PSP cheat authors
+00620BA3 0000003C
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+20096062 0000270F
+
+// Max Board
+Author = libretro-database contributors / original PSP cheat authors
+20096068 00000003
+
+// Max Helmet
+Author = libretro-database contributors / original PSP cheat authors
+20096069 00000003
+
+// Max Pads
+Author = libretro-database contributors / original PSP cheat authors
+2009606A 00000003
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+2076285B 0000EA60
+
+// Max Shoes
+Author = libretro-database contributors / original PSP cheat authors
+2009606B 00000003
+
+// Max/Infinite Cash
+Author = libretro-database contributors / original PSP cheat authors
+20096062 0000270F
+
+// MK 2 Inf. Hlth PL1
+Author = libretro-database contributors / original PSP cheat authors
+003F76A0 000000A1
+003F7A5E 000000A1
+
+// MK 2 Inf. Hlth PL2
+Author = libretro-database contributors / original PSP cheat authors
+003F7688 000000A1
+003F7BD8 000000A1
+
+// MK 3 Inf. Hlth PL1
+Author = libretro-database contributors / original PSP cheat authors
+003FA3C8 000000A6
+
+// MK 3 Inf. Hlth PL2
+Author = libretro-database contributors / original PSP cheat authors
+003FA3CA 000000A6
+
+// MK 3 Inf. Turbo PL1
+Author = libretro-database contributors / original PSP cheat authors
+003FA3CA 00000030
+
+// MK 3 Inf. Turbo PL1
+Author = libretro-database contributors / original PSP cheat authors
+003FA3CA 00000030
+
+// MK 3 Inf. Turbo PL2
+Author = libretro-database contributors / original PSP cheat authors
+003FA540 00000030
+
+// MK 3 Play Galaxian
+Author = libretro-database contributors / original PSP cheat authors
+003FA6D2 00000064
+
+// Mortal Kombat Dbl Flawless
+Author = libretro-database contributors / original PSP cheat authors
+003F2788 00000002
+
+// Mortal Kombat Inf. Hlth PL1
+Author = libretro-database contributors / original PSP cheat authors
+003F2784 000000A1
+
+// Mortal Kombat Inf. Hlth PL2
+Author = libretro-database contributors / original PSP cheat authors
+003F27E0 000000A1
+
+// Nightwolf
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 00000003
+
+// PaperBoy Inf. Course Time
+Author = libretro-database contributors / original PSP cheat authors
+0009596C 000000E0
+0009596D 0000007F
+
+// PaperBoy Inf. Lives PL1
+Author = libretro-database contributors / original PSP cheat authors
+00095962 00000005
+
+// PaperBoy Inf. Lives PL2
+Author = libretro-database contributors / original PSP cheat authors
+00095963 00000005
+
+// PaperBoy Inf. Papers
+Author = libretro-database contributors / original PSP cheat authors
+0009595B 0000000A
+
+// PaperBoy Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+0009F3D4 00000087
+0009F3D5 00000000
+
+// PaperBoy No Paper Delay
+Author = libretro-database contributors / original PSP cheat authors
+0009595C 00000000
+
+// PaperBoy Throw All Papers
+Author = libretro-database contributors / original PSP cheat authors
+0009577E 00000000
+
+// Player 1: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C8 000000A6
+
+// Player 1: Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+203F7A5E 000000A1
+
+// Player 1: Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+203F2784 000000A1
+
+// Player 1: Infinite Run
+Author = libretro-database contributors / original PSP cheat authors
+203FA3CA 00000030
+
+// Player 2: 1 Hit = Death
+Author = libretro-database contributors / original PSP cheat authors
+203F27E0 000000A1
+203F27E0 00000001
+D2000000 00000000
+
+// Player 2: 1 Hit = Death v2
+Author = libretro-database contributors / original PSP cheat authors
+203F27E0 000000A1
+00020000 00000001
+
+// Player 2: 1 Hit = Death v3
+Author = libretro-database contributors / original PSP cheat authors
+203F27E0 000000A1
+00020001 00000001
+
+// Press L Trigger For Max Lives
+Author = libretro-database contributors / original PSP cheat authors
+217B9184 00000100
+203811B1 00000006
+D2000000 00000000
+
+// Press L Trigger For Max Medal Meter
+Author = libretro-database contributors / original PSP cheat authors
+217B9184 00000100
+20096D2C 000000A0
+20096D41 00000030
+D2000000 00000000
+
+// Press L Trigger For More Time
+Author = libretro-database contributors / original PSP cheat authors
+217B9184 00000100
+20096060 0000007F
+20096D28 00000063
+D0000000 00000000
+
+// Ralph: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20385526 000000C8
+
+// Rampage Go To Day 10 Next
+Author = libretro-database contributors / original PSP cheat authors
+00385573 00000008
+
+// Rampage Go To Day 100 Next
+Author = libretro-database contributors / original PSP cheat authors
+00385573 00000062
+
+// Rampage Go To Day 127 Next
+Author = libretro-database contributors / original PSP cheat authors
+00385573 0000007C
+
+// Rampage Go To Day 15 Next
+Author = libretro-database contributors / original PSP cheat authors
+00385573 0000000D
+
+// Rampage Go To Day 255 Next
+Author = libretro-database contributors / original PSP cheat authors
+00385573 000000FC
+
+// Rampage Go To Day 30 Next
+Author = libretro-database contributors / original PSP cheat authors
+00385573 0000001C
+
+// Rampage Go To Day 5 Next
+Author = libretro-database contributors / original PSP cheat authors
+00385573 00000003
+
+// Rampage Go To Last Day Next
+Author = libretro-database contributors / original PSP cheat authors
+00385573 000000FE
+00385574 00000002
+
+// Rampage Inf. Hlth PL1
+Author = libretro-database contributors / original PSP cheat authors
+00385486 000000C7
+
+// Rampage Inf. Hlth PL2
+Author = libretro-database contributors / original PSP cheat authors
+003854D6 000000C7
+
+// Rampage Inf. Hlth PL3
+Author = libretro-database contributors / original PSP cheat authors
+00385526 000000C7
+
+// Rampart Inf. Building Time
+Author = libretro-database contributors / original PSP cheat authors
+00606490 00000063
+
+// Rampart Inf. Cannons PL1
+Author = libretro-database contributors / original PSP cheat authors
+0060659D 00000009
+
+// Rampart Inf. Cannons PL2
+Author = libretro-database contributors / original PSP cheat authors
+0060661B 00000009
+
+// Rampart Inf. Cannons PL3
+Author = libretro-database contributors / original PSP cheat authors
+00606699 00000009
+
+// Rampart No Building Time
+Author = libretro-database contributors / original PSP cheat authors
+00606490 00000000
+
+// Red Never Finishes
+Author = libretro-database contributors / original PSP cheat authors
+200DB387 00000000
+
+// Sektor
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 00000007
+
+// Shang Tsung
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 0000000C
+
+// Sheeva
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 0000000B
+
+// Sindel
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 00000006
+
+// Sinistar Inf. Bombs
+Author = libretro-database contributors / original PSP cheat authors
+00380FFB 00000032
+
+// Sinistar Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+00380FE4 00000006
+
+// Smoke
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 0000000E
+
+// Sonya
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 00000001
+
+// Spy Hunter Endless Smokescreen
+Author = libretro-database contributors / original PSP cheat authors
+003860BD 00000040
+
+// Spy Hunter Inf. Missiles
+Author = libretro-database contributors / original PSP cheat authors
+003860E6 00000003
+
+// Spy Hunter Inf. Oil Slicks
+Author = libretro-database contributors / original PSP cheat authors
+003860BA 0000003F
+
+// Spy Hunter Inf. Smokescreen
+Author = libretro-database contributors / original PSP cheat authors
+003860BC 00000003
+
+// Spy Hunter Inf. Time
+Author = libretro-database contributors / original PSP cheat authors
+00386367 00000009
+00386368 00000009
+00386369 00000009
+
+// Stryker
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 00000005
+
+// Sub-Zero
+Author = libretro-database contributors / original PSP cheat authors
+203FA3C2 00000004
+
+// Valkyrie: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20B280FC 0000E803
+
+// Valkyrie: Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+203280FC 0000E803
+
+// Valkyrie: Infinite Keys
+Author = libretro-database contributors / original PSP cheat authors
+20B2810B 00000003
+
+// Valkyrie: Infinite Keys v2
+Author = libretro-database contributors / original PSP cheat authors
+2032810B 00000003
+
+// Valkyrie: Infinite Potions
+Author = libretro-database contributors / original PSP cheat authors
+20B28107 00000003
+
+// Valkyrie: Infinite Potions v2
+Author = libretro-database contributors / original PSP cheat authors
+20328107 00000003
+
+// Warrior: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20B280F8 0000E803
+
+// Warrior: Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+203280F8 0000E803
+
+// Warrior: Infinite Keys
+Author = libretro-database contributors / original PSP cheat authors
+20B2810A 00000003
+
+// Warrior: Infinite Keys v2
+Author = libretro-database contributors / original PSP cheat authors
+2032810A 00000003
+
+// Warrior: Infinite Potions
+Author = libretro-database contributors / original PSP cheat authors
+20B28106 00000003
+
+// Warrior: Infinite Potions v2
+Author = libretro-database contributors / original PSP cheat authors
+20328106 00000003
+
+// Wizard Of Wor Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+000FF185 00000005
+
+// Wizard Of Wor Inf. Lives v2
+Author = libretro-database contributors / original PSP cheat authors
+200FF185 00000005
+
+// Wizard: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20B28100 0000E803
+
+// Wizard: Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+20328100 0000E803
+
+// Wizard: Infinite Keys
+Author = libretro-database contributors / original PSP cheat authors
+20B2810C 00000003
+
+// Wizard: Infinite Keys v2
+Author = libretro-database contributors / original PSP cheat authors
+2032810C 00000003
+
+// Wizard: Infinite Potions
+Author = libretro-database contributors / original PSP cheat authors
+20B28108 00000003
+
+// Wizard: Infinite Potions v2
+Author = libretro-database contributors / original PSP cheat authors
+20328108 00000003
+
+// Xybots Always Double Shot
+Author = libretro-database contributors / original PSP cheat authors
+002311D0 0000002A
+
+// Xybots Always Single Shot
+Author = libretro-database contributors / original PSP cheat authors
+002311D0 00000029
+
+// Xybots Always Triple Shot
+Author = libretro-database contributors / original PSP cheat authors
+002311D0 0000002B
+
+// Xybots Inf. Energy
+Author = libretro-database contributors / original PSP cheat authors
+00231162 00000064
+
+// Xybots Inf. Keys
+Author = libretro-database contributors / original PSP cheat authors
+00231164 0000005A
+
+// Xybots Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+00231165 00000063
+
+// Yellow Never Finishes
+Author = libretro-database contributors / original PSP cheat authors
+200DB388 00000000

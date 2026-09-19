@@ -1,0 +1,1048 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-01298
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+603F5244 3F800000
+00020001 0000508C
+
+// 99x Time
+Author = libretro-database contributors / original PSP cheat authors
+003CFF34 00000063
+
+// All Gauntlet
+Author = libretro-database contributors / original PSP cheat authors
+0045F120 00000022
+
+// Anti Piracy Patch
+Author = libretro-database contributors / original PSP cheat authors
+203CB084 00000000
+
+// Attack MID 999
+Author = libretro-database contributors / original PSP cheat authors
+10D70108 000003E7
+
+// Back Move (Hor.Move For Headgear)
+Author = libretro-database contributors / original PSP cheat authors
+213526D0 00000000
+
+// Back Move (Horizontal Move For Headgear)
+Author = libretro-database contributors / original PSP cheat authors
+21345710 00000000
+
+// Depth Female
+Author = libretro-database contributors / original PSP cheat authors
+213529D0 00000000
+
+// Depth Male
+Author = libretro-database contributors / original PSP cheat authors
+21345910 00000000
+
+// Disable AI
+Author = libretro-database contributors / original PSP cheat authors
+201DE4BC 24030000
+
+// Disable Moves&Weapon Codes
+Author = libretro-database contributors / original PSP cheat authors
+20064114 0E23AB7C
+
+// Enable Hidden BGM
+Author = libretro-database contributors / original PSP cheat authors
+004099A0 00000001
+004099A4 00000001
+
+// Gauntlet All
+Author = libretro-database contributors / original PSP cheat authors
+0045F120 00000022
+
+// Height Male
+Author = libretro-database contributors / original PSP cheat authors
+21345B10 00000000
+
+// Hight Female
+Author = libretro-database contributors / original PSP cheat authors
+213528D0 00000000
+
+// Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+203E3F20 40800000
+203E3F24 40800000
+203E3F28 40800000
+
+// Horizontal Move (Vert.Move For Headgear)
+Author = libretro-database contributors / original PSP cheat authors
+213527D0 00000000
+
+// Horizontal Move (Vert.Move For Headgear) v2
+Author = libretro-database contributors / original PSP cheat authors
+21345810 00000000
+
+// Inf. Consecutive Wins
+Author = libretro-database contributors / original PSP cheat authors
+116C76C8 000003E7
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+203E364C 43700000
+203E3658 43700000
+
+// Infinite Consecutive Wins
+Author = libretro-database contributors / original PSP cheat authors
+116C76C8 000003E7
+
+// Infinite Consecutive Wins v2
+Author = libretro-database contributors / original PSP cheat authors
+206C76C8 000003E7
+
+// Infinite Health Bonus
+Author = libretro-database contributors / original PSP cheat authors
+20DAAE4C 0001869F
+
+// Infinite Matches
+Author = libretro-database contributors / original PSP cheat authors
+10DAA2D8 000003E7
+
+// Infinite Matches v2
+Author = libretro-database contributors / original PSP cheat authors
+20DAA2D8 000003E7
+
+// Infinite Percentage
+Author = libretro-database contributors / original PSP cheat authors
+10D99614 000003E7
+
+// Infinite Percentage v2
+Author = libretro-database contributors / original PSP cheat authors
+20D99614 000003E7
+
+// Infinite Perfect Victory
+Author = libretro-database contributors / original PSP cheat authors
+20DAAE58 000F423F
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+003CFF34 00000063
+
+// Infinite Time Bonus
+Author = libretro-database contributors / original PSP cheat authors
+10DAAE54 0000270F
+
+// Infinite Time Bonus v2
+Author = libretro-database contributors / original PSP cheat authors
+20DAAE54 0000270F
+
+// Infinite Wins
+Author = libretro-database contributors / original PSP cheat authors
+10DAA2D0 000003E7
+
+// Infinite Wins v2
+Author = libretro-database contributors / original PSP cheat authors
+20DAA2D0 000003E7
+
+// Invincible Background
+Author = libretro-database contributors / original PSP cheat authors
+103A795E 00003FC0
+
+// Max Attack
+Author = libretro-database contributors / original PSP cheat authors
+10D70108 000003E7
+
+// Max Attack v2
+Author = libretro-database contributors / original PSP cheat authors
+20D70108 000003E7
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+016C904C 3B9AC9FF
+
+// Max Score v2
+Author = libretro-database contributors / original PSP cheat authors
+206C904C 3B9AC9FF
+
+// Perfect Win
+Author = libretro-database contributors / original PSP cheat authors
+20DAAE5C 000F423F
+
+// Speed Modifier: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+203CFE78 3FC00000
+
+// Speed Modifier: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+203CFE78 40000000
+
+// Speed Modifier: Normal Speed
+Author = libretro-database contributors / original PSP cheat authors
+203CFE78 3F800000
+
+// Speed Modifier: Player 2 Is Really Slow
+Author = libretro-database contributors / original PSP cheat authors
+203F6D38 00000000
+
+// Speed Modifier: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+203CFE78 3FA00000
+
+// Speed Modifier: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+203CFE78 3F000000
+
+// Vertical Move (Back Move For Headgear)
+Author = libretro-database contributors / original PSP cheat authors
+21345610 00000000
+
+// Vertical Move (Back Move For Headgear) v2
+Author = libretro-database contributors / original PSP cheat authors
+213525D0 00000000
+
+// Width Female
+Author = libretro-database contributors / original PSP cheat authors
+21352AD0 00000000
+
+// Width Male
+Author = libretro-database contributors / original PSP cheat authors
+21345A10 00000000
+
+// Player 1: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+203E364C 43700000
+
+// Player 1: Maximum Soul
+Author = libretro-database contributors / original PSP cheat authors
+003E44C4 000000C8
+
+// Player 1: No Health
+Author = libretro-database contributors / original PSP cheat authors
+203E364C 3F800000
+
+// Player 1: No Soul
+Author = libretro-database contributors / original PSP cheat authors
+003E44C4 00000000
+
+// Player 2: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+203FA30C 43700000
+
+// Player 2: Is Really Slow
+Author = libretro-database contributors / original PSP cheat authors
+203F6D38 00000000
+
+// Player 2: Maximum Soul
+Author = libretro-database contributors / original PSP cheat authors
+003FB184 000000C8
+
+// Player 2: No Health
+Author = libretro-database contributors / original PSP cheat authors
+203FA30C 3F800000
+
+// Player 2: No Soul
+Author = libretro-database contributors / original PSP cheat authors
+003FB184 00000000
+
+// Bigger Weapon
+Author = libretro-database contributors / original PSP cheat authors
+203E3F20 3FC00000
+203E3F24 3FC00000
+203E3F28 3FC00000
+
+// Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+203E3F20 40800000
+203E3F24 40800000
+203E3F28 40800000
+
+// Massive Weapon
+Author = libretro-database contributors / original PSP cheat authors
+203E3F20 40000000
+203E3F24 40000000
+203E3F28 40000000
+
+// Normal Weapon
+Author = libretro-database contributors / original PSP cheat authors
+203E3F20 3F800000
+203E3F24 3F800000
+203E3F28 3F800000
+
+// Algol's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020029
+
+// Amy's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020030
+
+// Astaroth's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020012
+
+// Cassandra's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020017
+
+// Cervantes's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020014
+
+// Dampierre's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 2402002F
+
+// Hilde's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020028
+
+// Ivy's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 2402000B
+
+// Killik's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 2402000C
+
+// Kratos's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 2402002E
+
+// Lizardman's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 2402000E
+
+// Maxi's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020004
+
+// Mitsurugi's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020001
+
+// Nightmare's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020011
+
+// Raphael's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020015
+
+// Rock's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020008
+
+// Segfried's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020007
+
+// Setsuka's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020022
+
+// Seong Mina's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020002
+
+// Sophitia's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020006
+
+// Taki's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020003
+
+// Talim's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020016
+
+// Tira's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020023
+
+// Voldo's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020005
+
+// Xianghua's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 2402000D
+
+// Yoshimitsu's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 2402000F
+
+// Yun-Seong's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 2402001A
+
+// Zasalamel's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108BE
+20001004 34213340
+20001008 14320004
+20001014 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001010 24020024
+
+// Algol's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000018
+
+// Amy's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 0000001B
+
+// Astaroth's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 0000000E
+
+// Cassandra's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000012
+
+// Cervantes's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 0000000F
+
+// Dampierre's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 0000001A
+
+// Hilde's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000017
+
+// Ivy's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000008
+
+// Killik's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000009
+
+// Kratos's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000019
+
+// Lizardman's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 0000000B
+
+// Maxi's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000003
+
+// Mitsurugi's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000000
+
+// Nightmare's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 0000000D
+
+// Raphael's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000010
+
+// Rock's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000007
+
+// Segfried's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000006
+
+// Seong Mina's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000001
+
+// Setsuka's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000014
+
+// Sophitia's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000005
+
+// Taki's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000002
+
+// Talim's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000011
+
+// Tira's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000015
+
+// Voldo's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000004
+
+// Xianghua's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 0000000A
+
+// Yoshimitsu's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 0000000C
+
+// Yun-Seong's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000013
+
+// Zasalamel's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203E3150 00000016
+
+// Algol's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020029
+
+// Amy's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020030
+
+// Astaroth's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020012
+
+// Cassandra's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020017
+
+// Cervantes's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020014
+
+// Dampierre's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 2402002F
+
+// Hilde's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020028
+
+// Ivy's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 2402000B
+
+// Killik's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 2402000C
+
+// Kratos's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 2402002E
+
+// Lizardman's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 2402000E
+
+// Maxi's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020004
+
+// Mitsurugi's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020001
+
+// Nightmare's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020011
+
+// Raphael's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020015
+
+// Rock's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020008
+
+// Segfried's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020007
+
+// Setsuka's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020022
+
+// Seong Mina's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020002
+
+// Sophitia's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020006
+
+// Taki's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020003
+
+// Talim's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020016
+
+// Tira's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020023
+
+// Voldo's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020005
+
+// Xianghua's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 2402000D
+
+// Yoshimitsu's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 2402000F
+
+// Yun-Seong's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 2402001A
+
+// Zasalamel's Moves
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3C0108BF
+20001024 3421A000
+20001028 14320004
+20001034 03E00008
+20001040 0A23AB7C
+20064114 0E200400
+20001030 24020024
+
+// Algol's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000018
+
+// Amy's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 0000001B
+
+// Astaroth's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 0000000E
+
+// Cassandra's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000012
+
+// Cervantes's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 0000000F
+
+// Dampierre's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 0000001A
+
+// Hilde's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000017
+
+// Ivy's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000008
+
+// Killik's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000009
+
+// Kratos's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000019
+
+// Lizardman's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 0000000B
+
+// Maxi's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000003
+
+// Mitsurugi's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000000
+
+// Nightmare's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 0000000D
+
+// Raphael's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000010
+
+// Rock's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000007
+
+// Segfried's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000006
+
+// Seong Mina's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000001
+
+// Setsuka's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000014
+
+// Sophitia's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000005
+
+// Taki's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000002
+
+// Talim's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000011
+
+// Tira's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000015
+
+// Voldo's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000004
+
+// Xianghua's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 0000000A
+
+// Yoshimitsu's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 0000000C
+
+// Yun-Seong's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000013
+
+// Zasalamel's Weapons
+Author = libretro-database contributors / original PSP cheat authors
+203F9E10 00000016

@@ -1,0 +1,697 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULJM-05976
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 0 Stress
+Author = libretro-database contributors / original PSP cheat authors
+202F3CF8 00000000
+
+// All ADV
+Author = libretro-database contributors / original PSP cheat authors
+802F4099 000B0001
+000000FF 00000000
+
+// All Clothing
+Author = libretro-database contributors / original PSP cheat authors
+802F3DBC 00420001
+000000FF 00000000
+
+// All Endings
+Author = libretro-database contributors / original PSP cheat authors
+402F4114 00050001
+11111111 00000000
+
+// All Mini Games
+Author = libretro-database contributors / original PSP cheat authors
+002F406B 0000001F
+
+// Crown Sparkle
+Author = libretro-database contributors / original PSP cheat authors
+002F41AB 000000FF
+
+// Full Album
+Author = libretro-database contributors / original PSP cheat authors
+802F407A 000F0001
+1000FFFF 00000000
+002F4098 0000007F
+
+// Heart Max Arashi
+Author = libretro-database contributors / original PSP cheat authors
+00328B36 000000FF
+
+// Heart Max Junpei
+Author = libretro-database contributors / original PSP cheat authors
+00328B8E 000000FF
+
+// Heart Max Karen
+Author = libretro-database contributors / original PSP cheat authors
+00328CB4 000000FF
+
+// Heart Max Kouichi
+Author = libretro-database contributors / original PSP cheat authors
+00328ADE 000000FF
+
+// Heart Max Miyo
+Author = libretro-database contributors / original PSP cheat authors
+00328C90 000000FF
+
+// Heart Max Ruka
+Author = libretro-database contributors / original PSP cheat authors
+00328A86 000000FF
+
+// Heart Max Seiji
+Author = libretro-database contributors / original PSP cheat authors
+00328C3E 000000FF
+
+// Heart Max Tamao
+Author = libretro-database contributors / original PSP cheat authors
+00328BE6 000000FF
+
+// Max Art
+Author = libretro-database contributors / original PSP cheat authors
+202F3CE4 4479C000
+
+// Max Charm
+Author = libretro-database contributors / original PSP cheat authors
+202F3CF4 4479C000
+
+// Max Fitness
+Author = libretro-database contributors / original PSP cheat authors
+202F3CEC 4479C000
+
+// Max Intel.
+Author = libretro-database contributors / original PSP cheat authors
+202F3CE0 4479C000
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+202F3CDC 4479C000
+
+// Max Social
+Author = libretro-database contributors / original PSP cheat authors
+202F3CF0 4479C000
+
+// Max Style
+Author = libretro-database contributors / original PSP cheat authors
+202F3CE8 4479C000
+
+// No HeartBreak Arashi
+Author = libretro-database contributors / original PSP cheat authors
+00328B39 00000000
+
+// No HeartBreak Junpei
+Author = libretro-database contributors / original PSP cheat authors
+00328B91 00000000
+
+// No HeartBreak Kouichi
+Author = libretro-database contributors / original PSP cheat authors
+00328AE1 00000000
+
+// No HeartBreak Ruka
+Author = libretro-database contributors / original PSP cheat authors
+00328A89 00000000
+
+// No HeartBreak Seiji
+Author = libretro-database contributors / original PSP cheat authors
+00328C41 00000000
+
+// No HeartBreak Tamao
+Author = libretro-database contributors / original PSP cheat authors
+00328BE9 00000000
+
+// Rich Max
+Author = libretro-database contributors / original PSP cheat authors
+102F3CDC 000003E7
+
+// Stress 0
+Author = libretro-database contributors / original PSP cheat authors
+202F3CF8 00000000
+
+// Love Ruka (Dislike)
+Author = libretro-database contributors / original PSP cheat authors
+00328A84 00000009
+
+// Love Ruka (Hate)
+Author = libretro-database contributors / original PSP cheat authors
+00328A84 00000008
+
+// Love Ruka (Like)
+Author = libretro-database contributors / original PSP cheat authors
+00328A84 0000000B
+
+// Love Ruka (Love)
+Author = libretro-database contributors / original PSP cheat authors
+00328A84 0000000C
+
+// Love Ruka (Neutral)
+Author = libretro-database contributors / original PSP cheat authors
+00328A84 0000000A
+
+// Love Ruka (Tokimeki)
+Author = libretro-database contributors / original PSP cheat authors
+00328A84 0000000D
+
+// Love Kouichi (Dislike)
+Author = libretro-database contributors / original PSP cheat authors
+00328ADC 00000009
+
+// Love Kouichi (Hate)
+Author = libretro-database contributors / original PSP cheat authors
+00328ADC 00000008
+
+// Love Kouichi (Like)
+Author = libretro-database contributors / original PSP cheat authors
+00328ADC 0000000B
+
+// Love Kouichi (Love)
+Author = libretro-database contributors / original PSP cheat authors
+00328ADC 0000000C
+
+// Love Kouichi (Neutral)
+Author = libretro-database contributors / original PSP cheat authors
+00328ADC 0000000A
+
+// Love Kouichi (Tokimeki)
+Author = libretro-database contributors / original PSP cheat authors
+00328ADC 0000000D
+
+// Love Arashi (Dislike)
+Author = libretro-database contributors / original PSP cheat authors
+00328B34 00000009
+
+// Love Arashi (Hate)
+Author = libretro-database contributors / original PSP cheat authors
+00328B34 00000008
+
+// Love Arashi (Like)
+Author = libretro-database contributors / original PSP cheat authors
+00328B34 0000000B
+
+// Love Arashi (Love)
+Author = libretro-database contributors / original PSP cheat authors
+00328B34 0000000C
+
+// Love Arashi (Neutral)
+Author = libretro-database contributors / original PSP cheat authors
+00328B34 0000000A
+
+// Love Arashi (Tokimeki)
+Author = libretro-database contributors / original PSP cheat authors
+00328B34 0000000D
+
+// Love Junpei (Dislike)
+Author = libretro-database contributors / original PSP cheat authors
+00328B8C 00000009
+
+// Love Junpei (Hate)
+Author = libretro-database contributors / original PSP cheat authors
+00328B8C 00000008
+
+// Love Junpei (Like)
+Author = libretro-database contributors / original PSP cheat authors
+00328B8C 0000000B
+
+// Love Junpei (Love)
+Author = libretro-database contributors / original PSP cheat authors
+00328B8C 0000000C
+
+// Love Junpei (Neutral)
+Author = libretro-database contributors / original PSP cheat authors
+00328B8C 0000000A
+
+// Love Junpei (Tokimeki)
+Author = libretro-database contributors / original PSP cheat authors
+00328B8C 0000000D
+
+// Love Tamao (Dislike)
+Author = libretro-database contributors / original PSP cheat authors
+00328BE4 00000009
+
+// Love Tamao (Hate)
+Author = libretro-database contributors / original PSP cheat authors
+00328BE4 00000008
+
+// Love Tamao (Like)
+Author = libretro-database contributors / original PSP cheat authors
+00328BE4 0000000B
+
+// Love Tamao (Love)
+Author = libretro-database contributors / original PSP cheat authors
+00328BE4 0000000C
+
+// Love Tamao (Neutral)
+Author = libretro-database contributors / original PSP cheat authors
+00328BE4 0000000A
+
+// Love Tamao (Tokimeki)
+Author = libretro-database contributors / original PSP cheat authors
+00328BE4 0000000D
+
+// Love Seiji (Dislike)
+Author = libretro-database contributors / original PSP cheat authors
+00328C3C 00000009
+
+// Love Seiji (Hate)
+Author = libretro-database contributors / original PSP cheat authors
+00328C3C 00000008
+
+// Love Seiji (Like)
+Author = libretro-database contributors / original PSP cheat authors
+00328C3C 0000000B
+
+// Love Seiji (Love)
+Author = libretro-database contributors / original PSP cheat authors
+00328C3C 0000000C
+
+// Love Seiji (Neutral)
+Author = libretro-database contributors / original PSP cheat authors
+00328C3C 0000000A
+
+// Love Seiji (Tokimeki)
+Author = libretro-database contributors / original PSP cheat authors
+00328C3C 0000000D
+
+// Love Miyo (Dislike)
+Author = libretro-database contributors / original PSP cheat authors
+00328C94 00000009
+
+// Love Miyo (Hate)
+Author = libretro-database contributors / original PSP cheat authors
+00328C94 00000008
+
+// Love Miyo (Like)
+Author = libretro-database contributors / original PSP cheat authors
+00328C94 0000000B
+
+// Love Miyo (Love)
+Author = libretro-database contributors / original PSP cheat authors
+00328C94 0000000C
+
+// Love Miyo (Neutral)
+Author = libretro-database contributors / original PSP cheat authors
+00328C94 0000000A
+
+// Love Miyo (Tokimeki)
+Author = libretro-database contributors / original PSP cheat authors
+00328C94 0000000D
+
+// Love Karen (Dislike)
+Author = libretro-database contributors / original PSP cheat authors
+00328CEC 00000009
+
+// Love Karen (Hate)
+Author = libretro-database contributors / original PSP cheat authors
+00328CEC 00000008
+
+// Love Karen (Like)
+Author = libretro-database contributors / original PSP cheat authors
+00328CEC 0000000B
+
+// Love Karen (Love)
+Author = libretro-database contributors / original PSP cheat authors
+00328CEC 0000000C
+
+// Love Karen (Neutral)
+Author = libretro-database contributors / original PSP cheat authors
+00328CEC 0000000A
+
+// Love Karen (Tokimeki)
+Author = libretro-database contributors / original PSP cheat authors
+00328CEC 0000000D
+
+// Angel Lv.1
+Author = libretro-database contributors / original PSP cheat authors
+002F3D28 000000A0
+
+// Angel Lv.2
+Author = libretro-database contributors / original PSP cheat authors
+002F3D28 000000C0
+
+// Angel Lv.3
+Author = libretro-database contributors / original PSP cheat authors
+002F3D28 000000D0
+
+// Angel Lv.4
+Author = libretro-database contributors / original PSP cheat authors
+002F3D28 000000F0
+
+// Angel Or Sweet Devil [Normal]
+Author = libretro-database contributors / original PSP cheat authors
+002F3D28 00000080
+
+// Sweet Devil Lv.1
+Author = libretro-database contributors / original PSP cheat authors
+002F3D28 00000060
+
+// Sweet Devil Lv.2
+Author = libretro-database contributors / original PSP cheat authors
+002F3D28 00000040
+
+// Sweet Devil Lv.3
+Author = libretro-database contributors / original PSP cheat authors
+002F3D28 00000030
+
+// Sweet Devil Lv.4
+Author = libretro-database contributors / original PSP cheat authors
+002F3D28 00000010
+
+// Crown Arashi (King Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F416F 00000030
+
+// Crown Arashi (Large Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F416F 00000020
+
+// Crown Arashi (Small Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F416F 00000010
+
+// Crown Ruka (King Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F416B 00000030
+
+// Crown Ruka (Large Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F416B 00000020
+
+// Crown Ruka (Small Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F416B 00000010
+
+// Crown Junpei (King Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F4171 00000030
+
+// Crown Junpei (Large Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F4171 00000020
+
+// Crown Junpei (Small Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F4171 00000010
+
+// Crown Kouichi (King Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F416D 00000030
+
+// Crown Kouichi (Large Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F416D 00000020
+
+// Crown Kouichi (Small Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F416D 00000010
+
+// Crown Seiji (King Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F4175 00000030
+
+// Crown Seiji (Large Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F4175 00000020
+
+// Crown Seiji (Small Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F4175 00000010
+
+// Crown Tamao (King Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F4173 00000030
+
+// Crown Tamao (Large Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F4173 00000020
+
+// Crown Tamao (Small Crown)
+Author = libretro-database contributors / original PSP cheat authors
+002F4173 00000010
+
+// Fashion Lv. 5
+Author = libretro-database contributors / original PSP cheat authors
+002F3D05 00000040
+
+// 100m Auto Dash
+Author = libretro-database contributors / original PSP cheat authors
+201C2864 00000000
+
+// A Lot Love By Date
+Author = libretro-database contributors / original PSP cheat authors
+2005E230 00000000
+2005E2AC 3C014400
+2005E2B8 AE010228
+2005E2D8 3C01449C
+2005E2E0 AE010224
+2005E30C AE00022C
+
+// Art 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 00008084
+
+// Exercise 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 00007FB4
+
+// Exp. 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 00007E7C
+
+// Experience 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 00007E7C
+
+// Exterior 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 0000801C
+
+// Fig 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 000081BC
+
+// Free Talk Open
+Author = libretro-database contributors / original PSP cheat authors
+200E0C60 1040001D
+200E0CD0 24020001
+200E0CD4 A0620000
+200E0CD8 8FBF0014
+200E0CDC 8FB00010
+
+// Gallery All
+Author = libretro-database contributors / original PSP cheat authors
+20001000 24020001
+20001004 03E00008
+20001008 A0620000
+200E07D0 24020001
+200E07D8 A0620000
+200E0804 24020001
+200E0808 A0620000
+200F36FC 0A200400
+200F37BC 0A200400
+00050001 0000765C
+
+// Girls Phone List Save
+Author = libretro-database contributors / original PSP cheat authors
+20001300 0A267791
+20001304 A0410098
+2019DE04 24010001
+2019DE08 0A2004C0
+
+// Girls Phone List Save [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2019DE08 1000000E
+
+// Guts 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 00007F4C
+
+// Hand Filler Max Heart
+Author = libretro-database contributors / original PSP cheat authors
+201FA000 2411000A
+
+// HP 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 000081BC
+
+// Humanties 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 00008154
+
+// Kingyo Taikyuu
+Author = libretro-database contributors / original PSP cheat authors
+201CD308 00000000
+D0000000 10000300
+201CD308 44800000
+
+// Medal Room Open
+Author = libretro-database contributors / original PSP cheat authors
+200DFAF0 24060003
+200DFAF4 0E235881
+200DFAF8 26100001
+200DFB0C 24020003
+
+// Mini Game Open
+Author = libretro-database contributors / original PSP cheat authors
+200E0700 24020001
+200E0704 A0620000
+200E0734 24020001
+200E0C3C 24020001
+
+// Mitsumete Room Open
+Author = libretro-database contributors / original PSP cheat authors
+200E08C0 24020001
+200E08C4 A0620000
+200E08EC 24020001
+
+// Motivation Max
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 41200000
+00050001 00007E14
+
+// MP Battery Max
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 40800000
+
+// Ninin Lorr Collect
+Author = libretro-database contributors / original PSP cheat authors
+202015FC 00000000
+20201608 00000000
+20201610 500000A7
+
+// No Break Explosion
+Author = libretro-database contributors / original PSP cheat authors
+200C97F4 00000000
+200C97FC 24020000
+
+// Omake Free Talk All
+Author = libretro-database contributors / original PSP cheat authors
+200E0C60 1040001D
+200E0CD0 24020001
+200E0CD4 A0620000
+200E0CD8 8FBF0014
+200E0CDC 8FB00010
+
+// Omake Medal Gold All
+Author = libretro-database contributors / original PSP cheat authors
+200DFAF0 24060003
+200DFAF4 0E235881
+200DFAF8 26100001
+200DFB0C 24020003
+
+// Omake Minigame All
+Author = libretro-database contributors / original PSP cheat authors
+200E0700 24020001
+200E0704 A0620000
+200E0734 24020001
+200E0C3C 24020001
+
+// Omake Mitumete Room All
+Author = libretro-database contributors / original PSP cheat authors
+200E08C0 24020001
+200E08C4 A0620000
+200E08EC 24020001
+
+// Player Art 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 00008084
+
+// Player Figure 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 0000801C
+
+// Player Literature 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 00008154
+
+// Player Motivation Max
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 41200000
+00050001 00007E14
+
+// Player Movement 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 00007FB4
+
+// Player Science 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 000080EC
+
+// Player Spirit 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 00007F4C
+
+// Rich 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 00007EE4
+
+// Rich 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 00007EE4
+
+// Science Course 999
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 4479C000
+00050001 000080EC
+
+// Syateki Semiauto
+Author = libretro-database contributors / original PSP cheat authors
+201D6A90 24020063
+201D6A8C 14600126
+D0000000 10002000
+201D6A8C 10000126
+
+// TEL Nandodemo
+Author = libretro-database contributors / original PSP cheat authors
+200C96BC 24020001
+
+// Telephone Battery Max
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10AC407E
+60AC407C 40800000
+00050001 0000765C
+
+// Tunahiki Auto Win
+Author = libretro-database contributors / original PSP cheat authors
+201C6764 10000032
+201C68D4 00000000
+
+// Tunahiki Sutamina
+Author = libretro-database contributors / original PSP cheat authors
+201C68C4 00000000

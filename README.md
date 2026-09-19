@@ -70,7 +70,7 @@ python scripts/validate_libretro_source.py --source path/to/libretro-database
 To prepare a release bundle after validation:
 
 ```bash
-python scripts/make_release.py --version v1.0.6
+python scripts/make_release.py --version v1.0.7
 ```
 
 The resulting ZIP is an archival distribution bundle. `cheats.json` continues

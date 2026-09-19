@@ -40,6 +40,12 @@ SERIALS = {
     "UCUS-98633", "ULJM-05600", "ULES-00850", "ULJS-00237", "ULES-00841",
     "ULUS-10375", "ULJM-05940", "UCES-00356", "ULJS-00097", "NPJH-50043",
     "ULES-00176", "ULAS-42060", "ULES-00318", "UCUS-98711", "ULUS-10084",
+    # Batch 007: additional PSP serials from the same pinned libretro snapshot.
+    "NPUH-10041", "UCES-00995", "ULUS-10529", "ULES-01392", "ULUS-10461",
+    "ULES-00193", "ULUS-10202", "ULES-00724", "ULUS-10107", "ULES-01507",
+    "NPJH-50567", "UCUS-98716", "ULUS-10308", "ULES-01298", "NPJH-50588",
+    "ULES-00180", "ULUS-10457", "ULJM-05976", "ULJM-05814", "ULJM-05604",
+    "NPJH-50377", "ULES-01044", "ULJM-05353", "ULJS-00202", "ULES-01347",
 }
 SERIAL_RE = re.compile(r"\[([A-Z]{4}-[0-9]{5})\]\.cht$")
 DESC_RE = re.compile(r'^cheat(\d+)_desc\s*=\s*("(?:\\.|[^"\\])*")$', re.MULTILINE)
@@ -101,8 +107,8 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--source", type=Path, default=Path(__file__).parents[2] / "libretro-database-psp")
     parser.add_argument("--repo", type=Path, default=Path(__file__).parents[1])
-    parser.add_argument("--batch-id", default="batch-006")
-    parser.add_argument("--release-version", default="v1.0.6")
+    parser.add_argument("--batch-id", default="batch-007")
+    parser.add_argument("--release-version", default="v1.0.7")
     args = parser.parse_args()
     source_root = args.source.resolve() / "cht" / "Sony - PlayStation Portable"
     repo = args.repo.resolve()

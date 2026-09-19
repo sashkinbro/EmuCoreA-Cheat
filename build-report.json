@@ -1,6 +1,6 @@
 {
-  "batch": "batch-006",
-  "release": "v1.0.6",
+  "batch": "batch-007",
+  "release": "v1.0.7",
   "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
   "libretroCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
   "libretroEntries": [
@@ -61,6 +61,14 @@
       "sha256": "F12E3D6F3EEA99C332492444994CA3A464FB6EC75905F6EF2F52B7EA464F2623"
     },
     {
+      "serial": "NPJH-50377",
+      "sourceFile": "Dissidia 012 - Duodecim Final Fantasy (PlayStation Store) [JP] [NPJH-50377].cht",
+      "blocks": 154,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "66EC966BEF35E6C148BA660F45F1404CB42DFF926C434BE339729295A5191B26"
+    },
+    {
       "serial": "NPJH-50443",
       "sourceFile": "Final Fantasy - Type-0 Reishiki (Disk 1) (PlayStation Store) [JP] [NPJH-50443].cht",
       "blocks": 440,
@@ -91,6 +99,22 @@
       "excluded": 13,
       "malformed": 0,
       "sha256": "C040977820F42F5A34564CCFC52CB58C89B79FE7B017D9B2E89533962733A2FA"
+    },
+    {
+      "serial": "NPJH-50567",
+      "sourceFile": "Kidou Senshi Gundam Age - Cosmic Drive (PlayStation Store) [JP] [NPJH-50567].cht",
+      "blocks": 204,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "995D6E680B0DB33999AD0752F124F9A3F87ADE3F3EC17091D8B32AE24213D65C"
+    },
+    {
+      "serial": "NPJH-50588",
+      "sourceFile": "Digimon World Re -Digitize (PlayStation Store) [JP] [NPJH-50588].cht",
+      "blocks": 154,
+      "excluded": 8,
+      "malformed": 0,
+      "sha256": "91B23A0DAE8FED08024582C6E8B0D9A5836C1AF9200F14754AEC6C3AC23D7CB6"
     },
     {
       "serial": "NPJH-50618",
@@ -133,6 +157,14 @@
       "sha256": "9B1A352B22C32DFF1D7A3B7DE3FAE2A147550B89A0145A1E3C574E881AE65A1F"
     },
     {
+      "serial": "NPUH-10041",
+      "sourceFile": "Valhalla Knights 2 - Battle Stance (PlayStation Store) [US] [NPUH-10041].cht",
+      "blocks": 538,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "9B8CB461CBA0CB410256F34841C6E12D8F2BF7D329A4586864D0E48BA1E30E9D"
+    },
+    {
       "serial": "NPUH-10125",
       "sourceFile": "Final Fantasy III (PlayStation Store) [US] [NPUH-10125].cht",
       "blocks": 90,
@@ -147,6 +179,14 @@
       "excluded": 5,
       "malformed": 0,
       "sha256": "C305EA062AF07CADFEF68ED3DBA05ADD2BCF22047E73115C55D0B45C7E986019"
+    },
+    {
+      "serial": "UCES-00995",
+      "sourceFile": "Patapon [EU] [UCES-00995].cht",
+      "blocks": 438,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "CF27C86E93C4991238F871F18E693AA28D30AC4B6FA0F1C363FB85927F2AB3AC"
     },
     {
       "serial": "UCES-01242",
@@ -245,6 +285,14 @@
       "sha256": "0C33AD61D840F6F851DBF8138B3E318EB0E198C95160E2722179D7C92D7D6A23"
     },
     {
+      "serial": "UCUS-98716",
+      "sourceFile": "SOCOM - U.S. Navy Seals Fireteam Bravo 3 [US] [UCUS-98716].cht",
+      "blocks": 194,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "793496222426D2604A8C8378AC6662A26F626ED9A6BA88F1D2E06C0918CB03A3"
+    },
+    {
       "serial": "UCUS-98751",
       "sourceFile": "Patapon 3 [US] [UCUS-98751].cht",
       "blocks": 133,
@@ -277,12 +325,28 @@
       "sha256": "4126E3432F6E11D1AF495F73AD4691B2CDAFD4564B38440D07AE9DE597296370"
     },
     {
+      "serial": "ULES-00180",
+      "sourceFile": "Midway Arcade Treasures - Extended Play [EU] [ULES-00180].cht",
+      "blocks": 159,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "36B3DE3B2C4F409F49856A257011C6B43A3733F1354A033895E2FC21D99A9906"
+    },
+    {
       "serial": "ULES-00182",
       "sourceFile": "Grand Theft Auto - Liberty City Stories (v1.00) [GER] [ULES-00182].cht",
       "blocks": 205,
       "excluded": 11,
       "malformed": 0,
       "sha256": "4566A05F361E6F1FF717F5E74260E7FD75D67D4B2256F5B28CB4CA5114849437"
+    },
+    {
+      "serial": "ULES-00193",
+      "sourceFile": "Breath Of Fire III [EU] [ULES-00193].cht",
+      "blocks": 261,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "68555B2441615DE49D1305C73D9F3DB44D308336E7F1E0106653BF012B2E89EE"
     },
     {
       "serial": "ULES-00318",
@@ -317,6 +381,14 @@
       "sha256": "4B975052CDD9036B71EE9DCD008F39F51EC86F41617052E3415B9C9625A56293"
     },
     {
+      "serial": "ULES-00724",
+      "sourceFile": "Valkyrie Profile - Lenneth [EU] [ULES-00724].cht",
+      "blocks": 231,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "3872E2C8C9BADCB9BC54830EE30D64267B04C76E75E66A233CBFA1F8C28F232E"
+    },
+    {
       "serial": "ULES-00841",
       "sourceFile": "Castlevania - The Dracula X Chronicles [EU] [ULES-00841].cht",
       "blocks": 151,
@@ -331,6 +403,14 @@
       "excluded": 5,
       "malformed": 0,
       "sha256": "C39793D82F809437B6994C0747EFC73C4E934569A93E781D4137471E43D09DA5"
+    },
+    {
+      "serial": "ULES-01044",
+      "sourceFile": "Crisis Core - Final Fantasy VII [EU] [ULES-01044].cht",
+      "blocks": 148,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "0DC9C2810374389FF2EE9815A177D5C6694E5F3E7223CF438FE017D575E13207"
     },
     {
       "serial": "ULES-01183",
@@ -357,6 +437,22 @@
       "sha256": "7DB73C7A24CA6BA734B6FE358D716325D18D12C9772FC32AC54DAD84849ED7D6"
     },
     {
+      "serial": "ULES-01298",
+      "sourceFile": "Soul Calibur - Broken Destiny [EU] [ULES-01298].cht",
+      "blocks": 174,
+      "excluded": 11,
+      "malformed": 0,
+      "sha256": "B2FF606DF8C2A95818FCCF11347274D58B6826084BF2D8B3F64A67EDEBE2FF38"
+    },
+    {
+      "serial": "ULES-01347",
+      "sourceFile": "Grand Theft Auto - Chinatown Wars [EU] [ULES-01347].cht",
+      "blocks": 146,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "33DF0A7D8FAB996825C01177F92BD41525FF48B52519FB4ED2182BFB65AA845B"
+    },
+    {
       "serial": "ULES-01367",
       "sourceFile": "Assassin's Creed - Bloodline [EU] [ULES-01367].cht",
       "blocks": 47,
@@ -373,6 +469,14 @@
       "sha256": "48F6198FA79CA38BD774B8DC5AD76B64E3C6A4C606BD8982C9CCABAD8F1CB5A8"
     },
     {
+      "serial": "ULES-01392",
+      "sourceFile": "Disgaea 2 - Dark Hero Days [EU] [ULES-01392].cht",
+      "blocks": 295,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "FECD0AFF76E498221C28663E548D9534602EDF3365934DB73B1A97A31BEADDB4"
+    },
+    {
       "serial": "ULES-01416",
       "sourceFile": "Dead Or Alive Paradise [EU] [ULES-01416].cht",
       "blocks": 239,
@@ -387,6 +491,14 @@
       "excluded": 0,
       "malformed": 0,
       "sha256": "17D17EE04C1381D9DBAE4129AD0384B229F510DE42F8D4B6EB4994FA42740755"
+    },
+    {
+      "serial": "ULES-01507",
+      "sourceFile": "Lord Of Arcana [EU] [ULES-01507].cht",
+      "blocks": 213,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "09112D840700AB26B37B6D17BEAFC60779409C1A9F48CC2C0CCB39CD30C35AA7"
     },
     {
       "serial": "ULES-01523",
@@ -445,6 +557,14 @@
       "sha256": "05E64979A2F0B39E6827C0A29FFBD352521ECA407B312F7B4BDADF53D3D80C71"
     },
     {
+      "serial": "ULJM-05353",
+      "sourceFile": "Eiyuu Densetsu - Sora No Kiseki The 3rd [JP] [ULJM-05353].cht",
+      "blocks": 148,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "32B884F9AE7C43631AC4A7DF24CF41A7111FF8033A2A145554E8B1B201BB9DEE"
+    },
+    {
       "serial": "ULJM-05402",
       "sourceFile": "Musou Orochi - Maou Sairin [JP] [ULJM-05402].cht",
       "blocks": 154,
@@ -485,6 +605,14 @@
       "sha256": "616F158DF5AA6A392524F94789AE432A6C34BCC6D5BB2A834D0B3C3951B47F6C"
     },
     {
+      "serial": "ULJM-05604",
+      "sourceFile": "Grand Theft Auto - Chinatown Wars [JP] [ULJM-05604].cht",
+      "blocks": 153,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "D107F20CD9DF95A109FFA42DDD56282C212BB1A58F26B1B38802997D20D3CCA9"
+    },
+    {
       "serial": "ULJM-05637",
       "sourceFile": "Shin Sangoku Musou - Multi Raid 2 [JP] [ULJM-05637].cht",
       "blocks": 200,
@@ -517,6 +645,14 @@
       "sha256": "7CCF8FC304FF20275B2E7B2A2B1B30A8D7299D35CA698AC919340C764C331508"
     },
     {
+      "serial": "ULJM-05814",
+      "sourceFile": "Dissidia 012 - Duodecim Final Fantasy [JP] [ULJM-05814].cht",
+      "blocks": 154,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "973D2117416CD10473B3E167F280C9AC4F7B860B54A8B023A228A31734008B53"
+    },
+    {
       "serial": "ULJM-05844",
       "sourceFile": "Busou Shinki - Battle Masters Mk. 2 [JP] [ULJM-05844].cht",
       "blocks": 27,
@@ -533,6 +669,14 @@
       "sha256": "7508A809C262BB6177466F5312C6EF42963A00FBD87C0E3ECDAD048612B581D6"
     },
     {
+      "serial": "ULJM-05976",
+      "sourceFile": "Tokimeki Memorial Girl's Side Premium 3rd Story [JP] [ULJM-05976].cht",
+      "blocks": 149,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "BD7E2BA9C9240A49A068F8D1929A6721D525731D95897373BA2182C2CD3B8F48"
+    },
+    {
       "serial": "ULJS-00048",
       "sourceFile": "Tekken - Dark Resurrection [JP] [ULJS-00048].cht",
       "blocks": 198,
@@ -547,6 +691,14 @@
       "excluded": 0,
       "malformed": 0,
       "sha256": "4259AB9B4570460A371462C04BB6F3C4FF8C7C260F76AA345D53364812A5A268"
+    },
+    {
+      "serial": "ULJS-00202",
+      "sourceFile": "Soul Calibur - Broken Destiny [JP] [ULJS-00202].cht",
+      "blocks": 144,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "44C596B1283F67C20490BDBAFF987846503BE474C8CA2AB6B794E36D76ED7777"
     },
     {
       "serial": "ULJS-00237",
@@ -581,6 +733,14 @@
       "sha256": "BAE2C3659E3AB4203D548AD945B33ED01D20CF3F9BF54D65145DD1250B80E00E"
     },
     {
+      "serial": "ULUS-10107",
+      "sourceFile": "Valkyrie Profile - Lenneth [US] [ULUS-10107].cht",
+      "blocks": 225,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "E4B9B3E7668700A06DFC56933B583FC841F6BE5731403DD02D4891D07B5F00AE"
+    },
+    {
       "serial": "ULUS-10139",
       "sourceFile": "Tekken - Dark Resurrection [US] [ULUS-10139].cht",
       "blocks": 101,
@@ -603,6 +763,14 @@
       "excluded": 2,
       "malformed": 0,
       "sha256": "5F6D65EC31B11FA76A2F8859BAE9768574969EC4092CD863EFA155E0136CAD60"
+    },
+    {
+      "serial": "ULUS-10202",
+      "sourceFile": "Metal Gear Solid - Portable Ops [US] [ULUS-10202].cht",
+      "blocks": 247,
+      "excluded": 14,
+      "malformed": 0,
+      "sha256": "253F53794D3150CA8541721EA053DEC06FBB75464F248F137EB8AE867BADF8B6"
     },
     {
       "serial": "ULUS-10219",
@@ -643,6 +811,14 @@
       "excluded": 4,
       "malformed": 0,
       "sha256": "83BEC394A4A620B54A63488A8259CEB5D2F051FA55BCFF6031E6BC30E2F09554"
+    },
+    {
+      "serial": "ULUS-10308",
+      "sourceFile": "Disgaea - Afternoon Of Darkness [US] [ULUS-10308].cht",
+      "blocks": 183,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "6A853BD45977628EE45991A775611A33AE6996E90E0E6AF87ED1BD44082EF47D"
     },
     {
       "serial": "ULUS-10310",
@@ -725,12 +901,28 @@
       "sha256": "793CC714B3F0DE7297789982A639031C4F37C753BADE50E5D2996BE6BF48DD74"
     },
     {
+      "serial": "ULUS-10457",
+      "sourceFile": "Soul Calibur - Broken Destiny [US] [ULUS-10457].cht",
+      "blocks": 147,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "01376C31997DD989AD5DAEECD7654DF78C98BE22A4F475E53897AA19602B9D99"
+    },
+    {
       "serial": "ULUS-10458",
       "sourceFile": "Harvest Moon - Hero Of Leaf Valley [US] [ULUS-10458].cht",
       "blocks": 267,
       "excluded": 8,
       "malformed": 0,
       "sha256": "08A44BF704A55F63526AA62C64CBD6F965A9BBB2C864AC7BED6CFE88D1080379"
+    },
+    {
+      "serial": "ULUS-10461",
+      "sourceFile": "Disgaea 2 - Dark Hero Days [US] [ULUS-10461].cht",
+      "blocks": 276,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "FC202AF3D70E173C94F4C150A8D10238E6D4644203CB51A92EEAD4B0DB007E19"
     },
     {
       "serial": "ULUS-10466",
@@ -763,6 +955,14 @@
       "excluded": 3,
       "malformed": 0,
       "sha256": "090C96AFC60DB97E008CCDBCBE1FC92EAF89FA3E054DBF5C986D7D64877835F1"
+    },
+    {
+      "serial": "ULUS-10529",
+      "sourceFile": "Phantasy Star Portable 2 [US] [ULUS-10529].cht",
+      "blocks": 411,
+      "excluded": 9,
+      "malformed": 0,
+      "sha256": "F78B6AC52B8FC73EA7CF4B1587A917AB0B6A29AF972038DE80ABA89BDF2F0EB5"
     },
     {
       "serial": "ULUS-10551",
