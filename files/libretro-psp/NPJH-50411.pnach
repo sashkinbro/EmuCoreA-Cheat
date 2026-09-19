@@ -1,0 +1,136 @@
+# PSP cheat pack
+# Serial: NPJH-50411
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 22 Friend Characters (Natsu To Wenddy)
+Author = libretro-database contributors / original PSP cheat authors
+40507654 00060001
+01010101 00000000
+0050766C 00000001
+
+// All Accessaries
+Author = libretro-database contributors / original PSP cheat authors
+8050C5AC 00180006
+00000007 00000000
+
+// All Cards Lv.3
+Author = libretro-database contributors / original PSP cheat authors
+8050C63C 00960001
+00000005 00000000
+
+// All Cloths Bottom Lv.5
+Author = libretro-database contributors / original PSP cheat authors
+8050C3A9 00670005
+00000001 00000000
+8050C3AA 00670005
+00000005 00000000
+
+// All Consumer Goods (Pouch)
+Author = libretro-database contributors / original PSP cheat authors
+80510858 00190001
+00000063 00000000
+
+// All Consumer Goods (Warehouse)
+Author = libretro-database contributors / original PSP cheat authors
+805076E8 00190001
+00000063 00000000
+
+// All Group Members
+Author = libretro-database contributors / original PSP cheat authors
+80507655 00120001
+00000001 00000000
+80507669 00040001
+80507681 00120001
+80507695 00040001
+
+// Character Picture Book Open
+Author = libretro-database contributors / original PSP cheat authors
+8050CBA7 00380001
+00000001 00000000
+
+// Clothing
+Author = libretro-database contributors / original PSP cheat authors
+8050C5AC 00300003
+00000005 00000000
+8050C287 00CE0001
+00000001 00000000
+8050C289 00CE0001
+00000003 00000000
+
+// Enclosed All Magic Book
+Author = libretro-database contributors / original PSP cheat authors
+8050B82E 005A0003
+00000001 00000000
+
+// HP Diminished
+Author = libretro-database contributors / original PSP cheat authors
+505043B4 00000004
+005042CC 00000000
+
+// Item Picture Book Open
+Author = libretro-database contributors / original PSP cheat authors
+8050CC3F 01210001
+00000001 00000000
+
+// Load All Magic
+Author = libretro-database contributors / original PSP cheat authors
+8050B93A 009A000E
+00000001 00000000
+
+// Mabelle Book Open
+Author = libretro-database contributors / original PSP cheat authors
+8050CB70 00280001
+00000001 00000000
+
+// Magic Book Full Installation
+Author = libretro-database contributors / original PSP cheat authors
+8050B93C 009A000E
+00000001 00000000
+8050C1A8 00CE0005
+8050C5AC 00300003
+00000005 00000000
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+20507954 05F5E0FF
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20507954 05F5E0FF
+
+// Monster Picture Book Open
+Author = libretro-database contributors / original PSP cheat authors
+8050CBDF 00300001
+00000001 00000000
+
+// MP Diminished
+Author = libretro-database contributors / original PSP cheat authors
+505043B8 00000004
+005042D0 00000000
+
+// Music Picture Book Open
+Author = libretro-database contributors / original PSP cheat authors
+8050CC0F 00240001
+00000001 00000000
+
+// Only Vegan
+Author = libretro-database contributors / original PSP cheat authors
+80507701 01060001
+00000063 00000000
+
+// Use Item & Material All x 85 - Box's Item
+Author = libretro-database contributors / original PSP cheat authors
+805076E8 011F0010
+00000055 00000000
+
+// Use Item x 1 - Hand's Item
+Author = libretro-database contributors / original PSP cheat authors
+805076AC 00180010
+00000001 00000000
+
+// All Cloths Top Lv. 5
+Author = libretro-database contributors / original PSP cheat authors
+8050C1A6 00670005
+00000001 00000000
+8050C1A7 00670005
+00000005 00000000

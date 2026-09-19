@@ -1,0 +1,161 @@
+# PSP cheat pack
+# Serial: NPJH-50222
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 401 The Number Of First Array Batter
+Author = libretro-database contributors / original PSP cheat authors
+0123D27A 00000191
+
+// 9999 The Number Of First Array Break
+Author = libretro-database contributors / original PSP cheat authors
+0123D282 0000270F
+
+// After Zhendoujidian
+Author = libretro-database contributors / original PSP cheat authors
+0126BA40 00002710
+
+// All Max Full Skills
+Author = libretro-database contributors / original PSP cheat authors
+41240778 00160009
+FFFFFFFF 00000000
+
+// All The Maximum Number Of Members Of Batter Max
+Author = libretro-database contributors / original PSP cheat authors
+81240792 00160012
+1000270F 00000000
+
+// Fighter Gallery All
+Author = libretro-database contributors / original PSP cheat authors
+81240794 00160024
+00000001 00000000
+81240774 00160024
+00000002 00000000
+
+// First Touchdown 999999
+Author = libretro-database contributors / original PSP cheat authors
+0123D1D4 0098967F
+
+// Full Comprehensive Access Point Max
+Author = libretro-database contributors / original PSP cheat authors
+4124078C 00160009
+3B9AC9FF 00000000
+
+// Full Travel Max
+Author = libretro-database contributors / original PSP cheat authors
+81240790 00160012
+10000063 00000000
+
+// HP Max
+Author = libretro-database contributors / original PSP cheat authors
+5123DDE0 00000002
+0123DDE4 00000000
+5123DDDE 00000002
+0123DDDC 00000000
+5123D0E0 00000002
+0123D0E4 00000000
+5123D0DE 00000002
+0123D0DC 00000000
+
+// Infinite Air
+Author = libretro-database contributors / original PSP cheat authors
+0123DF56 000000FF
+0123D256 000000FF
+
+// Max Combo Time
+Author = libretro-database contributors / original PSP cheat authors
+0123D278 000000FF
+0123DF78 000000FF
+
+// Max Energy
+Author = libretro-database contributors / original PSP cheat authors
+2123D254 43FA0000
+2123DF54 43FA0000
+
+// Max Number
+Author = libretro-database contributors / original PSP cheat authors
+01245468 00000009
+
+// Max Number Batter
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 3123DF7A
+1123DF7A 000003E7
+E0010001 3123D27A
+1123D27A 000003E7
+
+// Max Number Of Full Warrior Crusade
+Author = libretro-database contributors / original PSP cheat authors
+41240784 00160009
+000F423F 00000000
+
+// Max Number Of Kills
+Author = libretro-database contributors / original PSP cheat authors
+1123D282 000003E7
+1123DF82 000003E7
+
+// Max Scoring
+Author = libretro-database contributors / original PSP cheat authors
+2123D1D4 0098967F
+2123DED4 0098967F
+
+// Max Skill Points
+Author = libretro-database contributors / original PSP cheat authors
+2126BA34 0098967F
+2126BA40 0098967F
+
+// Max Strength
+Author = libretro-database contributors / original PSP cheat authors
+2123D254 43FA0000
+2123DF54 43FA0000
+
+// Substitutions Without Delay
+Author = libretro-database contributors / original PSP cheat authors
+1123D262 00000000
+1123DF62 00000000
+
+// Time Max
+Author = libretro-database contributors / original PSP cheat authors
+1124535C 00000708
+
+// Xianzhendouji Point
+Author = libretro-database contributors / original PSP cheat authors
+0126BA34 00002710
+
+// Character 1: Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+2123D254 43FA0000
+
+// Character 1: Max Combo
+Author = libretro-database contributors / original PSP cheat authors
+2123D27A 000003E7
+
+// Character 1: Max Kills
+Author = libretro-database contributors / original PSP cheat authors
+2123D282 0000270F
+
+// Character 1: Max Upgrade Points
+Author = libretro-database contributors / original PSP cheat authors
+2126BA34 000F423F
+
+// Character 1: Max Score
+Author = libretro-database contributors / original PSP cheat authors
+2123D1D4 0098967F
+
+// Character 2: Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+2123DF54 43FA0000
+
+// Character 2: Max Combo
+Author = libretro-database contributors / original PSP cheat authors
+2123DF7A 000003E7
+
+// Character 2: Max Kills
+Author = libretro-database contributors / original PSP cheat authors
+2123DF82 0000270F
+
+// Character 2: Max Upgrade Points
+Author = libretro-database contributors / original PSP cheat authors
+2126BA40 000F423F
+
+// Character 2: Max Score
+Author = libretro-database contributors / original PSP cheat authors
+2123DED4 0098967F

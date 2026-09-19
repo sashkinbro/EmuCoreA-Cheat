@@ -1,0 +1,28 @@
+# PSP cheat pack
+# Serial: NPJH-50489
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (M) Master Code
+Author = libretro-database contributors / original PSP cheat authors
+4E504A48 50489820
+
+// Event CG Gallery
+Author = libretro-database contributors / original PSP cheat authors
+001EBED2 0000000F
+801EBEC8 000B0001
+000000FF 00000000
+
+// Kizuna Gallery
+Author = libretro-database contributors / original PSP cheat authors
+201EBED4 FFFFFFFF
+201EBED8 FFFFFFFF
+
+// Movie Gallery
+Author = libretro-database contributors / original PSP cheat authors
+001EBEDC 000000FF
+
+// Voice Gallery
+Author = libretro-database contributors / original PSP cheat authors
+001EBEF4 0000007F
+801EBEDD 00180001
+000000FF 00000000

@@ -130,10 +130,31 @@ def main() -> int:
             "NPEZ-00200",            "NPEZ-00203",            "NPEZ-00205",            "NPEZ-00212",            "NPEZ-00215",
             "NPEZ-00217",            "NPEZ-00218",            "NPEZ-00219",            "NPEZ-00222",            "NPEZ-00225",
             "NPEZ-00229",            "NPEZ-00230",            "NPEZ-00235",            "NPEZ-00236",            "NPEZ-00237",
+            'NPEG-00024', 'NPEH-90023', 'NPEZ-00029', 'NPEZ-00155', 'NPEZ-00352',
+            'NPHH-00145', 'NPJH-50144', 'NPJH-50145', 'NPJH-50148', 'NPJH-50180',
+            'NPJH-50184', 'NPJH-50199', 'NPJH-50211', 'NPJH-50215', 'NPJH-50221',
+            'NPJH-50222', 'NPJH-50226', 'NPJH-50234', 'NPJH-50239', 'NPJH-50242',
+            'NPJH-50247', 'NPJH-50269', 'NPJH-50280', 'NPJH-50293', 'NPJH-50321',
+            'NPJH-50329', 'NPJH-50333', 'NPJH-50335', 'NPJH-50336', 'NPJH-50340',
+            'NPJH-50342', 'NPJH-50372', 'NPJH-50375', 'NPJH-50376', 'NPJH-50380',
+            'NPJH-50381', 'NPJH-50388', 'NPJH-50393', 'NPJH-50394', 'NPJH-50401',
+            'NPJH-50409', 'NPJH-50410', 'NPJH-50411', 'NPJH-50412', 'NPJH-50414',
+            'NPJH-50416', 'NPJH-50426', 'NPJH-50431', 'NPJH-50437', 'NPJH-50442',
+            'NPJH-50448', 'NPJH-50451', 'NPJH-50453', 'NPJH-50457', 'NPJH-50460',
+            'NPJH-50464', 'NPJH-50465', 'NPJH-50467', 'NPJH-50468', 'NPJH-50470',
+            'NPJH-50472', 'NPJH-50475', 'NPJH-50484', 'NPJH-50486', 'NPJH-50489',
+            'NPJH-50501', 'NPJH-50502', 'NPJH-50503', 'NPJH-50505', 'NPJH-50508',
+            'NPJH-50509', 'NPJH-50515', 'NPJH-50520', 'NPJH-50535', 'NPJH-50558',
+            'NPJH-50561', 'NPJH-50562', 'NPJH-50563', 'NPJH-50564', 'NPJH-50575',
+            'NPJH-50582', 'NPJH-50583', 'NPJH-50594', 'NPJH-50597', 'NPJH-50606',
+            'NPJH-50617', 'NPJH-50624', 'NPJH-50626', 'NPJH-50635', 'NPJH-50639',
+            'NPJH-50647', 'NPJH-50648', 'NPJH-50656', 'NPJH-50658', 'NPJH-50674',
+            'NPJH-50675', 'NPJH-50676', 'NPJH-50679', 'NPJH-50686', 'NPJH-50691',
         }
     ]
-    if len(selected) != 498:
-        raise SystemExit(f"validation failed: found {len(selected)} selected source files, expected 498")
+    selected = list({SERIAL_RE.search(path.name).group(1): path for path in selected}.values())
+    if len(selected) != 598:
+        raise SystemExit(f"validation failed: found {len(selected)} selected source files, expected 598")
     for path in selected:
         text = path.read_text(encoding="utf-8")
         if not CODE_RE.search(text):

@@ -1,0 +1,28 @@
+# PSP cheat pack
+# Serial: NPJH-50280
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 9999999 Money
+Author = libretro-database contributors / original PSP cheat authors
+2038A7E4 05F5E0FF
+
+// Aricia
+Author = libretro-database contributors / original PSP cheat authors
+1038A85A 0000270F
+1038A85C 000003E7
+1038A85E 000003E7
+1038A860 000003E7
+1038A862 000003E7
+1038A864 000003E7
+1038A866 000003E7
+1038A868 000003E7
+0038A86A 00000009
+0038A86B 00000003
+
+// Coro 10000
+Author = libretro-database contributors / original PSP cheat authors
+2038A7E4 00002710
+
+// Exp. 90000
+Author = libretro-database contributors / original PSP cheat authors
+2038A7E8 00015F90

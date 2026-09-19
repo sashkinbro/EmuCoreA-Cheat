@@ -1,0 +1,17 @@
+# PSP cheat pack
+# Serial: NPJH-50180
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (1P) HP Inf.
+Author = libretro-database contributors / original PSP cheat authors
+603D846C 00000004
+00000002 0000079C
+10000798 00000000
+
+// Battle Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+C008171C 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20403C94 00989680

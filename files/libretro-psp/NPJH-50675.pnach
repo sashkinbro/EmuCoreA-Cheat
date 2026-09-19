@@ -1,0 +1,59 @@
+# PSP cheat pack
+# Serial: NPJH-50675
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS (Beta)
+Author = libretro-database contributors / original PSP cheat authors
+200BDBC4 00000000
+
+// Auto Play
+Author = libretro-database contributors / original PSP cheat authors
+20045138 34120000
+
+// Fan 9999999
+Author = libretro-database contributors / original PSP cheat authors
+203C9B60 0098967F
+
+// Item Customize Complete
+Author = libretro-database contributors / original PSP cheat authors
+003C4CFC 00000001
+003C4D00 00000063
+003C4D04 00000001
+003C4D08 00000001
+003C4D0C 00000063
+803C4CD4 00050008
+00000063 00000000
+803C4CD8 00050008
+803C4D10 01040004
+00000001 00000000
+803C4EB0 01190004
+00000012 00000000
+
+// Max Money 9999999
+Author = libretro-database contributors / original PSP cheat authors
+203C4CE4 0098967F
+
+// Max Money 9999999 v2
+Author = libretro-database contributors / original PSP cheat authors
+203A0E64 0098967F
+
+// Number Of Fans 9999999
+Author = libretro-database contributors / original PSP cheat authors
+203C9BA0 0098967F
+
+// Rank SSS
+Author = libretro-database contributors / original PSP cheat authors
+003C9B40 00000000
+
+// Result Max
+Author = libretro-database contributors / original PSP cheat authors
+203BF0D0 000003E7
+203BF0D4 00000000
+203BF0D8 00000000
+203BF0DC 00000000
+203BF0E0 000003E7
+203BF0E4 0098967F
+003BF0EC 00000064
+003BF0E8 00000001
+003BF0F4 00000001
+103BF0F8 0000270F

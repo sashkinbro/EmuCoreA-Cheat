@@ -1,0 +1,228 @@
+# PSP cheat pack
+# Serial: NPJH-50606
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Dive Attack Exp. 999
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000000
+10000050 000003E7
+D2000000 00000000
+
+// Dive Attack Exp. 999 v2
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 000003E7
+00020000 10000050
+
+// Dive Attack Exp. 999 v3
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 000003E7
+00020001 10000050
+
+// Dive Attack S
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000000
+20000058 00000006
+D2000000 00000000
+
+// Dive Attack S v2
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000006
+00020000 20000058
+
+// Dive Attack S v3
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000006
+00020001 20000058
+
+// Eriaru Combo S
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000000
+20000054 00000006
+D2000000 00000000
+
+// Eriaru Combo S v2
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000006
+00020000 20000054
+
+// Eriaru Combo S v3
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000006
+00020001 20000054
+
+// Int.
+Author = libretro-database contributors / original PSP cheat authors
+110175F0 0000012C
+
+// Intellect S
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000000
+10000004 0000012E
+D2000000 00000000
+
+// Intellect S v2
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 0000012E
+00020000 10000004
+
+// Intellect S v3
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 0000012E
+00020001 10000004
+
+// Item
+Author = libretro-database contributors / original PSP cheat authors
+810F8F7C 00130004
+00000063 00000000
+
+// Item 99
+Author = libretro-database contributors / original PSP cheat authors
+810F8F7C 00250004
+00000063 00000000
+
+// Money 100000
+Author = libretro-database contributors / original PSP cheat authors
+21169038 000186A0
+
+// Money 99999
+Author = libretro-database contributors / original PSP cheat authors
+211FDEB4 0098967F
+
+// Money 99999 v2
+Author = libretro-database contributors / original PSP cheat authors
+211C47C8 0098967F
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+110162A8 000186A0
+
+// Money Max [Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000001
+211CFAC0 000186A0
+
+// Normal
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000000
+2000000C 0000002C
+D2000000 00000000
+
+// Normal v2
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 0000002C
+00020000 2000000C
+
+// Normal v3
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 0000002C
+00020001 2000000C
+
+// Obesity
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000000
+2000000C 00000047
+D2000000 00000000
+
+// Obesity v2
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000047
+00020000 2000000C
+
+// Obesity v3
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000047
+00020001 2000000C
+
+// Purezent x99 [Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000001
+810F8F70 00280004
+00000063 00000000
+
+// Skill Hedda
+Author = libretro-database contributors / original PSP cheat authors
+0171063C 00000000
+
+// Slim
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000000
+2000000C 00000000
+D2000000 00000000
+
+// Slim v2
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000000
+00020000 2000000C
+
+// Slim v3
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000000
+00020001 2000000C
+
+// Strength S
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 00000000
+10000000 0000012E
+D2000000 00000000
+
+// Strength S v2
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 0000012E
+00020000 10000000
+
+// Strength S v3
+Author = libretro-database contributors / original PSP cheat authors
+217FF464 00000001
+211CFAC0 08800000
+211CFAC0 0000012E
+00020001 10000000
+
+// Vit.
+Author = libretro-database contributors / original PSP cheat authors
+110175F4 0000012C

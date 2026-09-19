@@ -1,0 +1,44 @@
+# PSP cheat pack
+# Serial: NPJH-50515
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS (Alpha)
+Author = libretro-database contributors / original PSP cheat authors
+2000A90C 00000000
+
+// All Gifts
+Author = libretro-database contributors / original PSP cheat authors
+804828C4 00640001
+00000032 00000000
+
+// Artwork Gallery All Open
+Author = libretro-database contributors / original PSP cheat authors
+8049B87F 00550001
+00000001 00000000
+
+// Bear Currency
+Author = libretro-database contributors / original PSP cheat authors
+104827FC 000001F4
+
+// CG Full
+Author = libretro-database contributors / original PSP cheat authors
+8049B7C4 00950001
+00000001 00000000
+
+// Chapter Select All Open
+Author = libretro-database contributors / original PSP cheat authors
+00482680 000000FF
+
+// Full Animation
+Author = libretro-database contributors / original PSP cheat authors
+8049B85C 001F0001
+00000001 00000000
+
+// Open School Store
+Author = libretro-database contributors / original PSP cheat authors
+00482685 00000001
+
+// Sound Gallery All Open
+Author = libretro-database contributors / original PSP cheat authors
+8049B8D8 00230001
+00000001 00000000

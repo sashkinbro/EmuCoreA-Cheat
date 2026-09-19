@@ -1,0 +1,154 @@
+# PSP cheat pack
+# Serial: NPJH-50535
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Put Unused Menu Items In System Menu
+Author = libretro-database contributors / original PSP cheat authors
+1003F53C 0000FFFF
+
+// Acquisition Twice x2
+Author = libretro-database contributors / original PSP cheat authors
+200CC1B4 0E20040C
+20001030 948509E0
+20001038 03E00008
+2000103C 00A22821
+20001034 00021040
+
+// Acquisition Up To Max
+Author = libretro-database contributors / original PSP cheat authors
+200CC1C0 50000001
+
+// After They Get Exp.
+Author = libretro-database contributors / original PSP cheat authors
+2008C1C8 240BFFFF
+
+// Battle BS No Use
+Author = libretro-database contributors / original PSP cheat authors
+200D86F4 00000000
+
+// Battle Start Energy 100
+Author = libretro-database contributors / original PSP cheat authors
+20091840 240A0064
+
+// BGM All
+Author = libretro-database contributors / original PSP cheat authors
+2026A108 FFFFDFF2
+2026A10C FFFFFFFF
+1026A110 00003FFF
+
+// Blacksmith Limit 127
+Author = libretro-database contributors / original PSP cheat authors
+2011A804 240A007F
+200F87FC 1000002A
+2011A7D8 2406007F
+
+// BS Item No Use
+Author = libretro-database contributors / original PSP cheat authors
+20117B8C 24060000
+
+// Energy No Use
+Author = libretro-database contributors / original PSP cheat authors
+200DC5F4 00000000
+200E1B28 00000000
+
+// Friendship Max
+Author = libretro-database contributors / original PSP cheat authors
+2004BD58 0E200411
+20001044 24014E20
+20001048 03E00008
+2000104C A4A1003A
+
+// Get Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+2008C1C8 240BFFFF
+
+// Get Exp. Twice x2
+Author = libretro-database contributors / original PSP cheat authors
+2008C25C 0A200405
+20001018 10A00003
+20001020 0A223099
+20001028 0A2230AC
+20001014 000B5840
+
+// Get Money Twice x2
+Author = libretro-database contributors / original PSP cheat authors
+2008C0F8 0E200400
+20001000 3C0508AF
+20001008 03E00008
+2000100C AC648EFC
+20001004 00042040
+
+// Item Drop 100
+Author = libretro-database contributors / original PSP cheat authors
+2008BF4C 00000000
+
+// Item Max
+Author = libretro-database contributors / original PSP cheat authors
+20269CFC FFFFFFC0
+20269D00 FFFFFFFF
+70269D04 00000003
+4026BAB8 001E0001
+03E703E7 00000000
+
+// Lv. Difference Exp.
+Author = libretro-database contributors / original PSP cheat authors
+2008C2B4 50000025
+
+// Magic Stone NU
+Author = libretro-database contributors / original PSP cheat authors
+200E1C68 24060000
+
+// Map Keep
+Author = libretro-database contributors / original PSP cheat authors
+200A79C4 1000001F
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+2026ACA4 0098967F
+
+// Move Speed x2 Up
+Author = libretro-database contributors / original PSP cheat authors
+200D3CCC 02A03825
+D0269BE5 20000040
+200D3CCC 00153840
+
+// Move Speed x2 Def.
+Author = libretro-database contributors / original PSP cheat authors
+200D3CCC 00153840
+D0269BE5 20000040
+200D3CCC 02A03825
+
+// Movie All
+Author = libretro-database contributors / original PSP cheat authors
+0026C5A3 000000F0
+1026C5A4 00001FFF
+
+// Potti Max
+Author = libretro-database contributors / original PSP cheat authors
+2026ACA4 0098967F
+
+// Props Largest
+Author = libretro-database contributors / original PSP cheat authors
+20269CFC FFFFFFC0
+20269D00 FFFFFFFF
+70269D04 00000003
+4026BAB8 001E0001
+03E703E7 00000000
+
+// Skill All
+Author = libretro-database contributors / original PSP cheat authors
+200C99A4 54000011
+
+// Stone Unabated
+Author = libretro-database contributors / original PSP cheat authors
+200E1C68 24060000
+
+// Strength Diminished (The Enemy Universal)
+Author = libretro-database contributors / original PSP cheat authors
+200DC5F4 00000000
+200E1B28 00000000
+
+// Weapon All
+Author = libretro-database contributors / original PSP cheat authors
+4026ACA8 00C60001
+00000000 00000001

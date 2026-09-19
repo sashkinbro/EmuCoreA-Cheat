@@ -1,0 +1,91 @@
+# PSP cheat pack
+# Serial: NPJH-50437
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 999999 Money
+Author = libretro-database contributors / original PSP cheat authors
+20162E08 0098961C
+
+// All Upgrades Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+80162EE9 0043000C
+00000005 00000000
+80162EEA 00430006
+10000505 00000000
+40162EEC 00430003
+003F0405 00000000
+40162EF0 00430003
+00FFFFFF 00000000
+
+// Engine Never Heat Up
+Author = libretro-database contributors / original PSP cheat authors
+6054567C 447A0000
+00020001 00001664
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+6054567C 461C4000
+00020001 00001644
+60545680 461C4000
+60545684 461C4000
+
+// HP Max (Leader&Partner)
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000004
+00000002 00001648
+10001644 00000000
+60002014 00000004
+60002024 00000004
+
+// HP Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+6054567C 461C4000
+00020001 00001644
+
+// SP
+Author = libretro-database contributors / original PSP cheat authors
+6054567C 43C80000
+00020001 00001674
+60545680 43C80000
+60545684 43C80000
+
+// SP Bar Max
+Author = libretro-database contributors / original PSP cheat authors
+6054567C 43C80000
+00020001 00001674
+
+// SP Max (Leader&Partner)
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000004
+00000002 00001678
+10001674 00000000
+60002014 00000004
+60002024 00000004
+
+// Thruster Does Not Overheat
+Author = libretro-database contributors / original PSP cheat authors
+6054567C 447A0000
+00020001 00001664
+60545680 447A0000
+60545684 447A0000
+
+// Time Left [0]
+Author = libretro-database contributors / original PSP cheat authors
+20376888 00000000
+
+// Time Left [Max]
+Author = libretro-database contributors / original PSP cheat authors
+20376888 4852F000
+
+// Time Set To One Hour
+Author = libretro-database contributors / original PSP cheat authors
+20376888 4852F000
+
+// Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+60141CB4 4852F000
+00020001 00000038
+
+// Timer Infinite
+Author = libretro-database contributors / original PSP cheat authors
+20376888 00000000

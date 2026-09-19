@@ -1,5 +1,5 @@
 {
-  "batch": "batch-016",
+  "batch": "batch-017",
   "release": "cheat-catalog",
   "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
   "libretroCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
@@ -91,6 +91,14 @@
       "excluded": 8,
       "malformed": 0,
       "sha256": "A66CADF155F7D6B5261A733DCB685B7A8AEC9A3E2D73942486ADEE1F3D15476A"
+    },
+    {
+      "serial": "NPEG-00024",
+      "sourceFile": "LocoRoco Midnight Carnival (PlayStation Store) [EU] [NPEG-00024].cht",
+      "blocks": 22,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "0C85F263D3DD770A09CBCC789904504EAFAA906D139174425FF22362E2F13767"
     },
     {
       "serial": "NPEG-00025",
@@ -493,6 +501,14 @@
       "sha256": "376BEDE68419CA4B36D347700EC7F90343A9090CD8A6627408B27CE8F809F657"
     },
     {
+      "serial": "NPEH-90023",
+      "sourceFile": "Metal Gear Solid - Peace Walker - Demo Ops (PlayStation Store) [EU] [NPEH-90023].cht",
+      "blocks": 10,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "A0FD3BEF6D7F2A206A9CBA5F39EC177FDDF69CB17B01BB09FD5AB78CDCA502B5"
+    },
+    {
       "serial": "NPEH-90026",
       "sourceFile": "Half-Minute Hero - Hero 30 (Demo) [EU] [NPEH-90026].cht",
       "blocks": 4,
@@ -659,6 +675,14 @@
       "excluded": 0,
       "malformed": 0,
       "sha256": "D309558EFE558AB59790056393521B89BA4AC89F0D9EA02DA52D5978FEAD8FBC"
+    },
+    {
+      "serial": "NPEZ-00029",
+      "sourceFile": "Zombie Tycoon (Mini) (Version 3) [EU] [NPEZ-00029].cht",
+      "blocks": 2,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "295D3061CD38D1AB0ADD6AF4F1E45F2C68A1125785DB5ACC17A0A8A43598A19B"
     },
     {
       "serial": "NPEZ-00031",
@@ -979,6 +1003,14 @@
       "excluded": 0,
       "malformed": 0,
       "sha256": "193BADFC65ADB79DB07C9D979DD44C8F063BD799D0DBB027F818956CDFE57E78"
+    },
+    {
+      "serial": "NPEZ-00155",
+      "sourceFile": "Bloons (PlayStation Store) [EU] [NPEZ-00155].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "16474CAF56E8D534E50C49032E600D107425351CA63B24338856ADDCA54591F3"
     },
     {
       "serial": "NPEZ-00157",
@@ -1437,6 +1469,14 @@
       "sha256": "4E5CEDFDAC808D37BFC3D0B56A6BF996BCB73FCC094CA05BD9455124EC9DAE8F"
     },
     {
+      "serial": "NPEZ-00352",
+      "sourceFile": "Ninjamurai (Mini) (Version 2) [EU] [NPEZ-00352].cht",
+      "blocks": 7,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "616AE3FC64D1108F9287023FA9B0670F55143D1B073042A95D1D9EEEB3B85276"
+    },
+    {
       "serial": "NPEZ-00354",
       "sourceFile": "Drums Challenge (Mini) [EU] [NPEZ-00354].cht",
       "blocks": 2,
@@ -1675,6 +1715,14 @@
       "excluded": 5,
       "malformed": 0,
       "sha256": "8D331A9CF116DCBBEDB09459CF98EE7E801D950099F06ADDDC865A59F566FB0B"
+    },
+    {
+      "serial": "NPHH-00145",
+      "sourceFile": "Metal Gear Solid - Peace Walker - Demo Ops (PlayStation Store) [US] [NPHH-00145].cht",
+      "blocks": 8,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "AB98123A085FE4694ADE58C02FDE4F75CB0A842C662642D84D7F339D0E447F16"
     },
     {
       "serial": "NPHH-00293",
@@ -2045,6 +2093,126 @@
       "sha256": "573E0FD3CBF2275E38B0A19CEED34DC50CCE4392F79B981779B5102ED27871ED"
     },
     {
+      "serial": "NPJH-50144",
+      "sourceFile": "Zettai Hero Kaizou Keikaku (PlayStation Store) [JP] [NPJH-50144].cht",
+      "blocks": 6,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "D9C9ADA6A283082D91A14DC1C98720636EF756F68C34A5BC9FEBB0EB84A9A82F"
+    },
+    {
+      "serial": "NPJH-50145",
+      "sourceFile": "Senjou No Valkyria 2 - Gallia Ouritsu Shikan Gakkou (PlayStation Store) [JP] [NPJH-50145].cht",
+      "blocks": 30,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "CF3A1141074F770C452310F13E8F495AA70444F8165142006A14C00F348F1779"
+    },
+    {
+      "serial": "NPJH-50148",
+      "sourceFile": "Silent Hill - Shattered Memories (PlayStation Store) [JP] [NPJH-50148].cht",
+      "blocks": 10,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "7158CA824CF6CDD8A197BACC2CAF9AE0CE2061E551D19BF65640865579F4872C"
+    },
+    {
+      "serial": "NPJH-50180",
+      "sourceFile": "BlazBlue - Calamity Trigger Portable (PlayStation Store) [JP] [NPJH-50180].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F0128A29A708C33EFB854EFC68A72D969AB2343BA95CF605711C4FF7DCE2DBCF"
+    },
+    {
+      "serial": "NPJH-50184",
+      "sourceFile": "Tekken 6 (PlayStation Store) [JP] [NPJH-50184].cht",
+      "blocks": 7,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "74351F1DF8C19446B099525D67AE1A75D8FF862CFB5323B6A1F34162D0AED90D"
+    },
+    {
+      "serial": "NPJH-50199",
+      "sourceFile": "Qix++ (PlayStation Store) [JP] [NPJH-50199].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "A654FCAAFC6FE15ADE902435FE794FFDFA60E3B1A8C90B4F01E3B96075C1F5EA"
+    },
+    {
+      "serial": "NPJH-50211",
+      "sourceFile": "Prinny 2 - Tokkou Yuugi Akatsuki No Pants Daisakusenss (PlayStation Store) [JP] [NPJH-50211].cht",
+      "blocks": 26,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F7D55EB5136442A16D4F2C54FC7F8FDF1FB326B3DAD44BEA2786A66A5B0287E1"
+    },
+    {
+      "serial": "NPJH-50215",
+      "sourceFile": "Tokyo Mono Harashi - Karasu No Mori Gakuen Kitan (PlayStation Store) [JP] [NPJH-50215].cht",
+      "blocks": 9,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "2D54BC7693E4D8B770C96AC93A476FC60372439890E5B406B0200FDB8605169B"
+    },
+    {
+      "serial": "NPJH-50221",
+      "sourceFile": "Kateikyoushi Hitman Reborn! Kizuna No Tag Battle (PlayStation Store) [JP] [NPJH-50221].cht",
+      "blocks": 7,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "74B9761B5F74A4C21F123DD1F3984EF20456131A2F005B4F7B310ADF4E5FED29"
+    },
+    {
+      "serial": "NPJH-50222",
+      "sourceFile": "Ikki Tousen - Xross Impact (PlayStation Store) [JP] [NPJH-50222].cht",
+      "blocks": 33,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "877E57D3C1307F3C9D3FF4960324C57C8F93869594CF5844E36390552D9F5912"
+    },
+    {
+      "serial": "NPJH-50226",
+      "sourceFile": "Ys - Felghana No Chikai (PlayStation Store) [JP] [NPJH-50226].cht",
+      "blocks": 15,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "D1082BF8F08BB0F90F761C40659082A5C1220BBD4ECBCC1737008FBE1E38BEB5"
+    },
+    {
+      "serial": "NPJH-50234",
+      "sourceFile": "Pro Yakyuu Spirits 2010 (PlayStation Store) [JP] [NPJH-50234].cht",
+      "blocks": 5,
+      "excluded": 1,
+      "malformed": 1,
+      "sha256": "09564CD9D44443A6F9891E8BCD3357CCC64DCA8BA93B95C8E0ADE8F22D809A38"
+    },
+    {
+      "serial": "NPJH-50239",
+      "sourceFile": "Dead Or Alive Paradise (PlayStation Store) [JP] [NPJH-50239].cht",
+      "blocks": 60,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F891312763CC5ECF8804B523E68C85AC763477F68C3352AEEABAB3717084FCB9"
+    },
+    {
+      "serial": "NPJH-50242",
+      "sourceFile": "Tears To Tiara - Kakan No Daichi Portable (PlayStation Store) [JP] [NPJH-50242].cht",
+      "blocks": 15,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "1E9D6ACE1A46A686141789E8FE876EDC6D7E4C33AD2F0611173E8A42A617C082"
+    },
+    {
+      "serial": "NPJH-50247",
+      "sourceFile": "Fate-Extra (PlayStation Store) [JP] [NPJH-50247].cht",
+      "blocks": 13,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "BCC8BD8DA12C40AF05DE302AF4F2C10F00B0283A58C3A14E99C225338ABEAD02"
+    },
+    {
       "serial": "NPJH-50263",
       "sourceFile": "Ace Combat X2 - Joint Assault (PlayStation Store) [JP] [NPJH-50263].cht",
       "blocks": 112,
@@ -2053,12 +2221,36 @@
       "sha256": "DB8340F8636F4323E78B267184F3BA2F40E4872C4E95C01E40B678F58E41E183"
     },
     {
+      "serial": "NPJH-50269",
+      "sourceFile": "Uta No ☆ Prince-Sama (PlayStation Store) [JP] [NPJH-50269].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "7D1777BF9668766356AEB1ED3E4DC3CAF34C378CD0905656D1A62A0F451AF3AB"
+    },
+    {
       "serial": "NPJH-50276",
       "sourceFile": "Ys Vs. Sora No Kiseki - Alternative Saga (PlayStation Store) [JP] [NPJH-50276].cht",
       "blocks": 91,
       "excluded": 0,
       "malformed": 0,
       "sha256": "02015A75223E67CAF4AC0AEA26E5B31D4B31778E2697BDD637A2D9B8A1235639"
+    },
+    {
+      "serial": "NPJH-50280",
+      "sourceFile": "Blue Roses - Yousei To Aoi Hitomi No Senshitachi [JP] [NPJH-50280].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F0A80D820330390710383EEE101C38AF44C263AF21D5998017F7C3463E45E31B"
+    },
+    {
+      "serial": "NPJH-50293",
+      "sourceFile": "Neo Geo Heroes Ultimate Shooting (PlayStation Store) [JP] [NPJH-50293].cht",
+      "blocks": 18,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "4F77458C194B23D1002C6FDF50D060E4D87068A82472F74BD01CBD91B63FA972"
     },
     {
       "serial": "NPJH-50311",
@@ -2077,6 +2269,22 @@
       "sha256": "36821DDE45CF6E61ABEC63CDBF02D56F44F8E3A6FE7B065399668CC94B41F6EA"
     },
     {
+      "serial": "NPJH-50321",
+      "sourceFile": "Sengoku Efuda Yuugi - Hototogisu Tairan (PlayStation Store) [JP] [NPJH-50321].cht",
+      "blocks": 4,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "180B821383D91A9F2715A1FAA72B284D7EEC211A1E4A356C9EEFB06F7AC1E7AA"
+    },
+    {
+      "serial": "NPJH-50329",
+      "sourceFile": "Persona 2 - Tsumi (PlayStation Store) [JP] [NPJH-50329].cht",
+      "blocks": 17,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "309AB0EF93260C30C574F67E54F8F64D91757F705481BF3BA3860A995B6885AA"
+    },
+    {
       "serial": "NPJH-50331",
       "sourceFile": "Phantom Brave Portable (PlayStation Store) [JP] [NPJH-50331].cht",
       "blocks": 71,
@@ -2091,6 +2299,46 @@
       "excluded": 18,
       "malformed": 0,
       "sha256": "8AEFE3EC4FBC60C0209238339970B59B8F5F2B4FF5E02701EB5FBEECFF3C66D9"
+    },
+    {
+      "serial": "NPJH-50333",
+      "sourceFile": "Kurohyou - Ryu Ga Gotoku Shinshou (PlayStation Store) [JP] [NPJH-50333].cht",
+      "blocks": 20,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "C042A5D436DA5402625388F3E3ABF3E387152E60E0D2B0C944CAC11557284BBA"
+    },
+    {
+      "serial": "NPJH-50335",
+      "sourceFile": "Lord Of Arcana (PlayStation Store) [JP] [NPJH-50335].cht",
+      "blocks": 13,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "DD2BE6BB3CCDB15CFE213B9357E2D8078318B362138103CA34F3222ED9780F90"
+    },
+    {
+      "serial": "NPJH-50336",
+      "sourceFile": "Pro Yakyuu Spirits 2011 (PlayStation Store) [JP] [NPJH-50336].cht",
+      "blocks": 14,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "7EBC228279FAC0F706E7840E74953830D9E28C5D55D7F2E33123DE1D9E4B8F17"
+    },
+    {
+      "serial": "NPJH-50340",
+      "sourceFile": "FIFA 11 - World Class Soccer (PlayStation Store) [JP] [NPJH-50340].cht",
+      "blocks": 10,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "DA083FBC2080C97FE156994656E77899B92B8A21769799312D50752769292D43"
+    },
+    {
+      "serial": "NPJH-50342",
+      "sourceFile": "Shining Hearts (PlayStation Store) [JP] [NPJH-50342].cht",
+      "blocks": 5,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "72813C541B670D4465EF543C19377DF75434AAD68B83F3EAFAC46FEF0147B375"
     },
     {
       "serial": "NPJH-50352",
@@ -2109,12 +2357,140 @@
       "sha256": "2F3B657D2F54CD4947D5363501CA1FFEE6C1757F9CEA4EBBAAD86A91F0CDBB5B"
     },
     {
+      "serial": "NPJH-50372",
+      "sourceFile": "Danganronpa - Kibou No Gakuen To Zetsubou No Koukousei (PlayStation Store) [JP] [NPJH-50372].cht",
+      "blocks": 8,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "1D1E44B2D75BC9084DEB7D39706E8276C8A3998970D1E2A8A7B67CCDF8E2FA1E"
+    },
+    {
+      "serial": "NPJH-50375",
+      "sourceFile": "Nanodiver (PlayStation Store) [JP] [NPJH-50375].cht",
+      "blocks": 14,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "EF83067F57F019373C6A63E671347EA7A6D9B7A05C05E789B7354961FA297A2B"
+    },
+    {
+      "serial": "NPJH-50376",
+      "sourceFile": "Venus & Braves - Majo To Megami To Horobi No Yogen (PlayStation Store) [JP] [NPJH-50376].cht",
+      "blocks": 13,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "9237424B4A4FEBC067D11794CD15506EBAABAA13ED99F31D0F5D4C0F3921CF96"
+    },
+    {
       "serial": "NPJH-50377",
       "sourceFile": "Dissidia 012 - Duodecim Final Fantasy (PlayStation Store) [JP] [NPJH-50377].cht",
       "blocks": 154,
       "excluded": 0,
       "malformed": 0,
       "sha256": "FD3C220389A6DD2AFCDC2E8A7D9ABEF8E18A478EF9CEF938E21E963DA70365EA"
+    },
+    {
+      "serial": "NPJH-50380",
+      "sourceFile": "Summon Night 3 (PlayStation Store) [JP] [NPJH-50380].cht",
+      "blocks": 48,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "50449E7ADBBCA8AA51C68E0CE999E82E5745AAABF07DA7EE660A3B75EAA1A09A"
+    },
+    {
+      "serial": "NPJH-50381",
+      "sourceFile": "Uta No ☆ Prince-Sama - Amazing Aria (PlayStation Store) [JP] [NPJH-50381].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "DD0EAE4B3966C1B992AFE4E676B0760EB64110B4B032136EC4C10F735BEAEAF3"
+    },
+    {
+      "serial": "NPJH-50388",
+      "sourceFile": "Classic Dungeon X2 (PlayStation Store) [JP] [NPJH-50388].cht",
+      "blocks": 9,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "1F17BB064747A02A40CA663BF598563A89B4CFAC89E85270A6283E3960B6A8FE"
+    },
+    {
+      "serial": "NPJH-50393",
+      "sourceFile": "Uta No ☆ Prince-Sama - Sweet Serenade (PlayStation Store) [JP] [NPJH-50393].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "6DAB789EC8083F26549E03502F6ABA20E242303AB2E49A1A197FEBAEB6DEE92E"
+    },
+    {
+      "serial": "NPJH-50394",
+      "sourceFile": "Black Robinia (PlayStation Store) [JP] [NPJH-50394].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "8C62AFF3D1A12E173718377FB692DEFFFB4BED85DB9D9DB5FF82B6230E6CD2A8"
+    },
+    {
+      "serial": "NPJH-50401",
+      "sourceFile": "BlazBlue - Continuum Shift II (PlayStation Store) [JP] [NPJH-50401].cht",
+      "blocks": 21,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "092F7070A8C87A5717251EF5C090C710A7F3784081686B7D1F9E4BD9F310C509"
+    },
+    {
+      "serial": "NPJH-50409",
+      "sourceFile": "Gachitora! Abarenbou Kyoushi In High School (PlayStation Store) [JP] [NPJH-50409].cht",
+      "blocks": 10,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "BDFA255BDAA9A1E193FCC0273BA41AEA1D5C5A71FFA29CC5F2B67F74160A6811"
+    },
+    {
+      "serial": "NPJH-50410",
+      "sourceFile": "Summon Night 4 [JP] [NPJH-50410].cht",
+      "blocks": 29,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "BB958D9609DDC6023CF209B47E37AD036D5D166BE4387AD462EFC621A391D027"
+    },
+    {
+      "serial": "NPJH-50411",
+      "sourceFile": "Fairy Tail - Portable Guild 2 (PlayStation Store) [JP] [NPJH-50411].cht",
+      "blocks": 24,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "9292C680D3589859853B7399D222ED3A61231200BDAADE8D7379B4DA36453F9A"
+    },
+    {
+      "serial": "NPJH-50412",
+      "sourceFile": "Akiba's Trip (PlayStation Store) [JP] [NPJH-50412].cht",
+      "blocks": 12,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "8F2733F1C844240D8CB07311BFCF6F2FB47755B034281E9D5A02AF6920B088D8"
+    },
+    {
+      "serial": "NPJH-50414",
+      "sourceFile": "Final Fantasy IV - The Complete Collection (PlayStation Store) [JP] [NPJH-50414].cht",
+      "blocks": 31,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "A3810FB2DDDDE383F223EB2C9BF8307AC66C5C33510977EF4F15FBFDE8624307"
+    },
+    {
+      "serial": "NPJH-50416",
+      "sourceFile": "Saigo No Yakusoku No Monogatari (PlayStation Store) [JP] [NPJH-50416].cht",
+      "blocks": 22,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "96B05EA2A22676DE2441A54CB9558F1152D3E794455C3B99A949E4BBEB47051D"
+    },
+    {
+      "serial": "NPJH-50426",
+      "sourceFile": "Taiko No Tatsujin Portable DX (PlayStation Store) [JP] [NPJH-50426].cht",
+      "blocks": 10,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "B4105599F17F4348B0067F327434E077F1714F2657650EDD56F6A165BF7BFE81"
     },
     {
       "serial": "NPJH-50430",
@@ -2125,6 +2501,14 @@
       "sha256": "C5AF5EFB3261806100406E585281286270232CF1065DEBD74F3EA6849787C006"
     },
     {
+      "serial": "NPJH-50431",
+      "sourceFile": "Ragnarok - Hikari To Yami No Koujo (PlayStation Store) [JP] [NPJH-50431].cht",
+      "blocks": 11,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "C7585C08D249C9C48D9E473449FC61CC3AFB4EDD76490A5B580ADB6C550A0B71"
+    },
+    {
       "serial": "NPJH-50435",
       "sourceFile": "Naruto Shippuden - Narutimate Impact (PlayStation Store) [JP] [NPJH-50435].cht",
       "blocks": 129,
@@ -2133,12 +2517,28 @@
       "sha256": "FAE6B55419173FE09A978E43D696192AAC015C2FFAB3EEC3513C3633859D62BC"
     },
     {
+      "serial": "NPJH-50437",
+      "sourceFile": "Gundam Memories - Tatakai No Kioku (PlayStation Store) [JP] [NPJH-50437].cht",
+      "blocks": 15,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "A3392256A2CCEED87F14EF7DC328DBD5BD9B6FB722BCE8B6F499605ADAD06940"
+    },
+    {
       "serial": "NPJH-50441",
       "sourceFile": "Kidou Senshi Gundam - Shin Gihren No Yabou (PlayStation Store) [JP] [NPJH-50441].cht",
       "blocks": 65,
       "excluded": 1,
       "malformed": 0,
       "sha256": "259719E82BCEEA773662699948DA1A90684B09835F1C3CFF95B3B6165A305BC6"
+    },
+    {
+      "serial": "NPJH-50442",
+      "sourceFile": "Kidou Senshi Gundam - Mokuba No Kiseki (PlayStation Store) [JP] [NPJH-50442].cht",
+      "blocks": 6,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "9DC59574C2D6C0F15E402FE61B65BFE6CBF27F58223C51312677D7D59CA8CE50"
     },
     {
       "serial": "NPJH-50443",
@@ -2157,6 +2557,38 @@
       "sha256": "53FBAF327FC3E78FE6BA40D5AC03D50ED7FBD43088D6410BFB238D39B9E584A6"
     },
     {
+      "serial": "NPJH-50448",
+      "sourceFile": "Black Rock Shooter - The Game (PlayStation Store) [JP] [NPJH-50448].cht",
+      "blocks": 21,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "8A4E36141F8E239059972D7FB62805E267C156FD042746BD1452F7AE146D335D"
+    },
+    {
+      "serial": "NPJH-50451",
+      "sourceFile": "Phantom Kingdom Portable (PlayStation Store) [JP] [NPJH-50451].cht",
+      "blocks": 8,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "C196C1B102BE1DFAFFA0DF92648D2FD7D160FF5325153FA5DC294FAAF20C1547"
+    },
+    {
+      "serial": "NPJH-50453",
+      "sourceFile": "Busou Shinki - Battle Masters Mk. 2 (PlayStation Store) [JP] [NPJH-50453].cht",
+      "blocks": 51,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "4FF934D4AE681B02982E02B02941EE1A9AA2075093C4094F16F0E915BCFA7DA6"
+    },
+    {
+      "serial": "NPJH-50457",
+      "sourceFile": "Evangelion Shin Gekijoban - 3nd Impact (PlayStation Store) [JP] [NPJH-50457].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "7BCB7E16FE4A1ADD3193DA8FF21051E72D644E4DBD2DC2965BC378161715A3BB"
+    },
+    {
       "serial": "NPJH-50459",
       "sourceFile": "7th Dragon 2020 (PlayStation Store) [JP] [NPJH-50459].cht",
       "blocks": 61,
@@ -2165,12 +2597,164 @@
       "sha256": "6B6070D86B1E62FB53AFAED04699D4C66F3A35DE25E0B357FB5676348DCC79E4"
     },
     {
+      "serial": "NPJH-50460",
+      "sourceFile": "Sengoku Basara - Chronicle Heroes (PlayStation Store) [JP] [NPJH-50460].cht",
+      "blocks": 14,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "FAE7DBA651DB9E3F1BE9C65BD867749F939C3C7C50B89EE32C3BB66D55D89C45"
+    },
+    {
+      "serial": "NPJH-50464",
+      "sourceFile": "J-League Pro Soccer Club o Tsukurou! 7 Euro Plus (PlayStation Store) [JP] [NPJH-50464].cht",
+      "blocks": 12,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "B67460BF5754CD3D9CD4B70A5955920B1D6710F04A505395C8472A98A080C83A"
+    },
+    {
+      "serial": "NPJH-50465",
+      "sourceFile": "Hatsune Miku - Project Diva Extend (PlayStation Store) [JP] [NPJH-50465].cht",
+      "blocks": 31,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "991F1B7A779C600F5987FA7E84D044ACAD47814CC7B0CC10DD6B13874E5230F9"
+    },
+    {
+      "serial": "NPJH-50467",
+      "sourceFile": "Senritsu No Stratus (PlayStation Store) [JP] [NPJH-50467].cht",
+      "blocks": 33,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "B3FC12FE9ABE2D6D4353C294845A8DDC13DEF4AE6BB57C0CAAA83559D7FAF98C"
+    },
+    {
+      "serial": "NPJH-50468",
+      "sourceFile": "Frontier Gate [JP] [NPJH-50468].cht",
+      "blocks": 35,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "AFD2954056D8440B97D75302B5E70490DC9A2606CE2B2F9BC51BE1D8AC6DB20B"
+    },
+    {
+      "serial": "NPJH-50470",
+      "sourceFile": "Toriko - Gourmet Survival (PlayStation Store) [JP] [NPJH-50470].cht",
+      "blocks": 10,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "4998FA0F301F18040455D59CAF3721B41A1BCB3850782D80A77771D30840F625"
+    },
+    {
+      "serial": "NPJH-50472",
+      "sourceFile": "AKB1-48 - Idol To Guam De Koishitara... (PlayStation Store) [JP] [NPJH-50472].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "7B416632BC19FFB33B2087CDCDFFB619D99312050DA95230F869C24DFA85C43E"
+    },
+    {
       "serial": "NPJH-50473",
       "sourceFile": "Eiyuu Densetsu - Ao No Kiseki (PlayStation Store) [JP] [NPJH-50473].cht",
       "blocks": 240,
       "excluded": 7,
       "malformed": 0,
       "sha256": "037DCB93DCC99F22FCFFF326B22561EAA4CB08286573DFE701CF273301A05754"
+    },
+    {
+      "serial": "NPJH-50475",
+      "sourceFile": "Hatsune Miku - Project Diva 2nd# [JP] [NPJH-50475].cht",
+      "blocks": 43,
+      "excluded": 10,
+      "malformed": 0,
+      "sha256": "883AAB8916FFC0C8A360F4035323F7B69051E051917EEECE5C1CAE5D2E7EE8A6"
+    },
+    {
+      "serial": "NPJH-50484",
+      "sourceFile": "Durarara!! 3way StandOff - Alley (PlayStation Store) [JP] [NPJH-50484].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "EBFD44DF172410B1414BA21ECE8EBF2A2D0AE04800DD157061AB82F06F6045FA"
+    },
+    {
+      "serial": "NPJH-50486",
+      "sourceFile": "Fairy Tail - Zelef Kakusei [JP] [NPJH-50486].cht",
+      "blocks": 14,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "2B09FBA87877A8F99E213DC65FA86DB7CB71E4A3969B4D81CDAC77DF68D10830"
+    },
+    {
+      "serial": "NPJH-50489",
+      "sourceFile": "Ao No Exorcist - Genkoku No Labyrinth [JP] [NPJH-50489].cht",
+      "blocks": 5,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "DE40A83E62EACFD84B5A8CE387DC116B6A51432011EF4EA550C6CBAF319E7DA7"
+    },
+    {
+      "serial": "NPJH-50501",
+      "sourceFile": "Tales Of The Heroes - Twin Brave (PlayStation Store) [JP] [NPJH-50501].cht",
+      "blocks": 53,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "27FD2C464DC7FED4B84A7FCB85F1B5212BAA55AA8069B8179C560FA7B6362AC3"
+    },
+    {
+      "serial": "NPJH-50502",
+      "sourceFile": "Kamen Rider Climax Heroes Fourze (PlayStation Store) [JP] [NPJH-50502].cht",
+      "blocks": 11,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F13AB3B076986FFC7A78E24F371CB5F9BCE260750957F8A5CE9570DC63CE6587"
+    },
+    {
+      "serial": "NPJH-50503",
+      "sourceFile": "Lord Of Apocalypse (PlayStation Store) [JP] [NPJH-50503].cht",
+      "blocks": 23,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "318BBB52A56B14F29D42A03C55739A609BCDF3349BFA678AE934CEB13D5F6EC4"
+    },
+    {
+      "serial": "NPJH-50505",
+      "sourceFile": "Fate-Extra CCC [JP] [NPJH-50505].cht",
+      "blocks": 52,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "0E40136A1F1CF2EDD7AE0CE545CF1A9B5B95730D88AD3C463512EEB99F40E103"
+    },
+    {
+      "serial": "NPJH-50508",
+      "sourceFile": "Ro-Kyu-Bu! (PlayStation Store) [JP] [NPJH-50508].cht",
+      "blocks": 16,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "E14FF44E36052849E600EAB91348C00F4138B1423E1EF675B790CFF14EC78B8F"
+    },
+    {
+      "serial": "NPJH-50509",
+      "sourceFile": "FIFA 12 [JP] [NPJH-50509].cht",
+      "blocks": 33,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "08D440CA33AB9A3E140390FD24A231D7DC1699CC98A81B22ECA5AFCABEF4F9AB"
+    },
+    {
+      "serial": "NPJH-50515",
+      "sourceFile": "Danganronpa Hope's Academy & DespAir's Students [US] [NPJH-50515].cht",
+      "blocks": 9,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "00375AD4C64C69185ADA4B7BA143C1116FC02B71C4B74FF57BBA9FB35BF759AA"
+    },
+    {
+      "serial": "NPJH-50520",
+      "sourceFile": "Pro Yakyuu Spirits 2012 [JP] [NPJH-50520].cht",
+      "blocks": 20,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "6CA2926758D4966026EBC4BE81D386FCD917E105F8FC8D4C2EBC98C550B5120E"
     },
     {
       "serial": "NPJH-50521",
@@ -2189,6 +2773,54 @@
       "sha256": "1164E61F6F7F1D49BF982DD80A51D4AAA57986233EC8F945406EB192155C4211"
     },
     {
+      "serial": "NPJH-50535",
+      "sourceFile": "Genso Suikoden - Tsumugareshi Hyakunen No Toki [JP] [NPJH-50535].cht",
+      "blocks": 29,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "7904E9D046A0A1DA4E629DBB1B23319E7AB76CB957DDE354C05441BE2AC1BADF"
+    },
+    {
+      "serial": "NPJH-50558",
+      "sourceFile": "Heroes Phantasia (PlayStation Store) [JP] [NPJH-50558].cht",
+      "blocks": 14,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "74AB26D865922D61D86735D898E32CEA20FAEFEE9384E2CB7A136899BFD80873"
+    },
+    {
+      "serial": "NPJH-50561",
+      "sourceFile": "Great Battle FullbLast (PlayStation Store) [JP] [NPJH-50561].cht",
+      "blocks": 14,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "B138C5B6CD40801560E984FF1B313B44CB84EF2F8A26CFBA6122DF5EF2FB2AEC"
+    },
+    {
+      "serial": "NPJH-50562",
+      "sourceFile": "Kurohyou 2 - Ryu Ga Gotoku Ashura Hen (PlayStation Store) [JP] [NPJH-50562].cht",
+      "blocks": 30,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "7B99D235231E01FB555BB3F20970EC2EA49CC16D83BDC6917A6CFAACA2395E43"
+    },
+    {
+      "serial": "NPJH-50563",
+      "sourceFile": "Akiba's Trip Plus (PlayStation Store) [JP] [NPJH-50563].cht",
+      "blocks": 15,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "7EB48A715E2E643C1BCABD1E981EC808D61D59367C04997945376F14B5A43C13"
+    },
+    {
+      "serial": "NPJH-50564",
+      "sourceFile": "Toriko Gourmet Survival 2 [JP] [NPJH-50564].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "3F27F3846BF06259E281106F2CE6F9752CD86DF10565C3F684DA1139CB4EEC46"
+    },
+    {
       "serial": "NPJH-50566",
       "sourceFile": "Kidou Senshi Gundam Age - Universe Accel [JP] [NPJH-50566].cht",
       "blocks": 57,
@@ -2205,12 +2837,68 @@
       "sha256": "EB4B4E7588FE98063275C836F347F06E12F906D653CFE53940EBC9D364813BDE"
     },
     {
+      "serial": "NPJH-50575",
+      "sourceFile": "Papa No Iukoto O Kikinasai! [JP] [NPJH-50575].cht",
+      "blocks": 21,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "BBF22834B436B590C84642BDB5E2A20E1DF10208BFB06572F55685BDCBA60F87"
+    },
+    {
+      "serial": "NPJH-50582",
+      "sourceFile": "BlazBlue - Continuum Shift Extend (PlayStation Store) [JP] [NPJH-50582].cht",
+      "blocks": 12,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "21CD94F547F5C96B2A14C0D88FD41AB4750E46F9CFD9BB35E7EF81AC00D80310"
+    },
+    {
+      "serial": "NPJH-50583",
+      "sourceFile": "Conception - Ore No Kodomo o Unde Kure!! (PlayStation Store) [JP] [NPJH-50583].cht",
+      "blocks": 55,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "34C571138C1FDE76A3C398BD92F85E67A2F0A35B9ECA7914AEEB97FC821AEEEA"
+    },
+    {
       "serial": "NPJH-50588",
       "sourceFile": "Digimon World Re -Digitize (PlayStation Store) [JP] [NPJH-50588].cht",
       "blocks": 154,
       "excluded": 8,
       "malformed": 0,
       "sha256": "D4FD27F209CFD77DF81E065A4F8B270144AE792C37461C6D75ACB9FCC70DD2A9"
+    },
+    {
+      "serial": "NPJH-50594",
+      "sourceFile": "Jikkyou Powerful Pro Yakyuu 2012 [JP] [NPJH-50594].cht",
+      "blocks": 33,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "47B4C00036222D5958B1DEAAB5AED220FB582C2B6A3456C9D867AB692FA516D0"
+    },
+    {
+      "serial": "NPJH-50597",
+      "sourceFile": "Time Travelers [JP] [NPJH-50597].cht",
+      "blocks": 5,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "81B6E7BD8EA2E50D2644E93E8E618D554229B6BEA28828069B65443D602634CF"
+    },
+    {
+      "serial": "NPJH-50606",
+      "sourceFile": "Accel World - Ginyoku No Kakusei (PlayStation Store) [JP] [NPJH-50606].cht",
+      "blocks": 35,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "B03458810DDFC0FEBCBE1283FA16254C4E4636C7292D8D933F8B08FF4DFFABDF"
+    },
+    {
+      "serial": "NPJH-50617",
+      "sourceFile": "All Kamen Rider - Rider Generation 2 (PlayStation Store) [JP] [NPJH-50617].cht",
+      "blocks": 7,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "9B23813C5A1CD5983C3EDA757C2AD2483BD03C700D5A10F1A04BB0EB3B54E8B6"
     },
     {
       "serial": "NPJH-50618",
@@ -2229,6 +2917,14 @@
       "sha256": "96A72943F50EDAA867B91E6AFD17C8206946CA2DA966B37544995B75929FDE69"
     },
     {
+      "serial": "NPJH-50624",
+      "sourceFile": "Hunter X Hunter - Wonder Adventure (PlayStation Store) [JP] [NPJH-50624].cht",
+      "blocks": 19,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "AD218E71925C3E13CDF1E1E73227909A3007DB9F501CD9DBFEEF08E943022749"
+    },
+    {
       "serial": "NPJH-50625",
       "sourceFile": "Nayuta No Kiseki (PlayStation Store) [JP] [NPJH-50625].cht",
       "blocks": 109,
@@ -2237,12 +2933,116 @@
       "sha256": "8355047C8EDF8BDA8DF876A10FCF73E0596C5F50F3AF67DA7516E04D0B57D837"
     },
     {
+      "serial": "NPJH-50626",
+      "sourceFile": "Final Fantasy III (PlayStation Store) [JP] [NPJH-50626].cht",
+      "blocks": 61,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "8B516B813CBABD79CD65CDAC238335F0C04D0C918795A0D4F5911B97DAA67FDB"
+    },
+    {
+      "serial": "NPJH-50635",
+      "sourceFile": "Kuroko No Basuke Kiseki No Game [JP] [NPJH-50635].cht",
+      "blocks": 6,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "1AAE95FD5A8C74BA529C8BD5E0D7D35DD251137815DC1C1802DEDFBCFB4B1349"
+    },
+    {
+      "serial": "NPJH-50639",
+      "sourceFile": "Agarest Senki Mariage (PlayStation Store) [JP] [NPJH-50639].cht",
+      "blocks": 13,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "B481D15B9591BE4763E945FE07CCF8ABA963B84D36FAFC5B11826146549FF167"
+    },
+    {
+      "serial": "NPJH-50647",
+      "sourceFile": "Lost Heroes [JP] [NPJH-50647].cht",
+      "blocks": 16,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "AFA73ED0240318F65074A0BF84ABC53F54ECE78A3D76CADD33A328268F52FB3B"
+    },
+    {
+      "serial": "NPJH-50648",
+      "sourceFile": "Unchained Blades Exxiv [JP] [NPJH-50648].cht",
+      "blocks": 53,
+      "excluded": 1,
+      "malformed": 1,
+      "sha256": "0126C3AE4065A7D2BCE8B0E5A415E58137178E04D4434B11287653AD1FEE972D"
+    },
+    {
+      "serial": "NPJH-50656",
+      "sourceFile": "Soreyuke! BurunyanMan Portable [JP] [NPJH-50656].cht",
+      "blocks": 8,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "C853519CF43760B82FF7395CB0DFC9757E6A6603DCF16EC1FED5C8A4C2993BA7"
+    },
+    {
+      "serial": "NPJH-50658",
+      "sourceFile": "Rurouni Kenshin - Meiji Kenkaku Romantan Kansei [JP] [NPJH-50658].cht",
+      "blocks": 12,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "9257A1A4F8D9E43CF2B3AF840EB7B76623F73F7D15C93F686820C80DB63F4563"
+    },
+    {
+      "serial": "NPJH-50674",
+      "sourceFile": "The Idolm@ster - Shiny Festa - Honey Sound (PlayStation Store) [JP] [NPJH-50674].cht",
+      "blocks": 18,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "F3B68BA07DAC532A1085F70C753BDCA42CC1452CCFA68ABA896F61692AA2D197"
+    },
+    {
+      "serial": "NPJH-50675",
+      "sourceFile": "The Idolm@ster - Shiny Festa - Groovy Tune (PlayStation Store) [JP] [NPJH-50675].cht",
+      "blocks": 9,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "A40EF7ACC159541CBF8708E31537AB668258FE5BD79182A4EB147E9619A34238"
+    },
+    {
+      "serial": "NPJH-50676",
+      "sourceFile": "The Idolm@ster - Shiny Festa - Funky Note (PlayStation Store) [JP] [NPJH-50676].cht",
+      "blocks": 23,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "ACF0CC5794A3C32F3BDA07177BB434BD34C5EA261AA649F2BF07E2B049F7F364"
+    },
+    {
+      "serial": "NPJH-50679",
+      "sourceFile": "One Piece - Romance Dawn -Bouken No Yoake- [JP] [NPJH-50679].cht",
+      "blocks": 43,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "3E727DF1DE1087201412523433E408B9C394219471B8C97AD391C00408ACFFA3"
+    },
+    {
       "serial": "NPJH-50681",
       "sourceFile": "SD Gundam G Generation OverWorld [JP] [NPJH-50681].cht",
       "blocks": 97,
       "excluded": 9,
       "malformed": 0,
       "sha256": "2B3C5E9B9925D37ECFEEDEEEFDF0A0F5255CA2FC1810D9F7847555D5950C3D46"
+    },
+    {
+      "serial": "NPJH-50686",
+      "sourceFile": "Digimon Adventure [JP] [NPJH-50686].cht",
+      "blocks": 19,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "BE0463DB49ECF94E74433522D9AC5562B1453F93F6102103DBD59F89D7908A8B"
+    },
+    {
+      "serial": "NPJH-50691",
+      "sourceFile": "Kamen Rider Super Climax Heroes [JP] [NPJH-50691].cht",
+      "blocks": 10,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "7092415173D6650268DDAAE7A2B2E6E42A2C7437FBACC241773312A21035523B"
     },
     {
       "serial": "NPJH-50701",

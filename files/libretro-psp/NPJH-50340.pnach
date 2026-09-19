@@ -1,0 +1,50 @@
+# PSP cheat pack
+# Serial: NPJH-50340
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Results/ League/ Cobb
+Author = libretro-database contributors / original PSP cheat authors
+806BD5D8 00980008
+00000002 00000000
+
+// All Soccer Ball
+Author = libretro-database contributors / original PSP cheat authors
+806BD130 001F0008
+00000001 00000000
+
+// All Stadium
+Author = libretro-database contributors / original PSP cheat authors
+006BD228 00000001
+006BD230 00000001
+
+// Away Team No Points
+Author = libretro-database contributors / original PSP cheat authors
+007062CC 00000000
+
+// Everything Else
+Author = libretro-database contributors / original PSP cheat authors
+006BD238 00000001
+006BD240 00000001
+
+// Full Uniform
+Author = libretro-database contributors / original PSP cheat authors
+806BCFC8 002D0008
+00000001 00000000
+
+// Home Team Scores 99
+Author = libretro-database contributors / original PSP cheat authors
+006FEDD0 00000063
+
+// Max FIFA 11 Point
+Author = libretro-database contributors / original PSP cheat authors
+206BCFB8 3B9AC9FF
+
+// Quick Time After (L +Down)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000110
+106F7600 00000115
+
+// Time & Start Again (L +Down)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000140
+106F7600 00000000

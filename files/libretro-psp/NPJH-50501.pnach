@@ -1,0 +1,344 @@
+# PSP cheat pack
+# Serial: NPJH-50501
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Force 60 FPS (Beta)
+Author = libretro-database contributors / original PSP cheat authors
+203DC550 00000001
+
+// ACC No Use
+Author = libretro-database contributors / original PSP cheat authors
+2004AA20 24050000
+2004AA98 24050000
+
+// Accessorie 6 Slot Open
+Author = libretro-database contributors / original PSP cheat authors
+7122C5A4 00000002
+
+// Accessorie All
+Author = libretro-database contributors / original PSP cheat authors
+0122C435 000000FF
+1122C436 0000FFFF
+2122C438 FFFFFFFF
+2122C43C FFFFFFFF
+1122C440 00003FFF
+
+// Accessorie Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+41225FC8 00180003
+00000064 00000000
+4122622C 000E0003
+21226394 00000064
+212263A0 00000064
+212263E8 00000064
+
+// Accessorie Slot All
+Author = libretro-database contributors / original PSP cheat authors
+2011C3EC 00000000
+2011CB38 00000000
+
+// All Gallery Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+7122C5CF 000000F0
+1122C5D0 0000FFFF
+0122C5D2 000000FF
+7122C5D3 0000001F
+7122C615 000000C0
+1122C616 0000FFFF
+0122C618 000000FF
+7122C619 0000000F
+7122C690 000000FE
+0122C691 000000FF
+7122C692 0000001F
+
+// Attack Twice
+Author = libretro-database contributors / original PSP cheat authors
+2004B184 0A200420
+20001080 8E430098
+20001084 0A212C63
+20001088 00118840
+
+// Back Guard
+Author = libretro-database contributors / original PSP cheat authors
+2002ADA0 00000000
+
+// Canceler
+Author = libretro-database contributors / original PSP cheat authors
+20016674 10000005
+2002F404 53E0000B
+
+// Chain Striker
+Author = libretro-database contributors / original PSP cheat authors
+2002A2AC 10000322
+
+// Chara. Size Partner
+Author = libretro-database contributors / original PSP cheat authors
+E0071000 2047C172
+E0060000 1047C170
+6047C170 40000000
+00020001 00000030
+00020001 00000034
+00020001 00000038
+
+// Chara. Size Player
+Author = libretro-database contributors / original PSP cheat authors
+E0071000 2047C16E
+E0060000 1047C16C
+6047C16C 40000000
+00020001 00000030
+00020001 00000034
+00020001 00000038
+
+// Character All
+Author = libretro-database contributors / original PSP cheat authors
+7122C5CB 000000FC
+1122C5CC 0000FFFF
+0122C5CE 000000FF
+7122C5CF 00000007
+
+// Combo Time 30
+Author = libretro-database contributors / original PSP cheat authors
+2002A4F4 00000000
+2002A4F8 24050384
+
+// Gald Max
+Author = libretro-database contributors / original PSP cheat authors
+200B44B4 24030001
+200B44B8 00000000
+
+// Get Acc Point Twice (x2)
+Author = libretro-database contributors / original PSP cheat authors
+200F1974 00052840
+
+// Get Bond Twice
+Author = libretro-database contributors / original PSP cheat authors
+200F7028 00058840
+
+// Get Exp. Twice (x2)
+Author = libretro-database contributors / original PSP cheat authors
+2004A888 0A20041C
+20001070 00A22821
+20001074 0A212A24
+20001078 00052840
+
+// Get Gald Twice (x2)
+Author = libretro-database contributors / original PSP cheat authors
+2004A8F0 0A200424
+20001094 0A212A3E
+20001098 00A03021
+20001090 00052840
+
+// Get Weapon Point Twice (x2)
+Author = libretro-database contributors / original PSP cheat authors
+200FA8F4 00059040
+
+// Glory 255
+Author = libretro-database contributors / original PSP cheat authors
+2002A364 00000000
+2002A368 240500FF
+
+// Hit Twice (x2)
+Author = libretro-database contributors / original PSP cheat authors
+2004A368 10000017
+2004A3D0 00118840
+
+// HP No Dec.
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000004
+00000002 00000010
+1000000C 00000000
+
+// HP 99999
+Author = libretro-database contributors / original PSP cheat authors
+200B5D0C 3C110001
+200B5D18 3631869F
+200B5740 3C120001
+200B5748 3652869F
+
+// JC Effect Off
+Author = libretro-database contributors / original PSP cheat authors
+2002F740 24020000
+
+// Jump Power Up
+Author = libretro-database contributors / original PSP cheat authors
+200204D4 00000000
+20347670 3EFAE148
+
+// K.O.9999
+Author = libretro-database contributors / original PSP cheat authors
+60002004 0000270F
+00010001 00000070
+
+// LG Max
+Author = libretro-database contributors / original PSP cheat authors
+2004A6E0 10000007
+
+// Max ACC 120
+Author = libretro-database contributors / original PSP cheat authors
+200B618C 10000004
+200B6190 24020078
+
+// Max HitS 999999
+Author = libretro-database contributors / original PSP cheat authors
+60002004 000F423F
+00020001 00000060
+
+// Model Rotation [Select+L R]
+Author = libretro-database contributors / original PSP cheat authors
+200CEACC 00000000
+200CEAD4 00000000
+200CEAE0 E7A00018
+200CEAE4 E7A0001C
+E1020001 011D808C
+200CEAE0 E7A0001C
+200CEAE4 E7A00010
+
+// Money 999999
+Author = libretro-database contributors / original PSP cheat authors
+60002004 000F423F
+00020001 0000008C
+
+// Multi Jump
+Author = libretro-database contributors / original PSP cheat authors
+2002FA34 00000000
+
+// Nuigurumet All
+Author = libretro-database contributors / original PSP cheat authors
+7122C5D6 000000C0
+0122C5D7 000000FF
+1122C5D8 0000FFFF
+7122C5DA 0000007F
+
+// OVL 0k
+Author = libretro-database contributors / original PSP cheat authors
+2002F610 53E0FF78
+
+// OVL Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+2002EECC 24430000
+
+// PG No Use
+Author = libretro-database contributors / original PSP cheat authors
+20049988 1000000E
+20049CEC 24640000
+
+// Skill All
+Author = libretro-database contributors / original PSP cheat authors
+0122C3F3 000000FF
+4122C3F4 00070001
+FFFFFFFF 00000000
+0122C410 000000FF
+
+// Speed Up (1.0)
+Author = libretro-database contributors / original PSP cheat authors
+2004B070 1000001E
+2004B0C4 10000007
+2004B0EC 0E200414
+20001050 3C010880
+20001054 03E00008
+20001058 C4201000
+20001000 00000064
+
+// Speed Up (1.5)
+Author = libretro-database contributors / original PSP cheat authors
+2004B070 1000001E
+2004B0C4 10000007
+2004B0EC 0E200414
+20001050 3C010880
+20001054 03E00008
+20001058 C4201000
+20001000 00000096
+
+// Speed Up (2.0)
+Author = libretro-database contributors / original PSP cheat authors
+2004B070 1000001E
+2004B0C4 10000007
+2004B0EC 0E200414
+20001050 3C010880
+20001054 03E00008
+20001058 C4201000
+20001000 000000C8
+
+// Stage All
+Author = libretro-database contributors / original PSP cheat authors
+7122C5D3 000000E0
+1122C5D4 0000FFFF
+7122C5D6 0000001F
+
+// Stage BGM All
+Author = libretro-database contributors / original PSP cheat authors
+7122C5A4 000000E0
+0122C5A5 000000FF
+1122C5A6 0000FFFF
+2122C5A8 FFFFFFFF
+7122C5CA 00000038
+
+// Stage BGM All 2
+Author = libretro-database contributors / original PSP cheat authors
+50357D58 000009A0
+00B00004 00000000
+40001504 01340001
+00000002 00000001
+20001500 FFFFFFFF
+200E5D68 3C020880
+200E5D6C 24461500
+200E5D88 28A30135
+200E5DA0 3C020880
+200E5DA8 24421500
+200E5DAC 28840135
+200E5DDC 24120135
+200E5E2C 24020001
+200E5E34 2A230135
+200E5E9C 24830135
+200E5ED0 2A230135
+200E5F18 3C030930
+200E5F1C 24630000
+200E5F20 000210C0
+200E6ABC 10000018
+20B00000 08B7D338
+
+// Stage BGM & Hard Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+7122C61E 00000060
+
+// Stage Camera
+Author = libretro-database contributors / original PSP cheat authors
+20062B54 C44073BC
+203473BC BF800000
+203516B0 40000000
+
+// Exp. 999999
+Author = libretro-database contributors / original PSP cheat authors
+60002004 000F423F
+00020001 00000088
+
+// Tension 100
+Author = libretro-database contributors / original PSP cheat authors
+60002004 000003E8
+00010001 000000D4
+
+// Tention Max
+Author = libretro-database contributors / original PSP cheat authors
+2004B510 00000000
+2004B680 24620000
+
+// WA Point Twice
+Author = libretro-database contributors / original PSP cheat authors
+2003620C 24010001
+20036210 0A20042C
+200010B4 00411021
+200010B8 03E00008
+200010BC ACA20004
+200010B0 00010840
+
+// Weapon All
+Author = libretro-database contributors / original PSP cheat authors
+4122C414 00070001
+FFFFFFFF 00000000
+1122C430 0000FFFF
+7122C432 00000001
+
+// Weapon Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+41226484 01080003
+00000064 00000000

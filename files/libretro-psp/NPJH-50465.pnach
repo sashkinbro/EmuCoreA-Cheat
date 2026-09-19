@@ -1,0 +1,268 @@
+# PSP cheat pack
+# Serial: NPJH-50465
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E00101F8 002DC91C
+202DC91C 34040001
+
+// 60 FPS [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+202DC91C 8E0401F8
+
+// All Banquette
+Author = libretro-database contributors / original PSP cheat authors
+1050B7A6 0000FFFF
+4050B7A8 00060001
+FFFFFFFF 00000000
+0050B7D3 00000009
+4050B7D4 00100001
+20890909 00000000
+
+// All Diva Room
+Author = libretro-database contributors / original PSP cheat authors
+0050B741 000000FF
+0050B742 00000001
+
+// All Diva Room Event
+Author = libretro-database contributors / original PSP cheat authors
+8050B88E 00060001
+1000FFFF 00000000
+
+// All Floor
+Author = libretro-database contributors / original PSP cheat authors
+0050B75F 000000FF
+2050B760 FFFFFFFF
+0050B764 00000001
+4050B77C 000A0001
+20890909 00000000
+1050B7A4 00000909
+
+// All Room Theme
+Author = libretro-database contributors / original PSP cheat authors
+0050B74B 00000001
+1050B74C 0000FFFF
+0050B74E 0000000F
+
+// All Shop Sale
+Author = libretro-database contributors / original PSP cheat authors
+1050B6FE 0000FFFF
+2050B700 FFFFFFFF
+2050B704 FFFFFFFF
+2050B708 FFFFFFFF
+2050B70C FFFFFFFF
+1050B710 0000FFFF
+0050B712 0000007F
+0050B745 000000FF
+0050B746 00000001
+1050B754 0000FFFF
+0050B756 0000000F
+0050B76B 000000FF
+2050B76C FFFFFFFF
+0050B770 00000001
+2050B7B8 FFFFFFFF
+2050B7BC FFFFFFFF
+0050B7C0 00000001
+2050B828 FFFFFFFF
+2050B82C FFFFFFFF
+0050B830 000000FF
+
+// All Song's Perfect Score & All PV Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+805018AA 00240288
+00000001 00000000
+80501942 00240288
+805019DA 00240288
+80501A72 00240288
+40501930 002400A2
+000F4240 00000000
+405019C8 002400A2
+40501A60 002400A2
+40501AF8 002400A2
+
+// All Title
+Author = libretro-database contributors / original PSP cheat authors
+8050B8D8 00070001
+1000FFFF 00000000
+
+// All Visual Library
+Author = libretro-database contributors / original PSP cheat authors
+2050B8CC FFFFFFFF
+2050B8D0 FFFFFFFF
+
+// All Wall
+Author = libretro-database contributors / original PSP cheat authors
+4050B814 000C0001
+FFFFFFFF 00000000
+0050B844 000000FF
+1050B846 00000909
+4050B848 00120001
+20890909 00000000
+
+// Assist Items Max
+Author = libretro-database contributors / original PSP cheat authors
+0050B8A9 0000007F
+1050B8AA 00007F7F
+1050B8AC 00007F7F
+
+// Auto Play [On:L+Up/Off:L+Down]
+Author = libretro-database contributors / original PSP cheat authors
+D000000B 10000110
+201BDF10 450000EA
+201BDF2C 450100E3
+201BC47C 00000000
+201BDE54 00000000
+201BDE68 00000000
+201BE6B0 4500015D
+201BE6CC 45010156
+201BE368 00000000
+201BED9C 450001E9
+201BEDB8 450101E2
+201BE384 00000000
+201BED64 00000000
+D000000B 10000140
+201BDF10 45000037
+201BDF2C 45010030
+201BC47C 10800009
+201BDE54 1040000D
+201BDE68 10800008
+201BE6B0 45000055
+201BE6CC 4501004F
+201BE368 16640021
+201BED9C 45000050
+201BEDB8 45010049
+201BE384 16640003
+201BED64 148500B3
+
+// Auto Play v2
+Author = libretro-database contributors / original PSP cheat authors
+201BDF10 450000EA
+201BDF2C 450100E3
+201BC47C 00000000
+201BDE54 00000000
+201BDE68 00000000
+201BE6B0 4500015D
+201BE6CC 45010156
+201BE368 00000000
+201BED9C 450001E9
+201BEDB8 450101E2
+201BE384 00000000
+201BED64 00000000
+
+// Banquette
+Author = libretro-database contributors / original PSP cheat authors
+1050B7A6 0000FFFF
+4050B7A8 00060001
+FFFFFFFF 00000000
+0050B7D3 00000009
+4050B7D4 00100001
+20890909 00000000
+
+// Beta Camera
+Author = libretro-database contributors / original PSP cheat authors
+204C5DA8 30000000
+
+// Diva Room Events
+Author = libretro-database contributors / original PSP cheat authors
+8050B88E 00060001
+1000FFFF 00000000
+
+// Diva Rooms Unlock
+Author = libretro-database contributors / original PSP cheat authors
+0050B741 000000FF
+0050B742 00000001
+
+// Floors Unlock
+Author = libretro-database contributors / original PSP cheat authors
+0050B75F 000000FF
+2050B760 FFFFFFFF
+0050B764 00000001
+4050B77C 000A0001
+20890909 00000000
+1050B7A4 00000909
+
+// Free Play All Difficult
+Author = libretro-database contributors / original PSP cheat authors
+2050B8C0 FFFFFFFF
+2050B8C4 FFFFFFFF
+2050B8C8 FFFFFFFF
+
+// Free Play All Music
+Author = libretro-database contributors / original PSP cheat authors
+1050B8AE 0000FFFF
+1050B8B0 0000FFFF
+0050B8B2 0000FFFF
+
+// Remove Subtitles
+Author = libretro-database contributors / original PSP cheat authors
+404542AC 481A0001
+
+// Rooms Themes Unlock
+Author = libretro-database contributors / original PSP cheat authors
+0050B74B 00000001
+1050B74C 0000FFFF
+0050B74E 0000000F
+
+// Shop Point Max
+Author = libretro-database contributors / original PSP cheat authors
+204C6058 0098967F
+
+// Shop Sale Unlock
+Author = libretro-database contributors / original PSP cheat authors
+1050B6FE 0000FFFF
+2050B700 FFFFFFFF
+2050B704 FFFFFFFF
+2050B708 FFFFFFFF
+2050B70C FFFFFFFF
+1050B710 0000FFFF
+0050B712 0000007F
+0050B745 000000FF
+0050B746 00000001
+1050B754 0000FFFF
+0050B756 0000000F
+0050B76B 000000FF
+2050B76C FFFFFFFF
+0050B770 00000001
+2050B7B8 FFFFFFFF
+2050B7BC FFFFFFFF
+0050B7C0 00000001
+2050B828 FFFFFFFF
+2050B82C FFFFFFFF
+0050B830 000000FF
+
+// Song's Perfect Score + PV Unlock
+Author = libretro-database contributors / original PSP cheat authors
+805018AA 00240288
+00000001 00000000
+80501942 00240288
+805019DA 00240288
+80501A72 00240288
+40501930 002400A2
+000F4240 00000000
+405019C8 002400A2
+40501A60 002400A2
+40501AF8 002400A2
+
+// Titles
+Author = libretro-database contributors / original PSP cheat authors
+8050B8D8 00070001
+1000FFFF 00000000
+
+// Total Diva Point Max
+Author = libretro-database contributors / original PSP cheat authors
+204C605C 05F5E0FF
+
+// Visual Library Unlock
+Author = libretro-database contributors / original PSP cheat authors
+2050B8CC FFFFFFFF
+2050B8D0 FFFFFFFF
+
+// Walls
+Author = libretro-database contributors / original PSP cheat authors
+4050B814 000C0001
+FFFFFFFF 00000000
+0050B844 000000FF
+1050B846 00000909
+4050B848 00120001
+20890909 00000000

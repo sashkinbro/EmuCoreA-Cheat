@@ -1,0 +1,62 @@
+# PSP cheat pack
+# Serial: NPJH-50336
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Bo - Ru Count3 RL Team
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000300
+00B12EA8 00000003
+
+// CS 9999999
+Author = libretro-database contributors / original PSP cheat authors
+20B3356C 0098967F
+
+// Kyusyu Point Max
+Author = libretro-database contributors / original PSP cheat authors
+205C0058 0000270F
+
+// Meet Point Max
+Author = libretro-database contributors / original PSP cheat authors
+105C005C 0000270F
+
+// Mentaru Point Max
+Author = libretro-database contributors / original PSP cheat authors
+205C0058 0000270F
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20F6F860 0098967F
+
+// Out Count2 RL Team
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000300
+00B12EAC 00000002
+
+// Power Point Max
+Author = libretro-database contributors / original PSP cheat authors
+105C0060 0000270F
+
+// Soryoku Point Max
+Author = libretro-database contributors / original PSP cheat authors
+105C0064 0000270F
+
+// Stamina Point Max
+Author = libretro-database contributors / original PSP cheat authors
+205C0050 0000270F
+
+// Strike Count2 RL Team
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000300
+00B12EA4 00000002
+
+// Syubi Point Max
+Author = libretro-database contributors / original PSP cheat authors
+105C0068 0000270F
+
+// Tosyu Point Max
+Author = libretro-database contributors / original PSP cheat authors
+205C004C 0000270F
+
+// VP Point Max
+Author = libretro-database contributors / original PSP cheat authors
+10F6D9F4 0000FFFF

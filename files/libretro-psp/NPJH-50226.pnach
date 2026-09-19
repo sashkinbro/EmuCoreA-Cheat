@@ -1,0 +1,84 @@
+# PSP cheat pack
+# Serial: NPJH-50226
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Clothes
+Author = libretro-database contributors / original PSP cheat authors
+403BDD6C 00060001
+00000001 00000000
+
+// Attack Power Max
+Author = libretro-database contributors / original PSP cheat authors
+203BDB0C 4479C000
+20C051B4 4479C000
+
+// Consumption Props All Max
+Author = libretro-database contributors / original PSP cheat authors
+403BDE2C 00040001
+000003E7 00000000
+203BDDF4 000003E7
+
+// Defense Power Max
+Author = libretro-database contributors / original PSP cheat authors
+203BDB10 4479C000
+20C051B8 4479C000
+
+// Energy Max
+Author = libretro-database contributors / original PSP cheat authors
+E0016000 303BE5A8
+203BE5A8 476A6000
+E0010000 303BE5A8
+203BE5A8 46EA6000
+
+// Experience Max
+Author = libretro-database contributors / original PSP cheat authors
+203BDB18 497423F0
+
+// HP (Current) Max
+Author = libretro-database contributors / original PSP cheat authors
+503BDAFC 00000004
+003BDB00 00000000
+50C051A4 00000004
+00C051A8 00000000
+
+// HP (Maximum) Max
+Author = libretro-database contributors / original PSP cheat authors
+203BDAFC 4479C000
+20C051A4 4479C000
+
+// Jewelry All
+Author = libretro-database contributors / original PSP cheat authors
+403BDD84 00060001
+00000001 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+203BDB2C 000F423F
+
+// Other Props All
+Author = libretro-database contributors / original PSP cheat authors
+203BDDEC 00000001
+203BDDF0 00000001
+
+// Ring
+Author = libretro-database contributors / original PSP cheat authors
+203B9E5C 00000001
+203B9E60 00000001
+203B9E64 00000001
+
+// Shield All
+Author = libretro-database contributors / original PSP cheat authors
+403BDD54 00060001
+00000001 00000000
+
+// Story Props All
+Author = libretro-database contributors / original PSP cheat authors
+403BDE3C 00040001
+00000001 00000000
+403BDDDC 00040001
+403BDDF8 00090001
+
+// Weapons All
+Author = libretro-database contributors / original PSP cheat authors
+403BDD3C 00060001
+00000001 00000000

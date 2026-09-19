@@ -1,0 +1,43 @@
+# PSP cheat pack
+# Serial: NPJH-50451
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Bonus No Use
+Author = libretro-database contributors / original PSP cheat authors
+200CEF74 00802023
+
+// Get Many Mana
+Author = libretro-database contributors / original PSP cheat authors
+200E0F38 00C64021
+200E0F40 3504FFFF
+
+// HL Max
+Author = libretro-database contributors / original PSP cheat authors
+2030A040 3B9AC9FF
+
+// HL Not Dec. At Hospital
+Author = libretro-database contributors / original PSP cheat authors
+200D0F88 00000000
+
+// HL Not Dec. At Shop
+Author = libretro-database contributors / original PSP cheat authors
+2007D660 00000000
+
+// HP & SP Recovery
+Author = libretro-database contributors / original PSP cheat authors
+D0000005 10000001
+6026045C 00000004
+00000002 00000988
+100009A8 00000000
+00000002 0000098C
+100009AC 00000000
+
+// Move 200 [Select+→]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000021
+6026045C 43480000
+00020001 00000A80
+
+// SP 2
+Author = libretro-database contributors / original PSP cheat authors
+0012E48C 00000002

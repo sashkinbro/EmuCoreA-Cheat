@@ -1,0 +1,51 @@
+# PSP cheat pack
+# Serial: NPJH-50148
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2004E964 0A200400
+2004E968 00000000
+20001000 C48D169C
+20001004 E48D1698
+20001008 0A213A5B
+2000100C 44806000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+2004E964 C48D169C
+2004E968 E48D1698
+
+// Speed Modifier: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2034BF5C 3FC00000
+
+// Speed Modifier: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2034BF5C 40000000
+
+// Speed Modifier: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2034BF5C 3F800000
+
+// Speed Modifier: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2034BF5C 3FA00000
+
+// Speed Modifier: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2034BF5C 3F000000
+
+// Speed Up
+Author = libretro-database contributors / original PSP cheat authors
+20036E00 3C043F80
+D0000000 10008000
+20036E00 3C043FFF
+
+// Walk Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+20037EE4 100000D5
+
+// Walk Through Walls [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20037EE4 504000D5

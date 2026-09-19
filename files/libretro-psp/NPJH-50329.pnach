@@ -1,0 +1,116 @@
+# PSP cheat pack
+# Serial: NPJH-50329
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Foot Armor
+Author = libretro-database contributors / original PSP cheat authors
+8065C226 003F0001
+00000032 00000000
+
+// All Body Armor
+Author = libretro-database contributors / original PSP cheat authors
+8065C1B4 00700001
+00000032 00000000
+
+// All Card 99
+Author = libretro-database contributors / original PSP cheat authors
+8065C2FE 00150002
+00000063 00000000
+
+// All Card 999
+Author = libretro-database contributors / original PSP cheat authors
+8065C2FE 00800001
+100003E7 00000000
+
+// All Item
+Author = libretro-database contributors / original PSP cheat authors
+8065BF79 004B0001
+00000063 00000000
+8065BFEC 00600001
+8065C04A 003B0001
+8065C087 00340001
+8065C0BF 00350001
+8065C0FA 00380001
+8065C134 01000001
+8065C234 00700001
+
+// All Item v2
+Author = libretro-database contributors / original PSP cheat authors
+8065BF79 004A0001
+00000032 00000000
+
+// All Ring From HMXa
+Author = libretro-database contributors / original PSP cheat authors
+8065BFEC 008E0001
+00000001 00000000
+
+// All Weapon
+Author = libretro-database contributors / original PSP cheat authors
+8065C04A 003B0001
+00000009 00000000
+8065C087 002F0001
+2065C0B8 00090900
+8065C0C0 00560001
+2065C118 09090009
+1065C11C 00000909
+8065C122 000D0001
+0065C131 00000009
+8065C134 00350001
+0065C16D 00000009
+
+// Head Armor All
+Author = libretro-database contributors / original PSP cheat authors
+8065C172 003C0001
+00000032 00000000
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+6068898C 00000002
+00000002 000005B0
+100005B2 00000000
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+6068898C 00000002
+00000002 00000660
+10000662 00000000
+
+// Item & Equip All
+Author = libretro-database contributors / original PSP cheat authors
+8065BF79 004B0001
+00000063 00000000
+8065BFEC 00600001
+8065C04A 003B0001
+8065C087 00340001
+8065C0BF 00350001
+8065C0FA 00380001
+8065C134 01000001
+8065C234 00700001
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+2065BF70 3B9AC9FF
+
+// Player HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+6068898C 00000002
+00000002 00000500
+10000502 00000000
+
+// Player SP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+6068898C 00000002
+00000002 00000506
+10000508 00000000
+
+// SP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+6068898C 00000002
+00000002 000005B6
+100005B8 00000000
+
+// SP Not Dec. v2
+Author = libretro-database contributors / original PSP cheat authors
+6068898C 00000002
+00000002 00000666
+10000668 00000000

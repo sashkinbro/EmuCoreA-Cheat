@@ -1,0 +1,40 @@
+# PSP cheat pack
+# Serial: NPJH-50656
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Bomb Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+2008E3FC 24840000
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2008EFFC 00000000
+2008F00C 10000031
+
+// Life Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+2008F0A8 24A50000
+
+// Medal Open All
+Author = libretro-database contributors / original PSP cheat authors
+8169B8C0 00240001
+00000001 00000000
+
+// One Shot Kill Boss (Press Select Button)
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10000001
+616B829C 00000001
+00020002 00000124
+20000014 00000000
+
+// Option Addition x2
+Author = libretro-database contributors / original PSP cheat authors
+20086774 34040002
+
+// Score Multiplier Max
+Author = libretro-database contributors / original PSP cheat authors
+20010840 00000000
+
+// Stage Open All
+Author = libretro-database contributors / original PSP cheat authors
+0169B890 0000000D

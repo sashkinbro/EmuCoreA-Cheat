@@ -1,0 +1,285 @@
+# PSP cheat pack
+# Serial: NPJH-50475
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+D02C3BA2 00005480
+202C3BA0 10840004
+
+// 60 FPS [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+202C3BA0 54800004
+
+// 60 FPS v2
+Author = libretro-database contributors / original PSP cheat authors
+E00101F8 002C3B80
+202C3B80 34040001
+
+// 60 FPS v2 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+202C3B80 8E0401F8
+
+// 60 FPS v3
+Author = libretro-database contributors / original PSP cheat authors
+E000F9A4 002DC91C
+E000FE54 002DC91C
+202C3B80 34040001
+
+// 60 FPS v3 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+202C3B80 8E0401F8
+
+// All Characters (Bad)
+Author = libretro-database contributors / original PSP cheat authors
+004A3C7C 00000000
+004A3C7D 00000000
+004A3C7E 00000000
+004A3C7F 00000000
+004A3C80 00000000
+004A3C81 00000000
+004A3C82 00000000
+004A3C83 00000000
+004A3C84 00000000
+
+// All Characters (Good)
+Author = libretro-database contributors / original PSP cheat authors
+004A3C7C 0000001D
+004A3C7D 0000001D
+004A3C7E 0000001D
+004A3C7F 0000001D
+004A3C80 0000001D
+004A3C81 0000001D
+004A3C82 0000001D
+004A3C83 0000001D
+004A3C84 0000001D
+
+// All Characters (Happy)
+Author = libretro-database contributors / original PSP cheat authors
+004A3C7C 0000004F
+004A3C7D 0000004F
+004A3C7E 0000004F
+004A3C7F 0000004F
+004A3C80 0000004F
+004A3C81 0000004F
+004A3C82 0000004F
+004A3C83 0000004F
+004A3C84 0000004F
+
+// All Characters (Happy [Max])
+Author = libretro-database contributors / original PSP cheat authors
+004A3C7C 00000064
+004A3C7D 00000064
+004A3C7E 00000064
+004A3C7F 00000064
+004A3C80 00000064
+004A3C81 00000064
+004A3C82 00000064
+004A3C83 00000064
+004A3C84 00000064
+
+// All Characters Play 999 Times
+Author = libretro-database contributors / original PSP cheat authors
+104A3C86 000003E7
+104A3C88 000003E7
+104A3C8A 000003E7
+104A3C8C 000003E7
+104A3C8E 000003E7
+104A3C90 000003E7
+104A3C92 000003E7
+104A3C94 000003E7
+104A3C96 000003E7
+
+// Auto Play
+Author = libretro-database contributors / original PSP cheat authors
+201A2CC8 00000000
+201A4BB4 00000000
+
+// Auto Play v2 [ON:L+Up OFF:L+Down]
+Author = libretro-database contributors / original PSP cheat authors
+D000000B 10000110
+201A475C 450000EA
+201A4778 450100E3
+201A2CC8 00000000
+201A46A0 00000000
+201A46B4 00000000
+201A4EFC 4500015D
+201A4F18 45010156
+201A4BB4 00000000
+201A55E8 450001E9
+201A5604 450101E2
+201A4BD0 00000000
+201A55B0 00000000
+D000000B 10000140
+201A475C 45000037
+201A4778 45010030
+201A2CC8 10800009
+201A46A0 1040000D
+201A46B4 10800008
+201A4EFC 45000055
+201A4F18 4501004F
+201A4BB4 16640021
+201A55E8 45000050
+201A5604 45010049
+201A4BD0 16640003
+201A55B0 148500B3
+
+// Diva Points 9999999
+Author = libretro-database contributors / original PSP cheat authors
+204A3C10 0098967F
+
+// Diva Room/PV Gallery PV Appreciation Open When Fully Opened
+Author = libretro-database contributors / original PSP cheat authors
+20019DB8 2407270F
+20019DBC A4870004
+20019DC0 2004270F
+
+// Diva Room/View Restriction Release
+Author = libretro-database contributors / original PSP cheat authors
+201424C8 46006806
+20142544 46006806
+201425C0 46006806
+
+// Diva Room/Visual Library Full Expansion
+Author = libretro-database contributors / original PSP cheat authors
+404E9834 00060001
+FFFFFFFF 00000000
+104E984C 00007FFF
+
+// Energy Gauge MAX
+Author = libretro-database contributors / original PSP cheat authors
+200E4730 24060000
+
+// Full Difficulty Appears
+Author = libretro-database contributors / original PSP cheat authors
+404E9818 00060001
+FFFFFFFF 00000000
+
+// Help Item Full Opening
+Author = libretro-database contributors / original PSP cheat authors
+204E9806 00000909
+204E9808 09090909
+
+// Module Fully Opened
+Author = libretro-database contributors / original PSP cheat authors
+40CE96CC 00030001
+FFFFFFFF 00000000
+10CE96D8 000003FF
+
+// Profile Setting/Title Full Opening
+Author = libretro-database contributors / original PSP cheat authors
+404E9868 00030001
+FFFFFFFF 00000000
+004E9874 0000007F
+
+// Remove Subtitles
+Author = libretro-database contributors / original PSP cheat authors
+40435FD8 3D2E0001
+
+// Rhythm Game/Free Play [All Songs Appearance]
+Author = libretro-database contributors / original PSP cheat authors
+204E980C FFFFFFFF
+104E9810 00003FFF
+
+// Room Fully Opened
+Author = libretro-database contributors / original PSP cheat authors
+104E9716 000001FF
+
+// Room Item (Floor) Full Expansion
+Author = libretro-database contributors / original PSP cheat authors
+80CE9739 000E0001
+00000009 00000000
+
+// Room Item (Shelf) Full Opening
+Author = libretro-database contributors / original PSP cheat authors
+80CE976A 00330001
+00000009 00000000
+
+// Room Item (Wall) Full Expansion
+Author = libretro-database contributors / original PSP cheat authors
+80CE97C0 00310001
+00000009 00000000
+
+// Room Theme Full Open
+Author = libretro-database contributors / original PSP cheat authors
+004E9721 000000FF
+
+// Sakiname Meiko Max
+Author = libretro-database contributors / original PSP cheat authors
+004A3C84 00000064
+
+// Score Fluctuation Max
+Author = libretro-database contributors / original PSP cheat authors
+200F7604 3C040098
+200F7610 3484967F
+
+// Shop Product Fully Open
+Author = libretro-database contributors / original PSP cheat authors
+404E96E8 00030001
+FFFFFFFF 00000000
+104E96F4 0000FFFF
+104E971A 0000FFFF
+004E9727 000000FF
+004E9733 000000FF
+004E9734 000000FF
+004E9755 000000FF
+104E9756 0000FFFF
+204E9758 FFFFFFFF
+004E97AB 000000FF
+204E97AC FFFFFFFF
+104E97B0 0000FFFF
+
+// Song Energy Gauge Variation Max
+Author = libretro-database contributors / original PSP cheat authors
+200E4730 24060000
+
+// The Par Code Is...
+Author = libretro-database contributors / original PSP cheat authors
+201A2CC8 00000000
+201A4BB4 00000000
+201A4BD0 00000000
+201A46A0 00000000
+201A46B4 00000000
+201A475C 450000EA
+201A4778 450100E3
+201A4EFC 4500015D
+201A4F18 45010156
+201A55B0 00000000
+201A55E8 450001E9
+201A5604 450101E2
+
+// Arnell
+Author = libretro-database contributors / original PSP cheat authors
+104A3C92 000003E7
+
+// Haku Yowane
+Author = libretro-database contributors / original PSP cheat authors
+104A3C94 000003E7
+
+// Hatsune Miku
+Author = libretro-database contributors / original PSP cheat authors
+104A3C86 000003E7
+
+// Kagamine Len
+Author = libretro-database contributors / original PSP cheat authors
+104A3C8A 000003E7
+
+// Kagamine Rin
+Author = libretro-database contributors / original PSP cheat authors
+104A3C88 000003E7
+
+// Kite
+Author = libretro-database contributors / original PSP cheat authors
+104A3C8E 000003E7
+
+// Makiko Sakina
+Author = libretro-database contributors / original PSP cheat authors
+104A3C96 000003E7
+
+// Megurine Luka
+Author = libretro-database contributors / original PSP cheat authors
+104A3C8C 000003E7
+
+// Meiko
+Author = libretro-database contributors / original PSP cheat authors
+104A3C90 000003E7

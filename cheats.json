@@ -212,6 +212,25 @@
       "sha256": "A66CADF155F7D6B5261A733DCB685B7A8AEC9A3E2D73942486ADEE1F3D15476A"
     },
     {
+      "id": "libretro-psp-npeg-00024",
+      "title": "LocoRoco Midnight Carnival (PlayStation Store)",
+      "serials": [
+        "NPEG-00024"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "22 libretro PSP cheat blocks for NPEG-00024; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPEG-00024.pnach",
+      "packPath": "files/libretro-psp/NPEG-00024.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 22,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "0C85F263D3DD770A09CBCC789904504EAFAA906D139174425FF22362E2F13767"
+    },
+    {
       "id": "libretro-psp-npeg-00025",
       "title": "Daxter (PSN)",
       "serials": [
@@ -1162,6 +1181,25 @@
       "sha256": "376BEDE68419CA4B36D347700EC7F90343A9090CD8A6627408B27CE8F809F657"
     },
     {
+      "id": "libretro-psp-npeh-90023",
+      "title": "Metal Gear Solid - Peace Walker - Demo Ops (PlayStation Store)",
+      "serials": [
+        "NPEH-90023"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "10 libretro PSP cheat blocks for NPEH-90023; 6 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPEH-90023.pnach",
+      "packPath": "files/libretro-psp/NPEH-90023.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 10,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "A0FD3BEF6D7F2A206A9CBA5F39EC177FDDF69CB17B01BB09FD5AB78CDCA502B5"
+    },
+    {
       "id": "libretro-psp-npeh-90026",
       "title": "Half-Minute Hero - Hero 30 (Demo)",
       "serials": [
@@ -1559,6 +1597,25 @@
       "blockCount": 1,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "D309558EFE558AB59790056393521B89BA4AC89F0D9EA02DA52D5978FEAD8FBC"
+    },
+    {
+      "id": "libretro-psp-npez-00029",
+      "title": "Zombie Tycoon (Mini) (Version 3)",
+      "serials": [
+        "NPEZ-00029"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "2 libretro PSP cheat blocks for NPEZ-00029; 2 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPEZ-00029.pnach",
+      "packPath": "files/libretro-psp/NPEZ-00029.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 2,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "295D3061CD38D1AB0ADD6AF4F1E45F2C68A1125785DB5ACC17A0A8A43598A19B"
     },
     {
       "id": "libretro-psp-npez-00031",
@@ -2319,6 +2376,25 @@
       "blockCount": 4,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "193BADFC65ADB79DB07C9D979DD44C8F063BD799D0DBB027F818956CDFE57E78"
+    },
+    {
+      "id": "libretro-psp-npez-00155",
+      "title": "Bloons (PlayStation Store)",
+      "serials": [
+        "NPEZ-00155"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "1 libretro PSP cheat blocks for NPEZ-00155; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPEZ-00155.pnach",
+      "packPath": "files/libretro-psp/NPEZ-00155.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 1,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "16474CAF56E8D534E50C49032E600D107425351CA63B24338856ADDCA54591F3"
     },
     {
       "id": "libretro-psp-npez-00157",
@@ -3404,6 +3480,25 @@
       "sha256": "4E5CEDFDAC808D37BFC3D0B56A6BF996BCB73FCC094CA05BD9455124EC9DAE8F"
     },
     {
+      "id": "libretro-psp-npez-00352",
+      "title": "Ninjamurai (Mini) (Version 2)",
+      "serials": [
+        "NPEZ-00352"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "7 libretro PSP cheat blocks for NPEZ-00352; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPEZ-00352.pnach",
+      "packPath": "files/libretro-psp/NPEZ-00352.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 7,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "616AE3FC64D1108F9287023FA9B0670F55143D1B073042A95D1D9EEEB3B85276"
+    },
+    {
       "id": "libretro-psp-npez-00354",
       "title": "Drums Challenge (Mini)",
       "serials": [
@@ -3972,6 +4067,25 @@
       "blockCount": 100,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "8D331A9CF116DCBBEDB09459CF98EE7E801D950099F06ADDDC865A59F566FB0B"
+    },
+    {
+      "id": "libretro-psp-nphh-00145",
+      "title": "Metal Gear Solid - Peace Walker - Demo Ops (PlayStation Store)",
+      "serials": [
+        "NPHH-00145"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "8 libretro PSP cheat blocks for NPHH-00145; 6 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPHH-00145.pnach",
+      "packPath": "files/libretro-psp/NPHH-00145.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 8,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "AB98123A085FE4694ADE58C02FDE4F75CB0A842C662642D84D7F339D0E447F16"
     },
     {
       "id": "libretro-psp-nphh-00293",
@@ -4848,6 +4962,291 @@
       "sha256": "573E0FD3CBF2275E38B0A19CEED34DC50CCE4392F79B981779B5102ED27871ED"
     },
     {
+      "id": "libretro-psp-npjh-50144",
+      "title": "Zettai Hero Kaizou Keikaku (PlayStation Store)",
+      "serials": [
+        "NPJH-50144"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "6 libretro PSP cheat blocks for NPJH-50144; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50144.pnach",
+      "packPath": "files/libretro-psp/NPJH-50144.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 6,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "D9C9ADA6A283082D91A14DC1C98720636EF756F68C34A5BC9FEBB0EB84A9A82F"
+    },
+    {
+      "id": "libretro-psp-npjh-50145",
+      "title": "Senjou No Valkyria 2 - Gallia Ouritsu Shikan Gakkou (PlayStation Store)",
+      "serials": [
+        "NPJH-50145"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "30 libretro PSP cheat blocks for NPJH-50145; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50145.pnach",
+      "packPath": "files/libretro-psp/NPJH-50145.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 30,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "CF3A1141074F770C452310F13E8F495AA70444F8165142006A14C00F348F1779"
+    },
+    {
+      "id": "libretro-psp-npjh-50148",
+      "title": "Silent Hill - Shattered Memories (PlayStation Store)",
+      "serials": [
+        "NPJH-50148"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "10 libretro PSP cheat blocks for NPJH-50148; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50148.pnach",
+      "packPath": "files/libretro-psp/NPJH-50148.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 10,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7158CA824CF6CDD8A197BACC2CAF9AE0CE2061E551D19BF65640865579F4872C"
+    },
+    {
+      "id": "libretro-psp-npjh-50180",
+      "title": "BlazBlue - Calamity Trigger Portable (PlayStation Store)",
+      "serials": [
+        "NPJH-50180"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "3 libretro PSP cheat blocks for NPJH-50180; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50180.pnach",
+      "packPath": "files/libretro-psp/NPJH-50180.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 3,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "F0128A29A708C33EFB854EFC68A72D969AB2343BA95CF605711C4FF7DCE2DBCF"
+    },
+    {
+      "id": "libretro-psp-npjh-50184",
+      "title": "Tekken 6 (PlayStation Store)",
+      "serials": [
+        "NPJH-50184"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "7 libretro PSP cheat blocks for NPJH-50184; 5 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50184.pnach",
+      "packPath": "files/libretro-psp/NPJH-50184.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 7,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "74351F1DF8C19446B099525D67AE1A75D8FF862CFB5323B6A1F34162D0AED90D"
+    },
+    {
+      "id": "libretro-psp-npjh-50199",
+      "title": "Qix++ (PlayStation Store)",
+      "serials": [
+        "NPJH-50199"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "3 libretro PSP cheat blocks for NPJH-50199; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50199.pnach",
+      "packPath": "files/libretro-psp/NPJH-50199.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 3,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "A654FCAAFC6FE15ADE902435FE794FFDFA60E3B1A8C90B4F01E3B96075C1F5EA"
+    },
+    {
+      "id": "libretro-psp-npjh-50211",
+      "title": "Prinny 2 - Tokkou Yuugi Akatsuki No Pants Daisakusenss (PlayStation Store)",
+      "serials": [
+        "NPJH-50211"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "26 libretro PSP cheat blocks for NPJH-50211; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50211.pnach",
+      "packPath": "files/libretro-psp/NPJH-50211.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 26,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "F7D55EB5136442A16D4F2C54FC7F8FDF1FB326B3DAD44BEA2786A66A5B0287E1"
+    },
+    {
+      "id": "libretro-psp-npjh-50215",
+      "title": "Tokyo Mono Harashi - Karasu No Mori Gakuen Kitan (PlayStation Store)",
+      "serials": [
+        "NPJH-50215"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "9 libretro PSP cheat blocks for NPJH-50215; 2 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50215.pnach",
+      "packPath": "files/libretro-psp/NPJH-50215.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 9,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "2D54BC7693E4D8B770C96AC93A476FC60372439890E5B406B0200FDB8605169B"
+    },
+    {
+      "id": "libretro-psp-npjh-50221",
+      "title": "Kateikyoushi Hitman Reborn! Kizuna No Tag Battle (PlayStation Store)",
+      "serials": [
+        "NPJH-50221"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "7 libretro PSP cheat blocks for NPJH-50221; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50221.pnach",
+      "packPath": "files/libretro-psp/NPJH-50221.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 7,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "74B9761B5F74A4C21F123DD1F3984EF20456131A2F005B4F7B310ADF4E5FED29"
+    },
+    {
+      "id": "libretro-psp-npjh-50222",
+      "title": "Ikki Tousen - Xross Impact (PlayStation Store)",
+      "serials": [
+        "NPJH-50222"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "33 libretro PSP cheat blocks for NPJH-50222; 2 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50222.pnach",
+      "packPath": "files/libretro-psp/NPJH-50222.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 33,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "877E57D3C1307F3C9D3FF4960324C57C8F93869594CF5844E36390552D9F5912"
+    },
+    {
+      "id": "libretro-psp-npjh-50226",
+      "title": "Ys - Felghana No Chikai (PlayStation Store)",
+      "serials": [
+        "NPJH-50226"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "15 libretro PSP cheat blocks for NPJH-50226; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50226.pnach",
+      "packPath": "files/libretro-psp/NPJH-50226.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 15,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "D1082BF8F08BB0F90F761C40659082A5C1220BBD4ECBCC1737008FBE1E38BEB5"
+    },
+    {
+      "id": "libretro-psp-npjh-50234",
+      "title": "Pro Yakyuu Spirits 2010 (PlayStation Store)",
+      "serials": [
+        "NPJH-50234"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "5 libretro PSP cheat blocks for NPJH-50234; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50234.pnach",
+      "packPath": "files/libretro-psp/NPJH-50234.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 5,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "09564CD9D44443A6F9891E8BCD3357CCC64DCA8BA93B95C8E0ADE8F22D809A38"
+    },
+    {
+      "id": "libretro-psp-npjh-50239",
+      "title": "Dead Or Alive Paradise (PlayStation Store)",
+      "serials": [
+        "NPJH-50239"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "60 libretro PSP cheat blocks for NPJH-50239; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50239.pnach",
+      "packPath": "files/libretro-psp/NPJH-50239.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 60,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "F891312763CC5ECF8804B523E68C85AC763477F68C3352AEEABAB3717084FCB9"
+    },
+    {
+      "id": "libretro-psp-npjh-50242",
+      "title": "Tears To Tiara - Kakan No Daichi Portable (PlayStation Store)",
+      "serials": [
+        "NPJH-50242"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "15 libretro PSP cheat blocks for NPJH-50242; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50242.pnach",
+      "packPath": "files/libretro-psp/NPJH-50242.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 15,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "1E9D6ACE1A46A686141789E8FE876EDC6D7E4C33AD2F0611173E8A42A617C082"
+    },
+    {
+      "id": "libretro-psp-npjh-50247",
+      "title": "Fate-Extra (PlayStation Store)",
+      "serials": [
+        "NPJH-50247"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "13 libretro PSP cheat blocks for NPJH-50247; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50247.pnach",
+      "packPath": "files/libretro-psp/NPJH-50247.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 13,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "BCC8BD8DA12C40AF05DE302AF4F2C10F00B0283A58C3A14E99C225338ABEAD02"
+    },
+    {
       "id": "libretro-psp-npjh-50263",
       "title": "Ace Combat X2 - Joint Assault (PlayStation Store)",
       "serials": [
@@ -4867,6 +5266,25 @@
       "sha256": "DB8340F8636F4323E78B267184F3BA2F40E4872C4E95C01E40B678F58E41E183"
     },
     {
+      "id": "libretro-psp-npjh-50269",
+      "title": "Uta No ☆ Prince-Sama (PlayStation Store)",
+      "serials": [
+        "NPJH-50269"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "2 libretro PSP cheat blocks for NPJH-50269; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50269.pnach",
+      "packPath": "files/libretro-psp/NPJH-50269.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 2,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7D1777BF9668766356AEB1ED3E4DC3CAF34C378CD0905656D1A62A0F451AF3AB"
+    },
+    {
       "id": "libretro-psp-npjh-50276",
       "title": "Ys Vs. Sora No Kiseki - Alternative Saga (PlayStation Store)",
       "serials": [
@@ -4884,6 +5302,44 @@
       "blockCount": 91,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "02015A75223E67CAF4AC0AEA26E5B31D4B31778E2697BDD637A2D9B8A1235639"
+    },
+    {
+      "id": "libretro-psp-npjh-50280",
+      "title": "Blue Roses - Yousei To Aoi Hitomi No Senshitachi",
+      "serials": [
+        "NPJH-50280"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "4 libretro PSP cheat blocks for NPJH-50280; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50280.pnach",
+      "packPath": "files/libretro-psp/NPJH-50280.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 4,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "F0A80D820330390710383EEE101C38AF44C263AF21D5998017F7C3463E45E31B"
+    },
+    {
+      "id": "libretro-psp-npjh-50293",
+      "title": "Neo Geo Heroes Ultimate Shooting (PlayStation Store)",
+      "serials": [
+        "NPJH-50293"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "18 libretro PSP cheat blocks for NPJH-50293; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50293.pnach",
+      "packPath": "files/libretro-psp/NPJH-50293.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 18,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "4F77458C194B23D1002C6FDF50D060E4D87068A82472F74BD01CBD91B63FA972"
     },
     {
       "id": "libretro-psp-npjh-50311",
@@ -4924,6 +5380,44 @@
       "sha256": "36821DDE45CF6E61ABEC63CDBF02D56F44F8E3A6FE7B065399668CC94B41F6EA"
     },
     {
+      "id": "libretro-psp-npjh-50321",
+      "title": "Sengoku Efuda Yuugi - Hototogisu Tairan (PlayStation Store)",
+      "serials": [
+        "NPJH-50321"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "4 libretro PSP cheat blocks for NPJH-50321; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50321.pnach",
+      "packPath": "files/libretro-psp/NPJH-50321.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 4,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "180B821383D91A9F2715A1FAA72B284D7EEC211A1E4A356C9EEFB06F7AC1E7AA"
+    },
+    {
+      "id": "libretro-psp-npjh-50329",
+      "title": "Persona 2 - Tsumi (PlayStation Store)",
+      "serials": [
+        "NPJH-50329"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "17 libretro PSP cheat blocks for NPJH-50329; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50329.pnach",
+      "packPath": "files/libretro-psp/NPJH-50329.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 17,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "309AB0EF93260C30C574F67E54F8F64D91757F705481BF3BA3860A995B6885AA"
+    },
+    {
       "id": "libretro-psp-npjh-50331",
       "title": "Phantom Brave Portable (PlayStation Store)",
       "serials": [
@@ -4960,6 +5454,101 @@
       "blockCount": 185,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "8AEFE3EC4FBC60C0209238339970B59B8F5F2B4FF5E02701EB5FBEECFF3C66D9"
+    },
+    {
+      "id": "libretro-psp-npjh-50333",
+      "title": "Kurohyou - Ryu Ga Gotoku Shinshou (PlayStation Store)",
+      "serials": [
+        "NPJH-50333"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "20 libretro PSP cheat blocks for NPJH-50333; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50333.pnach",
+      "packPath": "files/libretro-psp/NPJH-50333.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 20,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C042A5D436DA5402625388F3E3ABF3E387152E60E0D2B0C944CAC11557284BBA"
+    },
+    {
+      "id": "libretro-psp-npjh-50335",
+      "title": "Lord Of Arcana (PlayStation Store)",
+      "serials": [
+        "NPJH-50335"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "13 libretro PSP cheat blocks for NPJH-50335; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50335.pnach",
+      "packPath": "files/libretro-psp/NPJH-50335.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 13,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "DD2BE6BB3CCDB15CFE213B9357E2D8078318B362138103CA34F3222ED9780F90"
+    },
+    {
+      "id": "libretro-psp-npjh-50336",
+      "title": "Pro Yakyuu Spirits 2011 (PlayStation Store)",
+      "serials": [
+        "NPJH-50336"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "14 libretro PSP cheat blocks for NPJH-50336; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50336.pnach",
+      "packPath": "files/libretro-psp/NPJH-50336.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 14,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7EBC228279FAC0F706E7840E74953830D9E28C5D55D7F2E33123DE1D9E4B8F17"
+    },
+    {
+      "id": "libretro-psp-npjh-50340",
+      "title": "FIFA 11 - World Class Soccer (PlayStation Store)",
+      "serials": [
+        "NPJH-50340"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "10 libretro PSP cheat blocks for NPJH-50340; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50340.pnach",
+      "packPath": "files/libretro-psp/NPJH-50340.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 10,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "DA083FBC2080C97FE156994656E77899B92B8A21769799312D50752769292D43"
+    },
+    {
+      "id": "libretro-psp-npjh-50342",
+      "title": "Shining Hearts (PlayStation Store)",
+      "serials": [
+        "NPJH-50342"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "5 libretro PSP cheat blocks for NPJH-50342; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50342.pnach",
+      "packPath": "files/libretro-psp/NPJH-50342.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 5,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "72813C541B670D4465EF543C19377DF75434AAD68B83F3EAFAC46FEF0147B375"
     },
     {
       "id": "libretro-psp-npjh-50352",
@@ -5000,6 +5589,63 @@
       "sha256": "2F3B657D2F54CD4947D5363501CA1FFEE6C1757F9CEA4EBBAAD86A91F0CDBB5B"
     },
     {
+      "id": "libretro-psp-npjh-50372",
+      "title": "Danganronpa - Kibou No Gakuen To Zetsubou No Koukousei (PlayStation Store)",
+      "serials": [
+        "NPJH-50372"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "8 libretro PSP cheat blocks for NPJH-50372; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50372.pnach",
+      "packPath": "files/libretro-psp/NPJH-50372.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 8,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "1D1E44B2D75BC9084DEB7D39706E8276C8A3998970D1E2A8A7B67CCDF8E2FA1E"
+    },
+    {
+      "id": "libretro-psp-npjh-50375",
+      "title": "Nanodiver (PlayStation Store)",
+      "serials": [
+        "NPJH-50375"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "14 libretro PSP cheat blocks for NPJH-50375; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50375.pnach",
+      "packPath": "files/libretro-psp/NPJH-50375.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 14,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "EF83067F57F019373C6A63E671347EA7A6D9B7A05C05E789B7354961FA297A2B"
+    },
+    {
+      "id": "libretro-psp-npjh-50376",
+      "title": "Venus & Braves - Majo To Megami To Horobi No Yogen (PlayStation Store)",
+      "serials": [
+        "NPJH-50376"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "13 libretro PSP cheat blocks for NPJH-50376; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50376.pnach",
+      "packPath": "files/libretro-psp/NPJH-50376.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 13,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "9237424B4A4FEBC067D11794CD15506EBAABAA13ED99F31D0F5D4C0F3921CF96"
+    },
+    {
       "id": "libretro-psp-npjh-50377",
       "title": "Dissidia 012 - Duodecim Final Fantasy (PlayStation Store)",
       "serials": [
@@ -5017,6 +5663,253 @@
       "blockCount": 154,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "FD3C220389A6DD2AFCDC2E8A7D9ABEF8E18A478EF9CEF938E21E963DA70365EA"
+    },
+    {
+      "id": "libretro-psp-npjh-50380",
+      "title": "Summon Night 3 (PlayStation Store)",
+      "serials": [
+        "NPJH-50380"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "48 libretro PSP cheat blocks for NPJH-50380; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50380.pnach",
+      "packPath": "files/libretro-psp/NPJH-50380.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 48,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "50449E7ADBBCA8AA51C68E0CE999E82E5745AAABF07DA7EE660A3B75EAA1A09A"
+    },
+    {
+      "id": "libretro-psp-npjh-50381",
+      "title": "Uta No ☆ Prince-Sama - Amazing Aria (PlayStation Store)",
+      "serials": [
+        "NPJH-50381"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "2 libretro PSP cheat blocks for NPJH-50381; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50381.pnach",
+      "packPath": "files/libretro-psp/NPJH-50381.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 2,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "DD0EAE4B3966C1B992AFE4E676B0760EB64110B4B032136EC4C10F735BEAEAF3"
+    },
+    {
+      "id": "libretro-psp-npjh-50388",
+      "title": "Classic Dungeon X2 (PlayStation Store)",
+      "serials": [
+        "NPJH-50388"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "9 libretro PSP cheat blocks for NPJH-50388; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50388.pnach",
+      "packPath": "files/libretro-psp/NPJH-50388.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 9,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "1F17BB064747A02A40CA663BF598563A89B4CFAC89E85270A6283E3960B6A8FE"
+    },
+    {
+      "id": "libretro-psp-npjh-50393",
+      "title": "Uta No ☆ Prince-Sama - Sweet Serenade (PlayStation Store)",
+      "serials": [
+        "NPJH-50393"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "2 libretro PSP cheat blocks for NPJH-50393; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50393.pnach",
+      "packPath": "files/libretro-psp/NPJH-50393.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 2,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "6DAB789EC8083F26549E03502F6ABA20E242303AB2E49A1A197FEBAEB6DEE92E"
+    },
+    {
+      "id": "libretro-psp-npjh-50394",
+      "title": "Black Robinia (PlayStation Store)",
+      "serials": [
+        "NPJH-50394"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "1 libretro PSP cheat blocks for NPJH-50394; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50394.pnach",
+      "packPath": "files/libretro-psp/NPJH-50394.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 1,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "8C62AFF3D1A12E173718377FB692DEFFFB4BED85DB9D9DB5FF82B6230E6CD2A8"
+    },
+    {
+      "id": "libretro-psp-npjh-50401",
+      "title": "BlazBlue - Continuum Shift II (PlayStation Store)",
+      "serials": [
+        "NPJH-50401"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "21 libretro PSP cheat blocks for NPJH-50401; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50401.pnach",
+      "packPath": "files/libretro-psp/NPJH-50401.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 21,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "092F7070A8C87A5717251EF5C090C710A7F3784081686B7D1F9E4BD9F310C509"
+    },
+    {
+      "id": "libretro-psp-npjh-50409",
+      "title": "Gachitora! Abarenbou Kyoushi In High School (PlayStation Store)",
+      "serials": [
+        "NPJH-50409"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "10 libretro PSP cheat blocks for NPJH-50409; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50409.pnach",
+      "packPath": "files/libretro-psp/NPJH-50409.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 10,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "BDFA255BDAA9A1E193FCC0273BA41AEA1D5C5A71FFA29CC5F2B67F74160A6811"
+    },
+    {
+      "id": "libretro-psp-npjh-50410",
+      "title": "Summon Night 4",
+      "serials": [
+        "NPJH-50410"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "29 libretro PSP cheat blocks for NPJH-50410; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50410.pnach",
+      "packPath": "files/libretro-psp/NPJH-50410.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 29,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "BB958D9609DDC6023CF209B47E37AD036D5D166BE4387AD462EFC621A391D027"
+    },
+    {
+      "id": "libretro-psp-npjh-50411",
+      "title": "Fairy Tail - Portable Guild 2 (PlayStation Store)",
+      "serials": [
+        "NPJH-50411"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "24 libretro PSP cheat blocks for NPJH-50411; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50411.pnach",
+      "packPath": "files/libretro-psp/NPJH-50411.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 24,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "9292C680D3589859853B7399D222ED3A61231200BDAADE8D7379B4DA36453F9A"
+    },
+    {
+      "id": "libretro-psp-npjh-50412",
+      "title": "Akiba's Trip (PlayStation Store)",
+      "serials": [
+        "NPJH-50412"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "12 libretro PSP cheat blocks for NPJH-50412; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50412.pnach",
+      "packPath": "files/libretro-psp/NPJH-50412.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 12,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "8F2733F1C844240D8CB07311BFCF6F2FB47755B034281E9D5A02AF6920B088D8"
+    },
+    {
+      "id": "libretro-psp-npjh-50414",
+      "title": "Final Fantasy IV - The Complete Collection (PlayStation Store)",
+      "serials": [
+        "NPJH-50414"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "31 libretro PSP cheat blocks for NPJH-50414; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50414.pnach",
+      "packPath": "files/libretro-psp/NPJH-50414.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 31,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "A3810FB2DDDDE383F223EB2C9BF8307AC66C5C33510977EF4F15FBFDE8624307"
+    },
+    {
+      "id": "libretro-psp-npjh-50416",
+      "title": "Saigo No Yakusoku No Monogatari (PlayStation Store)",
+      "serials": [
+        "NPJH-50416"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "22 libretro PSP cheat blocks for NPJH-50416; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50416.pnach",
+      "packPath": "files/libretro-psp/NPJH-50416.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 22,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "96B05EA2A22676DE2441A54CB9558F1152D3E794455C3B99A949E4BBEB47051D"
+    },
+    {
+      "id": "libretro-psp-npjh-50426",
+      "title": "Taiko No Tatsujin Portable DX (PlayStation Store)",
+      "serials": [
+        "NPJH-50426"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "10 libretro PSP cheat blocks for NPJH-50426; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50426.pnach",
+      "packPath": "files/libretro-psp/NPJH-50426.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 10,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "B4105599F17F4348B0067F327434E077F1714F2657650EDD56F6A165BF7BFE81"
     },
     {
       "id": "libretro-psp-npjh-50430",
@@ -5038,6 +5931,25 @@
       "sha256": "C5AF5EFB3261806100406E585281286270232CF1065DEBD74F3EA6849787C006"
     },
     {
+      "id": "libretro-psp-npjh-50431",
+      "title": "Ragnarok - Hikari To Yami No Koujo (PlayStation Store)",
+      "serials": [
+        "NPJH-50431"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "11 libretro PSP cheat blocks for NPJH-50431; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50431.pnach",
+      "packPath": "files/libretro-psp/NPJH-50431.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 11,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C7585C08D249C9C48D9E473449FC61CC3AFB4EDD76490A5B580ADB6C550A0B71"
+    },
+    {
       "id": "libretro-psp-npjh-50435",
       "title": "Naruto Shippuden - Narutimate Impact (PlayStation Store)",
       "serials": [
@@ -5057,6 +5969,25 @@
       "sha256": "FAE6B55419173FE09A978E43D696192AAC015C2FFAB3EEC3513C3633859D62BC"
     },
     {
+      "id": "libretro-psp-npjh-50437",
+      "title": "Gundam Memories - Tatakai No Kioku (PlayStation Store)",
+      "serials": [
+        "NPJH-50437"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "15 libretro PSP cheat blocks for NPJH-50437; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50437.pnach",
+      "packPath": "files/libretro-psp/NPJH-50437.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 15,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "A3392256A2CCEED87F14EF7DC328DBD5BD9B6FB722BCE8B6F499605ADAD06940"
+    },
+    {
       "id": "libretro-psp-npjh-50441",
       "title": "Kidou Senshi Gundam - Shin Gihren No Yabou (PlayStation Store)",
       "serials": [
@@ -5074,6 +6005,25 @@
       "blockCount": 65,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "259719E82BCEEA773662699948DA1A90684B09835F1C3CFF95B3B6165A305BC6"
+    },
+    {
+      "id": "libretro-psp-npjh-50442",
+      "title": "Kidou Senshi Gundam - Mokuba No Kiseki (PlayStation Store)",
+      "serials": [
+        "NPJH-50442"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "6 libretro PSP cheat blocks for NPJH-50442; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50442.pnach",
+      "packPath": "files/libretro-psp/NPJH-50442.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 6,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "9DC59574C2D6C0F15E402FE61B65BFE6CBF27F58223C51312677D7D59CA8CE50"
     },
     {
       "id": "libretro-psp-npjh-50443",
@@ -5114,6 +6064,82 @@
       "sha256": "53FBAF327FC3E78FE6BA40D5AC03D50ED7FBD43088D6410BFB238D39B9E584A6"
     },
     {
+      "id": "libretro-psp-npjh-50448",
+      "title": "Black Rock Shooter - The Game (PlayStation Store)",
+      "serials": [
+        "NPJH-50448"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "21 libretro PSP cheat blocks for NPJH-50448; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50448.pnach",
+      "packPath": "files/libretro-psp/NPJH-50448.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 21,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "8A4E36141F8E239059972D7FB62805E267C156FD042746BD1452F7AE146D335D"
+    },
+    {
+      "id": "libretro-psp-npjh-50451",
+      "title": "Phantom Kingdom Portable (PlayStation Store)",
+      "serials": [
+        "NPJH-50451"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "8 libretro PSP cheat blocks for NPJH-50451; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50451.pnach",
+      "packPath": "files/libretro-psp/NPJH-50451.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 8,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C196C1B102BE1DFAFFA0DF92648D2FD7D160FF5325153FA5DC294FAAF20C1547"
+    },
+    {
+      "id": "libretro-psp-npjh-50453",
+      "title": "Busou Shinki - Battle Masters Mk. 2 (PlayStation Store)",
+      "serials": [
+        "NPJH-50453"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "51 libretro PSP cheat blocks for NPJH-50453; 2 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50453.pnach",
+      "packPath": "files/libretro-psp/NPJH-50453.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 51,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "4FF934D4AE681B02982E02B02941EE1A9AA2075093C4094F16F0E915BCFA7DA6"
+    },
+    {
+      "id": "libretro-psp-npjh-50457",
+      "title": "Evangelion Shin Gekijoban - 3nd Impact (PlayStation Store)",
+      "serials": [
+        "NPJH-50457"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "2 libretro PSP cheat blocks for NPJH-50457; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50457.pnach",
+      "packPath": "files/libretro-psp/NPJH-50457.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 2,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7BCB7E16FE4A1ADD3193DA8FF21051E72D644E4DBD2DC2965BC378161715A3BB"
+    },
+    {
       "id": "libretro-psp-npjh-50459",
       "title": "7th Dragon 2020 (PlayStation Store)",
       "serials": [
@@ -5133,6 +6159,139 @@
       "sha256": "6B6070D86B1E62FB53AFAED04699D4C66F3A35DE25E0B357FB5676348DCC79E4"
     },
     {
+      "id": "libretro-psp-npjh-50460",
+      "title": "Sengoku Basara - Chronicle Heroes (PlayStation Store)",
+      "serials": [
+        "NPJH-50460"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "14 libretro PSP cheat blocks for NPJH-50460; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50460.pnach",
+      "packPath": "files/libretro-psp/NPJH-50460.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 14,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "FAE7DBA651DB9E3F1BE9C65BD867749F939C3C7C50B89EE32C3BB66D55D89C45"
+    },
+    {
+      "id": "libretro-psp-npjh-50464",
+      "title": "J-League Pro Soccer Club o Tsukurou! 7 Euro Plus (PlayStation Store)",
+      "serials": [
+        "NPJH-50464"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "12 libretro PSP cheat blocks for NPJH-50464; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50464.pnach",
+      "packPath": "files/libretro-psp/NPJH-50464.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 12,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "B67460BF5754CD3D9CD4B70A5955920B1D6710F04A505395C8472A98A080C83A"
+    },
+    {
+      "id": "libretro-psp-npjh-50465",
+      "title": "Hatsune Miku - Project Diva Extend (PlayStation Store)",
+      "serials": [
+        "NPJH-50465"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "31 libretro PSP cheat blocks for NPJH-50465; 4 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50465.pnach",
+      "packPath": "files/libretro-psp/NPJH-50465.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 31,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "991F1B7A779C600F5987FA7E84D044ACAD47814CC7B0CC10DD6B13874E5230F9"
+    },
+    {
+      "id": "libretro-psp-npjh-50467",
+      "title": "Senritsu No Stratus (PlayStation Store)",
+      "serials": [
+        "NPJH-50467"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "33 libretro PSP cheat blocks for NPJH-50467; 2 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50467.pnach",
+      "packPath": "files/libretro-psp/NPJH-50467.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 33,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "B3FC12FE9ABE2D6D4353C294845A8DDC13DEF4AE6BB57C0CAAA83559D7FAF98C"
+    },
+    {
+      "id": "libretro-psp-npjh-50468",
+      "title": "Frontier Gate",
+      "serials": [
+        "NPJH-50468"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "35 libretro PSP cheat blocks for NPJH-50468; 4 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50468.pnach",
+      "packPath": "files/libretro-psp/NPJH-50468.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 35,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "AFD2954056D8440B97D75302B5E70490DC9A2606CE2B2F9BC51BE1D8AC6DB20B"
+    },
+    {
+      "id": "libretro-psp-npjh-50470",
+      "title": "Toriko - Gourmet Survival (PlayStation Store)",
+      "serials": [
+        "NPJH-50470"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "10 libretro PSP cheat blocks for NPJH-50470; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50470.pnach",
+      "packPath": "files/libretro-psp/NPJH-50470.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 10,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "4998FA0F301F18040455D59CAF3721B41A1BCB3850782D80A77771D30840F625"
+    },
+    {
+      "id": "libretro-psp-npjh-50472",
+      "title": "AKB1-48 - Idol To Guam De Koishitara... (PlayStation Store)",
+      "serials": [
+        "NPJH-50472"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "1 libretro PSP cheat blocks for NPJH-50472; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50472.pnach",
+      "packPath": "files/libretro-psp/NPJH-50472.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 1,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7B416632BC19FFB33B2087CDCDFFB619D99312050DA95230F869C24DFA85C43E"
+    },
+    {
       "id": "libretro-psp-npjh-50473",
       "title": "Eiyuu Densetsu - Ao No Kiseki (PlayStation Store)",
       "serials": [
@@ -5150,6 +6309,234 @@
       "blockCount": 240,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "037DCB93DCC99F22FCFFF326B22561EAA4CB08286573DFE701CF273301A05754"
+    },
+    {
+      "id": "libretro-psp-npjh-50475",
+      "title": "Hatsune Miku - Project Diva 2nd#",
+      "serials": [
+        "NPJH-50475"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "43 libretro PSP cheat blocks for NPJH-50475; 10 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50475.pnach",
+      "packPath": "files/libretro-psp/NPJH-50475.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 43,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "883AAB8916FFC0C8A360F4035323F7B69051E051917EEECE5C1CAE5D2E7EE8A6"
+    },
+    {
+      "id": "libretro-psp-npjh-50484",
+      "title": "Durarara!! 3way StandOff - Alley (PlayStation Store)",
+      "serials": [
+        "NPJH-50484"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "4 libretro PSP cheat blocks for NPJH-50484; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50484.pnach",
+      "packPath": "files/libretro-psp/NPJH-50484.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 4,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "EBFD44DF172410B1414BA21ECE8EBF2A2D0AE04800DD157061AB82F06F6045FA"
+    },
+    {
+      "id": "libretro-psp-npjh-50486",
+      "title": "Fairy Tail - Zelef Kakusei",
+      "serials": [
+        "NPJH-50486"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "14 libretro PSP cheat blocks for NPJH-50486; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50486.pnach",
+      "packPath": "files/libretro-psp/NPJH-50486.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 14,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "2B09FBA87877A8F99E213DC65FA86DB7CB71E4A3969B4D81CDAC77DF68D10830"
+    },
+    {
+      "id": "libretro-psp-npjh-50489",
+      "title": "Ao No Exorcist - Genkoku No Labyrinth",
+      "serials": [
+        "NPJH-50489"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "5 libretro PSP cheat blocks for NPJH-50489; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50489.pnach",
+      "packPath": "files/libretro-psp/NPJH-50489.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 5,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "DE40A83E62EACFD84B5A8CE387DC116B6A51432011EF4EA550C6CBAF319E7DA7"
+    },
+    {
+      "id": "libretro-psp-npjh-50501",
+      "title": "Tales Of The Heroes - Twin Brave (PlayStation Store)",
+      "serials": [
+        "NPJH-50501"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "53 libretro PSP cheat blocks for NPJH-50501; 3 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50501.pnach",
+      "packPath": "files/libretro-psp/NPJH-50501.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 53,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "27FD2C464DC7FED4B84A7FCB85F1B5212BAA55AA8069B8179C560FA7B6362AC3"
+    },
+    {
+      "id": "libretro-psp-npjh-50502",
+      "title": "Kamen Rider Climax Heroes Fourze (PlayStation Store)",
+      "serials": [
+        "NPJH-50502"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "11 libretro PSP cheat blocks for NPJH-50502; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50502.pnach",
+      "packPath": "files/libretro-psp/NPJH-50502.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 11,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "F13AB3B076986FFC7A78E24F371CB5F9BCE260750957F8A5CE9570DC63CE6587"
+    },
+    {
+      "id": "libretro-psp-npjh-50503",
+      "title": "Lord Of Apocalypse (PlayStation Store)",
+      "serials": [
+        "NPJH-50503"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "23 libretro PSP cheat blocks for NPJH-50503; 6 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50503.pnach",
+      "packPath": "files/libretro-psp/NPJH-50503.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 23,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "318BBB52A56B14F29D42A03C55739A609BCDF3349BFA678AE934CEB13D5F6EC4"
+    },
+    {
+      "id": "libretro-psp-npjh-50505",
+      "title": "Fate-Extra CCC",
+      "serials": [
+        "NPJH-50505"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "52 libretro PSP cheat blocks for NPJH-50505; 5 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50505.pnach",
+      "packPath": "files/libretro-psp/NPJH-50505.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 52,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "0E40136A1F1CF2EDD7AE0CE545CF1A9B5B95730D88AD3C463512EEB99F40E103"
+    },
+    {
+      "id": "libretro-psp-npjh-50508",
+      "title": "Ro-Kyu-Bu! (PlayStation Store)",
+      "serials": [
+        "NPJH-50508"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "16 libretro PSP cheat blocks for NPJH-50508; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50508.pnach",
+      "packPath": "files/libretro-psp/NPJH-50508.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 16,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "E14FF44E36052849E600EAB91348C00F4138B1423E1EF675B790CFF14EC78B8F"
+    },
+    {
+      "id": "libretro-psp-npjh-50509",
+      "title": "FIFA 12",
+      "serials": [
+        "NPJH-50509"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "33 libretro PSP cheat blocks for NPJH-50509; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50509.pnach",
+      "packPath": "files/libretro-psp/NPJH-50509.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 33,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "08D440CA33AB9A3E140390FD24A231D7DC1699CC98A81B22ECA5AFCABEF4F9AB"
+    },
+    {
+      "id": "libretro-psp-npjh-50515",
+      "title": "Danganronpa Hope's Academy & DespAir's Students",
+      "serials": [
+        "NPJH-50515"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "9 libretro PSP cheat blocks for NPJH-50515; 3 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50515.pnach",
+      "packPath": "files/libretro-psp/NPJH-50515.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 9,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "00375AD4C64C69185ADA4B7BA143C1116FC02B71C4B74FF57BBA9FB35BF759AA"
+    },
+    {
+      "id": "libretro-psp-npjh-50520",
+      "title": "Pro Yakyuu Spirits 2012",
+      "serials": [
+        "NPJH-50520"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "20 libretro PSP cheat blocks for NPJH-50520; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50520.pnach",
+      "packPath": "files/libretro-psp/NPJH-50520.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 20,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "6CA2926758D4966026EBC4BE81D386FCD917E105F8FC8D4C2EBC98C550B5120E"
     },
     {
       "id": "libretro-psp-npjh-50521",
@@ -5190,6 +6577,120 @@
       "sha256": "1164E61F6F7F1D49BF982DD80A51D4AAA57986233EC8F945406EB192155C4211"
     },
     {
+      "id": "libretro-psp-npjh-50535",
+      "title": "Genso Suikoden - Tsumugareshi Hyakunen No Toki",
+      "serials": [
+        "NPJH-50535"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "29 libretro PSP cheat blocks for NPJH-50535; 7 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50535.pnach",
+      "packPath": "files/libretro-psp/NPJH-50535.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 29,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7904E9D046A0A1DA4E629DBB1B23319E7AB76CB957DDE354C05441BE2AC1BADF"
+    },
+    {
+      "id": "libretro-psp-npjh-50558",
+      "title": "Heroes Phantasia (PlayStation Store)",
+      "serials": [
+        "NPJH-50558"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "14 libretro PSP cheat blocks for NPJH-50558; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50558.pnach",
+      "packPath": "files/libretro-psp/NPJH-50558.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 14,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "74AB26D865922D61D86735D898E32CEA20FAEFEE9384E2CB7A136899BFD80873"
+    },
+    {
+      "id": "libretro-psp-npjh-50561",
+      "title": "Great Battle FullbLast (PlayStation Store)",
+      "serials": [
+        "NPJH-50561"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "14 libretro PSP cheat blocks for NPJH-50561; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50561.pnach",
+      "packPath": "files/libretro-psp/NPJH-50561.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 14,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "B138C5B6CD40801560E984FF1B313B44CB84EF2F8A26CFBA6122DF5EF2FB2AEC"
+    },
+    {
+      "id": "libretro-psp-npjh-50562",
+      "title": "Kurohyou 2 - Ryu Ga Gotoku Ashura Hen (PlayStation Store)",
+      "serials": [
+        "NPJH-50562"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "30 libretro PSP cheat blocks for NPJH-50562; 4 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50562.pnach",
+      "packPath": "files/libretro-psp/NPJH-50562.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 30,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7B99D235231E01FB555BB3F20970EC2EA49CC16D83BDC6917A6CFAACA2395E43"
+    },
+    {
+      "id": "libretro-psp-npjh-50563",
+      "title": "Akiba's Trip Plus (PlayStation Store)",
+      "serials": [
+        "NPJH-50563"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "15 libretro PSP cheat blocks for NPJH-50563; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50563.pnach",
+      "packPath": "files/libretro-psp/NPJH-50563.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 15,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7EB48A715E2E643C1BCABD1E981EC808D61D59367C04997945376F14B5A43C13"
+    },
+    {
+      "id": "libretro-psp-npjh-50564",
+      "title": "Toriko Gourmet Survival 2",
+      "serials": [
+        "NPJH-50564"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "3 libretro PSP cheat blocks for NPJH-50564; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50564.pnach",
+      "packPath": "files/libretro-psp/NPJH-50564.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 3,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "3F27F3846BF06259E281106F2CE6F9752CD86DF10565C3F684DA1139CB4EEC46"
+    },
+    {
       "id": "libretro-psp-npjh-50566",
       "title": "Kidou Senshi Gundam Age - Universe Accel",
       "serials": [
@@ -5228,6 +6729,63 @@
       "sha256": "EB4B4E7588FE98063275C836F347F06E12F906D653CFE53940EBC9D364813BDE"
     },
     {
+      "id": "libretro-psp-npjh-50575",
+      "title": "Papa No Iukoto O Kikinasai!",
+      "serials": [
+        "NPJH-50575"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "21 libretro PSP cheat blocks for NPJH-50575; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50575.pnach",
+      "packPath": "files/libretro-psp/NPJH-50575.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 21,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "BBF22834B436B590C84642BDB5E2A20E1DF10208BFB06572F55685BDCBA60F87"
+    },
+    {
+      "id": "libretro-psp-npjh-50582",
+      "title": "BlazBlue - Continuum Shift Extend (PlayStation Store)",
+      "serials": [
+        "NPJH-50582"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "12 libretro PSP cheat blocks for NPJH-50582; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50582.pnach",
+      "packPath": "files/libretro-psp/NPJH-50582.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 12,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "21CD94F547F5C96B2A14C0D88FD41AB4750E46F9CFD9BB35E7EF81AC00D80310"
+    },
+    {
+      "id": "libretro-psp-npjh-50583",
+      "title": "Conception - Ore No Kodomo o Unde Kure!! (PlayStation Store)",
+      "serials": [
+        "NPJH-50583"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "55 libretro PSP cheat blocks for NPJH-50583; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50583.pnach",
+      "packPath": "files/libretro-psp/NPJH-50583.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 55,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "34C571138C1FDE76A3C398BD92F85E67A2F0A35B9ECA7914AEEB97FC821AEEEA"
+    },
+    {
       "id": "libretro-psp-npjh-50588",
       "title": "Digimon World Re -Digitize (PlayStation Store)",
       "serials": [
@@ -5245,6 +6803,82 @@
       "blockCount": 154,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "D4FD27F209CFD77DF81E065A4F8B270144AE792C37461C6D75ACB9FCC70DD2A9"
+    },
+    {
+      "id": "libretro-psp-npjh-50594",
+      "title": "Jikkyou Powerful Pro Yakyuu 2012",
+      "serials": [
+        "NPJH-50594"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "33 libretro PSP cheat blocks for NPJH-50594; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50594.pnach",
+      "packPath": "files/libretro-psp/NPJH-50594.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 33,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "47B4C00036222D5958B1DEAAB5AED220FB582C2B6A3456C9D867AB692FA516D0"
+    },
+    {
+      "id": "libretro-psp-npjh-50597",
+      "title": "Time Travelers",
+      "serials": [
+        "NPJH-50597"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "5 libretro PSP cheat blocks for NPJH-50597; 4 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50597.pnach",
+      "packPath": "files/libretro-psp/NPJH-50597.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 5,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "81B6E7BD8EA2E50D2644E93E8E618D554229B6BEA28828069B65443D602634CF"
+    },
+    {
+      "id": "libretro-psp-npjh-50606",
+      "title": "Accel World - Ginyoku No Kakusei (PlayStation Store)",
+      "serials": [
+        "NPJH-50606"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "35 libretro PSP cheat blocks for NPJH-50606; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50606.pnach",
+      "packPath": "files/libretro-psp/NPJH-50606.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 35,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "B03458810DDFC0FEBCBE1283FA16254C4E4636C7292D8D933F8B08FF4DFFABDF"
+    },
+    {
+      "id": "libretro-psp-npjh-50617",
+      "title": "All Kamen Rider - Rider Generation 2 (PlayStation Store)",
+      "serials": [
+        "NPJH-50617"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "7 libretro PSP cheat blocks for NPJH-50617; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50617.pnach",
+      "packPath": "files/libretro-psp/NPJH-50617.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 7,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "9B23813C5A1CD5983C3EDA757C2AD2483BD03C700D5A10F1A04BB0EB3B54E8B6"
     },
     {
       "id": "libretro-psp-npjh-50618",
@@ -5285,6 +6919,25 @@
       "sha256": "96A72943F50EDAA867B91E6AFD17C8206946CA2DA966B37544995B75929FDE69"
     },
     {
+      "id": "libretro-psp-npjh-50624",
+      "title": "Hunter X Hunter - Wonder Adventure (PlayStation Store)",
+      "serials": [
+        "NPJH-50624"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "19 libretro PSP cheat blocks for NPJH-50624; 3 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50624.pnach",
+      "packPath": "files/libretro-psp/NPJH-50624.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 19,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "AD218E71925C3E13CDF1E1E73227909A3007DB9F501CD9DBFEEF08E943022749"
+    },
+    {
       "id": "libretro-psp-npjh-50625",
       "title": "Nayuta No Kiseki (PlayStation Store)",
       "serials": [
@@ -5304,6 +6957,215 @@
       "sha256": "8355047C8EDF8BDA8DF876A10FCF73E0596C5F50F3AF67DA7516E04D0B57D837"
     },
     {
+      "id": "libretro-psp-npjh-50626",
+      "title": "Final Fantasy III (PlayStation Store)",
+      "serials": [
+        "NPJH-50626"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "61 libretro PSP cheat blocks for NPJH-50626; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50626.pnach",
+      "packPath": "files/libretro-psp/NPJH-50626.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 61,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "8B516B813CBABD79CD65CDAC238335F0C04D0C918795A0D4F5911B97DAA67FDB"
+    },
+    {
+      "id": "libretro-psp-npjh-50635",
+      "title": "Kuroko No Basuke Kiseki No Game",
+      "serials": [
+        "NPJH-50635"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "6 libretro PSP cheat blocks for NPJH-50635; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50635.pnach",
+      "packPath": "files/libretro-psp/NPJH-50635.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 6,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "1AAE95FD5A8C74BA529C8BD5E0D7D35DD251137815DC1C1802DEDFBCFB4B1349"
+    },
+    {
+      "id": "libretro-psp-npjh-50639",
+      "title": "Agarest Senki Mariage (PlayStation Store)",
+      "serials": [
+        "NPJH-50639"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "13 libretro PSP cheat blocks for NPJH-50639; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50639.pnach",
+      "packPath": "files/libretro-psp/NPJH-50639.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 13,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "B481D15B9591BE4763E945FE07CCF8ABA963B84D36FAFC5B11826146549FF167"
+    },
+    {
+      "id": "libretro-psp-npjh-50647",
+      "title": "Lost Heroes",
+      "serials": [
+        "NPJH-50647"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "16 libretro PSP cheat blocks for NPJH-50647; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50647.pnach",
+      "packPath": "files/libretro-psp/NPJH-50647.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 16,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "AFA73ED0240318F65074A0BF84ABC53F54ECE78A3D76CADD33A328268F52FB3B"
+    },
+    {
+      "id": "libretro-psp-npjh-50648",
+      "title": "Unchained Blades Exxiv",
+      "serials": [
+        "NPJH-50648"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "53 libretro PSP cheat blocks for NPJH-50648; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50648.pnach",
+      "packPath": "files/libretro-psp/NPJH-50648.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 53,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "0126C3AE4065A7D2BCE8B0E5A415E58137178E04D4434B11287653AD1FEE972D"
+    },
+    {
+      "id": "libretro-psp-npjh-50656",
+      "title": "Soreyuke! BurunyanMan Portable",
+      "serials": [
+        "NPJH-50656"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "8 libretro PSP cheat blocks for NPJH-50656; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50656.pnach",
+      "packPath": "files/libretro-psp/NPJH-50656.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 8,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C853519CF43760B82FF7395CB0DFC9757E6A6603DCF16EC1FED5C8A4C2993BA7"
+    },
+    {
+      "id": "libretro-psp-npjh-50658",
+      "title": "Rurouni Kenshin - Meiji Kenkaku Romantan Kansei",
+      "serials": [
+        "NPJH-50658"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "12 libretro PSP cheat blocks for NPJH-50658; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50658.pnach",
+      "packPath": "files/libretro-psp/NPJH-50658.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 12,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "9257A1A4F8D9E43CF2B3AF840EB7B76623F73F7D15C93F686820C80DB63F4563"
+    },
+    {
+      "id": "libretro-psp-npjh-50674",
+      "title": "The Idolm@ster - Shiny Festa - Honey Sound (PlayStation Store)",
+      "serials": [
+        "NPJH-50674"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "18 libretro PSP cheat blocks for NPJH-50674; 3 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50674.pnach",
+      "packPath": "files/libretro-psp/NPJH-50674.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 18,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "F3B68BA07DAC532A1085F70C753BDCA42CC1452CCFA68ABA896F61692AA2D197"
+    },
+    {
+      "id": "libretro-psp-npjh-50675",
+      "title": "The Idolm@ster - Shiny Festa - Groovy Tune (PlayStation Store)",
+      "serials": [
+        "NPJH-50675"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "9 libretro PSP cheat blocks for NPJH-50675; 3 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50675.pnach",
+      "packPath": "files/libretro-psp/NPJH-50675.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 9,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "A40EF7ACC159541CBF8708E31537AB668258FE5BD79182A4EB147E9619A34238"
+    },
+    {
+      "id": "libretro-psp-npjh-50676",
+      "title": "The Idolm@ster - Shiny Festa - Funky Note (PlayStation Store)",
+      "serials": [
+        "NPJH-50676"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "23 libretro PSP cheat blocks for NPJH-50676; 3 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50676.pnach",
+      "packPath": "files/libretro-psp/NPJH-50676.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 23,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "ACF0CC5794A3C32F3BDA07177BB434BD34C5EA261AA649F2BF07E2B049F7F364"
+    },
+    {
+      "id": "libretro-psp-npjh-50679",
+      "title": "One Piece - Romance Dawn -Bouken No Yoake-",
+      "serials": [
+        "NPJH-50679"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "43 libretro PSP cheat blocks for NPJH-50679; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50679.pnach",
+      "packPath": "files/libretro-psp/NPJH-50679.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 43,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "3E727DF1DE1087201412523433E408B9C394219471B8C97AD391C00408ACFFA3"
+    },
+    {
       "id": "libretro-psp-npjh-50681",
       "title": "SD Gundam G Generation OverWorld",
       "serials": [
@@ -5321,6 +7183,44 @@
       "blockCount": 97,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "2B3C5E9B9925D37ECFEEDEEEFDF0A0F5255CA2FC1810D9F7847555D5950C3D46"
+    },
+    {
+      "id": "libretro-psp-npjh-50686",
+      "title": "Digimon Adventure",
+      "serials": [
+        "NPJH-50686"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "19 libretro PSP cheat blocks for NPJH-50686; 5 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50686.pnach",
+      "packPath": "files/libretro-psp/NPJH-50686.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 19,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "BE0463DB49ECF94E74433522D9AC5562B1453F93F6102103DBD59F89D7908A8B"
+    },
+    {
+      "id": "libretro-psp-npjh-50691",
+      "title": "Kamen Rider Super Climax Heroes",
+      "serials": [
+        "NPJH-50691"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "10 libretro PSP cheat blocks for NPJH-50691; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50691.pnach",
+      "packPath": "files/libretro-psp/NPJH-50691.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 10,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7092415173D6650268DDAAE7A2B2E6E42A2C7437FBACC241773312A21035523B"
     },
     {
       "id": "libretro-psp-npjh-50701",

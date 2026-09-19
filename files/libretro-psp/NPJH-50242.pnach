@@ -1,0 +1,80 @@
+# PSP cheat pack
+# Serial: NPJH-50242
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Body Equipment
+Author = libretro-database contributors / original PSP cheat authors
+815000B4 002B0001
+00000032 00000000
+
+// CG Mode Open
+Author = libretro-database contributors / original PSP cheat authors
+80348AA0 001C0001
+000000FF 00000000
+
+// Character Profile Open
+Author = libretro-database contributors / original PSP cheat authors
+80348B40 001C0001
+000000FF 00000000
+
+// Consumer Props
+Author = libretro-database contributors / original PSP cheat authors
+814FFC48 00090001
+00000032 00000000
+814FFC58 00080001
+
+// Head Equipment
+Author = libretro-database contributors / original PSP cheat authors
+815000A1 00060001
+00000032 00000000
+815000A9 00070001
+
+// Item
+Author = libretro-database contributors / original PSP cheat authors
+815000FC 000B0001
+00000032 00000000
+21500108 00323232
+
+// Item All
+Author = libretro-database contributors / original PSP cheat authors
+814FFC48 04E70001
+10000032 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+214FFC40 05F5E0FF
+
+// Skills Book
+Author = libretro-database contributors / original PSP cheat authors
+814FFC78 006A0001
+00000032 00000000
+
+// Weapon (Bow)
+Author = libretro-database contributors / original PSP cheat authors
+8150007C 00100001
+00000032 00000000
+
+// Weapon (Gun)
+Author = libretro-database contributors / original PSP cheat authors
+8150004F 00130001
+00000032 00000000
+
+// Weapon (Hammer)
+Author = libretro-database contributors / original PSP cheat authors
+81500068 00100001
+00000032 00000000
+
+// Weapon (Magic Wand)
+Author = libretro-database contributors / original PSP cheat authors
+81500090 000C0001
+00000032 00000000
+
+// Weapon (Sword)
+Author = libretro-database contributors / original PSP cheat authors
+81500031 001C0001
+00000032 00000000
+
+// Wrist Equipment
+Author = libretro-database contributors / original PSP cheat authors
+815000E0 000E0001
+00000032 00000000

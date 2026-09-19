@@ -1,0 +1,63 @@
+# PSP cheat pack
+# Serial: NPJH-50335
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 999999 Money
+Author = libretro-database contributors / original PSP cheat authors
+20353318 3B9AC9FF
+
+// Bank All Items 999 (With Bug Items)
+Author = libretro-database contributors / original PSP cheat authors
+80353620 03E80002
+10000000 00000001
+80353622 03E80002
+100003E7 00000000
+
+// Exp.->Lvl. 99 After 1 Battle
+Author = libretro-database contributors / original PSP cheat authors
+2034E694 00190D1B
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+5034E078 00000004
+0034E074 00000000
+
+// Item 16
+Author = libretro-database contributors / original PSP cheat authors
+8035E112 00100004
+00000063 00000000
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+20353918 3B9AC9FF
+
+// MP
+Author = libretro-database contributors / original PSP cheat authors
+5034E088 00000004
+0034E084 00000000
+
+// PLS Inf.
+Author = libretro-database contributors / original PSP cheat authors
+2034E07C 00000000
+
+// Quest Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+2034E67C 00000000
+
+// Time
+Author = libretro-database contributors / original PSP cheat authors
+2038E7D8 48530000
+
+// Time After Battle Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20376A28 44480000
+
+// Weapon Exp.
+Author = libretro-database contributors / original PSP cheat authors
+4034E0B4 00060001
+00060121 00000000
+
+// Weapon Exp.->Lvl. 20 After 1 Battle
+Author = libretro-database contributors / original PSP cheat authors
+4034E6B4 00060001
+00060121 00000000

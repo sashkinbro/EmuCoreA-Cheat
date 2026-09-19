@@ -1,0 +1,183 @@
+# PSP cheat pack
+# Serial: NPJH-50414
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 9999999 Gil
+Author = libretro-database contributors / original PSP cheat authors
+203FB500 05F5E0FF
+
+// Dominant Left-Handed Arm
+Author = libretro-database contributors / original PSP cheat authors
+003F8453 00000002
+
+// Dominant Right-Handed Arm
+Author = libretro-database contributors / original PSP cheat authors
+003F8453 00000001
+
+// Dominant Two-Handed Arm
+Author = libretro-database contributors / original PSP cheat authors
+003F8453 00000003
+
+// Drop 100
+Author = libretro-database contributors / original PSP cheat authors
+2005A66C 00000000
+2005A6F0 00000000
+
+// Drop Sitei Item 1
+Author = libretro-database contributors / original PSP cheat authors
+2005A734 00000000
+2005A748 00000000
+1005A754 00000022
+
+// Drop Sitei Item 2
+Author = libretro-database contributors / original PSP cheat authors
+2005A734 00000000
+2005A748 00000000
+1005A754 00000024
+
+// Drop Sitei Item 3
+Author = libretro-database contributors / original PSP cheat authors
+2005A734 00000000
+2005A748 00000000
+1005A754 00000026
+
+// Drop Sitei Item 4
+Author = libretro-database contributors / original PSP cheat authors
+2005A734 00000000
+2005A748 00000000
+1005A754 00000028
+
+// Exp. 8 Times
+Author = libretro-database contributors / original PSP cheat authors
+2005A53C 000528C0
+
+// Exp. 999999 (Ashera)
+Author = libretro-database contributors / original PSP cheat authors
+203F87E4 000F423F
+
+// Exp. 999999 (Ceodore)
+Author = libretro-database contributors / original PSP cheat authors
+203F8674 000F423F
+
+// Exp. 999999 (Nazo)
+Author = libretro-database contributors / original PSP cheat authors
+203F76A4 000F423F
+
+// Exp. 999999 (Yan)
+Author = libretro-database contributors / original PSP cheat authors
+203F7DD4 000F423F
+
+// Gil 99999999
+Author = libretro-database contributors / original PSP cheat authors
+203FC500 05F5E0FF
+
+// Interlude 9999999 Gil
+Author = libretro-database contributors / original PSP cheat authors
+203FB500 05F5E0FF
+
+// Interlude No Encount
+Author = libretro-database contributors / original PSP cheat authors
+200CF8E0 1000004C
+D0000001 10008000
+200CF8E0 14C70053
+
+// Item
+Author = libretro-database contributors / original PSP cheat authors
+003FBEB2 00000063
+
+// Item 99
+Author = libretro-database contributors / original PSP cheat authors
+80794256 01210002
+00000063 00000000
+
+// Orginal 9999999 Gil
+Author = libretro-database contributors / original PSP cheat authors
+203FB500 05F5E0FF
+
+// Orginal ATB Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10796020
+60796020 00002000
+00020001 000002E4
+E0020000 10796024
+60796024 00002000
+E0020000 10796028
+60796028 00002000
+E0020000 1079602C
+6079602C 00002000
+E0020000 10796030
+60796030 00002000
+
+// Orginal Book All
+Author = libretro-database contributors / original PSP cheat authors
+2000E9B4 00000000
+2000E9DC 53E00005
+1000E9E8 000007E7
+2000EB4C 00000000
+2000EB74 53E00005
+1000EB80 000007E7
+
+// Orginal Debu Chocobo Item All
+Author = libretro-database contributors / original PSP cheat authors
+403FAF70 00ED0001
+00630001 00000001
+403FB324 000A0001
+006300FC 00000001
+403FB34C 00240001
+00630116 00000001
+
+// Orginal Item Drop 100 Per
+Author = libretro-database contributors / original PSP cheat authors
+2005A66C 00000000
+2005A6F0 00000000
+
+// Orginal Item Get No Limit
+Author = libretro-database contributors / original PSP cheat authors
+201B6B78 02201024
+
+// Orginal Magic Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 107960F0
+607960F0 00002000
+00020001 000002EC
+E0020000 107960F4
+607960F4 00002000
+E0020000 107960F8
+607960F8 00002000
+E0020000 107960FC
+607960FC 00002000
+E0020000 10796100
+60796100 00002000
+
+// Orginal MP No Limit
+Author = libretro-database contributors / original PSP cheat authors
+2005D1B8 50000019
+2005D340 00000000
+2007BF34 00000000
+20162F5C 00000000
+20165494 00000000
+201B4454 10000002
+
+// Orginal No Encount
+Author = libretro-database contributors / original PSP cheat authors
+200CF8E0 1000004C
+D0000001 10008000
+200CF8E0 14C70053
+
+// Orginal Rebirth In Tent
+Author = libretro-database contributors / original PSP cheat authors
+201C5BD8 30A54000
+
+// The After Years 9999999 Gil
+Author = libretro-database contributors / original PSP cheat authors
+203FB500 05F5E0FF
+
+// The After Years No Encount
+Author = libretro-database contributors / original PSP cheat authors
+200A0D04 10000005
+200B968C 10000005
+200CF8E0 1000004C
+D0000003 10008000
+200A0D04 10800005
+200B968C 10800005
+200CF8E0 14C70053
