@@ -30,8 +30,8 @@ def main() -> int:
     for entry in sorted(catalog["entries"], key=lambda item: item["serials"][0]):
         serial = entry["serials"][0]
         source = ROOT / entry["packPath"]
-        pnach_name = f"EmuCoreA-Cheat-{version}-{serial}.pnach"
-        zip_name = f"EmuCoreA-Cheat-{version}-{serial}.zip"
+        pnach_name = f"PSP-Cheat-Catalog-{version}-{serial}.pnach"
+        zip_name = f"PSP-Cheat-Catalog-{version}-{serial}.zip"
         pnach = out / pnach_name
         pnach.write_bytes(source.read_bytes())
         archive = out / zip_name

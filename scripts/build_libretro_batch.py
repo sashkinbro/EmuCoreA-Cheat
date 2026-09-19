@@ -176,7 +176,7 @@ def main() -> int:
             "serials": [serial],
             "authors": ["libretro-database contributors and the original PSP cheat authors"],
             "description": f"{blocks} libretro PSP cheat blocks for {serial}; {excluded} empty or malformed upstream blocks excluded.",
-            "downloadUrl": f"{RELEASE_REPO}/{args.release_version}/EmuCoreA-Cheat-{args.release_version}-{serial}.pnach",
+            "downloadUrl": f"{RELEASE_REPO}/{args.release_version}/PSP-Cheat-Catalog-{args.release_version}-{serial}.pnach",
             "packPath": f"files/libretro-psp/{serial}.pnach",
             "sourceUrl": SOURCE_PAGE,
             "sourceName": SOURCE_NAME,

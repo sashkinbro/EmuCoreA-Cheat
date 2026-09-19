@@ -16,8 +16,9 @@ pack for a different revision just because the title matches.
 - `files/libretro-psp/` - packs converted from the pinned PSP subset of
   libretro-database under its repository CC-BY-SA-4.0 license.
 - `release/` - locally built ZIP bundles and SHA-256 sums for GitHub Releases;
-  the Android client installs the individual text packs from first-party release
-  asset URLs in the catalog.
+  the Android client installs the individual text packs from release asset URLs
+  hosted in this repository. The asset names use the neutral `PSP-Cheat-Catalog`
+  prefix; they do not claim authorship of the underlying cheat data.
 - `sources.json` - source attribution and the exact input revision.
 - `schemas/cheat-catalog.schema.json` - public catalog contract.
 - `scripts/build_libretro_batch.py` - reproducible converter for the licensed

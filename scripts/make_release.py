@@ -21,7 +21,7 @@ def main() -> int:
     catalog = json.loads((ROOT / "cheats.json").read_text(encoding="utf-8"))
     release = ROOT / "release"
     release.mkdir(exist_ok=True)
-    archive = release / f"EmuCoreA-Cheat-{version}.zip"
+    archive = release / f"PSP-Cheat-Catalog-{version}.zip"
     if archive.exists():
         archive.unlink()
     members = [ROOT / "README.md", ROOT / "CONTRIBUTING.md", ROOT / "CONTRIBUTING.md", ROOT / "sources.json", ROOT / "cheats.json", ROOT / "build-report.json"]
@@ -36,7 +36,7 @@ def main() -> int:
         for member in unique:
             output.write(member, member.relative_to(ROOT).as_posix())
     digest = hashlib.sha256(archive.read_bytes()).hexdigest().upper()
-    (release / f"EmuCoreA-Cheat-{version}.zip.sha256").write_text(f"{digest}  {archive.name}\n", encoding="ascii", newline="\n")
+    (release / f"PSP-Cheat-Catalog-{version}.zip.sha256").write_text(f"{digest}  {archive.name}\n", encoding="ascii", newline="\n")
     print(f"created {archive} ({archive.stat().st_size} bytes)")
     print(f"sha256 {digest}")
     print(f"packs {len(catalog['entries'])}")
