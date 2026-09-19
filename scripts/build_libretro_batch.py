@@ -109,7 +109,7 @@ SERIALS = {
     "NPJH-00008",    "NPJH-00018",    "NPJH-00019",    "NPJH-00026",    "NPJH-00069",
     "NPJH-00126",    "NPJH-00142",    "NPJH-50006",    "NPJH-50007",    "NPJH-50040",
     "NPJH-50050",    "NPJH-50054",    "NPJH-50065",    "NPJH-50075",    "NPJH-50076",
-    "NPJH-50093",    "NPJH-50119",    "NPJH-50141",    "NPJH-50144",    "NPJH-50145",
+    "NPJH-50093", "NPJH-50119", "NPJH-50141",
     # Batch 015: 100 additional PSP serials from the same pinned libretro snapshot.
     "NPEH-00154",    "NPEH-00166",    "NPEH-00170",    "NPEH-10029",    "NPEH-90001",
     "NPEH-90006",    "NPEH-90011",    "NPEH-90014",    "NPEH-90015",    "NPEH-90022",

@@ -3062,30 +3062,6 @@
       "zipBytes": 372
     },
     {
-      "serial": "NPJH-50144",
-      "catalogId": "libretro-psp-npjh-50144",
-      "pnachAsset": "PSP-Cheat-Catalog-cheat-catalog-NPJH-50144.pnach",
-      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50144.pnach",
-      "pnachSha256": "D9C9ADA6A283082D91A14DC1C98720636EF756F68C34A5BC9FEBB0EB84A9A82F",
-      "zipAsset": "PSP-Cheat-Catalog-cheat-catalog-NPJH-50144.zip",
-      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50144.zip",
-      "zipSha256": "F4552596DFF43EF115ADF88F00725A4958C0F49B1F7F81C357826771C1904657",
-      "pnachBytes": 796,
-      "zipBytes": 438
-    },
-    {
-      "serial": "NPJH-50145",
-      "catalogId": "libretro-psp-npjh-50145",
-      "pnachAsset": "PSP-Cheat-Catalog-cheat-catalog-NPJH-50145.pnach",
-      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50145.pnach",
-      "pnachSha256": "CF3A1141074F770C452310F13E8F495AA70444F8165142006A14C00F348F1779",
-      "zipAsset": "PSP-Cheat-Catalog-cheat-catalog-NPJH-50145.zip",
-      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50145.zip",
-      "zipSha256": "2B1F63E1445FC8DAFED243EA03FE4F4A960DCB1286F7F4AD16796D335199F0C7",
-      "pnachBytes": 3850,
-      "zipBytes": 902
-    },
-    {
       "serial": "NPJH-50263",
       "catalogId": "libretro-psp-npjh-50263",
       "pnachAsset": "PSP-Cheat-Catalog-cheat-catalog-NPJH-50263.pnach",

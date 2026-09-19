@@ -2045,22 +2045,6 @@
       "sha256": "573E0FD3CBF2275E38B0A19CEED34DC50CCE4392F79B981779B5102ED27871ED"
     },
     {
-      "serial": "NPJH-50144",
-      "sourceFile": "Zettai Hero Kaizou Keikaku (PlayStation Store) [JP] [NPJH-50144].cht",
-      "blocks": 6,
-      "excluded": 0,
-      "malformed": 0,
-      "sha256": "D9C9ADA6A283082D91A14DC1C98720636EF756F68C34A5BC9FEBB0EB84A9A82F"
-    },
-    {
-      "serial": "NPJH-50145",
-      "sourceFile": "Senjou No Valkyria 2 - Gallia Ouritsu Shikan Gakkou (PlayStation Store) [JP] [NPJH-50145].cht",
-      "blocks": 30,
-      "excluded": 0,
-      "malformed": 0,
-      "sha256": "CF3A1141074F770C452310F13E8F495AA70444F8165142006A14C00F348F1779"
-    },
-    {
       "serial": "NPJH-50263",
       "sourceFile": "Ace Combat X2 - Joint Assault (PlayStation Store) [JP] [NPJH-50263].cht",
       "blocks": 112,

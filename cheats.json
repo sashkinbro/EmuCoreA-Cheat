@@ -4848,44 +4848,6 @@
       "sha256": "573E0FD3CBF2275E38B0A19CEED34DC50CCE4392F79B981779B5102ED27871ED"
     },
     {
-      "id": "libretro-psp-npjh-50144",
-      "title": "Zettai Hero Kaizou Keikaku (PlayStation Store)",
-      "serials": [
-        "NPJH-50144"
-      ],
-      "authors": [
-        "libretro-database contributors and the original PSP cheat authors"
-      ],
-      "description": "6 libretro PSP cheat blocks for NPJH-50144; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50144.pnach",
-      "packPath": "files/libretro-psp/NPJH-50144.pnach",
-      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
-      "sourceName": "libretro-database PSP cheats",
-      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
-      "blockCount": 6,
-      "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D9C9ADA6A283082D91A14DC1C98720636EF756F68C34A5BC9FEBB0EB84A9A82F"
-    },
-    {
-      "id": "libretro-psp-npjh-50145",
-      "title": "Senjou No Valkyria 2 - Gallia Ouritsu Shikan Gakkou (PlayStation Store)",
-      "serials": [
-        "NPJH-50145"
-      ],
-      "authors": [
-        "libretro-database contributors and the original PSP cheat authors"
-      ],
-      "description": "30 libretro PSP cheat blocks for NPJH-50145; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/PSP-Cheat-Catalog-cheat-catalog-NPJH-50145.pnach",
-      "packPath": "files/libretro-psp/NPJH-50145.pnach",
-      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
-      "sourceName": "libretro-database PSP cheats",
-      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
-      "blockCount": 30,
-      "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "CF3A1141074F770C452310F13E8F495AA70444F8165142006A14C00F348F1779"
-    },
-    {
       "id": "libretro-psp-npjh-50263",
       "title": "Ace Combat X2 - Joint Assault (PlayStation Store)",
       "serials": [
