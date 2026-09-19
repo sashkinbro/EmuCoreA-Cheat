@@ -1,0 +1,51 @@
+# PSP cheat pack
+# Serial: NPUG-80248
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 9 Green Orb Thingies
+Author = libretro-database contributors / original PSP cheat authors
+00D7C550 00000009
+
+// 99 Men
+Author = libretro-database contributors / original PSP cheat authors
+00963BA0 00000063
+
+// 9999 Money
+Author = libretro-database contributors / original PSP cheat authors
+10C43934 0000270F
+
+// Infinite Coin
+Author = libretro-database contributors / original PSP cheat authors
+10DE0AB0 000000FA
+
+// Infinite Herd
+Author = libretro-database contributors / original PSP cheat authors
+10963BA0 00000014
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2003D26C 00000000
+
+// Invincible (Off)
+Author = libretro-database contributors / original PSP cheat authors
+2003D26C 2463FFFF
+
+// Many Gems!
+Author = libretro-database contributors / original PSP cheat authors
+10D7C550 000000FA
+
+// Max Herd
+Author = libretro-database contributors / original PSP cheat authors
+29163BA0 00000063
+
+// Max Herd v2
+Author = libretro-database contributors / original PSP cheat authors
+20963BA0 00000063
+
+// Max Gems
+Author = libretro-database contributors / original PSP cheat authors
+1957C550 00000063
+
+// Max Gems v2
+Author = libretro-database contributors / original PSP cheat authors
+20D7C550 00000063

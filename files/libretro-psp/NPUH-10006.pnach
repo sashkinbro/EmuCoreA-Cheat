@@ -1,0 +1,31 @@
+# PSP cheat pack
+# Serial: NPUH-10006
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 100% Accuracy
+Author = libretro-database contributors / original PSP cheat authors
+604299E0 00000063
+00020001 000002B0
+604299E0 00000000
+00020001 000002B4
+
+// Always Correct
+Author = libretro-database contributors / original PSP cheat authors
+20060B2C 24110001
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+20185C28 0000270F
+
+// Reset Timer (Press L)
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000100
+604299E0 00000000
+00020001 00000004
+
+// Reset Timer (Press L) v2
+Author = libretro-database contributors / original PSP cheat authors
+20062418 AE110004
+2018465C FEFF0100
+20062418 AE000004
+D2000000 00000000

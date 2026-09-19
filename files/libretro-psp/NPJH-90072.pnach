@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: NPJH-90072
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2003AAC0 00000000
+
+// Invincible (Off)
+Author = libretro-database contributors / original PSP cheat authors
+2003AAC0 2463FFFF
+
+// Max Gems
+Author = libretro-database contributors / original PSP cheat authors
+20D76550 00000063
+
+// Max Herd
+Author = libretro-database contributors / original PSP cheat authors
+2095DBA0 00000063

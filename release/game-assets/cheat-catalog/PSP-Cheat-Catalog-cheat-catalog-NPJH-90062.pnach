@@ -1,0 +1,13 @@
+# PSP cheat pack
+# Serial: NPJH-90062
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2001D9FC 8CC20004
+2001DA0C ACC20000
+
+// Infinite PP
+Author = libretro-database contributors / original PSP cheat authors
+201F7A38 8C880000
+201F7A3C AC880008

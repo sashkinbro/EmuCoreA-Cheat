@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: NPUH-10020
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Bomb
+Author = libretro-database contributors / original PSP cheat authors
+01042794 00000009
+
+// Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+00F828D0 00000009

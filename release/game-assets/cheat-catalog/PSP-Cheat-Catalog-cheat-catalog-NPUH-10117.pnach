@@ -1,0 +1,47 @@
+# PSP cheat pack
+# Serial: NPUH-10117
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Chap. Open
+Author = libretro-database contributors / original PSP cheat authors
+804F0904 00050001
+00000001 00000000
+
+// All Ending Stars
+Author = libretro-database contributors / original PSP cheat authors
+204F0914 00020201
+004F0923 00000001
+204F0924 02020202
+104F0932 00000201
+204F0934 00020202
+204F0940 02020100
+204F0944 00020202
+204F0950 02020301
+204F0954 02020202
+004F095F 00000001
+004F096E 00000001
+004F097D 00000001
+004F098C 00000001
+004F099B 00000001
+004F09AA 00000001
+004F09B9 00000001
+004F09C8 00000001
+004F09D7 00000001
+004F09E6 00000001
+
+// All EX Chap. Open
+Author = libretro-database contributors / original PSP cheat authors
+804F0909 000A0001
+00000001 00000000
+
+// All Name Tags
+Author = libretro-database contributors / original PSP cheat authors
+804F0884 00150001
+00000001 00000000
+804F089A 000B0001
+804F08A6 00350001
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+40508438 00050001
+0000001E 00000000

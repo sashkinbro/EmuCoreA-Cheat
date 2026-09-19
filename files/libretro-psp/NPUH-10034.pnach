@@ -1,0 +1,59 @@
+# PSP cheat pack
+# Serial: NPUH-10034
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Castle
+Author = libretro-database contributors / original PSP cheat authors
+007285C4 000000FF
+
+// Inf. Castle v2
+Author = libretro-database contributors / original PSP cheat authors
+207285C4 000000FF
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+20202860 000186A0
+
+// Inf. Summons
+Author = libretro-database contributors / original PSP cheat authors
+007285C8 000000FF
+
+// Inf. Summons v2
+Author = libretro-database contributors / original PSP cheat authors
+207285C8 000000FF
+
+// Inf. Summons Lvl 1 Stage 1
+Author = libretro-database contributors / original PSP cheat authors
+00724308 000000C8
+
+// Inf. Summons Lvl 1 Stage 1 v2
+Author = libretro-database contributors / original PSP cheat authors
+20724308 000000C8
+
+// Infinite Base Resistance
+Author = libretro-database contributors / original PSP cheat authors
+2003D098 AD095A44
+
+// Infinite Mana Usage
+Author = libretro-database contributors / original PSP cheat authors
+2003D7D4 00000000
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+20040478 00000000
+
+// Infinite Time [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20040478 24A50001
+
+// Max Gold Coin
+Author = libretro-database contributors / original PSP cheat authors
+20202860 000F423F
+
+// Max Mana
+Author = libretro-database contributors / original PSP cheat authors
+20788E08 000003E7
+
+// One Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+20038940 00000000

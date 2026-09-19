@@ -1,0 +1,27 @@
+# PSP cheat pack
+# Serial: NPUH-10025
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Hang Workaround
+Author = libretro-database contributors / original PSP cheat authors
+E0010003 00248884
+20248884 34070001
+
+// Hang Workaround [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 00248884
+20248884 28A70003
+
+// Inf. Ammo All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+1045E3B8 000000C8
+0045E4C0 00000028
+0045E43C 000000C8
+
+// Inf. Credits
+Author = libretro-database contributors / original PSP cheat authors
+2122E230 05F5E0FF
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+212A7AE0 05F5E0FF

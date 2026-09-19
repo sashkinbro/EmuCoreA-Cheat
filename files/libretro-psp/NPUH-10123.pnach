@@ -1,0 +1,503 @@
+# PSP cheat pack
+# Serial: NPUH-10123
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1st Position 99 SP
+Author = libretro-database contributors / original PSP cheat authors
+10286E18 00000063
+
+// 2nd Position 99 SP
+Author = libretro-database contributors / original PSP cheat authors
+10287578 00000063
+
+// 3rd Position 99 SP
+Author = libretro-database contributors / original PSP cheat authors
+10287CD8 00000063
+
+// 4th Position 99 SP
+Author = libretro-database contributors / original PSP cheat authors
+10288438 00000063
+
+// 9999 Money
+Author = libretro-database contributors / original PSP cheat authors
+20286D2C 0000270F
+
+// All Chars Inf. Full HP
+Author = libretro-database contributors / original PSP cheat authors
+80286E20 000D03B0
+1000270F 00000000
+
+// All Chars Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+80286E20 000D03B0
+100009C3 00000000
+
+// All Chars Inf. MP
+Author = libretro-database contributors / original PSP cheat authors
+80286E24 000D03B0
+1000270F 00000000
+
+// All Chars Max HP
+Author = libretro-database contributors / original PSP cheat authors
+80286E22 000D03B0
+1000270F 00000000
+
+// All Chars Max MP
+Author = libretro-database contributors / original PSP cheat authors
+80286E26 000D03B0
+1000270F 00000000
+
+// All Chars SP = 99 (Press R)
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000200
+80286E18 000D0760
+00000063 00000000
+
+// All Items x96 (Press L+R)
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000300
+80286D4C 00320004
+00000060 00000000
+
+// Always At Maximum HP
+Author = libretro-database contributors / original PSP cheat authors
+2007D6A8 8462000E
+2007D6AC A462000C
+2007D6B8 44821000
+
+// Always At Maximum MP
+Author = libretro-database contributors / original PSP cheat authors
+2007D798 84430012
+2007D79C A4430010
+2007D7A8 44831800
+
+// Buy Even Without Money
+Author = libretro-database contributors / original PSP cheat authors
+200A41F8 00000000
+200A3A00 24840001
+200A451C 1000FF39
+200B25F0 100000F6
+200B3A38 00000000
+
+// First Items x96 (Press Select)
+Author = libretro-database contributors / original PSP cheat authors
+D0000031 10000001
+80286D4C 00320004
+00000060 00000000
+
+// Flooded Floor StepS
+Author = libretro-database contributors / original PSP cheat authors
+2024CB6C 00000028
+
+// High Charisma Gain-Combat
+Author = libretro-database contributors / original PSP cheat authors
+81513020 00040018
+10006FFF 00000000
+
+// High Charisma LOSS-Combat
+Author = libretro-database contributors / original PSP cheat authors
+81513020 00040018
+10008FFF 00000000
+
+// High Exp. Gain-Followers
+Author = libretro-database contributors / original PSP cheat authors
+815AA6A4 00100002
+1000FFFF 00000000
+
+// High Exp. Gain-Combat
+Author = libretro-database contributors / original PSP cheat authors
+815AA6A0 0004000A
+10006FFF 00000000
+
+// High Exp. Gain-Leaders
+Author = libretro-database contributors / original PSP cheat authors
+815AA6A0 0004000A
+1000FFFF 00000000
+
+// High Money
+Author = libretro-database contributors / original PSP cheat authors
+20286D2C 048444A0
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+20286D2C 0098967F
+
+// Leaders 300 Burst
+Author = libretro-database contributors / original PSP cheat authors
+80286E1A 000403B0
+1000012C 00000000
+
+// Leaders Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+80286E20 000403B0
+1000270F 00000000
+
+// Leaders Inf. MP
+Author = libretro-database contributors / original PSP cheat authors
+80286E24 000403B0
+1000270F 00000000
+
+// Leaders Max HP
+Author = libretro-database contributors / original PSP cheat authors
+80286E22 000403B0
+1000270F 00000000
+
+// Leaders Max MP
+Author = libretro-database contributors / original PSP cheat authors
+80286E26 000403B0
+1000270F 00000000
+
+// No Damage
+Author = libretro-database contributors / original PSP cheat authors
+2008E6F4 1000FFE8
+
+// Poison Floor
+Author = libretro-database contributors / original PSP cheat authors
+2024CB6C 00000000
+
+// Synthesis Anything
+Author = libretro-database contributors / original PSP cheat authors
+200A36F8 24027530
+200A6D54 24030001
+
+// Unchain Always Available
+Author = libretro-database contributors / original PSP cheat authors
+200853A0 57E00558
+2008504C 17E0041E
+20085CD4 17E000FC
+20084660 57E00021
+2008DAC4 57E000A0
+200881B0 57E0002E
+2007ADF8 00000000
+
+// Win 2 Battles Get Maximum Exp. & Level
+Author = libretro-database contributors / original PSP cheat authors
+2009D324 00000000
+
+// Fang Burst
+Author = libretro-database contributors / original PSP cheat authors
+10286E1A 0000012F
+
+// Fang Charisma Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+21513028 0FFF0FFF
+
+// Fang Follower Slot 1 QLU
+Author = libretro-database contributors / original PSP cheat authors
+20286FF8 05F5E0FF
+
+// Fang Follower Slot 2 QLU
+Author = libretro-database contributors / original PSP cheat authors
+202870E0 05F5E0FF
+
+// Fang Follower Slot 3 QLU
+Author = libretro-database contributors / original PSP cheat authors
+202871C8 05F5E0FF
+
+// Fang Follower Slot 4 QLU
+Author = libretro-database contributors / original PSP cheat authors
+202872B0 05F5E0FF
+
+// Fang Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+20286F30 05F5E0FF
+
+// Fang Skill Points (99)
+Author = libretro-database contributors / original PSP cheat authors
+20286E18 00000063
+
+// Hector Burst
+Author = libretro-database contributors / original PSP cheat authors
+2028757A 0000012F
+
+// Hector Charisma Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+21513058 0FFF0FFF
+
+// Hector Follower Slot 1 QLU
+Author = libretro-database contributors / original PSP cheat authors
+20287758 05F5E0FF
+
+// Hector Follower Slot 2 QLU
+Author = libretro-database contributors / original PSP cheat authors
+20287840 05F5E0FF
+
+// Hector Follower Slot 3 QLU
+Author = libretro-database contributors / original PSP cheat authors
+20287928 05F5E0FF
+
+// Hector Follower Slot 4 QLU
+Author = libretro-database contributors / original PSP cheat authors
+20287A10 05F5E0FF
+
+// Hector Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+20287690 05F5E0FF
+
+// Hector Skill Points (99)
+Author = libretro-database contributors / original PSP cheat authors
+20287578 00000063
+
+// Lapis Burst
+Author = libretro-database contributors / original PSP cheat authors
+10287CDA 0000012F
+
+// Lapis Charisma Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+21513088 0FFF0FFF
+
+// Lapis Follower Slot 1 QLU
+Author = libretro-database contributors / original PSP cheat authors
+20287EB8 05F5E0FF
+
+// Lapis Follower Slot 2 QLU
+Author = libretro-database contributors / original PSP cheat authors
+20287FA0 05F5E0FF
+
+// Lapis Follower Slot 3 QLU
+Author = libretro-database contributors / original PSP cheat authors
+20288088 05F5E0FF
+
+// Lapis Follower Slot 4 QLU
+Author = libretro-database contributors / original PSP cheat authors
+20288170 05F5E0FF
+
+// Lapis Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+20287DF0 05F5E0FF
+
+// Lapis Skill Points (99)
+Author = libretro-database contributors / original PSP cheat authors
+20287CD8 00000063
+
+// Mari Burst
+Author = libretro-database contributors / original PSP cheat authors
+1028843A 0000012F
+
+// Mari Charisma Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+215130B8 0FFF0FFF
+
+// Mari Follower Slot 1 QLU
+Author = libretro-database contributors / original PSP cheat authors
+20288618 05F5E0FF
+
+// Mari Follower Slot 2 QLU
+Author = libretro-database contributors / original PSP cheat authors
+20288700 05F5E0FF
+
+// Mari Follower Slot 3 QLU
+Author = libretro-database contributors / original PSP cheat authors
+202887E8 05F5E0FF
+
+// Mari Follower Slot 4 QLU
+Author = libretro-database contributors / original PSP cheat authors
+202888D0 05F5E0FF
+
+// Mari Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+20288550 05F5E0FF
+
+// Mari Skill Points (99)
+Author = libretro-database contributors / original PSP cheat authors
+20288438 00000063
+
+// Item Slot 1 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D4C 0000005A
+
+// Item Slot 2 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D50 0000005A
+
+// Item Slot 3 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D54 0000005A
+
+// Item Slot 4 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D58 0000005A
+
+// Item Slot 5 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D5C 0000005A
+
+// Item Slot 6 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D60 0000005A
+
+// Item Slot 7 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D64 0000005A
+
+// Item Slot 8 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D68 0000005A
+
+// Item Slot 9 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D6C 0000005A
+
+// Item Slot 10 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D70 0000005A
+
+// Item Slot 11 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D74 0000005A
+
+// Item Slot 12 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D78 0000005A
+
+// Item Slot 13 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D7C 0000005A
+
+// Item Slot 14 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D80 0000005A
+
+// Item Slot 15 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D84 0000005A
+
+// Item Slot 16 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D88 0000005A
+
+// Item Slot 17 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D8C 0000005A
+
+// Item Slot 18 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D90 0000005A
+
+// Item Slot 19 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D94 0000005A
+
+// Item Slot 20 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D98 0000005A
+
+// Item Slot 21 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286D9C 0000005A
+
+// Item Slot 22 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DA0 0000005A
+
+// Item Slot 23 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DA4 0000005A
+
+// Item Slot 24 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DA8 0000005A
+
+// Item Slot 25 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DAC 0000005A
+
+// Item Slot 26 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DB0 0000005A
+
+// Item Slot 27 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DB4 0000005A
+
+// Item Slot 28 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DB8 0000005A
+
+// Item Slot 29 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DBC 0000005A
+
+// Item Slot 30 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DC0 0000005A
+
+// Item Slot 31 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DC4 0000005A
+
+// Item Slot 32 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DC8 0000005A
+
+// Item Slot 33 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DCC 0000005A
+
+// Item Slot 34 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DD0 0000005A
+
+// Item Slot 35 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DD4 0000005A
+
+// Item Slot 36 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DD8 0000005A
+
+// Item Slot 37 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DDC 0000005A
+
+// Item Slot 38 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DE0 0000005A
+
+// Item Slot 39 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DE4 0000005A
+
+// Item Slot 40 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DE8 0000005A
+
+// Item Slot 41 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DEC 0000005A
+
+// Item Slot 42 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DF0 0000005A
+
+// Item Slot 43 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DF4 0000005A
+
+// Item Slot 44 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DF8 0000005A
+
+// Item Slot 45 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286DFC 0000005A
+
+// Item Slot 46 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286E00 0000005A
+
+// Item Slot 47 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286E04 0000005A
+
+// Item Slot 48 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286E08 0000005A
+
+// Item Slot 49 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286E0C 0000005A
+
+// Item Slot 50 (90)
+Author = libretro-database contributors / original PSP cheat authors
+20286E10 0000005A

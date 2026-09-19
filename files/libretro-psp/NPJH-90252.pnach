@@ -1,0 +1,337 @@
+# PSP cheat pack
+# Serial: NPJH-90252
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Ability All
+Author = libretro-database contributors / original PSP cheat authors
+20001020 2407FFFF
+20001024 AC87018C
+20001028 0A2A50AF
+2000102C 02C02025
+202942B4 0A200408
+202942B8 00000000
+
+// Activity Time Of War Hero Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+200BD46C 26100000
+D0000000 10000300
+200BD46C 20100000
+
+// Atk. Speed Up
+Author = libretro-database contributors / original PSP cheat authors
+20000C00 3C043F40
+20000C04 82050007
+20000C08 50A00001
+20000C10 44846000
+20000C14 0A22B6C0
+20000C18 2405FFF7
+200ADAFC 0A200300
+20000C0C 3C043F80
+D0000000 10001000
+20000C0C 3C044080
+
+// Changing Items For Sale
+Author = libretro-database contributors / original PSP cheat authors
+102AD738 000000FF
+202AD754 1480FF79
+D0000001 10000081
+202AD754 26659FFF
+102AD738 0000002A
+D0000001 10000021
+202AD754 2665AFFF
+102AD738 000000A8
+D0000001 10008080
+202AD754 2665BFFF
+102AD738 00000021
+D0000000 10008020
+202AD754 2665CFFF
+D0000001 10001080
+202AD754 2665DFFF
+102AD738 0000001D
+D0000001 10001020
+202AD754 2665EFFF
+102AD738 000000E0
+D0000001 10000088
+202AD754 26655208
+102AD738 00000094
+
+// Character Growth Can Be Enough AP
+Author = libretro-database contributors / original PSP cheat authors
+200DE9E8 341003E7
+
+// Clear Count
+Author = libretro-database contributors / original PSP cheat authors
+004206F0 00000064
+
+// Clear Views 99 Times
+Author = libretro-database contributors / original PSP cheat authors
+004206F0 00000063
+
+// Costumes Available For All Full
+Author = libretro-database contributors / original PSP cheat authors
+200DF0C0 908100F2
+200DF0C4 34210006
+200DF0C8 A08100F2
+200DF0D0 24020001
+
+// Encounter In The World Without A Map
+Author = libretro-database contributors / original PSP cheat authors
+20210C28 1000001A
+20210CA4 00000000
+D0000000 10000200
+20210C28 00000000
+
+// Exp. All
+Author = libretro-database contributors / original PSP cheat authors
+80426D76 000E01C0
+00000061 00000000
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+200DDF9C 00068040
+
+// Experience Increases & Max
+Author = libretro-database contributors / original PSP cheat authors
+200DE504 00000000
+
+// Formed Immediately After Birth Chocobo
+Author = libretro-database contributors / original PSP cheat authors
+2014B3F4 10000004
+2014B408 10000006
+
+// Fully Open&Can Be Equipped With Magic
+Author = libretro-database contributors / original PSP cheat authors
+200DFFDC 0A200448
+20001120 2402FFFF
+20001124 ACA2012C
+20001128 8CA5012C
+2000112C 0A237FF8
+
+// Gauge Shot Down Over Time, Do Not Disappear
+Author = libretro-database contributors / original PSP cheat authors
+20237D1C 00000000
+
+// Gil Max
+Author = libretro-database contributors / original PSP cheat authors
+2041F71C 05F5E0FF
+
+// Guest Magic
+Author = libretro-database contributors / original PSP cheat authors
+200B1C84 00000000
+
+// History All test
+Author = libretro-database contributors / original PSP cheat authors
+8045B390 01550001
+10000487 00000000
+8045B640 03680001
+10000BFF 00000000
+8045B712 00170002
+00000087 00000000
+8045B740 00510002
+8045B7E2 004D0001
+10000087 00000000
+8045B87E 003A0001
+
+// HP Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200B3734 0A200306
+200B3738 02402025
+20000C18 92260007
+20000C1C 14C00003
+20000C20 00002825
+20000C24 59000001
+20000C28 00004025
+20000C2C 0A22CDCF
+
+// Item All Accessories
+Author = libretro-database contributors / original PSP cheat authors
+40423FC8 01000001
+0063D000 00000001
+
+// Item Number Variation In Consumption 99
+Author = libretro-database contributors / original PSP cheat authors
+203A7184 24020063
+203A71B8 A4820002
+
+// Kill 100 Times
+Author = libretro-database contributors / original PSP cheat authors
+202354FC 24C60064
+2023973C 24840064
+20239A18 24840064
+
+// King Bullet
+Author = libretro-database contributors / original PSP cheat authors
+201411E8 44806800
+
+// List Of Abilities&Abilities Can Be Equipped With Full Throttle Opening
+Author = libretro-database contributors / original PSP cheat authors
+20294B70 0A200450
+20294B74 00000000
+20001140 2407FFFF
+20001148 AC87018C
+2000114C 8C87018C
+20001150 0A2A52DE
+20001154 02C02025
+
+// Lv. 9999
+Author = libretro-database contributors / original PSP cheat authors
+60469F28 0000270F
+00010001 000007DC
+60469F5C 0000270F
+60469F90 0000270F
+
+// Lucie's Form
+Author = libretro-database contributors / original PSP cheat authors
+20290A80 00000000
+20290AD0 00000000
+
+// Magic All
+Author = libretro-database contributors / original PSP cheat authors
+4041F86C 00050001
+FFFFFFFF 00000000
+
+// Magic Can Be Strengthened Enough Phantoma
+Author = libretro-database contributors / original PSP cheat authors
+202AC31C 00000000
+202AC340 10000003
+
+// Max HP Recovery Rate
+Author = libretro-database contributors / original PSP cheat authors
+200C2438 AE0A07A8
+
+// Members Can Resurrection Of All Recovery & HP
+Author = libretro-database contributors / original PSP cheat authors
+200DF35C A4800118
+200DF360 94840118
+200AB3CC 24020000
+200AB3D0 A5020862
+200AB3D4 950207AC
+200AB3D8 A50207A8
+200C4E2C 24050001
+
+// Mission All Apply To Save
+Author = libretro-database contributors / original PSP cheat authors
+2014AF40 34020001
+202B8A78 A4820002
+
+// Mission All Read Only
+Author = libretro-database contributors / original PSP cheat authors
+2014AF40 34020001
+
+// MP Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200B2478 AE0A07B4
+
+// Not Summons Non-Combat
+Author = libretro-database contributors / original PSP cheat authors
+200B4874 20050000
+
+// Number Of Balls Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+201416C8 E48E0000
+
+// Open Terminal Menu Relic
+Author = libretro-database contributors / original PSP cheat authors
+2019C7C0 10A60031
+D0000000 10001000
+2019C7C0 10000031
+
+// Phantoma Collection No Time Limit
+Author = libretro-database contributors / original PSP cheat authors
+2014188C 46007346
+
+// Phantoma Speed Up
+Author = libretro-database contributors / original PSP cheat authors
+201C6D0C 10000037
+
+// Rated Operational Assist Mission
+Author = libretro-database contributors / original PSP cheat authors
+2014B164 34050000
+2014B188 00000000
+2014ACFC A4A40002
+D0000000 10000308
+2014ACFC A4A0000A
+
+// Reserve Power W Possible
+Author = libretro-database contributors / original PSP cheat authors
+200AB3D0 24020001
+
+// Result S Impossible
+Author = libretro-database contributors / original PSP cheat authors
+8042DD02 00
+10000000 00000000
+8042DD0A 00
+8042DD12 00
+100003E7 00000000
+
+// Result S Hard
+Author = libretro-database contributors / original PSP cheat authors
+8042D922 00
+10000000 00000000
+8042D92A 00
+8042D932 00
+100003E7 00000000
+
+// Result S Normal
+Author = libretro-database contributors / original PSP cheat authors
+8042D542 00
+10000000 00000000
+8042D54A 00
+8042D552 00
+100003E7 00000000
+
+// S.O. Achieved Immediately Attack System
+Author = libretro-database contributors / original PSP cheat authors
+20055090 10000008
+
+// S.O. Time Limit Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20053060 24C60000
+D0000000 10000081
+20053060 24060000
+
+// Save Error Kaihi
+Author = libretro-database contributors / original PSP cheat authors
+200DA810 ACC5044C
+200DA814 00053025
+
+// Shop Flag All
+Author = libretro-database contributors / original PSP cheat authors
+4041F92C 00060001
+FFFFFFFF 00000000
+
+// SPP Max
+Author = libretro-database contributors / original PSP cheat authors
+2041F720 05F5E0FF
+
+// Syouhi MP 0
+Author = libretro-database contributors / original PSP cheat authors
+200B170C 00000000
+
+// Untitled cheat 52
+Author = libretro-database contributors / original PSP cheat authors
+200DF78C 0A200440
+20001100 949000EA
+20001104 36100002
+20001108 A49000EA
+2000110C 948400EA
+20001110 0A237DE4
+
+// The Argument Is Also Riding A Chocobo Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+203A7A64 10000003
+203A7A68 00B4A02C
+
+// Use Item & Summer Uniform All [R+↑]
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000210
+40423C78 002A0001
+0063A000 00000001
+40423D20 000D0001
+0001B07F 00000001
+
+// Zhu Inventory Of Fully Open
+Author = libretro-database contributors / original PSP cheat authors
+4045B390 01590001
+FFFFFFFF 00000000
+4045BA24 00140001

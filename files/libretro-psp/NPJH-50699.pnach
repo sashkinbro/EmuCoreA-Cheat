@@ -1,0 +1,69 @@
+# PSP cheat pack
+# Serial: NPJH-50699
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+202A8208 00000002
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+202A8208 00000001
+
+// Essential
+Author = libretro-database contributors / original PSP cheat authors
+20002008 08802000
+502A6E98 00000004
+00002000 00000000
+60002000 00000004
+00200002 000001CC
+10000004 00000000
+E0020001 20002002
+40002000 00040001
+
+// Less Time
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000B90
+00010003 00000028
+200001C8 2000008C
+
+// Player1 Comb Bonus Max
+Author = libretro-database contributors / original PSP cheat authors
+1086658C 000003E7
+
+// Player1 Cosmo Max R
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000200
+50866550 00000004
+0086654C 00000000
+
+// Player1 Highest Fighting Capacity
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000004
+00000002 00000008
+1000000C 00000000
+
+// Player1 HP Declining
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000004
+00000002 00000000
+10000004 00000000
+
+// Player1 HP Max L
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000100
+50866548 00000004
+00866544 00000000
+
+// Player2 0 Mortality Amount
+Author = libretro-database contributors / original PSP cheat authors
+60002000 00000000
+00020002 0000000C
+200001C8 00000000
+
+// Player2 HP=0 (Select)
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10000001
+60002000 00000000
+00020002 00000004
+200001C8 00000000

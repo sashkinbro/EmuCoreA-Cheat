@@ -1,0 +1,121 @@
+# PSP cheat pack
+# Serial: NPUG-22850
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS v2
+Author = libretro-database contributors / original PSP cheat authors
+E00A0003 10003600
+E0090003 0046FDD4
+2046FDDC 0E200D81
+20003600 00000003
+20003604 03E0D821
+20003608 0E36335B
+2000360C 00000000
+20003610 0E36335B
+20003614 00000000
+20003618 03600008
+2000361C 34020001
+
+// 60 FPS v2 [No Vsync]
+Author = libretro-database contributors / original PSP cheat authors
+E0030001 10003600
+E0020003 0046FDD4
+2046FDDC 34020001
+20003600 00000001
+
+// 60 FPS v2 [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0030002 10003600
+E0020003 0046FDD4
+2046FDDC 0E31B0CF
+20003600 00000002
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+202BA414 00000000
+202DAA9C 00000000
+202DAEC8 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+205D9340 00000000
+00000024 43C80000
+D2000000 00000000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+205D9340 43C80000
+00002000 00000024
+
+// Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+205D9340 43C80000
+00002001 00000024
+
+// Invisible
+Author = libretro-database contributors / original PSP cheat authors
+20452614 03E00008
+
+// Invisible [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20452614 27BDFF90
+
+// Mark & Recall (Press Select+Down)
+Author = libretro-database contributors / original PSP cheat authors
+2006CC78 0A37C000
+205F0000 3C0809A4
+205F0004 3C0908DF
+205F0008 8D2A42BC
+205F000C 340B0001
+205F0010 154B0009
+205F0014 00000000
+205F0018 8D0A07B0
+205F001C AD2AFFF0
+205F0020 8D0B07B4
+205F0024 AD2BFFF4
+205F0028 8D0C07B8
+205F002C AD2CFFF8
+205F0030 1000000A
+205F0034 00000000
+205F0038 340B0040
+205F003C 154B0007
+205F0040 00000000
+205F0044 8D2AFFF0
+205F0048 AD0A07B0
+205F004C 8D2BFFF4
+205F0050 AD0B07B4
+205F0054 8D2CFFF8
+205F0058 AD0C07B8
+205F005C 03E00008
+
+// Rapid Fire
+Author = libretro-database contributors / original PSP cheat authors
+202BA80C 34110010
+
+// See Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+202F3444 03E00008
+
+// See Through Walls [Off]
+Author = libretro-database contributors / original PSP cheat authors
+202F3444 27BDFF90
+
+// Speed Mod: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20691E24 3FC00000
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20691E24 40000000
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20691E24 3F800000
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20691E24 3FA00000
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20691E24 3F000000

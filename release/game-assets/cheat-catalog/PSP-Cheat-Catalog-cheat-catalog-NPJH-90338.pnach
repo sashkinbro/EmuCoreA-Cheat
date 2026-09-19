@@ -1,0 +1,144 @@
+# PSP cheat pack
+# Serial: NPJH-90338
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Blade Attributes The Whole 100
+Author = libretro-database contributors / original PSP cheat authors
+80D49C3A 00070001
+10000064 00000000
+
+// Effect Range Change
+Author = libretro-database contributors / original PSP cheat authors
+201D3574 3C014200
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+20125218 00000000
+
+// HP Not Dec. [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+20125218 E4540000
+
+// Item Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+200987D0 00401023
+
+// Item Not Dec. [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+200987D0 00451023
+
+// Material Required
+Author = libretro-database contributors / original PSP cheat authors
+200D05D4 14000002
+200D05DC 34030063
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+200A6908 54000005
+
+// Money Max [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+200A6908 54400005
+
+// Money Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+200A68AC 0A200400
+200A68B8 34030000
+20001000 04C30002
+20001004 00861021
+20001008 00801021
+2000100C 0A229A2D
+20001010 0044402B
+
+// Money Not Dec. [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+200A68AC 00861021
+200A68B8 01031821
+
+// Motion Long Range [Key=L]
+Author = libretro-database contributors / original PSP cheat authors
+D06F981E 00003C01
+106F981C 00003F80
+D0000000 10000100
+106F981C 00003FF0
+
+// OP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+201252E8 00000000
+
+// OP Not Dec. [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+201252E8 E4540004
+
+// Property System Itself Wholly 100
+Author = libretro-database contributors / original PSP cheat authors
+80D49C88 00060001
+10000064 00000000
+
+// Quick Attack
+Author = libretro-database contributors / original PSP cheat authors
+D06E038E 00003C01
+106E038C 00003FF0
+
+// Quick Motion
+Author = libretro-database contributors / original PSP cheat authors
+D06F97EE 00003C01
+106F97EC 000040F0
+
+// Quick Move
+Author = libretro-database contributors / original PSP cheat authors
+D06FC62E 00003C01
+106FC62C 00004080
+D0000000 10000100
+106FC62C 000040F0
+
+// Quick Weapon Change
+Author = libretro-database contributors / original PSP cheat authors
+D06F6AF6 00003C01
+106F6AF4 000040F0
+
+// Shield Attributes The Whole 1000
+Author = libretro-database contributors / original PSP cheat authors
+80D49CD2 00070001
+100003E8 00000000
+
+// Shoot Without OP
+Author = libretro-database contributors / original PSP cheat authors
+200236E4 00000000
+D06F4970 0000A03E
+206F4978 10000002
+
+// Shoot Without OP [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+206F4978 45010002
+
+// Shoot Without OP v2
+Author = libretro-database contributors / original PSP cheat authors
+200236E4 00000000
+206F4978 10000002
+
+// Shoot Without OP v2 [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+206F4978 45010002
+
+// Stm. Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+201253B8 00000000
+
+// Stm. Not Dec. [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+201253B8 E4540008
+
+// STN Out Quick Recovery
+Author = libretro-database contributors / original PSP cheat authors
+D0702396 00003C01
+10702394 00004280
+
+// STN Quick Recovery
+Author = libretro-database contributors / original PSP cheat authors
+D06DF7EE 00003C01
+106DF7EC 00004280
+
+// Unknown Material Release
+Author = libretro-database contributors / original PSP cheat authors
+2075E494 1000000C

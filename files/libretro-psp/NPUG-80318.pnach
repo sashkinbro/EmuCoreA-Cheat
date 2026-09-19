@@ -1,0 +1,52 @@
+# PSP cheat pack
+# Serial: NPUG-80318
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Acceleration Mod: Extreme
+Author = libretro-database contributors / original PSP cheat authors
+2033B588 4179999A
+
+// Acceleration Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2033B588 3F79999A
+
+// Acceleration Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2033B588 4079999A
+
+// Acceleration Mod: Slow
+Author = libretro-database contributors / original PSP cheat authors
+2033B588 3F59999A
+
+// Allow Full Screen Rotation
+Author = libretro-database contributors / original PSP cheat authors
+202BCCB0 00000000
+
+// Jump Mod: Bigger Jumps
+Author = libretro-database contributors / original PSP cheat authors
+2033B59C 40480000
+
+// Jump Mod: Even Bigger Jumps
+Author = libretro-database contributors / original PSP cheat authors
+2033B59C 40800000
+
+// Jump Mod: Insane Jumps
+Author = libretro-database contributors / original PSP cheat authors
+2033B59C 41000000
+
+// Jump Mod: Massive Jumps
+Author = libretro-database contributors / original PSP cheat authors
+2033B59C 40C00000
+
+// Jump Mod: Normal Jumps
+Author = libretro-database contributors / original PSP cheat authors
+2033B59C 402E9446
+
+// Jump Mod: Smaller Jumps
+Author = libretro-database contributors / original PSP cheat authors
+2033B59C 3FCE9446
+
+// Remove Demo Limitations
+Author = libretro-database contributors / original PSP cheat authors
+202066D0 0A2819CB
+202066D4 00000000

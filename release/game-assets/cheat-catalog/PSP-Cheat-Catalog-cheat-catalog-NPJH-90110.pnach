@@ -1,0 +1,44 @@
+# PSP cheat pack
+# Serial: NPJH-90110
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Animation Speed: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2047C5A4 40000000
+
+// Animation Speed: Even Slower
+Author = libretro-database contributors / original PSP cheat authors
+2047C5A4 3F000000
+
+// Animation Speed: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2047C5A4 3F800000
+
+// Animation Speed: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2047C5A4 3FC00000
+
+// Animation Speed: Slow
+Author = libretro-database contributors / original PSP cheat authors
+2047C5A4 3F400000
+
+// Breast Physics
+Author = libretro-database contributors / original PSP cheat authors
+200CCE68 14800003
+
+// Breast Physics [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200CCE68 00000000
+
+// Max Cash After Using Some
+Author = libretro-database contributors / original PSP cheat authors
+201B51D8 00000000
+201B523C 00000000
+
+// Swimsuits
+Author = libretro-database contributors / original PSP cheat authors
+201F7F68 0E2847C7
+
+// Swimsuits [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201F7F68 00000000

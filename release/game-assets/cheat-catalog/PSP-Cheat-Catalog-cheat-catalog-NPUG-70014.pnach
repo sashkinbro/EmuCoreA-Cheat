@@ -1,0 +1,12 @@
+# PSP cheat pack
+# Serial: NPUG-70014
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Always Hole In One
+Author = libretro-database contributors / original PSP cheat authors
+2035100C 00000000
+2035106C 00000000
+203510CC 00000000
+2035142C 00000000
+2035148C 00000000
+203514EC 00000000

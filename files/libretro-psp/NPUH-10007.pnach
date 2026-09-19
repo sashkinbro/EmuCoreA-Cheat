@@ -1,0 +1,58 @@
+# PSP cheat pack
+# Serial: NPUH-10007
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+213C74BC 00000E0D
+213C74C0 00000E0D
+
+// Infinite Ion Blaster
+Author = libretro-database contributors / original PSP cheat authors
+213C7760 00000009
+213C7763 00000006
+
+// Infinite Missiles
+Author = libretro-database contributors / original PSP cheat authors
+213C7760 00000009
+213C7763 00000002
+
+// Infinite Photon Torpedo
+Author = libretro-database contributors / original PSP cheat authors
+213C7760 00000009
+213C7763 00000003
+
+// Infinite Plasma Gun
+Author = libretro-database contributors / original PSP cheat authors
+213C7760 00000009
+213C7763 00000004
+
+// Infinite Shield
+Author = libretro-database contributors / original PSP cheat authors
+213C7760 00000009
+213C7763 00000005
+
+// Invulnerable
+Author = libretro-database contributors / original PSP cheat authors
+113C74BC 000002B2
+113C74C0 000002B2
+
+// Unlimited Full Missiles
+Author = libretro-database contributors / original PSP cheat authors
+013C7760 0000000B
+013C7763 00000004
+
+// Unlimited Full Missiles Low
+Author = libretro-database contributors / original PSP cheat authors
+013C7760 0000000B
+013C7763 00000002
+
+// Unlimited Full Plasma
+Author = libretro-database contributors / original PSP cheat authors
+013C7760 0000000B
+013C7763 00000003
+
+// Unlimited Full Shield
+Author = libretro-database contributors / original PSP cheat authors
+013C7760 0000000B
+013C7763 00000005

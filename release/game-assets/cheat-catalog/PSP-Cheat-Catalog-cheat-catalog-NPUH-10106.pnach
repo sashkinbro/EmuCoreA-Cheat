@@ -1,0 +1,18 @@
+# PSP cheat pack
+# Serial: NPUH-10106
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Steps
+Author = libretro-database contributors / original PSP cheat authors
+20B4C67C 42C70000
+00020001 00000000
+00020001 00000004
+D2000000 00000000
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+205D4620 773593FF
+
+// Skill
+Author = libretro-database contributors / original PSP cheat authors
+20A81920 773593FF

@@ -1,0 +1,27 @@
+# PSP cheat pack
+# Serial: NPUH-10065
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Hit Anywhere Both Players
+Author = libretro-database contributors / original PSP cheat authors
+20090094 0E200400
+20001000 94440002
+20001004 34080056
+20001008 14680004
+2000100C 3408668E
+20001010 14880002
+20001014 34044E71
+20001018 A4440002
+2000101C 03E00008
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+1163CB58 000000CF
+
+// Infinite Maximum Pow.
+Author = libretro-database contributors / original PSP cheat authors
+1163CB50 0000007F
+
+// Time Always 79
+Author = libretro-database contributors / original PSP cheat authors
+0163D167 00000079

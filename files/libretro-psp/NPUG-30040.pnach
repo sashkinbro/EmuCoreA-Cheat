@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: NPUG-30040
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Balls
+Author = libretro-database contributors / original PSP cheat authors
+200C5110 00000000
+
+// Infinite Balls [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200C5110 AC850204
+
+// Madd Lives Yo
+Author = libretro-database contributors / original PSP cheat authors
+20E74B44 00000063
+
+// New Cheat 1
+Author = libretro-database contributors / original PSP cheat authors
+2115FB74 00000063

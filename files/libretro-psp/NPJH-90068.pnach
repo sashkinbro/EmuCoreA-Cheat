@@ -1,0 +1,75 @@
+# PSP cheat pack
+# Serial: NPJH-90068
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Kill For Max
+Author = libretro-database contributors / original PSP cheat authors
+2005B7C8 24062710
+
+// Easy Revenge Titles
+Author = libretro-database contributors / original PSP cheat authors
+2006EFF4 24052710
+
+// Infinite HP & Armor
+Author = libretro-database contributors / original PSP cheat authors
+20138730 0A200800
+20002000 248EC2A4
+20002004 85CF0030
+20002008 24186C50
+2000200C 15F80004
+20002014 8C8F0004
+20002018 AC8F0000
+2000201C AC8F0008
+20002020 03E00008
+20002024 C4800000
+
+// Infinite Wrath
+Author = libretro-database contributors / original PSP cheat authors
+2006A5AC 0E20080E
+20002038 3C1942C8
+2000203C AE194070
+20002040 03E00008
+20002044 C60C4070
+
+// Instant Capture
+Author = libretro-database contributors / original PSP cheat authors
+200665D4 0A20080A
+20002028 3C05447A
+2000202C AC450098
+20002030 0A219976
+20002034 C44C0098
+
+// Kill Count Never Ends
+Author = libretro-database contributors / original PSP cheat authors
+20068828 00000000
+
+// Remus/Hell Difficulty Available
+Author = libretro-database contributors / original PSP cheat authors
+203554D0 00002030
+203554D0 00000032
+203554CD 0000003D
+203554A5 00000033
+
+// TimeScale: Even Faster
+Author = libretro-database contributors / original PSP cheat authors
+2017BA74 3FC00000
+
+// TimeScale: Faster
+Author = libretro-database contributors / original PSP cheat authors
+2017BA74 3FA00000
+
+// TimeScale: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2017BA74 40000000
+
+// TimeScale: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2017BA74 3F800000
+
+// TimeScale: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2017BA74 3F400000
+
+// TimeScale: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2017BA74 3F000000

@@ -1,0 +1,8 @@
+# PSP cheat pack
+# Serial: NPUH-10069
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Black Screen Workaround
+Author = libretro-database contributors / original PSP cheat authors
+E0010228 0002E3D4
+2002E3D4 10000228

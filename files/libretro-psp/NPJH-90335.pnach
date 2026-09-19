@@ -1,0 +1,283 @@
+# PSP cheat pack
+# Serial: NPJH-90335
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (M) Must Code
+Author = libretro-database contributors / original PSP cheat authors
+20002008 08802000
+503C3EBC 00000004
+00002000 00000000
+60002000 00000004
+00200002 000000D8
+10000004 00000000
+20002018 08802010
+50002000 00000004
+00002010 00000000
+60002010 00000004
+00200002 000000E8
+20002028 08802020
+50002010 00000004
+00002020 00000000
+60002020 00000004
+00200002 000000EC
+20002038 08802030
+50002020 00000004
+00002030 00000000
+60002030 00000004
+00200002 000000F0
+E0020001 20002002
+40002000 00100001
+
+// Atk. 2000
+Author = libretro-database contributors / original PSP cheat authors
+105073BA 000007D0
+
+// Attack x2
+Author = libretro-database contributors / original PSP cheat authors
+202711B8 0E200400
+20001000 00052840
+20001004 03E00008
+20001008 34060000
+
+// Camera Up Free
+Author = libretro-database contributors / original PSP cheat authors
+201EB6F4 10000009
+
+// Exorcism Pro
+Author = libretro-database contributors / original PSP cheat authors
+202714F8 1000000E
+
+// Haku 10000
+Author = libretro-database contributors / original PSP cheat authors
+104C9274 00002710
+
+// Haku Max
+Author = libretro-database contributors / original PSP cheat authors
+104C9274 0098967F
+
+// Haku Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+200C7750 00E03823
+
+// Haku Refund (Triangle)
+Author = libretro-database contributors / original PSP cheat authors
+200CFB00 AC800000
+20001050 8C860000
+20001054 8C87AB28
+20001058 00C73821
+2000105C AC87AB28
+20001060 0A233EC2
+20001064 AC800000
+D0000000 10001000
+200CFB00 0A200414
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000002
+00000002 000001F2
+100001F4 00000000
+100001F8 00000000
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2000EE64 00000000
+2000EE64 A61101F8
+
+// HP Partner
+Author = libretro-database contributors / original PSP cheat authors
+60002014 00000002
+00000002 000001F2
+100001F4 00000000
+60002024 00000002
+60002034 00000002
+100001F8 00000000
+
+// Item x99 (1400)
+Author = libretro-database contributors / original PSP cheat authors
+805AB036 05780002
+10000063 00000000
+
+// Magical Shop
+Author = libretro-database contributors / original PSP cheat authors
+200C7750 00E03823
+201654B4 00000000
+20165544 3404270F
+20165560 10000005
+201667EC 00000000
+20166C28 10000014
+
+// Material All 1/3
+Author = libretro-database contributors / original PSP cheat authors
+805AB036 04E40002
+10000063 00000000
+805AB034 007C0002
+10000000 00000001
+805AB224 00F20002
+10000082 00000001
+805AB5EC 010E0002
+10000180 00000001
+805ABA84 00270002
+10000294 00000001
+805ABB28 00060002
+100002BD 00000001
+805ABB48 00070002
+100002C5 00000001
+805ABB6C 00070002
+100002CE 00000001
+805ABB90 00060002
+100002D7 00000001
+805ABBB0 000E0002
+100002DF 00000001
+805ABBF0 00080002
+100002EF 00000001
+805ABC18 000A0002
+100002F9 00000001
+805ABC44 000A0002
+10000304 00000001
+805ABC74 00080002
+10000310 00000001
+
+// Material All 2/3
+Author = libretro-database contributors / original PSP cheat authors
+805ABC9C 00080002
+1000031A 00000001
+805ABCC4 00080002
+10000324 00000001
+805ABCEC 00080002
+1000032E 00000001
+805ABD14 00050002
+10000338 00000001
+805ABD30 00050002
+1000033F 00000001
+805ABD4C 00090002
+10000346 00000001
+805ABD78 00120002
+10000351 00000001
+805ABDC8 00080002
+10000365 00000001
+805ABDF0 00090002
+1000036F 00000001
+805ABE1C 00090002
+1000037A 00000001
+805ABE44 000A0002
+10000384 00000001
+805ABE74 000A0002
+10000390 00000001
+805ABEA4 00290002
+1000039C 00000001
+805ABF50 00030002
+100003C7 00000001
+805ABF64 00090002
+100003CC 00000001
+
+// Material All 3/3
+Author = libretro-database contributors / original PSP cheat authors
+805ABF90 002D0002
+100003D7 00000001
+805AC054 00020002
+10000408 00000001
+805AC074 000B0002
+10000410 00000001
+805AC0B0 00040002
+1000041F 00000001
+805AC0D0 00110002
+10000427 00000001
+805AC124 00F70002
+1000043C 00000001
+805AC508 000B0002
+10000535 00000001
+805AC544 00040002
+10000544 00000001
+
+// Master Smith
+Author = libretro-database contributors / original PSP cheat authors
+201877BC 54000002
+
+// Mitama All
+Author = libretro-database contributors / original PSP cheat authors
+805B4645 01390010
+0000000B 00000000
+
+// Mitama All v2
+Author = libretro-database contributors / original PSP cheat authors
+805B4645 012F0010
+0000000B 00000000
+005B5945 0000000B
+005B5975 0000000B
+805B5985 00050010
+
+// Mitama Skill 1
+Author = libretro-database contributors / original PSP cheat authors
+805B4648 01390010
+
+// MOB Attack x2
+Author = libretro-database contributors / original PSP cheat authors
+20001010 0017B840
+20001014 02B79823
+20001018 5A600001
+2000101C 34130000
+20001020 0A29CA56
+20272950 0A200404
+20272D2C 00000000
+2000EE64 00000000
+
+// MOB Attack xN [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+20272950 54800001
+20272D2C A63001F4
+2000EE64 A61101F8
+
+// One Attack Kill
+Author = libretro-database contributors / original PSP cheat authors
+202711C0 54000001
+
+// Players Often Full Gas Tank
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000004
+00000002 000001FC
+10000200 00000000
+
+// Players Often Full Of Weapons & Power groove
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000004
+00000002 00000204
+10000208 00000000
+
+// Soul Alchemist
+Author = libretro-database contributors / original PSP cheat authors
+200C7750 00E03823
+20134A44 3404270F
+20134AE4 3404270F
+201353B8 3404270F
+
+// STM Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2000EF70 00000000
+
+// Storage Item 1400
+Author = libretro-database contributors / original PSP cheat authors
+105AD1CC 00000578
+
+// Tamafuri No Wait Time
+Author = libretro-database contributors / original PSP cheat authors
+202E4C64 34050000
+
+// Tamafuri Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+202E5334 00802021
+
+// Task Time Diminished
+Author = libretro-database contributors / original PSP cheat authors
+603B7968 00000000
+00020001 00000020
+
+// TTR All
+Author = libretro-database contributors / original PSP cheat authors
+805AC614 0B2C0001
+00000003 00000000
+
+// Unlimited Demon Exorcism
+Author = libretro-database contributors / original PSP cheat authors
+202F9548 4500000F
+D0000000 10000200
+202F9548 1000000F

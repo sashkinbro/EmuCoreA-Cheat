@@ -1,0 +1,139 @@
+# PSP cheat pack
+# Serial: NPJH-90073
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Character 1: Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+2065EE90 03E703E7
+
+// Character 1: Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+2065EE94 03E703E7
+
+// Character 1: Max Agi.
+Author = libretro-database contributors / original PSP cheat authors
+2065EEA0 000003E7
+
+// Character 1: Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+2065EEAC 000003E7
+
+// Character 1: Max Def.
+Author = libretro-database contributors / original PSP cheat authors
+2065EE9C 000003E7
+
+// Character 1: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+2065EEF8 05F5E0FF
+
+// Character 1: Max Luk.
+Author = libretro-database contributors / original PSP cheat authors
+2065EEB4 000003E7
+
+// Character 1: Max Res.
+Author = libretro-database contributors / original PSP cheat authors
+2065EEA8 000003E7
+
+// Character 1: Max Rng.
+Author = libretro-database contributors / original PSP cheat authors
+2065EEB0 000003E7
+
+// Character 1: Max Str.
+Author = libretro-database contributors / original PSP cheat authors
+2065EE98 000003E7
+
+// Character 1: Max Wis.
+Author = libretro-database contributors / original PSP cheat authors
+2065EEA4 000003E7
+
+// Character 2: Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+2065F0AC 03E703E7
+
+// Character 2: Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+2065F0B0 03E703E7
+
+// Character 2: Max Agi.
+Author = libretro-database contributors / original PSP cheat authors
+2065F0BC 000003E7
+
+// Character 2: Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+2065F0C8 000003E7
+
+// Character 2: Max Def.
+Author = libretro-database contributors / original PSP cheat authors
+2065F0B8 000003E7
+
+// Character 2: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+2065F114 05F5E0FF
+
+// Character 2: Max Luk.
+Author = libretro-database contributors / original PSP cheat authors
+2065F0D0 000003E7
+
+// Character 2: Max Res.
+Author = libretro-database contributors / original PSP cheat authors
+2065F0C4 000003E7
+
+// Character 2: Max Rng.
+Author = libretro-database contributors / original PSP cheat authors
+2065F0CC 000003E7
+
+// Character 2: Max Str.
+Author = libretro-database contributors / original PSP cheat authors
+2065F0B4 000003E7
+
+// Character 2: Max Wis.
+Author = libretro-database contributors / original PSP cheat authors
+2065F0C0 000003E7
+
+// Character 3: Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+2065F118 03E703E7
+
+// Character 3: Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+2065F11C 03E703E7
+
+// Character 3: Max Agi.
+Author = libretro-database contributors / original PSP cheat authors
+2065F128 000003E7
+
+// Character 3: Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+2065F134 000003E7
+
+// Character 3: Max Def.
+Author = libretro-database contributors / original PSP cheat authors
+2065F124 000003E7
+
+// Character 3: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+2065F180 05F5E0FF
+
+// Character 3: Max Luk.
+Author = libretro-database contributors / original PSP cheat authors
+2065F13C 000003E7
+
+// Character 3: Max Res.
+Author = libretro-database contributors / original PSP cheat authors
+2065F130 000003E7
+
+// Character 3: Max Rng.
+Author = libretro-database contributors / original PSP cheat authors
+2065F138 000003E7
+
+// Character 3: Max Str.
+Author = libretro-database contributors / original PSP cheat authors
+2065F120 000003E7
+
+// Character 3: Max Wis.
+Author = libretro-database contributors / original PSP cheat authors
+2065F12C 000003E7
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+2046F1DC 05F5E0FF

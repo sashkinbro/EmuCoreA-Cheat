@@ -1,0 +1,109 @@
+# PSP cheat pack
+# Serial: NPUG-80528
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Blitz SNAFU: (M)
+Author = libretro-database contributors / original PSP cheat authors
+2016BCC8 0000004C
+20002034 0A25AF35
+20002038 8C440028
+2016BCCC 0A200800
+2016BCD0 8EA2004C
+D2000000 00000000
+
+// Blitz SNAFU: All Weapons Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+2016BCC8 0000004C
+20002018 24040002
+2000201C AC4402FC
+20002020 AC440300
+20002024 AC440304
+20002028 AC440308
+D2000000 00000000
+
+// Blitz SNAFU: Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2016BCC8 0000004C
+20002008 24040064
+2000200C AC440320
+20002010 AC440324
+20002014 AC440328
+D2000000 00000000
+
+// Blitz SNAFU: Infinite Battery
+Author = libretro-database contributors / original PSP cheat authors
+2016BCC8 0000004C
+2000202C 240403E8
+20002030 AC4402F0
+D2000000 00000000
+
+// Blitz SNAFU: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2016BCC8 0000004C
+20002000 8C440024
+20002004 AC440028
+D2000000 00000000
+
+// Score Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+20177EC0 00000048
+20177EC4 8C6399B0
+20177EC8 00052840
+D2000000 00000000
+
+// Score Multiplier x2 (Face A La Creme)
+Author = libretro-database contributors / original PSP cheat authors
+2015CD20 00000854
+2015CD24 00021040
+2015CD28 00622821
+2015CD2C 3C030897
+2015CD30 8C64B6F8
+D2000000 00000000
+
+// Score Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20177EC0 00000048
+20177EC4 8C6399B0
+20177EC8 00052880
+D2000000 00000000
+
+// Score Multiplier x4 (Face A La Creme)
+Author = libretro-database contributors / original PSP cheat authors
+2015CD20 00000854
+2015CD24 00021080
+2015CD28 00622821
+2015CD2C 3C030897
+2015CD30 8C64B6F8
+D2000000 00000000
+
+// Score Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+20177EC0 00000048
+20177EC4 8C6399B0
+20177EC8 000528C0
+D2000000 00000000
+
+// Score Multiplier x8 (Face A La Creme)
+Author = libretro-database contributors / original PSP cheat authors
+2015CD20 00000854
+2015CD24 000210C0
+2015CD28 00622821
+2015CD2C 3C030897
+2015CD30 8C64B6F8
+D2000000 00000000
+
+// Score Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+20177EC0 00000048
+20177EC4 8C6399B0
+20177EC8 00052900
+D2000000 00000000
+
+// Score Multiplier x16 (Face A La Creme)
+Author = libretro-database contributors / original PSP cheat authors
+2015CD20 00000854
+2015CD24 00021100
+2015CD28 00622821
+2015CD2C 3C030897
+2015CD30 8C64B6F8
+D2000000 00000000

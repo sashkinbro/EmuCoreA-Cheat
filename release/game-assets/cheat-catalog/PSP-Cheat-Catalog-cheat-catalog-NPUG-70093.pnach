@@ -1,0 +1,21 @@
+# PSP cheat pack
+# Serial: NPUG-70093
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Mojo
+Author = libretro-database contributors / original PSP cheat authors
+2006B7E4 24190063
+2006B7E8 A4990C42
+2006B7EC 5000000B
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2006E034 10000013
+
+// Timer Disable
+Author = libretro-database contributors / original PSP cheat authors
+20015EE8 00000000
+
+// Timer Enable
+Author = libretro-database contributors / original PSP cheat authors
+20015EE8 24A5FFFF

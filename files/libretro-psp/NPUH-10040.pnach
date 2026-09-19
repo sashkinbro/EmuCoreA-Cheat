@@ -1,0 +1,49 @@
+# PSP cheat pack
+# Serial: NPUH-10040
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Automatic Move
+Author = libretro-database contributors / original PSP cheat authors
+2000EFB4 3C044080
+
+// Disco
+Author = libretro-database contributors / original PSP cheat authors
+2000E5DC 3C044280
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+201DE038 E48D0014
+201DE040 3C043F80
+
+// Max Balance
+Author = libretro-database contributors / original PSP cheat authors
+205A7F54 0001869F
+
+// Max Power
+Author = libretro-database contributors / original PSP cheat authors
+005A80BC 00000003
+
+// Points
+Author = libretro-database contributors / original PSP cheat authors
+105A7F54 000001F4
+117FDB80 000001F4
+
+// Power Skill
+Author = libretro-database contributors / original PSP cheat authors
+005A80BC 00000003
+
+// See Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+20017AA8 3C044080
+
+// Shield Never Overheat
+Author = libretro-database contributors / original PSP cheat authors
+201DE580 00000000
+
+// Weapon Never Overheat
+Author = libretro-database contributors / original PSP cheat authors
+201DA550 00000000
+
+// Zoom
+Author = libretro-database contributors / original PSP cheat authors
+20038C0C 3E044280

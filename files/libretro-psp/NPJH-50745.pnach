@@ -1,0 +1,86 @@
+# PSP cheat pack
+# Serial: NPJH-50745
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Character CG Open
+Author = libretro-database contributors / original PSP cheat authors
+80596550 00020001
+000000FF 00000000
+
+// Character Event CG Open
+Author = libretro-database contributors / original PSP cheat authors
+80596530 00090001
+000000FF 00000000
+
+// Event CG Open
+Author = libretro-database contributors / original PSP cheat authors
+80596510 000D0001
+000000FF 00000000
+
+// Ine
+Author = libretro-database contributors / original PSP cheat authors
+20599B20 05F5E0FF
+20A4BF10 05F5E0FF
+
+// Mochibe
+Author = libretro-database contributors / original PSP cheat authors
+805999C4 00060010
+
+// New Game = TGS Demo Script
+Author = libretro-database contributors / original PSP cheat authors
+2009ECA8 00000000
+207ED9B8 00000002
+
+// Physical Condition
+Author = libretro-database contributors / original PSP cheat authors
+805999C8 00060010
+
+// State Change: No Work
+Author = libretro-database contributors / original PSP cheat authors
+005999BC 00000003
+005999CC 00000003
+005999DC 00000003
+005999EC 00000003
+005999FC 00000003
+00599A0C 00000003
+
+// State Change: Normal
+Author = libretro-database contributors / original PSP cheat authors
+005999BC 00000000
+005999CC 00000000
+005999DC 00000000
+005999EC 00000000
+005999FC 00000000
+00599A0C 00000000
+
+// State Change: Trouble
+Author = libretro-database contributors / original PSP cheat authors
+005999BC 00000002
+005999CC 00000002
+005999DC 00000002
+005999EC 00000002
+005999FC 00000002
+00599A0C 00000002
+
+// State Change: Yaruki Climax
+Author = libretro-database contributors / original PSP cheat authors
+005999BC 00000001
+005999CC 00000001
+005999DC 00000001
+005999EC 00000001
+005999FC 00000001
+00599A0C 00000001
+
+// Tips Open
+Author = libretro-database contributors / original PSP cheat authors
+80596560 000D0001
+000000FF 00000000
+
+// Voice Open
+Author = libretro-database contributors / original PSP cheat authors
+80596558 00020001
+000000FF 00000000
+
+// Work Not Ready Number Of Days Remaining
+Author = libretro-database contributors / original PSP cheat authors
+805999C0 00060010

@@ -1,0 +1,37 @@
+# PSP cheat pack
+# Serial: NPUH-10009
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2015DDDC 0E26C0D6
+
+// 1P Score 99
+Author = libretro-database contributors / original PSP cheat authors
+201F55BC 000F423F
+
+// Cup Full
+Author = libretro-database contributors / original PSP cheat authors
+201F5510 FFFFFFFF
+
+// Max Energy
+Author = libretro-database contributors / original PSP cheat authors
+601F4BFC FFFFFFFF
+00020001 0000024C
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+601F4BFC 00000000
+00020001 0000023C
+
+// Time Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+101F5508 00000B9A
+
+// Timer
+Author = libretro-database contributors / original PSP cheat authors
+20051E00 AE020014
+
+// Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20051E00 00000000

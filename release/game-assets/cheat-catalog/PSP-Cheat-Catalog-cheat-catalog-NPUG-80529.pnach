@@ -1,0 +1,65 @@
+# PSP cheat pack
+# Serial: NPUG-80529
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20182DC0 0000D498
+20002010 AC410064
+20002014 0A260B73
+20002018 0281082A
+20182DC4 0A200804
+20182DC8 24010003
+D2000000 00000000
+
+// Infinite Power Swings
+Author = libretro-database contributors / original PSP cheat authors
+20170C94 00000250
+20002000 2402000A
+20002004 0A25C328
+20002008 AE0204D8
+20170C98 0A200800
+D2000000 00000000
+
+// Infinite Powerup Usage
+Author = libretro-database contributors / original PSP cheat authors
+20181ACC 0000089C
+20181AD0 24120003
+20181ADC AC520068
+D2000000 00000000
+
+// Score Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+201A2A7C 000037C2
+201A2A80 00129040
+201A2A84 00B22821
+201A2A88 AE65011C
+201A2A90 8C836B00
+D2000000 00000000
+
+// Score Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+201A2A7C 000037C2
+201A2A80 00129080
+201A2A84 00B22821
+201A2A88 AE65011C
+201A2A90 8C836B00
+D2000000 00000000
+
+// Score Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+201A2A7C 000037C2
+201A2A80 001290C0
+201A2A84 00B22821
+201A2A88 AE65011C
+201A2A90 8C836B00
+D2000000 00000000
+
+// Score Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+201A2A7C 000037C2
+201A2A80 00129100
+201A2A84 00B22821
+201A2A88 AE65011C
+201A2A90 8C836B00
+D2000000 00000000

@@ -1,0 +1,67 @@
+# PSP cheat pack
+# Serial: NPUG-80330
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 9999 Precursor Orbs
+Author = libretro-database contributors / original PSP cheat authors
+100EE74C 0000270F
+
+// 9999 Scrap
+Author = libretro-database contributors / original PSP cheat authors
+100EE750 0000270F
+
+// Danger Coarse 1 (100000)
+Author = libretro-database contributors / original PSP cheat authors
+20F247A0 000186A0
+
+// Danger Coarse 2 (100000)
+Author = libretro-database contributors / original PSP cheat authors
+20F247BC 000186A0
+
+// Danger Coarse 3 (100000)
+Author = libretro-database contributors / original PSP cheat authors
+20F247D8 000186A0
+
+// Glider-Man
+Author = libretro-database contributors / original PSP cheat authors
+012FB490 00000000
+
+// Inf. Health (Dark Daxter)
+Author = libretro-database contributors / original PSP cheat authors
+211C968C 42C80000
+
+// Infinite Blaster Gun Ammo
+Author = libretro-database contributors / original PSP cheat authors
+01713018 00000050
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+212FB64C 4F800000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+212FB64C 04F80000
+
+// Infinite Scatler Gun Ammo
+Author = libretro-database contributors / original PSP cheat authors
+01713040 0000001E
+
+// Max Dark Eco
+Author = libretro-database contributors / original PSP cheat authors
+100EE74C 000003E7
+
+// Max Dark Eco Daxter
+Author = libretro-database contributors / original PSP cheat authors
+011CA0B8 000000C8
+
+// Max Precursor Orbs
+Author = libretro-database contributors / original PSP cheat authors
+100EE748 00000999
+
+// Max Scraps
+Author = libretro-database contributors / original PSP cheat authors
+100EE750 0000270F
+
+// Vulcan Fury Gun Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+11713068 0000012C

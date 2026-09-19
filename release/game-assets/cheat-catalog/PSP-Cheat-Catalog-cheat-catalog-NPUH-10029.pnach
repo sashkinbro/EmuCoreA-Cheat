@@ -1,0 +1,35 @@
+# PSP cheat pack
+# Serial: NPUH-10029
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Life
+Author = libretro-database contributors / original PSP cheat authors
+10C50674 0000270F
+10C50594 0000270F
+
+// Infinite Mana
+Author = libretro-database contributors / original PSP cheat authors
+10C50678 0000270F
+10C50598 0000270F
+
+// Infinite Power
+Author = libretro-database contributors / original PSP cheat authors
+10C5067C 000003E7
+10C5059C 000003E7
+
+// Infinite Shot
+Author = libretro-database contributors / original PSP cheat authors
+10C50680 000003E7
+10C505A0 000003E7
+
+// Max Experience
+Author = libretro-database contributors / original PSP cheat authors
+20C5058C 05F5E0FF
+
+// Max Level
+Author = libretro-database contributors / original PSP cheat authors
+20C50588 00000063
+
+// Max Points
+Author = libretro-database contributors / original PSP cheat authors
+20C50590 05F5E0FF

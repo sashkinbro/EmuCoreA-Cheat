@@ -1,0 +1,70 @@
+# PSP cheat pack
+# Serial: NPUH-10072
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// [999] Atk./Def./SP
+Author = libretro-database contributors / original PSP cheat authors
+113F9C90 000003E7
+113F9C44 000003E7
+113F9C28 000003E7
+
+// Gold Max
+Author = libretro-database contributors / original PSP cheat authors
+213D5CB8 000F423F
+
+// Inf. Atk.
+Author = libretro-database contributors / original PSP cheat authors
+00000098 0A200400
+00002000 3C08089A
+00002004 8D0850B8
+00002008 3C0942C8
+0000200C 35290000
+00002010 AD0947EC
+00002014 03E00008
+
+// Inf. Def.
+Author = libretro-database contributors / original PSP cheat authors
+00000098 0A200400
+00002000 3C08089A
+00002004 8D0850B8
+00002008 3C0942C8
+0000200C 35290000
+00002010 AD0947F0
+00002014 03E00008
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+00000098 0A200400
+00002000 3C08089A
+00002004 8D0850B8
+00002008 3C0942C8
+0000200C 35290000
+00002010 AD0947E4
+00002014 03E00008
+
+// Inf. SP
+Author = libretro-database contributors / original PSP cheat authors
+00000098 0A200400
+00002000 3C08089A
+00002004 8D0850B8
+00002008 3C0942C8
+0000200C 35290000
+00002010 AD0947E8
+00002014 03E00008
+
+// Instant Lvl. 99
+Author = libretro-database contributors / original PSP cheat authors
+113F7332 00000063
+113F9C1A 00000063
+
+// Item Drop Rate [99]
+Author = libretro-database contributors / original PSP cheat authors
+217FF044 000003E7
+
+// Monster Lvl. [999]
+Author = libretro-database contributors / original PSP cheat authors
+217FF040 000003E7
+
+// Rare Title Rate [999]
+Author = libretro-database contributors / original PSP cheat authors
+217FF048 000003E7

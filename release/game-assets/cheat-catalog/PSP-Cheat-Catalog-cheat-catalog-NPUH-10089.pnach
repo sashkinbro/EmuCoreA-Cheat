@@ -1,0 +1,42 @@
+# PSP cheat pack
+# Serial: NPUH-10089
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Bombs
+Author = libretro-database contributors / original PSP cheat authors
+00941834 00000005
+
+// Infinite Energy
+Author = libretro-database contributors / original PSP cheat authors
+2003568C 340FC000
+200356B4 AC8F0164
+200356B8 000F2382
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20941760 000001F4
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+200617D4 00857821
+200617D8 2404012C
+200617E0 ADE40040
+
+// Infinite Shield
+Author = libretro-database contributors / original PSP cheat authors
+201344C0 8FAF0004
+201344C4 24040064
+201344CC ADE40058
+
+// Infinite Special Weapon
+Author = libretro-database contributors / original PSP cheat authors
+201382DC 00000000
+
+// Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+00941778 00000078
+
+// Max Score & Infinite Bombs
+Author = libretro-database contributors / original PSP cheat authors
+20941750 05F5E0FF
+20941758 05F5E0FF
