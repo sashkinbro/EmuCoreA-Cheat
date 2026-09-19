@@ -1,0 +1,790 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10142
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS [Alpha]
+Author = libretro-database contributors / original PSP cheat authors
+200ACBE4 00000000
+
+// 2 Days Left Working
+Author = libretro-database contributors / original PSP cheat authors
+001BBB9C 00000002
+001BBC94 00000002
+001BBD8C 00000002
+001BBE84 00000002
+001BBF7C 00000002
+001BC074 00000002
+001BC16C 00000002
+
+// 10 Power Berry Boy
+Author = libretro-database contributors / original PSP cheat authors
+001B276C 0000000A
+
+// 9999 Medals Horse Race
+Author = libretro-database contributors / original PSP cheat authors
+101B2F10 00000270
+
+// All Girls Black Hearts
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 00000001
+101B83A0 00000001
+101B8748 00000001
+101B906C 00000001
+101B9B64 00000001
+
+// All Girls Green Hearts
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 00007530
+101B83A0 00007530
+101B8748 00007530
+101B906C 00007530
+101B9B64 00007530
+
+// All Girls Light Blue Hearts
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 00004E20
+101B83A0 00004E20
+101B8748 00004E20
+101B906C 00004E20
+101B9B64 00004E20
+
+// All Girls Max Hearts
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 0000FFFF
+101B83A0 0000FFFF
+101B906C 0000FFFF
+101B9B64 0000FFFF
+101B8748 0000FFFF
+
+// All Girls Purple Hearts
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 00003FFF
+101B83A0 00003FFF
+101B8748 00003FFF
+101B906C 00003FFF
+101B9B64 00003FFF
+
+// All Girls Orange Hearts
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 0000C350
+101B83A0 0000C350
+101B906C 0000C350
+101B9B64 0000C350
+101B8748 0000C350
+
+// All Girls Red Hearts
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 0000FFFF
+101B83A0 0000FFFF
+101B906C 0000FFFF
+101B9B64 0000FFFF
+101B8748 0000FFFF
+
+// All Girls Yellow Hearts
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 00009C40
+101B83A0 00009C40
+101B906C 00009C40
+101B9B64 00009C40
+101B8748 00009C40
+
+// All Item Shipped [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B5104 000003E7
+101B5106 000003E7
+101B5108 000003E7
+101B510A 000003E7
+101B510C 000003E7
+101B510E 000003E7
+101B5110 000003E7
+101B5112 000003E7
+101B5114 000003E7
+101B5116 000003E7
+101B5118 000003E7
+101B511A 000003E7
+101B511C 000003E7
+101B511E 000003E7
+101B5120 000003E7
+101B5122 000003E7
+101B5124 000003E7
+101B5126 000003E7
+101B5128 000003E7
+101B512A 000003E7
+101B512C 000003E7
+
+// Baby: Max Affection
+Author = libretro-database contributors / original PSP cheat authors
+001BB8A2 000000FF
+
+// Barn Animals Fed
+Author = libretro-database contributors / original PSP cheat authors
+001B27A8 00000001
+001B27A9 00000001
+001B27AA 00000001
+001B27AB 00000001
+001B27AC 00000001
+001B27AD 00000001
+001B27AE 00000001
+001B27AF 00000001
+001B27B0 00000001
+001B27B1 00000001
+001B27B2 00000001
+001B27B3 00000001
+001B27B4 00000001
+001B27B5 00000001
+001B27B6 00000001
+001B27B7 00000001
+001B27B8 00000001
+001B27B9 00000001
+001B27BA 00000001
+001B27BB 00000001
+
+// Barn Animals Max Hearts
+Author = libretro-database contributors / original PSP cheat authors
+001B5EBA 000000FF
+001B5F72 000000FF
+001B602A 000000FF
+001B60E2 000000FF
+001B619A 000000FF
+001B6252 000000FF
+001B630A 000000FF
+001B63C2 000000FF
+001B647A 000000FF
+001B6532 000000FF
+
+// Barn Animals Max Hearts v2
+Author = libretro-database contributors / original PSP cheat authors
+001B5EBA 000000FF
+001B5F72 000000FF
+001B602A 000000FF
+001B60E2 000000FF
+001B619A 000000FF
+001B6252 000000FF
+001B630A 000000FF
+001B63C2 000000FF
+001B647A 000000FF
+001B6532 000000FF
+001B65EA 000000FF
+001B66A2 000000FF
+001B675A 000000FF
+001B6812 000000FF
+001B68CA 000000FF
+001B6982 000000FF
+001B6A3A 000000FF
+001B6AF2 000000FF
+001B6BAA 000000FF
+001B6C62 000000FF
+
+// Cabinet Slot 1 Infinite [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+001B4F26 00000063
+
+// Chickens Feed
+Author = libretro-database contributors / original PSP cheat authors
+001B27BE 00000001
+001B27BF 00000001
+001B27C0 00000001
+001B27C1 00000001
+001B27C2 00000001
+001B27C3 00000001
+001B27C4 00000001
+001B27C5 00000001
+001B27C6 00000001
+001B27C7 00000001
+
+// Chicken Max Affection
+Author = libretro-database contributors / original PSP cheat authors
+001B57B2 000000FF
+001B5866 000000FF
+001B591A 000000FF
+001B59CE 000000FF
+001B5A82 000000FF
+001B5B36 000000FF
+001B5BEA 000000FF
+001B5C9E 000000FF
+001B5D52 000000FF
+001B5E06 000000FF
+
+// Day For Helpers Girl
+Author = libretro-database contributors / original PSP cheat authors
+101BE664 00000003
+101BE75C 00000003
+101BE854 00000003
+101BE94C 00000003
+101BEA44 00000003
+101BEB3C 00000003
+101BEC34 00000003
+
+// Days Left Helpers For Boy
+Author = libretro-database contributors / original PSP cheat authors
+001BBB9C 00000005
+001BBC94 00000005
+001BBD8C 00000005
+001BBE84 00000005
+001BBF7C 00000005
+001BC074 00000005
+001BC16C 00000005
+
+// Dog Max Hearts
+Author = libretro-database contributors / original PSP cheat authors
+001B6EAA 000000FF
+
+// Dog Max Intelligence
+Author = libretro-database contributors / original PSP cheat authors
+001B6F40 000000FF
+
+// Dog & Horse Max Hearts
+Author = libretro-database contributors / original PSP cheat authors
+001B6EAA 000000FF
+001B6F9A 000000FF
+
+// Fancybox Slot 2 Infinite
+Author = libretro-database contributors / original PSP cheat authors
+001B50AC 00000063
+
+// Farm 100% Boy
+Author = libretro-database contributors / original PSP cheat authors
+10184B2C 00000064
+
+// Feed Placed In Each coop
+Author = libretro-database contributors / original PSP cheat authors
+001B27BE 00000001
+001B27BF 00000001
+001B27C0 00000001
+001B27C1 00000001
+001B27C2 00000001
+001B27C3 00000001
+001B27C4 00000001
+001B27C5 00000001
+001B27C6 00000001
+001B27C7 00000001
+
+// Fish Always Fed
+Author = libretro-database contributors / original PSP cheat authors
+001B6E90 00000001
+
+// Fishes [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101871CC 00000063
+
+// Fodder Placed Already
+Author = libretro-database contributors / original PSP cheat authors
+001B27A8 00000001
+001B27A9 00000001
+001B27AA 00000001
+001B27AB 00000001
+001B27AC 00000001
+001B27AD 00000001
+001B27AE 00000001
+001B27AF 00000001
+001B27B0 00000001
+001B27B1 00000001
+
+// Freeze Time
+Author = libretro-database contributors / original PSP cheat authors
+001ADDBC 00000001
+
+// Fridge Slot 1 Infinite [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+001B4C26 00000063
+
+// Have All Utensils
+Author = libretro-database contributors / original PSP cheat authors
+001B21B4 000000FF
+
+// Horse Max Hearts
+Author = libretro-database contributors / original PSP cheat authors
+001B6F9A 000000FF
+
+// Horse Max Stamina
+Author = libretro-database contributors / original PSP cheat authors
+001B7030 000000FF
+
+// Inf. Money [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+201B2F0C 0001869F
+
+// Inf. Money [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+201B59B8 000519AA
+
+// Inf. Water In Watering Can [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+101B2F38 0000000A
+
+// Inf. Water In Watering Can [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B59E4 0000000A
+
+// Infinite Money [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+201B2F0C 0098967F
+
+// Infinite Money [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+201B59B8 0098967F
+
+// Infinite Seeds & Water
+Author = libretro-database contributors / original PSP cheat authors
+001B2F38 00000064
+
+// Infinite Stamina
+Author = libretro-database contributors / original PSP cheat authors
+001B2EC2 000000C8
+
+// Item In Hand: Truffle
+Author = libretro-database contributors / original PSP cheat authors
+101B2F3A 0000005C
+
+// Item In Hand: Perfume
+Author = libretro-database contributors / original PSP cheat authors
+101B2F3A 00000100
+
+// Item In Hand: Bracelet
+Author = libretro-database contributors / original PSP cheat authors
+101B2F3A 000000F7
+
+// Item In Hand: Chocolate
+Author = libretro-database contributors / original PSP cheat authors
+101B2F3A 000000F3
+
+// Item In Hand: Chocolate Cake
+Author = libretro-database contributors / original PSP cheat authors
+101B2F3A 000000F5
+
+// Low Expenses
+Author = libretro-database contributors / original PSP cheat authors
+201B26B0 0000000A
+
+// Low Expenses [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+201B26B0 0000000A
+
+// Low Expenses [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+201B514C 00000000
+
+// Max Chicken Feed [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+101B21F0 000003E7
+
+// Max Chicken Feed [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B4C20 000003E7
+
+// Max Medals Horse [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B59BC 0001869F
+
+// Max Fish Food [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+101B21EE 000003E7
+
+// Max Fish Food [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B4C1E 000003E7
+
+// Max Fodder [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+101B21EA 000003E7
+
+// Max Fodder [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B4C1A 000003E7
+
+// Max Lumber [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+101B21E8 000003E7
+
+// Max Lumber [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B4C18 000003E7
+
+// Max Medals House
+Author = libretro-database contributors / original PSP cheat authors
+101B2F10 0000270F
+
+// Max Resources [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+101B21F0 000003E7
+101B21EE 000003E7
+101B21EA 000003E7
+101B21E8 000003E7
+
+// Max Resources [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B4C18 000003E7
+101B4C20 000003E7
+101B4C1A 000003E7
+101B4C1E 000003E7
+
+// Max Sprites Affection
+Author = libretro-database contributors / original PSP cheat authors
+001BBAFE 000000FF
+001BBBF6 000000FF
+001BBCEE 000000FF
+001BBDE6 000000FF
+001BBEDE 000000FF
+001BBFD6 000000FF
+001BC0CE 000000FF
+
+// Maximum Stamina = 200
+Author = libretro-database contributors / original PSP cheat authors
+001B2EC4 000000C8
+
+// Medals Horse Race [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101BEDC8 00001388
+
+// No Fatigue [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+101B2EC2 0000006E
+
+// No Fatigue [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B596E 0000006E
+
+// No Sickness
+Author = libretro-database contributors / original PSP cheat authors
+001B2EC6 00000000
+
+// No Tried [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+101B2EC2 00002710
+
+// Set Date [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+101B21A4 00000009
+
+// Set Date [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B4BD4 00000018
+
+// Set Day Of Week [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+101B21A6 00000006
+
+// Set Day Of Week [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B4BD6 00000000
+
+// Set Hour [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+101B4BD8 00000009
+101B4BDA 00000000
+
+// Set Hour [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B21A8 00000009
+101B21AA 00000000
+
+// Set Season [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+101B21A2 00000002
+
+// Set Season [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B4BD2 00000002
+
+// Slot 1 = Wine
+Author = libretro-database contributors / original PSP cheat authors
+101B2F70 0000009F
+
+// Slot 1 = Large Fish
+Author = libretro-database contributors / original PSP cheat authors
+101B2F70 000000A1
+
+// Slot 1 = Chocolate
+Author = libretro-database contributors / original PSP cheat authors
+101B2F70 000000F3
+
+// Sprites: Max Animal Skill
+Author = libretro-database contributors / original PSP cheat authors
+001BBB9A 000000FF
+001BBC92 000000FF
+001BBD8A 000000FF
+001BBE82 000000FF
+001BBF8A 000000FF
+001BC072 000000FF
+001BC16A 000000FF
+
+// Sprites: Max Harvest Skill
+Author = libretro-database contributors / original PSP cheat authors
+001BBB96 000000FF
+001BBC8E 000000FF
+001BBD86 000000FF
+001BBE7E 000000FF
+001BBF76 000000FF
+001BC06E 000000FF
+001BC166 000000FF
+
+// Sprites: Max Water Skill
+Author = libretro-database contributors / original PSP cheat authors
+001BBB98 000000FF
+001BBC90 000000FF
+001BBD88 000000FF
+001BBE80 000000FF
+001BBF78 000000FF
+001BC070 000000FF
+001BC168 000000FF
+
+// Sprites Job: All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+001BBBA0 00000002
+001BBC98 00000002
+001BBD90 00000001
+001BBE88 00000004
+001BBF80 00000001
+001BC078 00000002
+001BC170 00000002
+
+// Sprites Job: Animal Care
+Author = libretro-database contributors / original PSP cheat authors
+001BBBA0 00000004
+001BBC98 00000004
+001BBD90 00000004
+001BBE88 00000004
+001BBF80 00000004
+001BC078 00000004
+001BC170 00000004
+
+// Sprites Job: Harvest
+Author = libretro-database contributors / original PSP cheat authors
+001BBBA0 00000001
+001BBC98 00000001
+001BBD90 00000001
+001BBE88 00000001
+001BBF80 00000001
+001BC078 00000001
+001BC170 00000001
+
+// Sprites Job: Water
+Author = libretro-database contributors / original PSP cheat authors
+001BBBA0 00000002
+001BBC98 00000002
+001BBD90 00000002
+001BBE88 00000002
+001BBF80 00000002
+001BC078 00000002
+001BC170 00000002
+
+// Sprites Job: Water & Harvest
+Author = libretro-database contributors / original PSP cheat authors
+001BBBA0 00000002
+001BBC98 00000002
+001BBD90 00000002
+001BBE88 00000002
+001BBF80 00000001
+001BC078 00000001
+001BC170 00000001
+
+// Tool Ability [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+101B2EF0 0000FFFF
+101B2EF2 0000FFFF
+101B2EF4 0000FFFF
+101B2EF6 0000FFFF
+101B2EF8 0000FFFF
+
+// Tool Ability [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B599C 0000FFFF
+101B599E 0000FFFF
+101B59A0 0000FFFF
+101B59A2 0000FFFF
+101B59A4 0000FFFF
+101B59A6 0000FFFF
+
+// Tools Ability At Max
+Author = libretro-database contributors / original PSP cheat authors
+101B2EF0 0000FFFF
+101B2EF2 0000FFFF
+101B2EF4 0000FFFF
+101B2EF6 0000FFFF
+101B2EF8 0000FFFF
+
+// Unlimited Space Basket [Boy]
+Author = libretro-database contributors / original PSP cheat authors
+001B2770 00000063
+
+// Unlimited Space Basket [Girl]
+Author = libretro-database contributors / original PSP cheat authors
+101B520C 00000001
+
+// Villagers Max Affection
+Author = libretro-database contributors / original PSP cheat authors
+001B78A6 000000FF
+001B7A7A 000000FF
+001B7E22 000000FF
+001B7FF6 000000FF
+001B81CA 000000FF
+001B8572 000000FF
+001B891A 000000FF
+001B8AEE 000000FF
+001B8CC2 000000FF
+001B8E96 000000FF
+001B923E 000000FF
+001B9412 000000FF
+001B95E6 000000FF
+001B97BA 000000FF
+001B998E 000000FF
+001B9D36 000000FF
+001B9F0A 000000FF
+001BA0DE 000000FF
+001BA2B2 000000FF
+001BA486 000000FF
+001BAA02 000000FF
+001BABD6 000000FF
+001BADAA 000000FF
+001BAF7E 000000FF
+001BB152 000000FF
+001BB4FA 000000FF
+001BB6CE 000000FF
+
+// Weather Mod: Rain The Next Day
+Author = libretro-database contributors / original PSP cheat authors
+001BC1B2 00000001
+
+// Weather Mod: Sun The Next Day
+Author = libretro-database contributors / original PSP cheat authors
+001BC1B2 00000000
+
+// Ann: Black Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B83A0 00000000
+
+// Ann: Green Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B83A0 00007530
+
+// Ann: Light Blue Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B83A0 00004E20
+
+// Ann: Orange Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B83A0 0000C350
+
+// Ann: Purple Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B83A0 00003FFF
+
+// Ann: Red Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B83A0 0000FFFF
+
+// Ann: Yellow Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B83A0 00009C40
+
+// Elli: Black Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B8748 00000000
+
+// Elli: Green Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B8748 00007530
+
+// Elli: Light Blue Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B8748 00004E20
+
+// Elli: Orange Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B8748 0000C350
+
+// Elli: Purple Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B8748 00003FFF
+
+// Elli: Red Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B8748 0000FFFF
+
+// Elli: Yellow Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B8748 00009C40
+
+// Karen: Black Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 00000000
+
+// Karen: Green Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 00007530
+
+// Karen: Light Blue Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 00004E20
+
+// Karen: Orange Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 0000C350
+
+// Karen: Purple Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 00003FFF
+
+// Karen: Red Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 0000FFFF
+
+// Karen: Yellow Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B7C50 00009C40
+
+// Mary: Black Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B906C 00000000
+
+// Mary: Green Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B906C 00007530
+
+// Mary: Light Blue Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B906C 00004E20
+
+// Mary: Orange Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B906C 0000C350
+
+// Mary: Purple Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B906C 00003FFF
+
+// Mary: Red Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B906C 0000FFFF
+
+// Mary: Yellow Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B906C 00009C40
+
+// Popuri: Black Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B9B64 00000000
+
+// Popuri: Green Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B9B64 00007530
+
+// Popuri: Light Blue Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B9B64 00004E20
+
+// Popuri: Orange Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B9B64 0000C350
+
+// Popuri: Purple Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B9B64 00003FFF
+
+// Popuri: Red Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B9B64 0000FFFF
+
+// Popuri: Yellow Heart
+Author = libretro-database contributors / original PSP cheat authors
+101B9B64 00009C40
