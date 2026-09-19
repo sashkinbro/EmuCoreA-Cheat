@@ -1,0 +1,432 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULJS-00460
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Ace Bonus
+Author = libretro-database contributors / original PSP cheat authors
+2005E160 38420000
+200E45AC 38420000
+2015CF64 38420000
+2015E044 38420000
+20165CA4 38420000
+20198C10 38420000
+
+// All Chara. Exp. 49000
+Author = libretro-database contributors / original PSP cheat authors
+8069FDE8 039A0056
+1000BF68 00000000
+
+// All Chara. Shoot Down Count 9999
+Author = libretro-database contributors / original PSP cheat authors
+8069FDEA 039A0056
+1000270F 00000000
+
+// All Parameter +100 [Push Triangle+Right]
+Author = libretro-database contributors / original PSP cheat authors
+D0000005 10001020
+10657A28 00000064
+10657A2A 00000064
+10657A2C 00000064
+10657A2E 00000064
+10657A30 00000064
+10657A32 00000064
+
+// All Pilot Spirit 999
+Author = libretro-database contributors / original PSP cheat authors
+8069FDE6 039A0056
+100003E7 00000000
+
+// All Pilot Spirit 9999
+Author = libretro-database contributors / original PSP cheat authors
+8069FDE4 039A0056
+1000270F 00000000
+
+// All Pilot Exp. 49000
+Author = libretro-database contributors / original PSP cheat authors
+8069FDE8 039A0056
+1000FB68 00000000
+
+// All Pilot PP 9999
+Author = libretro-database contributors / original PSP cheat authors
+8069FDB8 039A0056
+1000270F 00000000
+
+// All Pilot Shooting Down 9999
+Author = libretro-database contributors / original PSP cheat authors
+8069FDEA 039A0056
+1000270F 00000000
+
+// All Parts 4
+Author = libretro-database contributors / original PSP cheat authors
+20084634 24020004
+200D8160 24100004
+200DA5DC 24140004
+200DAAB0 24110004
+20168BF0 24020004
+20168C0C 24020004
+
+// All Parts 50
+Author = libretro-database contributors / original PSP cheat authors
+805F8BFC 00380004
+00000032 00000000
+
+// All Parts 99
+Author = libretro-database contributors / original PSP cheat authors
+805F8BFC 00380004
+00000063 00000000
+
+// All Unit PP 99999
+Author = libretro-database contributors / original PSP cheat authors
+4069FDB8 039A002B
+0001869F 00000000
+
+// Attack Range Up
+Author = libretro-database contributors / original PSP cheat authors
+2016C26C 26730020
+
+// Attack Range Up [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2016C26C 26730002
+
+// Bullet　Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2016BA48 00000000
+
+// Bullet　Not Dec. [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2016BA48 A6030000
+
+// Changeable Unit
+Author = libretro-database contributors / original PSP cheat authors
+2012162C 00000000
+20121664 00000000
+20140C38 34020001
+20140C7C 34020001
+
+// Changeable Unit　[Off]
+Author = libretro-database contributors / original PSP cheat authors
+2012162C 10400003
+20121664 10400003
+20140C38 0002102B
+20140C7C 90820031
+
+// Character Encyclopedia Full Expansion
+Author = libretro-database contributors / original PSP cheat authors
+40633D44 000F0001
+FFFFFFFF 00000000
+20633D80 07FFFFFF
+
+// Clear 99
+Author = libretro-database contributors / original PSP cheat authors
+005F8B87 00000063
+
+// Customize 15
+Author = libretro-database contributors / original PSP cheat authors
+005F8B8A 00000003
+
+// EN Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2016BAC4 00000000
+
+// EN Not Dec. [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2016BAC4 A4820032
+
+// Equipment Parts 4
+Author = libretro-database contributors / original PSP cheat authors
+8046A273 030A0048
+00000004 00000000
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+201988B4 00000000
+201988BC 00139840
+
+// Exp. x4
+Author = libretro-database contributors / original PSP cheat authors
+201988B4 00000000
+201988BC 00139880
+
+// Exp. x8
+Author = libretro-database contributors / original PSP cheat authors
+201988B4 00000000
+201988BC 001398C0
+
+// Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+201988B4 00000000
+201988BC 00139900
+
+// Exp. x32
+Author = libretro-database contributors / original PSP cheat authors
+201988B4 00000000
+201988BC 00139940
+
+// Exp. x128
+Author = libretro-database contributors / original PSP cheat authors
+201988B4 00000000
+201988BC 001399C0
+
+// Exp. Multiplier Code [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201988B4 50600003
+201988BC 00139840
+
+// Fund Max
+Author = libretro-database contributors / original PSP cheat authors
+205F8AD0 3B9AC9FF
+
+// Max After Acquiring Funds
+Author = libretro-database contributors / original PSP cheat authors
+2003A070 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+205F8AD0 05F5E0FF
+
+// Modification 15
+Author = libretro-database contributors / original PSP cheat authors
+005F8B8A 00000001
+
+// Motive Power Up
+Author = libretro-database contributors / original PSP cheat authors
+2016A0D0 2662000A
+
+// Motive Power Up [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2016A0D0 26620003
+
+// Parameter All +100
+Author = libretro-database contributors / original PSP cheat authors
+D0000005 10001020
+10657A28 00000064
+10657A2A 00000064
+10657A2C 00000064
+10657A2E 00000064
+10657A30 00000064
+10657A32 00000064
+
+// Parts Edit
+Author = libretro-database contributors / original PSP cheat authors
+0045B16C 00000023
+1045B16E 000003E8
+1045B170 00000064
+1045B172 00000064
+1045B174 00000A0A
+1045B176 0000020A
+0045B17A 0000000A
+0045B17C 00000006
+0045B17E 0000000A
+1045B182 00000064
+
+// Platinum-Emblem Edit
+Author = libretro-database contributors / original PSP cheat authors
+0045B16C 00000023
+1045B16E 000003E8
+1045B170 00000064
+1045B172 00000064
+1045B174 00000A0A
+1045B176 0000020A
+0045B17A 0000000A
+0045B17C 00000006
+0045B17E 0000000A
+1045B182 00000064
+
+// PP 0
+Author = libretro-database contributors / original PSP cheat authors
+10657A10 0000270F
+10657A18 0000270F
+
+// PP 99999
+Author = libretro-database contributors / original PSP cheat authors
+4069FDB8 039A002B
+0001869F 00000000
+
+// PP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+10657A10 0000270F
+10657A18 0000270F
+
+// PP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+20168690 00601821
+
+// PP Not Dec.　[Off]
+Author = libretro-database contributors / original PSP cheat authors
+20168690 00651821
+
+// PP Up
+Author = libretro-database contributors / original PSP cheat authors
+200CBBE8 340503E8
+
+// PP x2
+Author = libretro-database contributors / original PSP cheat authors
+20198B10 000B3840
+
+// PP x4
+Author = libretro-database contributors / original PSP cheat authors
+20198B10 000B3880
+
+// PP x8
+Author = libretro-database contributors / original PSP cheat authors
+20198B10 000B38C0
+
+// PP x16
+Author = libretro-database contributors / original PSP cheat authors
+20198B10 000B3900
+
+// PP x32
+Author = libretro-database contributors / original PSP cheat authors
+20198B10 000B3940
+
+// PP x64
+Author = libretro-database contributors / original PSP cheat authors
+20198B10 000B3980
+
+// PP x128
+Author = libretro-database contributors / original PSP cheat authors
+20198B10 000B39C0
+
+// Range Up
+Author = libretro-database contributors / original PSP cheat authors
+2016C26C 26730020
+
+// Range Up [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2016C26C 26730002
+
+// Robot Great Booklet Full Expansion
+Author = libretro-database contributors / original PSP cheat authors
+40633CC4 000C0001
+FFFFFFFF 00000000
+20633CF4 0007FFFF
+
+// Scenario Chart Full Open
+Author = libretro-database contributors / original PSP cheat authors
+40633E04 00040001
+FFFFFFFF 00000000
+10633E14 00000FFF
+
+// Shoot Down Count x2
+Author = libretro-database contributors / original PSP cheat authors
+20168548 00051840
+
+// Shoot Down Count x16
+Author = libretro-database contributors / original PSP cheat authors
+20168548 00051900
+
+// Shoot Down Count x128
+Author = libretro-database contributors / original PSP cheat authors
+20168548 000519C0
+
+// Skil Rist All
+Author = libretro-database contributors / original PSP cheat authors
+201631AC 50000004
+201631C8 50000005
+20163208 50000005
+20163220 10000004
+
+// Skil Rist All [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201631AC 54400004
+201631C8 50400005
+20163208 54400005
+20163220 14600004
+
+// Sound Select Full Open
+Author = libretro-database contributors / original PSP cheat authors
+40633DE4 00040001
+FFFFFFFF 00000000
+00633DF4 00000001
+
+// SP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+20168414 00A02021
+
+// SP Not Dec. [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20168414 00A42021
+
+// SR Point 55
+Author = libretro-database contributors / original PSP cheat authors
+005F8B88 00000037
+
+// Sub Order Exp. x1000
+Author = libretro-database contributors / original PSP cheat authors
+2015EF38 340503E8
+
+// Sub Order Exp. x2000
+Author = libretro-database contributors / original PSP cheat authors
+2015EF38 340507D0
+
+// Sub Order Exp. x5000
+Author = libretro-database contributors / original PSP cheat authors
+2015EF38 34051388
+
+// Sub Order Exp. x10000
+Author = libretro-database contributors / original PSP cheat authors
+2015EF38 34052710
+
+// Sub Order Exp. Multiplier Code [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2015EF38 240501F4
+
+// Sub Order PP x100
+Author = libretro-database contributors / original PSP cheat authors
+2015EF04 34050064
+
+// Sub Order PP x100 v2
+Author = libretro-database contributors / original PSP cheat authors
+2015EF04 340501F4
+
+// Sub Order PP x500
+Author = libretro-database contributors / original PSP cheat authors
+2015EF04 340501F4
+
+// Sub Order PP x1000
+Author = libretro-database contributors / original PSP cheat authors
+2015EF04 340503E8
+
+// Sub Order PP x10000
+Author = libretro-database contributors / original PSP cheat authors
+2015EF04 34052710
+
+// Sub Order PP Multiplier Code [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2015EF04 24050014
+
+// Sub Order Shooting Down x10
+Author = libretro-database contributors / original PSP cheat authors
+2015EF14 3405000A
+
+// Sub Order Shooting Down x50
+Author = libretro-database contributors / original PSP cheat authors
+2015EF14 34050032
+
+// Sub Order Shooting Down x100
+Author = libretro-database contributors / original PSP cheat authors
+2015EF14 34050064
+
+// Sub Order Shooting Down x1000
+Author = libretro-database contributors / original PSP cheat authors
+2015EF14 340503E8
+
+// Sub Order Shooting Down Code [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2015EF14 00000000
+
+// Take Up Again [Triangle]
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10001000
+80661F58 00300068
+0000000C 00000000
+
+// Term Encyclopedia Full Expansion
+Author = libretro-database contributors / original PSP cheat authors
+40633DC4 00030001
+FFFFFFFF 00000000
+10633DD0 000003FF
+
+// Turn 0
+Author = libretro-database contributors / original PSP cheat authors
+205F8ADE 00000000

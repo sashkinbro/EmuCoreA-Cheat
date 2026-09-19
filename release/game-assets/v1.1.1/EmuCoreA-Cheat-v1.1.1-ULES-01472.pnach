@@ -1,0 +1,326 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-01472
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS v1 [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E001003C 001FE8F8
+201FE8F8 2402001E
+
+// 60 FPS v1
+Author = libretro-database contributors / original PSP cheat authors
+E001001E 001FE8F8
+201FE8F8 2402003C
+
+// All Characters Available
+Author = libretro-database contributors / original PSP cheat authors
+201913B8 24020001
+201913BC 24020001
+
+// CAW Attribute Adjuster
+Author = libretro-database contributors / original PSP cheat authors
+206466E7 00000001
+
+// Bragging Rights Arena
+Author = libretro-database contributors / original PSP cheat authors
+206466EF 00000001
+
+// Breaking Point Arena
+Author = libretro-database contributors / original PSP cheat authors
+206466F3 00000001
+
+// Backlash Arena
+Author = libretro-database contributors / original PSP cheat authors
+206466E9 00000001
+
+// Druid & Druid Arena
+Author = libretro-database contributors / original PSP cheat authors
+206466D4 00000001
+
+// ECW Arena
+Author = libretro-database contributors / original PSP cheat authors
+206466ED 00000001
+
+// Hell In A Cell Arena
+Author = libretro-database contributors / original PSP cheat authors
+206466EE 00000001
+
+// Judgment Day Arena
+Author = libretro-database contributors / original PSP cheat authors
+206466F2 00000001
+
+// Night Of Champions Arena
+Author = libretro-database contributors / original PSP cheat authors
+206466EC 00000001
+
+// The Bash Arena
+Author = libretro-database contributors / original PSP cheat authors
+206466EB 00000001
+
+// TLC Arena
+Author = libretro-database contributors / original PSP cheat authors
+206466F1 00000001
+
+// Tribute To The Troops Arena
+Author = libretro-database contributors / original PSP cheat authors
+206466F4 00000001
+
+// Survivor Rights Arena
+Author = libretro-database contributors / original PSP cheat authors
+206466F0 00000001
+
+// Attribute Superstar
+Author = libretro-database contributors / original PSP cheat authors
+206466C1 00000001
+
+// Batista (Street Clothes)
+Author = libretro-database contributors / original PSP cheat authors
+206466DD 00000001
+
+// Brie Bella
+Author = libretro-database contributors / original PSP cheat authors
+20646706 00000001
+
+// Christian (Conquistador)
+Author = libretro-database contributors / original PSP cheat authors
+206466CA 00000001
+
+// Christian (Street Clothes)
+Author = libretro-database contributors / original PSP cheat authors
+206466D7 00000001
+
+// Cody Rhodes (T-Shirt)
+Author = libretro-database contributors / original PSP cheat authors
+206466E1 00000001
+
+// Cruiser Weight Belt
+Author = libretro-database contributors / original PSP cheat authors
+20646702 00000001
+
+// ECW Belt
+Author = libretro-database contributors / original PSP cheat authors
+20646700 00000001
+
+// ECW Story Designer Content
+Author = libretro-database contributors / original PSP cheat authors
+206466E8 00000001
+
+// Edge (Conquistador)
+Author = libretro-database contributors / original PSP cheat authors
+206466C7 00000001
+
+// Edge (Street Clothes)
+Author = libretro-database contributors / original PSP cheat authors
+206466DA 00000001
+
+// Extreme Rules Arena
+Author = libretro-database contributors / original PSP cheat authors
+206466EA 00000001
+
+// Ezekiel Jackson
+Author = libretro-database contributors / original PSP cheat authors
+206466FE 00000001
+
+// Fan Axxess
+Author = libretro-database contributors / original PSP cheat authors
+2064670D 00000001
+
+// Finlay
+Author = libretro-database contributors / original PSP cheat authors
+206466FF 00000001
+
+// Gail Kim
+Author = libretro-database contributors / original PSP cheat authors
+206466F5 00000001
+
+// Goldust
+Author = libretro-database contributors / original PSP cheat authors
+206466F9 00000001
+
+// Hardcore Belt
+Author = libretro-database contributors / original PSP cheat authors
+20646703 00000001
+
+// Hris Jericho (Street Clothes)
+Author = libretro-database contributors / original PSP cheat authors
+206466D6 00000001
+
+// Jack Swagger (Street Clothes)
+Author = libretro-database contributors / original PSP cheat authors
+206466E3 00000001
+
+// Jack Swagger (Todo Americano)
+Author = libretro-database contributors / original PSP cheat authors
+206466C9 00000001
+
+// Jimmy Snuka
+Author = libretro-database contributors / original PSP cheat authors
+206466CE 00000001
+
+// John Cena (Street Clothes)
+Author = libretro-database contributors / original PSP cheat authors
+206466D5 00000001
+
+// Masked Kane
+Author = libretro-database contributors / original PSP cheat authors
+206466C6 00000001
+
+// Mickie James
+Author = libretro-database contributors / original PSP cheat authors
+206466F6 00000001
+
+// Mike Knox
+Author = libretro-database contributors / original PSP cheat authors
+206466FD 00000001
+
+// MVP (Street Clothes)
+Author = libretro-database contributors / original PSP cheat authors
+206466DC 00000001
+
+// Nikki Bella
+Author = libretro-database contributors / original PSP cheat authors
+20646705 00000001
+
+// Paul BeArer
+Author = libretro-database contributors / original PSP cheat authors
+206466CC 00000001
+
+// Randy Orton (Referee)
+Author = libretro-database contributors / original PSP cheat authors
+206466DE 00000001
+
+// Randy Orton (Suit)
+Author = libretro-database contributors / original PSP cheat authors
+206466DF 00000001
+
+// Randy Orton (T-Shirt)
+Author = libretro-database contributors / original PSP cheat authors
+206466E0 00000001
+
+// Rey Mysterio (Evil)
+Author = libretro-database contributors / original PSP cheat authors
+206466C8 00000001
+
+// Rey Mysterio (Street Clothes)
+Author = libretro-database contributors / original PSP cheat authors
+206466D8 00000001
+
+// Ricky Steamboat
+Author = libretro-database contributors / original PSP cheat authors
+206466D3 00000001
+
+// Rob Van Dam
+Author = libretro-database contributors / original PSP cheat authors
+206466CD 00000001
+
+// Shelton Benjamin
+Author = libretro-database contributors / original PSP cheat authors
+206466FC 00000001
+
+// Stone Cold (Steve Austin)
+Author = libretro-database contributors / original PSP cheat authors
+206466D0 00000001
+
+// Ted Dibiase (T-Shirt)
+Author = libretro-database contributors / original PSP cheat authors
+206466E2 00000001
+
+// Terry Funk
+Author = libretro-database contributors / original PSP cheat authors
+206466D2 00000001
+
+// The Rock
+Author = libretro-database contributors / original PSP cheat authors
+206466CF 00000001
+
+// Triple H (Street Clothes)
+Author = libretro-database contributors / original PSP cheat authors
+206466D9 00000001
+
+// WCW Belt
+Author = libretro-database contributors / original PSP cheat authors
+20646701 00000001
+
+// William Regal
+Author = libretro-database contributors / original PSP cheat authors
+206466F7 00000001
+
+// WWE Tag Team Belt
+Author = libretro-database contributors / original PSP cheat authors
+20646704 00000001
+
+// Vince Mcmahon (Suit)
+Author = libretro-database contributors / original PSP cheat authors
+206466DB 00000001
+
+// Vince Mcmahon (Wresting)
+Author = libretro-database contributors / original PSP cheat authors
+206466D1 00000001
+
+// Vladimir Kozlov
+Author = libretro-database contributors / original PSP cheat authors
+206466F8 00000001
+
+// Yoshi Tatsu
+Author = libretro-database contributors / original PSP cheat authors
+206466FA 00000001
+
+// Zack Ryder
+Author = libretro-database contributors / original PSP cheat authors
+206466FB 00000001
+
+// Horn Swoggle
+Author = libretro-database contributors / original PSP cheat authors
+205B5C29 00000001
+
+// Hurricane
+Author = libretro-database contributors / original PSP cheat authors
+205B89D5 00000001
+
+// Jerry Lawler
+Author = libretro-database contributors / original PSP cheat authors
+205B43E1 00000001
+
+// Justin Robert
+Author = libretro-database contributors / original PSP cheat authors
+205B5789 00000001
+
+// Michael Cole
+Author = libretro-database contributors / original PSP cheat authors
+205B4225 00000001
+
+// Motion Test 1
+Author = libretro-database contributors / original PSP cheat authors
+205B2821 00000001
+
+// Motion Test 2
+Author = libretro-database contributors / original PSP cheat authors
+205B28B5 00000001
+
+// Motion Test 3
+Author = libretro-database contributors / original PSP cheat authors
+205B3445 00000001
+
+// Referee
+Author = libretro-database contributors / original PSP cheat authors
+205B7ED9 00000001
+
+// Stephanie Mcmahon
+Author = libretro-database contributors / original PSP cheat authors
+205B4069 00000001
+
+// Theodore Long
+Author = libretro-database contributors / original PSP cheat authors
+205B56F5 00000001
+
+// The Great Khali
+Author = libretro-database contributors / original PSP cheat authors
+205B4B65 00000001
+
+// Tony Chimmel
+Author = libretro-database contributors / original PSP cheat authors
+205B581D 00000001
+
+// WWE Doctor
+Author = libretro-database contributors / original PSP cheat authors
+205B70F9 00000001

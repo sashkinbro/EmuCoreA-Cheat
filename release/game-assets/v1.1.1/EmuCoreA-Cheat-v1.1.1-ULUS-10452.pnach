@@ -1,0 +1,492 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10452
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS v1 [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E001003C 00279B0C
+20279B0C 2402001E
+
+// 60 FPS v1
+Author = libretro-database contributors / original PSP cheat authors
+E001001E 00279B0C
+20279B0C 2402003C
+
+// AI Disable
+Author = libretro-database contributors / original PSP cheat authors
+205F74A0 24020000
+
+// AI Enable
+Author = libretro-database contributors / original PSP cheat authors
+205F74A0 2C420001
+
+// Air Walker
+Author = libretro-database contributors / original PSP cheat authors
+60399EB0 C2B5E2DF
+00020001 00000114
+
+// All Characters Available
+Author = libretro-database contributors / original PSP cheat authors
+20218CBC 24020001
+20218CC0 24020001
+
+// Alternate Attire: JBL
+Author = libretro-database contributors / original PSP cheat authors
+10542FD6 00000001
+
+// Alternate Attire: Jericho
+Author = libretro-database contributors / original PSP cheat authors
+10542FD5 00000001
+
+// Alternate Attire: Randy Orton
+Author = libretro-database contributors / original PSP cheat authors
+10542FD8 00000001
+
+// Alternate Attire: Shawn Michael's
+Author = libretro-database contributors / original PSP cheat authors
+10542FD7 00000001
+
+// Alternate Attire: Shawn Michael's (Shirt)
+Author = libretro-database contributors / original PSP cheat authors
+10542FD4 00000001
+
+// Attribute Mod [Carrer]
+Author = libretro-database contributors / original PSP cheat authors
+0044A3B8 00000063
+0044A3B9 00000063
+0044A3BA 00000063
+0044A3BB 00000063
+0044A3BC 00000063
+0044A3BD 00000063
+0044A3BE 00000063
+0044A3BF 00000063
+
+// Briefcase Bar Always Empty
+Author = libretro-database contributors / original PSP cheat authors
+60379354 00000000
+00020001 00000060
+60399EB0 C2B5E2DF
+00020001 00000114
+
+// Briefcase Bar Always Full
+Author = libretro-database contributors / original PSP cheat authors
+60379354 FFFFFFFF
+00020001 00000060
+
+// Can't Pin Fall
+Author = libretro-database contributors / original PSP cheat authors
+603797E4 00000001
+00020001 00000064
+
+// Champion Of Champions Championship
+Author = libretro-database contributors / original PSP cheat authors
+10542FE7 00000001
+
+// Crowd Reaction
+Author = libretro-database contributors / original PSP cheat authors
+0044A3CD 000000
+
+// Infinite Finisher
+Author = libretro-database contributors / original PSP cheat authors
+605443CC 3F800000
+00020001 000006D4
+
+// Interveiw Space Brawl
+Author = libretro-database contributors / original PSP cheat authors
+10542FE3 00000001
+
+// Iron Man Match - 99 Wins
+Author = libretro-database contributors / original PSP cheat authors
+0039CE94 00000063
+
+// Locker Room Brawl
+Author = libretro-database contributors / original PSP cheat authors
+10542FE2 00000001
+
+// Max Attributes For Batista
+Author = libretro-database contributors / original PSP cheat authors
+204406B0 63636363
+204406B4 63636363
+204406B8 63636363
+204406BC 63636363
+
+// Max Attributes For CAW 1
+Author = libretro-database contributors / original PSP cheat authors
+2044A3C4 63636363
+2044A3C0 63636363
+2044A3BC 63636363
+2044A3B8 63636363
+
+// Max Attributes For CAW 1 v2
+Author = libretro-database contributors / original PSP cheat authors
+0044A3B8 00000063
+0044A3B9 00000063
+0044A3BA 00000063
+0044A3BB 00000063
+0044A3BC 00000063
+0044A3BD 00000063
+0044A3BE 00000063
+0044A3BF 00000063
+
+// Max Attributes For CAW 2
+Author = libretro-database contributors / original PSP cheat authors
+2044BC7C 63636363
+2044BC78 63636363
+2044BC74 63636363
+2044BC70 63636363
+
+// Max Attributes For CAW 2 v2
+Author = libretro-database contributors / original PSP cheat authors
+0044A3C0 00000063
+0044A3C1 00000063
+0044A3C2 00000063
+0044A3C3 00000063
+0044A3C4 00000063
+0044A3C5 00000063
+0044A3C6 00000063
+0044A3C7 00000063
+
+// Max Attributes For CAW 3
+Author = libretro-database contributors / original PSP cheat authors
+2044D534 63636363
+2044D530 63636363
+2044D52C 63636363
+2044D528 63636363
+
+// Max Attributes For CAW 3 v3
+Author = libretro-database contributors / original PSP cheat authors
+0044A3C8 00000063
+0044A3C9 00000063
+0044A3CA 00000063
+0044A3CB 00000063
+0044A3CC 00000063
+0044A3CD 00000063
+0044A3CE 00000063
+0044A3CF 00000063
+
+// Max Attributes For CAW 4
+Author = libretro-database contributors / original PSP cheat authors
+2044EDEC 63636363
+2044EDE8 63636363
+2044EDE4 63636363
+2044EDE0 63636363
+
+// Max Attributes For CAW 4 v4
+Author = libretro-database contributors / original PSP cheat authors
+0044A3D0 00000063
+0044A3D1 00000063
+0044A3D2 00000063
+0044A3D3 00000063
+0044A3D4 00000063
+0044A3D5 00000063
+0044A3D6 00000063
+0044A3D7 00000063
+
+// Max Attributes For CAW 5
+Author = libretro-database contributors / original PSP cheat authors
+204506A4 63636363
+204506A0 63636363
+2045069C 63636363
+20450698 63636363
+
+// Max Attributes For CAW 5 v5
+Author = libretro-database contributors / original PSP cheat authors
+0044A3D8 00000063
+0044A3D9 00000063
+0044A3DA 00000063
+0044A3DB 00000063
+0044A3DC 00000063
+0044A3DD 00000063
+0044A3DE 00000063
+0044A3DF 00000063
+
+// Max Attributes For CAW 6
+Author = libretro-database contributors / original PSP cheat authors
+20451F5C 63636363
+20451F58 63636363
+20451F54 63636363
+20451F50 63636363
+
+// Max Attributes For Chris Jericho
+Author = libretro-database contributors / original PSP cheat authors
+2043CDD0 63636363
+2043CDD4 63636363
+2043CDD8 63636363
+2043CDDC 63636363
+
+// Max Attributes For Edge
+Author = libretro-database contributors / original PSP cheat authors
+2043D3E8 63636363
+2043D3EC 63636363
+2043D3F0 63636363
+2043D3F4 63636363
+
+// Max Attributes For John Cena
+Author = libretro-database contributors / original PSP cheat authors
+2043F15C 63636363
+2043F160 63636363
+2043F164 63636363
+2043F168 63636363
+
+// Max Attributes For Kane
+Author = libretro-database contributors / original PSP cheat authors
+2043D0DC 63636363
+2043D0E0 63636363
+2043D0E4 63636363
+2043D0E8 63636363
+
+// Max Attributes For Randy Orton
+Author = libretro-database contributors / original PSP cheat authors
+204407B4 63636363
+204407B8 63636363
+204407BC 63636363
+204407C0 63636363
+
+// Max Attributes For Shawn Michaels
+Author = libretro-database contributors / original PSP cheat authors
+2043F774 63636363
+2043F778 63636363
+2043F77C 63636363
+2043F780 63636363
+
+// Max Attributes For The Rock
+Author = libretro-database contributors / original PSP cheat authors
+2043C9C0 63636363
+2043C9C4 63636363
+2043C9C8 63636363
+2043C9CC 63636363
+
+// Max Attributes For Triple H
+Author = libretro-database contributors / original PSP cheat authors
+2043CBC8 63636363
+2043CBCC 63636363
+2043CBD0 63636363
+2043CBD4 63636363
+
+// Max Attributes For Undertaker
+Author = libretro-database contributors / original PSP cheat authors
+2043CCCC 63636363
+2043CCD0 63636363
+2043CCD4 63636363
+2043CCD8 63636363
+
+// Maximum Attribute Modifiers CAW 1
+Author = libretro-database contributors / original PSP cheat authors
+0044A3C0 00000063
+0044A3C1 00000063
+0044A3C2 00000063
+0044A3C3 00000063
+0044A3C4 00000063
+0044A3C5 00000063
+0044A3C6 00000063
+0044A3C7 00000063
+
+// Max Career Stats
+Author = libretro-database contributors / original PSP cheat authors
+202133DC 3C016363
+202133E0 34216363
+202133E4 AC410000
+202133E8 AC410004
+
+// Office Stage Brawl
+Author = libretro-database contributors / original PSP cheat authors
+10542FE1 00000001
+
+// One-Count Pin Fall
+Author = libretro-database contributors / original PSP cheat authors
+603797E4 00000003
+00020001 00000064
+10000068 00000003
+
+// Show Modifier
+Author = libretro-database contributors / original PSP cheat authors
+0044A3C9 000000
+
+// Unlock All
+Author = libretro-database contributors / original PSP cheat authors
+20542FD4 11111111
+20542FD8 11111111
+20542FDC 11111111
+20542FE0 11111111
+20542FE4 11111111
+20542FE8 11111111
+20542FEC 11111111
+20542FF0 11111111
+20542FF4 11111111
+20542FF8 11111111
+20542FFC 11111111
+
+// Unlock All Characters, Stages & Attires
+Author = libretro-database contributors / original PSP cheat authors
+00542FEE 00000001
+00542FEF 00000001
+00542FF0 00000001
+00542FEB 00000001
+00542FF1 00000001
+00542FE9 00000001
+00542FF3 00000001
+00542FF2 00000001
+00542FEA 00000001
+00542FE7 00000001
+00542FE4 00000001
+00542FE1 00000001
+00542FE2 00000001
+00542FE3 00000001
+00542FD8 00000001
+00542FD4 00000001
+00542FD7 00000001
+00542FD5 00000001
+00542FD6 00000001
+
+// Unlock Everything
+Author = libretro-database contributors / original PSP cheat authors
+0043CBA1 00000001
+20542FD0 01010101
+20542FD4 01010101
+20542FD8 01010101
+20542FDC 01010101
+20542FE0 01010101
+20542FE4 01010101
+20542FE8 01010101
+20542FEC 01010101
+20542FF0 01010101
+
+// Doctor
+Author = libretro-database contributors / original PSP cheat authors
+00444FA9 00000001
+
+// Doctor v2
+Author = libretro-database contributors / original PSP cheat authors
+209D3CE8 000000E7
+
+// Dusty Rhodes
+Author = libretro-database contributors / original PSP cheat authors
+10542FF0 00000001
+
+// Untitled cheat 60
+Author = libretro-database contributors / original PSP cheat authors
+10542FEF 00000001
+
+// Eve
+Author = libretro-database contributors / original PSP cheat authors
+10542FE9 00000001
+
+// Ezikiel Jackson
+Author = libretro-database contributors / original PSP cheat authors
+10542FEB 00000001
+
+// Green Model
+Author = libretro-database contributors / original PSP cheat authors
+10542FF2 00000001
+
+// Jerry Lawler
+Author = libretro-database contributors / original PSP cheat authors
+00440071 00000001
+
+// Jerry Lawler v2
+Author = libretro-database contributors / original PSP cheat authors
+209D3CE8 00000099
+
+// Jim Ross
+Author = libretro-database contributors / original PSP cheat authors
+004413BD 00000001
+
+// Jim Ross v2
+Author = libretro-database contributors / original PSP cheat authors
+209D3CE8 000000AC
+
+// Justin Roberts
+Author = libretro-database contributors / original PSP cheat authors
+004422F9 00000001
+
+// Justin Roberts v2
+Author = libretro-database contributors / original PSP cheat authors
+209D3CE8 000000BB
+
+// Lilian Garcia
+Author = libretro-database contributors / original PSP cheat authors
+00442501 00000001
+
+// Lilian Garcia v2
+Author = libretro-database contributors / original PSP cheat authors
+209D3CE8 000000BD
+
+// Matt Stryker
+Author = libretro-database contributors / original PSP cheat authors
+00444B99 00000001
+
+// Matt Striker v2
+Author = libretro-database contributors / original PSP cheat authors
+209D3CE8 000000E3
+
+// Michael Cole
+Author = libretro-database contributors / original PSP cheat authors
+0043FD65 00000001
+
+// Michael Cole v2
+Author = libretro-database contributors / original PSP cheat authors
+209D3CE8 00000096
+
+// Million Dollarman
+Author = libretro-database contributors / original PSP cheat authors
+10542FF1 00000001
+
+// Red Model
+Author = libretro-database contributors / original PSP cheat authors
+10542FF3 00000001
+
+// Referee
+Author = libretro-database contributors / original PSP cheat authors
+00446809 00000001
+
+// Referee v2
+Author = libretro-database contributors / original PSP cheat authors
+209D3CE8 000000FF
+
+// Shane Mcmahon
+Author = libretro-database contributors / original PSP cheat authors
+0043FF6D 00000001
+
+// Shane Mc Mahon v2
+Author = libretro-database contributors / original PSP cheat authors
+209D3CE8 00000098
+
+// Stone Cold
+Author = libretro-database contributors / original PSP cheat authors
+0043CBA1 00000001
+
+// Tazz
+Author = libretro-database contributors / original PSP cheat authors
+00440279 00000001
+
+// Tazz v2
+Author = libretro-database contributors / original PSP cheat authors
+209D3CE8 0000009B
+
+// The Dirt Sheet Arena
+Author = libretro-database contributors / original PSP cheat authors
+10542FE4 00000001
+
+// The Rock
+Author = libretro-database contributors / original PSP cheat authors
+10542FEE 00000001
+
+// Todd Grisham
+Author = libretro-database contributors / original PSP cheat authors
+004496C1 00000001
+
+// Todd Grisham v2
+Author = libretro-database contributors / original PSP cheat authors
+209D3CE8 0000012D
+
+// Tony Chimmel
+Author = libretro-database contributors / original PSP cheat authors
+004423FD 00000001
+
+// Tony Chimmel v2
+Author = libretro-database contributors / original PSP cheat authors
+209D3CE8 000000BC
+
+// Trish Stratus
+Author = libretro-database contributors / original PSP cheat authors
+10542FEA 00000001

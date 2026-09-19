@@ -1,0 +1,413 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10282
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Foods
+Author = libretro-database contributors / original PSP cheat authors
+0045942C 00000064
+0045942E 00000064
+00459430 00000064
+00459432 00000064
+00459434 00000064
+00459436 00000064
+00459438 00000064
+0045943A 00000064
+0045943C 00000064
+0045943E 00000064
+00459440 00000064
+00459442 00000064
+00459444 00000064
+00459446 00000064
+00459448 00000064
+0045944C 00000064
+00459450 00000064
+
+// Black Bat Fang 10
+Author = libretro-database contributors / original PSP cheat authors
+004593AC 0000000A
+
+// Inactive Root 1 Pwr Lvl.
+Author = libretro-database contributors / original PSP cheat authors
+00459170 00000005
+
+// Inactive Root 2 Pwr Lvl.
+Author = libretro-database contributors / original PSP cheat authors
+00459179 00000005
+
+// Inactive Root 3 Pwr Lvl.
+Author = libretro-database contributors / original PSP cheat authors
+00459182 00000004
+
+// Inactive Root 6 Pwr Lvl
+Author = libretro-database contributors / original PSP cheat authors
+0045919D 00000002
+
+// Inf. Corridor
+Author = libretro-database contributors / original PSP cheat authors
+10459332 0000020B
+
+// Inf. 10F Throne Room
+Author = libretro-database contributors / original PSP cheat authors
+1045934A 0000020B
+
+// Inf. 15F Crystal Room
+Author = libretro-database contributors / original PSP cheat authors
+1045934C 0000020B
+
+// Inf. 1D Sm
+Author = libretro-database contributors / original PSP cheat authors
+10459334 0000020B
+
+// Inf. 1F Goblin Rm.
+Author = libretro-database contributors / original PSP cheat authors
+10459340 0000020B
+
+// Inf. 20F Hell Room
+Author = libretro-database contributors / original PSP cheat authors
+1045934E 0000020B
+
+// Inf. 2D Sm
+Author = libretro-database contributors / original PSP cheat authors
+10459336 0000020B
+
+// Inf. 2F Court
+Author = libretro-database contributors / original PSP cheat authors
+10459342 0000020B
+
+// Inf. 4D Sm
+Author = libretro-database contributors / original PSP cheat authors
+10459338 0000020B
+
+// Inf. 4F L. Parlor
+Author = libretro-database contributors / original PSP cheat authors
+10459344 0000020B
+
+// Inf. 8F LOne Isle
+Author = libretro-database contributors / original PSP cheat authors
+10459348 0000020B
+
+// Inf. Alter
+Author = libretro-database contributors / original PSP cheat authors
+1045937A 0000020B
+
+// Inf. Bat Leg Meat
+Author = libretro-database contributors / original PSP cheat authors
+10459432 00000108
+
+// Inf. Beast Fang
+Author = libretro-database contributors / original PSP cheat authors
+004593C0 00000065
+
+// Inf. Bedroom
+Author = libretro-database contributors / original PSP cheat authors
+1045935C 0000020B
+
+// Inf. Black Bat Fang
+Author = libretro-database contributors / original PSP cheat authors
+004593AC 000001F4
+
+// Inf. Blue Bat Fang
+Author = libretro-database contributors / original PSP cheat authors
+004593AE 000000C9
+
+// Inf. Cave cat > Claw
+Author = libretro-database contributors / original PSP cheat authors
+104593C4 00000064
+
+// Inf. Cave cat > Liver
+Author = libretro-database contributors / original PSP cheat authors
+1045943C 00000108
+
+// Inf. Chapel
+Author = libretro-database contributors / original PSP cheat authors
+10459378 0000020B
+
+// Inf. Court
+Author = libretro-database contributors / original PSP cheat authors
+10459372 0000020B
+
+// Inf. Dragon Claw
+Author = libretro-database contributors / original PSP cheat authors
+004593CC 00000065
+
+// Inf. Dragon Essence
+Author = libretro-database contributors / original PSP cheat authors
+10459450 00000108
+
+// Inf. Dragon Meat
+Author = libretro-database contributors / original PSP cheat authors
+1045944E 00000108
+1045942E 00000108
+
+// Inf. Dried Meat
+Author = libretro-database contributors / original PSP cheat authors
+10459430 00000108
+
+// Inf. Dried VEggies
+Author = libretro-database contributors / original PSP cheat authors
+1045942C 000000FC
+
+// Inf. Fountain
+Author = libretro-database contributors / original PSP cheat authors
+1045936A 0000020B
+
+// Inf. Fruit Tree Rm
+Author = libretro-database contributors / original PSP cheat authors
+10459368 0000020B
+
+// Inf. Griffon Beak
+Author = libretro-database contributors / original PSP cheat authors
+004593D0 00000065
+
+// Inf. Griffon Claw
+Author = libretro-database contributors / original PSP cheat authors
+104593C8 00000064
+
+// Inf. Griffon Meat
+Author = libretro-database contributors / original PSP cheat authors
+1045944C 00000108
+
+// Inf. Guest Room
+Author = libretro-database contributors / original PSP cheat authors
+1045935A 0000020B
+
+// Inf. Hell cat > Claw
+Author = libretro-database contributors / original PSP cheat authors
+004593C6 00000065
+
+// Inf. Hell Essence
+Author = libretro-database contributors / original PSP cheat authors
+10459438 00000108
+
+// Inf. Hellcat > Tail
+Author = libretro-database contributors / original PSP cheat authors
+1045943E 00000108
+
+// Inf. Hellhound Fang
+Author = libretro-database contributors / original PSP cheat authors
+004593B6 00000065
+
+// Inf. I Corridor
+Author = libretro-database contributors / original PSP cheat authors
+1045932C 0000020B
+
+// Inf. Iron Keys
+Author = libretro-database contributors / original PSP cheat authors
+004594AD 00000009
+
+// Inf. Iron Treasure Rm
+Author = libretro-database contributors / original PSP cheat authors
+10459364 0000020B
+
+// Inf. Jail
+Author = libretro-database contributors / original PSP cheat authors
+10459360 0000020B
+
+// Inf. L Corridor
+Author = libretro-database contributors / original PSP cheat authors
+1045932E 0000020B
+
+// Inf. Library
+Author = libretro-database contributors / original PSP cheat authors
+10459370 0000020B
+
+// Inf. Lizard Fang
+Author = libretro-database contributors / original PSP cheat authors
+004593BE 00000065
+
+// Inf. Lizard Leg
+Author = libretro-database contributors / original PSP cheat authors
+10459446 00000108
+
+// Inf. M Rm Lft D
+Author = libretro-database contributors / original PSP cheat authors
+1045933C 0000020B
+
+// Inf. M Rm Mid D
+Author = libretro-database contributors / original PSP cheat authors
+1045933E 0000020B
+
+// Inf. M Rm Rt D
+Author = libretro-database contributors / original PSP cheat authors
+1045933A 0000020B
+
+// Inf. Magic Essence
+Author = libretro-database contributors / original PSP cheat authors
+10459444 00000108
+
+// Inf. Magic Room
+Author = libretro-database contributors / original PSP cheat authors
+10459374 0000020B
+
+// Inf. Magic Wallpaper
+Author = libretro-database contributors / original PSP cheat authors
+10459356 0000020B
+
+// Inf. Magic Wolf Fang
+Author = libretro-database contributors / original PSP cheat authors
+004593BC 00000065
+
+// Inf. Marble Wallpaper
+Author = libretro-database contributors / original PSP cheat authors
+10459354 00000218
+
+// Inf. Mongrel Fang
+Author = libretro-database contributors / original PSP cheat authors
+004593B2 00000065
+
+// Inf. Mongrel Liver
+Author = libretro-database contributors / original PSP cheat authors
+10459434 00000108
+
+// Inf. Nekomata Claw
+Author = libretro-database contributors / original PSP cheat authors
+104593CA 000001F8
+
+// Inf. Parlor
+Author = libretro-database contributors / original PSP cheat authors
+10459376 0000020B
+
+// Inf. Recovery Rm
+Author = libretro-database contributors / original PSP cheat authors
+1045936C 0000020B
+
+// Inf. Red Bat Fang
+Author = libretro-database contributors / original PSP cheat authors
+004593B0 00000064
+
+// Inf. S Wolf ThroAt
+Author = libretro-database contributors / original PSP cheat authors
+10459442 00000108
+
+// Inf. Silver Keys
+Author = libretro-database contributors / original PSP cheat authors
+004594AE 00000005
+
+// Inf. Silver Treasure Rm
+Author = libretro-database contributors / original PSP cheat authors
+10459366 000003E7
+
+// Inf. Silver Wolf Fang
+Author = libretro-database contributors / original PSP cheat authors
+004593BA 00000065
+
+// Inf. Snake Fang
+Author = libretro-database contributors / original PSP cheat authors
+004593CE 00000065
+
+// Inf. Snake Oil
+Author = libretro-database contributors / original PSP cheat authors
+1045944A 00000108
+
+// Inf. Snake Slice
+Author = libretro-database contributors / original PSP cheat authors
+10459448 00000108
+
+// Inf. Stair
+Author = libretro-database contributors / original PSP cheat authors
+1045936E 0000020B
+
+// Inf. Stone Keys
+Author = libretro-database contributors / original PSP cheat authors
+004594AC 00000009
+
+// Inf. Stone Treasure Rm
+Author = libretro-database contributors / original PSP cheat authors
+10459362 0000020B
+
+// Inf. Stone Wallpaper
+Author = libretro-database contributors / original PSP cheat authors
+10459352 0000020B
+
+// Inf. Storage Room
+Author = libretro-database contributors / original PSP cheat authors
+10459358 00000218
+
+// Inf. Study
+Author = libretro-database contributors / original PSP cheat authors
+1045935E 00000386
+
+// Inf. T Corridor
+Author = libretro-database contributors / original PSP cheat authors
+10459330 0000020B
+
+// Inf. Wild cat > Claw
+Author = libretro-database contributors / original PSP cheat authors
+104593C2 000001F4
+
+// Inf. Wild cat > Tail
+Author = libretro-database contributors / original PSP cheat authors
+1045943A 00000108
+
+// Inf. Wild Dog Fang
+Author = libretro-database contributors / original PSP cheat authors
+004593B4 00000065
+
+// Inf. Wild Dog Flank
+Author = libretro-database contributors / original PSP cheat authors
+10459436 00000108
+
+// Inf. Wolf Fang
+Author = libretro-database contributors / original PSP cheat authors
+004593B8 00000065
+
+// Inf. Wolf Fillet
+Author = libretro-database contributors / original PSP cheat authors
+10459440 00000108
+
+// Inf. Woodgrain Wallpaper
+Author = libretro-database contributors / original PSP cheat authors
+10459350 00000218
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+10472650 0000270F
+004594D1 0000000F
+
+// Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+00472656 000000C3
+00472657 00000009
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+004594D2 00000027
+
+// Max MP
+Author = libretro-database contributors / original PSP cheat authors
+004594D4 0000000F
+004594D5 00000027
+
+// Number Of Kills
+Author = libretro-database contributors / original PSP cheat authors
+20471AF4 00030D3B
+
+// Strengthening Materials
+Author = libretro-database contributors / original PSP cheat authors
+004593AC 00000064
+004593AE 00000064
+004593B0 00000064
+004593B2 00000064
+004593B4 00000064
+004593B6 00000064
+004593B8 00000064
+004593BA 00000064
+004593BC 00000064
+004593BE 00000064
+004593C0 00000064
+004593C2 00000064
+004593C4 00000064
+004593C6 00000064
+004593C8 00000064
+004593CC 00000064
+004593D0 00000064
+
+// Unlimited Money
+Author = libretro-database contributors / original PSP cheat authors
+104594B4 0000FFFF
+
+// Unlmit Keys
+Author = libretro-database contributors / original PSP cheat authors
+004594AC 00000063
+004594AD 00000063
+004594AE 00000063

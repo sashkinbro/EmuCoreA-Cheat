@@ -1,0 +1,2084 @@
+# EmuCoreA PSP cheat pack
+# Serial: UCES-00995
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 9999 Ka-Ching
+Author = libretro-database contributors / original PSP cheat authors
+10539E0C 0000270F
+
+// Aleacion Dura
+Author = libretro-database contributors / original PSP cheat authors
+10539ABC 00000063
+
+// All Inf. Lvl1-4 Materials
+Author = libretro-database contributors / original PSP cheat authors
+00539A74 00000063
+00539A78 00000063
+00539A7E 00000063
+00539A80 00000063
+00539A84 00000063
+00539A88 00000063
+00539A8C 00000063
+00539A92 00000063
+00539A98 00000063
+00539A9C 00000063
+00539AA0 00000063
+00539AA4 00000063
+
+// All Item
+Author = libretro-database contributors / original PSP cheat authors
+40539A0C 00120001
+00010101 00000000
+40539A74 00080001
+0001015A 00000000
+40539A98 00100001
+40539AD8 00060001
+40539B48 000A0001
+40539B74 00110001
+40539BC0 00090001
+40539BE8 00080001
+40539C10 00080001
+40539C38 00080001
+
+// All Item (4)
+Author = libretro-database contributors / original PSP cheat authors
+20539BCC 00010063
+20539BD0 00010063
+20539BD4 00010063
+20539BD8 00010063
+20539BDC 00010063
+20539BE0 00010063
+20539BE8 00010063
+20539BEC 00010063
+20539BF0 00010063
+20539BF4 00010063
+20539BF8 00010063
+20539BFC 00010063
+20539C00 00010063
+20539C04 00010063
+20539C10 00010063
+20539C18 00010063
+20539C20 00010063
+20539C24 00010063
+
+// All Item (5)
+Author = libretro-database contributors / original PSP cheat authors
+20539C28 00010063
+20539C2C 00010063
+20539C38 00010063
+20539C3C 00010063
+20539C40 00010063
+20539C44 00010063
+20539C48 00010063
+20539C4C 00010063
+20539C50 00010063
+20539C54 00010063
+20539C60 00010063
+20539C64 00010063
+20539C68 00010063
+20539C6C 00010063
+20539C70 00010063
+20539C78 00010063
+20539C88 00010063
+20539C8C 00010063
+
+// All Item (6)
+Author = libretro-database contributors / original PSP cheat authors
+20539C90 00010063
+20539C94 00010063
+20539C98 00010063
+20539C9C 00010063
+20539CA0 00010063
+20539CA4 00010063
+20539CA8 00010063
+20539A08 00010063
+20539A0C 00010063
+20539A10 00010063
+20539A14 00010063
+20539A18 00010063
+20539A1C 00010063
+20539A20 00010063
+20539A24 00010063
+20539A2C 00010063
+20539A34 00010063
+20539A38 00010063
+
+// All Item (7)
+Author = libretro-database contributors / original PSP cheat authors
+20539A3C 00010063
+20539A40 00010063
+20539A44 00010063
+20539A48 00010063
+20539A4C 00010063
+20539A50 00010063
+20539CC4 00010063
+20539CE8 00010063
+20539CEC 00010063
+20539CF0 00010063
+
+// All Items
+Author = libretro-database contributors / original PSP cheat authors
+40539A0C 00120001
+00010101 00000000
+40539A74 00080001
+0001015A 00000000
+40539A98 00100001
+40539AD8 00060001
+40539B48 000A0001
+40539B74 00110001
+40539BC0 00090001
+40539BE8 00080001
+40539C10 00080001
+40539C38 00080001
+
+// All Meat
+Author = libretro-database contributors / original PSP cheat authors
+20539A74 00010162
+20539A78 00010162
+20539A7C 00010162
+20539A80 00010162
+
+// All Miracles
+Author = libretro-database contributors / original PSP cheat authors
+00539A1C 00000001
+00539A1E 00000001
+00539A1A 00000001
+00539A18 00000001
+00539A20 00000001
+00539A22 00000001
+00539A24 00000001
+00539A26 00000001
+
+// All Stone
+Author = libretro-database contributors / original PSP cheat authors
+20539A84 00010162
+20539A88 00010162
+20539A8C 00010162
+20539A90 00010162
+
+// Alliage: Magnifique
+Author = libretro-database contributors / original PSP cheat authors
+20539AC4 00010162
+
+// Alliage: Mediocre
+Author = libretro-database contributors / original PSP cheat authors
+20539AB8 00010162
+
+// Alliage: Robuste
+Author = libretro-database contributors / original PSP cheat authors
+20539ABC 00010162
+
+// Alliage: Super Alliage
+Author = libretro-database contributors / original PSP cheat authors
+20539AC0 00010162
+
+// ARC: Ancien
+Author = libretro-database contributors / original PSP cheat authors
+20539BD4 00010162
+
+// ARC: Divin Bob
+Author = libretro-database contributors / original PSP cheat authors
+20539BDC 00010162
+
+// ARC: Feu yumipon
+Author = libretro-database contributors / original PSP cheat authors
+20539BE0 00010162
+
+// ARC: Geant Touchetas
+Author = libretro-database contributors / original PSP cheat authors
+20539BD8 00010162
+
+// Arco Divino Kami
+Author = libretro-database contributors / original PSP cheat authors
+20539BDC 00010001
+
+// Arme: Epee Ardente
+Author = libretro-database contributors / original PSP cheat authors
+20539B80 00010162
+
+// Arme: Epee De Sommeil
+Author = libretro-database contributors / original PSP cheat authors
+20539B7C 00010162
+
+// Arme: Epee De Tatepon
+Author = libretro-database contributors / original PSP cheat authors
+20539B94 00010162
+
+// Arme: Epee Divine Bob
+Author = libretro-database contributors / original PSP cheat authors
+20539B8C 00010162
+
+// Arme: Epee Geante
+Author = libretro-database contributors / original PSP cheat authors
+20539B88 00010162
+
+// Arme: Fux De Gong
+Author = libretro-database contributors / original PSP cheat authors
+20539B90 00010162
+
+// Arme: Hache Ancienne
+Author = libretro-database contributors / original PSP cheat authors
+20539B84 00010162
+
+// Bastante Dinero
+Author = libretro-database contributors / original PSP cheat authors
+10539E0C 00018696
+
+// Bois: Branche Banale
+Author = libretro-database contributors / original PSP cheat authors
+20539A98 00010162
+
+// Bois: Cerisier
+Author = libretro-database contributors / original PSP cheat authors
+20539A9C 00010162
+
+// Bois: Hinoki
+Author = libretro-database contributors / original PSP cheat authors
+20539AA0 00010162
+
+// Bois: Super C Dre
+Author = libretro-database contributors / original PSP cheat authors
+20539AA4 00010162
+
+// Bouclier: Acier
+Author = libretro-database contributors / original PSP cheat authors
+20539BA0 00010162
+
+// Bouclier: Ancien
+Author = libretro-database contributors / original PSP cheat authors
+20539BAC 00010162
+
+// Bouclier: Divin Bob
+Author = libretro-database contributors / original PSP cheat authors
+20539BB4 00010162
+
+// Bouclier: Geant Octogone
+Author = libretro-database contributors / original PSP cheat authors
+20539BB0 00010162
+
+// Bouclier: Glace
+Author = libretro-database contributors / original PSP cheat authors
+20539BA4 00010162
+
+// Bouclier: Ultra Lourd
+Author = libretro-database contributors / original PSP cheat authors
+20539BA8 00010162
+
+// Boussole Tordue
+Author = libretro-database contributors / original PSP cheat authors
+00539A2C 00000001
+00539A2E 00000001
+
+// Caballo Divino De Kami
+Author = libretro-database contributors / original PSP cheat authors
+20539C2C 00010001
+
+// Casco Divino De Kami
+Author = libretro-database contributors / original PSP cheat authors
+20539CA4 00010001
+
+// Casque: Beetleton
+Author = libretro-database contributors / original PSP cheat authors
+20539CF0 00010162
+
+// Cor: Ancien
+Author = libretro-database contributors / original PSP cheat authors
+20539C78 00010162
+
+// Cor: Divin Bob
+Author = libretro-database contributors / original PSP cheat authors
+20539C7C 00010162
+
+// Cuerno Divino De Kami
+Author = libretro-database contributors / original PSP cheat authors
+20539C7C 00010001
+
+// Dekapon's Andenken
+Author = libretro-database contributors / original PSP cheat authors
+20539AE8 00010001
+
+// Dream Meat
+Author = libretro-database contributors / original PSP cheat authors
+20539A7C 00010162
+
+// Easy Fever
+Author = libretro-database contributors / original PSP cheat authors
+00E4D874 00000009
+
+// Escudo Divino Kami
+Author = libretro-database contributors / original PSP cheat authors
+20539BB4 00010001
+
+// Espada Divina Kami
+Author = libretro-database contributors / original PSP cheat authors
+20539B8C 00010001
+
+// Hacha Divina De Kami
+Author = libretro-database contributors / original PSP cheat authors
+20539C54 00010001
+
+// Hallebarde: Ancien
+Author = libretro-database contributors / original PSP cheat authors
+20539BFC 00010162
+
+// Hallebarde: Dvin De Bob
+Author = libretro-database contributors / original PSP cheat authors
+20539C04 00010162
+
+// Hallebarde: Geante
+Author = libretro-database contributors / original PSP cheat authors
+20539C00 00010162
+
+// Have Dekapon's Memory
+Author = libretro-database contributors / original PSP cheat authors
+20539AE8 00000001
+20539AEA 00000001
+
+// Have Key Item: Bent Compass
+Author = libretro-database contributors / original PSP cheat authors
+20539A2C 00000001
+20539A2E 00000001
+
+// Have Key Item: Black Star
+Author = libretro-database contributors / original PSP cheat authors
+20539A3C 00000001
+20539A3E 00000001
+
+// Have Key Item: Blank Map
+Author = libretro-database contributors / original PSP cheat authors
+20539A28 00000001
+20539A2A 00000001
+
+// Have Key Item: Broken Sign
+Author = libretro-database contributors / original PSP cheat authors
+20539A38 00000001
+20539A3A 00000001
+
+// Have Key Item: ChakaChaka Song
+Author = libretro-database contributors / original PSP cheat authors
+20539A44 00000001
+20539A46 00000001
+
+// Have Key Item: Dark Palace Model
+Author = libretro-database contributors / original PSP cheat authors
+20539A40 00000001
+20539A42 00000001
+
+// Have Key Item: Dusky Crystal
+Author = libretro-database contributors / original PSP cheat authors
+20539A34 00000001
+20539A36 00000001
+
+// Have Key Item: Miracle Key
+Author = libretro-database contributors / original PSP cheat authors
+20539A24 00000001
+20539A26 00000001
+
+// Have Key Item: PonChaka Song
+Author = libretro-database contributors / original PSP cheat authors
+20539A50 00000001
+20539A52 00000001
+
+// Have Key Item: Ponpata Song
+Author = libretro-database contributors / original PSP cheat authors
+20539A30 00000001
+20539A32 00000001
+
+// Have Kibapon's Memory
+Author = libretro-database contributors / original PSP cheat authors
+20539AE4 00000001
+20539AE6 00000001
+
+// Have Megapon's Memory
+Author = libretro-database contributors / original PSP cheat authors
+20539AEC 00000001
+20539AEE 00000001
+
+// Have Tatepon's Memory
+Author = libretro-database contributors / original PSP cheat authors
+20539ADC 00000001
+20539ADE 00000001
+
+// Have Yaripon's Memory
+Author = libretro-database contributors / original PSP cheat authors
+20539AD8 00000001
+20539ADA 00000001
+
+// Have Yumipon's Memory
+Author = libretro-database contributors / original PSP cheat authors
+20539AE0 00000001
+20539AE2 00000001
+
+// Infinite Ka-Ching
+Author = libretro-database contributors / original PSP cheat authors
+20539E0C 0001869F
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+20539E0C 0001869F
+
+// Instant Fever
+Author = libretro-database contributors / original PSP cheat authors
+20155E8C 24030009
+20155E90 AE034314
+
+// Kibapon's Andenken
+Author = libretro-database contributors / original PSP cheat authors
+20539AE4 00010001
+
+// Lanza Divina Kami
+Author = libretro-database contributors / original PSP cheat authors
+20539B64 00010001
+
+// Legume: Carrotte
+Author = libretro-database contributors / original PSP cheat authors
+20539AAC 00010162
+
+// Legume: Champi
+Author = libretro-database contributors / original PSP cheat authors
+20539AB4 00010162
+
+// Legume: Chou
+Author = libretro-database contributors / original PSP cheat authors
+20539AA8 00010162
+
+// Legume: Potiron
+Author = libretro-database contributors / original PSP cheat authors
+20539AB0 00010162
+
+// Lv. 1-4 Eintopf x99
+Author = libretro-database contributors / original PSP cheat authors
+20539AC8 00010063
+20539ACC 00010063
+20539AD0 00010063
+20539AD4 00010063
+
+// Marteau: Ancien
+Author = libretro-database contributors / original PSP cheat authors
+20539C4C 00010162
+
+// Marteau: Tisseur De'r've
+Author = libretro-database contributors / original PSP cheat authors
+20539C48 00010162
+
+// Max Ka-Ching
+Author = libretro-database contributors / original PSP cheat authors
+20539E0C 000F423F
+
+// Megapon's Andenken
+Author = libretro-database contributors / original PSP cheat authors
+20539AEC 00010001
+
+// Mithril
+Author = libretro-database contributors / original PSP cheat authors
+20539A90 00010063
+
+// Pica Divina De Kami
+Author = libretro-database contributors / original PSP cheat authors
+20539C04 00010001
+
+// Pierre: Fer Renforce
+Author = libretro-database contributors / original PSP cheat authors
+20539A88 00010162
+
+// Pierre: Minerai De Titanium
+Author = libretro-database contributors / original PSP cheat authors
+20539A8C 00010162
+
+// Pierre: Mythirial
+Author = libretro-database contributors / original PSP cheat authors
+20539A90 00010162
+
+// Pierre: Pierre
+Author = libretro-database contributors / original PSP cheat authors
+20539A84 00010162
+
+// Ragout: Dieux
+Author = libretro-database contributors / original PSP cheat authors
+20539AD4 00010162
+
+// Ragout: Roi
+Author = libretro-database contributors / original PSP cheat authors
+20539AD0 00010162
+
+// Ragout: Savoureux
+Author = libretro-database contributors / original PSP cheat authors
+20539ACC 00010162
+
+// Ragout: Semelle
+Author = libretro-database contributors / original PSP cheat authors
+20539AC8 00010162
+
+// Speed Mod: Normal Game
+Author = libretro-database contributors / original PSP cheat authors
+20287F38 00000001
+
+// Speed Mod: Quicker Game
+Author = libretro-database contributors / original PSP cheat authors
+20287F38 00000000
+
+// Supercedro
+Author = libretro-database contributors / original PSP cheat authors
+20539AA4 00010063
+
+// Viande: De Reve
+Author = libretro-database contributors / original PSP cheat authors
+20539A7C 00010162
+
+// Viande: Dure
+Author = libretro-database contributors / original PSP cheat authors
+20539A74 00010162
+
+// Viande: Mystere
+Author = libretro-database contributors / original PSP cheat authors
+20539A80 00010162
+
+// Viande: Tendre
+Author = libretro-database contributors / original PSP cheat authors
+20539A78 00010162
+
+// Yaripons Andenken
+Author = libretro-database contributors / original PSP cheat authors
+20539AD8 00010001
+
+// Yumipons Andenken
+Author = libretro-database contributors / original PSP cheat authors
+20539AE0 00010001
+
+// 99 Ancient Axe
+Author = libretro-database contributors / original PSP cheat authors
+00539B84 00000063
+00539B86 00000063
+
+// 99 Ancient Bow
+Author = libretro-database contributors / original PSP cheat authors
+00539BD4 00000063
+00539BD6 00000063
+
+// 99 Ancient Halberd
+Author = libretro-database contributors / original PSP cheat authors
+00539BFC 00000063
+00539BFE 00000063
+
+// 99 Ancient Hammer
+Author = libretro-database contributors / original PSP cheat authors
+00539C4C 00000063
+00539C4E 00000063
+
+// 99 Ancient Helmet
+Author = libretro-database contributors / original PSP cheat authors
+00539C9C 00000063
+00539C9E 00000063
+
+// 99 Ancient Horn
+Author = libretro-database contributors / original PSP cheat authors
+00539C78 00000063
+00539C7A 00000063
+
+// 99 Ancient Horse
+Author = libretro-database contributors / original PSP cheat authors
+00539C24 00000063
+00539C26 00000063
+
+// 99 Ancient Shield
+Author = libretro-database contributors / original PSP cheat authors
+00539BAC 00000063
+00539BAE 00000063
+
+// 99 Ancient Spear
+Author = libretro-database contributors / original PSP cheat authors
+00539B5C 00000063
+00539B5E 00000063
+
+// 99 Awesome Alloy
+Author = libretro-database contributors / original PSP cheat authors
+00539AC0 00000063
+00539AC2 00000063
+
+// 99 Banal Branches
+Author = libretro-database contributors / original PSP cheat authors
+00539A98 00000063
+00539A9A 00000063
+
+// 99 Beetleton Helmet
+Author = libretro-database contributors / original PSP cheat authors
+00539CF0 00000063
+00539CF2 00000063
+
+// 99 Cherry Tree
+Author = libretro-database contributors / original PSP cheat authors
+00539A9C 00000063
+00539A9E 00000063
+
+// 99 Ciokin's Horn
+Author = libretro-database contributors / original PSP cheat authors
+00539C70 00000063
+00539C72 00000063
+
+// 99 Club
+Author = libretro-database contributors / original PSP cheat authors
+00539C38 00000063
+00539C3A 00000063
+
+// 99 Crimson Horse
+Author = libretro-database contributors / original PSP cheat authors
+00539C20 00000063
+00539C22 00000063
+
+// 99 Crying Carrot
+Author = libretro-database contributors / original PSP cheat authors
+00539AAC 00000063
+00539AAE 00000063
+
+// 99 Deep Impact
+Author = libretro-database contributors / original PSP cheat authors
+00539C28 00000063
+
+// 99 Deflecting Halberd
+Author = libretro-database contributors / original PSP cheat authors
+00539BF4 00000063
+00539BF6 00000063
+
+// 99 Dekapon Memory
+Author = libretro-database contributors / original PSP cheat authors
+00539AE8 00000001
+00539AEA 00000001
+
+// 99 Divine Bow
+Author = libretro-database contributors / original PSP cheat authors
+00539BDC 00000063
+00539BDE 00000063
+
+// 99 Divine Halberd
+Author = libretro-database contributors / original PSP cheat authors
+00539C04 00000063
+00539C06 00000063
+
+// 99 Divine Hammer
+Author = libretro-database contributors / original PSP cheat authors
+00539C54 00000063
+00539C56 00000063
+
+// 99 Divine Helmet
+Author = libretro-database contributors / original PSP cheat authors
+00539CA4 00000063
+00539CA6 00000063
+
+// 99 Divine Horn
+Author = libretro-database contributors / original PSP cheat authors
+00539C7C 00000063
+00539C7E 00000063
+
+// 99 Divine Horse
+Author = libretro-database contributors / original PSP cheat authors
+00539C2C 00000063
+00539C2E 00000063
+
+// 99 Divine Shield
+Author = libretro-database contributors / original PSP cheat authors
+00539BB4 00000063
+00539BB6 00000063
+
+// 99 Divine Spear
+Author = libretro-database contributors / original PSP cheat authors
+00539B64 00000063
+00539B66 00000063
+
+// 99 Divine Stew
+Author = libretro-database contributors / original PSP cheat authors
+00539AD4 00000063
+00539AD6 00000063
+
+// 99 Divine Sword
+Author = libretro-database contributors / original PSP cheat authors
+00539B8C 00000063
+00539B8E 00000063
+
+// 99 Dokanels Fang
+Author = libretro-database contributors / original PSP cheat authors
+00539B58 00000063
+00539B5A 00000063
+
+// 99 Dream Meat
+Author = libretro-database contributors / original PSP cheat authors
+00539A7E 00000063
+00539A80 00000063
+
+// 99 Dream Weaver
+Author = libretro-database contributors / original PSP cheat authors
+00539C48 00000063
+00539C4A 00000063
+
+// 99 Eyeball Cabbage
+Author = libretro-database contributors / original PSP cheat authors
+00539AA8 00000063
+00539AAA 00000063
+
+// 99 Fast Horse
+Author = libretro-database contributors / original PSP cheat authors
+00539C14 00000063
+00539C16 00000063
+
+// 99 Flame Bow
+Author = libretro-database contributors / original PSP cheat authors
+00539BCC 00000063
+00539BCE 00000063
+
+// 99 Flame Halberd
+Author = libretro-database contributors / original PSP cheat authors
+00539BF8 00000063
+00539BFA 00000063
+
+// 99 Flame Sword
+Author = libretro-database contributors / original PSP cheat authors
+00539B80 00000063
+00539B82 00000063
+
+// 99 Gaeen's Horn
+Author = libretro-database contributors / original PSP cheat authors
+00539C6C 00000063
+00539C6E 00000063
+
+// 99 Gnarly Stew
+Author = libretro-database contributors / original PSP cheat authors
+00539AC8 00000063
+00539ACA 00000063
+
+// 99 Hard Alloy
+Author = libretro-database contributors / original PSP cheat authors
+00539ABC 00000063
+00539ABE 00000063
+
+// 99 Hard Iron
+Author = libretro-database contributors / original PSP cheat authors
+00539A88 00000063
+00539A8A 00000063
+
+// 99 Hazy Shroom
+Author = libretro-database contributors / original PSP cheat authors
+00539AB4 00000063
+00539AB6 00000063
+
+// 99 Hinoki
+Author = libretro-database contributors / original PSP cheat authors
+00539AA0 00000063
+00539AA2 00000063
+
+// 99 Horse
+Author = libretro-database contributors / original PSP cheat authors
+00539C10 00000063
+00539C12 00000063
+
+// 99 Ice Shield
+Author = libretro-database contributors / original PSP cheat authors
+00539BA4 00000063
+00539BA6 00000063
+
+// 99 Inf. Mytheerial
+Author = libretro-database contributors / original PSP cheat authors
+00539A90 00000063
+00539A92 00000063
+
+// 99 Iron Bow
+Author = libretro-database contributors / original PSP cheat authors
+00539BC4 00000063
+00539BC6 00000063
+
+// 99 Iron Halberd
+Author = libretro-database contributors / original PSP cheat authors
+00539BEC 00000063
+00539BEE 00000063
+
+// 99 Iron Hammer
+Author = libretro-database contributors / original PSP cheat authors
+00539C3C 00000063
+00539C3E 00000063
+
+// 99 Iron Helmet
+Author = libretro-database contributors / original PSP cheat authors
+00539C8C 00000063
+00539C8E 00000063
+
+// 99 Iron Horn
+Author = libretro-database contributors / original PSP cheat authors
+00539C64 00000063
+00539C66 00000063
+
+// 99 Iron Shield
+Author = libretro-database contributors / original PSP cheat authors
+00539B9C 00000063
+00539B9E 00000063
+
+// 99 Iron Spear
+Author = libretro-database contributors / original PSP cheat authors
+00539B4C 00000063
+00539B4E 00000063
+
+// 99 Iron Sword
+Author = libretro-database contributors / original PSP cheat authors
+00539B74 00000063
+00539B76 00000063
+
+// 99 Kibapon Memory
+Author = libretro-database contributors / original PSP cheat authors
+00539AE4 00000001
+00539AE6 00000001
+
+// 99 Kings Stew
+Author = libretro-database contributors / original PSP cheat authors
+00539AD0 00000063
+00539AD2 00000063
+
+// 99 Leather Meat
+Author = libretro-database contributors / original PSP cheat authors
+00539A74 00000063
+00539A76 00000063
+
+// 99 Magic Alloy
+Author = libretro-database contributors / original PSP cheat authors
+00539AC4 00000063
+00539AC6 00000063
+
+// 99 Megapon Memory
+Author = libretro-database contributors / original PSP cheat authors
+00539AEC 00000001
+00539AEE 00000001
+
+// 99 Mystery Meat
+Author = libretro-database contributors / original PSP cheat authors
+00539A80 00000063
+00539A82 00000063
+
+// 99 Nail Studded Bat
+Author = libretro-database contributors / original PSP cheat authors
+00539C44 00000063
+00539C46 00000063
+
+// 99 Piercing Bow
+Author = libretro-database contributors / original PSP cheat authors
+00539BD0 00000063
+00539BD2 00000063
+
+// 99 Predator Pumpkin
+Author = libretro-database contributors / original PSP cheat authors
+00539AB0 00000063
+00539AB2 00000063
+
+// 99 Scorching Spear
+Author = libretro-database contributors / original PSP cheat authors
+00539B54 00000063
+00539B56 00000063
+
+// 99 Scorpiton Helmet
+Author = libretro-database contributors / original PSP cheat authors
+00539CE8 00000063
+00539CEA 00000063
+
+// 99 Shookle's Horn
+Author = libretro-database contributors / original PSP cheat authors
+00539C74 00000063
+00539C76 00000063
+
+// 99 Sleep Sword
+Author = libretro-database contributors / original PSP cheat authors
+00539B7C 00000063
+00539B7E 00000063
+
+// 99 Sloppy Alloy
+Author = libretro-database contributors / original PSP cheat authors
+00539AB8 00000063
+00539ABA 00000063
+
+// 99 Spiderton Helmet
+Author = libretro-database contributors / original PSP cheat authors
+00539CEC 00000063
+00539CEE 00000063
+
+// 99 Steal Spear
+Author = libretro-database contributors / original PSP cheat authors
+00539B50 00000063
+00539B52 00000063
+
+// 99 Steel Axe
+Author = libretro-database contributors / original PSP cheat authors
+00539B78 00000063
+00539B7A 00000063
+
+// 99 Steel Bow
+Author = libretro-database contributors / original PSP cheat authors
+00539BC8 00000063
+00539BCA 00000063
+
+// 99 Steel Bow
+Author = libretro-database contributors / original PSP cheat authors
+00539BC8 00000063
+00539BCA 00000063
+
+// 99 Steel Halberd
+Author = libretro-database contributors / original PSP cheat authors
+00539BF0 00000063
+00539BF2 00000063
+
+// 99 Steel Helmet
+Author = libretro-database contributors / original PSP cheat authors
+00539C90 00000063
+00539C92 00000063
+
+// 99 Steel Horn
+Author = libretro-database contributors / original PSP cheat authors
+00539C68 00000063
+00539C6A 00000063
+
+// 99 Steel Mace
+Author = libretro-database contributors / original PSP cheat authors
+00539C40 00000063
+00539C42 00000063
+
+// 99 Steel Shield
+Author = libretro-database contributors / original PSP cheat authors
+00539BA0 00000063
+00539BA2 00000063
+
+// 99 Stones
+Author = libretro-database contributors / original PSP cheat authors
+00539A84 00000063
+00539A86 00000063
+
+// 99 Strength Helmet
+Author = libretro-database contributors / original PSP cheat authors
+00539C98 00000063
+00539C9A 00000063
+
+// 99 Strong Horse
+Author = libretro-database contributors / original PSP cheat authors
+00539C1C 00000063
+00539C1E 00000063
+
+// 99 Super Cedars
+Author = libretro-database contributors / original PSP cheat authors
+00539AA4 00000063
+00539AA6 00000063
+
+// 99 Tasty Stew
+Author = libretro-database contributors / original PSP cheat authors
+00539ACC 00000063
+00539ACE 00000063
+
+// 99 Tatepon Memory
+Author = libretro-database contributors / original PSP cheat authors
+00539ADC 00000063
+00539ADE 00000063
+
+// 99 Tender Meat
+Author = libretro-database contributors / original PSP cheat authors
+00539A78 00000063
+00539A7A 00000063
+
+// 99 Tin Axe
+Author = libretro-database contributors / original PSP cheat authors
+00539B70 00000063
+00539B72 00000063
+
+// 99 Tough Horse
+Author = libretro-database contributors / original PSP cheat authors
+00539C18 00000063
+00539C1A 00000063
+
+// 99 Tyranium
+Author = libretro-database contributors / original PSP cheat authors
+00539A8C 00000063
+00539A8E 00000063
+
+// 99 Ultra Heavy Shield
+Author = libretro-database contributors / original PSP cheat authors
+00539BA8 00000063
+00539BAA 00000063
+
+// 99 Wind Helmet
+Author = libretro-database contributors / original PSP cheat authors
+00539C94 00000063
+00539C96 00000063
+
+// 99 Wood Halberd
+Author = libretro-database contributors / original PSP cheat authors
+00539BE8 00000063
+00539BEA 00000063
+
+// 99 Wood Horn
+Author = libretro-database contributors / original PSP cheat authors
+00539C60 00000063
+00539C62 00000063
+
+// 99 Wood Shield
+Author = libretro-database contributors / original PSP cheat authors
+00539B98 00000063
+00539B9A 00000063
+
+// 99 Wooden Bow
+Author = libretro-database contributors / original PSP cheat authors
+00539BC0 00000063
+00539BC2 00000063
+
+// 99 Wooden Helmet
+Author = libretro-database contributors / original PSP cheat authors
+00539C88 00000063
+00539C8A 00000063
+
+// 99 Wooden Spear
+Author = libretro-database contributors / original PSP cheat authors
+00539B48 00000063
+00539B4A 00000063
+
+// 99 Yaripon Memory
+Author = libretro-database contributors / original PSP cheat authors
+00539AD8 00000063
+00539ADA 00000063
+
+// 99 Yumipon Memory
+Author = libretro-database contributors / original PSP cheat authors
+00539AE0 00000063
+00539AE2 00000063
+
+// Add Ancient Spear
+Author = libretro-database contributors / original PSP cheat authors
+20539B60 00010162
+
+// Add Awesome Alloy
+Author = libretro-database contributors / original PSP cheat authors
+20539AC0 00010162
+
+// Add Banal Branch
+Author = libretro-database contributors / original PSP cheat authors
+20539A98 00010162
+
+// Add Bent Compass
+Author = libretro-database contributors / original PSP cheat authors
+20539A2C 00010162
+
+// Add Black Star
+Author = libretro-database contributors / original PSP cheat authors
+20539A3C 00010162
+
+// Add Blank Map
+Author = libretro-database contributors / original PSP cheat authors
+20539A28 00010162
+
+// Add Broken Sign
+Author = libretro-database contributors / original PSP cheat authors
+20539A38 00010162
+
+// Add Chaka Drum
+Author = libretro-database contributors / original PSP cheat authors
+20539A10 00010162
+
+// Add Chakachaka Song
+Author = libretro-database contributors / original PSP cheat authors
+20539A4C 00010162
+
+// Add Cherry Tree
+Author = libretro-database contributors / original PSP cheat authors
+20539A9C 00010162
+
+// Add Crying Carrot
+Author = libretro-database contributors / original PSP cheat authors
+20539AAC 00010162
+
+// Add Dark Palace Model
+Author = libretro-database contributors / original PSP cheat authors
+20539A40 00010162
+
+// Add Dekapon's Memory
+Author = libretro-database contributors / original PSP cheat authors
+20539AE8 00010162
+
+// Add Divine Spear
+Author = libretro-database contributors / original PSP cheat authors
+20539B68 00010162
+
+// Add Divine Stew
+Author = libretro-database contributors / original PSP cheat authors
+20539AD4 00010162
+
+// Add Dokaknel's Fang
+Author = libretro-database contributors / original PSP cheat authors
+20539B5C 00010162
+
+// Add Don Drum
+Author = libretro-database contributors / original PSP cheat authors
+20539A14 00010162
+
+// Add Dream Meat
+Author = libretro-database contributors / original PSP cheat authors
+20539A7C 00010162
+
+// Add Dusty Crystal
+Author = libretro-database contributors / original PSP cheat authors
+20539A34 00010162
+
+// Add Earthquake Miracle
+Author = libretro-database contributors / original PSP cheat authors
+20539A24 00010162
+
+// Add Eyeball Cabbage
+Author = libretro-database contributors / original PSP cheat authors
+20539AA8 00010162
+
+// Untitled cheat 225
+Author = libretro-database contributors / original PSP cheat authors
+20539B64 00010162
+
+// Add Gnarly Stew
+Author = libretro-database contributors / original PSP cheat authors
+20539AC8 00010162
+
+// Add Hard Alloy
+Author = libretro-database contributors / original PSP cheat authors
+20539ABC 00010162
+
+// Add Hard Iron
+Author = libretro-database contributors / original PSP cheat authors
+20539A88 00010162
+
+// Add Hazy Shroom
+Author = libretro-database contributors / original PSP cheat authors
+20539AB4 00010162
+
+// Add Hinoki
+Author = libretro-database contributors / original PSP cheat authors
+20539AA0 00010162
+
+// Add Iron Spear
+Author = libretro-database contributors / original PSP cheat authors
+20539B4C 00010162
+
+// Add Kibapon's Memory
+Author = libretro-database contributors / original PSP cheat authors
+20539AE4 00010162
+
+// Add King's Stew
+Author = libretro-database contributors / original PSP cheat authors
+20539AD0 00010162
+
+// Add Leather Meat
+Author = libretro-database contributors / original PSP cheat authors
+20539A74 00010162
+
+// Add Magic Alloy
+Author = libretro-database contributors / original PSP cheat authors
+20539AC4 00010162
+
+// Add Megapon's Memory
+Author = libretro-database contributors / original PSP cheat authors
+20539AEC 00010162
+
+// Add Mystery Meat
+Author = libretro-database contributors / original PSP cheat authors
+20539A80 00010162
+
+// Add Mytheerial
+Author = libretro-database contributors / original PSP cheat authors
+20539A90 00010162
+
+// Add Pata Drum
+Author = libretro-database contributors / original PSP cheat authors
+20539A0C 00010162
+
+// Add Patapata Song
+Author = libretro-database contributors / original PSP cheat authors
+20539A44 00010162
+
+// Add Pon Drum
+Author = libretro-database contributors / original PSP cheat authors
+20539A08 00010162
+
+// Add Ponchaka Song 48
+Author = libretro-database contributors / original PSP cheat authors
+20539A50 00010162
+
+// Add Ponpata Song
+Author = libretro-database contributors / original PSP cheat authors
+20539A30 00010162
+
+// Add Ponpon Song
+Author = libretro-database contributors / original PSP cheat authors
+20539A48 00010162
+
+// Add Predator Pumpkin
+Author = libretro-database contributors / original PSP cheat authors
+20539AB0 00010162
+
+// Add Rain Miracle
+Author = libretro-database contributors / original PSP cheat authors
+20539A18 00010162
+
+// Add Scorching Spear
+Author = libretro-database contributors / original PSP cheat authors
+20539B54 00010162
+
+// Add Sloppy Alloy
+Author = libretro-database contributors / original PSP cheat authors
+20539AB8 00010162
+
+// Add Spear Of Protection
+Author = libretro-database contributors / original PSP cheat authors
+20539B6C 00010162
+
+// Add Steel Spear
+Author = libretro-database contributors / original PSP cheat authors
+20539B50 00010162
+
+// Add Stone
+Author = libretro-database contributors / original PSP cheat authors
+20539A84 00010162
+
+// Add Storm Miracle
+Author = libretro-database contributors / original PSP cheat authors
+20539A20 00010162
+
+// Add Super Cedar
+Author = libretro-database contributors / original PSP cheat authors
+20539AA4 00010162
+
+// Add Tailwind Miracle
+Author = libretro-database contributors / original PSP cheat authors
+20539A1C 00010162
+
+// Add Tasty Stew
+Author = libretro-database contributors / original PSP cheat authors
+20539ACC 00010162
+
+// Add Tatepon's Memory
+Author = libretro-database contributors / original PSP cheat authors
+20539ADC 00010162
+
+// Add Tender Meat
+Author = libretro-database contributors / original PSP cheat authors
+20539A78 00010162
+
+// Add Tin Axe
+Author = libretro-database contributors / original PSP cheat authors
+20539B58 00010162
+
+// Add Tytanium Ore
+Author = libretro-database contributors / original PSP cheat authors
+20539A8C 00010162
+
+// Add Wooden Spear
+Author = libretro-database contributors / original PSP cheat authors
+20539B48 00010162
+
+// Add Yaripon's Memory
+Author = libretro-database contributors / original PSP cheat authors
+20539AD8 00010162
+
+// Add Yumipon's Memory
+Author = libretro-database contributors / original PSP cheat authors
+20539AE0 00010162
+
+// Add Ancient Axe
+Author = libretro-database contributors / original PSP cheat authors
+20539B84 00010162
+
+// Add Ancient Bow
+Author = libretro-database contributors / original PSP cheat authors
+20539BD4 00010162
+
+// Add Ancient Halberd
+Author = libretro-database contributors / original PSP cheat authors
+20539BFC 00010162
+
+// Add Ancient Hammer
+Author = libretro-database contributors / original PSP cheat authors
+20539C4C 00010162
+
+// Add Ancient Helm
+Author = libretro-database contributors / original PSP cheat authors
+20539C9C 00010162
+
+// Add Ancient Horn
+Author = libretro-database contributors / original PSP cheat authors
+20539C78 00010162
+
+// Add Ancient Horse
+Author = libretro-database contributors / original PSP cheat authors
+20539C24 00010162
+
+// Add Ancient Shield
+Author = libretro-database contributors / original PSP cheat authors
+20539BAC 00010162
+
+// Add Beetleton Helm
+Author = libretro-database contributors / original PSP cheat authors
+20539CF0 00010162
+
+// Add Bow Of The Late Yumipon
+Author = libretro-database contributors / original PSP cheat authors
+20539BE0 00010162
+
+// Add Bunny Head
+Author = libretro-database contributors / original PSP cheat authors
+20539CA8 00010162
+
+// Add Ciokin's Horn
+Author = libretro-database contributors / original PSP cheat authors
+20539C70 00010162
+
+// Add Club
+Author = libretro-database contributors / original PSP cheat authors
+20539C38 00010162
+
+// Add Crimson Horse
+Author = libretro-database contributors / original PSP cheat authors
+20539C20 00010162
+
+// Add Deflecting Halberd
+Author = libretro-database contributors / original PSP cheat authors
+20539BF4 00010162
+
+// Add Deep Impact
+Author = libretro-database contributors / original PSP cheat authors
+20539C28 00010162
+
+// Add Divine Axe
+Author = libretro-database contributors / original PSP cheat authors
+20539C54 00010162
+
+// Add Divine Bow
+Author = libretro-database contributors / original PSP cheat authors
+20539BDC 00010162
+
+// Add Divine Halberd
+Author = libretro-database contributors / original PSP cheat authors
+20539C04 00010162
+
+// Add Divine Helm
+Author = libretro-database contributors / original PSP cheat authors
+20539CA4 00010162
+
+// Add Divine Horn
+Author = libretro-database contributors / original PSP cheat authors
+20539C7C 00010162
+
+// Add Divine Horse
+Author = libretro-database contributors / original PSP cheat authors
+20539C2C 00010162
+
+// Add Divine Shield
+Author = libretro-database contributors / original PSP cheat authors
+20539BB4 00010162
+
+// Add Divine Sword
+Author = libretro-database contributors / original PSP cheat authors
+20539B8C 00010162
+
+// Add Dream Weaver
+Author = libretro-database contributors / original PSP cheat authors
+20539C48 00010162
+
+// Add Fast Horse
+Author = libretro-database contributors / original PSP cheat authors
+20539C14 00010162
+
+// Add Flame Bow
+Author = libretro-database contributors / original PSP cheat authors
+20539BCC 00010162
+
+// Add Flame Halberd
+Author = libretro-database contributors / original PSP cheat authors
+20539BF8 00010162
+
+// Add Flame Sword
+Author = libretro-database contributors / original PSP cheat authors
+20539B80 00010162
+
+// Add Gaeen's Horn
+Author = libretro-database contributors / original PSP cheat authors
+20539C6C 00010162
+
+// Untitled cheat 294
+Author = libretro-database contributors / original PSP cheat authors
+20539BD8 00010162
+
+// Untitled cheat 295
+Author = libretro-database contributors / original PSP cheat authors
+20539C00 00010162
+
+// Untitled cheat 296
+Author = libretro-database contributors / original PSP cheat authors
+20539CA0 00010162
+
+// Untitled cheat 297
+Author = libretro-database contributors / original PSP cheat authors
+20539BB0 00010162
+
+// Untitled cheat 298
+Author = libretro-database contributors / original PSP cheat authors
+20539B88 00010162
+
+// Add Gong's Helm
+Author = libretro-database contributors / original PSP cheat authors
+20539CC4 00010162
+
+// Add Gong's Scythe
+Author = libretro-database contributors / original PSP cheat authors
+20539B90 00010162
+
+// Add Horse
+Author = libretro-database contributors / original PSP cheat authors
+20539C10 00010162
+
+// Add Ice Shield
+Author = libretro-database contributors / original PSP cheat authors
+20539BA4 00010162
+
+// Add Iron Bow
+Author = libretro-database contributors / original PSP cheat authors
+20539BC4 00010162
+
+// Add Iron Halberd
+Author = libretro-database contributors / original PSP cheat authors
+20539BEC 00010162
+
+// Add Iron Hammer
+Author = libretro-database contributors / original PSP cheat authors
+20539C3C 00010162
+
+// Add Iron Helm
+Author = libretro-database contributors / original PSP cheat authors
+20539C8C 00010162
+
+// Add Iron Horn
+Author = libretro-database contributors / original PSP cheat authors
+20539C64 00010162
+
+// Add Iron Shield
+Author = libretro-database contributors / original PSP cheat authors
+20539B9C 00010162
+
+// Add Iron Sword
+Author = libretro-database contributors / original PSP cheat authors
+20539B74 00010162
+
+// Untitled cheat 310
+Author = libretro-database contributors / original PSP cheat authors
+20539C50 00010162
+
+// Add Nail Studded Bat
+Author = libretro-database contributors / original PSP cheat authors
+20539C44 00010162
+
+// Add Piercing Bow
+Author = libretro-database contributors / original PSP cheat authors
+20539BD0 00010162
+
+// Add Scorpiton Helm
+Author = libretro-database contributors / original PSP cheat authors
+20539CE8 00010162
+
+// Add Shookle's Horn
+Author = libretro-database contributors / original PSP cheat authors
+20539C74 00010162
+
+// Add Sleep Sword
+Author = libretro-database contributors / original PSP cheat authors
+20539B7C 00010162
+
+// Add Spiderton Helm
+Author = libretro-database contributors / original PSP cheat authors
+20539CEC 00010162
+
+// Add Steel Axe
+Author = libretro-database contributors / original PSP cheat authors
+20539B78 00010162
+
+// Add Steel Bow
+Author = libretro-database contributors / original PSP cheat authors
+20539BC8 00010162
+
+// Add Steel Halberd
+Author = libretro-database contributors / original PSP cheat authors
+20539BF0 00010162
+
+// Add Steel Helm
+Author = libretro-database contributors / original PSP cheat authors
+20539C90 00010162
+
+// Add Steel Horn
+Author = libretro-database contributors / original PSP cheat authors
+20539C68 00010162
+
+// Add Steel Mace
+Author = libretro-database contributors / original PSP cheat authors
+20539C40 00010162
+
+// Add Steel Shield
+Author = libretro-database contributors / original PSP cheat authors
+20539BA0 00010162
+
+// Add Strength Helm
+Author = libretro-database contributors / original PSP cheat authors
+20539C98 00010162
+
+// Add Strong Horse
+Author = libretro-database contributors / original PSP cheat authors
+20539C1C 00010162
+
+// Add Sword Of The Late Tatepon
+Author = libretro-database contributors / original PSP cheat authors
+20539B94 00010162
+
+// Add Tought Horse
+Author = libretro-database contributors / original PSP cheat authors
+20539C18 00010162
+
+// Add Ultra Heavy Shield
+Author = libretro-database contributors / original PSP cheat authors
+20539BA8 00010162
+
+// Add Wind Helm
+Author = libretro-database contributors / original PSP cheat authors
+20539C94 00010162
+
+// Add Wooden Bow
+Author = libretro-database contributors / original PSP cheat authors
+20539BC0 00010162
+
+// Add Wooden Halberd
+Author = libretro-database contributors / original PSP cheat authors
+20539BE8 00010162
+
+// Add Wooden Helm
+Author = libretro-database contributors / original PSP cheat authors
+20539C88 00010162
+
+// Add Wood Horn
+Author = libretro-database contributors / original PSP cheat authors
+20539C60 00010162
+
+// Add Wood Shield
+Author = libretro-database contributors / original PSP cheat authors
+20539B98 00010162
+
+// Ancient Axe Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B84 0000005A
+20539B86 00000001
+
+// Ancient Bow Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BD4 0000005A
+20539BD6 00000001
+
+// Ancient Haldberd Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BFC 0000005A
+20539BFE 00000001
+
+// Ancient Hammer Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C4C 0000005A
+20539C4E 00000001
+
+// Ancient Helm Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C9C 0000005A
+20539C9E 00000001
+
+// Ancient Horn Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C78 0000005A
+20539C7A 00000001
+
+// Ancient Horse Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C24 0000005A
+20539C26 00000001
+
+// Ancient Shield Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BAC 0000005A
+20539BAE 00000001
+
+// Ancient Spear Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B5C 0000005A
+20539B5E 00000001
+
+// Awesome Alloy Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539AC0 0000005A
+20539AC2 00000001
+
+// Banal Branch Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539A98 0000005A
+20539A9A 00000001
+
+// Beetleton Helm Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539CF0 0000005A
+20539CF2 00000001
+
+// Bunny Head Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539CA8 0000005A
+20539CAA 00000001
+
+// Cherry Tree Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539A9C 0000005A
+20539A9E 00000001
+
+// Ciokin's Horn Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C70 0000005A
+20539C72 00000001
+
+// Club Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C38 0000005A
+20539C3A 00000001
+
+// Crimson Horse Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C20 0000005A
+20539C22 00000001
+
+// Crying Carrot Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539AAC 0000005A
+20539AAE 00000001
+
+// Deep Impact Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C28 0000005A
+20539C2A 00000001
+
+// Deflecting Haldberd Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BF4 0000005A
+20539BF6 00000001
+
+// Divine AxeKami Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C54 0000005A
+20539C56 00000001
+
+// Divine BowKami Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BDC 0000005A
+20539BDE 00000001
+
+// Divine HalberdKami  Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C04 0000005A
+20539C06 00000001
+
+// Divine HelmKami Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539CA4 0000005A
+20539CA6 00000001
+
+// Divine HornKami Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C7C 0000005A
+20539C7E 00000001
+
+// Divine HorseKami Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C2C 0000005A
+20539C2E 00000001
+
+// Divine ShieldKami Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BB4 0000005A
+20539BB6 00000001
+
+// Divine Spear Kami Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B64 0000005A
+20539B66 00000001
+
+// Divine Stew Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539AD4 0000005A
+20539AD6 00000001
+
+// Divine SwordKami Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B8C 0000005A
+20539B8E 00000001
+
+// Dokaknel's Fang Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B58 0000005A
+20539B5A 00000001
+
+// Dream Meat Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539A7C 0000005A
+20539A7E 00000001
+
+// Dream Weaver Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C48 0000005A
+20539C4A 00000001
+
+// Eyeball Cabbage Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539AA8 0000005A
+20539AAA 00000001
+
+// Fast Horse Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C14 0000005A
+20539C16 00000001
+
+// Flame Bow Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BCC 0000005A
+20539BCE 00000001
+
+// Flame Haldberd Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BF8 0000005A
+20539BFA 00000001
+
+// Flame Sword Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B80 0000005A
+20539B82 00000001
+
+// Frenzy On Next Combo
+Author = libretro-database contributors / original PSP cheat authors
+606B9F6C 00000009
+00002001 00006C94
+
+// Gaeen's Horn Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C6C 0000005A
+20539C6E 00000001
+
+// Garnly Stew Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539AC8 0000005A
+20539ACA 00000001
+
+// Giant Bow Failnaught Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BD8 0000005A
+20539BDA 00000001
+
+// Giant Haldberd Grizzly Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C00 0000005A
+20539C02 00000001
+
+// Giant Helm Turtle Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539CA0 0000005A
+20539CA2 00000001
+
+// Giant Shield Octagon Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BB0 0000005A
+20539BB2 00000001
+
+// Giant Spear Bullet Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B60 0000005A
+20539B62 00000001
+
+// Giant Sword The Butcher Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B88 0000005A
+20539B8A 00000001
+
+// Gong's Helm Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539CC4 0000005A
+20539CC6 00000001
+
+// Gong's Scythe Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B90 0000005A
+20539B92 00000001
+
+// Hard Alloy Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539ABC 0000005A
+20539ABE 00000001
+
+// Hard Iron Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539A88 0000005A
+20539A8A 00000001
+
+// Hazy Shroom Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539AB4 0000005A
+20539AB6 00000001
+
+// Hinoki Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539AA0 0000005A
+20539AA2 00000001
+
+// Horse Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C10 0000005A
+20539C12 00000001
+
+// Ice Shield Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BA4 0000005A
+20539BA6 00000001
+
+// Iron Bow Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BC4 0000005A
+20539BC6 00000001
+
+// Iron Halberd Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BEC 0000005A
+20539BEE 00000001
+
+// Iron Hammer Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C3C 0000005A
+20539C3E 00000001
+
+// Iron Helm Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C8C 0000005A
+20539C8E 00000001
+
+// Iron Horn Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C64 0000005A
+20539C66 00000001
+
+// Iron Shield Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B9C 0000005A
+20539B9E 00000001
+
+// Iron Spear Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B4C 0000005A
+20539B4E 00000001
+
+// Iron Sword Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B74 0000005A
+20539B76 00000001
+
+// King's Stew Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539AD0 0000005A
+20539AD2 00000001
+
+// Leather Meat Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539A74 0000005A
+20539A76 00000001
+
+// Magic Alloy Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539AC4 0000005A
+20539AC6 00000001
+
+// Morning Star Giganto Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C50 0000005A
+20539C52 00000001
+
+// Mystery Meat Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539A80 0000005A
+20539A82 00000001
+
+// Mytheerial Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539A90 0000005A
+20539A92 00000001
+
+// Nail Studded Bat Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C44 0000005A
+20539C46 00000001
+
+// Piercing Bow Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BD0 0000005A
+20539BD2 00000001
+
+// Predator Pumpkin Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539AB0 0000005A
+20539AB2 00000001
+
+// Scorching Spear Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B54 0000005A
+20539B56 00000001
+
+// Scorpiton Helm Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539CE8 0000005A
+20539CEA 00000001
+
+// Shookle's Horn Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C74 0000005A
+20539C76 00000001
+
+// Sleep Sword Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B7C 0000005A
+20539B7E 00000001
+
+// Sloppy Alloy Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539AB8 0000005A
+20539ABA 00000001
+
+// Spear Of Protection Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B68 0000005A
+20539B6A 00000001
+
+// Spiderton Helm Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539CEC 0000005A
+20539CEE 00000001
+
+// Steel AXe Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B78 0000005A
+20539B7A 00000001
+
+// Steel Bow Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BC8 0000005A
+20539BCA 00000001
+
+// Steel Halberd Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BF0 0000005A
+20539BF2 00000001
+
+// Steel Helm Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C90 0000005A
+20539C92 00000001
+
+// Steel Horn Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C68 0000005A
+20539C6A 00000001
+
+// Steel Mace Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C40 0000005A
+20539C42 00000001
+
+// Steel Shield Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BA0 0000005A
+20539BA2 00000001
+
+// Steel Spear Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B50 0000005A
+20539B52 00000001
+
+// Stone Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539A84 0000005A
+20539A86 00000001
+
+// Strength Helm Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C98 0000005A
+20539C9A 00000001
+
+// Strong Horse Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C1C 0000005A
+20539C1E 00000001
+
+// Super Cedar Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539AA4 0000005A
+20539AA6 00000001
+
+// Tasty Stew Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539ACC 0000005A
+20539ACE 00000001
+
+// Tatepons Andenken
+Author = libretro-database contributors / original PSP cheat authors
+20539ADC 00010001
+
+// Tender Meat Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539A78 0000005A
+20539A7A 00000001
+
+// Tin Axe Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B70 0000005A
+20539B72 00000001
+
+// Tough Horse Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C18 0000005A
+20539C1A 00000001
+
+// Tytanium Ore Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539A8C 0000005A
+20539A8E 00000001
+
+// Ultra Heavy Shield Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BA8 0000005A
+20539BAA 00000001
+
+// Wind Helm Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C94 0000005A
+20539C96 00000001
+
+// Wood Horn Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C60 0000005A
+20539C62 00000001
+
+// Wood Shield Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B98 0000005A
+20539B9A 00000001
+
+// Wooden Bow Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BC0 0000005A
+20539BC2 00000001
+
+// Wooden Halberd Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539BE8 0000005A
+20539BEA 00000001
+
+// Wooden Helm Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539C88 0000005A
+20539C8A 00000001
+
+// Wooden Spear Maxed Out
+Author = libretro-database contributors / original PSP cheat authors
+20539B48 0000005A
+20539B4A 00000001

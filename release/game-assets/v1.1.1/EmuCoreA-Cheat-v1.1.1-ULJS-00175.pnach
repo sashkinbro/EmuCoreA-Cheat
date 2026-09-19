@@ -1,0 +1,434 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULJS-00175
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Debug Mode
+Author = libretro-database contributors / original PSP cheat authors
+20001040 0E212D2F
+20001048 0A221ACD
+2000104C 00001821
+E0020101 00504628
+201EB410 0E277C83
+20086B2C 00001821
+E0020201 00504628
+201EB410 0E278BF0
+20086B2C 0A200410
+
+// Handheld Screen (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+20443104 3FC00000
+2043DA20 3FC00000
+2043DC70 3FC00000
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+20443104 3FE1E1E2
+2043DA20 3FE1E1E2
+2043DC70 3FE1E1E2
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+20443104 40638E39
+2043DA20 40638E39
+2043DC70 40638E39
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+20443104 4017B426
+2043DA20 4017B426
+2043DC70 4017B426
+
+// Al Shokuzai Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 00000063
+00000040 00008A68
+90000001 00000000
+
+// All Accessory 12
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000000C
+00000014 00008AA8
+90000001 00000000
+
+// All Chara. Title Change
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 00000001
+00000001 0001B628
+00000001 0001CA58
+00000001 0001DE88
+
+// All Cooking 12
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000000C
+00000028 000089FC
+90000001 00000000
+
+// All Food Stuff 12
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000000C
+00000040 00008A68
+90000001 00000000
+
+// All Item 12
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000000C
+0000001E 00008ADA
+90000001 00000000
+00000026 00008AFA
+
+// All Kityohin
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 00000001
+0000001E 00008ABC
+90000001 00000000
+
+// All Materail 12
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000000C
+00000044 00008A24
+90000001 00000000
+60512B60 00000C0C
+00000002 00008AF8
+
+// All Music
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 000000FF
+0000000C 0000222C
+90000001 00000000
+
+// All Product Skill 150
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 00000096
+00000004 00019024
+90000004 00000000
+
+// All Ryori Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000000F
+00000028 000089FC
+90000001 00000000
+
+// All Shizai Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 00000063
+00000044 00008A24
+90000001 00000000
+60512B60 00000C0C
+00000002 00008AF8
+
+// All Skill Master
+Author = libretro-database contributors / original PSP cheat authors
+60512B64 00000031
+00000294 000076C8
+90000001 00000000
+
+// All Skill Master v2
+Author = libretro-database contributors / original PSP cheat authors
+60512B64 00000032
+00000294 000076C8
+90000001 00000000
+
+// All Soshoku Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000000F
+00000014 00008AA8
+90000001 00000000
+
+// All Stone Of Spirits
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 00000001
+0000006A 00008B20
+90000001 00000000
+
+// All Title
+Author = libretro-database contributors / original PSP cheat authors
+60512B64 FFFFFFFF
+00020001 00007B78
+60512B64 000001FF
+00010001 00007B7A
+
+// All Tool Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000000F
+0000001E 00008ADA
+90000001 00000000
+00000026 00008AFA
+
+// All Valuable 12
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000000C
+0000001E 00008ABC
+90000001 00000000
+0000000E 00008B8A
+
+// Book Open
+Author = libretro-database contributors / original PSP cheat authors
+60512B64 00000043
+000000A9 0003FFA8
+90000002 00000000
+
+// Chant Time Cut
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 000000FF
+00000001 00019008
+
+// Cook Skill 150
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 00000096
+00000001 00019024
+
+// Cooking Level Max
+Author = libretro-database contributors / original PSP cheat authors
+2000E074 AE105B1C
+
+// Critical Hit 100%
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 000000FF
+00000001 00019018
+
+// Dunjon Speed
+Author = libretro-database contributors / original PSP cheat authors
+20177E3C 240300C8
+20177F1C 240300C8
+
+// Fame Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000270F
+00010001 00007D7C
+
+// Garment Skill 150
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 00000096
+00000001 00019030
+
+// GP Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 05F5E09C
+00020001 00007D90
+
+// Grade Point Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B64 05F5E09C
+00020001 00007B84
+
+// Guide Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 05F5E0FF
+00020001 00007D78
+
+// Guidebook Open
+Author = libretro-database contributors / original PSP cheat authors
+60512B64 000000FF
+00000017 0003FF28
+90000001 00000000
+60512B64 00000003
+00000001 0003FF3F
+
+// Hero: Acquires All Skill
+Author = libretro-database contributors / original PSP cheat authors
+60512B64 00FFFFFF
+00020001 0001A13C
+
+// Hero: Attribution 999
+Author = libretro-database contributors / original PSP cheat authors
+60512B64 000003E7
+00020006 0001A044
+90000001 00000000
+
+// Hero: Attribution Inc.
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000270F
+00020006 0001A250
+90000001 00000000
+
+// Hero: HP Denominator Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000270F
+00010001 0001A244
+
+// Hero: HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+606C7254 00000002
+00000002 000001EC
+100001F0 00000000
+
+// Hero: HP Numerator Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000270F
+00010001 0001A240
+
+// Hero: TP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+606C7254 00000002
+00000002 000001F4
+100001F8 00000000
+
+// Hero: TP Numerator Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000270F
+00010001 0001A248
+
+// Hero: TP Denominator Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000270F
+00010001 0001A24C
+
+// Heroine: All Parameter 999
+Author = libretro-database contributors / original PSP cheat authors
+60512B64 000003E7
+00020006 0001B474
+90000001 00000000
+
+// Heroine: Attribution Inc.
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000270F
+00020006 0001B680
+90000001 00000000
+
+// Heroine: HP Denominator Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000270F
+00010001 0001B674
+
+// Heroine: HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+606C7254 00000002
+00000002 000010DC
+100010C0 00000000
+
+// Heroine: HP Numerator Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000270F
+00010001 0001B670
+
+// Heroine: Title Change
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 00000001
+00000001 0001B628
+
+// Heroine: TP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+606C7254 00000002
+00000002 000010C4
+100010C8 00000000
+
+// Heroine: TP Numerator Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000270F
+00010001 0001B678
+
+// Heroine: TP Denominator Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000270F
+00010001 0001B67C
+
+// Hit Max
+Author = libretro-database contributors / original PSP cheat authors
+20072BEC 00000000
+
+// Infinity Jam Gauge
+Author = libretro-database contributors / original PSP cheat authors
+2006BE90 00000000
+
+// Infinity Jam Time
+Author = libretro-database contributors / original PSP cheat authors
+200938BC 00000000
+20093908 00000000
+
+// Item 9 After Use
+Author = libretro-database contributors / original PSP cheat authors
+20041B20 20A20009
+20041B2C 00000000
+
+// Item Ava Up
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 000000FF
+00000001 00019014
+
+// Item Skill 150
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 00000096
+00000001 00019028
+
+// Level Max
+Author = libretro-database contributors / original PSP cheat authors
+2000551C 24840900
+
+// Meisei Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000270F
+00010001 00007D7C
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0098967F
+00020001 00007D78
+
+// Monster Kill 999
+Author = libretro-database contributors / original PSP cheat authors
+60512B64 000003E7
+000100A9 000401A8
+90000001 00000000
+
+// Num Of Encount Max
+Author = libretro-database contributors / original PSP cheat authors
+200092EC 00000000
+
+// Overlimits Author Minaziki
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 00002710
+00010004 0001A270
+90000A18 00000000
+
+// Overlimits Inc. Speed Up
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 000000FF
+00000001 00019034
+
+// Overlimits Max
+Author = libretro-database contributors / original PSP cheat authors
+2006BE38 A605007E
+
+// Overlimits Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2006BEF4 00000000
+
+// Quest Monster 1kai
+Author = libretro-database contributors / original PSP cheat authors
+1001740E 00002402
+1001740C 00000001
+
+// Rare Item Ava Up
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 0000C305
+00010001 00019010
+
+// Smith Skill 150
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 00000096
+00000001 0001902C
+
+// Speed Up
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 00000064
+00000001 00019004
+
+// TP Dec. Slowly
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 000000FF
+00000001 00019008
+
+// TP Total Recovery
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 000000FF
+00000001 00019058
+
+// TP Total Recovery After Atk.
+Author = libretro-database contributors / original PSP cheat authors
+60512B60 000000FF
+00000001 0001905C
+
+// Use Skill Master
+Author = libretro-database contributors / original PSP cheat authors
+1000DF0E 00002402
+1000DF0C 00000031

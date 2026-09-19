@@ -1,0 +1,461 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10086
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1st Weapon Slot Slot Hack
+Author = libretro-database contributors / original PSP cheat authors
+002DC018 00000006
+002DC01C 00000006
+
+// 2nd Weapon Slot Slot Hack
+Author = libretro-database contributors / original PSP cheat authors
+002DC170 00000006
+002DC174 00000006
+
+// AAAAAAAA Spam Name
+Author = libretro-database contributors / original PSP cheat authors
+0053FE88 41414141
+0053FE8C 41414141
+0053FE90 41414141
+0053FE94 41414141
+0053FE98 41414141
+0053FE9C 41414141
+0053FEA0 41414141
+0053FEA4 41414141
+0053FEA8 41414141
+0053FEAC 41414141
+0053FEB0 41414141
+0053FEB4 41414141
+0053FEBC 41414141
+
+// All Stats (Change .Dec.)
+Author = libretro-database contributors / original PSP cheat authors
+00492BB0 00000000
+00492BAC 00000000
+00492BA8 00000000
+00492BA4 00000000
+
+// All Stats Infinite (Inf.)
+Author = libretro-database contributors / original PSP cheat authors
+00492BB0 7F800000
+00492BAC 7F800000
+00492BA8 7F800000
+00492BA4 7F800000
+
+// All Stats -Infinite (-Inf.)
+Author = libretro-database contributors / original PSP cheat authors
+00492BB0 FF800000
+00492BAC FF800000
+00492BA8 FF800000
+00492BA4 FF800000
+
+// All True Resist
+Author = libretro-database contributors / original PSP cheat authors
+00492D14 4C0C0000
+00492D0C 4C0C0000
+00492D08 4C0C0000
+00492D10 4C0C0000
+00492D18 4C0C0000
+
+// All Weapons Are Charged When Shot
+Author = libretro-database contributors / original PSP cheat authors
+20232D75 00000003
+202271C4 00000003
+
+// Attack Mod
+Author = libretro-database contributors / original PSP cheat authors
+00296B9C 00000000
+00296BAC 40D55555
+00296BB4 409013A9
+00296BBC 409013A9
+00296BDC 3BC95178
+00296BE4 3D951195
+00296E1C 00010000
+00296EA8 00000B0A
+002A37DC 0000001A
+002A37E0 00000002
+
+// BackFlip
+Author = libretro-database contributors / original PSP cheat authors
+00296B9C 0000000F
+
+// Character Size Mod Gigantic
+Author = libretro-database contributors / original PSP cheat authors
+004928A4 40800000
+
+// Combo Weapon Slot Hack
+Author = libretro-database contributors / original PSP cheat authors
+002DC018 00000006
+002DC01C 00000006
+002DC170 00000006
+002DC174 00000006
+
+// Dexterity Hack (Change .Dec.)
+Author = libretro-database contributors / original PSP cheat authors
+00492BA4 00000000
+
+// Disciple Start Stat Points
+Author = libretro-database contributors / original PSP cheat authors
+002D3BAC 00000001
+
+// False Cannon
+Author = libretro-database contributors / original PSP cheat authors
+00296B9C 00000012
+
+// False Death
+Author = libretro-database contributors / original PSP cheat authors
+00296B9C 0000001A
+
+// False Jolt
+Author = libretro-database contributors / original PSP cheat authors
+00296B9C 00000014
+
+// False ParalizAtion
+Author = libretro-database contributors / original PSP cheat authors
+00296B9C 00000019
+
+// Flash
+Author = libretro-database contributors / original PSP cheat authors
+00296B34 00000000
+
+// Flash Sub Test
+Author = libretro-database contributors / original PSP cheat authors
+00000024 0E20050C
+00001990 3C0808A9
+00001994 3C0A4080
+00001998 254A0000
+0000199C AD0A6B34
+000019A0 03E00008
+
+// Flexin' The Guns
+Author = libretro-database contributors / original PSP cheat authors
+00296B9C 00000011
+
+// HourGlass HP (Sewer)
+Author = libretro-database contributors / original PSP cheat authors
+002D59AC 42080000
+002D59D0 00000022
+002EAC5C 0000003C
+
+// Hourglass Mana
+Author = libretro-database contributors / original PSP cheat authors
+002D5A84 41600000
+
+// Inf. Bolts (Scout)
+Author = libretro-database contributors / original PSP cheat authors
+002709F8 0000CA03
+
+// Inf. Guardian Start Stat Points
+Author = libretro-database contributors / original PSP cheat authors
+002D3B84 00000001
+
+// Inf. HP (Online)
+Author = libretro-database contributors / original PSP cheat authors
+0049299C 7D298765
+
+// Inf. HP (StoryMode)
+Author = libretro-database contributors / original PSP cheat authors
+0049299C 7F800000
+
+// Inf. Iron Balls (Guardian)
+Author = libretro-database contributors / original PSP cheat authors
+00270BCC 0000CA03
+
+// Inf. Mana (Online)
+Author = libretro-database contributors / original PSP cheat authors
+00492BB9 7D298765
+
+// Inf. Mana (StoryMode)
+Author = libretro-database contributors / original PSP cheat authors
+00492BB8 7F800000
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+204928E0 000186A0
+
+// Inf. Pelotas (Prowler)
+Author = libretro-database contributors / original PSP cheat authors
+00270BCC 0000CA03
+
+// Inf. Saw Blades (Mercenary)
+Author = libretro-database contributors / original PSP cheat authors
+00270BCC 0000CA03
+
+// Inf. Shells (Disciple)
+Author = libretro-database contributors / original PSP cheat authors
+00270BCC 0000CA03
+
+// Infinite Attribute Points
+Author = libretro-database contributors / original PSP cheat authors
+202D3B84 00000064
+202D3B98 00000064
+202D3BAC 00000064
+202D3BC0 00000064
+202D3BD4 00000064
+
+// Infinite Essence Meter
+Author = libretro-database contributors / original PSP cheat authors
+204935D8 42C80000
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+20232CB4 00000020
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+2022782B 00000009
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+202DA7DC 000F4240
+204928E0 000F4240
+217BDE90 000F4240
+217BDF54 000F4240
+217BDF58 000F4240
+
+// Intelligence Hack ChangeDec.
+Author = libretro-database contributors / original PSP cheat authors
+00492BA8 00000000
+
+// Item Hack (All Add-ons)
+Author = libretro-database contributors / original PSP cheat authors
+00492C3C 6FFFC000
+00492C38 6FFFC000
+00492C34 6FFFC000
+00492C30 6FFFC000
+
+// Item Hack Attack Speed
+Author = libretro-database contributors / original PSP cheat authors
+00492CC4 7F800000
+
+// Item Hack Dex Add-On
+Author = libretro-database contributors / original PSP cheat authors
+00492C30 6FFFC000
+
+// Item Hack Dex Add-On IOPRs
+Author = libretro-database contributors / original PSP cheat authors
+00493B78 7EFF0000
+
+// Item Hack Encumbrance Add-On
+Author = libretro-database contributors / original PSP cheat authors
+00492C84 7F800000
+
+// Item Hack Health Add-On
+Author = libretro-database contributors / original PSP cheat authors
+00492CA8 7EFFFFFB
+
+// Item Hack Health Regen
+Author = libretro-database contributors / original PSP cheat authors
+00492C5C 7EFFFFFB
+
+// Item Hack Health Regen IOPRs
+Author = libretro-database contributors / original PSP cheat authors
+00493BA4 7EFFFFFB
+
+// Item Hack Intel Add-On
+Author = libretro-database contributors / original PSP cheat authors
+00492C34 6FFFC000
+
+// Item Hack Intel Add-On IOPRs
+Author = libretro-database contributors / original PSP cheat authors
+00493B7C 7AFFF000
+
+// Item Hack Mana Add-On
+Author = libretro-database contributors / original PSP cheat authors
+00492C40 00000000
+
+// Item Hack Mana Regen
+Author = libretro-database contributors / original PSP cheat authors
+00492C60 7F800000
+
+// Item Hack Movement Speed
+Author = libretro-database contributors / original PSP cheat authors
+00492CB8 7F800000
+
+// Item Hack Stam Add-On IOPRs
+Author = libretro-database contributors / original PSP cheat authors
+00493B80 7AFFF000
+
+// Item Hack Stamina Add-On
+Author = libretro-database contributors / original PSP cheat authors
+00492C38 6FFFC000
+
+// Item Hack Str. Add-On IOPRs
+Author = libretro-database contributors / original PSP cheat authors
+00493B84 7EFF0000
+
+// Item Hack Strength Add-On
+Author = libretro-database contributors / original PSP cheat authors
+00492C3C 6FFFC000
+
+// JumpShot/VictoryJump
+Author = libretro-database contributors / original PSP cheat authors
+00296B9C 0000000E
+
+// Level 612875 (Absolute Max)
+Author = libretro-database contributors / original PSP cheat authors
+004929A0 00095A0B
+
+// Maximum Dexterity (999)
+Author = libretro-database contributors / original PSP cheat authors
+202D3B80 000003E7
+202D3B94 000003E7
+202D3BA8 000003E7
+202D3BBC 000003E7
+202D3BD0 000003E7
+
+// Maximum Intellegence (999)
+Author = libretro-database contributors / original PSP cheat authors
+202D3B7C 000003E7
+202D3B90 000003E7
+202D3BA4 000003E7
+202D3BB8 000003E7
+202D3BCC 000003E7
+
+// Maximum Stamina(999)
+Author = libretro-database contributors / original PSP cheat authors
+202D3B78 000003E7
+202D3B8C 000003E7
+202D3BA0 000003E7
+202D3BB4 000003E7
+202D3BC8 000003E7
+
+// Maximum Strength (999)
+Author = libretro-database contributors / original PSP cheat authors
+202D3B74 000003E7
+202D3B88 000003E7
+202D3B9C 000003E7
+202D3BB0 000003E7
+202D3BC4 000003E7
+
+// Mercenary Start Stat Points
+Author = libretro-database contributors / original PSP cheat authors
+002D3B98 0000000A
+
+// NPC Kills Mod (Change Dec..)
+Author = libretro-database contributors / original PSP cheat authors
+0053C854 00000000
+
+// Prowler Start Stat Points
+Author = libretro-database contributors / original PSP cheat authors
+002B3BD4 00000001
+
+// Rapid Fire All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+20232CF0 00000000
+20232CF4 00000000
+00232CF8 00000000
+
+// Room Name Imposter Blank
+Author = libretro-database contributors / original PSP cheat authors
+0053F0F0 00000000
+0053F0F4 00000000
+0053F0F8 00000000
+0053F0FC 00000000
+0053F100 00000000
+0053F104 00000000
+0053F108 00000000
+0053F10C 00000000
+0053F110 00000000
+0053F114 00000000
+0053F118 00000000
+0053F11C 00000000
+0053F120 00000000
+
+// Scout Starting Stat Points
+Author = libretro-database contributors / original PSP cheat authors
+002B3BC0 00000001
+
+// Skill Points Remaining
+Author = libretro-database contributors / original PSP cheat authors
+00492C21 0000000A
+
+// Sky Walker
+Author = libretro-database contributors / original PSP cheat authors
+00296EE4 00000000
+00492890 00000000
+00492928 00000000
+004936C4 00000000
+00507B8C 00000000
+
+// Stamina Hack (Change Dec..)
+Author = libretro-database contributors / original PSP cheat authors
+00492BAC 00000000
+
+// Stat Points Remaining
+Author = libretro-database contributors / original PSP cheat authors
+00492C20 0000000A
+
+// Strength Hack (Change Dec..)
+Author = libretro-database contributors / original PSP cheat authors
+00492BB0 00000000
+
+// The Moon Walk
+Author = libretro-database contributors / original PSP cheat authors
+00296B9C 00296B9C
+
+// The Running Man
+Author = libretro-database contributors / original PSP cheat authors
+00296B9C 00000002
+
+// The Side Spear
+Author = libretro-database contributors / original PSP cheat authors
+00296B9C 00000007
+
+// True Armor (AC) Mod
+Author = libretro-database contributors / original PSP cheat authors
+00492D04 4C0C0000
+
+// True Armor (AC) Mod IOPRs
+Author = libretro-database contributors / original PSP cheat authors
+00493C4C 4C0C0000
+
+// True Cold Resist
+Author = libretro-database contributors / original PSP cheat authors
+00492D0C 4C0C0000
+
+// True Fire Resist
+Author = libretro-database contributors / original PSP cheat authors
+00492D08 4C0C0000
+
+// True Lightning Resist
+Author = libretro-database contributors / original PSP cheat authors
+00492D14 4C0C0000
+
+// True Poison Resist
+Author = libretro-database contributors / original PSP cheat authors
+00492D10 4C0C0000
+
+// True Shadow Resist
+Author = libretro-database contributors / original PSP cheat authors
+00492D18 4C0C0000
+
+// Unlimited Ammo (All X's Weapons)
+Author = libretro-database contributors / original PSP cheat authors
+20232CD2 0000000D
+20232CD6 0000000D
+20232CDA 0000000D
+20232CDE 0000000E
+20232CE2 0000000E
+20232CE6 000000DF
+20232CEE 000000DF
+20232CEA 000000DE
+
+// Ultimate Hacked Level 50
+Author = libretro-database contributors / original PSP cheat authors
+00492C20 0000000A
+002F9C28 7EFFFFFF
+00492C20 0054C563
+004929A0 00000032
+
+// Ultimate True Resist
+Author = libretro-database contributors / original PSP cheat authors
+00492D1C 4C0C0000
+
+// Ultimate True Resist IOPRs
+Author = libretro-database contributors / original PSP cheat authors
+00493C64 4C0C0000
+
+// Whahhh?
+Author = libretro-database contributors / original PSP cheat authors
+00296B9C 0000001F

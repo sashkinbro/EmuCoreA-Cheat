@@ -1,0 +1,2558 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPJH-50444
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Anti Anti-Cheat
+Author = libretro-database contributors / original PSP cheat authors
+E00F8C84 0000D5C2
+2000D5C0 AC807FC0
+2000D5C4 34040000
+2000D61C ACC07FC0
+2000D62C 34060000
+2004166C AC807FC0
+20041670 34040000
+200416C0 ACC07FC0
+200416CC 34060000
+200DAD14 ACA07FC0
+203A70A4 ACA07FC0
+203A750C ACA07FC0
+203A7974 ACA07FC0
+203A7DDC ACA07FC0
+203A8244 ACA07FC0
+203A86AC ACA07FC0
+
+// Anti Anti-Cheat [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2000D5C0 8C847FC0
+2000D5C4 0004202B
+2000D61C 8CC67FC0
+2000D62C 30C600FF
+2004166C 8C847FC0
+20041670 0004202B
+200416C0 8CC67FC0
+200416CC 30C600FF
+200DAD14 ACA47FC0
+203A70A4 ACA47FC0
+203A750C ACA47FC0
+203A7974 ACA47FC0
+203A7DDC ACA47FC0
+203A8244 ACA47FC0
+203A86AC ACA47FC0
+
+// Remove Blur From Cutscenes
+Author = libretro-database contributors / original PSP cheat authors
+E0010006 0032D0B8
+2032D0B8 00002021
+
+// Remove Blur From Cutscenes [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0012021 0032D0B8
+2032D0B8 34040006
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E0880002 00008744
+20008744 26730001
+201651EC 0A20082E
+200020B8 3C0408C8
+200020BC 3C1B4000
+200020C0 449B6800
+200020C4 460D8403
+200020C8 0A25947D
+200020CC 460D7383
+20165294 0A200828
+200020A0 3C0408C8
+200020A4 3C1B4000
+200020A8 449B6800
+200020AC 460D8403
+200020B0 0A2594A7
+200020B4 460D7383
+2014175C 0A20081C
+20002070 3C1B4100
+20002074 449BE000
+20002078 461C683C
+2000207C 3C1B08C6
+20002080 45010004
+20002084 8F7B17F8
+20002088 17600002
+2000208C 3C053F00
+20002090 54000001
+20002094 3C053F80
+20002098 0A2505D9
+2000A738 3C053E80
+202A5838 0A200812
+202A583C C48C00AC
+20002048 3C1B4000
+2000204C 449BE000
+20002050 461C0003
+20002054 0A2A9610
+20002058 46006300
+202A53A8 0A200817
+202A53AC 00902021
+2000205C 3C1B4000
+20002060 449BE000
+20002064 461C0002
+20002068 0A2A94EC
+2000206C C48C00AC
+20087CF8 0A2007FD
+20001FD8 3C1908BD
+20001FDC 8F3B6DEC
+20001FE0 341901F7
+20001FE4 17790007
+20001FEC 0A221F40
+20001FF4 3C1B08C6
+20001FF8 8F7B17F8
+20001FFC 1760FFF6
+20002000 460F6B42
+20002004 3C1B4000
+20002008 449BF000
+2000200C 461E6B43
+20002010 0A221F40
+20002014 461E7383
+20121824 46000300
+200BD46C 0A200807
+2000201C 3C040880
+20002020 8C9B2018
+20002024 13600003
+20002028 341B0001
+2000202C 2610FFFF
+20002030 341B0000
+20002034 0A22F51C
+20002038 AC9B2018
+20053084 2484003C
+2014186C 3C05BF00
+2017DAEC 28A5003C
+2020CD84 3404003C
+201FD924 3C043FC0
+201FD934 3C043FC0
+202E8E50 0A20080F
+2000203C 3C1B3F00
+20002040 0A2BA396
+20002044 449B6000
+20159CB0 3C053F00
+2000A998 3C043F00
+2000A734 00000000
+2000A73C 00000000
+2000A744 00000000
+2008A14C 3C043C88
+2024D1E4 0A200834
+2024D1E8 460DA343
+200020D0 4614A500
+200020D4 46146B43
+200020D8 4614A503
+200020DC 0A29347B
+200020E0 460D6300
+2019AFB4 0A200839
+200020E4 3C1B0880
+200020E8 0A266C01
+200020EC AF761FD4
+2019B864 0A20083C
+2019B868 AC800000
+200020F0 3C1B0880
+200020F4 AF601FD4
+200020F8 0A266E1B
+200020FC 8224003D
+20084A2C 0A200840
+20002100 C48F0048
+20002104 3C1B4190
+20002108 449B6000
+2000210C 460F6032
+20002110 3C1B4000
+20002114 45010003
+20002118 449B6000
+2000211C 460C7383
+20002120 0A22128D
+20002124 3C1B0880
+20002128 8F7B1FD4
+2000212C 1360FFFB
+20002134 0A22128D
+2025D0E8 0A200850
+20002140 3C1B0880
+20002144 8F64213C
+20002148 10800003
+2000214C 34040001
+20002150 24A5FFFF
+20002154 34040000
+20002158 0A29743B
+2000215C AF64213C
+20087D1C 0A200858
+20087D20 461E7BC3
+20002160 460F7302
+20002164 0A221F49
+20002168 460F6B42
+2012BD90 0A20085B
+2012BD94 441B6000
+2000216C 3C053F80
+20002170 17650002
+20002174 3C053F00
+20002178 3C053F80
+2000217C 0A24AF66
+20002180 44856800
+
+// 60 FPS [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20008744 26730002
+201651EC 3C0408C8
+20165294 3C0408C8
+2014175C 3C053F80
+2000A738 3C053F00
+202A5838 C48C00AC
+202A583C 46006300
+202A53A8 00902021
+202A53AC C48C00AC
+20087CF8 460F6B42
+20121824 46000306
+200BD46C 2610FFFF
+20053084 2484001E
+2014186C 3C05BF80
+2017DAEC 28A5001E
+2020CD84 8EC43D08
+201FD924 3C044040
+201FD934 3C044040
+202E8E50 C4AC01B4
+20159CB0 3C053F80
+2000A998 3C043F80
+2000A734 460F6302
+2000A73C 460F6B42
+2000A744 460F6302
+2008A14C 3C043D08
+2024D1E4 460DA343
+2024D1E8 460D6300
+2019AFB4 10000013
+2019B864 AC800000
+2019B868 8224003D
+20084A2C C48F0048
+2025D0E8 24A5FFFF
+20087D1C 460F7302
+20087D20 460F6B42
+2012BD90 3C053F80
+2012BD94 44856800
+40001FD4 006C0001
+
+// 60 FPS (Disc 2)
+Author = libretro-database contributors / original PSP cheat authors
+20008868 00000000
+
+// [Online] Guest 1 Time No Limit
+Author = libretro-database contributors / original PSP cheat authors
+10413438 001B7720
+
+// [Online] Guest 2 Time No Limit
+Author = libretro-database contributors / original PSP cheat authors
+10413458 001B7720
+
+// Ability All
+Author = libretro-database contributors / original PSP cheat authors
+20001020 2407FFFF
+20001024 AC87018C
+20001028 0A2A52DE
+2000102C 02C02025
+20294B70 0A200408
+20294B74 00000000
+
+// Ability Gauge Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+20177304 8E4407C0
+200B229C 8E0407C0
+200B2494 8E0707C0
+2018EA98 8E0507C0
+200C2998 8C8207C0
+
+// Ability Gauge Not Dec. [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200B229C 8E0407BC
+200B2494 8E0707BC
+20177304 8E4407BC
+2018EA98 8E0507BC
+200C2998 8C8207BC
+
+// Ability Max
+Author = libretro-database contributors / original PSP cheat authors
+200B24C0 AE0A07BC
+200C29E8 AE0A07BC
+
+// Accesary 1-10 x99
+Author = libretro-database contributors / original PSP cheat authors
+80423FCA 000A0004
+00000063 00000000
+
+// Activate Event Ring Time
+Author = libretro-database contributors / original PSP cheat authors
+0014B4A2 000000B0
+0014EB8E 00000050
+
+// Activity Time Of War Hero No Limit
+Author = libretro-database contributors / original PSP cheat authors
+200BD46C 26100000
+D0000000 10000300
+200BD46C 20100000
+
+// All Accessories x50
+Author = libretro-database contributors / original PSP cheat authors
+40423FC8 00FE0001
+0032D000 00000001
+
+// All Character AP 999
+Author = libretro-database contributors / original PSP cheat authors
+80426D7C 000D00E0
+100003E7 00000000
+
+// All Chocobos x50
+Author = libretro-database contributors / original PSP cheat authors
+404247E0 00200001
+0032C000 00000001
+
+// All Consumable Items x50
+Author = libretro-database contributors / original PSP cheat authors
+40423C78 002A0001
+0032A000 00000001
+40423D20 00A60001
+0032B000 00000001
+
+// All Phantoma x50
+Author = libretro-database contributors / original PSP cheat authors
+404243C8 001E0001
+0032E000 00000001
+
+// All Phantoma x99
+Author = libretro-database contributors / original PSP cheat authors
+804243C8 001D0004
+00000000 00000001
+804243C9 001D0004
+000000E0 00000000
+804243CA 001D0004
+00000063 00000000
+
+// All Summons Max AP
+Author = libretro-database contributors / original PSP cheat authors
+20428CFC 000003E7
+20428EBC 000003E7
+2042907C 000003E7
+2042923C 000003E7
+204293FC 000003E7
+204295BC 000003E7
+2042977C 000003E7
+2042993C 000003E7
+20429AFC 000003E7
+20429CBC 000003E7
+20429E7C 000003E7
+2042A03C 000003E7
+2042A1FC 000003E7
+2042A3BC 000003E7
+2042A57C 000003E7
+2042A73C 000003E7
+2042A8FC 000003E7
+2042AABC 000003E7
+2042AC7C 000003E7
+2042AE3C 000003E7
+2042AFFC 000003E7
+2042B1BC 000003E7
+2042A37C 000003E7
+
+// All Summons Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20428CF4 05F5E0FF
+20429774 05F5E0FF
+20429934 05F5E0FF
+20429AF4 05F5E0FF
+20429CB4 05F5E0FF
+20429E74 05F5E0FF
+20428EB4 05F5E0FF
+2042A034 05F5E0FF
+2042A1F4 05F5E0FF
+2042A3B4 05F5E0FF
+2042A574 05F5E0FF
+2042A734 05F5E0FF
+20429074 05F5E0FF
+2042A8F4 05F5E0FF
+2042AAB4 05F5E0FF
+20429234 05F5E0FF
+2042AC74 05F5E0FF
+204293F4 05F5E0FF
+2042AFF4 05F5E0FF
+2042B1B4 05F5E0FF
+204295B4 05F5E0FF
+2042B374 05F5E0FF
+
+// All Weapons x50
+Author = libretro-database contributors / original PSP cheat authors
+40424448 00E00001
+0032F000 00000001
+
+// All Will To Fight Max
+Author = libretro-database contributors / original PSP cheat authors
+200DF444 00000000
+
+// Altocrystarium Cards 99
+Author = libretro-database contributors / original PSP cheat authors
+104243CA 00000063
+104243CE 00000063
+104243D2 00000063
+104243D6 00000063
+104243DA 00000063
+104243DE 00000063
+104243E2 00000063
+104243E6 00000063
+104243EA 00000063
+
+// Always Kill/Break
+Author = libretro-database contributors / original PSP cheat authors
+20179194 34040020
+200D2950 13E00004
+200D2964 34040020
+
+// Always Kill/Break [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20179194 826407D2
+200D2950 14D00004
+200D2964 82A407D2
+
+// Analyze EX Magic Fake Solving Orb
+Author = libretro-database contributors / original PSP cheat authors
+2014C6AC 13A0FFF1
+
+// Analyze EX Magic Fake Solving Orb [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2014C6AC 148AFFF1
+
+// AP And Max Varies
+Author = libretro-database contributors / original PSP cheat authors
+200DEA48 00000000
+
+// Atk. Speed Up [Standard]
+Author = libretro-database contributors / original PSP cheat authors
+20000C00 3C043F80
+20000C04 82050007
+20000C08 50A00001
+20000C0C 3C044080
+20000C10 44846000
+20000C14 0A22B6C0
+20000C18 2405FFF7
+200ADAFC 0A200300
+
+// Atk. Speed Up x2
+Author = libretro-database contributors / original PSP cheat authors
+20000C00 3C044000
+20000C04 82050007
+20000C08 50A00001
+20000C0C 3C044080
+20000C10 44846000
+20000C14 0A22B6C0
+20000C18 2405FFF7
+200ADAFC 0A200300
+
+// Atk. Speed Up x3
+Author = libretro-database contributors / original PSP cheat authors
+20000C00 3C044040
+20000C04 82050007
+20000C08 50A00001
+20000C0C 3C044080
+20000C10 44846000
+20000C14 0A22B6C0
+20000C18 2405FFF7
+200ADAFC 0A200300
+
+// Atk. Speed Up x4
+Author = libretro-database contributors / original PSP cheat authors
+20000C00 3C044080
+20000C04 82050007
+20000C08 50A00001
+20000C0C 3C044080
+20000C10 44846000
+20000C14 0A22B6C0
+20000C18 2405FFF7
+200ADAFC 0A200300
+
+// Atk. Speed Up x5
+Author = libretro-database contributors / original PSP cheat authors
+20000C00 3C0440A0
+20000C04 82050007
+20000C08 50A00001
+20000C0C 3C044080
+20000C10 44846000
+20000C14 0A22B6C0
+20000C18 2405FFF7
+200ADAFC 0A200300
+
+// Auto Status (All)
+Author = libretro-database contributors / original PSP cheat authors
+200BB4B0 0E20044C
+20001134 03E00008
+20001130 3C05000
+20001138 34A57BA1
+
+// Biography: Camera Enhanced Control
+Author = libretro-database contributors / original PSP cheat authors
+001550CC 000000E8
+001550E8 000000E8
+D0000001 10008000
+001550CC 000000EC
+001550E8 000000EC
+D0000001 10001000
+001550CC 000000F0
+001550E8 000000F0
+D0000001 10002000
+001550CC 000000DC
+001550E8 000000DC
+
+// Biography: Camera Enhanced Control [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201550CC C60F00E8
+201550DC 460D7BC0
+201550AC 00000000
+201550B4 00000000
+201550C0 00000000
+201550E8 E60F00E8
+
+// Biography: Camera Init. Zero X-0 Yaw-0
+Author = libretro-database contributors / original PSP cheat authors
+20156CC0 44806000
+20154F20 44806000
+
+// Biography: Camera Init. Zero X-0 Yaw-0 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20156CC0 C60C00C4
+20154F20 46806320
+
+// Biography: Camera Collision
+Author = libretro-database contributors / original PSP cheat authors
+20156E5C 3C044900
+20156E84 3C043FC0
+
+// Biography: Camera Collision [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20156E5C 3C044396
+20156E84 3C044248
+
+// Biography: Camera Limitless
+Author = libretro-database contributors / original PSP cheat authors
+20151F9C 46000030
+20151FB4 46000032
+
+// Biography: Camera Limitless [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20151F9C 460C703C
+20151FB4 460D703E
+
+// Biography: Invisible Letter
+Author = libretro-database contributors / original PSP cheat authors
+20156984 1000001E
+
+// Biography: Invisible Letter [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20156984 0601000D
+
+// Biography: Invisible Name
+Author = libretro-database contributors / original PSP cheat authors
+20264D04 34050000
+
+// Biography: Invisible Name [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20264D04 86050046
+
+// Biography: Invisible Profile
+Author = libretro-database contributors / original PSP cheat authors
+20153210 10000061
+
+// Biography: Invisible Profile [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20153210 12400061
+
+// Camera Change 1
+Author = libretro-database contributors / original PSP cheat authors
+20001050 3C010880
+20001054 8C21109C
+20001058 10200015
+2000105C 8E050004
+20001060 8CA401AC
+20001064 44846000
+20001068 46806360
+2000106C 3C043D00
+20001070 44847000
+20001074 460E6B42
+20001078 46146832
+20001080 4501000C
+20001088 C60C00F4
+2000108C 46146032
+20001094 45010007
+200010A0 46006386
+200010A4 46007307
+200010A8 460D7BC0
+200010AC 46007346
+
+// Camera Change 2
+Author = libretro-database contributors / original PSP cheat authors
+200010B4 0E255B09
+200010B8 02002025
+200010C0 0A25543D
+201550EC 0A200414
+201550E4 00000000
+E0048000 004048B4
+201550CC C60F00E8
+201550E8 E60F00E8
+2000109C C60F00EC
+200010B0 E60F00EC
+E0041000 004048B4
+201550CC C60F00DC
+201550E8 E60F00DC
+2000109C C60F00E0
+200010B0 E60F00E0
+E0040008 004048B4
+201550CC C60F00F0
+201550E8 E60F00F0
+2000109C C60F00F0
+200010B0 E60F00F0
+
+// Camera Limit Release
+Author = libretro-database contributors / original PSP cheat authors
+20099EC4 100000CA
+20164BA0 10000004
+20164BC8 10000004
+20164C78 10000018
+20164CF0 1000002C
+20164DB8 10000020
+
+// Camera Limit Release [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20164BA0 10000004
+20164BC8 10000004
+20164C78 00000000
+
+// Camera Low Ungle
+Author = libretro-database contributors / original PSP cheat authors
+20164BA0 10000004
+20164BC8 10000004
+20164C78 00000000
+
+// Camera No Collision
+Author = libretro-database contributors / original PSP cheat authors
+201603EC 00000000
+
+// Camera No Limit
+Author = libretro-database contributors / original PSP cheat authors
+20164BA0 10000004
+20164BC8 10000004
+20164C78 00000000
+
+// Camera Zooms In Opaque
+Author = libretro-database contributors / original PSP cheat authors
+C009A1C0 10000007
+
+// Changing Items For Sale
+Author = libretro-database contributors / original PSP cheat authors
+102AD738 000000FF
+202AD754 1480FF79
+D0000001 10000081
+202AD554 26659FFF
+102AD738 0000002A
+D0000001 10000021
+202AD554 2665AFFF
+102AD738 000000A8
+D0000001 10008080
+202AD554 2665BFFF
+102AD738 00000021
+D0000000 10008020
+202AD554 2665CFFF
+D0000001 10001080
+202AD554 2665DFFF
+102AD738 0000001D
+D0000001 10001020
+202AD554 2665EFFF
+102AD738 000000E0
+D0000001 10000088
+202AD554 26655208
+102AD738 00000094
+
+// Charac. 1P Size x2
+Author = libretro-database contributors / original PSP cheat authors
+2159C570 40000000
+
+// Charac. 2P Size x2
+Author = libretro-database contributors / original PSP cheat authors
+2159CAF0 40000000
+
+// Charac. 3P Size x2
+Author = libretro-database contributors / original PSP cheat authors
+2159D070 40000000
+
+// Charac. Size Change
+Author = libretro-database contributors / original PSP cheat authors
+201A7E84 34040001
+
+// Charac. Size Change [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201A7E84 8E8404D4
+
+// Character's Biography In History Book
+Author = libretro-database contributors / original PSP cheat authors
+001550CC 000000E8
+001550E8 000000E8
+D0000001 10008000
+001550CC 000000EC
+001550E8 000000EC
+D0000001 10001000
+001550CC 000000F0
+001550E8 000000F0
+D0000001 10002000
+001550CC 000000DC
+001550E8 000000DC
+
+// Chocobo 1-10 x99
+Author = libretro-database contributors / original PSP cheat authors
+804247E2 000A0004
+00000063 00000000
+
+// Chocobo All
+Author = libretro-database contributors / original PSP cheat authors
+404247E0 00200001
+0032C000 00000001
+
+// Chocobo No Limit
+Author = libretro-database contributors / original PSP cheat authors
+2020CD9C 1000003C
+
+// Clear Views 99 Times
+Author = libretro-database contributors / original PSP cheat authors
+004206F0 00000063
+
+// Damage Always Max
+Author = libretro-database contributors / original PSP cheat authors
+200D24F8 13E00003
+
+// Damage Always Max [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200D24F8 10800003
+
+// Damage Limit Break
+Author = libretro-database contributors / original PSP cheat authors
+200D2490 10000003
+
+// Damage Limit Break 99999
+Author = libretro-database contributors / original PSP cheat authors
+200D2490 13E00005
+
+// Damage Limit Break 99999 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200D2490 10A00005
+
+// Dash (Press L Trigger)
+Author = libretro-database contributors / original PSP cheat authors
+20000C70 00000000
+D0000000 10000100
+20000C70 44816000
+20000C50 C62C65D8
+20000C54 8E01073C
+20000C58 282F7FFF
+20000C5C 15E00005
+20000C60 240F0008
+20000C64 80210B66
+20000C68 15E10002
+20000C6C 3C014040
+20000C74 0A21C9D0
+20072738 0A200314
+
+// Deactivate Event Ring Time
+Author = libretro-database contributors / original PSP cheat authors
+0014B4A2 000000A0
+0014EB8E 00000040
+
+// Easy Requests
+Author = libretro-database contributors / original PSP cheat authors
+E001202A 00151274
+20151274 34040000
+
+// Easy Requests [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20151274 0085202A
+
+// Emina Cutscene: Camera Collision
+Author = libretro-database contributors / original PSP cheat authors
+2015A068 0A20053C
+2015A06C 00892023
+200014F0 3C054170
+200014F4 0A25681C
+200014F8 44856000
+
+// Emina Cutscene: Camera Collision [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2015A068 00892023
+2015A06C C54C3FD0
+
+// Emina Cutscene: Camera Zoom x512
+Author = libretro-database contributors / original PSP cheat authors
+20131DEC 3C054400
+
+// Emina Cutscene: Camera Zoom x1024
+Author = libretro-database contributors / original PSP cheat authors
+20131DEC 3C054480
+
+// Emina Cutscene: Camera Zoom x1536
+Author = libretro-database contributors / original PSP cheat authors
+20131DEC 3C0544C0
+
+// Emina Cutscene: Camera Zoom x2048
+Author = libretro-database contributors / original PSP cheat authors
+20131DEC 3C054500
+
+// Emina Cutscene: Camera Zoom Restore
+Author = libretro-database contributors / original PSP cheat authors
+20131DEC 3C054334
+
+// Emina Cutscene: Grain Remove
+Author = libretro-database contributors / original PSP cheat authors
+202D95D0 10000027
+
+// Emina Cutscene: Grain Remove [Off]
+Author = libretro-database contributors / original PSP cheat authors
+202D95D0 10A00027
+
+// Emina Cutscene: Lingerie Type Black Only
+Author = libretro-database contributors / original PSP cheat authors
+2013D62C 10000003
+
+// Emina Cutscene: Lingerie Type Black/Feminine Both
+Author = libretro-database contributors / original PSP cheat authors
+2013D62C 13E00003
+
+// Emina Cutscene: Lingerie Type Original
+Author = libretro-database contributors / original PSP cheat authors
+2013D62C 10400003
+
+// Encounter Off
+Author = libretro-database contributors / original PSP cheat authors
+20210C28 1000001A
+D04048B4 00000001
+20210C28 00000000
+
+// Encounter On
+Author = libretro-database contributors / original PSP cheat authors
+20210C28 1000001A
+20210CA4 00000000
+D0000000 10000200
+20210C28 00000000
+
+// Enemy HP 1
+Author = libretro-database contributors / original PSP cheat authors
+20000C00 92280007
+20000C04 55000001
+20000C08 34070001
+20000C0C 0A22CF00
+20000C10 00102080
+200B3BF8 0A200300
+200B3BFC 8E2707A8
+
+// Enemy HP 1 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200B3BF8 00102080
+200B3BFC 8E2707A8
+
+// Enemy Suicide
+Author = libretro-database contributors / original PSP cheat authors
+200ACD2C 00003825
+
+// Enemy Suicide [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200ACD2C 80870007
+
+// Enra Request (Fake Rem)
+Author = libretro-database contributors / original PSP cheat authors
+20131730 3405000D
+
+// Enra Request (Fake Rem) [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20131730 84A50000
+
+// Events Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+0014B4A2 000000A0
+0014EB8E 00000040
+
+// Events Time Stop [Off]
+Author = libretro-database contributors / original PSP cheat authors
+0014B4A2 000000B0
+0014EB8E 00000050
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+200DE4D4 00108040
+
+// Exp. x4
+Author = libretro-database contributors / original PSP cheat authors
+200DE4D4 00108080
+
+// Exp. x8
+Author = libretro-database contributors / original PSP cheat authors
+200DE4D4 001080C0
+
+// Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+200DE4D4 00108100
+
+// Exp. x32
+Author = libretro-database contributors / original PSP cheat authors
+200DE4D4 00108140
+
+// Exp. x64
+Author = libretro-database contributors / original PSP cheat authors
+200DE4D4 00108180
+
+// Exp. x128
+Author = libretro-database contributors / original PSP cheat authors
+200DE4D4 001081C0
+
+// Experience Increases And Max
+Author = libretro-database contributors / original PSP cheat authors
+200DE504 00000000
+
+// Flug
+Author = libretro-database contributors / original PSP cheat authors
+80426D6A 000E01C0
+00000007 00000000
+
+// Forced Kill Site
+Author = libretro-database contributors / original PSP cheat authors
+20000C30 24140008
+20000C34 92D20B66
+20000C38 52920001
+20000C3C 24100001
+20000C40 0A234BFF
+20000C44 8EB407AC
+200D2FF4 0A20030C
+
+// Forced Kill Site (L Trigger)
+Author = libretro-database contributors / original PSP cheat authors
+200D2FF4 8EB407AC
+D0000000 10000100
+200D2FF4 0A20030C
+20000C30 24140008
+20000C34 92D20B66
+20000C38 52920001
+20000C3C 24100001
+20000C40 0A234BFF
+20000C44 8EB407AC
+
+// Full Stone
+Author = libretro-database contributors / original PSP cheat authors
+404243C8 001E0001
+0032E000 00000001
+
+// Fully Open & Can Be Equipped With Magic
+Author = libretro-database contributors / original PSP cheat authors
+200DFFDC 0A200448
+20001120 2402FFFF
+20001124 ACA2012C
+20001128 8CA5012C
+2000112C 0A237FF8
+
+// Guest Magic Enable
+Author = libretro-database contributors / original PSP cheat authors
+200B1E80 13E00087
+200B1D7C 34120001
+
+// Guest Magic Enable [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+200B1E80 14A40087
+200B1D7C 34120000
+
+// Guest Magic Use 0k
+Author = libretro-database contributors / original PSP cheat authors
+200B2168 00000000
+
+// Gil 999999
+Author = libretro-database contributors / original PSP cheat authors
+2042064C 000F423F
+
+// Gil Max Varies
+Author = libretro-database contributors / original PSP cheat authors
+200DAC5C 00000000
+
+// God Of War
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000210
+200BD46C 00000000
+D0000000 10000240
+200BD46C 2610FFFF
+
+// History All
+Author = libretro-database contributors / original PSP cheat authors
+20153038 24040004
+20153058 24040008
+20153078 24040010
+20153098 24040020
+201530B8 24040040
+20153464 24040080
+20153484 24040100
+201534A4 24040200
+20155DBC 00000000
+20156014 00000000
+2015756C 00000000
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+20000E00 82210007
+20000E04 54200001
+20000E08 AE2207A8
+20000E0C 0A22A1A7
+200A864C 0A200380
+200A8650 00000000
+
+// HP Not Dec. v2
+Author = libretro-database contributors / original PSP cheat authors
+200B3C18 0A200306
+200B3C1C 02402025
+20000C18 92260007
+20000C1C 14C00003
+20000C20 00002825
+20000C24 59000001
+20000C28 00004025
+20000C2C 0A22CF08
+
+// HP Not Dec. v2 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200B3C18 02402025
+200B3C1C 00002825
+
+// Instant Spell [L Trigger]
+Author = libretro-database contributors / original PSP cheat authors
+201A7FF4 1D000002
+D0000001 10000100
+201A7FF4 00000000
+
+// Illustrations Open
+Author = libretro-database contributors / original PSP cheat authors
+C0155DB4 2404FFFF
+C0155DB8 A6E40000
+
+// Item 1
+Author = libretro-database contributors / original PSP cheat authors
+00423C7A 00000005
+
+// Item Drop 100%
+Author = libretro-database contributors / original PSP cheat authors
+20178594 13A0FFC7
+
+// Item Drop 100% [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20178594 1440FFC7
+
+// Item Max When Fluctuation
+Author = libretro-database contributors / original PSP cheat authors
+203A71AC 13E00002
+203A7194 10000003
+
+// Item Max When Fluctuation [Off]
+Author = libretro-database contributors / original PSP cheat authors
+203A71AC 10C00002
+203A7194 14C00003
+
+// Item Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+203A7184 0A200500
+20001400 5A400000
+20001404 00009020
+20001408 0A2E9C63
+2000140C 94850002
+
+// Item Pouch Max
+Author = libretro-database contributors / original PSP cheat authors
+80423C7A 00180004
+00000005 00000000
+
+// Item Quantity Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+200B2384 00003025
+
+// Item Quantity Not Dec. [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200B2384 2406FFFF
+
+// Item Rate Drop: Normal
+Author = libretro-database contributors / original PSP cheat authors
+201785A8 1000000C
+
+// Item Rate Drop: Rare
+Author = libretro-database contributors / original PSP cheat authors
+201785A8 13A0000C
+
+// Item Rate Drop All Codes Disable
+Author = libretro-database contributors / original PSP cheat authors
+201785A8 1440000C
+
+// Kill x2
+Author = libretro-database contributors / original PSP cheat authors
+202354FC 24C60002
+2023973C 24840002
+20239A18 24840002
+
+// Kill x100
+Author = libretro-database contributors / original PSP cheat authors
+202354FC 24C60064
+2023973C 24840064
+20239A18 24840064
+
+// Kill Enemy Count 9999
+Author = libretro-database contributors / original PSP cheat authors
+C00DCE14 2402270F
+C00DCE1C AC8224C8
+
+// Kill Sight Enemies Alway
+Author = libretro-database contributors / original PSP cheat authors
+20000C30 24140008
+20000C34 92D20B66
+20000C38 52920001
+20000C3C 24100001
+20000C40 0A234BFF
+20000C44 8EB407AC
+200D2FF4 0A20030C
+
+// Magic All
+Author = libretro-database contributors / original PSP cheat authors
+200DFFDC 2401FFFF
+200DFFE0 ACA1012C
+200DFFE8 24020001
+
+// Magic All Work Ver.
+Author = libretro-database contributors / original PSP cheat authors
+4042079C 00050001
+FFFFFFFF 00000000
+
+// Magic Cast Quickly
+Author = libretro-database contributors / original PSP cheat authors
+201A7FB8 34080000
+
+// Magic Not Use MP
+Author = libretro-database contributors / original PSP cheat authors
+200B1BF0 00000000
+
+// Max Gil
+Author = libretro-database contributors / original PSP cheat authors
+2042064C 000F423F
+
+// Max HP Recovery Rate
+Author = libretro-database contributors / original PSP cheat authors
+200C2438 AE0A07A8
+
+// Maximum SP
+Author = libretro-database contributors / original PSP cheat authors
+20420650 05F5E0FF
+
+// Members Can Reserve At Any Time
+Author = libretro-database contributors / original PSP cheat authors
+200DF35C A4800118
+200DF360 94840118
+200AB3CC 24020000
+200AB3D0 A5020862
+200AB3D4 950207AC
+200AB3D8 A50207A8
+200C4E2C 24050001
+
+// Member Monster
+Author = libretro-database contributors / original PSP cheat authors
+80420674 000E0001
+00000012 00000001
+
+// Member Repair
+Author = libretro-database contributors / original PSP cheat authors
+20420654 01FFFF00
+20420658 05040302
+2042065C 09080706
+20420660 0D0C0B0A
+
+// Mission Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000210
+0014B4A2 000000A0
+0014EB8E 00000040
+D0000001 10000240
+0014B4A2 000000B0
+0014EB8E 00000050
+
+// Moogle Kupo: Wait Skip
+Author = libretro-database contributors / original PSP cheat authors
+2005925C 13E00009
+2005926C 13E00005
+
+// Moogle Kupo: Wait Skip [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2005925C 1C800009
+2005926C 14400005
+
+// MP Consumption 0
+Author = libretro-database contributors / original PSP cheat authors
+200B1BF0 00000000
+
+// MP Max
+Author = libretro-database contributors / original PSP cheat authors
+200B2478 AE0A07B4
+
+// MP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+20000E20 0211082B
+20000E24 50200001
+20000E28 AE0207B4
+20000E2C 0A229BE0
+200A6F30 0A200388
+200A6F34 00000000
+
+// MP Not Dec. v2
+Author = libretro-database contributors / original PSP cheat authors
+200B227C 8E0407B8
+200B2444 8E0707B8
+201753CC 8EE607B8
+
+// MP Not Dec. v2 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200B227C 8E0407B4
+200B2444 8E0707B4
+201753CC 8EE607B4
+
+// No Clip
+Author = libretro-database contributors / original PSP cheat authors
+2007CD94 00000000
+
+// No Condition Kill Sight
+Author = libretro-database contributors / original PSP cheat authors
+20000C30 24140008
+20000C34 92D20B66
+20000C38 52920001
+20000C3C 24100001
+20000C40 0A234BFF
+20000C44 8EB407AC
+200D2FF4 0A20030C
+
+// Order Fixed For Normal
+Author = libretro-database contributors / original PSP cheat authors
+20122F00 00000000
+
+// Order Fixed For Normal [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20122F00 ACC30000
+
+// PC Monster
+Author = libretro-database contributors / original PSP cheat authors
+80420654 000E0001
+00000012 00000001
+
+// PC Translucency 0
+Author = libretro-database contributors / original PSP cheat authors
+2009A1C0 10000007
+
+// Phantoma 1-10 x99
+Author = libretro-database contributors / original PSP cheat authors
+804243CA 000A0004
+00000063 00000000
+
+// Phantoma Hi Speed
+Author = libretro-database contributors / original PSP cheat authors
+201C71CC 10000037
+
+// Phantoma Collection Time Infinity
+Author = libretro-database contributors / original PSP cheat authors
+2014188C 46007346
+
+// Player Transparency
+Author = libretro-database contributors / original PSP cheat authors
+2009A198 46000030
+2009A1B8 46000030
+
+// Player Transparency [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2009A198 4616C03C
+2009A1B8 4614C03C
+
+// Player 1: HP No Decrease
+Author = libretro-database contributors / original PSP cheat authors
+60469F28 00000004
+00000002 000007AC
+100007A8 00000000
+
+// Player 1: MP No Decrease
+Author = libretro-database contributors / original PSP cheat authors
+60469F28 00000004
+00000002 000007B8
+100007B4 00000000
+
+// Player 2: HP No Decrease
+Author = libretro-database contributors / original PSP cheat authors
+60469F5C 00000004
+00000002 000007AC
+100007A8 00000000
+
+// Player 2: MP No Decrease
+Author = libretro-database contributors / original PSP cheat authors
+60469F5C 00000004
+00000002 000007B8
+100007B4 00000000
+
+// Player 3: HP No Decrease
+Author = libretro-database contributors / original PSP cheat authors
+60469F90 00000004
+00000002 000007AC
+100007A8 00000000
+
+// Player 3: MP No Decrease
+Author = libretro-database contributors / original PSP cheat authors
+60469F90 00000004
+00000002 000007B8
+100007B4 00000000
+
+// Quick Spell (Press L Trigger)
+Author = libretro-database contributors / original PSP cheat authors
+201A7FF4 1D000002
+D0000001 10000100
+201A7FF4 00000000
+
+// Random Encount 0%
+Author = libretro-database contributors / original PSP cheat authors
+20210C24 34040001
+
+// Random Encount 100%
+Author = libretro-database contributors / original PSP cheat authors
+20210C24 34040000
+
+// Random Encount [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20210C24 8E046CA4
+
+// Request x100
+Author = libretro-database contributors / original PSP cheat authors
+0042C80E 00000064
+
+// Request Complete (Accept Request & Return Back To Owner)
+Author = libretro-database contributors / original PSP cheat authors
+201512C4 24020001
+
+// Request Complete [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+201512C4 00001025
+
+// Request Done
+Author = libretro-database contributors / original PSP cheat authors
+20151278 13E00012
+
+// Request Done [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20151278 14800012
+
+// Reserve Change 0k
+Author = libretro-database contributors / original PSP cheat authors
+200AB3D8 10400018
+200F59BC 1040000D
+20206EF4 00000000
+E0020300 004048B4
+200AB3D8 00000000
+200F59BC 00000000
+
+// Reserve Member
+Author = libretro-database contributors / original PSP cheat authors
+80420674 000E0001
+00000000 00000001
+
+// Reserve Repair
+Author = libretro-database contributors / original PSP cheat authors
+20420674 03020100
+20420678 07060504
+2042067C 0B0A0908
+10420660 00000D0C
+
+// S.O. Achieved Immediately Attack System
+Author = libretro-database contributors / original PSP cheat authors
+20055090 10000008
+
+// S.O. Clear
+Author = libretro-database contributors / original PSP cheat authors
+20053060 00000000
+200550AC 00000000
+D04048B4 00000001
+20053060 24060000
+
+// S.O. Time No Limit
+Author = libretro-database contributors / original PSP cheat authors
+20053060 24C60000
+D0000000 10000081
+20053060 24060000
+
+// Setzer Call From Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+20215B28 13E00012
+20215BA0 10000011
+20197C38 13E0006A
+20197C74 13E00055
+20212F04 13E00016
+
+// Setzer Call From Anywhere [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20215B28 10800012
+20215BA0 14400011
+20197C38 1080006A
+20197C74 10400055
+20212F04 10400016
+
+// Setzer Flag (Air Ship)
+Author = libretro-database contributors / original PSP cheat authors
+20001110 34420001
+20001114 03E00008
+20001118 A08200C7
+200DDAEC 0A200444
+
+// Setzer Gauge No Disappear
+Author = libretro-database contributors / original PSP cheat authors
+20237D1C 00000000
+D04048B4 00000001
+20237D1C 24040000
+
+// Shop All 1
+Author = libretro-database contributors / original PSP cheat authors
+202AD4F0 14850096
+202AD4FC 14960093
+202AD508 1080000C
+202AD554 96050000
+202AD738 2884012C
+D0000004 10001000
+202AD4F0 00000000
+202AD4FC 00000000
+202AD508 1000000C
+202AD554 2665A000
+202AD738 2884002A
+D0000004 10000020
+202AD554 2665D000
+202AD738 288400FF
+D0000004 10000080
+202AD554 2665F000
+202AD738 288400E3
+
+// Shop All 2
+Author = libretro-database contributors / original PSP cheat authors
+202AD4F0 14850096
+202AD4FC 14960093
+202AD508 1080000C
+202AD554 96050000
+202AD738 2884012C
+D0000004 10001000
+202AD4F0 00000000
+202AD4FC 00000000
+202AD508 1000000C
+202AD554 2665E000
+202AD738 2884001D
+D0000004 10000020
+202AD554 2665B000
+202AD738 288400A8
+D0000004 10000080
+202AD554 2665C000
+202AD738 28840021
+
+// Shop Flag All
+Author = libretro-database contributors / original PSP cheat authors
+200DD594 2401FFFF
+200DD598 ACA1022C
+200DD5A0 24020001
+
+// Shop Flag All [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+200DD5A0 24020001
+
+// Shop Unlock
+Author = libretro-database contributors / original PSP cheat authors
+200DD5A0 24020001
+
+// Shop Unlock [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+200DD5A0 30420001
+
+// SPP 2 Million
+Author = libretro-database contributors / original PSP cheat authors
+20420650 001E8480
+
+// Str./Def./Mag. Max
+Author = libretro-database contributors / original PSP cheat authors
+60469F28 000003E7
+00010007 000007DE
+90000001 00000000
+60469F5C 000003E7
+60469F90 000003E7
+
+// Switch Character Fast
+Author = libretro-database contributors / original PSP cheat authors
+20084A3C 0A2003D4
+20084A40 44806000
+
+// Switch Character Fast [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20084A3C 44806000
+20084A40 440A7000
+
+// Summer Costume Unlock & Save Flag
+Author = libretro-database contributors / original PSP cheat authors
+200DF0C0 34100007
+200DF0C4 A09000F2
+200DF0C8 34110001
+200DF0CC 34040003
+
+// Summer Costume Unlock & Save Flag [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+200DF0C0 908400F2
+200DF0C4 02042006
+200DF0C8 30910001
+200DF0CC 0011882B
+
+// Summon Bahamut Type-0
+Author = libretro-database contributors / original PSP cheat authors
+200BAE08 34040029
+200DEBB4 34120029
+
+// Summon Bahamut Type-0 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200BAE08 86240008
+200DEBB4 84920008
+
+// Summon No Sacrifice
+Author = libretro-database contributors / original PSP cheat authors
+200B4868 10000008
+
+// Summon No Sacrifice [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200B4868 12200008
+
+// Summon On Non-Combat
+Author = libretro-database contributors / original PSP cheat authors
+200B4874 20050000
+
+// Summon Set Time Max
+Author = libretro-database contributors / original PSP cheat authors
+200BAF64 34047FFF
+
+// Summon Set Time Max [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200BAF64 962400F0
+
+// Summon Time No Limit (Force)
+Author = libretro-database contributors / original PSP cheat authors
+200BD46C 26100000
+D0000000 10000300
+200BD46C 20100000
+
+// Summon Time No Limit (Toggle)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000210
+200BD46C 00000000
+D0000000 10000240
+200BD46C 2610FFFF
+
+// Summon Time No Limit (Toggle) v2
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000210
+200BD46C 20100000
+D0000000 10000240
+200BD46C 26100000
+
+// Summon Time No Limit (Toggle) v3
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000210
+200BD46C 26100000
+D0000000 10000240
+200BD46C 20100000
+
+// Summon Time Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+200BD46C 00000000
+
+// Summon Time Not Dec. [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200BD46C 2610FFFF
+
+// Suzaku Charge Lv.100
+Author = libretro-database contributors / original PSP cheat authors
+200C33EC 13E00002
+
+// Suzaku Charge Lv.100 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200C33EC 10C00002
+
+// Suzaku Upgrade No Phantoma
+Author = libretro-database contributors / original PSP cheat authors
+201C7148 10000004
+
+// Suzaku Upgrade To Lv.100
+Author = libretro-database contributors / original PSP cheat authors
+200DD9AC 13E00002
+
+// Suzaku Upgrade To Lv.100 [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+200DD9AC 10800002
+
+// Ultimate Weapons (Except Machina & Rem)
+Author = libretro-database contributors / original PSP cheat authors
+20424448 0001F00F
+2042444C 0001F01F
+20424450 0001F02F
+20424454 0001F03F
+20424458 0001F04F
+2042445C 0001F05F
+20424460 0001F06F
+20424464 0001F07F
+20424468 0001F08F
+2042446C 0001F09F
+20424470 0001F0AF
+20424474 0001F0BF
+20424478 0001F00D
+2042447C 0001F01D
+20424480 0001F02D
+20424484 0001F03D
+20424488 0001F04D
+2042448C 0001F05D
+20424490 0001F06D
+20424494 0001F07D
+20424498 0001F08D
+2042449C 0001F09D
+204244A0 0001F0AD
+204244A4 0001F0BD
+
+// Unlock All Abilities
+Author = libretro-database contributors / original PSP cheat authors
+20001020 2407FFFF
+20001024 AC87018C
+20001028 0A2A52DE
+2000102C 02C02025
+20294B70 0A200408
+20294B74 00000000
+
+// Unlock All Costumes
+Author = libretro-database contributors / original PSP cheat authors
+200DF0C0 908100F2
+200DF0C4 34210006
+200DF0C8 A08100F2
+200DF0CC 24110001
+
+// Unlock All History
+Author = libretro-database contributors / original PSP cheat authors
+20153038 24040004
+20153058 24040008
+20153078 24040010
+20153098 24040020
+201530B8 24040040
+20153464 24040080
+20153484 24040100
+201534A4 24040200
+20155DBC 00000000
+20156014 00000000
+2015756C 00000000
+
+// Unlock All History v2
+Author = libretro-database contributors / original PSP cheat authors
+E0070000 00155DB4
+20155DB4 0E200400
+20155DB8 86E40000
+20001000 14800002
+20001004 341B0087
+20001008 A6FB0000
+2000100C 03E00008
+20001010 34040001
+
+// Unlock All History v2 [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+20155DB4 86E40000
+20155DB8 30840001
+
+// Unlock All Magic
+Author = libretro-database contributors / original PSP cheat authors
+200DFFDC 2401FFFF
+200DFFE0 ACA1012C
+200DFFE8 24020001
+
+// Unlock All Summons
+Author = libretro-database contributors / original PSP cheat authors
+200DF78C 948100EA
+200DF790 34210002
+200DF794 A48100EA
+200DF798 24020001
+
+// Unlock All Summons [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+200DF78C 948400EA
+200DF790 00048043
+200DF798 02001025
+
+// Unlock L'cie Mode
+Author = libretro-database contributors / original PSP cheat authors
+2029133C 00000000
+2029138C 00000000
+
+// Unlock L'cie Mode Form Display
+Author = libretro-database contributors / original PSP cheat authors
+20290B90 13E00005
+202911E0 13E00055
+202912B0 13E00021
+202912B8 13E00011
+2029133C 13E00044
+2029138C 13E0002E
+
+// Unlock L'cie Mode Form Display [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20290B90 10800005
+202911E0 14400055
+202912B0 10800021
+202912B8 10A00011
+2029133C 10800044
+2029138C 1080002E
+
+// Unlock L'cie Mode Form Flag Save
+Author = libretro-database contributors / original PSP cheat authors
+20290B84 8C81018C
+20290B88 34210010
+20290B8C AC81018C
+20290B90 13E00005
+
+// Unlock L'cie Mode Form Flag Save [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20290B84 8C84018C
+20290B88 00042102
+20290B8C 30840001
+20290B90 10800005
+
+// Unlock Setzer (Air Craft)
+Author = libretro-database contributors / original PSP cheat authors
+20001110 34420001
+20001114 03E00008
+20001118 A08200C7
+200DDAEC 0A200444
+
+// Unlock Setzer (Air Craft) [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+200DDAF0 24020001
+
+// Unlock Summer Costumes
+Author = libretro-database contributors / original PSP cheat authors
+80423C78 000E0004
+0000007F 00000001
+80423C79 000E0004
+000000B0 00000000
+80423C7A 000E0004
+00000001 00000000
+
+// Upgrade Magic Not Use Phantoma
+Author = libretro-database contributors / original PSP cheat authors
+202AC31C 00000000
+
+// Walk Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+2007CD94 00000000
+
+// Walk Through Walls [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2007CD8C 108000BD
+
+// Walk Through + Air Walk
+Author = libretro-database contributors / original PSP cheat authors
+2007CB18 46000032
+
+// Walk Through + Air Walk [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2007CB18 46186832
+
+// Walk Through Walls v2
+Author = libretro-database contributors / original PSP cheat authors
+2007CADC 0A20031C
+2007CAE0 AFBE00B4
+2007CD84 0A200324
+2007CD88 02602025
+20000C70 8CA6073C
+20000C74 10C00004
+20000C78 00000000
+20000C7C 80C60007
+20000C80 3C070880
+20000C84 A0E60CA8
+20000C88 0A21F2B9
+20000C8C AFBF00B8
+20000C90 3C050880
+20000C94 80A50CA8
+20000C98 50A00001
+20000C9C 00002025
+20000CA0 0A21F363
+20000CA4 2671FFFF
+
+// Walk Through Walls v2 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2007CADC AFBE00B4
+2007CAE0 AFBF00B8
+2007CD84 02602025
+2007CD88 2671FFFF
+
+// Ace: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+20426D7C 000003E7
+
+// Ace: Laser Dmg. Timing
+Author = libretro-database contributors / original PSP cheat authors
+201E0708 34050003
+
+// Ace: Laser Dmg. Timing [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201E0708 3405000A
+
+// Ace: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20426D74 05F5E0FF
+
+// Ace: Trap Card Dmg. Every Frame
+Author = libretro-database contributors / original PSP cheat authors
+201E0034 10000003
+
+// Ace: Trap Card Dmg. Every Frame [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201E0034 10800003
+
+// Cater: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+204272BC 000003E7
+
+// Cater: Bullet Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+201416A8 44806800
+
+// Cater: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+204272B4 05F5E0FF
+
+// Cingue: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042747C 000003E7
+
+// Cingue: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20427474 05F5E0FF
+
+// Deuce: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+20426F3C 000003E7
+
+// Deuce: Barrage (Big Sonic)
+Author = libretro-database contributors / original PSP cheat authors
+201B44B8 13E00003
+
+// Deuce: Barrage (Big Sonic) [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201B44B8 14A00003
+
+// Deuce: Barrage (Small Sonic)
+Author = libretro-database contributors / original PSP cheat authors
+201AECE8 13E00003
+
+// Deuce: Barrage (Small Sonic) [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201AECE8 15400003
+
+// Deuce: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20426F34 05F5E0FF
+
+// Eight: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+204279BC 000003E7
+
+// Eight: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+204279B4 05F5E0FF
+
+// Eight: Mugen Toubu Perfect Dodge
+Author = libretro-database contributors / original PSP cheat authors
+201734CC 10000005
+
+// Eight: Mugen Toubu Perfect Dodge [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201734CC 10A60005
+
+// Eight: Sutemi Punch Life Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+200BFB44 00000000
+
+// Eight: Sutemi Punch Life Not Dec. [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200BFB44 AE1107A8
+
+// Jack: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+20427D3C 000003E7
+
+// Jack: Beni Fubuki Life Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+200BFB44 00000000
+
+// Jack: Beni Fubuki Life Not Dec. [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200BFB44 AE1107A8
+
+// Jack: Indou Watashi Hyper Dash
+Author = libretro-database contributors / original PSP cheat authors
+200BE090 34040020
+
+// Jack: Indou Watashi Hyper Dash [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200BE090 820407D2
+
+// Jack: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20427D34 05F5E0FF
+
+// Jack: Meikyo Shisui (Counter)
+Author = libretro-database contributors / original PSP cheat authors
+20173438 10000005
+201961D8 34055112
+
+// Jack: Mikiri (Counter)
+Author = libretro-database contributors / original PSP cheat authors
+20173438 10000005
+201961D8 34055114
+
+// Jack: Mikiri & Meikyo (Counter) [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20173438 10A60005
+201961D8 8E450004
+
+// King: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+204280BC 000003E7
+
+// King: Bullet Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+201416C8 E48E0000
+
+// King: Infinite Bullet
+Author = libretro-database contributors / original PSP cheat authors
+201416C0 46007346
+
+// King: Infinite Bullet [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201416C0 460D7341
+
+// King: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+204280B4 05F5E0FF
+
+// King: Powered Bullet Max Charge
+Author = libretro-database contributors / original PSP cheat authors
+2018CE58 13E00003
+
+// King: Powered Bullet Max Charge [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2018CE58 14C00003
+
+// King: Quick Draw Perfect Defense
+Author = libretro-database contributors / original PSP cheat authors
+20173564 10000009
+20173594 13E00028
+
+// King: Quick Draw Perfect Defense [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20173564 10A60009
+20173594 14A00028
+
+// King: Snipe Rapid Fire
+Author = libretro-database contributors / original PSP cheat authors
+2018E850 13E0002A
+
+// King: Snipe Rapid Fire [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2018E850 1480002A
+
+// Machina: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042827C 000003E7
+
+// Machina: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20428274 05F5E0FF
+
+// Nine: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+20427B7C 000003E7
+
+// Nine: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20427B74 05F5E0FF
+
+// Nine: Spiral Lance Dmg. Every Frame
+Author = libretro-database contributors / original PSP cheat authors
+201CA24C 13E00002
+
+// Nine: Spiral Lance Dmg. Every Frame [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201CA24C 14800002
+
+// Queen: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+20427EFC 000003E7
+
+// Queen: Cross Judge Time Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+200BDA94 34110064
+
+// Queen: Cross Judge Time Not Dec. [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200BDA94 8E1107BC
+
+// Queen: Janus Burnup Without Glasses
+Author = libretro-database contributors / original PSP cheat authors
+200B0454 13E00002
+
+// Queen: Janus Burnup Without Glasses [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200B0454 14D10002
+
+// Queen: Janus Living Dead
+Author = libretro-database contributors / original PSP cheat authors
+200C6900 13E00027
+
+// Queen: Janus Living Dead [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200C6900 14A00027
+
+// Queen: Janus Mode
+Author = libretro-database contributors / original PSP cheat authors
+200C6938 00000000
+
+// Queen: Janus Mode [Reraise]
+Author = libretro-database contributors / original PSP cheat authors
+200C6900 10000041
+
+// Queen: Janus Muteki Unrestricted
+Author = libretro-database contributors / original PSP cheat authors
+200B4BBC 2400700F
+200B4BDC 3400407F
+
+// Queen: Janus Never Kill Sight
+Author = libretro-database contributors / original PSP cheat authors
+200C6858 1000000C
+
+// Queen: Janus Never Kill Sight [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200C6858 14A0000C
+
+// Queen: Janus No Kill Sight
+Author = libretro-database contributors / original PSP cheat authors
+200C6864 00000000
+
+// Queen: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20427EF4 05F5E0FF
+
+// Queen: Reflect Perfect Guard
+Author = libretro-database contributors / original PSP cheat authors
+201736A4 10000005
+
+// Queen: Reflect Perfect Guard [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201736A4 10850005
+
+// Rem: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042843C 000003E7
+
+// Rem: Aspil Field Dmg. Every Frame
+Author = libretro-database contributors / original PSP cheat authors
+201D62C0 13E00002
+
+// Rem: Aspil Field Dmg. Every Frame [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201D62C0 14C00002
+
+// Rem: Aspil Venom Dmg. Every Frame
+Author = libretro-database contributors / original PSP cheat authors
+201D59F0 13E00002
+
+// Rem: Aspil Venom Dmg. Every Frame [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201D59F0 14800002
+
+// Rem: Fast Cast
+Author = libretro-database contributors / original PSP cheat authors
+201A7FF4 13E00002
+2019B93C 13E00016
+2019B980 10000007
+201947F8 10000005
+
+// Rem: Fast Cast [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201A7FF4 1D000002
+2019B93C 04C00016
+2019B980 10800007
+201947F8 12400005
+
+// Rem: Magic Satellite Charge Speed Max
+Author = libretro-database contributors / original PSP cheat authors
+2019B668 3404518A
+2019B680 3416518A
+
+// Rem: Magic Satellite Charge Speed Max [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2019B668 8E24000C
+2019B680 8E36000C
+
+// Rem: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20428434 05F5E0FF
+
+// Seven: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+204277FC 000003E7
+
+// Seven: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+204277F4 05F5E0FF
+
+// Sice: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042763C 000003E7
+
+// Sice: Dark Nebula Zone High Damage
+Author = libretro-database contributors / original PSP cheat authors
+20198B90 34057FFF
+
+// Sice: Dark Nebula Zone High Damage [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20198B90 960507EE
+
+// Sice: Dark Nemesis Kill 100%
+Author = libretro-database contributors / original PSP cheat authors
+20198BAC 34127FFF
+
+// Sice: Dark Nemesis Kill 100% [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20198BAC 961207EE
+
+// Sice: Hatred Max
+Author = libretro-database contributors / original PSP cheat authors
+201215F0 3405000F
+20121690 34047FFF
+200AE940 34047FFF
+
+// Sice: Hatred Max [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201215F0 94E507EE
+20121690 94A407EE
+200AE940 960407EE
+
+// Sice: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20427634 05F5E0FF
+
+// Sice: Psycho Voltex Dmg. Every Frame
+Author = libretro-database contributors / original PSP cheat authors
+201C1EA0 13E00057
+
+// Sice: Psycho Voltex Dmg. Every Frame [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201C1EA0 14C00057
+
+// Sice: Scythe High Damage
+Author = libretro-database contributors / original PSP cheat authors
+20198CFC 34057FFF
+
+// Sice: Scythe High Damage [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20198CFC 960507EE
+
+// Trey: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+204270FC 000003E7
+
+// Trey: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+204270F4 05F5E0FF
+
+// Astaroth: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042AFFC 000003E7
+
+// Bahamut: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+204295BC 000003E7
+
+// Bahamut Kai: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042B1BC 000003E7
+
+// Bahamut Reishiki: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042A37C 000003E7
+
+// Balberith: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042AE3C 000003E7
+
+// Calamity: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+20429CBC 000003E7
+
+// Diabolus: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+204293FC 000003E7
+
+// Diabolus: G-Ball Barrage
+Author = libretro-database contributors / original PSP cheat authors
+201AEF84 13E00003
+
+// Diabolus: G-Ball Barrage [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201AEF84 15200003
+
+// Diabolus: G-Ball Charge Speed Max
+Author = libretro-database contributors / original PSP cheat authors
+201C433C 1000003F
+201C449C 13E0001B
+
+// Diabolus: G-Ball Charge Speed Max [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201C433C 4500003F
+201C449C 4501001B
+
+// Fire Blend: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042977C 000003E7
+
+// Ifrit: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+20428CFC 000003E7
+
+// Ignis: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+20429E7C 000003E7
+
+// Gigas: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042A03C 000003E7
+
+// Golem: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+20428EBC 000003E7
+
+// Grimnir: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042AC7C 000003E7
+
+// Mame Golem: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042A73C 000003E7
+
+// Mame Shiva: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042AABC 000003E7
+
+// Odin: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042923C 000003E7
+
+// Ogre: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042A3BC 000003E7
+
+// Rubicante: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042993C 000003E7
+
+// Shankara: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042A8FC 000003E7
+
+// Shiva: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042907C 000003E7
+
+// Titan: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042A57C 000003E7
+
+// Troll: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2042A1FC 000003E7
+
+// Vulcan: AP 999
+Author = libretro-database contributors / original PSP cheat authors
+20429AFC 000003E7
+
+// Control Character: Shiva
+Author = libretro-database contributors / original PSP cheat authors
+20420654 00000014
+
+// Model Data P1: Kurasame
+Author = libretro-database contributors / original PSP cheat authors
+21439078 009400BD
+20469F0C 0000000F
+
+// Model Data P2: Tonberry
+Author = libretro-database contributors / original PSP cheat authors
+21439078 009400BD
+20469F40 00000010
+
+// Model Data P3: ???? (Joker)
+Author = libretro-database contributors / original PSP cheat authors
+21439078 009400BD
+20469F74 0000000E
+
+// Play As ???? (Joker)
+Author = libretro-database contributors / original PSP cheat authors
+00420654 0000000E
+00420674 0000000E
+
+// Play As Gilgamesh
+Author = libretro-database contributors / original PSP cheat authors
+00420654 00000011
+00420674 00000011
+
+// Play As Kurasame
+Author = libretro-database contributors / original PSP cheat authors
+00420654 0000000F
+00420674 0000000F
+
+// Play As Summon Eidolon: Bahamut Type-0
+Author = libretro-database contributors / original PSP cheat authors
+00420654 00000029
+00420674 00000029
+
+// Play As Summon Eidolon: Bahamut K
+Author = libretro-database contributors / original PSP cheat authors
+00420654 00000028
+00420674 00000028
+
+// Play As Summon Eidolon: Grimnir
+Author = libretro-database contributors / original PSP cheat authors
+00420654 00000024
+00420674 00000024
+
+// Play As Summon Eidolon: Odin
+Author = libretro-database contributors / original PSP cheat authors
+00420654 00000025
+00420674 00000025
+
+// Play As Tonberry
+Author = libretro-database contributors / original PSP cheat authors
+00420654 00000010
+00420674 00000010
+
+// Reserve Order: Machina & Rem
+Author = libretro-database contributors / original PSP cheat authors
+20420674 03020100
+20420678 07060504
+2042067C 0B0A0908
+20420680 FFFF0D0C
+
+// Reserve Order: King & Queen
+Author = libretro-database contributors / original PSP cheat authors
+20420674 03020100
+20420678 07060504
+2042067C 0B0A0908
+20420680 FFFF0B0A
+
+// Reserve Member: Queen
+Author = libretro-database contributors / original PSP cheat authors
+20420654 01FFFF0A
+20420658 05040302
+2042065C 09080706
+20420660 0D0C0B0A
+
+// Mission: Clear Time 0
+Author = libretro-database contributors / original PSP cheat authors
+2014B164 34050000
+
+// Mission: Clear Time 0 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2014B164 34058C9F
+
+// Mission: Dead Phantoma S.O. 999
+Author = libretro-database contributors / original PSP cheat authors
+2014B178 34040001
+
+// Mission: Dead Phantoma S.O. 999 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2014B178 00A6202A
+
+// Mission: Defeat Enemy 9999
+Author = libretro-database contributors / original PSP cheat authors
+2014B154 34040001
+
+// Mission: Defeat Enemy 9999 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2014B154 00A6202A
+
+// Mission: Head-Count Match for a Thousand
+Author = libretro-database contributors / original PSP cheat authors
+2029ED20 13E00007
+2029ED30 34040003
+
+// Mission: Head-Count Match for a Thousand [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2029ED20 45000007
+2029ED30 34040003
+
+// Mission: Marks Rank S
+Author = libretro-database contributors / original PSP cheat authors
+2029EDA8 1000001E
+2029EDAC 34020005
+
+// Mission: Marks Rank S [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2029EDA8 4501001E
+2029EDAC 34020000
+
+// Mission: Online Unlock All (Apply To Save)
+Author = libretro-database contributors / original PSP cheat authors
+2014AF40 34020001
+202B8A78 A4820002
+
+// Mission: Online Unlock All (Read Only)
+Author = libretro-database contributors / original PSP cheat authors
+2014AF40 34020001
+
+// Mission: Online Unlock All [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+2014AF40 94820002
+202B8A78 00000000
+
+// Mission: S.O. Both Success
+Author = libretro-database contributors / original PSP cheat authors
+20050BD4 10400005
+20055170 10800033
+20055244 10800064
+2046B554 00000001
+20050BD4 13E00005
+20055170 10000033
+20055244 13E00064
+D2000000 00000000
+
+// Mission: S.O. Only Success
+Author = libretro-database contributors / original PSP cheat authors
+20050BD4 0A200440
+20001100 3C0408C6
+20001104 3484B534
+20001108 10850005
+20001110 14400003
+20001118 0A2142FB
+20001120 0A2142F7
+20055168 0A20044C
+2005516C AFA90020
+20001130 92240018
+20001134 3C0108C6
+20001138 3421B534
+2000113C 50310001
+20001140 34040000
+20001144 0A21545C
+20055244 13E00064
+
+// Mission: S.O. Only Success [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20050BD4 10400005
+20055168 AFA90020
+2005516C 92240018
+20055244 10800064
+
+// Mission: S.O. Timer 0m00s
+Author = libretro-database contributors / original PSP cheat authors
+2005304C 34040000
+20053060 34060000
+
+// Mission: S.O. Timer 9m59s
+Author = libretro-database contributors / original PSP cheat authors
+2005304C 2484FFFF
+20053060 34060257
+
+// Mission: S.O. Timer Restore
+Author = libretro-database contributors / original PSP cheat authors
+2005304C 2484FFFF
+20053060 24C6FFFF
+
+// Mission 2: Clear Time 0
+Author = libretro-database contributors / original PSP cheat authors
+20149B2C AE0002E0
+
+// Mission 2: Clear Time 0 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20149B2C AE0202E0
+
+// Mission 2: Dead 0
+Author = libretro-database contributors / original PSP cheat authors
+20149B40 AE0002E8
+
+// Mission 2: Dead 0 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20149B40 AE0202E8
+
+// Mission 2: Phantoma 999
+Author = libretro-database contributors / original PSP cheat authors
+20149B54 0E200480
+20001200 340203E7
+20001204 03E00008
+20001208 AE0202E4
+
+// Mission 2: Phantoma 999 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20149B54 AE0202E4
+
+// Mission 2: S.O. 999
+Author = libretro-database contributors / original PSP cheat authors
+20149B7C 0E200483
+2000120C 340203E7
+20001210 03E00008
+20001214 AE0202F0
+
+// Mission 2: S.O. 999 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20149B7C AE0202F0
+
+// Weather Control All Codes Off
+Author = libretro-database contributors / original PSP cheat authors
+2005C294 8E050024
+2005C2FC 8E130024
+
+// Weather Control: Fog
+Author = libretro-database contributors / original PSP cheat authors
+2005C294 24050001
+2005C2FC 24130001
+
+// Weather Control: For Town Use
+Author = libretro-database contributors / original PSP cheat authors
+2005C294 2405FFFF
+2005C2FC 2413FFFF
+
+// Weather Control: Heat Wave
+Author = libretro-database contributors / original PSP cheat authors
+2005C294 24050004
+2005C2FC 24130004
+
+// Weather Control: Heavy Rain
+Author = libretro-database contributors / original PSP cheat authors
+2005C294 24050003
+2005C2FC 24130003
+
+// Weather Control: Rain
+Author = libretro-database contributors / original PSP cheat authors
+2005C294 24050002
+2005C2FC 24130002
+
+// Weather Control: Sand Storm
+Author = libretro-database contributors / original PSP cheat authors
+2005C294 24050009
+2005C2FC 24130009
+
+// Weather Control: Snow
+Author = libretro-database contributors / original PSP cheat authors
+2005C294 24050007
+2005C2FC 24130007
+
+// Weather Control: Snow Storm
+Author = libretro-database contributors / original PSP cheat authors
+2005C294 24050008
+2005C2FC 24130008
+
+// Weather Control: Sunny (Morning)
+Author = libretro-database contributors / original PSP cheat authors
+2005C294 24050000
+2005C2FC 24130000
+
+// Weather Control: Sunny (Night)
+Author = libretro-database contributors / original PSP cheat authors
+2005C294 24050006
+2005C2FC 24130006
+
+// Weather Control: Sunny (Noon)
+Author = libretro-database contributors / original PSP cheat authors
+2005C294 24050005
+2005C2FC 24130005

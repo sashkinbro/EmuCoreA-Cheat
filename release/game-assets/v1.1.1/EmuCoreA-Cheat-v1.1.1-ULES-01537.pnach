@@ -1,0 +1,335 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-01537
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Force 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+203D96E4 00000001
+
+// Asuma Sarutobi
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000003D
+00406ECC 00000000
+
+// Asuma Sarutobi (Sick)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000003D
+00406ECC 00000001
+
+// Danzo
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000027
+
+// Daidara
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000012
+
+// Deidara (C2 Mode)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000012
+00406ECC 00000001
+
+// Guy
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000007
+
+// Hachibi Tail 7
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000026
+
+// Hidan
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000018
+00406ECC 00000001
+
+// Hinata
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000006
+
+// Iruka
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000003
+
+// Itachi Uchiha (Susano'o)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000000F
+00406ECC 00000002
+
+// Itachi Uchiha (Susano'o CPU)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000000F
+00406ECC 00000001
+
+// Jiraya
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000000A
+
+// Jiraya (Sage Mode)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000000B
+
+// Kakashi
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000005
+
+// Kakuzu
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000015
+
+// Kakuzu (Shinzo Mode)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000016
+
+// Kazekage
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000022
+
+// Killer Bee
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000024
+
+// Killer Bee (Chakra Mode)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000025
+
+// Kisame
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000010
+
+// Kisame (Shark Mode)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000011
+
+// Konan (Tenshi Mode)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000020
+00406ECC 00000001
+
+// Kyubi Tail 4
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000002
+
+// Kyubi Tail 6
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000003
+
+// Lee
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000008
+
+// Madara Uchiha
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000021
+00406ECC 00000000
+
+// Mizukage
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000002A
+
+// Naruto (Sage Mode)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000001
+
+// Onoki (Tsucikage)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000029
+
+// Orochimaru
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000028
+
+// Pain
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000019
+
+// Pain Absorbing
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000001D
+
+// Pain Hell
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000001C
+
+// Pain Human
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000001B
+
+// Pain Robot
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000001A
+
+// Pain Summoning
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000001E
+
+// Pain Summoning (Female)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000001F
+
+// Raikage
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000023
+
+// Sakura
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000004
+
+// Samurai
+Author = libretro-database contributors / original PSP cheat authors
+004069C4 00000030
+004069CC 00000000
+
+// Sasori
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000013
+
+// Sasori (Self-Puppet Mode)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000014
+
+// Sasuke (Curse Mark)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000000E
+
+// Sasuke (Susano'o)
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000000D
+00406ECC 0000000D
+
+// Shikamaru
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000009
+
+// Sugetsu
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000003F
+
+// Tobi
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 00000021
+00406ECC 00000001
+
+// Youndaime Minato
+Author = libretro-database contributors / original PSP cheat authors
+00406EC4 0000000C
+
+// Asuma Sarutobi [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000003D
+00406ECD 00000000
+
+// Asuma Sarutobi (Coma) [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000003D
+00406ECD 00000001
+
+// Deidara (C2 Mode) [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 00000012
+00406ECD 00000001
+
+// Hachibi Tail 7 [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 00000026
+
+// Iruka [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000003E
+
+// Itachi (Susano'o) [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000000F
+00406ECD 00000002
+
+// Itachi (Susano'o CPU) [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000000F
+00406ECD 00000001
+
+// Jiraya Sage [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000000B
+
+// Kakuzu (Shinzo Mode) [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 00000016
+
+// Kisame (Shark Mode) [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 00000011
+
+// Konan (Tenshi Mode) [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 00000020
+00406ECD 00000001
+
+// Kyubi Tail 4 [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 00000002
+
+// Kyubi Tail 6 [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 00000003
+
+// Madara Uchiha [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 00000021
+00406ECD 00000000
+
+// Mizukage [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000002A
+
+// Onoki (Tsucikage) [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 00000029
+
+// Orochimaru [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 00000028
+
+// Pain Absorbing [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000001D
+
+// Pain Hell [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000001C
+
+// Pain Human [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000001B
+
+// Pain Robot [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000001A
+
+// Pain Summoning [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000001E
+
+// Pain Summoning (Female) [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000001F
+
+// Sasori Self (Puppet) [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 00000014
+
+// Sasuke (Curse Mark) [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000000E
+
+// Sasuke (Susano'o) [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000000D
+00406ECD 0000000D
+
+// Sugetsu [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 0000003F
+
+// Tobi [P2]
+Author = libretro-database contributors / original PSP cheat authors
+00406EC8 00000021
+00406ECD 00000001

@@ -1,6 +1,6 @@
 {
-  "batch": "batch-009",
-  "release": "v1.1.0",
+  "batch": "batch-010",
+  "release": "v1.1.1",
   "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
   "libretroCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
   "libretroEntries": [
@@ -93,12 +93,28 @@
       "sha256": "F12E3D6F3EEA99C332492444994CA3A464FB6EC75905F6EF2F52B7EA464F2623"
     },
     {
+      "serial": "NPJH-50353",
+      "sourceFile": "Tales Of The World - Radiant Mythology 3 (PlayStation Store) [JP] [NPJH-50353].cht",
+      "blocks": 81,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "D6358BE77CD6608D1D3204D616EEFEC6AAA9C366EC0BE7097667D8EA1A317D08"
+    },
+    {
       "serial": "NPJH-50377",
       "sourceFile": "Dissidia 012 - Duodecim Final Fantasy (PlayStation Store) [JP] [NPJH-50377].cht",
       "blocks": 154,
       "excluded": 0,
       "malformed": 0,
       "sha256": "66EC966BEF35E6C148BA660F45F1404CB42DFF926C434BE339729295A5191B26"
+    },
+    {
+      "serial": "NPJH-50430",
+      "sourceFile": "SNK Arcade Classics 0 [JP] [NPJH-50430].cht",
+      "blocks": 66,
+      "excluded": 17,
+      "malformed": 0,
+      "sha256": "23347B6FA2EA4DDE20545177FDF1536D417743096751255BFDD9BDA08B2AE6FB"
     },
     {
       "serial": "NPJH-50435",
@@ -243,6 +259,22 @@
       "excluded": 8,
       "malformed": 0,
       "sha256": "0FDE68C0879A564B371BD2261D923FEA03AFFACA052EA46C521B68F798B87136"
+    },
+    {
+      "serial": "NPUH-10191",
+      "sourceFile": "The Legend Of Heroes - Trails In The Sky - SC (Disc 1) [US] [NPUH-10191].cht",
+      "blocks": 78,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "EC6E044F8802864223FFDA4B2648D570665BA007CAC563DE4E01066857F5888C"
+    },
+    {
+      "serial": "NPUH-10197",
+      "sourceFile": "The Legend Of Heroes - Trails In The Sky - SC (Disc 2) [US] [NPUH-10197].cht",
+      "blocks": 78,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "67902FF62A7AD2C82B9DB6AF1C518DD8AE44EFCD1DB55BDC11055D15F33CB412"
     },
     {
       "serial": "UCES-00356",
@@ -477,6 +509,14 @@
       "sha256": "C1DD551D5FE58289FBAAADF55E2B6F31BB9F33ECA259853DB32AFECCFB85D968"
     },
     {
+      "serial": "ULES-00645",
+      "sourceFile": "Metal Gear Solid - Portable Ops [EU] [ULES-00645].cht",
+      "blocks": 73,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "97360E8F4760038F4DDE08BA7A1A672201E2B01952603BF96499791B6BF565C1"
+    },
+    {
       "serial": "ULES-00657",
       "sourceFile": "Valhalla Knights [EU] [ULES-00657].cht",
       "blocks": 189,
@@ -533,6 +573,14 @@
       "sha256": "EF376554F4D21AA0136F98B41C5F7E3111D48E2A1984A05AD3205E954C9AD653"
     },
     {
+      "serial": "ULES-00987",
+      "sourceFile": "Final Fantasy II - 20th Anniversary Edition [EU] [ULES-00987].cht",
+      "blocks": 78,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "CC0DB2FB562CF1F9A0C48DC9BA4ADDD6C2CA119457A59478D402E7B8EE39B6FB"
+    },
+    {
       "serial": "ULES-00999",
       "sourceFile": "Disgaea - Afternoon Of Darkness [EU] [ULES-00999].cht",
       "blocks": 98,
@@ -549,6 +597,14 @@
       "sha256": "0DC9C2810374389FF2EE9815A177D5C6694E5F3E7223CF438FE017D575E13207"
     },
     {
+      "serial": "ULES-01045",
+      "sourceFile": "Crisis Core - Final Fantasy VII [EU] [ULES-01045].cht",
+      "blocks": 83,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "DF385506126C0CB7FCB858B4C3D4970A73AA0D01F63E600E93BBE8BE4C2603FB"
+    },
+    {
       "serial": "ULES-01144",
       "sourceFile": "Midnight Club - L.A. Remix [EU] [ULES-01144].cht",
       "blocks": 99,
@@ -563,6 +619,14 @@
       "excluded": 1,
       "malformed": 0,
       "sha256": "6B031A30D5A48846592762188173E7F91917F09347B243FB87EF1BD665A86F51"
+    },
+    {
+      "serial": "ULES-01154",
+      "sourceFile": "Star Ocean - First Departure [EU] [ULES-01154].cht",
+      "blocks": 84,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "14365E9E945A1597989BD9DEBAC3EC4390D51A976A8FEB553883F23B6DA2968B"
     },
     {
       "serial": "ULES-01183",
@@ -645,6 +709,38 @@
       "sha256": "0CE026006714EFF29AB0C7DA5504234B9522B4CB7D852AE5C596E6F709D6AC73"
     },
     {
+      "serial": "ULES-01431",
+      "sourceFile": "Dead Or Alive Paradise [EU] [ULES-01431].cht",
+      "blocks": 82,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "F9CFA8D0DCBC16EF020F6D1A7BBDB6EACFEE11742336775C916539355689D81A"
+    },
+    {
+      "serial": "ULES-01441",
+      "sourceFile": "Kingdom Hearts - Birth By Sleep [EU] [ULES-01441].cht",
+      "blocks": 87,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "1B9DB56BFB27DB5613A6050E74488434A65F713261EE577C1F43A33A14FC8F9D"
+    },
+    {
+      "serial": "ULES-01472",
+      "sourceFile": "WWE SmackDown! Vs. RAW 2011 [EU] [ULES-01472].cht",
+      "blocks": 80,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "6A7BCB0FF16C0A73CA83BD4DBF66C9B5CF14CC53561C9166EADD63374C4FA0E4"
+    },
+    {
+      "serial": "ULES-01489",
+      "sourceFile": "Harvest Moon - Hero Of Leaf Valley [EU] [ULES-01489].cht",
+      "blocks": 85,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "CD221C75F18CF7BDE27B51FCD4900D7977DE2843AC21C94C373931D4B1A8C439"
+    },
+    {
       "serial": "ULES-01500",
       "sourceFile": "Tactics Ogre - Let Us Cling Together [EU] [ULES-01500].cht",
       "blocks": 136,
@@ -667,6 +763,14 @@
       "excluded": 6,
       "malformed": 0,
       "sha256": "3D3EB0942B212FF7BC5BDE63E31BCC60106E703A6AE342C8C6628FCB831F9242"
+    },
+    {
+      "serial": "ULES-01537",
+      "sourceFile": "Naruto Shippuden - Ultimate Ninja Impact [EU] [ULES-01537].cht",
+      "blocks": 78,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "B412C243A7E32EDCD5400E05E03DDDF6DCE344F7D9319C03E26635D704A2F348"
     },
     {
       "serial": "ULJM-05101",
@@ -909,6 +1013,30 @@
       "sha256": "4259AB9B4570460A371462C04BB6F3C4FF8C7C260F76AA345D53364812A5A268"
     },
     {
+      "serial": "ULJS-00167",
+      "sourceFile": "The Idolm@ster SP - Perfect Sun [JP] [ULJS-00167].cht",
+      "blocks": 79,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "586D0BCA90CED2DD738537523E377FDAE06160DEC8E851B2A46D6D5DD4B1EA18"
+    },
+    {
+      "serial": "ULJS-00175",
+      "sourceFile": "Tales Of The World - Radiant Mythology 2 [JP] [ULJS-00175].cht",
+      "blocks": 77,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "314B5956A78376C3904269C41B25F77130F5F284BF41C4A2A8AB028EC4887207"
+    },
+    {
+      "serial": "ULJS-00178",
+      "sourceFile": "Kidou Senshi Gundam - Giren No Yabou - Axis No Kyoui V [JP] [ULJS-00178].cht",
+      "blocks": 88,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "EA8D87B17A97CAB3E2F8A3234C4CD7B4DFB934A99D094C482119F3EBB2F8D649"
+    },
+    {
       "serial": "ULJS-00183",
       "sourceFile": "Makai Senki Disgaea 2 Portable [JP] [ULJS-00183].cht",
       "blocks": 123,
@@ -949,12 +1077,36 @@
       "sha256": "C292BF3562FE0CE5EBCD793B118734C812E4648A68CA52AD977B1318640DDE5F"
     },
     {
+      "serial": "ULJS-00377",
+      "sourceFile": "Queen's Gate - Spiral Chaos [JP] [ULJS-00377].cht",
+      "blocks": 77,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "736A8E34494A55D2480BCEEEE744078A94A5780AB158CB1D271F22B7CC2AB8CD"
+    },
+    {
+      "serial": "ULJS-00460",
+      "sourceFile": "Dai-2-Ji Super Robot Taisen Z Saisei-hen [JP] [ULJS-00460].cht",
+      "blocks": 86,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "FF92550B0564F3E31659A2812F5875A55934A2737880F7FC43E040256338D68A"
+    },
+    {
       "serial": "ULUS-10041",
       "sourceFile": "Grand Theft Auto - Liberty City Stories (v1.00-3.00) [US] [ULUS-10041].cht",
       "blocks": 408,
       "excluded": 18,
       "malformed": 0,
       "sha256": "40DB98D78A059036424505DC99DE94E4A65845E050B84A122D205227A102BB25"
+    },
+    {
+      "serial": "ULUS-10045",
+      "sourceFile": "X-Men Legends II - Rise Of Apocalypse [US] [ULUS-10045].cht",
+      "blocks": 69,
+      "excluded": 10,
+      "malformed": 0,
+      "sha256": "16337B20B54F705AC93CA038CA3793EC6F06026BFD6CF1C8CB1860787E19DEBE"
     },
     {
       "serial": "ULUS-10059",
@@ -965,6 +1117,14 @@
       "sha256": "298E3E07F15BD963E2FFAEEE0B3B1A0D03047DAA3A23A5665C311D389EB2B27B"
     },
     {
+      "serial": "ULUS-10068",
+      "sourceFile": "Megaman Maverick Hunter X [US] [ULUS-10068].cht",
+      "blocks": 83,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "121F8D49BFF244F182BE98C63AE539FD974E92FCE6ED0F971D6878A345781CD6"
+    },
+    {
       "serial": "ULUS-10084",
       "sourceFile": "Monster Hunter Freedom [US] [ULUS-10084].cht",
       "blocks": 346,
@@ -973,12 +1133,28 @@
       "sha256": "BAE2C3659E3AB4203D548AD945B33ED01D20CF3F9BF54D65145DD1250B80E00E"
     },
     {
+      "serial": "ULUS-10086",
+      "sourceFile": "Untold Legends - The Warrior's Code [US] [ULUS-10086].cht",
+      "blocks": 89,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "A2ADFF5DE02EC3FB76DE0E55422C702B8E52586CED519A5790FBFA7E7C6D47E2"
+    },
+    {
       "serial": "ULUS-10087",
       "sourceFile": "Viewtiful Joe - Red Hot Rumble [US] [ULUS-10087].cht",
       "blocks": 97,
       "excluded": 1,
       "malformed": 0,
       "sha256": "9AD30E5BB91D444E19711FB40F8DD57492F0A05F8CD5BE2AD9948CC08686647C"
+    },
+    {
+      "serial": "ULUS-10089",
+      "sourceFile": "Samurai Warriors - State Of War [US] [ULUS-10089].cht",
+      "blocks": 79,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "B97ACFB9974E8A8FED25171510887A8F3922BDB9B28581BC121918BC4C264285"
     },
     {
       "serial": "ULUS-10097",
@@ -1101,12 +1277,28 @@
       "sha256": "A91F5EFD9EFD495DC3E0B113902E0C862D3C293F9C87CCAB475CF23741317D2F"
     },
     {
+      "serial": "ULUS-10277",
+      "sourceFile": "Castlevania - The Dracula X Chronicles [US] [ULUS-10277].cht",
+      "blocks": 72,
+      "excluded": 12,
+      "malformed": 0,
+      "sha256": "469D8953AD46191B7C4E8E94DAB2DFB21407BAAC9134E545D84B7329202951EF"
+    },
+    {
       "serial": "ULUS-10282",
       "sourceFile": "Dungeon Maker - Hunting Ground [US] [ULUS-10282].cht",
       "blocks": 93,
       "excluded": 0,
       "malformed": 0,
       "sha256": "CA7E844D0E04E3DA85192F242715CE94A77D29E3393E072EED31C949EA24690C"
+    },
+    {
+      "serial": "ULUS-10289",
+      "sourceFile": "Dungeon Explorer - Warriors Of Ancient Arts [US] [ULUS-10289].cht",
+      "blocks": 76,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "43402AF7FD5019050927FA1C66D91D8D324536DB8F45A4D31BC458C4F342DF78"
     },
     {
       "serial": "ULUS-10290",
@@ -1403,6 +1595,14 @@
       "excluded": 12,
       "malformed": 0,
       "sha256": "FB9CA5A686D7DECA47F48DE4F646C677F894472D0E9889AD80F7FAB321FD76BA"
+    },
+    {
+      "serial": "ULUS-10593",
+      "sourceFile": "Growlanser IV - Wayfarer Of Time [US] [ULUS-10593].cht",
+      "blocks": 76,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "E2E97B8BD02AD2AC9169A0711818B6C211DCD877C9C503DDC38EEC87BF620FFB"
     }
   ]
 }

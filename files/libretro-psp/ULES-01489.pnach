@@ -1,0 +1,354 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-01489
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Clock Time Mod: Stop Time (Press L+Up/Down)
+Author = libretro-database contributors / original PSP cheat authors
+205720EC FEEF0110
+2004724C 00000000
+D2000000 00000000
+205720EC FEBF0140
+2004724C AE420078
+
+// Clock Time Mod: Fast Forward Clock Time (Press Triangle)
+Author = libretro-database contributors / original PSP cheat authors
+205720EC EFFF1000
+204BBC88 000000FF
+D2000000 00000000
+
+// Day Mod (1): Monday
+Author = libretro-database contributors / original PSP cheat authors
+204BBC94 00000001
+
+// Day Mod (2): Tuesday
+Author = libretro-database contributors / original PSP cheat authors
+204BBC94 00000002
+
+// Day Mod (3): Wednesday
+Author = libretro-database contributors / original PSP cheat authors
+204BBC94 00000003
+
+// Day Mod (4): Thursday
+Author = libretro-database contributors / original PSP cheat authors
+204BBC94 00000004
+
+// Day Mod (5): Friday
+Author = libretro-database contributors / original PSP cheat authors
+204BBC94 00000005
+
+// Day Mod (6): Saturday
+Author = libretro-database contributors / original PSP cheat authors
+204BBC94 00000006
+
+// Day Mod (7): Sunday
+Author = libretro-database contributors / original PSP cheat authors
+204BBC94 00000007
+
+// Forecast Mod: Cloudy
+Author = libretro-database contributors / original PSP cheat authors
+204BBC4A 00000001
+
+// Forecast Mod: Rainy
+Author = libretro-database contributors / original PSP cheat authors
+204BBCA4 00000002
+
+// Forecast Mod: Snowy
+Author = libretro-database contributors / original PSP cheat authors
+204BBCA4 00000004
+
+// Forecast Mod: Stormy
+Author = libretro-database contributors / original PSP cheat authors
+204BBCA4 00000005
+
+// Forecast Mod: Sunny
+Author = libretro-database contributors / original PSP cheat authors
+204BBCA4 00000000
+
+// Forecast Mod: Very Rainy
+Author = libretro-database contributors / original PSP cheat authors
+204BBCA4 00000003
+
+// Infinite Item Usage
+Author = libretro-database contributors / original PSP cheat authors
+20087384 24020000
+2008759C 24040000
+20087618 24040000
+
+// Infinite Item Usage [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20087384 320200FF
+2008759C 7C042620
+20087618 7C042620
+
+// Infinite Stamina
+Author = libretro-database contributors / original PSP cheat authors
+20099334 24050064
+200993C4 A4805A16
+
+// Infinite Water In Watering Can
+Author = libretro-database contributors / original PSP cheat authors
+204D6030 0000001E
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+204F6138 0098967F
+
+// Season Mod: Fall
+Author = libretro-database contributors / original PSP cheat authors
+204BBC90 00000003
+
+// Season Mod: Spring
+Author = libretro-database contributors / original PSP cheat authors
+204BBC90 00000001
+
+// Season Mod: Summer
+Author = libretro-database contributors / original PSP cheat authors
+204BBC90 00000002
+
+// Season Mod: Winter
+Author = libretro-database contributors / original PSP cheat authors
+204BBC90 00000004
+
+// Weather Mod: Cloudy
+Author = libretro-database contributors / original PSP cheat authors
+204BBC9C 00000001
+
+// Weather Mod: Rainy
+Author = libretro-database contributors / original PSP cheat authors
+204BBC9C 00000002
+
+// Weather Mod: Snowy
+Author = libretro-database contributors / original PSP cheat authors
+204BBC9C 00000004
+
+// Weather Mod: Stormy
+Author = libretro-database contributors / original PSP cheat authors
+204BBC9C 00000005
+
+// Weather Mod: Sunny
+Author = libretro-database contributors / original PSP cheat authors
+204BBC9C 00000000
+
+// Weather Mod: Very Rainy
+Author = libretro-database contributors / original PSP cheat authors
+204BBC9C 00000003
+
+// 1st
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000001
+
+// 2nd
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000002
+
+// 3rd
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000003
+
+// 4th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000004
+
+// 5th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000005
+
+// 6th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000006
+
+// 7th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000007
+
+// 8th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000008
+
+// 9th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000009
+
+// 10th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 0000000A
+
+// 11th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 0000000B
+
+// 12th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 0000000C
+
+// 13th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 0000000D
+
+// 14th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 0000000E
+
+// 15th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 0000000F
+
+// 16th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000010
+
+// 17th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000011
+
+// 18th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000012
+
+// 19th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000013
+
+// 20th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000014
+
+// 21st
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000015
+
+// 22nd
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000016
+
+// 23rd
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000017
+
+// 24th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000018
+
+// 25th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 00000019
+
+// 26th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 0000001A
+
+// 27th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 0000001B
+
+// 28th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 0000001C
+
+// 29th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 0000001D
+
+// 30th
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 0000001E
+
+// 31st
+Author = libretro-database contributors / original PSP cheat authors
+204BBC98 0000001F
+
+// 1:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 0000699F
+
+// 1:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 00055B77
+
+// 2:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 0000D317
+
+// 2:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 0005C543
+
+// 3:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 00013CFF
+
+// 3:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 00062E83
+
+// 4:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 0001A65F
+
+// 4:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 00069843
+
+// 5:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 000210C3
+
+// 5:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 000701FB
+
+// 6:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 000278D0
+
+// 6:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 00076AE7
+
+// 7:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 0002E334
+
+// 7:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 0007D4DC
+
+// 8:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 0003B643
+
+// 8:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 00083E2B
+
+// 9:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 0003B58B
+
+// 9:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 0008A7D7
+
+// 10:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 00041F03
+
+// 10:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 00091153
+
+// 11:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 000488FF
+
+// 11:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 00097ABF
+
+// 12:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 00000000
+
+// 12:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+204BBC88 0004F233

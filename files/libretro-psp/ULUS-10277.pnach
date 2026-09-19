@@ -1,0 +1,370 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10277
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 15 FPS
+Author = libretro-database contributors / original PSP cheat authors
+202F068C 00000000
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+202F068C 00000001
+
+// 60 FPS (Beta)
+Author = libretro-database contributors / original PSP cheat authors
+2002DC2C 00000000
+
+// 60 FPS v2 (Beta)
+Author = libretro-database contributors / original PSP cheat authors
+2002DAA4 00000000
+
+// 60 FPS v3 (Beta)
+Author = libretro-database contributors / original PSP cheat authors
+20239590 3F000000
+
+// SoTN - Full Screen Patch
+Author = libretro-database contributors / original PSP cheat authors
+10113A74 000001E0
+10118C10 000001E0
+1011AD38 000001E0
+1011AE38 000001E0
+1011AE54 000001E0
+1011C6E0 000001E0
+
+// SoTN - Original Res.
+Author = libretro-database contributors / original PSP cheat authors
+E0100001 0010000C
+E00F0100 1011D8CC
+2011D8CC 24100100
+2011D75C 24030100
+2011D768 240300D0
+2011E764 240401E0
+2011E768 24050110
+2010330C 0A200800
+20002000 341B01E0
+20002004 15FB0005
+2000200C 147B0003
+20002014 00001821
+20002018 00007821
+2000201C 0A240CC5
+20002020 AF0C0004
+201143C0 24110100
+201143C4 241000D0
+
+// Akumajyou Dracula Peke Invincible
+Author = libretro-database contributors / original PSP cheat authors
+00F24E90 00000060
+
+// All Music
+Author = libretro-database contributors / original PSP cheat authors
+2037325C 01010101
+20373260 01010101
+20373264 01010101
+20373268 01010101
+2037326C 01010101
+20373270 01010101
+20373274 01010101
+20373278 01010101
+2037327C 01010101
+20373280 01010101
+20373284 01010101
+20373288 01010101
+2037328C 01010101
+
+// Door 1
+Author = libretro-database contributors / original PSP cheat authors
+20057F60 3C0243C8
+
+// Door 2
+Author = libretro-database contributors / original PSP cheat authors
+20058140 24030078
+
+// Enemies/Bosses Die Automatically
+Author = libretro-database contributors / original PSP cheat authors
+2006C58C 92030118
+2006C5B4 A2000118
+
+// Have Akumajyou Dracula Peke
+Author = libretro-database contributors / original PSP cheat authors
+2037322E 00000001
+
+// Have Classic Rondo Of Blood
+Author = libretro-database contributors / original PSP cheat authors
+2037322C 00000001
+
+// Have Symphony Of The Night
+Author = libretro-database contributors / original PSP cheat authors
+2037322D 00000001
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+A8AF19B0 00000300
+18BF8B28 00005C5C
+D2000000 00000000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+202F19B0 00000300
+203F8B28 00005C5C
+D2000000 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20963F24 0000270F
+
+// Infinite Hearts
+Author = libretro-database contributors / original PSP cheat authors
+A8AF19B0 00000300
+18BF8B2A 00006363
+D2000000 00000000
+
+// Infinite Hearts v2
+Author = libretro-database contributors / original PSP cheat authors
+202F19B0 00000300
+203F8B2A 00006363
+D2000000 00000000
+
+// Infinite Hearts
+Author = libretro-database contributors / original PSP cheat authors
+20963F3C 000003E8
+
+// Infinite Hearts Maria
+Author = libretro-database contributors / original PSP cheat authors
+00963F3C 00000063
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+203F8B3C 00000063
+
+// Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+20963F44 000003E7
+
+// Invincibility Time
+Author = libretro-database contributors / original PSP cheat authors
+200F11CC 2402005A
+
+// Invincibility Time v2
+Author = libretro-database contributors / original PSP cheat authors
+2008F868 2408001E
+
+// Jump In Midair Richter & Maria
+Author = libretro-database contributors / original PSP cheat authors
+20001000 908803A1
+20001004 31080020
+20001008 11000002
+2000100C 3C08C1A7
+20001010 44880000
+20001014 E4800374
+20001018 0A23DD61
+20001040 908803A1
+20001044 31080020
+20001048 11000002
+2000104C 3C08C187
+20001050 44880000
+20001054 E4800374
+20001058 0A240AFE
+200F757C 0A200400
+20102BF0 0A200410
+
+// Luk. Mod
+Author = libretro-database contributors / original PSP cheat authors
+00963F58 00000063
+
+// Maria Attack Correction
+Author = libretro-database contributors / original PSP cheat authors
+002DCC84 00000030
+
+// Max/Infinite Gold
+Author = libretro-database contributors / original PSP cheat authors
+20963F84 3B9AC9FF
+
+// Max Con.
+Author = libretro-database contributors / original PSP cheat authors
+00963F50 00000063
+
+// Max Health
+Author = libretro-database contributors / original PSP cheat authors
+20963F28 0000270F
+
+// Max Hearts
+Author = libretro-database contributors / original PSP cheat authors
+20963F40 000003E8
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+10963F38 0000270F
+
+// Max Int.
+Author = libretro-database contributors / original PSP cheat authors
+00963F54 00000063
+
+// Max MP
+Author = libretro-database contributors / original PSP cheat authors
+19163F48 000003E7
+
+// Max MP v2
+Author = libretro-database contributors / original PSP cheat authors
+10963F40 0000270F
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+203F8B30 05F5E0FF
+
+// Max Str.
+Author = libretro-database contributors / original PSP cheat authors
+00963F4C 00000063
+
+// Max/Infinite Credits
+Author = libretro-database contributors / original PSP cheat authors
+203F8B38 0000270F
+
+// Original RoB: 99 Hearts
+Author = libretro-database contributors / original PSP cheat authors
+004EF514 00000063
+
+// Original RoB: 99 Rest
+Author = libretro-database contributors / original PSP cheat authors
+004EF50D 00000063
+
+// Original RoB: Invincible
+Author = libretro-database contributors / original PSP cheat authors
+004F08E0 0000005C
+
+// Original RoB: Max Health
+Author = libretro-database contributors / original PSP cheat authors
+004EF518 0000005C
+
+// Original Rondo Of Blood: 99 Hearts
+Author = libretro-database contributors / original PSP cheat authors
+004EF514 00000063
+
+// Original Rondo Of Blood: 99 Rest
+Author = libretro-database contributors / original PSP cheat authors
+004EF50D 00000063
+
+// Original Rondo Of Blood: Max Health
+Author = libretro-database contributors / original PSP cheat authors
+004EF518 00000063
+
+// Press Select For All Relics v2
+Author = libretro-database contributors / original PSP cheat authors
+2033BC84 00000001
+D5000000 00000001
+C0000000 0000001D
+D8000000 00963CF8
+D2000000 00000000
+
+// Quick Exp. Gain
+Author = libretro-database contributors / original PSP cheat authors
+20963F80 0000FFFF
+
+// RoB - 1 Point For Extra Rest
+Author = libretro-database contributors / original PSP cheat authors
+203F8B34 7FFFFFFF
+
+// RoB - Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+E002FFF0 00231424
+D0000000 30000300
+003F8B28 0000005C
+
+// RoB - Inf. Hearts
+Author = libretro-database contributors / original PSP cheat authors
+E002FFF0 00231424
+D0000000 30000300
+003F8B2A 00000063
+
+// RoB - Inf. Rests
+Author = libretro-database contributors / original PSP cheat authors
+D0231424 0000FFF0
+003F8B3C 00000063
+
+// RoB - Infinite Jump (Maria)
+Author = libretro-database contributors / original PSP cheat authors
+E003FFF0 00231424
+D0000001 10000100
+602F257C 00000001
+00000001 00000280
+
+// RoB - Invincible (Both)
+Author = libretro-database contributors / original PSP cheat authors
+E003FFF0 00231424
+602F257C 000000FF
+00000001 00000380
+
+// RoB - Max Credits
+Author = libretro-database contributors / original PSP cheat authors
+103F8B38 0000270F
+
+// RoB - Max Credits v2
+Author = libretro-database contributors / original PSP cheat authors
+D0231424 0000FFF0
+103F8B38 0000270F
+
+// RoB - Max Health
+Author = libretro-database contributors / original PSP cheat authors
+003F8B28 000000FF
+
+// RoB - Max Hearts
+Author = libretro-database contributors / original PSP cheat authors
+003F8B2A 00000063
+
+// RoB - Max Rests
+Author = libretro-database contributors / original PSP cheat authors
+003F8B3C 00000063
+
+// RoB - Max Score
+Author = libretro-database contributors / original PSP cheat authors
+203F8B30 0098967F
+
+// SoTN-Alucard 999 Con.
+Author = libretro-database contributors / original PSP cheat authors
+10963F50 000003E7
+10963F70 000003E7
+
+// SoTN-Alucard 999 Intel
+Author = libretro-database contributors / original PSP cheat authors
+10963F54 000003E7
+10963F74 000003E7
+
+// SoTN-Alucard 999 Luck
+Author = libretro-database contributors / original PSP cheat authors
+10963F4C 000003E7
+
+// SoTN-Alucard 999 Strength
+Author = libretro-database contributors / original PSP cheat authors
+10963F58 000003E7
+10963F78 000003E7
+
+// SoTN-Alucard Inf. Hearts
+Author = libretro-database contributors / original PSP cheat authors
+00963F3C 00000063
+
+// SoTN-Alucard Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+10962610 000003E7
+10963F34 000003E7
+
+// SoTN-Alucard Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+20963F84 000F423F
+
+// SoTN-Alucard Inf. MP
+Author = libretro-database contributors / original PSP cheat authors
+00963F44 00000064
+
+// Turkey Leg Of Tim
+Author = libretro-database contributors / original PSP cheat authors
+003F8B2C 00000006
+00D1E445 00000008
+
+// Unlock All Original Games
+Author = libretro-database contributors / original PSP cheat authors
+E002FFF0 00231424
+8037322C 00030001
+00000001 00000000
+
+// Whip Attack Correction
+Author = libretro-database contributors / original PSP cheat authors
+202DCC74 1E2D1224

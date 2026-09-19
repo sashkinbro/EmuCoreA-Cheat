@@ -1,0 +1,526 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-01431
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Characters Clearance Back To The Number Of The Largest
+Author = libretro-database contributors / original PSP cheat authors
+8087C9B4 000A00A8
+1000FFFF 00000000
+
+// All Characters Game Time 1000 Hours
+Author = libretro-database contributors / original PSP cheat authors
+4087C9B0 000A0054
+004A6B13 00000000
+
+// All Most People Money
+Author = libretro-database contributors / original PSP cheat authors
+4044F97C 000A0001
+05F5E0FF 00000000
+
+// Always Black Jack Wins
+Author = libretro-database contributors / original PSP cheat authors
+204B92DC 00000015
+
+// Animation Speed: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20480A64 40000000
+
+// Animation Speed: Even Slower
+Author = libretro-database contributors / original PSP cheat authors
+20480A64 3F000000
+
+// Animation Speed: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20480A64 3F800000
+
+// Animation Speed: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20480A64 3FC00000
+
+// Animation Speed: Slow
+Author = libretro-database contributors / original PSP cheat authors
+20480A64 3F400000
+
+// Bet Changer Casino
+Author = libretro-database contributors / original PSP cheat authors
+004BACD0 00000000
+
+// Blackjack (21)
+Author = libretro-database contributors / original PSP cheat authors
+204B92DC 00000015
+
+// BlackJack Get 21 Points, Press (Down)
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000040
+004B92DC 00000015
+004B9274 00000015
+004B9228 00000015
+
+// Breast Physics
+Author = libretro-database contributors / original PSP cheat authors
+200CDA14 14800003
+
+// Breast Physics [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200CDA14 00000000
+
+// Camera Zoom In
+Author = libretro-database contributors / original PSP cheat authors
+003D0C82 00000000
+
+// Camera Zoom Out
+Author = libretro-database contributors / original PSP cheat authors
+003D0C83 10004100
+
+// Emperor's New Clothes
+Author = libretro-database contributors / original PSP cheat authors
+C0221230 0A200400
+20001000 8D050030
+20001004 3C067964
+20001008 34C66F62
+2000100C 50C50002
+20001010 AD00001C
+20001014 AD04001C
+20001018 03E00008
+2000101C 27BD0010
+
+// Gamespeed (Use Only In Volleyball & Relax Mode)
+Author = libretro-database contributors / original PSP cheat authors
+20007CD0 3C044080
+
+// Good 01 Rock 01 The Following Code For Pool Side Watch
+Author = libretro-database contributors / original PSP cheat authors
+202F179C 3F814800
+
+// Good 02 Rock 02
+Author = libretro-database contributors / original PSP cheat authors
+204E82E4 3FC00000
+
+// Good 03 Rock 03
+Author = libretro-database contributors / original PSP cheat authors
+204E82B4 BC343956
+
+// Inf. Cash
+Author = libretro-database contributors / original PSP cheat authors
+2044F980 05F5E100
+204BACD8 05F5E100
+204BACDC 05F5E100
+
+// Inf. Money Slot Machines
+Author = libretro-database contributors / original PSP cheat authors
+00538C80 05F5E0FF
+
+// Inf. Money Casino
+Author = libretro-database contributors / original PSP cheat authors
+004BACDC 05F5E0FF
+
+// Max Cash After Using Some
+Author = libretro-database contributors / original PSP cheat authors
+201B5B50 00000000
+201B5BB4 00000000
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+20538C80 001E8480
+20538C88 001E8480
+2044F97C 001E8480
+2044F98C 001E8480
+2044F990 001E8480
+2044F984 001E8480
+2044F988 001E8480
+2044F998 001E8480
+2044F994 001E8480
+2044F99C 001E8480
+2044F980 001E8480
+2044F9A0 001E8480
+
+// Money (2000000)
+Author = libretro-database contributors / original PSP cheat authors
+2044F98C 001E8480
+20538C80 001E8480
+20538C88 001E8480
+
+// Money For Buying
+Author = libretro-database contributors / original PSP cheat authors
+2044F98C 000DBBA0
+20538C80 000DBBA0
+20538C88 000DBBA0
+
+// New Camera
+Author = libretro-database contributors / original PSP cheat authors
+003D0CC3 10004100
+
+// New Camera v2
+Author = libretro-database contributors / original PSP cheat authors
+003D0CC2 00000000
+
+// Other Volleyball Score 0
+Author = libretro-database contributors / original PSP cheat authors
+004A6B13 00000000
+
+// Our Volleyball Scores Of 6
+Author = libretro-database contributors / original PSP cheat authors
+004A6B12 00000006
+
+// Poker: Royal Flush (Clubs)
+Author = libretro-database contributors / original PSP cheat authors
+204CA618 0000000A
+204CA61C 00000003
+204CA630 0000000B
+204CA634 00000003
+204CA648 0000000C
+204CA64C 00000003
+204CA660 0000000D
+204CA664 00000003
+204CA678 00000001
+204CA67C 00000003
+
+// Poker: Royal Flush (Diamonds)
+Author = libretro-database contributors / original PSP cheat authors
+204CA618 0000000A
+204CA61C 00000002
+204CA630 0000000B
+204CA634 00000002
+204CA648 0000000C
+204CA64C 00000002
+204CA660 0000000D
+204CA664 00000002
+204CA678 00000001
+204CA67C 00000002
+
+// Poker: Royal Flush (Hearts)
+Author = libretro-database contributors / original PSP cheat authors
+204CA618 0000000A
+204CA61C 00000001
+204CA630 0000000B
+204CA634 00000001
+204CA648 0000000C
+204CA64C 00000001
+204CA660 0000000D
+204CA664 00000001
+204CA678 00000001
+204CA67C 00000001
+
+// Poker: Royal Flush (Spades)
+Author = libretro-database contributors / original PSP cheat authors
+204CA618 0000000A
+204CA61C 00000000
+204CA630 0000000B
+204CA634 00000000
+204CA648 0000000C
+204CA64C 00000000
+204CA660 0000000D
+204CA664 00000000
+204CA678 00000001
+204CA67C 00000000
+
+// Stop 01 Fixed Camera (Angles, Fixed)
+Author = libretro-database contributors / original PSP cheat authors
+203D03B4 00000000
+
+// Stop Fixed Screen Rotation Of 02 Shots
+Author = libretro-database contributors / original PSP cheat authors
+203D01CC 43838000
+203D0140 43838000
+203D00A0 43838000
+203CFFE0 43838000
+
+// Swimsuits
+Author = libretro-database contributors / original PSP cheat authors
+201F9B10 0E2884D8
+
+// Swimsuits [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201F9B10 00000000
+
+// Swimsuit 01 [Close]
+Author = libretro-database contributors / original PSP cheat authors
+E1060004 30000B00
+D0000004 10004010
+6047F6D8 3F800000
+00020007 000000CC
+20000000 2000000C
+20000000 20000038
+2000002C 2000006C
+
+// Swimsuit 01 [Open]
+Author = libretro-database contributors / original PSP cheat authors
+E1060005 20000B00
+D0000004 10004010
+6047F6D8 41300000
+00020007 000000CC
+20000000 2000000C
+20000000 20000038
+2000002C 2000006C
+
+// Swimsuit 02 [Close]
+Author = libretro-database contributors / original PSP cheat authors
+E1060004 30000B00
+D0000004 10004020
+6047F6D8 3F800000
+00020007 000000CC
+20000000 2000000C
+20000004 20000038
+2000002C 2000006C
+
+// Swimsuit 02 [Open]
+Author = libretro-database contributors / original PSP cheat authors
+E1060005 20000B00
+D0000004 10004020
+6047F6D8 41300000
+00020007 000000CC
+20000000 2000000C
+20000004 20000038
+2000002C 2000006C
+
+// Swimsuit 03 [Close]
+Author = libretro-database contributors / original PSP cheat authors
+E1060004 30000B00
+D0000004 10004040
+6047F6D8 3F800000
+00020007 000000CC
+20000000 2000000C
+20000008 20000038
+2000002C 2000006C
+
+// Swimsuit 03 [Open]
+Author = libretro-database contributors / original PSP cheat authors
+E1060005 20000B00
+D0000004 10004040
+6047F6D8 41300000
+00020007 000000CC
+20000000 2000000C
+20000008 20000038
+2000002C 2000006C
+
+// Swimsuit 04 [Close]
+Author = libretro-database contributors / original PSP cheat authors
+E1060004 30000B00
+D0000004 10004080
+6047F6D8 3F800000
+00020007 000000CC
+20000000 2000000C
+2000000C 20000038
+2000002C 2000006C
+
+// Swimsuit 04 [Open]
+Author = libretro-database contributors / original PSP cheat authors
+E1060005 20000B00
+D0000004 10004080
+6047F6D8 41300000
+00020007 000000CC
+20000000 2000000C
+2000000C 20000038
+2000002C 2000006C
+
+// Swimsuit 05 [Close]
+Author = libretro-database contributors / original PSP cheat authors
+E1060004 30000B00
+D0000004 10002010
+6047F6D8 3F800000
+00020007 000000CC
+20000000 2000000C
+20000010 20000038
+2000002C 2000006C
+
+// Swimsuit 05 [Open]
+Author = libretro-database contributors / original PSP cheat authors
+E1060005 20000B00
+D0000004 10002010
+6047F6D8 41300000
+00020007 000000CC
+20000000 2000000C
+20000010 20000038
+2000002C 2000006C
+
+// Swimsuit 06 [Close]
+Author = libretro-database contributors / original PSP cheat authors
+E1060004 30000B00
+D0000004 10002020
+6047F6D8 3F800000
+00020007 000000CC
+20000000 2000000C
+20000014 20000038
+2000002C 2000006C
+
+// Swimsuit 06 [Open]
+Author = libretro-database contributors / original PSP cheat authors
+E1060005 20000B00
+D0000004 10002020
+6047F6D8 41300000
+00020007 000000CC
+20000000 2000000C
+20000014 20000038
+2000002C 2000006C
+
+// Swimsuit 07 [Close]
+Author = libretro-database contributors / original PSP cheat authors
+E1060004 30000B00
+D0000004 10002040
+6047F6D8 3F800000
+00020007 000000CC
+20000000 2000000C
+20000018 20000038
+2000002C 2000006C
+
+// Swimsuit 07 [Open]
+Author = libretro-database contributors / original PSP cheat authors
+E1060005 20000B00
+D0000004 10002040
+6047F6D8 41300000
+00020007 000000CC
+20000000 2000000C
+20000018 20000038
+2000002C 2000006C
+
+// Swimsuit 08 [Close]
+Author = libretro-database contributors / original PSP cheat authors
+E1060004 30000B00
+D0000004 10002080
+6047F6D8 3F800000
+00020007 000000CC
+20000000 2000000C
+2000001C 20000038
+2000002C 2000006C
+
+// Swimsuit 08 [Open]
+Author = libretro-database contributors / original PSP cheat authors
+E1060005 20000B00
+D0000004 10002080
+6047F6D8 41300000
+00020007 000000CC
+20000000 2000000C
+2000001C 20000038
+2000002C 2000006C
+
+// Take Off Clothes
+Author = libretro-database contributors / original PSP cheat authors
+20221230 0A200400
+20001000 8D050030
+20001004 3C067964
+20001008 34C66F62
+2000100C 50C50002
+20001010 AD00001C
+20001014 AD04001C
+20001018 03E00008
+2000101C 27BD0010
+
+// Text Scroll (Makes The Text Scroll In Menus)
+Author = libretro-database contributors / original PSP cheat authors
+20029A54 3C043FF0
+
+// Text Size (Changes Text Size)
+Author = libretro-database contributors / original PSP cheat authors
+200228DC 3C044080
+
+// Turning Movements Speed Up Faster
+Author = libretro-database contributors / original PSP cheat authors
+2047F25C 40200000
+
+// Volleyball: Reset Left Score
+Author = libretro-database contributors / original PSP cheat authors
+204A6B12 00000000
+
+// Volleyball: Reset Right Score
+Author = libretro-database contributors / original PSP cheat authors
+204A6B13 00000000
+
+// Volleyball: Set Score To 06/06
+Author = libretro-database contributors / original PSP cheat authors
+204A6B12 00000606
+
+// Ayane Money
+Author = libretro-database contributors / original PSP cheat authors
+2044F98C 001E8480
+
+// Ayane Money v2
+Author = libretro-database contributors / original PSP cheat authors
+20538C80 001E8480
+20538C88 001E8480
+2044F98C 001E8480
+
+// Christie Money
+Author = libretro-database contributors / original PSP cheat authors
+2044F998 001E8480
+
+// Christie Money v2
+Author = libretro-database contributors / original PSP cheat authors
+20538C80 001E8480
+20538C88 001E8480
+2044F998 001E8480
+
+// Helena Money
+Author = libretro-database contributors / original PSP cheat authors
+2044F984 001E8480
+
+// Helena Money v2
+Author = libretro-database contributors / original PSP cheat authors
+20538C80 001E8480
+20538C88 001E8480
+2044F984 001E8480
+
+// Hitomi Money
+Author = libretro-database contributors / original PSP cheat authors
+2044F990 001E8480
+
+// Hitomi Money v2
+Author = libretro-database contributors / original PSP cheat authors
+20538C80 001E8480
+20538C88 001E8480
+2044F990 001E8480
+
+// Kasumi Money
+Author = libretro-database contributors / original PSP cheat authors
+20538C80 001E8480
+
+// Kasumi Money v2
+Author = libretro-database contributors / original PSP cheat authors
+20538C80 001E8480
+20538C88 001E8480
+2044F980 001E8480
+
+// Kokoro Money
+Author = libretro-database contributors / original PSP cheat authors
+2044F99C 001E8480
+
+// Kokoro Money v2
+Author = libretro-database contributors / original PSP cheat authors
+20538C80 001E8480
+20538C88 001E8480
+2044F99C 001E8480
+
+// Leifang Money
+Author = libretro-database contributors / original PSP cheat authors
+2044F988 001E8480
+
+// Leifang Money v2
+Author = libretro-database contributors / original PSP cheat authors
+20538C80 001E8480
+20538C88 001E8480
+2044F988 001E8480
+
+// Lisa Money
+Author = libretro-database contributors / original PSP cheat authors
+2044F994 001E8480
+
+// Lisa Money v2
+Author = libretro-database contributors / original PSP cheat authors
+20538C80 001E8480
+20538C88 001E8480
+2044F994 001E8480
+
+// Rio Money v2
+Author = libretro-database contributors / original PSP cheat authors
+20538C80 001E8480
+20538C88 001E8480
+2044F9A0 001E8480
+
+// Tina Money
+Author = libretro-database contributors / original PSP cheat authors
+2044F97C 001E8480
+
+// Tina Money v2
+Author = libretro-database contributors / original PSP cheat authors
+20538C80 001E8480
+20538C88 001E8480
+2044F97C 001E8480

@@ -1,0 +1,429 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-01045
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 6 Emplacements pour Matiria Dispo.
+Author = libretro-database contributors / original PSP cheat authors
+20224455 00000006
+
+// 6 Materia Slots
+Author = libretro-database contributors / original PSP cheat authors
+20224455 00000006
+
+// 99 Items In First Slot
+Author = libretro-database contributors / original PSP cheat authors
+00243BBA 00000063
+
+// 99999999 PS
+Author = libretro-database contributors / original PSP cheat authors
+202457C4 05F5E0FF
+
+// 99999999 PS (In Battle)
+Author = libretro-database contributors / original PSP cheat authors
+20245AA0 05F5E0FF
+
+// 999999999 Gils
+Author = libretro-database contributors / original PSP cheat authors
+20245868 3B9AC9FF
+
+// All Accessories
+Author = libretro-database contributors / original PSP cheat authors
+40243BD8 006C0001
+00635000 00000001
+
+// All Enhancing Items
+Author = libretro-database contributors / original PSP cheat authors
+40243E5C 00030001
+00013035 00000001
+
+// All Heal Items
+Author = libretro-database contributors / original PSP cheat authors
+40243BB8 00080001
+00632000 00000001
+
+// All OCN Characters
+Author = libretro-database contributors / original PSP cheat authors
+80224458 00070001
+00000001 00000000
+
+// All Stats 255
+Author = libretro-database contributors / original PSP cheat authors
+002457EF 000000FF
+002457F0 000000FF
+002457F1 000000FF
+002457F2 000000FF
+002457F3 000000FF
+
+// AP Cost = Null
+Author = libretro-database contributors / original PSP cheat authors
+00245AF9 0000007F
+
+// AP Max 9999
+Author = libretro-database contributors / original PSP cheat authors
+202457E4 0000270F
+
+// Arriter Les Codes (Exige Un Chargement)
+Author = libretro-database contributors / original PSP cheat authors
+2015D168 0E25A4F6
+
+// Avoir Tous Les Objets
+Author = libretro-database contributors / original PSP cheat authors
+D5000000 00322000
+C0000000 00000007
+D6000000 08A43BB8
+D4000000 00000001
+D1000000 00000000
+D5000000 00323000
+C0000000 00000059
+D5000000 00325000
+C0000000 0000006B
+D2000000 00000000
+
+// Barrier Mode
+Author = libretro-database contributors / original PSP cheat authors
+00245AEF 0000007F
+
+// Battle Max AP 9999
+Author = libretro-database contributors / original PSP cheat authors
+20245A9C 0000270F
+
+// Battle Max AP 9999
+Author = libretro-database contributors / original PSP cheat authors
+20245A9C 0000270F
+
+// Battle Max HP 99999
+Author = libretro-database contributors / original PSP cheat authors
+20245A8C 0001869F
+
+// Battle Max MP 9999
+Author = libretro-database contributors / original PSP cheat authors
+20245A94 0000270F
+
+// Battle Max MP 9999
+Author = libretro-database contributors / original PSP cheat authors
+20245A94 0000270F
+
+// Battle Motion Speed Mod: Les Enemies Sont Extrement Lents
+Author = libretro-database contributors / original PSP cheat authors
+20001014 10110005
+20001018 3C013E80
+2000101C AE01044C
+2000102C 0A25A4F6
+2015D168 0E200400
+
+// Battle Motion Speed Mod: Les Enemies Sont Lents
+Author = libretro-database contributors / original PSP cheat authors
+20001014 10110005
+20001018 3C013F00
+2000101C AE01044C
+2000102C 0A25A4F6
+2015D168 0E200400
+
+// Battle Motion Speed Mod: Les Enemies Sont Plus Rapides
+Author = libretro-database contributors / original PSP cheat authors
+20001014 10110005
+20001018 3C013FC0
+2000101C AE01044C
+2000102C 0A25A4F6
+2015D168 0E200400
+
+// Battle Motion Speed Mod: Les Enemies Sont Vraiment Plus Rapides
+Author = libretro-database contributors / original PSP cheat authors
+20001014 10110005
+20001018 3C014000
+2000101C AE01044C
+2000102C 0A25A4F6
+2015D168 0E200400
+
+// Battle Motion Speed Mod: Zack est Plus Rapide
+Author = libretro-database contributors / original PSP cheat authors
+20001000 14110004
+20001004 3C013FC0
+20001008 AE01044C
+2000100C 3C013F40
+20001010 AE010064
+2000102C 0A25A4F6
+2015D168 0E200400
+
+// Battle Motion Speed Mod: Zack est Vraiment Plus Rapide
+Author = libretro-database contributors / original PSP cheat authors
+20001000 14110004
+20001004 3C013FC0
+20001008 AE01044C
+2000100C 3C013F00
+20001010 AE010064
+2000102C 0A25A4F6
+2015D168 0E200400
+
+// Battle Now AP 9999
+Author = libretro-database contributors / original PSP cheat authors
+20245A98 0000270F
+
+// Battle Now HP 99999
+Author = libretro-database contributors / original PSP cheat authors
+20245A88 0001869F
+
+// Battle Now MP 9999
+Author = libretro-database contributors / original PSP cheat authors
+20245A90 0000270F
+
+// Copie De La Fente 1 (Haut/Gauche) Vers 2
+Author = libretro-database contributors / original PSP cheat authors
+202337BC 00000001
+20243FC4 00000000
+D9000000 08A43FB8
+D6000000 08A43FC4
+D2000000 00000000
+
+// Copie De La Fente 1 Vers 4
+Author = libretro-database contributors / original PSP cheat authors
+202337BC 00000001
+20243FDC 00000000
+D9000000 08A43FB8
+D6000000 08A43FDC
+D2000000 00000000
+
+// Copie De La Fente 1 Vers 5
+Author = libretro-database contributors / original PSP cheat authors
+202337BC 00000001
+20243FE8 00000000
+D9000000 08A43FB8
+D6000000 08A43FE8
+D2000000 00000000
+
+// Copie De La Fente 1 Vers 6
+Author = libretro-database contributors / original PSP cheat authors
+202337BC 00000001
+20243FF4 00000000
+D9000000 08A43FB8
+D6000000 08A43FF4
+D2000000 00000000
+
+// Copie De La Fente 1 Vers 7
+Author = libretro-database contributors / original PSP cheat authors
+202337BC 00000001
+20244000 00000000
+D9000000 08A43FB8
+D6000000 08A44000
+D2000000 00000000
+
+// Copie De La Fente 1 Vers 8
+Author = libretro-database contributors / original PSP cheat authors
+202337BC 00000001
+2024400C 00000000
+D9000000 08A43FB8
+D6000000 08A4400C
+D2000000 00000000
+
+// Copie De La Fente 1 Vers 9
+Author = libretro-database contributors / original PSP cheat authors
+202337BC 00000001
+20244018 00000000
+D9000000 08A43FB8
+D6000000 08A44018
+D2000000 00000000
+
+// Copie De La Fente 1 Vers 10
+Author = libretro-database contributors / original PSP cheat authors
+202337BC 00000001
+20244024 00000000
+D9000000 08A43FB8
+D6000000 08A44024
+D2000000 00000000
+
+// Copie De La Fente 1 Vers Fente 3
+Author = libretro-database contributors / original PSP cheat authors
+202337BC 00000001
+20243FD0 00000000
+D9000000 08A43FB8
+D6000000 08A43FD0
+D2000000 00000000
+
+// Critical Mode
+Author = libretro-database contributors / original PSP cheat authors
+00245AF7 0000007F
+
+// Difficult Mod: Hard
+Author = libretro-database contributors / original PSP cheat authors
+20163464 24100001
+
+// Difficult Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20163464 24100000
+
+// D.M.W/OCN Debug Menu (Pressez L+R)
+Author = libretro-database contributors / original PSP cheat authors
+202237BC 00000300
+202407A0 00000001
+D2000000 00000000
+
+// Endurance Mode
+Author = libretro-database contributors / original PSP cheat authors
+00245AF3 0000007F
+
+// Field Speed
+Author = libretro-database contributors / original PSP cheat authors
+E0031980 102291E0
+D022AB64 00100000
+6022AB64 00004240
+00011981 000000E6
+
+// Game Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20006670 00000002
+
+// Game Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20006670 00000004
+
+// Game Time = 0
+Author = libretro-database contributors / original PSP cheat authors
+2024586C 00000001
+
+// Gils Au Maximum
+Author = libretro-database contributors / original PSP cheat authors
+20245868 05F5E0FF
+
+// Heavenly D.M.W (Battle)
+Author = libretro-database contributors / original PSP cheat authors
+00245832 00000004
+
+// HP Max 99999
+Author = libretro-database contributors / original PSP cheat authors
+202457CC 0001869F
+
+// HP Now 99999
+Author = libretro-database contributors / original PSP cheat authors
+202457C8 0001869F
+
+// Invincible Mode
+Author = libretro-database contributors / original PSP cheat authors
+00245AF6 0000007F
+
+// Level 99
+Author = libretro-database contributors / original PSP cheat authors
+002457EE 00000063
+
+// Level Max Aprhs Batailles (Cannot Be Turned Off)
+Author = libretro-database contributors / original PSP cheat authors
+201621B0 00000000
+
+// Mabarrier Mode
+Author = libretro-database contributors / original PSP cheat authors
+00245AF0 0000007F
+
+// Master Materia In First Slot
+Author = libretro-database contributors / original PSP cheat authors
+20243FBE 00000005
+
+// Max ATQ
+Author = libretro-database contributors / original PSP cheat authors
+202457EF 000000FA
+
+// Max CHN
+Author = libretro-database contributors / original PSP cheat authors
+202457F3 000000FA
+
+// Max Mag.
+Author = libretro-database contributors / original PSP cheat authors
+202457F1 000000FA
+
+// Max Materia Bonus In 1st Slot
+Author = libretro-database contributors / original PSP cheat authors
+20243FC2 00000005
+
+// Max Psy.
+Author = libretro-database contributors / original PSP cheat authors
+202457F2 000000FA
+
+// Max Res.
+Author = libretro-database contributors / original PSP cheat authors
+202457F0 000000FA
+
+// Missions Toujours Dispo.
+Author = libretro-database contributors / original PSP cheat authors
+201ABAF7 00000001
+
+// MP Cost = Null
+Author = libretro-database contributors / original PSP cheat authors
+20245AF8 0000007F
+
+// MP Max 9999
+Author = libretro-database contributors / original PSP cheat authors
+202457D8 0000270F
+
+// No Magical Damage Mode
+Author = libretro-database contributors / original PSP cheat authors
+20245AF5 0000007F
+
+// No Physical Damage Mode
+Author = libretro-database contributors / original PSP cheat authors
+20245AF4 0000007F
+
+// Now AP 9999
+Author = libretro-database contributors / original PSP cheat authors
+202457E0 0000270F
+
+// Now MP 9999
+Author = libretro-database contributors / original PSP cheat authors
+202457D4 0000270F
+
+// PA Illimitis
+Author = libretro-database contributors / original PSP cheat authors
+20245A98 000003E7
+
+// PM Illimitis
+Author = libretro-database contributors / original PSP cheat authors
+20245A90 000003E7
+
+// PS Illimitis
+Author = libretro-database contributors / original PSP cheat authors
+20245AA0 3B9AC9FF
+
+// PV Illimitis
+Author = libretro-database contributors / original PSP cheat authors
+20245A88 0000270F
+
+// Regene Mode
+Author = libretro-database contributors / original PSP cheat authors
+00245AF1 0000007F
+
+// Reraise Mode
+Author = libretro-database contributors / original PSP cheat authors
+7024585C 00000020
+70245ADA 00000020
+
+// Target In Form Ations
+Author = libretro-database contributors / original PSP cheat authors
+70245B43 00000001
+
+// Tous Les Objects Disponibles Illimitis
+Author = libretro-database contributors / original PSP cheat authors
+D3000000 08A43BB6
+C0000000 000000FF
+DC000000 00000004
+A0000000 FF000000
+20000000 0000005A
+D2000000 00000000
+
+// Tous Les OCN Humains
+Author = libretro-database contributors / original PSP cheat authors
+20046F3C 24020001
+
+// Unlock All Missions
+Author = libretro-database contributors / original PSP cheat authors
+80223BE0 012C0003
+00001981 00000000
+80223BE1 012C0003
+
+// Unlock Materia Synthesize
+Author = libretro-database contributors / original PSP cheat authors
+00224456 00000001
+
+// Use Materia Twice
+Author = libretro-database contributors / original PSP cheat authors
+70245B5E 00000040
+
+// Vitesse Extreme (Pour Videos)
+Author = libretro-database contributors / original PSP cheat authors
+20006670 00000006

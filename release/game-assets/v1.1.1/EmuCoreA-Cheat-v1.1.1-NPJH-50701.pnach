@@ -1,0 +1,2549 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPJH-50701
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E0010002 00015CB4
+20015CB4 24040001
+
+// 60 FPS [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20015CB4 24040002
+20015B0C 0E30BDD2
+20015C28 3C014682
+
+// Optional Frameskip Kill
+Author = libretro-database contributors / original PSP cheat authors
+E0024682 00015C28
+20015B0C 00000000
+20015C28 3C014702
+
+// 1Kill Monster Act Quest
+Author = libretro-database contributors / original PSP cheat authors
+1013B980 00000063
+
+// 1Kill Monster End Quest
+Author = libretro-database contributors / original PSP cheat authors
+0021D718 00000063
+
+// All Upgrade Materials x99
+Author = libretro-database contributors / original PSP cheat authors
+004BED10 00000063
+004BED30 00000063
+004BED38 00000063
+004BED60 00000063
+004BED50 00000063
+004BED48 00000063
+004BED90 00000063
+004BED40 00000063
+004BEDB8 00000063
+004BEDC0 00000063
+004BEDD0 00000063
+004BEDD8 00000063
+004BEDE0 00000063
+004BEDE8 00000063
+004BEDF0 00000063
+004BED80 00000063
+004BED88 00000063
+004BED78 00000063
+004BED70 00000063
+004BEE00 00000063
+004BEDA0 00000063
+004BEDA8 00000063
+004BEDB0 00000063
+004BED20 00000063
+004BED28 00000063
+004BED98 00000063
+
+// Attack Cool Down
+Author = libretro-database contributors / original PSP cheat authors
+2081DBEC 00000001
+
+// Attack Interval
+Author = libretro-database contributors / original PSP cheat authors
+2081DBEC 00000001
+
+// Attack Without Waiting
+Author = libretro-database contributors / original PSP cheat authors
+0081DBEC 00000001
+
+// Body Change Equip (CB)
+Author = libretro-database contributors / original PSP cheat authors
+204BEC64 0000CB32
+204BEC68 F0000008
+
+// Boss Dungeon Plus (v1.00)
+Author = libretro-database contributors / original PSP cheat authors
+20179650 00000000
+
+// Boss Dungeon Plus (v1.01)
+Author = libretro-database contributors / original PSP cheat authors
+20179BF4 00000000
+
+// Camera Limit Release
+Author = libretro-database contributors / original PSP cheat authors
+200AF2EC 10000016
+200AF390 1000FFE6
+200AF5C4 10000001
+200AF5D8 53E00001
+
+// Clear Quest Monster When Killed
+Author = libretro-database contributors / original PSP cheat authors
+0021D718 00000063
+
+// Clear Quest With One Activated Monster
+Author = libretro-database contributors / original PSP cheat authors
+1013B980 00000063
+
+// Col Max
+Author = libretro-database contributors / original PSP cheat authors
+204BF298 3B9AC9FF
+
+// Critical +100
+Author = libretro-database contributors / original PSP cheat authors
+0081DC18 00000064
+
+// Collection Point Always Glows
+Author = libretro-database contributors / original PSP cheat authors
+20126E34 10000013
+
+// Costume Flag
+Author = libretro-database contributors / original PSP cheat authors
+704BC983 000000FE
+004BC984 000000FF
+
+// Damage Up
+Author = libretro-database contributors / original PSP cheat authors
+1081DBDC 00002710
+
+// Does Not Decrease Items (Result)
+Author = libretro-database contributors / original PSP cheat authors
+20143A34 02138021
+
+// Drop Rate +100
+Author = libretro-database contributors / original PSP cheat authors
+0081DC25 00000064
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+200A7ECC 00118840
+
+// Exp. x4
+Author = libretro-database contributors / original PSP cheat authors
+200A7ECC 00118880
+
+// Exp. x8
+Author = libretro-database contributors / original PSP cheat authors
+200A7ECC 001188C0
+
+// Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+200A7ECC 00118900
+
+// Exp. Hate Figure Ver
+Author = libretro-database contributors / original PSP cheat authors
+2081DBBC 3B9AC9FF
+
+// Exp. Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+200A7ECC 00118840
+
+// Expand The Field Of View
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10004040
+1002FA28 00003F00
+D0000000 10004010
+1002FA28 00003F80
+
+// Fast Move: Enemies (Press △)
+Author = libretro-database contributors / original PSP cheat authors
+1009EDD4 0000447A
+D0000000 10001000
+1009EDD4 000044FA
+
+// Fast Move: Player (Press △)
+Author = libretro-database contributors / original PSP cheat authors
+100A5650 00003D0F
+D0000000 10001000
+100A5650 00003D8F
+
+// Feelings Max
+Author = libretro-database contributors / original PSP cheat authors
+200F3058 0A200440
+20001100 AFBF0000
+20001104 240501F4
+20001108 0A23CC18
+2000110C A4850000
+
+// Friend List Complete
+Author = libretro-database contributors / original PSP cheat authors
+201AEF7C 0E200448
+201AEF80 00000000
+20001120 90410002
+20001124 34210002
+20001128 A0410002
+2000112C 03E00008
+20001130 00201021
+
+// Friends Lvl Max
+Author = libretro-database contributors / original PSP cheat authors
+200CEB68 0A200450
+20001140 240100C8
+20001144 A0410003
+20001148 0A233ADC
+2000114C 00201021
+
+// Fury (Attack Quickly) [L+R]
+Author = libretro-database contributors / original PSP cheat authors
+200B5348 04400004
+201FF1E8 46006506
+201FF1F0 E454005C
+D0000002 10000300
+200B5348 10000004
+201FF1E8 3C0143FA
+201FF1F0 AC41005C
+
+// Get Col Times XYZ (16)
+Author = libretro-database contributors / original PSP cheat authors
+20144C6C 00029100
+
+// Get Exp. Times XYZ (16)
+Author = libretro-database contributors / original PSP cheat authors
+200A1C08 00031100
+
+// Get Exp. Twice 1
+Author = libretro-database contributors / original PSP cheat authors
+200A1C08 00031040
+
+// Get Exp. Twice 2
+Author = libretro-database contributors / original PSP cheat authors
+200A1C08 00031080
+
+// Get Exp. Twice 3
+Author = libretro-database contributors / original PSP cheat authors
+200A1C08 000310C0
+
+// Get Exp. Twice 4
+Author = libretro-database contributors / original PSP cheat authors
+200A1C08 00031100
+
+// Get Exp. Twice 5
+Author = libretro-database contributors / original PSP cheat authors
+200A1C08 00031140
+
+// Get Exp. Twice 6
+Author = libretro-database contributors / original PSP cheat authors
+200A1C08 00031180
+
+// Get Exp. Twice 7
+Author = libretro-database contributors / original PSP cheat authors
+200A1C08 000311C0
+
+// Get Exp. Twice 8
+Author = libretro-database contributors / original PSP cheat authors
+200A1C08 00031200
+
+// Get Exp. Twice 9
+Author = libretro-database contributors / original PSP cheat authors
+200A1C08 00031240
+
+// Get Kayaba Sword & White Sword (See In Inventory)
+Author = libretro-database contributors / original PSP cheat authors
+204BEC94 00081111
+204BEC98 F0000F08
+204BEC9C 000830B1
+204BECA0 F0000F08
+
+// Get Original Sword Kirito (See Your Inventory)
+Author = libretro-database contributors / original PSP cheat authors
+204BEC84 00080D11
+204BEC88 F0000F08
+204BEC8C 00080EB1
+204BEC90 F0000F08
+
+// Hierarchy Movement (100 Layers)
+Author = libretro-database contributors / original PSP cheat authors
+004BC820 00000064
+
+// High Speed Movement
+Author = libretro-database contributors / original PSP cheat authors
+100A5650 00003D0F
+100A5650 00003D8F
+
+// HP Max
+Author = libretro-database contributors / original PSP cheat authors
+2081DBB4 0001869F
+
+// HP Max v2
+Author = libretro-database contributors / original PSP cheat authors
+2081DBB0 0001869F
+2081DBB4 0001869F
+
+// Inf. Switch
+Author = libretro-database contributors / original PSP cheat authors
+011AE5F4 00000003
+
+// Inf. Upgrade Materials
+Author = libretro-database contributors / original PSP cheat authors
+201DFF0C 00000000
+
+// Infinite Collecting
+Author = libretro-database contributors / original PSP cheat authors
+2014074C 00001020
+2014076C 00000000
+
+// Infinite Item (Press △)
+Author = libretro-database contributors / original PSP cheat authors
+20143A34 02138021
+D0000000 10001000
+20143A34 02008021
+
+// Infinite Upgrade Times
+Author = libretro-database contributors / original PSP cheat authors
+2014B7D8 1000000A
+201D8BF0 00000000
+
+// Item Count Reset
+Author = libretro-database contributors / original PSP cheat authors
+20143A34 02138021
+
+// Item Count Steady
+Author = libretro-database contributors / original PSP cheat authors
+20143A34 02008021
+
+// Items Do Not Reduce
+Author = libretro-database contributors / original PSP cheat authors
+20143A34 02008021
+
+// Item Trigger +100
+Author = libretro-database contributors / original PSP cheat authors
+1081DC22 0000FF9C
+
+// Level Of Skill 3000 v.1
+Author = libretro-database contributors / original PSP cheat authors
+204BCA14 75300000
+204BCA18 75307530
+204BCA1C 75307530
+204BCA20 75307530
+204BCA24 75307530
+204BCA28 75300000
+
+// Level Of Skill 3000 v.2
+Author = libretro-database contributors / original PSP cheat authors
+804BCA16 000B0001
+10007530 00000000
+
+// Level Of Skill Max
+Author = libretro-database contributors / original PSP cheat authors
+804BCA16 00090001
+10002710 00000000
+104BCA2A 00002710
+
+// Level Max - Lvl.200
+Author = libretro-database contributors / original PSP cheat authors
+0081DBD6 000000C8
+
+// List Friend Fully Open
+Author = libretro-database contributors / original PSP cheat authors
+201AEF7C 0E200448
+201AEF80 00000000
+20001120 90410002
+20001124 34210002
+20001128 A0410002
+2000112C 03E00008
+20001130 00201021
+
+// Logout Button Can Be Pressed
+Author = libretro-database contributors / original PSP cheat authors
+2019E3D4 00000000
+
+// Main Story Progress to 100th
+Author = libretro-database contributors / original PSP cheat authors
+004BC818 00000026
+
+// Max Damage Up
+Author = libretro-database contributors / original PSP cheat authors
+1081DBDC 00007FFF
+
+// Mobility +30
+Author = libretro-database contributors / original PSP cheat authors
+0081DC1A 0000001E
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+204BF298 3B9AC9FF
+
+// NPC Size 1/2
+Author = libretro-database contributors / original PSP cheat authors
+2001256C 0A2003C0
+20000F00 3C1008CC
+20000F04 8E1088C8
+20000F08 3C010902
+20000F0C 8C21DB20
+20000F10 00011E42
+20000F14 38630004
+20000F18 14600018
+20000F7C 0A20495C
+20000F80 AE24001C
+
+// NPC Size 2/2
+Author = libretro-database contributors / original PSP cheat authors
+20000F1C 32030100
+20000F20 10600016
+20000F24 C8200008
+20000F28 32030010
+20000F2C 14600005
+20000F30 DFA02A66
+20000F34 32030040
+20000F38 14600002
+20000F3C DFA0AA66
+20000F40 D0060020
+20000F44 60200000
+20000F48 E8200008
+20000F4C 3C030001
+20000F50 32028000
+20000F54 50400009
+20000F58 AC631100
+20000F5C 8C621100
+20000F60 14430006
+20000F64 3C1F0902
+20000F68 8FF0DA14
+20000F6C 8C220004
+20000F70 AC300004
+20000F74 AFE2DA14
+20000F78 AC601100
+
+// Not Reduced Items
+Author = libretro-database contributors / original PSP cheat authors
+20143A34 02008021
+
+// Partner Switch 3/3
+Author = libretro-database contributors / original PSP cheat authors
+011AE5F4 00000003
+
+// Photo Album All
+Author = libretro-database contributors / original PSP cheat authors
+104BC95A 0000FFFC
+204BC95C EF3FFFFF
+004BC960 0000000F
+
+// Proficiency 3000
+Author = libretro-database contributors / original PSP cheat authors
+204BCA14 75300000
+204BCA18 75307530
+204BCA1C 75307530
+204BCA20 75307530
+204BCA24 75307530
+204BCA28 75300000
+
+// Proficiency 3000 (Series)
+Author = libretro-database contributors / original PSP cheat authors
+804BCA16 000B0001
+10007530 00000000
+
+// Proficiency x2
+Author = libretro-database contributors / original PSP cheat authors
+20001000 00108040
+20001004 00501021
+20001008 02202021
+2000100C 0A22A07D
+200A81F0 0A200400
+200A81F4 00000000
+
+// Proficiency x16
+Author = libretro-database contributors / original PSP cheat authors
+20001000 00108100
+20001004 00501021
+20001008 02202021
+2000100C 0A22A07D
+200A81F0 0A200400
+200A81F4 00000000
+
+// Rush Rage [L+R]
+Author = libretro-database contributors / original PSP cheat authors
+200B5348 04400004
+201FF1E8 46006506
+201FF1F0 E454005C
+D0000002 10000300
+200B5348 10000004
+201FF1E8 3C0143FA
+201FF1F0 AC41005C
+
+// School Swimsuit God
+Author = libretro-database contributors / original PSP cheat authors
+20780918 00000001
+1078091E 000003E7
+20780920 03E7FC18
+10780924 000003E7
+00780929 0000007F
+1078092A 00007F7F
+2078092C 7F7F7F7F
+20780930 64FFFFFF
+20780934 00646464
+
+// Shop School Swimsuit
+Author = libretro-database contributors / original PSP cheat authors
+2014A18C 24050001
+
+// Skill Acquisition Unlimited
+Author = libretro-database contributors / original PSP cheat authors
+204BCA64 7F7F7F7F
+201F79A4 00000000
+
+// Skill Point 100
+Author = libretro-database contributors / original PSP cheat authors
+004BCA6D 00000064
+
+// Skill Point Max
+Author = libretro-database contributors / original PSP cheat authors
+004BCA62 0000007F
+
+// Skill Trigger +255
+Author = libretro-database contributors / original PSP cheat authors
+1081DC1E 0000FF01
+
+// SP 300 Maximum Current
+Author = libretro-database contributors / original PSP cheat authors
+2081DBB8 012C012C
+
+// SP No Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200A4608 848501AA
+
+// Str. Vit. Agi. Dex. (All 999)
+Author = libretro-database contributors / original PSP cheat authors
+2081DBC0 03E703E7
+2081DBC4 03E703E7
+
+// Time Change (L+Up/Down:LR)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000100
+30100001 00812FFC
+D0000000 10000180
+30200001 00812FFC
+D0000000 10000110
+30100001 00812FFD
+D0000000 10000140
+30200001 00812FFD
+
+// Unlimited Learning Skills
+Author = libretro-database contributors / original PSP cheat authors
+204BCA64 7F7F7F7F
+201F79A4 00000000
+
+// Upgrade Always Success
+Author = libretro-database contributors / original PSP cheat authors
+2014B844 10000035
+
+// XYZ Weapon Prof. Exp. (0C0=x8)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 001080C0
+20001004 00501021
+20001008 02202021
+2000100C 0A22A07D
+200A81F0 0A200400
+200A81F4 00000000
+
+// Black Feather Gun
+Author = libretro-database contributors / original PSP cheat authors
+204BF27C 63CE091B
+204BF280 F03DEF0B
+
+// Black Leather (Reinforcement)
+Author = libretro-database contributors / original PSP cheat authors
+20780968 00000001
+1078096E 000003E7
+20780970 03E7FC18
+10780974 000003E7
+00780979 0000007F
+1078097A 00007F7F
+2078097C 7F7F7F7F
+20780980 64FFFFFF
+20780984 00646464
+
+// Boots Of Midnight
+Author = libretro-database contributors / original PSP cheat authors
+204BEC54 00001F34
+204BEC58 00000001
+
+// Bow
+Author = libretro-database contributors / original PSP cheat authors
+204BF27C 63CE044C
+204BF280 F03DEF0B
+
+// Coat Of Midnight
+Author = libretro-database contributors / original PSP cheat authors
+204BEC4C 00001F32
+204BEC50 00000001
+
+// Coat Of Midnight (Reinforcement)
+Author = libretro-database contributors / original PSP cheat authors
+107809BE 000003E7
+107809C2 000003E7
+107809C4 000003E7
+007809C9 0000007F
+107809CA 00007F7F
+207809CC 7F7F7F7F
+207809D0 64FFFFFF
+207809D4 00646464
+
+// Dark Repulsor
+Author = libretro-database contributors / original PSP cheat authors
+204BEC5C 00080E01
+204BEC60 F0000008
+
+// Dark Repulsor (Attack)
+Author = libretro-database contributors / original PSP cheat authors
+1077D4A2 000003E7
+
+// Dark Repulsor (Damage)
+Author = libretro-database contributors / original PSP cheat authors
+1077D49E 000003E8
+
+// Dark Repulsor (Interval)
+Author = libretro-database contributors / original PSP cheat authors
+1077D4A0 00000000
+
+// Elucidator
+Author = libretro-database contributors / original PSP cheat authors
+204BEC44 00080D01
+204BEC48 F0000008
+
+// Elucidator (Damage)
+Author = libretro-database contributors / original PSP cheat authors
+1077D44E 000003E8
+
+// Goddess
+Author = libretro-database contributors / original PSP cheat authors
+204BF27C 000B2041
+204BF280 F03DEF0B
+
+// Insane Ruler (Heathcliff Weapon)
+Author = libretro-database contributors / original PSP cheat authors
+1077D4EE 000003E8
+2077D4F0 03E80000
+1077D4F4 000003E8
+0077D4F9 0000007F
+1077D4FA 00007F7F
+2077D4FC 7F7F7F7F
+2077D500 64FFFFFF
+2077D504 00646464
+0077D50C 000000D1
+
+// Lambentlight
+Author = libretro-database contributors / original PSP cheat authors
+204BEC64 00080D02
+204BEC68 F0000008
+
+// Vanguard Greaves
+Author = libretro-database contributors / original PSP cheat authors
+20781F98 00000001
+10781F9E 000003E7
+20781FA0 03E7FC18
+10781FA4 000003E7
+00781FA9 0000007F
+10781FAA 00007F7F
+20781FAC 7F7F7F7F
+20781FB0 64FFFFFF
+20781FB0 00646464
+
+// Change Partner [@No Partner]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000003E6
+
+// Change Partner [Aaron]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000064
+
+// Change Partner [Agil]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000009
+
+// Change Partner [Alan]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000067
+
+// Change Partner [Alberich]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000000B
+
+// Change Partner [Albin]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000078
+
+// Change Partner [Alex]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000008A
+
+// Change Partner [Algernon]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000009D
+
+// Change Partner [Alice]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000AC
+
+// Change Partner [Aloe]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000B3
+
+// Change Partner [Ariel]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000A5
+
+// Change Partner [Arima]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000009B
+
+// Change Partner [Arnold]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000006C
+
+// Change Partner [Arts]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000009F
+
+// Change Partner [Asmo]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000085
+
+// Change Partner [Asuna:]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000001
+
+// Change Partner [Bob]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000069
+
+// Change Partner [Brad]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000088
+
+// Change Partner [Brahams]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000065
+
+// Change Partner [Brant]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000083
+
+// Change Partner [Camila]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000A6
+
+// Change Partner [Carlo]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000098
+
+// Change Partner [Carmine]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000007B
+
+// Change Partner [Ceba]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000AF
+
+// Change Partner [Chloe]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000BA
+
+// Change Partner [Clark]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000095
+
+// Change Partner [Claude]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000090
+
+// Change Partner [Cloud]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000A3
+
+// Change Partner [Cocoa]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000B1
+
+// Change Partner [Cordelia]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000B4
+
+// Change Partner [Cornelia]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000C1
+
+// Change Partner [Dante]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000006D
+
+// Change Partner [East]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000009C
+
+// Change Partner [Elbert]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000006F
+
+// Change Partner [Elena]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000066
+
+// Change Partner [Erik]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000097
+
+// Change Partner [Ernesto]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000081
+
+// Change Partner [Eve]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000C2
+
+// Change Partner [Flora]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000B5
+
+// Change Partner [Francisca]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000C4
+
+// Change Partner [Frost]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000007D
+
+// Change Partner [Galileo]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000087
+
+// Change Partner [Glen]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000006E
+
+// Change Partner [Greg]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000007A
+
+// Change Partner [Guy]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000007E
+
+// Change Partner [Hashish]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000B7
+
+// Change Partner [Heathcliff]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000000A
+
+// Change Partner [Hector]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000A2
+
+// Change Partner [Hinata]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000C5
+
+// Change Partner [Honza]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000093
+
+// Change Partner [Iris]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000C3
+
+// Change Partner [Joseph]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000082
+
+// Change Partner [Kamui]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000A4
+
+// Change Partner [Kanon]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000BE
+
+// Change Partner [Karen]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000B6
+
+// Change Partner [Kilala]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000B0
+
+// Change Partner [Klaus]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000091
+
+// Change Partner [Klein]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000008
+
+// Change Partner [Knightley]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000086
+
+// Change Partner [Kuro]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000A0
+
+// Change Partner [Kyle]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000068
+
+// Change Partner [Leo]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000075
+
+// Change Partner [Levin]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000008D
+
+// Change Partner [Liliana]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000A9
+
+// Change Partner [Linus]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000008B
+
+// Change Partner [Lisa]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000A8
+
+// Change Partner [Lisbeth]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000003
+
+// Change Partner [Maria]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000A7
+
+// Change Partner [Marina]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000AA
+
+// Change Partner [Masao]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000008C
+
+// Change Partner [Max]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000094
+
+// Change Partner [May]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000AE
+
+// Change Partner [MHCP Type 003]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000000E
+
+// Change Partner [MHCP Type 004]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000000F
+
+// Change Partner [MHCP Type 005]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000010
+
+// Change Partner [MHCP Type 006]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000011
+
+// Change Partner [MHCP Type 007]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000012
+
+// Change Partner [MHCP Type 008]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000013
+
+// Change Partner [MHCP Type 009]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000014
+
+// Change Partner [Miles]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000070
+
+// Change Partner [Mina]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000BF
+
+// Change Partner [Mint]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000B2
+
+// Change Partner [Mogra]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000AD
+
+// Change Partner [More]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000C0
+
+// Change Partner [Musashi]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000008E
+
+// Change Partner [Naomi]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000B9
+
+// Change Partner [Nazuna]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000B8
+
+// Change Partner [Nicole]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000BB
+
+// Change Partner [Oguri]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000084
+
+// Change Partner [Oswald]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000096
+
+// Change Partner [Pina]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000000D
+
+// Change Partner [Ralph]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000008F
+
+// Change Partner [Raul]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000007F
+
+// Change Partner [Reinhard]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000089
+
+// Change Partner [Rion]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000072
+
+// Change Partner [Rodger]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000006A
+
+// Change Partner [Ruby]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000BC
+
+// Change Partner [Rufus]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000009A
+
+// Change Partner [Ryouma]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000076
+
+// Change Partner [Sai]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000009E
+
+// Change Partner [Schneider]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000006B
+
+// Change Partner [Seeklight]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 0000007C
+
+// Change Partner [Shigure]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000073
+
+// Change Partner [Shinya]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000A1
+
+// Change Partner [Silica:]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000002
+
+// Change Partner [Simon]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000099
+
+// Change Partner [Sinon:]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000005
+
+// Change Partner [Sofia]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000AB
+
+// Change Partner [Spencer]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000077
+
+// Change Partner [Strea]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000007
+
+// Change Partner [Takuto]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000080
+
+// Change Partner [Tetsu]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000070
+
+// Change Partner [Theodor]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000074
+
+// Change Partner [Tina]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000BD
+
+// Change Partner [Toni]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000092
+
+// Change Partner [Walt]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000079
+
+// Change Partner [Yui]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 00000006
+
+// Change Partner [Yuno]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000C6
+
+// Change Partner [Yuzuha]
+Author = libretro-database contributors / original PSP cheat authors
+104BCA0E 000000C7
+
+// Asuna: Cos.0
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00006432
+
+// Asuna: Cos.1
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00006532
+
+// Asuna: Cos.2
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00006632
+
+// Asuna: Cos.3
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00006732
+
+// Asuna: Cos.4
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00006832
+
+// Leafa: Cos.1
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000A032
+
+// Leafa: Cos.2
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000A132
+
+// Leafa: Cos.3
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000A232
+
+// Leafa: Cos.4
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000A332
+
+// Lisbeth: Cos.1
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00008C32
+
+// Lisbeth: Cos.2
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00008D32
+
+// Lisbeth: Cos.3
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00008E32
+
+// Lisbeth: Cos.4
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00008F32
+
+// Sinon: Cos.1
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000B432
+
+// Sinon: Cos.2
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000B532
+
+// Sinon: Cos.3
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000B632
+
+// Sinon: Cos.4
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000B732
+
+// Silica: Cos.1
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00007832
+
+// Silica: Cos.2
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00007932
+
+// Silica: Cos.3
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00007A32
+
+// Silica: Cos.4
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00007B32
+
+// Change Asuna: Costume 1
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000032
+
+// Change Asuna: Costume 2
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000132
+
+// Change Asuna: Costume 3
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000232
+
+// Change Asuna: Costume 4
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000332
+
+// Change Asuna: Costume 5
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000432
+
+// Change Asuna: Costume 6
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000532
+
+// Change Asuna: Costume 7
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000632
+
+// Change Asuna: Costume 8
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000732
+
+// Change Asuna: Costume 9
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000832
+
+// Change Asuna: Costume 10
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000932
+
+// Change Asuna: Costume 11
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000A32
+
+// Change Asuna: Costume 12
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000B32
+
+// Change Asuna: Costume 13
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000C32
+
+// Change Asuna: Costume 14
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000D32
+
+// Change Asuna: Costume 15
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000E32
+
+// Change Asuna: Costume 16
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00000F32
+
+// Change Asuna: Costume 17
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001032
+
+// Change Asuna: Costume 18
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001132
+
+// Change Asuna: Costume 19
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001232
+
+// Change Asuna: Costume 20
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001332
+
+// Change Asuna: Costume 21
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001432
+
+// Change Asuna: Costume 22
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001532
+
+// Change Asuna: Costume 23
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001632
+
+// Change Asuna: Costume 24
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001732
+
+// Change Asuna: Costume 25
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001832
+
+// Change Asuna: Costume 26
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001932
+
+// Change Asuna: Costume 27
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001A32
+
+// Change Asuna: Costume 28
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001C32
+
+// Change Asuna: Costume 29
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001E32
+
+// Change Asuna: Costume 30
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00001F32
+
+// Change Asuna: Costume 31
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00003232
+
+// Change Asuna: Costume 32
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00003332
+
+// Change Asuna: Costume 33
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00003432
+
+// Change Asuna: Costume 34
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00003532
+
+// Change Asuna: Costume 35
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00003532
+
+// Change Asuna: Costume 36
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00003632
+
+// Change Asuna: Costume 37
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00003732
+
+// Change Asuna: Costume 38
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00003832
+
+// Change Asuna: Costume 39
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00006432
+
+// Change Asuna: Costume 40
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00006532
+
+// Change Asuna: Costume 41
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00006632
+
+// Change Asuna: Costume 42
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00006732
+
+// Change Asuna: Costume 43
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00006832
+
+// Change Asuna: Costume 44
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00007832
+
+// Change Asuna: Costume 45
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00007932
+
+// Change Asuna: Costume 46
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00007A32
+
+// Change Asuna: Costume 47
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00007B32
+
+// Change Asuna: Costume 48
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00008C32
+
+// Change Asuna: Costume 49
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00008D32
+
+// Change Asuna: Costume 50
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00008E32
+
+// Change Asuna: Costume 51
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 00008F32
+
+// Change Asuna: Costume 52
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000A032
+
+// Change Asuna: Costume 53
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000A132
+
+// Change Asuna: Costume 54
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000A232
+
+// Change Asuna: Costume 55
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000A332
+
+// Change Asuna: Costume 56
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000B432
+
+// Change Asuna: Costume 57
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000B532
+
+// Change Asuna: Costume 58
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000B632
+
+// Change Asuna: Costume 59
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000B732
+
+// Change Asuna: Costume 60
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000C932
+
+// Change Asuna: Costume 61
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000CA32
+
+// Change Asuna: Costume 62
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000CC32
+
+// Change Asuna: Costume 63
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000CD32
+
+// Change Asuna: Costume 64
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000D032
+
+// Change Asuna: Costume 65
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000D432
+
+// Change Asuna: Costume 66
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000D532
+
+// Change Asuna: Costume 67
+Author = libretro-database contributors / original PSP cheat authors
+204BF584 0000D632
+
+// Change Leafa: Costume 1
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000032
+
+// Change Leafa: Costume 2
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000132
+
+// Change Leafa: Costume 3
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000232
+
+// Change Leafa: Costume 4
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000332
+
+// Change Leafa: Costume 5
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000432
+
+// Change Leafa: Costume 6
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000532
+
+// Change Leafa: Costume 7
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000632
+
+// Change Leafa: Costume 8
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000732
+
+// Change Leafa: Costume 9
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000832
+
+// Change Leafa: Costume 10
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000932
+
+// Change Leafa: Costume 11
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000A32
+
+// Change Leafa: Costume 12
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000B32
+
+// Change Leafa: Costume 13
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000C32
+
+// Change Leafa: Costume 14
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000D32
+
+// Change Leafa: Costume 15
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000E32
+
+// Change Leafa: Costume 16
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00000F32
+
+// Change Leafa: Costume 17
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001032
+
+// Change Leafa: Costume 18
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001132
+
+// Change Leafa: Costume 19
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001232
+
+// Change Leafa: Costume 20
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001332
+
+// Change Leafa: Costume 21
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001432
+
+// Change Leafa: Costume 22
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001532
+
+// Change Leafa: Costume 23
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001632
+
+// Change Leafa: Costume 24
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001732
+
+// Change Leafa: Costume 25
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001832
+
+// Change Leafa: Costume 26
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001932
+
+// Change Leafa: Costume 27
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001A32
+
+// Change Leafa: Costume 28
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001C32
+
+// Change Leafa: Costume 29
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001E32
+
+// Change Leafa: Costume 30
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00001F32
+
+// Change Leafa: Costume 31
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00003232
+
+// Change Leafa: Costume 32
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00003332
+
+// Change Leafa: Costume 33
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00003432
+
+// Change Leafa: Costume 34
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00003532
+
+// Change Leafa: Costume 35
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00003532
+
+// Change Leafa: Costume 36
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00003632
+
+// Change Leafa: Costume 37
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00003732
+
+// Change Leafa: Costume 38
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00003832
+
+// Change Leafa: Costume 39
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00006432
+
+// Change Leafa: Costume 40
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00006532
+
+// Change Leafa: Costume 41
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00006632
+
+// Change Leafa: Costume 42
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00006732
+
+// Change Leafa: Costume 43
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00006832
+
+// Change Leafa: Costume 44
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00007832
+
+// Change Leafa: Costume 45
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00007932
+
+// Change Leafa: Costume 46
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00007A32
+
+// Change Leafa: Costume 47
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00007B32
+
+// Change Leafa: Costume 48
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00008C32
+
+// Change Leafa: Costume 49
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00008D32
+
+// Change Leafa: Costume 50
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00008E32
+
+// Change Leafa: Costume 51
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 00008F32
+
+// Change Leafa: Costume 52
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000A032
+
+// Change Leafa: Costume 53
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000A132
+
+// Change Leafa: Costume 54
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000A232
+
+// Change Leafa: Costume 55
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000A332
+
+// Change Leafa: Costume 56
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000B432
+
+// Change Leafa: Costume 57
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000B532
+
+// Change Leafa: Costume 58
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000B632
+
+// Change Leafa: Costume 59
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000B732
+
+// Change Leafa: Costume 60
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000C932
+
+// Change Leafa: Costume 61
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000CA32
+
+// Change Leafa: Costume 62
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000CC32
+
+// Change Leafa: Costume 63
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000CD32
+
+// Change Leafa: Costume 64
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000D032
+
+// Change Leafa: Costume 65
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000D432
+
+// Change Leafa: Costume 66
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000D532
+
+// Change Leafa: Costume 67
+Author = libretro-database contributors / original PSP cheat authors
+204BFE78 0000D632
+
+// Change Lisbeth: Costume 1
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000032
+
+// Change Lisbeth: Costume 2
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000132
+
+// Change Lisbeth: Costume 3
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000232
+
+// Change Lisbeth: Costume 4
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000332
+
+// Change Lisbeth: Costume 5
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000432
+
+// Change Lisbeth: Costume 6
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000532
+
+// Change Lisbeth: Costume 7
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000632
+
+// Change Lisbeth: Costume 8
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000732
+
+// Change Lisbeth: Costume 9
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000832
+
+// Change Lisbeth: Costume 10
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000932
+
+// Change Lisbeth: Costume 11
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000A32
+
+// Change Lisbeth: Costume 12
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000B32
+
+// Change Lisbeth: Costume 13
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000C32
+
+// Change Lisbeth: Costume 14
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000D32
+
+// Change Lisbeth: Costume 15
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000E32
+
+// Change Lisbeth: Costume 16
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00000F32
+
+// Change Lisbeth: Costume 17
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001032
+
+// Change Lisbeth: Costume 18
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001132
+
+// Change Lisbeth: Costume 19
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001232
+
+// Change Lisbeth: Costume 20
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001332
+
+// Change Lisbeth: Costume 21
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001432
+
+// Change Lisbeth: Costume 22
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001532
+
+// Change Lisbeth: Costume 23
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001632
+
+// Change Lisbeth: Costume 24
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001732
+
+// Change Lisbeth: Costume 25
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001832
+
+// Change Lisbeth: Costume 26
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001932
+
+// Change Lisbeth: Costume 27
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001A32
+
+// Change Lisbeth: Costume 28
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001C32
+
+// Change Lisbeth: Costume 29
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001E32
+
+// Change Lisbeth: Costume 30
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00001F32
+
+// Change Lisbeth: Costume 31
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00003232
+
+// Change Lisbeth: Costume 32
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00003332
+
+// Change Lisbeth: Costume 33
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00003432
+
+// Change Lisbeth: Costume 34
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00003532
+
+// Change Lisbeth: Costume 35
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00003532
+
+// Change Lisbeth: Costume 36
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00003632
+
+// Change Lisbeth: Costume 37
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00003732
+
+// Change Lisbeth: Costume 38
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00003832
+
+// Change Lisbeth: Costume 39
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00006432
+
+// Change Lisbeth: Costume 40
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00006532
+
+// Change Lisbeth: Costume 41
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00006632
+
+// Change Lisbeth: Costume 42
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00006732
+
+// Change Lisbeth: Costume 43
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00006832
+
+// Change Lisbeth: Costume 44
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00007832
+
+// Change Lisbeth: Costume 45
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00007932
+
+// Change Lisbeth: Costume 46
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00007A32
+
+// Change Lisbeth: Costume 47
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00007B32
+
+// Change Lisbeth: Costume 48
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00008C32
+
+// Change Lisbeth: Costume 49
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00008D32
+
+// Change Lisbeth: Costume 50
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00008E32
+
+// Change Lisbeth: Costume 51
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 00008F32
+
+// Change Lisbeth: Costume 52
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000A032
+
+// Change Lisbeth: Costume 53
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000A132
+
+// Change Lisbeth: Costume 54
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000A232
+
+// Change Lisbeth: Costume 55
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000A332
+
+// Change Lisbeth: Costume 56
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000B432
+
+// Change Lisbeth: Costume 57
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000B532
+
+// Change Lisbeth: Costume 58
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000B632
+
+// Change Lisbeth: Costume 59
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000B732
+
+// Change Lisbeth: Costume 60
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000C932
+
+// Change Lisbeth: Costume 61
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000CA32
+
+// Change Lisbeth: Costume 62
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000CC32
+
+// Change Lisbeth: Costume 63
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000CD32
+
+// Change Lisbeth: Costume 64
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000D032
+
+// Change Lisbeth: Costume 65
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000D432
+
+// Change Lisbeth: Costume 66
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000D532
+
+// Change Lisbeth: Costume 67
+Author = libretro-database contributors / original PSP cheat authors
+204BFB7C 0000D632
+
+// Change Silica: Costume 1
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000032
+
+// Change Silica: Costume 2
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000132
+
+// Change Silica: Costume 3
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000232
+
+// Change Silica: Costume 4
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000332
+
+// Change Silica: Costume 5
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000432
+
+// Change Silica: Costume 6
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000532
+
+// Change Silica: Costume 7
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000632
+
+// Change Silica: Costume 8
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000732
+
+// Change Silica: Costume 9
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000832
+
+// Change Silica: Costume 10
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000932
+
+// Change Silica: Costume 11
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000A32
+
+// Change Silica: Costume 12
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000B32
+
+// Change Silica: Costume 13
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000C32
+
+// Change Silica: Costume 14
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000D32
+
+// Change Silica: Costume 15
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000E32
+
+// Change Silica: Costume 16
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00000F32
+
+// Change Silica: Costume 17
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001032
+
+// Change Silica: Costume 18
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001132
+
+// Change Silica: Costume 19
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001232
+
+// Change Silica: Costume 20
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001332
+
+// Change Silica: Costume 21
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001432
+
+// Change Silica: Costume 22
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001532
+
+// Change Silica: Costume 23
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001632
+
+// Change Silica: Costume 24
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001732
+
+// Change Silica: Costume 25
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001832
+
+// Change Silica: Costume 26
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001932
+
+// Change Silica: Costume 27
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001A32
+
+// Change Silica: Costume 28
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001C32
+
+// Change Silica: Costume 29
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001E32
+
+// Change Silica: Costume 30
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00001F32
+
+// Change Silica: Costume 31
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00003232
+
+// Change Silica: Costume 32
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00003332
+
+// Change Silica: Costume 33
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00003432
+
+// Change Silica: Costume 34
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00003532
+
+// Change Silica: Costume 35
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00003532
+
+// Change Silica: Costume 36
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00003632
+
+// Change Silica: Costume 37
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00003732
+
+// Change Silica: Costume 38
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00003832
+
+// Change Silica: Costume 39
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00006432
+
+// Change Silica: Costume 40
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00006532
+
+// Change Silica: Costume 41
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00006632
+
+// Change Silica: Costume 42
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00006732
+
+// Change Silica: Costume 43
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00006832
+
+// Change Silica: Costume 44
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00007832
+
+// Change Silica: Costume 45
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00007932
+
+// Change Silica: Costume 46
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00007A32
+
+// Change Silica: Costume 47
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00007B32
+
+// Change Silica: Costume 48
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00008C32
+
+// Change Silica: Costume 49
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00008D32
+
+// Change Silica: Costume 50
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00008E32
+
+// Change Silica: Costume 51
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 00008F32
+
+// Change Silica: Costume 52
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000A032
+
+// Change Silica: Costume 53
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000A132
+
+// Change Silica: Costume 54
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000A232
+
+// Change Silica: Costume 55
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000A332
+
+// Change Silica: Costume 56
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000B432
+
+// Change Silica: Costume 57
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000B532
+
+// Change Silica: Costume 58
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000B632
+
+// Change Silica: Costume 59
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000B732
+
+// Change Silica: Costume 60
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000C932
+
+// Change Silica: Costume 61
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000CA32
+
+// Change Silica: Costume 62
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000CC32
+
+// Change Silica: Costume 63
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000CD32
+
+// Change Silica: Costume 64
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000D032
+
+// Change Silica: Costume 65
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000D432
+
+// Change Silica: Costume 66
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000D532
+
+// Change Silica: Costume 67
+Author = libretro-database contributors / original PSP cheat authors
+204BF880 0000D632
+
+// Change Sinon: Costume 1
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000032
+
+// Change Sinon: Costume 2
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000132
+
+// Change Sinon: Costume 3
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000232
+
+// Change Sinon: Costume 4
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000332
+
+// Change Sinon: Costume 5
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000432
+
+// Change Sinon: Costume 6
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000532
+
+// Change Sinon: Costume 7
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000632
+
+// Change Sinon: Costume 8
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000732
+
+// Change Sinon: Costume 9
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000832
+
+// Change Sinon: Costume 10
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000932
+
+// Change Sinon: Costume 11
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000A32
+
+// Change Sinon: Costume 12
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000B32
+
+// Change Sinon: Costume 13
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000C32
+
+// Change Sinon: Costume 14
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000D32
+
+// Change Sinon: Costume 15
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000E32
+
+// Change Sinon: Costume 16
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00000F32
+
+// Change Sinon: Costume 17
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001032
+
+// Change Sinon: Costume 18
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001132
+
+// Change Sinon: Costume 19
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001232
+
+// Change Sinon: Costume 20
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001332
+
+// Change Sinon: Costume 21
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001432
+
+// Change Sinon: Costume 22
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001532
+
+// Change Sinon: Costume 23
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001632
+
+// Change Sinon: Costume 24
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001732
+
+// Change Sinon: Costume 25
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001832
+
+// Change Sinon: Costume 26
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001932
+
+// Change Sinon: Costume 27
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001A32
+
+// Change Sinon: Costume 28
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001C32
+
+// Change Sinon: Costume 29
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001E32
+
+// Change Sinon: Costume 30
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00001F32
+
+// Change Sinon: Costume 31
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00003232
+
+// Change Sinon: Costume 32
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00003332
+
+// Change Sinon: Costume 33
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00003432
+
+// Change Sinon: Costume 34
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00003532
+
+// Change Sinon: Costume 35
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00003532
+
+// Change Sinon: Costume 36
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00003632
+
+// Change Sinon: Costume 37
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00003732
+
+// Change Sinon: Costume 38
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00003832
+
+// Change Sinon: Costume 39
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00006432
+
+// Change Sinon: Costume 40
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00006532
+
+// Change Sinon: Costume 41
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00006632
+
+// Change Sinon: Costume 42
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00006732
+
+// Change Sinon: Costume 43
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00006832
+
+// Change Sinon: Costume 44
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00007832
+
+// Change Sinon: Costume 45
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00007932
+
+// Change Sinon: Costume 46
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00007A32
+
+// Change Sinon: Costume 47
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00007B32
+
+// Change Sinon: Costume 48
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00008C32
+
+// Change Sinon: Costume 49
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00008D32
+
+// Change Sinon: Costume 50
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00008E32
+
+// Change Sinon: Costume 51
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 00008F32
+
+// Change Sinon: Costume 52
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000A032
+
+// Change Sinon: Costume 53
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000A132
+
+// Change Sinon: Costume 54
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000A232
+
+// Change Sinon: Costume 55
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000A332
+
+// Change Sinon: Costume 56
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000B432
+
+// Change Sinon: Costume 57
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000B532
+
+// Change Sinon: Costume 58
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000B632
+
+// Change Sinon: Costume 59
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000B732
+
+// Change Sinon: Costume 60
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000C932
+
+// Change Sinon: Costume 61
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000CA32
+
+// Change Sinon: Costume 62
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000CC32
+
+// Change Sinon: Costume 63
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000CD32
+
+// Change Sinon: Costume 64
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000D032
+
+// Change Sinon: Costume 65
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000D432
+
+// Change Sinon: Costume 66
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000D532
+
+// Change Sinon: Costume 67
+Author = libretro-database contributors / original PSP cheat authors
+204C0174 0000D632

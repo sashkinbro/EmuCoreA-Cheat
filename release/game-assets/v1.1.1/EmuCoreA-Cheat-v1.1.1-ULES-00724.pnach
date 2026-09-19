@@ -1,0 +1,990 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-00724
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 100 Hits
+Author = libretro-database contributors / original PSP cheat authors
+006CAE73 00000063
+
+// All Items 99
+Author = libretro-database contributors / original PSP cheat authors
+81296016 02600001
+10000001 00000001
+812964D6 02600001
+00000063 00000000
+
+// Arngrim DME 99,999
+Author = libretro-database contributors / original PSP cheat authors
+2127FE88 0001869F
+
+// Arngrim Skill Capacity 999
+Author = libretro-database contributors / original PSP cheat authors
+1127FEA8 000003E7
+
+// Freya DME 99,999
+Author = libretro-database contributors / original PSP cheat authors
+2127FD9C 0001869F
+
+// Freya Skill Capacity 999
+Author = libretro-database contributors / original PSP cheat authors
+1127FDBC 000003E7
+
+// Infinite Materialize
+Author = libretro-database contributors / original PSP cheat authors
+21295DE4 0001869F
+
+// Infinite Materialize Points
+Author = libretro-database contributors / original PSP cheat authors
+01295DE4 000F423F
+
+// Infinite Party Exp.
+Author = libretro-database contributors / original PSP cheat authors
+212859E0 3B9AC9FF
+
+// Jelanda DME 99,999
+Author = libretro-database contributors / original PSP cheat authors
+2127FF74 0001869F
+
+// Jelanda Skill Capacity 999
+Author = libretro-database contributors / original PSP cheat authors
+1127FF94 000003E7
+
+// Max Evaluation Score
+Author = libretro-database contributors / original PSP cheat authors
+112960D0 0000270F
+
+// Max Experience Orb
+Author = libretro-database contributors / original PSP cheat authors
+012859E0 05F5E0FF
+
+// Max Party Exp.
+Author = libretro-database contributors / original PSP cheat authors
+212858E0 3B9AC9FF
+
+// MaxDME 99,999
+Author = libretro-database contributors / original PSP cheat authors
+2127FCB0 0001869F
+
+// Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+217FFE94 DFFF2000
+212875AC FFFFFA50
+
+// Periodos A 0
+Author = libretro-database contributors / original PSP cheat authors
+01285A29 00000000
+
+// Play Time 0:00:00
+Author = libretro-database contributors / original PSP cheat authors
+21295DE8 00000000
+
+// Save Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+212960E0 FFFE0000
+DB000000 09A960E0
+D4000000 00000001
+D8000000 09A960E0
+
+// Skill Capacity 999
+Author = libretro-database contributors / original PSP cheat authors
+1127FCD0 000003E7
+
+// After = 1 /10
+Author = libretro-database contributors / original PSP cheat authors
+21280418 00000001
+
+// After = 1 /11
+Author = libretro-database contributors / original PSP cheat authors
+21280504 00000001
+
+// After = 1 /12
+Author = libretro-database contributors / original PSP cheat authors
+212805F0 00000001
+
+// After = 1 /13
+Author = libretro-database contributors / original PSP cheat authors
+212806DC 00000001
+
+// After = 1 /14
+Author = libretro-database contributors / original PSP cheat authors
+212807C8 00000001
+
+// After = 1 /15
+Author = libretro-database contributors / original PSP cheat authors
+212808B4 00000001
+
+// After = 1 /16
+Author = libretro-database contributors / original PSP cheat authors
+212809A0 00000001
+
+// After = 1 /17
+Author = libretro-database contributors / original PSP cheat authors
+21280A8C 00000001
+
+// After = 1 /18
+Author = libretro-database contributors / original PSP cheat authors
+21280B78 00000001
+
+// After = 1 /19
+Author = libretro-database contributors / original PSP cheat authors
+21280C64 00000001
+
+// After = 1 /2
+Author = libretro-database contributors / original PSP cheat authors
+2127FCB8 00000001
+
+// After = 1 /20
+Author = libretro-database contributors / original PSP cheat authors
+21280D50 00000001
+
+// After = 1 /21
+Author = libretro-database contributors / original PSP cheat authors
+21280E3C 00000001
+
+// After = 1 /22
+Author = libretro-database contributors / original PSP cheat authors
+21280F28 00000001
+
+// After = 1 /23
+Author = libretro-database contributors / original PSP cheat authors
+21281014 00000001
+
+// After = 1 /24
+Author = libretro-database contributors / original PSP cheat authors
+21281100 00000001
+
+// After = 1 /25
+Author = libretro-database contributors / original PSP cheat authors
+212811EC 00000001
+
+// After = 1 /3
+Author = libretro-database contributors / original PSP cheat authors
+2127FDA4 00000001
+
+// After = 1 /4
+Author = libretro-database contributors / original PSP cheat authors
+2127FE90 00000001
+
+// After = 1 /5
+Author = libretro-database contributors / original PSP cheat authors
+2127FF7C 00000001
+
+// After = 1 /6
+Author = libretro-database contributors / original PSP cheat authors
+21280068 00000001
+
+// After = 1 /7
+Author = libretro-database contributors / original PSP cheat authors
+21280154 00000001
+
+// After = 1 /8
+Author = libretro-database contributors / original PSP cheat authors
+21280240 00000001
+
+// After = 1 /9
+Author = libretro-database contributors / original PSP cheat authors
+2128032C 00000001
+
+// After = 1 /Valkyrie
+Author = libretro-database contributors / original PSP cheat authors
+2127FBCC 00000001
+
+// Agi. 9999 /10
+Author = libretro-database contributors / original PSP cheat authors
+11280358 0000270F
+
+// Agi. 9999 /11
+Author = libretro-database contributors / original PSP cheat authors
+11280444 0000270F
+
+// Agi. 9999 /12
+Author = libretro-database contributors / original PSP cheat authors
+11280530 0000270F
+
+// Agi. 9999 /13
+Author = libretro-database contributors / original PSP cheat authors
+1128061C 0000270F
+
+// Agi. 9999 /14
+Author = libretro-database contributors / original PSP cheat authors
+11280708 0000270F
+
+// Agi. 9999 /15
+Author = libretro-database contributors / original PSP cheat authors
+112807F4 0000270F
+
+// Agi. 9999 /16
+Author = libretro-database contributors / original PSP cheat authors
+112808E0 0000270F
+
+// Agi. 9999 /17
+Author = libretro-database contributors / original PSP cheat authors
+112809CC 0000270F
+
+// Agi. 9999 /18
+Author = libretro-database contributors / original PSP cheat authors
+11280AB8 0000270F
+
+// Agi. 9999 /19
+Author = libretro-database contributors / original PSP cheat authors
+11280BA4 0000270F
+
+// Agi. 9999 /2
+Author = libretro-database contributors / original PSP cheat authors
+1127FBF8 0000270F
+
+// Agi. 9999 /20
+Author = libretro-database contributors / original PSP cheat authors
+11280C90 0000270F
+
+// Agi. 9999 /21
+Author = libretro-database contributors / original PSP cheat authors
+11280D7C 0000270F
+
+// Agi. 9999 /22
+Author = libretro-database contributors / original PSP cheat authors
+11280E68 0000270F
+
+// Agi. 9999 /23
+Author = libretro-database contributors / original PSP cheat authors
+11280F54 0000270F
+FFFFFF00 00000000
+11280F56 0000270F
+
+// Agi. 9999 /24
+Author = libretro-database contributors / original PSP cheat authors
+11281040 0000270F
+
+// Agi. 9999 /25
+Author = libretro-database contributors / original PSP cheat authors
+1128112C 0000270F
+
+// Agi. 9999 /3
+Author = libretro-database contributors / original PSP cheat authors
+1127FCE4 0000270F
+
+// Agi. 9999 /4
+Author = libretro-database contributors / original PSP cheat authors
+1127FDCE 0000270F
+
+// Agi. 9999 /5
+Author = libretro-database contributors / original PSP cheat authors
+1127FEBC 0000270F
+
+// Agi. 9999 /6
+Author = libretro-database contributors / original PSP cheat authors
+1127FFA8 0000270F
+
+// Agi. 9999 /7
+Author = libretro-database contributors / original PSP cheat authors
+11280094 0000270F
+
+// Agi. 9999 /8
+Author = libretro-database contributors / original PSP cheat authors
+11280080 0000270F
+
+// Agi. 9999 /9
+Author = libretro-database contributors / original PSP cheat authors
+1128026C 0000270F
+
+// Agi. 9999 /Valkyrie
+Author = libretro-database contributors / original PSP cheat authors
+1127FB0C 0000270F
+
+// Capter = 0
+Author = libretro-database contributors / original PSP cheat authors
+01285928 00000000
+
+// Capter = 8
+Author = libretro-database contributors / original PSP cheat authors
+01285928 00000008
+
+// Dex. 9999 /10
+Author = libretro-database contributors / original PSP cheat authors
+1128035A 0000270F
+
+// Dex. 9999 /11
+Author = libretro-database contributors / original PSP cheat authors
+11280446 0000270F
+
+// Dex. 9999 /12
+Author = libretro-database contributors / original PSP cheat authors
+11280532 0000270F
+
+// Dex. 9999 /13
+Author = libretro-database contributors / original PSP cheat authors
+1128061E 0000270F
+
+// Dex. 9999 /14
+Author = libretro-database contributors / original PSP cheat authors
+1128070A 0000270F
+
+// Dex. 9999 /15
+Author = libretro-database contributors / original PSP cheat authors
+112807F6 0000270F
+
+// Dex. 9999 /16
+Author = libretro-database contributors / original PSP cheat authors
+112808E2 0000270F
+
+// Dex. 9999 /17
+Author = libretro-database contributors / original PSP cheat authors
+112809CE 0000270F
+
+// Dex. 9999 /18
+Author = libretro-database contributors / original PSP cheat authors
+11280ABA 0000270F
+
+// Dex. 9999 /19
+Author = libretro-database contributors / original PSP cheat authors
+11280BA6 0000270F
+
+// Dex. 9999 /2
+Author = libretro-database contributors / original PSP cheat authors
+1127FBFA 0000270F
+
+// Dex. 9999 /20
+Author = libretro-database contributors / original PSP cheat authors
+11280C92 0000270F
+
+// Dex. 9999 /21
+Author = libretro-database contributors / original PSP cheat authors
+11280D7E 0000270F
+
+// Dex. 9999 /22
+Author = libretro-database contributors / original PSP cheat authors
+11280E6A 0000270F
+
+// Dex. 9999 /24
+Author = libretro-database contributors / original PSP cheat authors
+11281042 0000270F
+
+// Dex. 9999 /25
+Author = libretro-database contributors / original PSP cheat authors
+1128112E 0000270F
+
+// Dex. 9999 /3
+Author = libretro-database contributors / original PSP cheat authors
+1127FCE6 0000270F
+
+// Dex. 9999 /4
+Author = libretro-database contributors / original PSP cheat authors
+1127FDD0 0000270F
+
+// Dex. 9999 /5
+Author = libretro-database contributors / original PSP cheat authors
+1127FEBE 0000270F
+
+// Dex. 9999 /6
+Author = libretro-database contributors / original PSP cheat authors
+1127FFAA 0000270F
+
+// Dex. 9999 /7
+Author = libretro-database contributors / original PSP cheat authors
+11280096 0000270F
+
+// Dex. 9999 /8
+Author = libretro-database contributors / original PSP cheat authors
+11280082 0000270F
+
+// Dex. 9999 /9
+Author = libretro-database contributors / original PSP cheat authors
+1128026E 0000270F
+
+// Dex. 9999 /Valkyrie
+Author = libretro-database contributors / original PSP cheat authors
+1127FB0E 0000270F
+
+// DME 90000 /10
+Author = libretro-database contributors / original PSP cheat authors
+21280350 00015F90
+212803F8 00015F90
+212803FC 00015F90
+
+// DME 90000 /11
+Author = libretro-database contributors / original PSP cheat authors
+2128043C 00015F90
+212804E4 00015F90
+212804E8 00015F90
+
+// DME 90000 /12
+Author = libretro-database contributors / original PSP cheat authors
+21280528 00015F90
+212805D0 00015F90
+212805D4 00015F90
+
+// DME 90000 /13
+Author = libretro-database contributors / original PSP cheat authors
+21280614 00015F90
+212806BC 00015F90
+212806C0 00015F90
+
+// DME 90000 /14
+Author = libretro-database contributors / original PSP cheat authors
+21280700 00015F90
+212807A8 00015F90
+212807AC 00015F90
+
+// DME 90000 /15
+Author = libretro-database contributors / original PSP cheat authors
+212807EC 00015F90
+21280894 00015F90
+21280898 00015F90
+
+// DME 90000 /16
+Author = libretro-database contributors / original PSP cheat authors
+212808D8 00015F90
+21280980 00015F90
+21280984 00015F90
+
+// DME 90000 /17
+Author = libretro-database contributors / original PSP cheat authors
+212809C4 00015F90
+21280A6C 00015F90
+21280A70 00015F90
+
+// DME 90000 /18
+Author = libretro-database contributors / original PSP cheat authors
+21280AB0 00015F90
+21280B58 00015F90
+21280B5C 00015F90
+
+// DME 90000 /19
+Author = libretro-database contributors / original PSP cheat authors
+21280B9C 00015F90
+21280C44 00015F90
+21280C48 00015F90
+
+// DME 90000 /2
+Author = libretro-database contributors / original PSP cheat authors
+2127FBF0 00015F90
+2127FC98 00015F90
+2127FC9C 00015F90
+
+// DME 90000 /20
+Author = libretro-database contributors / original PSP cheat authors
+21280C88 00015F90
+21280D30 00015F90
+21280D34 00015F90
+
+// DME 90000 /21
+Author = libretro-database contributors / original PSP cheat authors
+21280D74 00015F90
+21280E1C 00015F90
+21280E20 00015F90
+
+// DME 90000 /22
+Author = libretro-database contributors / original PSP cheat authors
+21280E60 00015F90
+21280F08 00015F90
+21280F0C 00015F90
+
+// DME 90000 /23
+Author = libretro-database contributors / original PSP cheat authors
+21280F4C 00015F90
+21280FF4 00015F90
+21280FF8 00015F90
+
+// DME 90000 /24
+Author = libretro-database contributors / original PSP cheat authors
+21281038 00015F90
+212810E0 00015F90
+212810E4 00015F90
+
+// DME 90000 /25
+Author = libretro-database contributors / original PSP cheat authors
+21281124 00015F90
+212811CC 00015F90
+212811D0 00015F90
+
+// DME 90000 /3
+Author = libretro-database contributors / original PSP cheat authors
+2127FCDC 00015F90
+2127FD84 00015F90
+2127FD88 00015F90
+
+// DME 90000 /4
+Author = libretro-database contributors / original PSP cheat authors
+2127FDC8 00015F90
+2127FE70 00015F90
+2127FE74 00015F90
+
+// DME 90000 /5
+Author = libretro-database contributors / original PSP cheat authors
+2127FEB4 00015F90
+2127FF5C 00015F90
+2127FF60 00015F90
+
+// DME 90000 /6
+Author = libretro-database contributors / original PSP cheat authors
+2127FFA0 00015F90
+21280048 00015F90
+2128004C 00015F90
+
+// DME 90000 /7
+Author = libretro-database contributors / original PSP cheat authors
+2128008C 00015F90
+21280134 00015F90
+21280138 00015F90
+
+// DME 90000 /8
+Author = libretro-database contributors / original PSP cheat authors
+21280178 00015F90
+21280220 00015F90
+21280224 00015F90
+
+// DME 90000 /9
+Author = libretro-database contributors / original PSP cheat authors
+21280264 00015F90
+2128030C 00015F90
+21280310 00015F90
+
+// DME 90000 /Valkyrie
+Author = libretro-database contributors / original PSP cheat authors
+2127FB04 00015F90
+2127FBAC 00015F90
+2127FBB0 00015F90
+
+// Int. 9999 /25
+Author = libretro-database contributors / original PSP cheat authors
+1128112A 0000270F
+
+// Int. 9999 /10
+Author = libretro-database contributors / original PSP cheat authors
+11280356 0000270F
+
+// Int. 9999 /11
+Author = libretro-database contributors / original PSP cheat authors
+11280442 0000270F
+
+// Int. 9999 /12
+Author = libretro-database contributors / original PSP cheat authors
+1128052E 0000270F
+
+// Int. 9999 /13
+Author = libretro-database contributors / original PSP cheat authors
+1128061A 0000270F
+
+// Int. 9999 /14
+Author = libretro-database contributors / original PSP cheat authors
+11280706 0000270F
+
+// Int. 9999 /15
+Author = libretro-database contributors / original PSP cheat authors
+112807F2 0000270F
+
+// Int. 9999 /16
+Author = libretro-database contributors / original PSP cheat authors
+112808DE 0000270F
+
+// Int. 9999 /17
+Author = libretro-database contributors / original PSP cheat authors
+112809CA 0000270F
+
+// Int. 9999 /18
+Author = libretro-database contributors / original PSP cheat authors
+11280AB6 0000270F
+
+// Int. 9999 /19
+Author = libretro-database contributors / original PSP cheat authors
+11280BA2 0000270F
+
+// Int. 9999 /2
+Author = libretro-database contributors / original PSP cheat authors
+1127FBF6 0000270F
+
+// Int. 9999 /20
+Author = libretro-database contributors / original PSP cheat authors
+11280C8E 0000270F
+
+// Int. 9999 /21
+Author = libretro-database contributors / original PSP cheat authors
+11280D7A 0000270F
+
+// Int. 9999 /22
+Author = libretro-database contributors / original PSP cheat authors
+11280E66 0000270F
+
+// Int. 9999 /23
+Author = libretro-database contributors / original PSP cheat authors
+11280F52 0000270F
+
+// Int. 9999 /24
+Author = libretro-database contributors / original PSP cheat authors
+1128103E 0000270F
+
+// Int. 9999 /3
+Author = libretro-database contributors / original PSP cheat authors
+1127FCE2 0000270F
+
+// Int. 9999 /4
+Author = libretro-database contributors / original PSP cheat authors
+1127FDCC 0000270F
+
+// Int. 9999 /5
+Author = libretro-database contributors / original PSP cheat authors
+1127FEBA 0000270F
+
+// Int. 9999 /6
+Author = libretro-database contributors / original PSP cheat authors
+1127FFA6 0000270F
+
+// Int. 9999 /7
+Author = libretro-database contributors / original PSP cheat authors
+11280092 0000270F
+
+// Int. 9999 /8
+Author = libretro-database contributors / original PSP cheat authors
+1128017E 0000270F
+
+// Int. 9999 /9
+Author = libretro-database contributors / original PSP cheat authors
+1128026A 0000270F
+
+// Int. 9999 /Valkyrie
+Author = libretro-database contributors / original PSP cheat authors
+1127FB0A 0000270F
+
+// Load Japan Saves
+Author = libretro-database contributors / original PSP cheat authors
+20065840 4D4A4C55
+20065844 30313530
+00065848 00000031
+
+// Load USA Saves
+Author = libretro-database contributors / original PSP cheat authors
+20065840 53554C55
+20065844 30313031
+00065848 00000037
+
+// Lv. 99 /Valkyrie
+Author = libretro-database contributors / original PSP cheat authors
+0127FB00 00000063
+
+// Lv. 99 /10
+Author = libretro-database contributors / original PSP cheat authors
+0128034C 00000063
+
+// Lv. 99 /11
+Author = libretro-database contributors / original PSP cheat authors
+01280438 00000063
+
+// Lv. 99 /12
+Author = libretro-database contributors / original PSP cheat authors
+01280524 00000063
+
+// Lv. 99 /13
+Author = libretro-database contributors / original PSP cheat authors
+01280610 00000063
+
+// Lv. 99 /14
+Author = libretro-database contributors / original PSP cheat authors
+012806FC 00000063
+
+// Lv. 99 /15
+Author = libretro-database contributors / original PSP cheat authors
+012807E8 00000063
+
+// Lv. 99 /16
+Author = libretro-database contributors / original PSP cheat authors
+012808D4 00000063
+
+// Lv. 99 /17
+Author = libretro-database contributors / original PSP cheat authors
+012809C0 00000063
+
+// Lv. 99 /18
+Author = libretro-database contributors / original PSP cheat authors
+01280AAC 00000063
+
+// Lv. 99 /19
+Author = libretro-database contributors / original PSP cheat authors
+01280B98 00000063
+
+// Lv. 99 /2
+Author = libretro-database contributors / original PSP cheat authors
+0127FBEC 00000063
+
+// Lv. 99 /20
+Author = libretro-database contributors / original PSP cheat authors
+01280C84 00000063
+
+// Lv. 99 /21
+Author = libretro-database contributors / original PSP cheat authors
+01280D70 00000063
+
+// Lv. 99 /22
+Author = libretro-database contributors / original PSP cheat authors
+01280E5C 00000063
+
+// Lv. 99 /23
+Author = libretro-database contributors / original PSP cheat authors
+01280F48 00000063
+
+// Lv. 99 /24
+Author = libretro-database contributors / original PSP cheat authors
+01281034 00000063
+
+// Lv. 99 /25
+Author = libretro-database contributors / original PSP cheat authors
+01281120 00000063
+
+// Lv. 99 /3
+Author = libretro-database contributors / original PSP cheat authors
+0127FCD8 00000063
+
+// Lv. 99 /4
+Author = libretro-database contributors / original PSP cheat authors
+0127FDC4 00000063
+
+// Lv. 99 /5
+Author = libretro-database contributors / original PSP cheat authors
+0127FEB0 00000063
+
+// Lv. 99 /6
+Author = libretro-database contributors / original PSP cheat authors
+0127FF9C 00000063
+
+// Lv. 99 /7
+Author = libretro-database contributors / original PSP cheat authors
+01280088 00000063
+
+// Lv. 99 /8
+Author = libretro-database contributors / original PSP cheat authors
+01280174 00000063
+
+// Lv. 99 /9
+Author = libretro-database contributors / original PSP cheat authors
+01280260 00000063
+
+// Periods = 0
+Author = libretro-database contributors / original PSP cheat authors
+01285929 00000000
+
+// Periods = 23
+Author = libretro-database contributors / original PSP cheat authors
+01285929 00000017
+
+// Skill 9999 /10
+Author = libretro-database contributors / original PSP cheat authors
+1128041C 0000270F
+
+// Skill 9999 /11
+Author = libretro-database contributors / original PSP cheat authors
+11280508 0000270F
+
+// Skill 9999 /12
+Author = libretro-database contributors / original PSP cheat authors
+112805F4 0000270F
+
+// Skill 9999 /13
+Author = libretro-database contributors / original PSP cheat authors
+112806E0 0000270F
+
+// Skill 9999 /14
+Author = libretro-database contributors / original PSP cheat authors
+112807CC 0000270F
+
+// Skill 9999 /15
+Author = libretro-database contributors / original PSP cheat authors
+112808B8 0000270F
+
+// Skill 9999 /16
+Author = libretro-database contributors / original PSP cheat authors
+112809A4 0000270F
+
+// Skill 9999 /17
+Author = libretro-database contributors / original PSP cheat authors
+11280A90 0000270F
+
+// Skill 9999 /18
+Author = libretro-database contributors / original PSP cheat authors
+11280B7C 0000270F
+
+// Skill 9999 /19
+Author = libretro-database contributors / original PSP cheat authors
+11280C68 0000270F
+
+// Skill 9999 /2
+Author = libretro-database contributors / original PSP cheat authors
+1127FCBC 0000270F
+
+// Skill 9999 /20
+Author = libretro-database contributors / original PSP cheat authors
+11280D54 0000270F
+
+// Skill 9999 /21
+Author = libretro-database contributors / original PSP cheat authors
+11280E40 0000270F
+
+// Skill 9999 /22
+Author = libretro-database contributors / original PSP cheat authors
+11280F2C 0000270F
+
+// Skill 9999 /23
+Author = libretro-database contributors / original PSP cheat authors
+11281018 0000270F
+
+// Skill 9999 /24
+Author = libretro-database contributors / original PSP cheat authors
+11281104 0000270F
+
+// Skill 9999 /25
+Author = libretro-database contributors / original PSP cheat authors
+112811F0 0000270F
+
+// Skill 9999 /3
+Author = libretro-database contributors / original PSP cheat authors
+1127FDA8 0000270F
+
+// Skill 9999 /4
+Author = libretro-database contributors / original PSP cheat authors
+1127FE94 0000270F
+
+// Skill 9999 /5
+Author = libretro-database contributors / original PSP cheat authors
+1127FF80 0000270F
+
+// Skill 9999 /6
+Author = libretro-database contributors / original PSP cheat authors
+1128006C 0000270F
+
+// Skill 9999 /7
+Author = libretro-database contributors / original PSP cheat authors
+11280158 0000270F
+
+// Skill 9999 /8
+Author = libretro-database contributors / original PSP cheat authors
+11280244 0000270F
+
+// Skill 9999 /9
+Author = libretro-database contributors / original PSP cheat authors
+11280330 0000270F
+
+// Skill 9999 /Valkyrie
+Author = libretro-database contributors / original PSP cheat authors
+1127FBD0 0000270F
+
+// Str.9999 /10
+Author = libretro-database contributors / original PSP cheat authors
+11280354 0000270F
+
+// Str. 9999 /11
+Author = libretro-database contributors / original PSP cheat authors
+11280440 0000270F
+
+// Str. 9999 /12
+Author = libretro-database contributors / original PSP cheat authors
+1128052C 0000270F
+
+// Str. 9999 /13
+Author = libretro-database contributors / original PSP cheat authors
+11280618 0000270F
+
+// Str. 9999 /14
+Author = libretro-database contributors / original PSP cheat authors
+11280704 0000270F
+
+// Str. 9999 /15
+Author = libretro-database contributors / original PSP cheat authors
+112807F0 0000270F
+
+// Str. 9999 /16
+Author = libretro-database contributors / original PSP cheat authors
+112808DC 0000270F
+
+// Str. 9999 /17
+Author = libretro-database contributors / original PSP cheat authors
+112809C8 0000270F
+
+// Str. 9999 /18
+Author = libretro-database contributors / original PSP cheat authors
+11280AB4 0000270F
+
+// Str. 9999 /19
+Author = libretro-database contributors / original PSP cheat authors
+11280BA0 0000270F
+
+// Str. 9999 /2
+Author = libretro-database contributors / original PSP cheat authors
+1127FBF4 0000270F
+
+// Str. 9999 /20
+Author = libretro-database contributors / original PSP cheat authors
+11280C8C 0000270F
+
+// Str. 9999 /21
+Author = libretro-database contributors / original PSP cheat authors
+11280D78 0000270F
+
+// Str. 9999 /22
+Author = libretro-database contributors / original PSP cheat authors
+11280E64 0000270F
+
+// Str. 9999 /23
+Author = libretro-database contributors / original PSP cheat authors
+11280F50 0000270F
+
+// Str. 9999 /24
+Author = libretro-database contributors / original PSP cheat authors
+1128103C 0000270F
+
+// Str. 9999 /25
+Author = libretro-database contributors / original PSP cheat authors
+11281128 0000270F
+
+// Str. 9999 /3
+Author = libretro-database contributors / original PSP cheat authors
+1127FCE0 0000270F
+
+// Str. 9999 /4
+Author = libretro-database contributors / original PSP cheat authors
+1127FDCA 0000270F
+
+// Str. 9999 /5
+Author = libretro-database contributors / original PSP cheat authors
+1127FEB8 0000270F
+
+// Str. 9999 /6
+Author = libretro-database contributors / original PSP cheat authors
+1127FFA4 0000270F
+
+// Str. 9999 /7
+Author = libretro-database contributors / original PSP cheat authors
+11280090 0000270F
+
+// Str. 9999 /8
+Author = libretro-database contributors / original PSP cheat authors
+1128017C 0000270F
+
+// Str. 9999 /9
+Author = libretro-database contributors / original PSP cheat authors
+11280268 0000270F
+
+// Str. 9999 /Valkyrie
+Author = libretro-database contributors / original PSP cheat authors
+1127FB08 0000270F
+
+// Valkyrie Arm Modifier
+Author = libretro-database contributors / original PSP cheat authors
+1127FB1A 000000C2
+
+// Valkyrie Body Modifier
+Author = libretro-database contributors / original PSP cheat authors
+1127FB18 00000253
+
+// Valkyrie Dec. 1 Modifier
+Author = libretro-database contributors / original PSP cheat authors
+1127FB1E 00000248
+
+// Valkyrie Head Modifier
+Author = libretro-database contributors / original PSP cheat authors
+1127FB16 00000125
+
+// Valkyrie Leg Modifier
+Author = libretro-database contributors / original PSP cheat authors
+1127FB1C 000000C7
+
+// Valkyrie Weapon Modifier
+Author = libretro-database contributors / original PSP cheat authors
+1127FB14 00000247

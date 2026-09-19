@@ -1,0 +1,409 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPJH-50430
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Finish Level
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 013C3D08
+613BB168 000000FF
+00000001 0000BDF2
+
+// Have Power Up
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 013C3D08
+613BB168 00000080
+00000001 0000BE70
+
+// Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+013C8204 00000002
+
+// Inf. Lives v2
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 013C3D08
+613BB168 0000000A
+00000001 0000BDF4
+
+// Rapid Fire
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 013C3D08
+613BB168 00000000
+00010001 0000BE5E
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+013CBA5F 0000009A
+
+// P1: Inf HP
+Author = libretro-database contributors / original PSP cheat authors
+E002000A 013C3D08
+613BB168 00000014
+00000001 0000F65E
+
+// P1: Inf Lives
+Author = libretro-database contributors / original PSP cheat authors
+E002000A 013C3D08
+613BB168 0000000C
+00000001 0000F64F
+
+// P1: Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+E002000A 013C3D08
+613BB168 0000000C
+00000001 0000F650
+
+// Powerballs
+Author = libretro-database contributors / original PSP cheat authors
+E002000A 013C3D08
+613BB168 0000000C
+00000001 0000F660
+
+// 99 Credit
+Author = libretro-database contributors / original PSP cheat authors
+0140C58C 00000099
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+01408747 00000009
+
+// Infinite Machine Gun Ammo
+Author = libretro-database contributors / original PSP cheat authors
+01408745 00000012
+
+// P1: Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+E003000E 013C3D08
+613BB168 00000079
+00000002 00040039
+2000C1FC 00001EE4
+
+// P1: Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+E003000E 013C3D08
+613BB168 0000001F
+00000002 00040036
+2000C1FC 00001EE4
+
+// P1: Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+E003000E 013C3D08
+613BB168 00000063
+00000002 0004003B
+2000C1FC 00001EE4
+
+// P1: Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+E003000E 013C3D08
+613BB168 0000FF00
+00010002 00040052
+2000C1FC 00001EE4
+
+// Inf. Time
+Author = libretro-database contributors / original PSP cheat authors
+E003000F 013C3D08
+613BB168 00000050
+00000002 00041A04
+2000C1FC 00001EE4
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+01409270 00000099
+
+// P1: Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+E003000F 013C3D08
+613BB168 00000032
+00000002 00040B51
+2000C1FC 00001EE4
+
+// P1: Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+E003000F 013C3D08
+613BB168 00000014
+00000002 00040B16
+2000C1FC 00001EE4
+
+// P1: Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+E003000F 013C3D08
+613BB168 00000099
+00000002 00040B64
+2000C1FC 00001EE4
+
+// P1: Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+E003000F 013C3D08
+613BB168 00000002
+00000002 00040B62
+2000C1FC 00001EE4
+
+// 1 Hit
+Author = libretro-database contributors / original PSP cheat authors
+E0030012 013C3D08
+613BB168 00000000
+00000002 00040269
+2000C1FC 00001EE4
+
+// Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0030012 013C3D08
+613BB168 0000007A
+00000002 0004004C
+2000C1FC 00001EE4
+
+// Inf. Time
+Author = libretro-database contributors / original PSP cheat authors
+E0030012 013C3D08
+613BB168 00000030
+00000002 00043E03
+2000C1FC 00001EE4
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+01408740 00000050
+
+// Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+E0030012 013C3D08
+613BB168 00000078
+00000002 00040079
+2000C1FC 00001EE4
+
+// P1: Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+E0030012 013C3D08
+613BB168 0000004B
+00000002 00040034
+2000C1FC 00001EE4
+
+// Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0020001 013C3D08
+613BB168 0000000A
+00000001 0000E435
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+013CA845 00000003
+
+// Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0020005 013C3D08
+613BB168 00000009
+00000001 000103CB
+
+// Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+E0020005 013C3D08
+613BB168 00000000
+00000001 000103B5
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+E0040005 013C3D08
+613BB168 00000019
+00000001 000103E7
+00000001 000103E8
+
+// Rapid Fire
+Author = libretro-database contributors / original PSP cheat authors
+E0020005 013C3D08
+613BB168 00000000
+00010001 000103DE
+
+// Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0020007 013C3D08
+613BB168 00000063
+00000001 00010C0F
+
+// Inf. Power
+Author = libretro-database contributors / original PSP cheat authors
+E0020007 013C3D08
+613BB168 0000008F
+00000001 00010BF9
+
+// Inf. Strength
+Author = libretro-database contributors / original PSP cheat authors
+E0020007 013C3D08
+613BB168 0000000C
+00000001 00010BF8
+
+// Inf. Time
+Author = libretro-database contributors / original PSP cheat authors
+E0020007 013C3D08
+613BB168 00000059
+00000001 00010CFC
+
+// P1: Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+E0020007 013C3D08
+613BB168 000000A8
+00000001 00010BF7
+613BB168 0000007E
+00000001 00010C17
+
+// Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0020009 013C3D08
+613BB168 00000099
+00000001 0000E2D0
+
+// Inf. Time
+Author = libretro-database contributors / original PSP cheat authors
+E0020009 013C3D08
+613BB168 00000030
+00000001 0000E2F8
+
+// Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+E0020009 013C3D08
+613BB168 0000009D
+00000001 0000E2FB
+
+// P1: Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+E0020009 013C3D08
+613BB168 000000BF
+00000001 0000E2E7
+
+// P1: Inf. Armor
+Author = libretro-database contributors / original PSP cheat authors
+E0020008 013C3D08
+613BB168 00000002
+00000001 0000FC87
+
+// P1: Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0020008 013C3D08
+613BB168 00000098
+00000001 0000EAC6
+
+// Inf Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0030010 013C3D08
+613BB168 00000006
+00000002 0004012F
+2000C1FC 00001EE4
+
+// Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+E0060010 013C3D08
+613BB168 00000002
+00000002 000400FC
+2000C1FC 00001EE4
+613BB168 0000000F
+00000002 0004012D
+
+// P1: Inf0 Ammo
+Author = libretro-database contributors / original PSP cheat authors
+E002000C 013C3D08
+613BB168 00000099
+00000001 0000E2DE
+
+// P1: Inf0 Grenades
+Author = libretro-database contributors / original PSP cheat authors
+E002000C 013C3D08
+613BB168 00000099
+00000001 0000E2DB
+
+// P1: Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+E002000C 013C3D08
+613BB168 00000080
+00000001 0000E2D4
+
+// Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0020003 013C3D08
+613BB168 00000008
+00000001 0000FB4C
+
+// Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+E0020003 013C3D08
+613BB168 00000000
+00000001 0000FB41
+
+// Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0020006 013C3D08
+613BB168 00000008
+00000001 0000FC96
+
+// P1: Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+E0020006 013C3D08
+613BB168 00000098
+00000001 0000FCBB
+
+// P1: Inf. Grenades
+Author = libretro-database contributors / original PSP cheat authors
+E0020006 013C3D08
+613BB168 00000098
+00000001 0000FCBC
+
+// P1: Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+E0020006 013C3D08
+613BB168 00000000
+00000001 0000FC84
+
+// P1: Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0030013 013C3D08
+613BB168 00000098
+00000002 00040121
+2000C1FC 00001EE4
+
+// P1: Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+E0060013 013C3D08
+613BB168 00000078
+00000002 000400F5
+2000C1FC 00001EE4
+613BB168 00000010
+00000002 00040603
+
+// P1: Weapon
+Author = libretro-database contributors / original PSP cheat authors
+E0030013 013C3D08
+613BB168 00000002
+00000002 000405FF
+2000C1FC 00001EE4
+
+// Better Shot
+Author = libretro-database contributors / original PSP cheat authors
+E0020004 013C3D08
+613BB168 00000004
+00000001 00010C3A
+
+// Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0020004 013C3D08
+613BB168 00000008
+00000001 00010C47
+
+// P1: Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+E0020004 013C3D08
+613BB168 00000000
+00000001 00010C35
+
+// Rapid Shot
+Author = libretro-database contributors / original PSP cheat authors
+E0020004 013C3D08
+613BB168 000000F0
+00000001 00010C60
+
+// Inf. Credits
+Author = libretro-database contributors / original PSP cheat authors
+E0020002 013C3D08
+613BB168 00000099
+00000001 00014321
+
+// Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0020002 013C3D08
+613BB168 00000009
+00000001 0001432D

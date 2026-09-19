@@ -1,0 +1,300 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10045
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 20 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20429DB0 34080014
+
+// 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20429DB0 3408001E
+
+// 40 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20429DB0 34080028
+
+// 45 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20429DB0 3408002D
+
+// 60+ FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+20429DB0 34080078
+
+// Camera: Near (Default)
+Author = libretro-database contributors / original PSP cheat authors
+20768884 3F800000
+
+// Camera: Far
+Author = libretro-database contributors / original PSP cheat authors
+20768884 3F8CCCCD
+
+// Handheld Screen (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+2076884C 3FCCCCCD
+20768850 3FC51EB8
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+2076884C 3FE38E39
+20768850 3FE1E1E2
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+2076884C 4028F5C3
+20768850 4063D70A
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+2076884C 400E147B
+20768850 40200000
+
+// Experience Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+20002000 00108040
+20002004 0A23F27A
+20002008 00502821
+200FC9E0 0A200800
+
+// Experience Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20002000 00108080
+20002004 0A23F27A
+20002008 00502821
+200FC9E0 0A200800
+
+// Experience Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+20002000 001080C0
+20002004 0A23F27A
+20002008 00502821
+200FC9E0 0A200800
+
+// Experience Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+20002000 00108100
+20002004 0A23F27A
+20002008 00502821
+200FC9E0 0A200800
+
+// Have Max Blue Bottle
+Author = libretro-database contributors / original PSP cheat authors
+00AF43F5 00000063
+
+// Have Max Red Bottle
+Author = libretro-database contributors / original PSP cheat authors
+00AF43B9 00000063
+
+// Infinite Energy
+Author = libretro-database contributors / original PSP cheat authors
+20434D5C E48C0284
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+202549B0 C48C0280
+202549BC E48C0278
+
+// Max Techbits (Money)
+Author = libretro-database contributors / original PSP cheat authors
+20AF66F0 05F5E0FF
+
+// Unlock All Characters
+Author = libretro-database contributors / original PSP cheat authors
+20606180 FFFFFFFF
+
+// Unlock All Cinematics
+Author = libretro-database contributors / original PSP cheat authors
+2062F624 FFFFFFFF
+
+// Unlock All Comics
+Author = libretro-database contributors / original PSP cheat authors
+2062F630 FFFFFFFF
+
+// Unlock All Concept Art
+Author = libretro-database contributors / original PSP cheat authors
+2062F63C FFFFFFFF
+2062F640 FFFFFFFF
+2062F644 FFFFFFFF
+
+// Unlock All Screens
+Author = libretro-database contributors / original PSP cheat authors
+2062F618 FFFFFFFF
+2062F61C FFFFFFFF
+2062F620 FFFFFFFF
+
+// Bishop Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADB2D8 000003E7
+
+// Bishop Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADB2DA 000003E7
+
+// Cable Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE1FF8 000003E7
+
+// Cable Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE1FFA 000003E7
+
+// CannonBall Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE2608 000003E7
+
+// CannonBall Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE260A 000003E7
+
+// Colossus Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADB8E8 000003E7
+
+// Colossus Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADB8EA 000003E7
+
+// Cyclops Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADBEF8 000003E7
+
+// Cyclops Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADBEFA 000003E7
+
+// Dark Phoenix Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE3228 000003E7
+
+// Dark Phoenix Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE322A 000003E7
+
+// Deadpool Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADC508 000003E7
+
+// Deadpool Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADC50A 000003E7
+
+// Gambit Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADCB18 000003E7
+
+// Gambit Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADCB1A 000003E7
+
+// Iceman Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADD128 000003E7
+
+// Iceman Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADD12A 000003E7
+
+// Ironman Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADD738 000003E7
+
+// Ironman Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADD73A 000003E7
+
+// Jean Grey Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADEF78 000003E7
+
+// Jean Grey Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADEF7A 000003E7
+
+// Juggernaut Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADDD48 000003E7
+
+// Juggernaut Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADDD4A 000003E7
+
+// Magneto Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADE358 000003E7
+
+// Magneto Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADE35A 000003E7
+
+// Nightcrawler Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADE968 000003E7
+
+// Nightcrawler Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADE96A 000003E7
+
+// Professor X Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADF588 000003E7
+
+// Professor X Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADF58A 000003E7
+
+// Rogue Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADFB98 000003E7
+
+// Rogue Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10ADFB9A 000003E7
+
+// Scarlet Witch Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE01A8 000003E7
+
+// Scarlet Witch Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE01AA 000003E7
+
+// Storm Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE07B8 000003E7
+
+// Storm Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE07BA 000003E7
+
+// Sunfire Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE0DC8 000003E7
+
+// Sunfire Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE0DCA 000003E7
+
+// Toad Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE13D8 000003E7
+
+// Toad Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE13DA 000003E7
+
+// Wolverine Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE19E8 000003E7
+
+// Wolverine Max Stat Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE19EA 000003E7
+
+// X-Man Max Skill Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE2C18 000003E7
+
+// X-Man Max Status Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10AE2C1A 000003E7

@@ -1,0 +1,444 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULJS-00377
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 100% Morale
+Author = libretro-database contributors / original PSP cheat authors
+801C27A6 002000C8
+10002710 00000000
+
+// Act. Again (Press Square)
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10008000
+801C2809 00200190
+
+// Act. Again 2 (Select)
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000001
+801C2808 001100C8
+10000000 00000000
+
+// All AP Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBDDE 00110034
+100003E7 00000000
+
+// All Armor/Leg/etc. Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBE00 00110034
+1000FFFF 00000000
+802BBE02 00110068
+000000FF 00000000
+
+// All Attack Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBD7A 00420034
+100003E7 00000000
+
+// All Char. AP Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBDDE 00110034
+100003E7 00000000
+
+// All Char. HP Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBDDB 00110068
+000000FF 00000000
+
+// All Char. Lv. 1
+Author = libretro-database contributors / original PSP cheat authors
+802BBD70 00420034
+10000000 00000000
+
+// All Char. Lv. 99
+Author = libretro-database contributors / original PSP cheat authors
+802BBD70 00420034
+10002648 00000000
+
+// All Char. Max Weapon Lv.
+Author = libretro-database contributors / original PSP cheat authors
+802BBE03 00110068
+00000026 00000000
+
+// All Char. Move Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBDE0 00110068
+0000000F 00000000
+
+// All Char. SP Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBDDC 00110034
+100003E7 00000000
+
+// All Character Friendship Max
+Author = libretro-database contributors / original PSP cheat authors
+402C3FB8 0042002B
+FFFFFFFF 00000000
+402C3FBC 0042002B
+402C3FC0 0042002B
+402C3FC4 0042002B
+402C3FC8 0042002B
+402C3FCC 0042002B
+402C3FD0 0042002B
+402C3FD4 0042002B
+402C3FD8 0042002B
+402C3FDC 0042002B
+402C3FE0 0042002B
+402C3FE4 0042002B
+402C3FE8 0042002B
+402C3FEC 0042002B
+402C3FF0 0042002B
+402C3FF4 0042002B
+402C3FF8 0042002B
+
+// All Defense Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBD80 00420034
+100003E7 00000000
+
+// All Gems
+Author = libretro-database contributors / original PSP cheat authors
+802CF335 00340001
+00000001 00000000
+
+// All Head/Breast/Arm/Hip/Leg Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBE00 00110034
+1000CE73 00000000
+802BBE02 00110034
+10000139 00000000
+
+// All Head/Breast/Arm/Hip/Leg/Wpn. Lv.
+Author = libretro-database contributors / original PSP cheat authors
+802BBE00 00110034
+1000CE73 00000000
+802BBE02 00110034
+10002739 00000000
+
+// All HP Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBDDB 00110068
+000000FF 00000000
+
+// All Item x50
+Author = libretro-database contributors / original PSP cheat authors
+802CF133 002B0001
+00000032 00000000
+802CF160 00040001
+802CF165 00630001
+
+// All Jewels
+Author = libretro-database contributors / original PSP cheat authors
+802CF333 00360001
+00000001 00000000
+
+// All Move Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBDE0 00110068
+0000000F 00000000
+
+// All Props
+Author = libretro-database contributors / original PSP cheat authors
+802CF133 00950001
+00000063 00000000
+
+// All SP Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBDDC 00110034
+100003E7 00000000
+
+// All Weapon Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBE03 00110068
+00000026 00000000
+
+// Avoid All Value Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBD7C 00420034
+100003E7 00000000
+
+// Bonus Point
+Author = libretro-database contributors / original PSP cheat authors
+00228274 00000001
+
+// CG Full
+Author = libretro-database contributors / original PSP cheat authors
+802CEC9A 000B0001
+000000FF 00000000
+002CECA5 0000001F
+
+// Characters Introduced Full
+Author = libretro-database contributors / original PSP cheat authors
+802CEC42 00340001
+00000001 00000000
+
+// Costume Acquisition Flag
+Author = libretro-database contributors / original PSP cheat authors
+202CF43C FFFFFFFF
+
+// Costume Open
+Author = libretro-database contributors / original PSP cheat authors
+2004155C 17E0000C
+20109A4C 00000000
+
+// Demo Video All
+Author = libretro-database contributors / original PSP cheat authors
+102CECB4 00001FFF
+
+// Enemy Control [Square]
+Author = libretro-database contributors / original PSP cheat authors
+20082EA0 1045004D
+D0000000 10008000
+20082EA0 1000004D
+
+// Everyone Hit The Max
+Author = libretro-database contributors / original PSP cheat authors
+802BBD7E 00420034
+100003E7 00000000
+
+// FreeTalk Unlimited
+Author = libretro-database contributors / original PSP cheat authors
+002CF130 00000000
+
+// Friendly Fire
+Author = libretro-database contributors / original PSP cheat authors
+200BD284 00000000
+
+// Full Sound
+Author = libretro-database contributors / original PSP cheat authors
+202CEC8C FFFFFFFF
+002CEC90 0000000F
+
+// Get Exp. 100
+Author = libretro-database contributors / original PSP cheat authors
+1022D6F4 00000064
+
+// Get Exp. 9800
+Author = libretro-database contributors / original PSP cheat authors
+1022D6F4 00002648
+
+// Get Flag Costume
+Author = libretro-database contributors / original PSP cheat authors
+202CF43C FFFFFFFF
+
+// Growth Point Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+50228270 00000001
+00228274 00000000
+
+// Growth Points To 0
+Author = libretro-database contributors / original PSP cheat authors
+20228274 00000000
+
+// Heart Break Success
+Author = libretro-database contributors / original PSP cheat authors
+200369BC 00000000
+20036B00 00000000
+20036D18 00000000
+
+// Heart Break Time
+Author = libretro-database contributors / original PSP cheat authors
+001B97E8 000000D2
+
+// Inf. Cash
+Author = libretro-database contributors / original PSP cheat authors
+201A45EC 05F5E0FF
+
+// Inf. Custom Pts.
+Author = libretro-database contributors / original PSP cheat authors
+20228274 00000003
+
+// Infinite AP (During Stage)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10001020
+200B01C0 A6000038
+D0000000 10001080
+200B01C0 A6050038
+
+// Infinite Fighting Spirit (During Stage)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008020
+200B07B8 24062710
+D0000000 10008080
+200B07B8 84860036
+
+// Infinite SP (During Stage)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10001010
+200B08F0 A6000034
+D0000000 10001040
+200B08F0 A6050034
+
+// Infinity AP
+Author = libretro-database contributors / original PSP cheat authors
+801C27A8 006400C8
+10000000 00000000
+
+// Infinity SP
+Author = libretro-database contributors / original PSP cheat authors
+801C27A4 006400C8
+10000000 00000000
+
+// Infinity Action Member 1
+Author = libretro-database contributors / original PSP cheat authors
+201C2998 00000400
+
+// Infinity Action Member 2
+Author = libretro-database contributors / original PSP cheat authors
+201C2808 00000000
+
+// Items In Possession All 99
+Author = libretro-database contributors / original PSP cheat authors
+802CF133 002B0001
+00000063 00000000
+202CF160 63636363
+802CF165 00630001
+
+// Join All Female: Char. Flag
+Author = libretro-database contributors / original PSP cheat authors
+802BBD6E 004B0034
+1000FFFF 00000000
+802BBD94 004B0068
+00000001 00000000
+802BBD9C 004B0034
+
+// Join All Female: Char. Make
+Author = libretro-database contributors / original PSP cheat authors
+802BBDD4 00130068
+00000002 00000001
+802BC58C 00030068
+0000002F 00000001
+802BC6C4 00090068
+00000053 00000001
+802BCA6C 00080068
+00000065 00000001
+802BCD44 00070068
+0000006E 00000001
+802BD01C 00050068
+0000007B 00000001
+002BD224 00000087
+002BD28C 0000008D
+002BD2F4 0000008E
+802BD35C 00150068
+000000AE 00000001
+
+// Join All Female: Member
+Author = libretro-database contributors / original PSP cheat authors
+802C3F6C 00090001
+000000FF 00000000
+002C3F75 00000007
+
+// Lvl. 99 Player 1
+Author = libretro-database contributors / original PSP cheat authors
+202BBDD8 000186A0
+
+// Maron Costume
+Author = libretro-database contributors / original PSP cheat authors
+002CF43C 0000003C
+
+// Maron, Ink, Mai Costume
+Author = libretro-database contributors / original PSP cheat authors
+002CF43C 00000055
+
+// Max Exp. Other Players
+Author = libretro-database contributors / original PSP cheat authors
+202BBE40 000186A0
+202BBD70 000186A0
+202BBEA8 000186A0
+
+// Max Exp. Player 1
+Author = libretro-database contributors / original PSP cheat authors
+202BBDD8 000186A0
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+202CF030 05F5E0FF
+
+// Money 500k
+Author = libretro-database contributors / original PSP cheat authors
+002CF030 0007A120
+
+// Money 999999
+Author = libretro-database contributors / original PSP cheat authors
+202CF030 000F423F
+
+// Parts HP1 [Square Enemy +X Friend]
+Author = libretro-database contributors / original PSP cheat authors
+200B9DFC 0E23011B
+D0000000 10008000
+200B9DFC 0E2005C0
+20001700 8C820094
+20001704 241B0002
+D0000000 1000C000
+20001704 241B0000
+20001708 005B1024
+2000170C 145B0006
+20001710 3C1B3A84
+20001714 AC9B006C
+20001718 AC9B0070
+2000171C AC9B0074
+20001720 AC9B0078
+20001724 AC9B007C
+20001728 0A23011B
+2000172C 0000D820
+
+// Perfect Time Synchro/Heart Break
+Author = libretro-database contributors / original PSP cheat authors
+001B97E8 000000D2
+
+// Range Max [Square+Up=On, Square+Down=Off]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10008010
+20016CB0 24020014
+200C0FDC 00000000
+D0000001 10008040
+20016CB0 8C820000
+200C0FDC 10800003
+
+// Reina Costume
+Author = libretro-database contributors / original PSP cheat authors
+002CF43D 0000003C
+
+// Reina, Ymir, Dizzy, Cute Costume
+Author = libretro-database contributors / original PSP cheat authors
+002CF43D 00000055
+
+// Shop All
+Author = libretro-database contributors / original PSP cheat authors
+2013136C 00000000
+20131468 AC800220
+20131684 00000000
+20131804 AC800220
+
+// Special All
+Author = libretro-database contributors / original PSP cheat authors
+802CEC40 00810001
+000000FF 00000000
+
+// Special Fully Open
+Author = libretro-database contributors / original PSP cheat authors
+802CEC42 00410001
+1000FFFF 00000000
+
+// The Maximum Growth
+Author = libretro-database contributors / original PSP cheat authors
+80228278 00070002
+100003E7 00000000
+
+// Training Unlimited
+Author = libretro-database contributors / original PSP cheat authors
+102CF130 00000800
+
+// Unabated Growth Points
+Author = libretro-database contributors / original PSP cheat authors
+50228270 00000004
+00228274 00000000
+
+// Weaken Enemy
+Author = libretro-database contributors / original PSP cheat authors
+803C178A 000A0036
+10000001 00000000
+803C178C 000A0036
+803C178E 000A0036
+803C1790 000A0036
+803C1792 000A0036

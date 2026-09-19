@@ -1,0 +1,359 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10289
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Handheld Screen (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+204AA38C 3FC00000
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+204AA38C 3FE1E1E2
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+204AA38C 40638E39
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+204AA38C 4017B426
+
+// 999 HP
+Author = libretro-database contributors / original PSP cheat authors
+00495520 000003E7
+004AA484 000003E7
+004AA960 000003E7
+00B3A5A0 000003E7
+
+// 999 MP
+Author = libretro-database contributors / original PSP cheat authors
+00495526 000003E7
+004AA48A 000003E7
+004AA730 000003E7
+004AA966 000003E7
+00B3A5A6 000003E7
+01108146 000003E7
+01108172 000003E7
+0110819E 000003E7
+
+// 99 Stat Points
+Author = libretro-database contributors / original PSP cheat authors
+00495840 00000063
+00B323EA 00000063
+00B3A8C0 00000063
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+10617962 0000270F
+
+// Infinite Mana
+Author = libretro-database contributors / original PSP cheat authors
+10617966 000000FF
+
+// Jewel Max: Knocker
+Author = libretro-database contributors / original PSP cheat authors
+00495796 00000063
+00B5D5D6 00000063
+
+// Jewel Max: Dryad
+Author = libretro-database contributors / original PSP cheat authors
+0049579C 00000063
+00B5D5DC 00000063
+
+// Jewel Max: Griffin
+Author = libretro-database contributors / original PSP cheat authors
+0049579D 00000063
+00B5D5DD 00000063
+
+// Jewel Max: Gnome
+Author = libretro-database contributors / original PSP cheat authors
+0049579F 00000063
+00B5D5DF 00000063
+
+// Jewel Max: Cockatrice
+Author = libretro-database contributors / original PSP cheat authors
+004957A0 00000063
+00B5D5E0 00000063
+
+// Jewel Max: Sylpheed
+Author = libretro-database contributors / original PSP cheat authors
+004957A2 00000063
+00B5D5E2 00000063
+
+// Jewel Max: Siren
+Author = libretro-database contributors / original PSP cheat authors
+004957A5 00000063
+00B5D5E5 00000063
+
+// Jewels Page 1/4
+Author = libretro-database contributors / original PSP cheat authors
+00617BD3 00000063
+00617BD4 00000063
+00617DB5 00000063
+00617BC8 00000063
+00617BD7 00000063
+00617BD8 00000063
+
+// Jewels Page 2/4
+Author = libretro-database contributors / original PSP cheat authors
+00617BD9 00000063
+00617BDA 00000063
+00617BDB 00000063
+00617BDC 00000063
+00617BDD 00000063
+00617BDE 00000063
+
+// Jewels Page 3/4
+Author = libretro-database contributors / original PSP cheat authors
+00617BDF 00000063
+00617BE0 00000063
+00617BE1 00000063
+00617BE2 00000063
+00617BE3 00000063
+00617BE4 00000063
+
+// Jewels Page 4/4
+Author = libretro-database contributors / original PSP cheat authors
+00617BE5 00000063
+00617BE6 00000063
+00617BDD 00000063
+
+// Job: Assassin
+Author = libretro-database contributors / original PSP cheat authors
+10617C7C FFFFFFFF
+
+// Job: Bard
+Author = libretro-database contributors / original PSP cheat authors
+10617C7E FFFFFFFF
+
+// Job: Bishop
+Author = libretro-database contributors / original PSP cheat authors
+10617C72 FFFFFFFF
+
+// Job: Fighter S Class
+Author = libretro-database contributors / original PSP cheat authors
+10617C68 FFFFFFFF
+
+// Job: Hunter
+Author = libretro-database contributors / original PSP cheat authors
+10617C6A FFFFFFFF
+
+// Job: Knight
+Author = libretro-database contributors / original PSP cheat authors
+10617C74 FFFFFFFF
+
+// Job: Monk
+Author = libretro-database contributors / original PSP cheat authors
+10617C6C FFFFFFFF
+
+// Job: Ninja
+Author = libretro-database contributors / original PSP cheat authors
+10617C76 FFFFFFFF
+
+// Job: Sage
+Author = libretro-database contributors / original PSP cheat authors
+10617C78 FFFFFFFF
+
+// Job: Samurai
+Author = libretro-database contributors / original PSP cheat authors
+10617C7A FFFFFFFF
+
+// Job: Shaman
+Author = libretro-database contributors / original PSP cheat authors
+10617C70 FFFFFFFF
+
+// Job: Thief
+Author = libretro-database contributors / original PSP cheat authors
+10617C6E FFFFFFFF
+
+// Material Max: Crystal Leaf
+Author = libretro-database contributors / original PSP cheat authors
+004957A8 00000063
+00B5D5E8 00000063
+
+// Material Max: Red Berry
+Author = libretro-database contributors / original PSP cheat authors
+004957AA 00000063
+00B5D5EA 00000063
+
+// Material Max: Blue Berry
+Author = libretro-database contributors / original PSP cheat authors
+004957AB 00000063
+00B5D5EB 00000063
+
+// Material Max: Green Berry
+Author = libretro-database contributors / original PSP cheat authors
+004957AC 00000063
+00B5D5EC 00000063
+
+// Material Max: Oilseed
+Author = libretro-database contributors / original PSP cheat authors
+004957AD 00000063
+00B5D5ED 00000063
+
+// Material Max: Magic Berry
+Author = libretro-database contributors / original PSP cheat authors
+004957AE 00000063
+00B5D5EE 00000063
+
+// Material Max: Rusty Ore
+Author = libretro-database contributors / original PSP cheat authors
+004957C3 00000063
+00B5D603 00000063
+
+// Material Max: Red Ore
+Author = libretro-database contributors / original PSP cheat authors
+004957CC 00000063
+00B5D60C 00000063
+
+// Material Max: Green Ore
+Author = libretro-database contributors / original PSP cheat authors
+004957CD 00000063
+00B5D60D 00000063
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+10617820 000000FF
+
+// Max Mana
+Author = libretro-database contributors / original PSP cheat authors
+10617828 0000270F
+
+// Max Status Points
+Author = libretro-database contributors / original PSP cheat authors
+00617B40 000003E7
+
+// Money 1M
+Author = libretro-database contributors / original PSP cheat authors
+20617AE8 000F4240
+
+// Money 2000000000
+Author = libretro-database contributors / original PSP cheat authors
+20617AE8 77359400
+
+// S Class: Axe
+Author = libretro-database contributors / original PSP cheat authors
+10617C44 0000F000
+
+// S Class: Boomerang
+Author = libretro-database contributors / original PSP cheat authors
+10617C58 0000F000
+
+// S Class: Bow
+Author = libretro-database contributors / original PSP cheat authors
+10617C50 0000F000
+
+// S Class: Bow Gun
+Author = libretro-database contributors / original PSP cheat authors
+10617C52 0000F000
+
+// S Class: Club
+Author = libretro-database contributors / original PSP cheat authors
+10617C3E 0000F000
+
+// S Class: Disc
+Author = libretro-database contributors / original PSP cheat authors
+10617C5A 0000F000
+
+// S Class: Dual Swords
+Author = libretro-database contributors / original PSP cheat authors
+10617C66 0000F000
+
+// S Class: Duster
+Author = libretro-database contributors / original PSP cheat authors
+10617C60 0000F000
+
+// S Class: Flute
+Author = libretro-database contributors / original PSP cheat authors
+10617C62 0000F000
+
+// S Class: Great Axe
+Author = libretro-database contributors / original PSP cheat authors
+10617C46 0000F000
+
+// S Class: Great Spike
+Author = libretro-database contributors / original PSP cheat authors
+10617C4E 0000F000
+
+// S Class: Great Sword
+Author = libretro-database contributors / original PSP cheat authors
+10617C34 0000F000
+
+// S Class: Hammer
+Author = libretro-database contributors / original PSP cheat authors
+10617C42 0000F000
+
+// S Class: Knife
+Author = libretro-database contributors / original PSP cheat authors
+10617C30 0000F000
+
+// S Class: Kunai
+Author = libretro-database contributors / original PSP cheat authors
+10617C5E 0000F000
+
+// S Class: Long Sword
+Author = libretro-database contributors / original PSP cheat authors
+10617C32 0000F000
+
+// S Class: Lyre
+Author = libretro-database contributors / original PSP cheat authors
+10617C64 0000F000
+
+// S Class: Rapier
+Author = libretro-database contributors / original PSP cheat authors
+10617C36 0000F000
+
+// S Class: Rod
+Author = libretro-database contributors / original PSP cheat authors
+10617C54 0000F000
+
+// S Class: Shuriken
+Author = libretro-database contributors / original PSP cheat authors
+10617C5C 0000F000
+
+// S Class: Spear
+Author = libretro-database contributors / original PSP cheat authors
+10617C3A 0000F000
+
+// S Class: Spike
+Author = libretro-database contributors / original PSP cheat authors
+10617C4A 0000F000
+
+// S Class: Stick
+Author = libretro-database contributors / original PSP cheat authors
+10617C40 0000F000
+
+// S Class: Throw Axe
+Author = libretro-database contributors / original PSP cheat authors
+10617C48 0000F000
+
+// S Class: Throw Knife
+Author = libretro-database contributors / original PSP cheat authors
+10617C38 0000F000
+
+// S Class: Throw Spear
+Author = libretro-database contributors / original PSP cheat authors
+10617C3C 0000F000
+
+// S Class: Throw Spike
+Author = libretro-database contributors / original PSP cheat authors
+10617C4C 0000F000
+
+// S Class: Wand
+Author = libretro-database contributors / original PSP cheat authors
+10617C56 0000F000
+
+// Stats Points 255
+Author = libretro-database contributors / original PSP cheat authors
+00CBCBC0 000000FF
+00617B40 000000FF
+
+// Status Max
+Author = libretro-database contributors / original PSP cheat authors
+006394E8 000000FF
+006394ED 000000FF
+006394F2 000000FF
+006394FC 000000FF
+00639501 000000FF
+00639506 000000FF
+0063950B 000000FF

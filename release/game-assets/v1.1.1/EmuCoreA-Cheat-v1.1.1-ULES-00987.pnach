@@ -1,0 +1,371 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-00987
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// After Battle, Recover HP
+Author = libretro-database contributors / original PSP cheat authors
+2013683C 9603001A
+20136844 9603001C
+
+// All Healing Items
+Author = libretro-database contributors / original PSP cheat authors
+D5000000 00000010
+C0000000 0000001E
+21397427 0000005A
+D8000000 09B97358
+D4000000 00000001
+D2000000 00000000
+
+// All Healing Items & Weapons
+Author = libretro-database contributors / original PSP cheat authors
+D5000000 00000010
+C0000000 0000001E
+21397427 0000005A
+D8000000 09B97358
+D4000000 00000001
+D1000000 00000000
+D5000000 00000031
+C0000000 0000009E
+D2000000 00000000
+
+// All Healing Items & Weapons & Special Items
+Author = libretro-database contributors / original PSP cheat authors
+D5000000 00000010
+C0000000 0000001E
+21397427 0000005A
+D8000000 09B97358
+D4000000 00000001
+D1000000 00000000
+D5000000 00000031
+C0000000 0000009E
+D5000000 00000001
+C0000000 0000000D
+D2000000 00000000
+
+// Always Drop Item
+Author = libretro-database contributors / original PSP cheat authors
+20111F30 1000001F
+
+// Always Encounter
+Author = libretro-database contributors / original PSP cheat authors
+20092B70 53E0003E
+
+// Full Bestiary
+Author = libretro-database contributors / original PSP cheat authors
+813976E0 00AB0001
+10008001 00000000
+
+// Have All Items
+Author = libretro-database contributors / original PSP cheat authors
+81397358 001F0001
+00000010 00000001
+81397377 009D0001
+00000032 00000001
+81397427 00BC0001
+00000050 00000000
+
+// Max All Weapon & Magic Levels
+Author = libretro-database contributors / original PSP cheat authors
+8139719B 00180002
+00000010 00000000
+
+// Max Gil
+Author = libretro-database contributors / original PSP cheat authors
+2139734C 05F5E0FF
+
+// Max Gil v2
+Author = libretro-database contributors / original PSP cheat authors
+2139734C 0098967F
+
+// Max Steps
+Author = libretro-database contributors / original PSP cheat authors
+21397348 05F5E0FF
+
+// Max Number Of Steps
+Author = libretro-database contributors / original PSP cheat authors
+21397348 0098967F
+
+// Max Number Of Steps [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+21397348 00000000
+
+// Monster Picture Book All
+Author = libretro-database contributors / original PSP cheat authors
+413976E0 00550001
+03E703E7 00000000
+11397834 000003E7
+
+// Music Player
+Author = libretro-database contributors / original PSP cheat authors
+013D0D8B 00000002
+013D0D94 00000002
+
+// No Encounters
+Author = libretro-database contributors / original PSP cheat authors
+20092B70 5000003E
+
+// No Random Battles
+Author = libretro-database contributors / original PSP cheat authors
+21397CB7 00000053
+
+// Normal Encounter Rate
+Author = libretro-database contributors / original PSP cheat authors
+20092B70 5020003E
+
+// Character 1: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+213A24E0 00001BFC
+DA000000 013A250A
+D7000000 013A2506
+D2000000 00000000
+
+// Character 1: Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+213A24E0 00001BFC
+DA000000 013A250C
+D7000000 013A2508
+D2000000 00000000
+
+// Character 1 Stats Mod: Full HP
+Author = libretro-database contributors / original PSP cheat authors
+21397162 0000270F
+
+// Character 1 Stats Mod: Full MP
+Author = libretro-database contributors / original PSP cheat authors
+21397166 0000270F
+
+// Character 1 Stats Mod: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+21397164 0000270F
+
+// Character 1 Stats Mod: Max MP
+Author = libretro-database contributors / original PSP cheat authors
+21397168 0000270F
+
+// Character 1 Stats Mod: Max Attack
+Author = libretro-database contributors / original PSP cheat authors
+21397172 000000FF
+
+// Character 1 Stats Mod: Max Defense
+Author = libretro-database contributors / original PSP cheat authors
+21397183 000000FF
+
+// Character 2: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+213A24E0 00001BFC
+DA000000 013A26D6
+D7000000 013A26D2
+D2000000 00000000
+
+// Character 2: Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+213A24E0 00001BFC
+DA000000 013A26D8
+D7000000 013A26D4
+D2000000 00000000
+
+// Character 2 Stats Mod: Full HP
+Author = libretro-database contributors / original PSP cheat authors
+213971E0 0000270F
+
+// Character 2 Stats Mod: Full MP
+Author = libretro-database contributors / original PSP cheat authors
+213971E4 0000270F
+
+// Character 2 Stats Mod: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+213971E2 0000270F
+
+// Character 2 Stats Mod: Max MP
+Author = libretro-database contributors / original PSP cheat authors
+213971E6 0000270F
+
+// Character 2 Stats Mod: Max Attack
+Author = libretro-database contributors / original PSP cheat authors
+213971F0 000000FF
+
+// Character 2 Stats Mod: Max Defense
+Author = libretro-database contributors / original PSP cheat authors
+21397201 000000FF
+
+// Character 3: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+213A24E0 00001BFC
+DA000000 013A28A2
+D7000000 013A289E
+D2000000 00000000
+
+// Character 3: Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+213A24E0 00001BFC
+DA000000 013A28A4
+D7000000 013A28A0
+D2000000 00000000
+
+// Character 3 Stats Mod: Full HP
+Author = libretro-database contributors / original PSP cheat authors
+2139725E 0000270F
+
+// Character 3 Stats Mod: Full MP
+Author = libretro-database contributors / original PSP cheat authors
+21397262 0000270F
+
+// Character 3 Stats Mod: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+21397260 0000270F
+
+// Character 3 Stats Mod: Max MP
+Author = libretro-database contributors / original PSP cheat authors
+21397264 0000270F
+
+// Character 3 Stats Mod: Max Attack
+Author = libretro-database contributors / original PSP cheat authors
+2139726E 000000FF
+
+// Character 3 Stats Mod: Max Defense
+Author = libretro-database contributors / original PSP cheat authors
+2139727F 000000FF
+
+// Character 4 Stats Mod: Full HP
+Author = libretro-database contributors / original PSP cheat authors
+213972DC 0000270F
+
+// Character 4 Stats Mod: Full MP
+Author = libretro-database contributors / original PSP cheat authors
+213972E0 0000270F
+
+// Character 4 Stats Mod: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+213972DE 0000270F
+
+// Character 4 Stats Mod: Max MP
+Author = libretro-database contributors / original PSP cheat authors
+213972E2 0000270F
+
+// Character 4 Stats Mod: Max Attack
+Author = libretro-database contributors / original PSP cheat authors
+213972EC 000000FF
+
+// Character 4 Stats Mod: Max Defense
+Author = libretro-database contributors / original PSP cheat authors
+213972FD 000000FF
+
+// Firion: HP Max
+Author = libretro-database contributors / original PSP cheat authors
+11397164 0000270F
+
+// Firion: HP Now
+Author = libretro-database contributors / original PSP cheat authors
+11397162 0000270F
+
+// Firion: Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+21397172 000000FF
+
+// Firion: Max Def.
+Author = libretro-database contributors / original PSP cheat authors
+21397183 000000FF
+
+// Firion: Max Status
+Author = libretro-database contributors / original PSP cheat authors
+8139716A 00030001
+10006363 00000000
+
+// Firion: MP Max
+Author = libretro-database contributors / original PSP cheat authors
+11397168 000003E7
+
+// Firion: MP Max v2
+Author = libretro-database contributors / original PSP cheat authors
+21397168 0000270F
+
+// Firion: MP Now
+Author = libretro-database contributors / original PSP cheat authors
+11397166 000003E7
+
+// Guy: HP Max
+Author = libretro-database contributors / original PSP cheat authors
+11397260 0000270F
+
+// Guy: HP Now
+Author = libretro-database contributors / original PSP cheat authors
+1139725E 0000270F
+
+// Guy: Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+2139726E 000000FF
+
+// Guy: Max Def.
+Author = libretro-database contributors / original PSP cheat authors
+2139727F 000000FF
+
+// Guy: Max Status
+Author = libretro-database contributors / original PSP cheat authors
+81397266 00030001
+10006363 00000000
+
+// Guy: MP Max
+Author = libretro-database contributors / original PSP cheat authors
+11397264 000003E7
+
+// Guy: MP Max v2
+Author = libretro-database contributors / original PSP cheat authors
+21397264 0000270F
+
+// Guy: MP Now
+Author = libretro-database contributors / original PSP cheat authors
+11397262 000003E7
+
+// Leon: HP Max
+Author = libretro-database contributors / original PSP cheat authors
+113972DE 0000270F
+
+// Leon: HP Now
+Author = libretro-database contributors / original PSP cheat authors
+113972DC 0000270F
+
+// Leon: Max Status
+Author = libretro-database contributors / original PSP cheat authors
+813972E4 00030001
+10006363 00000000
+
+// Leon: MP Max
+Author = libretro-database contributors / original PSP cheat authors
+113972E2 000003E7
+
+// Leon: MP Now
+Author = libretro-database contributors / original PSP cheat authors
+113972E0 000003E7
+
+// Maria: HP Max
+Author = libretro-database contributors / original PSP cheat authors
+113971E2 0000270F
+
+// Maria: HP Now
+Author = libretro-database contributors / original PSP cheat authors
+113971E0 0000270F
+
+// Maria: Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+213971F0 000000FF
+
+// Maria: Max Def.
+Author = libretro-database contributors / original PSP cheat authors
+21397201 000000FF
+
+// Maria: Max Status
+Author = libretro-database contributors / original PSP cheat authors
+813971E8 00030001
+10006363 00000000
+
+// Maria: MP Max
+Author = libretro-database contributors / original PSP cheat authors
+113971E6 000003E7
+
+// Maria: MP Max v2
+Author = libretro-database contributors / original PSP cheat authors
+213971E6 0000270F
+
+// Maria: MP Now
+Author = libretro-database contributors / original PSP cheat authors
+113971E4 000003E7
