@@ -41,6 +41,9 @@ def main() -> int:
         serials.update(entry["serials"])
         if not entry["authors"] or entry["blockCount"] < 1:
             fail(f"empty author list or block count for {entry['id']}")
+        display_values = [str(entry["title"]), str(entry["description"])] + [str(author) for author in entry["authors"]]
+        if any("emucorea" in value.casefold() for value in display_values):
+            fail(f"display metadata must not claim EmuCoreA authorship for {entry['id']}")
         for field in ("downloadUrl", "sourceUrl"):
             if not str(entry[field]).startswith("https://"):
                 fail(f"{field} must be HTTPS for {entry['id']}")
@@ -53,6 +56,8 @@ def main() -> int:
         if not path.is_file():
             fail(f"missing pack {path}")
         text = path.read_text(encoding="utf-8")
+        if text.startswith("# EmuCoreA"):
+            fail(f"{path.name}: pack header must identify PSP/source context, not claim EmuCoreA authorship")
         blocks = 0
         active = 0
         for line in text.splitlines():

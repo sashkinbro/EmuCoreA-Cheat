@@ -105,7 +105,7 @@ def convert(path: Path, serial: str) -> tuple[str, int, int, int]:
     descriptions = {int(index): quoted(value) for index, value in DESC_RE.findall(text)}
     codes = {int(index): quoted(value) for index, value in CODE_RE.findall(text)}
     output = [
-        "# EmuCoreA PSP cheat pack",
+        "# PSP cheat pack",
         f"# Serial: {serial}",
         f"# Source: {SOURCE_PAGE}",
         "",

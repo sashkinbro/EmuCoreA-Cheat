@@ -19,7 +19,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 37,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "82A973833480C03ECC135DC1BB2F6FB3CE9A7B31F1BBB5C010E37B039D853D1E"
+      "sha256": "6503C13ED340AB936757C141DE1BA61DD8729ED9CCFBBE3208DC11BF9124F3E3"
     },
     {
       "id": "libretro-psp-cave-00960",
@@ -38,7 +38,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 18,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "E4CB2C1771E88A584283B171128CF0BEA6E412EF33672A50742421E51924A64E"
+      "sha256": "AD3BBD7A3D5E66BF69A99CCFC125BA14C4A3165B750963FD903B0275A6A75707"
     },
     {
       "id": "libretro-psp-cave-00992",
@@ -57,7 +57,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 18,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "7BC9B45E747C7861EDB2262209468DBDE0D52D546096E5098F373B6CDB57B4AE"
+      "sha256": "AD938A2B5C9C2FF905E56AF637321918C197AF667FC588B9B92CE3B749ABC05A"
     },
     {
       "id": "libretro-psp-csps-01360",
@@ -76,7 +76,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 42,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "7BAB39E14B21EB8E764621BDC13E19DDDD588320F60AE7117913CD9C5EF9AC7B"
+      "sha256": "2D93CF17F042662BEE6AF8507ED51CAAC94CD11570A0DC2A295676218635139F"
     },
     {
       "id": "libretro-psp-npeg-00004",
@@ -95,7 +95,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 7,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "DD78ED6EDE2157039C22538069C6249D47B36070B49C29D0DDD1F09793928BE8"
+      "sha256": "916FA1D94541000D58EBABEE59CADEA67AF7EA7F884B3E4905B1393B2023C403"
     },
     {
       "id": "libretro-psp-npeg-00008",
@@ -114,7 +114,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 11,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C6239ECC97B4CF6145DAFB7A562FBA69F33027C455E4DC25A0F13AC45BCA82BA"
+      "sha256": "E8DFCA543EF7245A676C516893F5F7008C991C398C354D9FFAFFEAB26CB79C02"
     },
     {
       "id": "libretro-psp-npeg-00009",
@@ -133,7 +133,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 2,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "14EAB897CD49CB536052EE0FFD774F6797E8B76EB9201E935DB2EF2B781A2EFF"
+      "sha256": "403356594580EAFD45C5F92D09EC1B4FE98C17EE189DEF084935E7C18FA50E12"
     },
     {
       "id": "libretro-psp-npeg-00017",
@@ -152,7 +152,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 4,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "CCB8E8E2595D015F8EA795AE10AEBDAF847F113533CC0CF342D4E9BA99B10880"
+      "sha256": "1A2C8CE3E4F56577C86110E4D056D515FE34071A8706E4E92D83F5D8677D8A3E"
     },
     {
       "id": "libretro-psp-npeg-00018",
@@ -171,7 +171,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 2,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "36245FEB80212F623A3E317055E5DD74498C9D1AEAA015A077D244AEFBE3068A"
+      "sha256": "836414CF06FBEEE9FAB00F49587AAD98763F973CF9B6C93B653925A30E9346F5"
     },
     {
       "id": "libretro-psp-npeg-00019",
@@ -190,7 +190,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 4,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "67D05A72375BCEE708F8338AA89F72871A248991EC8F4D5A0F6ABEC2D78FCA05"
+      "sha256": "CCCA1CE7BFA6C43B8B9E359A48273BB0E0384D080C2870FFDFCE97EF1E17124D"
     },
     {
       "id": "libretro-psp-npeg-00023",
@@ -209,7 +209,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 28,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "B80B511D737AC02C142735E0ED52C5F8CFD68A41E8E611D19C98F0A0BB2DF1DB"
+      "sha256": "A66CADF155F7D6B5261A733DCB685B7A8AEC9A3E2D73942486ADEE1F3D15476A"
     },
     {
       "id": "libretro-psp-npeg-00025",
@@ -228,7 +228,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 13,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "3E0F9934CDAFCF1B2F7D9F8BF6812C6B0A21CC1E64E0E873653D4322F5644C72"
+      "sha256": "5ED77C278458B81273869D818C9AFD0591A4BA8337DB21D70A21FFC804D49C88"
     },
     {
       "id": "libretro-psp-npeg-00028",
@@ -247,7 +247,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 10,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D36F7E9B8F7D5764016756E27009F1D52CFCC20B7C025F019F4FAE1A4404A5AF"
+      "sha256": "15D5578394B56F0AB2534E91F212B0FE23D52A68DEBEA6F219BF6FF1D944C20C"
     },
     {
       "id": "libretro-psp-npeg-00037",
@@ -266,7 +266,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 3,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "249B12D7042589FC9E2E2A7507F4F534FC329F0603C07ECBA553B2B78A4BFCEC"
+      "sha256": "297E4B0B56EE0672B241A43E2A74DBE49F47C34A799E0128F4E055E1A638D551"
     },
     {
       "id": "libretro-psp-npeg-00044",
@@ -285,7 +285,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 3,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "BDAC221298AC825A28782B66EC934B47597066E7A75F07B29BDBC7202BB0B064"
+      "sha256": "1A692DE9555C003B9F7E7316BC395652BD37A15DD798BB4DEFA5E087B3E1CB46"
     },
     {
       "id": "libretro-psp-npeg-00046",
@@ -304,7 +304,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 2,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "7930121CF69C592D02699A50C072D625481C0A51D76694AB23F95DDBC65DCF0F"
+      "sha256": "031488BC6D8AE69AAFB9B05CA4A882DBEBD6C55B1C78732C19A9764899AE1A9F"
     },
     {
       "id": "libretro-psp-npeg-00047",
@@ -323,7 +323,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 13,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "E98DCE460EB1D8E977C8C4FDB671A137FA76F4A8585237E3F903253C0DCEA45F"
+      "sha256": "B76EED7AA123E40FF013F3351DF0663DCEF5C59164A026132E443DD03FDA2C32"
     },
     {
       "id": "libretro-psp-npeg-00048",
@@ -342,7 +342,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 13,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "8E03A983C536C37EC6FBC44ECCDD8490566E1135D2791221936DA7DC3C9A4361"
+      "sha256": "4F679B03958E0E595887CE5C1D6D957966D0742F6414BC17A934C5DF196CF7E8"
     },
     {
       "id": "libretro-psp-npeg-00049",
@@ -361,7 +361,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 7,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "CFF9C6E022CE3934033A01C0F26725A5735D20A794B29BB0207785A0C98D5724"
+      "sha256": "A0685D7F4B248B6452958D6E34FC999226937A922012B7E52735AB2EE56FE794"
     },
     {
       "id": "libretro-psp-npeg-20029",
@@ -380,7 +380,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 4,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "0C6277933470E5AD5634477669E6F72CBBAD8A01B4ABC0852421603C6FF9811F"
+      "sha256": "173D317D42D4028B5E3584A7B60522104DA277A351C3A12AE9DE65F4A672E5FC"
     },
     {
       "id": "libretro-psp-npeg-90003",
@@ -399,7 +399,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 19,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "BF1E19DF4368872147EF86CA6B6B591B11DC8A4982B1311F5A3C5159506CC400"
+      "sha256": "E7804E3C3CBDC610A16C150F1CD9FE2E65224EEF30569A06B589076B4A0A21A7"
     },
     {
       "id": "libretro-psp-npeg-90008",
@@ -418,7 +418,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 1,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "159D7F35618C842D89CA024C4094EB2D2DFC27993C415BB8C2A458F4000D527D"
+      "sha256": "DA1253122F8BFAFA0275388DADF7BBA8D98F8CCDE6AC6E8564639414ABD53D79"
     },
     {
       "id": "libretro-psp-npeg-90009",
@@ -437,7 +437,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 1,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C1654B33BDAF98B7A1ABDBAAA5E661A86B90B1B6FA6F16D88C94066A4085BB8D"
+      "sha256": "D7B0A247E16893A779FF1B9E613DF0FD9CE6317388EB6057ECD6C36328402AEA"
     },
     {
       "id": "libretro-psp-npeg-90012",
@@ -456,7 +456,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 11,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C067CCBD0AB95A574C8B057BC44A7F982F0DDB3E5ED642A8F29BCE171FF475C5"
+      "sha256": "DAAB84271478172D46DCAE2BB2542399EF60F8336FCFE629FBDBF910F6462710"
     },
     {
       "id": "libretro-psp-npeg-90014",
@@ -475,7 +475,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 6,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "44E1543478E7E64AFE718DEF0F5F0C87D47360DFDF9954A48B85DAE9A2FC3C96"
+      "sha256": "E5FFFCAFCC66AF288E18BDB689965C6127B40839AB2B67A84EB2E3CB9CA57A21"
     },
     {
       "id": "libretro-psp-npeh-00134",
@@ -494,7 +494,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 90,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "1A329970D1B3E340EED3E10472E270DC3CE31172CED00FED89DE17DB6E9600C4"
+      "sha256": "CED9C06B144825A2B547D991B734EE2ABFD53B97BFE1996496DA437C979E5F63"
     },
     {
       "id": "libretro-psp-nphh-00068",
@@ -513,7 +513,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 100,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "5C1CC4BDAEE3AB9BADED7E4400FD9270D8EDD979931852CD816F66C1399D69B1"
+      "sha256": "8D331A9CF116DCBBEDB09459CF98EE7E801D950099F06ADDDC865A59F566FB0B"
     },
     {
       "id": "libretro-psp-npjb-40001",
@@ -532,7 +532,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 169,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "277650F7D7C8D175351A4AF1FD961615005571ACD6E852C00201B94396E2CCFE"
+      "sha256": "3D9A0056B9F23BCF786AB5FCA92BC4CD7D0334D14AD901A3DC20E9601DBE421B"
     },
     {
       "id": "libretro-psp-npjh-50043",
@@ -551,7 +551,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 131,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "F137E006C2C9AE05D98D3F54A093FDF4F301DBC790CC6C97A3C3A0094C650A06"
+      "sha256": "DC63B52913AC449666BF92603684F650F3A394F8CA1717492146C97E86A8C778"
     },
     {
       "id": "libretro-psp-npjh-50044",
@@ -570,7 +570,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 75,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "6DA883DA49E7C967AB268B5DBBF944EC1E0D16A1EC969AEC8EA96A6FCF7C78D9"
+      "sha256": "D774E44D815BD249FF2814323AF3D0CFB7F35F765457454C8D398D381BEAD0AE"
     },
     {
       "id": "libretro-psp-npjh-50045",
@@ -589,7 +589,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 108,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "822C5F60C3AE6EE78DB2F1B44C52486754D8E418468A545B6154B2356463A4D0"
+      "sha256": "5D28A0CA5705CC22275F6101A657BB9B8A89E471CDFE87CAFE6593130F97FF4A"
     },
     {
       "id": "libretro-psp-npjh-50107",
@@ -608,7 +608,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 632,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "64D5ACB2B4A5B83567E277F245F947F01FC74BDBCD4CF69E13E9828EEF12AC84"
+      "sha256": "95FF1998C54EAFDAACCA888B8788673C6F39753D3C1002445770B14D24BA31C6"
     },
     {
       "id": "libretro-psp-npjh-50263",
@@ -627,7 +627,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 112,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C5BE824B10CE45254FB814AF1F5655AE69434095377DE703F6AF0E244952F710"
+      "sha256": "DB8340F8636F4323E78B267184F3BA2F40E4872C4E95C01E40B678F58E41E183"
     },
     {
       "id": "libretro-psp-npjh-50276",
@@ -646,7 +646,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 91,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "DC24021279631EDF1755342DB7B99BDED96CB74D3063CAE7EEFBA7E66D93407B"
+      "sha256": "02015A75223E67CAF4AC0AEA26E5B31D4B31778E2697BDD637A2D9B8A1235639"
     },
     {
       "id": "libretro-psp-npjh-50311",
@@ -665,7 +665,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 125,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C81E2C4617E0CABD6CCBE171C93A927039826A2E399E735E9C7F15C2C54DA88C"
+      "sha256": "092A4E7FE5B279F165F47F33179E43A843F4A373F9220CEB4F53CDD8AF13CE6F"
     },
     {
       "id": "libretro-psp-npjh-50316",
@@ -684,7 +684,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 69,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "AC8755080E2DEE1987CE34F72CFDE9E3708BDE2BE6B0424C2EFFDC432F1098F4"
+      "sha256": "36821DDE45CF6E61ABEC63CDBF02D56F44F8E3A6FE7B065399668CC94B41F6EA"
     },
     {
       "id": "libretro-psp-npjh-50331",
@@ -703,7 +703,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 71,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "8DCFDB8C58BE917AE4CEEBEAE9DDD2996C9E6020C929BFF48CD7BCBAB380D588"
+      "sha256": "A1751A86A552A305500B6690D513954FDE4B2A886451F1E4DB8E3CAA14A985C8"
     },
     {
       "id": "libretro-psp-npjh-50332",
@@ -722,7 +722,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 185,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "8FF953C593EB5044D3AC053A955AD16DF07A09FFBE01A767C4F068FDDA892C48"
+      "sha256": "8AEFE3EC4FBC60C0209238339970B59B8F5F2B4FF5E02701EB5FBEECFF3C66D9"
     },
     {
       "id": "libretro-psp-npjh-50352",
@@ -741,7 +741,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 730,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "F12E3D6F3EEA99C332492444994CA3A464FB6EC75905F6EF2F52B7EA464F2623"
+      "sha256": "D1EC4C06DF0D7516D3EEF18DAD95D2F97A9E0C5D2FA823782E6806993EEA4614"
     },
     {
       "id": "libretro-psp-npjh-50353",
@@ -760,7 +760,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 81,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D6358BE77CD6608D1D3204D616EEFEC6AAA9C366EC0BE7097667D8EA1A317D08"
+      "sha256": "2F3B657D2F54CD4947D5363501CA1FFEE6C1757F9CEA4EBBAAD86A91F0CDBB5B"
     },
     {
       "id": "libretro-psp-npjh-50377",
@@ -779,7 +779,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 154,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "66EC966BEF35E6C148BA660F45F1404CB42DFF926C434BE339729295A5191B26"
+      "sha256": "FD3C220389A6DD2AFCDC2E8A7D9ABEF8E18A478EF9CEF938E21E963DA70365EA"
     },
     {
       "id": "libretro-psp-npjh-50430",
@@ -798,7 +798,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 66,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "23347B6FA2EA4DDE20545177FDF1536D417743096751255BFDD9BDA08B2AE6FB"
+      "sha256": "C5AF5EFB3261806100406E585281286270232CF1065DEBD74F3EA6849787C006"
     },
     {
       "id": "libretro-psp-npjh-50435",
@@ -817,7 +817,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 129,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "B218CE3E73B1A18A3755BE4AAC09399B26B588C51AFC8FE6F117C1B740C56A70"
+      "sha256": "FAE6B55419173FE09A978E43D696192AAC015C2FFAB3EEC3513C3633859D62BC"
     },
     {
       "id": "libretro-psp-npjh-50441",
@@ -836,7 +836,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 65,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D01C1CE005689FE580165B8F469A920690B63C963F44DCD1462F483920A689F4"
+      "sha256": "259719E82BCEEA773662699948DA1A90684B09835F1C3CFF95B3B6165A305BC6"
     },
     {
       "id": "libretro-psp-npjh-50443",
@@ -855,7 +855,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 440,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "2B3B3C4BCFA91051F46980377883299034B5B0E94953D9F24793FEFADF60846F"
+      "sha256": "B0A0995FDB147FB77A6399FA7FE08355CFBC5DEA9540547441A696F684CE9E60"
     },
     {
       "id": "libretro-psp-npjh-50444",
@@ -874,7 +874,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 423,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "7AE31F880048583942437110CBB807C41B624F6E0C9F0C929A6C57C5581603DC"
+      "sha256": "53FBAF327FC3E78FE6BA40D5AC03D50ED7FBD43088D6410BFB238D39B9E584A6"
     },
     {
       "id": "libretro-psp-npjh-50459",
@@ -893,7 +893,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 61,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "24BF4BA3A200B5C0F686E6B2EF573BE7A45EA3EB1D414B72973A66A1A442735C"
+      "sha256": "6B6070D86B1E62FB53AFAED04699D4C66F3A35DE25E0B357FB5676348DCC79E4"
     },
     {
       "id": "libretro-psp-npjh-50473",
@@ -912,7 +912,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 240,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "9AB1349A1B7BB18F0A22D1546DDF60F2A39DEDF8C4175A586D73A91161422122"
+      "sha256": "037DCB93DCC99F22FCFFF326B22561EAA4CB08286573DFE701CF273301A05754"
     },
     {
       "id": "libretro-psp-npjh-50521",
@@ -931,7 +931,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 200,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C040977820F42F5A34564CCFC52CB58C89B79FE7B017D9B2E89533962733A2FA"
+      "sha256": "16854BB152D11DD3755615DE3ED51ED0E3438FE9791BAEFBC4DC1025C8575336"
     },
     {
       "id": "libretro-psp-npjh-50530",
@@ -950,7 +950,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 70,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "275BB1AD89696ED6842AB942FDCA9E55CF0C351D3402411DDE1B93EA2D97CC26"
+      "sha256": "1164E61F6F7F1D49BF982DD80A51D4AAA57986233EC8F945406EB192155C4211"
     },
     {
       "id": "libretro-psp-npjh-50566",
@@ -969,7 +969,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 57,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "B421BCBAD96CB96F280252E7192374F5948FD905DD0688B5D2EDEC990F9B63CC"
+      "sha256": "F925FAD6A707AB8320A69B56CC159322334910A1CE858430F01AF8E254D4338E"
     },
     {
       "id": "libretro-psp-npjh-50567",
@@ -988,7 +988,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 204,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "995D6E680B0DB33999AD0752F124F9A3F87ADE3F3EC17091D8B32AE24213D65C"
+      "sha256": "EB4B4E7588FE98063275C836F347F06E12F906D653CFE53940EBC9D364813BDE"
     },
     {
       "id": "libretro-psp-npjh-50588",
@@ -1007,7 +1007,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 154,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "91B23A0DAE8FED08024582C6E8B0D9A5836C1AF9200F14754AEC6C3AC23D7CB6"
+      "sha256": "D4FD27F209CFD77DF81E065A4F8B270144AE792C37461C6D75ACB9FCC70DD2A9"
     },
     {
       "id": "libretro-psp-npjh-50618",
@@ -1026,7 +1026,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 134,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "6AEE78C6512F11220EB983FC1C722DB5382593B47509EF0B5569AE068188CDCB"
+      "sha256": "494878F32AF40DF53C7CF449C9A41CCE78030A9F4D77FE8F9653D0B935651483"
     },
     {
       "id": "libretro-psp-npjh-50619",
@@ -1045,7 +1045,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 128,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C6B6A016513F7B78EE632D6C363FB0DFA6BE1D2C8FF8A2BC4F3943A7AD63A2ED"
+      "sha256": "96A72943F50EDAA867B91E6AFD17C8206946CA2DA966B37544995B75929FDE69"
     },
     {
       "id": "libretro-psp-npjh-50625",
@@ -1064,7 +1064,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 109,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "25B99EE274437ABE7FEF9F7376748D528F07776EFBDD777630384E5B9391F7D1"
+      "sha256": "8355047C8EDF8BDA8DF876A10FCF73E0596C5F50F3AF67DA7516E04D0B57D837"
     },
     {
       "id": "libretro-psp-npjh-50681",
@@ -1083,7 +1083,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 97,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D583C756DFDB7A4E2DE8D120980EA674C15B6B619D00E338CDCD1F376D7DFC82"
+      "sha256": "2B3C5E9B9925D37ECFEEDEEEFDF0A0F5255CA2FC1810D9F7847555D5950C3D46"
     },
     {
       "id": "libretro-psp-npjh-50701",
@@ -1102,7 +1102,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 585,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "B04424780EB9DA3C2BEEE1149CD54D7D60BE0C788E44B1F4E827D10DF3FC3057"
+      "sha256": "F5C78CE16D7F60F82FD4C3AC9ADF1E6CA438DC9878E113A35B1E6F8C31BDEB9B"
     },
     {
       "id": "libretro-psp-npjh-50716",
@@ -1121,7 +1121,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 67,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "F9768C1A9F25D5783D4034464D64D0E9818685329036A21EABDF04CF07E8B14D"
+      "sha256": "D300608D53E90A101AD5FEBE5C2CC48A51BA633C80018A808828636DAA621D1B"
     },
     {
       "id": "libretro-psp-npjh-50717",
@@ -1140,7 +1140,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 67,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "8E38A03F4F7AB61161D366E0C314E2E330E98A7FC7AE06FDA08C2415DC238503"
+      "sha256": "C36E024393CE07271DBAFD762639C16E53A633AB0D82FC4E264DB1536764962D"
     },
     {
       "id": "libretro-psp-npjh-50721",
@@ -1159,7 +1159,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 118,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "5749D490D34C039EB3D8012532E6AF9FDC9E981B54424E90994FC75348DD53BE"
+      "sha256": "405113A3CAF801FC07CA4833C2DE176EBA37C142FD9E3DEE931FDDAC805612D4"
     },
     {
       "id": "libretro-psp-npjh-50789",
@@ -1178,7 +1178,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 187,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "755E35C1F544A3EB0E293E10373399BA38A07BCAC378ACBB27221DA16F4ECCEC"
+      "sha256": "B1837574F96B80F89E04EF04C87D23979DFEA17AD63C94AECEDDB849B1B74DC3"
     },
     {
       "id": "libretro-psp-npjh-50878",
@@ -1197,7 +1197,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 605,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "9B1A352B22C32DFF1D7A3B7DE3FAE2A147550B89A0145A1E3C574E881AE65A1F"
+      "sha256": "326167B8C7534C95DBF068C8E53F01AC2256A0C5FA41826616544991241625E1"
     },
     {
       "id": "libretro-psp-npuh-10041",
@@ -1216,7 +1216,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 538,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "9B8CB461CBA0CB410256F34841C6E12D8F2BF7D329A4586864D0E48BA1E30E9D"
+      "sha256": "DDA28E6A1A10330E56316BB570F2620ACEC92921E1D4A07543AF6918C4BB2598"
     },
     {
       "id": "libretro-psp-npuh-10125",
@@ -1235,7 +1235,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 90,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "15DD03C27FFBAF3ED4695F238D357B3C60C700FF70DB02AC8C4BA38C34BE1467"
+      "sha256": "6FD8454D00101A9B654F87D417DEBEC2135F9B4866462E7E880C615FE38AC5A1"
     },
     {
       "id": "libretro-psp-npuh-10126",
@@ -1254,7 +1254,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 85,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "0FDE68C0879A564B371BD2261D923FEA03AFFACA052EA46C521B68F798B87136"
+      "sha256": "27BCF6183080A5D78C817338033B7009D186C66B72E6DB9E71DC4AB19304D369"
     },
     {
       "id": "libretro-psp-npuh-10191",
@@ -1273,7 +1273,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 78,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "EC6E044F8802864223FFDA4B2648D570665BA007CAC563DE4E01066857F5888C"
+      "sha256": "18C9960C4796B21780E1660F3AA0DA2217F2BFB5FE8C5472A003CB0732A9A577"
     },
     {
       "id": "libretro-psp-npuh-10195",
@@ -1292,7 +1292,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 63,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "EC2AD72041D3121894D507600B18EF0D1C22655277B8E03BFD9E402FB550906C"
+      "sha256": "7D7CCDADDF06BB14401BC2EB6531453E1B1713D31325B127D61289AA9D2746EA"
     },
     {
       "id": "libretro-psp-npuh-10197",
@@ -1311,7 +1311,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 78,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "67902FF62A7AD2C82B9DB6AF1C518DD8AE44EFCD1DB55BDC11055D15F33CB412"
+      "sha256": "E04C5E9891521A4522ADB0B32EEF558548CAD92890049A5B0374402E781B7F11"
     },
     {
       "id": "libretro-psp-npuh-10198",
@@ -1330,7 +1330,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 65,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "2C1F2B6C94A5702A3EE37B8FD7ADBB678000BE00D05C213E276F35DEE58B34C7"
+      "sha256": "6D6B80FEAB39B54B20F9F7774722BD673B8CC6DF905F9DDAC50195C23645FE7B"
     },
     {
       "id": "libretro-psp-npuz-00132",
@@ -1349,7 +1349,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 64,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "0DB274048EFEFAF6BAC59439E1E36CAA86D168E3D88F0ED380BBB3F127565DF1"
+      "sha256": "1F47F2954F5ECDB517DA59A4FA0DAA0EA063E386D5D3FD10F5297FB18B19C624"
     },
     {
       "id": "libretro-psp-uces-00001",
@@ -1368,7 +1368,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 67,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C6A2329CD383E859F4A5260F3AA0370FCA9AFD0EB0C9A5378BCAEE7F5D75831C"
+      "sha256": "45E8BBB094B3F98939896256726B11B2C924B4B618D1B5466A5C7AF3222CBAAA"
     },
     {
       "id": "libretro-psp-uces-00356",
@@ -1387,7 +1387,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 131,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C305EA062AF07CADFEF68ED3DBA05ADD2BCF22047E73115C55D0B45C7E986019"
+      "sha256": "681EC34B7CA241C89AD48E3F7E3617EFAD99E1437F846849AF477269D2948C9F"
     },
     {
       "id": "libretro-psp-uces-00995",
@@ -1406,7 +1406,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 438,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "CF27C86E93C4991238F871F18E693AA28D30AC4B6FA0F1C363FB85927F2AB3AC"
+      "sha256": "1BD1419C3A4DFF5F61785D3201A571309220912A08FB9A3DDA4C1295368838CD"
     },
     {
       "id": "libretro-psp-uces-01242",
@@ -1425,7 +1425,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 205,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "2DCFE295DB510886DA3CC7928E2ED1B0F7911D32F76BE44015D31B5BD2B5B09A"
+      "sha256": "6EEAA2DFB4B8D00B3F13AB8E3061F9AE3E32C3DCB9773F1E383629DE77A22E5F"
     },
     {
       "id": "libretro-psp-uces-01245",
@@ -1444,7 +1444,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 572,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "B96F99E601B26F45CF5A688227C2113E22BF27257D36F8F7911D1F210546D029"
+      "sha256": "5E83EBADB872F64CE81D19B1F0E0FF4E2958DFFCA3BA9CD2C863C891392590C4"
     },
     {
       "id": "libretro-psp-uces-01264",
@@ -1463,7 +1463,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 72,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "19EB8CA88A9013C2E972B849D47FBF626539F0EECB269E4FF2C17811197D5458"
+      "sha256": "8029FC4CFAE663639018D30D00A835DE2FA34B75DF37D91CA38FE1262B1C7B12"
     },
     {
       "id": "libretro-psp-uces-01312",
@@ -1482,7 +1482,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 79,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "6450CCEB8B5C5FD60FB52F1DA394278112DB6D9BF0C1D61318C52AD8BEECC1AA"
+      "sha256": "D867B7578F755AD229FFE945467F42E278A5E1CB11984B1ED11D87E0C37D7FF5"
     },
     {
       "id": "libretro-psp-uces-01327",
@@ -1501,7 +1501,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 119,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "EC8554871E8A7E222AE04E903998532095206165746651C9DEDDCEB0CD34EC4F"
+      "sha256": "1C25367CB631245643FA52BFD4B9E86DEA19A74BA5E1F11483C039491C6079BA"
     },
     {
       "id": "libretro-psp-ucjs-10093",
@@ -1520,7 +1520,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 91,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "01CE6E0935B9719683D10D38DF83BFD755FDDFA680078FE33257A5B8822354D6"
+      "sha256": "3701B3CB65C4E1DD7190AE98E4103D8C4E3ED18CD8E13D0DB839FB1F7A80461F"
     },
     {
       "id": "libretro-psp-ucjs-10095",
@@ -1539,7 +1539,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 64,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "580F844BF1BC001CFE2C8271685A6DE8A6174551F4615C1825B19963C0C82907"
+      "sha256": "2EBCC07EDBE12AB0A9FFB577A77DA56FCE04BD60722D027A302E235281BA70B5"
     },
     {
       "id": "libretro-psp-ucjs-10100",
@@ -1558,7 +1558,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 544,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "A464D78E79A6C448B2DA7C4B5DD5F8CD3F1A495A88B824C1FA3DEF7B15CF411E"
+      "sha256": "23D995AFE606879DFFAF3283E2BE962E099AFEA701310D2A0E49A2C31C72A71A"
     },
     {
       "id": "libretro-psp-ucjs-10109",
@@ -1577,7 +1577,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 60,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "BA4378068EDD9882A2282C3CB50432D53869CF5E53691D3CABF615FA3A0DFE60"
+      "sha256": "F139E35481EEC28B726C20A486774C678B9B851B6E01BDE5725055A72B7AE4E6"
     },
     {
       "id": "libretro-psp-ucks-45027",
@@ -1596,7 +1596,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 85,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "975667C50CBAEEB07DA625566D2D26A47B3238663E1543B69C53923FC290BE68"
+      "sha256": "EA98F1B4090B2D6716668851FA7D112FDB546FD15462919164857EE183E9D04A"
     },
     {
       "id": "libretro-psp-ucks-45076",
@@ -1615,7 +1615,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 93,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "94D10624A9A03F344BD484CAF7F3FE6CB7F222B09C9D9793B8C28F66204A177F"
+      "sha256": "9A520D775F43B268D8B645761DCB23128E9A37118CC963EF0B244DA869C5CCA6"
     },
     {
       "id": "libretro-psp-ucus-98612",
@@ -1634,7 +1634,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 102,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "87F42EAA00C57657AB8A6BFE2199C17D70CF31550F47F1287C91B0FE51FBD768"
+      "sha256": "C262B185B4438A5AF32BA2D93F7628E1F4A724951DA5C1B17A32F6AA7075F6D8"
     },
     {
       "id": "libretro-psp-ucus-98632",
@@ -1653,7 +1653,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 703,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "59B3C0B0EE28545171AC8CB94E9CF2746A77DA93ED835244BF56F55720816EC2"
+      "sha256": "FBB71078DDE3C55685057E87224DA7370AD9681A419CC832702256EECAFBA9C7"
     },
     {
       "id": "libretro-psp-ucus-98633",
@@ -1672,7 +1672,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 163,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "25CDE5C08C9765E350BE654226601598BDFC207FCF6CCA52A40003ACCD5A470F"
+      "sha256": "4123A1850163745DD966A13E330E7EA54E70ACAD54A9A5686A364E06B0255C77"
     },
     {
       "id": "libretro-psp-ucus-98640",
@@ -1691,7 +1691,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 59,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D379C0FF6B408D95D1FCD933B88D62E7468B1AF0D9606E43FA5F9F6DBF5EA73C"
+      "sha256": "7CACC1A4AE1DC7DE5516F6732434B7BF79190F13BF798BEE6F4088AF378DECED"
     },
     {
       "id": "libretro-psp-ucus-98645",
@@ -1710,7 +1710,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 165,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "975E3CE1DF9F25217A443C818C904F2FB6AFCFD0B3D2E577BE64AA18A306BA69"
+      "sha256": "781604FB3E6F294A0382A760F5C95C15D3904D02966B019B8CDF1B243BB2C6CC"
     },
     {
       "id": "libretro-psp-ucus-98646",
@@ -1729,7 +1729,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 279,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "8F62BD638905C1E1784862232B70CFB22369EDCCF569A38AE1AB66B147302483"
+      "sha256": "CAEEE6E78911CD46D72756533FEEF6F20A305EA204192C8F6627569EA4290335"
     },
     {
       "id": "libretro-psp-ucus-98668",
@@ -1748,7 +1748,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 193,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D2FF7077909420DF02D8BC8A893A250F4CFEC84BB83D9558729F5C867537FCE6"
+      "sha256": "210A20590EB297AB6005C4D4A767CF1E0EA41D615980A63355386D8B1D45917D"
     },
     {
       "id": "libretro-psp-ucus-98711",
@@ -1767,7 +1767,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 181,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "0C33AD61D840F6F851DBF8138B3E318EB0E198C95160E2722179D7C92D7D6A23"
+      "sha256": "32EB35F27C63A82B93915A7E7E0B700C7580C02D3EAFFC7E2B5C29A553534342"
     },
     {
       "id": "libretro-psp-ucus-98716",
@@ -1786,7 +1786,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 194,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "793496222426D2604A8C8378AC6662A26F626ED9A6BA88F1D2E06C0918CB03A3"
+      "sha256": "094151E75E096F62E075ED13F1CA7073D4EEF65C723AC4AE7E486E3C9E8810C5"
     },
     {
       "id": "libretro-psp-ucus-98751",
@@ -1805,7 +1805,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 133,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "51606FF2684A41FF1AD88C40CAAF4B8842E15FD29F7977C5F0712E3CA74E3050"
+      "sha256": "64E59C02E1241F7E8DBEA0E77BC83A7E45F599E9891034FEE48BE2B407B633DE"
     },
     {
       "id": "libretro-psp-ulas-42060",
@@ -1824,7 +1824,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 403,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "CE7364D08CABEFCEE1C6C0E05C03863529D8D79E79F2A8BFF8AA974282234CDD"
+      "sha256": "3014EF26F2055A03CE35EFBD85D2ACAE8B1801BADF485031DB30EADBF77DE835"
     },
     {
       "id": "libretro-psp-ules-00151",
@@ -1843,7 +1843,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 345,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "12EE7E1AE9BB73186E545355F369057F8E53853C7F6D7835CA30D9C029A9370E"
+      "sha256": "4D580DBF45BB18D6512982E6FBBB3074EED5CDB51A63523A534DF9D9D917AECC"
     },
     {
       "id": "libretro-psp-ules-00176",
@@ -1862,7 +1862,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 395,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "4126E3432F6E11D1AF495F73AD4691B2CDAFD4564B38440D07AE9DE597296370"
+      "sha256": "6B0883CD28DCEEAF3520CA789D7EE11BADA69312DECD3B9B3F78B44B8B3C4E1C"
     },
     {
       "id": "libretro-psp-ules-00180",
@@ -1881,7 +1881,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 159,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "36B3DE3B2C4F409F49856A257011C6B43A3733F1354A033895E2FC21D99A9906"
+      "sha256": "265A0AFFF343472A0786438420688998818860AFA2C11871E73A7781B95F5B1E"
     },
     {
       "id": "libretro-psp-ules-00182",
@@ -1900,7 +1900,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 205,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "4566A05F361E6F1FF717F5E74260E7FD75D67D4B2256F5B28CB4CA5114849437"
+      "sha256": "46C7B32BD69DD6DC317F24364F7D4F4DBCF1D4CCB1C23CD1EBE86B690A6248E0"
     },
     {
       "id": "libretro-psp-ules-00193",
@@ -1919,7 +1919,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 261,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "68555B2441615DE49D1305C73D9F3DB44D308336E7F1E0106653BF012B2E89EE"
+      "sha256": "40173893FD237CB3396600F01F26A779D34EF0BFF9437D9BDAF88EC1778CAD1C"
     },
     {
       "id": "libretro-psp-ules-00318",
@@ -1938,7 +1938,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 416,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "136A0960286525645CA00A5AA23612A2EEDD04496E4D1DC35D8B7266FC77AC76"
+      "sha256": "2E7147340B39E9D852B89BF785F1CFEF8A9092B8A85DEBEC92064BCDEB9CA9E1"
     },
     {
       "id": "libretro-psp-ules-00419",
@@ -1957,7 +1957,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 85,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "BB02E548DD527AAD4FA57ECD8425665117C17040DFC1C72A595C59C922A34AB5"
+      "sha256": "0DC6F4A0DC991715B3F4DB91E984F95ACA6600E4871696DD535DE8068A79481C"
     },
     {
       "id": "libretro-psp-ules-00502",
@@ -1976,7 +1976,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 320,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "740CABCEF689B80710613B8A624CBDCD36145AFFE8C240EC026E281B91BEDFC9"
+      "sha256": "C588CF2692BBECB767C15F1FC70DD555FE0BBDBD44B188EA1C9459E882A01CA5"
     },
     {
       "id": "libretro-psp-ules-00503",
@@ -1995,7 +1995,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 201,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C1DD551D5FE58289FBAAADF55E2B6F31BB9F33ECA259853DB32AFECCFB85D968"
+      "sha256": "07F428A50760006F089299D3227A4F914D263AC87EE8698D496BBC84519E5218"
     },
     {
       "id": "libretro-psp-ules-00645",
@@ -2014,7 +2014,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 73,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "97360E8F4760038F4DDE08BA7A1A672201E2B01952603BF96499791B6BF565C1"
+      "sha256": "CEC8291C228E8553EA8E221736DC4F55FB552CA6990F25B300818D54F9FD00FE"
     },
     {
       "id": "libretro-psp-ules-00657",
@@ -2033,7 +2033,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 189,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "4B975052CDD9036B71EE9DCD008F39F51EC86F41617052E3415B9C9625A56293"
+      "sha256": "47D8D9658427DADB39188D2B0499FAA2409F3C9A54A9073166B74578A2A2B099"
     },
     {
       "id": "libretro-psp-ules-00724",
@@ -2052,7 +2052,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 231,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "3872E2C8C9BADCB9BC54830EE30D64267B04C76E75E66A233CBFA1F8C28F232E"
+      "sha256": "6293BF4BF09FEF9794C28377A7BE499E7234720DC502BEDD0DD7E77DF4F4B111"
     },
     {
       "id": "libretro-psp-ules-00740",
@@ -2071,7 +2071,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 55,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "447E8568DC132D64FA04790356C927074B2EDFED9ED211E729B8E8BF3A2C07C9"
+      "sha256": "6FF90193A92B72FC3A4D84ABFC67CF17F22A00AA5083DDD4771DA06D4B30721F"
     },
     {
       "id": "libretro-psp-ules-00756",
@@ -2090,7 +2090,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 120,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "E50D4EE73A0407F4764BBB5018C84EB6016C9946AD824D0FF7133F446A48854E"
+      "sha256": "C9A9F0AE202E4D108C3C31306BA3DBC469982B52290CF0B4F429EE55AF64D8C7"
     },
     {
       "id": "libretro-psp-ules-00841",
@@ -2109,7 +2109,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 151,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "820FD809D194F4AD26D6AE9283460868D8D5379D83CF51FFD9B9C3F177328EB1"
+      "sha256": "D5B478AE7D0A7F1DD0885ADB40F2705902E2CBD859860AEDF54989B85CC38F45"
     },
     {
       "id": "libretro-psp-ules-00850",
@@ -2128,7 +2128,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 244,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C39793D82F809437B6994C0747EFC73C4E934569A93E781D4137471E43D09DA5"
+      "sha256": "BC3EFCA4CDA8329DE371F1E7C1DD2F7EA931E0E5ACDF6E8555E86E5AEFCA8913"
     },
     {
       "id": "libretro-psp-ules-00959",
@@ -2147,7 +2147,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 67,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "A03BF017FCD4247565381F615C22C028FF8B8C31BDD6DBC7BF25354669700212"
+      "sha256": "F039C569D6514EFC24D598B484AD97379F24C618BE0B7DF598C4977013F79D67"
     },
     {
       "id": "libretro-psp-ules-00981",
@@ -2166,7 +2166,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 91,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "F4F16989CB59F93EAFE23A4D4CF852C467E4C512ECE73D2DAA98489BAED04948"
+      "sha256": "CD6ED842EABD0665CC10715EA296A3623A6D52983486D9E1D4E7EABADBE011FB"
     },
     {
       "id": "libretro-psp-ules-00982",
@@ -2185,7 +2185,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 91,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "EF376554F4D21AA0136F98B41C5F7E3111D48E2A1984A05AD3205E954C9AD653"
+      "sha256": "C426A28562FA877C5E0CAD779643E3F7C0EAEF4FD6BFBE780744A38147E64DC6"
     },
     {
       "id": "libretro-psp-ules-00987",
@@ -2204,7 +2204,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 78,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "CC0DB2FB562CF1F9A0C48DC9BA4ADDD6C2CA119457A59478D402E7B8EE39B6FB"
+      "sha256": "D346BA936062A81592FB58069C73A1551B1A5F77EC464F685F9D5853AB97A0EF"
     },
     {
       "id": "libretro-psp-ules-00999",
@@ -2223,7 +2223,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 98,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "88A87578FFFB4E6B08C9A5128F49A1710B13E7A301EBBAF848D7A613BA65B938"
+      "sha256": "166917419B8B93382590D7A409F72898E04F2F47509F6D4258FDBB5B9113899E"
     },
     {
       "id": "libretro-psp-ules-01044",
@@ -2242,7 +2242,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 148,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "0DC9C2810374389FF2EE9815A177D5C6694E5F3E7223CF438FE017D575E13207"
+      "sha256": "505FDB4911FAE159BC3749B171E86A717FE41361F405537FDA95EAE823F058D3"
     },
     {
       "id": "libretro-psp-ules-01045",
@@ -2261,7 +2261,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 83,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "DF385506126C0CB7FCB858B4C3D4970A73AA0D01F63E600E93BBE8BE4C2603FB"
+      "sha256": "2E0509E8DBC8579BA6FEADB065F0E407130D219AFA65C39077D8D0AA913B735E"
     },
     {
       "id": "libretro-psp-ules-01144",
@@ -2280,7 +2280,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 99,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "13692637DAC84E106D9B301ED7AAB12AD52146F8379B47B23874F518B95D9BC1"
+      "sha256": "F83C2733B2310B7E1572D0E9E361D1B4B83075B14310D5343B493B4D73F1640A"
     },
     {
       "id": "libretro-psp-ules-01145",
@@ -2299,7 +2299,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 56,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "2359112C8AC39E4C53ADEA3E02C43050253F4DD2264740866D43CF1778416983"
+      "sha256": "722F5D821A9260DC1BE52EBFBD05DFC734BD588958A5579904A26042BD6EFDFF"
     },
     {
       "id": "libretro-psp-ules-01151",
@@ -2318,7 +2318,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 96,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "6B031A30D5A48846592762188173E7F91917F09347B243FB87EF1BD665A86F51"
+      "sha256": "BFBB6FC976A811CAD872030EF5A33AA78A32016FCB4C7E595582CE76639B52E5"
     },
     {
       "id": "libretro-psp-ules-01154",
@@ -2337,7 +2337,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 84,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "14365E9E945A1597989BD9DEBAC3EC4390D51A976A8FEB553883F23B6DA2968B"
+      "sha256": "8D5A000C8CC5C26F1EFC18031A16A8C0F578382708015656230D1BFE390EF7F7"
     },
     {
       "id": "libretro-psp-ules-01183",
@@ -2356,7 +2356,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 70,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D970D7B13D34DFA63431F1446CBE4449B8010D4C5F2B20114E7D36A722F15E41"
+      "sha256": "9ECC8341BCD26529F1636BA497CAF8ECB8A35AE72C98F33C217251F8A6DD3914"
     },
     {
       "id": "libretro-psp-ules-01187",
@@ -2375,7 +2375,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 116,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "B0E48D120F5BF7FBC4824453A8F63954F5AB27198B7A4D8EAEC38A58F76D6C32"
+      "sha256": "29CBEE1F1185691AE25772B7ACD7E2C50191D5EEDB99AFB6D404E0EA408A4916"
     },
     {
       "id": "libretro-psp-ules-01213",
@@ -2394,7 +2394,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 171,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "7DB73C7A24CA6BA734B6FE358D716325D18D12C9772FC32AC54DAD84849ED7D6"
+      "sha256": "FEDDFD8859433D1ED779C2B96B5E41E7C7ED6B7B1567F9F06EBCD2E364794762"
     },
     {
       "id": "libretro-psp-ules-01298",
@@ -2413,7 +2413,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 174,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "B2FF606DF8C2A95818FCCF11347274D58B6826084BF2D8B3F64A67EDEBE2FF38"
+      "sha256": "03948B91E6EFD8EA3C6F9B2E796F86FB52DB8D81BBB030F10D6485EABA9D2CEF"
     },
     {
       "id": "libretro-psp-ules-01322",
@@ -2432,7 +2432,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 76,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "F11E59C27C3D8F1D5A9CD56C92C9BA4F5EA1E28128D3F463A4671CB32A6C0121"
+      "sha256": "9E27C5CD6DA6CE8EAA17F6C53EE572A6FFD7819FA276CAA79658CB89B98D5BD9"
     },
     {
       "id": "libretro-psp-ules-01330",
@@ -2451,7 +2451,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 68,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D216DC4C6121A0736C4A0BF6940FD6C6A4864092032D67792A659C9AC2710026"
+      "sha256": "EEFB3BB7F42D622D9E50ABABA5F0BFBB63BF62CC558C94060EC76F17EE052DA9"
     },
     {
       "id": "libretro-psp-ules-01347",
@@ -2470,7 +2470,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 146,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "33DF0A7D8FAB996825C01177F92BD41525FF48B52519FB4ED2182BFB65AA845B"
+      "sha256": "9A37A050E433BC904876885AF2DD0CBC8F2FF65AEE89166BC916C8FD0BA6E9AD"
     },
     {
       "id": "libretro-psp-ules-01367",
@@ -2489,7 +2489,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 47,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "E1D69DF227B28AB53A0B9B93F5D6A5C1DDFB07F168E8DE452096EEB1CA788CFE"
+      "sha256": "E413EBD01114B4E6ABE1F962F02F7163A387E984B06D352E6CE7AC205F80C3D2"
     },
     {
       "id": "libretro-psp-ules-01372",
@@ -2508,7 +2508,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 101,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "48F6198FA79CA38BD774B8DC5AD76B64E3C6A4C606BD8982C9CCABAD8F1CB5A8"
+      "sha256": "7CDA6110202E5323F56246320A5382675D56166AE60B7349E9D88EA025785E5E"
     },
     {
       "id": "libretro-psp-ules-01376",
@@ -2527,7 +2527,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 106,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "BD8B4889A2BB5D44CF35A8800E3C4A353A748A5B478B8C5486A7A9C7C706A923"
+      "sha256": "C716529F0466EED6AEA0781846E0D97F457143323AAA94C72DC4315D98AD5D09"
     },
     {
       "id": "libretro-psp-ules-01392",
@@ -2546,7 +2546,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 295,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "FECD0AFF76E498221C28663E548D9534602EDF3365934DB73B1A97A31BEADDB4"
+      "sha256": "6E4289FCC8AEE1DEF40B69DA5BE0EA4BDD9237A3C4462B702CA56AF4F447740E"
     },
     {
       "id": "libretro-psp-ules-01416",
@@ -2565,7 +2565,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 239,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "0CE026006714EFF29AB0C7DA5504234B9522B4CB7D852AE5C596E6F709D6AC73"
+      "sha256": "F03D96EA1BDC652F1C6FFBFA7657DDBD95B30171DAF87C5EC9622C3CA6517523"
     },
     {
       "id": "libretro-psp-ules-01429",
@@ -2584,7 +2584,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 67,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "9CB5766FB51817C4420E09C3A26A8846DB7E8D9FD7612563AA71A404F9D8D890"
+      "sha256": "0697A55B686619E1B22562E000AA8588AD521D1D02F8B7F5470AEEBBEB4A2CA7"
     },
     {
       "id": "libretro-psp-ules-01431",
@@ -2603,7 +2603,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 82,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "F9CFA8D0DCBC16EF020F6D1A7BBDB6EACFEE11742336775C916539355689D81A"
+      "sha256": "14AE8EA5D49B0FC935E3D7CB3313BC3FA4377B85193DB0649E718101DB9F5D4B"
     },
     {
       "id": "libretro-psp-ules-01441",
@@ -2622,7 +2622,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 87,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "1B9DB56BFB27DB5613A6050E74488434A65F713261EE577C1F43A33A14FC8F9D"
+      "sha256": "C5991DEA0F2F35CB747AD35C18FC499BC48993E22566DA7965BDAFB03A1EB70D"
     },
     {
       "id": "libretro-psp-ules-01472",
@@ -2641,7 +2641,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 80,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "6A7BCB0FF16C0A73CA83BD4DBF66C9B5CF14CC53561C9166EADD63374C4FA0E4"
+      "sha256": "6F42F2C11BCB83C4D57EAA0C5FE136489011EB3EC1FFEC305A7B76F345249CE9"
     },
     {
       "id": "libretro-psp-ules-01489",
@@ -2660,7 +2660,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 85,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "CD221C75F18CF7BDE27B51FCD4900D7977DE2843AC21C94C373931D4B1A8C439"
+      "sha256": "6C521D34DEF76AD98852B27641C9EEE19B01F53D682144B3CB713D9AA82EC203"
     },
     {
       "id": "libretro-psp-ules-01500",
@@ -2679,7 +2679,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 136,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "17D17EE04C1381D9DBAE4129AD0384B229F510DE42F8D4B6EB4994FA42740755"
+      "sha256": "84743FB088438B7CB1AF8F341A8B8DB2876BF81369E627EA30A81E5FD8478732"
     },
     {
       "id": "libretro-psp-ules-01507",
@@ -2698,7 +2698,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 213,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "09112D840700AB26B37B6D17BEAFC60779409C1A9F48CC2C0CCB39CD30C35AA7"
+      "sha256": "E90BD5B798769C91B01914D29F071099B6220DEE955869F4270887B13FA18DF9"
     },
     {
       "id": "libretro-psp-ules-01523",
@@ -2717,7 +2717,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 271,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "3D3EB0942B212FF7BC5BDE63E31BCC60106E703A6AE342C8C6628FCB831F9242"
+      "sha256": "B6D8876C4CD7816260FA796475AEDAEA8E749FF3BE5B986D836DF0065DB785FC"
     },
     {
       "id": "libretro-psp-ules-01537",
@@ -2736,7 +2736,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 78,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "B412C243A7E32EDCD5400E05E03DDDF6DCE344F7D9319C03E26635D704A2F348"
+      "sha256": "72FC684276021FB260C5DE63486C492AC298FF13359B29C40965DC146A3D0DB0"
     },
     {
       "id": "libretro-psp-uljm-05101",
@@ -2755,7 +2755,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 232,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "3A845822B99D15E12BC85249246ACE060BF2FAB088A25C8968953E64A8CCEC71"
+      "sha256": "101C45213DD401AE88A46D541D537B19C38E1945B717EBD913A7B56E26DB1BE0"
     },
     {
       "id": "libretro-psp-uljm-05127",
@@ -2774,7 +2774,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 67,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "747636630B0B089D099072E7FB632FD438C36F45BDC78D42E53373344C16F502"
+      "sha256": "80E91B4C2674E0F270ECA9294610FE04E798DA3F423211211D68942CE91DF4BE"
     },
     {
       "id": "libretro-psp-uljm-05241",
@@ -2793,7 +2793,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 67,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "65CF18ABD6CE2D9FC59BCFC2AD0DA8760E824B0CF78FE23465A7424BAB07653A"
+      "sha256": "E45418A7638354A8672689E47F716DCFF3804FE75B13FA80B39C5C9CE4B93A0A"
     },
     {
       "id": "libretro-psp-uljm-05255",
@@ -2812,7 +2812,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 221,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "CC11E691736A5BCE1AFD1850762C848488EC0D31EB80CAC390BEC8B0F22D5AB8"
+      "sha256": "D4F09C78B1072CF2469514BF530770DABF8FDCF327D52050FE04A745CAC5003A"
     },
     {
       "id": "libretro-psp-uljm-05261",
@@ -2831,7 +2831,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 80,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "6F159B2A4FA623C650A8B5C3664948BB1135DC3CE7FB5E770CB076E18A44A2AD"
+      "sha256": "29ED08590947A282A504F9C74FCD7B9B1E93AAFFE3924F65F89202F800009693"
     },
     {
       "id": "libretro-psp-uljm-05262",
@@ -2850,7 +2850,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 125,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "31B1330229F5639784A115D5721EEF7FB90171841BD05F004F37F213E4AD29E6"
+      "sha256": "FE10F6CB5EDCB9A148EF1366F08263BBBAAA789507F1C72984A121D70740C8E2"
     },
     {
       "id": "libretro-psp-uljm-05297",
@@ -2869,7 +2869,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 229,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "F02F94AAC8A6EA4C3A820A6B5E2457D3AB5811F763DEC4B48E45779C2998A4C2"
+      "sha256": "C6850613BC5C05A66DDB365D98993F232B40C22B700A89C8925B3533C62CA251"
     },
     {
       "id": "libretro-psp-uljm-05299",
@@ -2888,7 +2888,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 103,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "A613F6B76BBB4E5CC735AE9C1FC0FB2A7DBBB618A45B328A3B2125CFF7DF802A"
+      "sha256": "6DEE33AD63459984A2E763106EE46E990AF322FD6A4A29EA1E44D5B93945DF50"
     },
     {
       "id": "libretro-psp-uljm-05300",
@@ -2907,7 +2907,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 64,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "1CE05CA3032F0E56F6A0E038B27535757AA15D17E3F6AB85F02C912FF678EEDE"
+      "sha256": "360AF9ED540B04D09DEDB1765AAF6A01AF675EA42FA537810779697AEF68100B"
     },
     {
       "id": "libretro-psp-uljm-05309",
@@ -2926,7 +2926,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 113,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C391466566D37D11B028322C3343FC763F03788D54C47605FCBF77D54B1C12C5"
+      "sha256": "6DE2F62031FD9A0E6ABCD1B4BCDB09F1208524ACE539CE3BD725C6E8DCA79EEB"
     },
     {
       "id": "libretro-psp-uljm-05321",
@@ -2945,7 +2945,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 63,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C829D3B589C53F800793870CD95B2F219C1AB5BAEB55600089AA952602B5BF97"
+      "sha256": "ED44C0BF70BC9FE377181AFDD03FD1B8411F8031150688B12032D105ED892591"
     },
     {
       "id": "libretro-psp-uljm-05341",
@@ -2964,7 +2964,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 39,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "05E64979A2F0B39E6827C0A29FFBD352521ECA407B312F7B4BDADF53D3D80C71"
+      "sha256": "FDF62D9C200E76CD84C6D1AC633A975E19C64361E2D507E6C8164CD713147E37"
     },
     {
       "id": "libretro-psp-uljm-05353",
@@ -2983,7 +2983,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 148,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "32B884F9AE7C43631AC4A7DF24CF41A7111FF8033A2A145554E8B1B201BB9DEE"
+      "sha256": "C8ADEFA18F8B145543C7159B093C75B3AEE7118A1069FBAD0B238EAB97F2614D"
     },
     {
       "id": "libretro-psp-uljm-05402",
@@ -3002,7 +3002,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 154,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D50201324BB31E3A3921306E171E3F8001F1FC7F13DF7B671210AC9F04C580F8"
+      "sha256": "37FBED05A1E7E058E49033E2FD5279F42EB764CE6D33590AF7ABEF21EE67226F"
     },
     {
       "id": "libretro-psp-uljm-05410",
@@ -3021,7 +3021,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 131,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "6A4B69A58CA55FC42EA7B320FDEB8AA99A9C5F78A2518F3EEC1C8C8B61FF2050"
+      "sha256": "A664EB6B7E089BC5A404BB0BF1CBFBC7D40D928112E3C5A44BF8C68A5015AC7A"
     },
     {
       "id": "libretro-psp-uljm-05427",
@@ -3040,7 +3040,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 99,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D3A2C138D08DC5816FAEAF4E5CF4902344EFBBA2E8C2AFDA02D686A6E7618816"
+      "sha256": "18C6E7200D2274162CED781BA40660975EC9BFE43AD041C9BFCCF13ED4882BA6"
     },
     {
       "id": "libretro-psp-uljm-05440",
@@ -3059,7 +3059,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 67,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "021441644B23A891254AAEDD8DFECB3FE208A766C4D637699A4652DB505B5726"
+      "sha256": "3E312310019F24D29CE48F2F7A45B716094916CCB1AB26D5BE2710FA5E6E7096"
     },
     {
       "id": "libretro-psp-uljm-05472",
@@ -3078,7 +3078,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 61,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "9C576ECA36A36A54BCC5F114D6E4C10618FA47191A3F10FA70B15FA8783E46EC"
+      "sha256": "8A46F0FE16569805368CA22772B3DE50E0A8268D7E0F09B5FB38BA29175376C4"
     },
     {
       "id": "libretro-psp-uljm-05490",
@@ -3097,7 +3097,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 128,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "0EFFC45DEDED63C5BF2D8B1C09EA97B6E8E954543CDC436ACE4DFC707095260F"
+      "sha256": "835EB9E3F631E2E6F1E8D2AA10FB3D9023D6FE2FF5DBEEEB962880F86040F747"
     },
     {
       "id": "libretro-psp-uljm-05492",
@@ -3116,7 +3116,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 68,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C9B1E9564CF245AE67F4DCB68C1C300B2464DABD5CE30CBAC07C77F965B894F1"
+      "sha256": "84F4C735C22C70D3CB09456BCD318D560AE15B7B8595FE86ABA895922F269AAB"
     },
     {
       "id": "libretro-psp-uljm-05493",
@@ -3135,7 +3135,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 100,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "4ACBED3EF58082543C39C3CCCC80C7DB9C9920B8C05B6FAD90B865047AC54EF9"
+      "sha256": "96D6B3D249E218389F0B1A524B9566A29C4FD7231CF528DC4025DA0B2FA8EA4E"
     },
     {
       "id": "libretro-psp-uljm-05500",
@@ -3154,7 +3154,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 306,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "434CFD72E1A743C99E5369B28412B2AB436D62CDB6D160E9831CA6BA76D6F763"
+      "sha256": "39FD92D5989E05B1CCF16DC1E53CDB4B8B56AFA7BFE7666C6BE0EB7BDE7CCFAA"
     },
     {
       "id": "libretro-psp-uljm-05505",
@@ -3173,7 +3173,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 129,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D3060A8FE0455B5CFAAC1E0898C0E8AC61C2EC3717FB24C43ED1E0B2B59623E2"
+      "sha256": "E13EA707FAF515DBC4F648979D1B659FDF336775E6800AC21DDE5371A9D9B876"
     },
     {
       "id": "libretro-psp-uljm-05524",
@@ -3192,7 +3192,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 70,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "F9F294D1F14546BBE20314BC3A4BBC10D166A7F670BB021E706352959369664A"
+      "sha256": "235D636E3AF7CA1A1CB7267C414642D65357CF6C8712F1138F56D0F11661C23B"
     },
     {
       "id": "libretro-psp-uljm-05552",
@@ -3211,7 +3211,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 49,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "F2BF360D63E6612AD316C0C13C998A98D18A4DBE93550EDD28EBBD8DAFAEF24F"
+      "sha256": "D401A4F09953C2B8E535BCFC5DEB9ACBA2110E3457191589DD6D6A3B3836BEEA"
     },
     {
       "id": "libretro-psp-uljm-05600",
@@ -3230,7 +3230,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 307,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "616F158DF5AA6A392524F94789AE432A6C34BCC6D5BB2A834D0B3C3951B47F6C"
+      "sha256": "A3DD37906AB974E5F0A0981FB404EFA342C01791130546342D81AC76EECDF4BD"
     },
     {
       "id": "libretro-psp-uljm-05604",
@@ -3249,7 +3249,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 153,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D107F20CD9DF95A109FFA42DDD56282C212BB1A58F26B1B38802997D20D3CCA9"
+      "sha256": "3C7724336596F1413FA201A93EFC8C0787ED4497EB25ECE82B0DF1AF82CBD2A3"
     },
     {
       "id": "libretro-psp-uljm-05611",
@@ -3268,7 +3268,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 71,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "0841E95D0B778BAC2DDC0AA1A7EC358A932E2D17463676FE3831DD99FB25DA2B"
+      "sha256": "41341D1CE8C9D7E1B1E71602B247228892D2F98DA98129DC98C6558610E48799"
     },
     {
       "id": "libretro-psp-uljm-05637",
@@ -3287,7 +3287,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 200,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "0751D89ED846B8A732EE49EB6D0879D0F876FDF757504E37B48EC29143DF8DF7"
+      "sha256": "8CDBD79CE42CCFBC1BACD8756F77D2E9FCD8D75D8C4FC545B9ED6A8EAD937598"
     },
     {
       "id": "libretro-psp-uljm-05676",
@@ -3306,7 +3306,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 62,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "E96EBB1A8E10BB6E65631CF264FADD09EF2582AA79CB434886A647BEB7345616"
+      "sha256": "C83EE03402BFB940BD8D586F804A1D90BBA90156DCDC55098CCBBEBE2ADDEA37"
     },
     {
       "id": "libretro-psp-uljm-05753",
@@ -3325,7 +3325,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 112,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "8D788723B932BFA8BE6C244285CC3C8E9F461A0BBFBEF9F2C52BB077C22E242B"
+      "sha256": "BAD3FD96E3013348AE38E0ACC33CD58327E41FA45368FFE91DBC8AA5EDFD96D4"
     },
     {
       "id": "libretro-psp-uljm-05775",
@@ -3344,7 +3344,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 114,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "857BCE2C5EE44A92B9D5EFF56E2633E9732CC87D81E89BD2FC8DAABA2E940893"
+      "sha256": "CBE3A106D4B1FAE62F74C639B3604D92B106BA9FEB84EE79C0970B5347D8D20B"
     },
     {
       "id": "libretro-psp-uljm-05781",
@@ -3363,7 +3363,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 85,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "0527F85DC6E8346E569BC94D716EAF8FC2CC52454972DCF55A9FCD3D3C6157C3"
+      "sha256": "9B050019907E8A12A177DCF97155D786AAE508B3E8AD1860AA82A0B298473AA1"
     },
     {
       "id": "libretro-psp-uljm-05800",
@@ -3382,7 +3382,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 347,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "7CCF8FC304FF20275B2E7B2A2B1B30A8D7299D35CA698AC919340C764C331508"
+      "sha256": "F3936F0FEF134EB328D2507A9CBF1BE6EAA2F145B552A5ED279BA080615E9CE0"
     },
     {
       "id": "libretro-psp-uljm-05814",
@@ -3401,7 +3401,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 154,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "973D2117416CD10473B3E167F280C9AC4F7B860B54A8B023A228A31734008B53"
+      "sha256": "F27666A3596431A0418A39DC729D8C82398026F9EF5F85C749D8F21933436040"
     },
     {
       "id": "libretro-psp-uljm-05844",
@@ -3420,7 +3420,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 27,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "1B937431795D8A5A028DE0A42DF2E7B0206BA3DBF75F4F36C961EB2A73E6F579"
+      "sha256": "F618821B049A305B12D32BADA0C67DAF6B30A63491BA5026CE7C1766EE105395"
     },
     {
       "id": "libretro-psp-uljm-05940",
@@ -3439,7 +3439,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 60,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "7508A809C262BB6177466F5312C6EF42963A00FBD87C0E3ECDAD048612B581D6"
+      "sha256": "D0B0BB284840E0B93C769CD5A13E3DC4E22FCE613C26F21255C4D4DA1DD60B66"
     },
     {
       "id": "libretro-psp-uljm-05976",
@@ -3458,7 +3458,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 149,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "BD7E2BA9C9240A49A068F8D1929A6721D525731D95897373BA2182C2CD3B8F48"
+      "sha256": "DAF39DC6DE0C9324768D142C969D8AA118E0A3B4CC061F12F518E967BA390289"
     },
     {
       "id": "libretro-psp-uljm-06081",
@@ -3477,7 +3477,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 69,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "3B89ADF1DD107EEF9656F129E43B7DE7E1BC37783327D7A5EA158921F721AD38"
+      "sha256": "43AA93158483123036A780975C04BFACE35B231D530BED820FBB3245A30F46D2"
     },
     {
       "id": "libretro-psp-uljs-00048",
@@ -3496,7 +3496,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 198,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "E87F14A08F262504FC4D2087E2177ACFD1D7FB67D0D671DA82D5CADEBB535B91"
+      "sha256": "CA9F1D2B5AB14C974366C23BC97E69DB644B615A9E60307BDEB9C0FD79462C65"
     },
     {
       "id": "libretro-psp-uljs-00097",
@@ -3515,7 +3515,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 81,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "4259AB9B4570460A371462C04BB6F3C4FF8C7C260F76AA345D53364812A5A268"
+      "sha256": "5A625A3B197C2FDE97B3BCF5902853BD5E8DB4563C84AADAD9FEC3A7C92BE8E0"
     },
     {
       "id": "libretro-psp-uljs-00167",
@@ -3534,7 +3534,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 79,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "586D0BCA90CED2DD738537523E377FDAE06160DEC8E851B2A46D6D5DD4B1EA18"
+      "sha256": "81929E4A39AF703361161684C1859AEF3A2E1084B3A3B14FD973ED5AEFF4C86D"
     },
     {
       "id": "libretro-psp-uljs-00168",
@@ -3553,7 +3553,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 62,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "18469DE9078B103573660CC03EF61AF1A4A85566EBEF2248ABDB4E1E558EA47A"
+      "sha256": "F085458371450ACAF6DC74FFC160CDD1C890CAAAF3AE0296BBBA6DC0CD3E9666"
     },
     {
       "id": "libretro-psp-uljs-00169",
@@ -3572,7 +3572,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 61,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "215E26942549050BCE3B63F195AF88B1571D33E235961DA920989EABBD3031A5"
+      "sha256": "95066D63D1CFC0D46B5BF023323E794A424A80CA8F0CA1E943559E186ED50502"
     },
     {
       "id": "libretro-psp-uljs-00175",
@@ -3591,7 +3591,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 77,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "314B5956A78376C3904269C41B25F77130F5F284BF41C4A2A8AB028EC4887207"
+      "sha256": "5F3C9E99817CB77DA142555B75587C03C92F17A1967A2FA859B3A0B23FD6E3DF"
     },
     {
       "id": "libretro-psp-uljs-00178",
@@ -3610,7 +3610,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 88,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "EA8D87B17A97CAB3E2F8A3234C4CD7B4DFB934A99D094C482119F3EBB2F8D649"
+      "sha256": "D728CDFA9123A5541EB0D8D846EF27E9604D3A50AE4AF22878D486490361C3EE"
     },
     {
       "id": "libretro-psp-uljs-00183",
@@ -3629,7 +3629,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 123,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "98FBB3F62E0490208455D1C1350B2FE69BC7CAB1F52F358951F92F2B9FC7EC3A"
+      "sha256": "FE24FDED2B10E3C7611FA43CC07CD58DFB6B3C623548B8407E56AE04F178BA1A"
     },
     {
       "id": "libretro-psp-uljs-00188",
@@ -3648,7 +3648,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 67,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D735244F028E6AEB3A89A33969B2E4F3417396E5F759A757A2CD95310A38758A"
+      "sha256": "A64AF97B44D2DAA19D372A12ACE4ED24A85DD43F5F3E668930785C11650F866A"
     },
     {
       "id": "libretro-psp-uljs-00190",
@@ -3667,7 +3667,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 63,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "2BBB3AE49597FD59A4BDEAFEE77CD549F4AC7F9BA420FA144B765F82B6E38D39"
+      "sha256": "F93C24B45E802FF0A14476E8402FE90B8B6139D562B7CC8A96C7D6E4DF8A9F73"
     },
     {
       "id": "libretro-psp-uljs-00202",
@@ -3686,7 +3686,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 144,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "44C596B1283F67C20490BDBAFF987846503BE474C8CA2AB6B794E36D76ED7777"
+      "sha256": "014B455A80F87D73AF0D580793447627F98AE2732667E31870EA5A1FB8CBCB25"
     },
     {
       "id": "libretro-psp-uljs-00237",
@@ -3705,7 +3705,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 96,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "04DAB063BC794D1E9F67CDA1651B12A5ECCE60DEE4B16E8CAC0AA3B0EE8F2921"
+      "sha256": "D10B952EA10D015B46A03153B9FF26EB96D55A7EC086B99BFD40819078E2FD93"
     },
     {
       "id": "libretro-psp-uljs-00293",
@@ -3724,7 +3724,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 99,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "410BE4554D9902405C15EEC0CFAF06FFA6DDB97ECF9FD89DAFFBAC05B69C4CD8"
+      "sha256": "7EA50657767FBA33F174CDDCD383BBAEE28E8F51CCAE5458D98AB0332876C131"
     },
     {
       "id": "libretro-psp-uljs-00363",
@@ -3743,7 +3743,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 95,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C292BF3562FE0CE5EBCD793B118734C812E4648A68CA52AD977B1318640DDE5F"
+      "sha256": "1B43C2E214177EE82C67391F697876C82873B13013D07B751D6982D9D2B37E41"
     },
     {
       "id": "libretro-psp-uljs-00377",
@@ -3762,7 +3762,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 77,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "736A8E34494A55D2480BCEEEE744078A94A5780AB158CB1D271F22B7CC2AB8CD"
+      "sha256": "2A3407926CF06021AD78BB1289EA246550FC36290A075E308A0FB358A9B02F76"
     },
     {
       "id": "libretro-psp-uljs-00460",
@@ -3781,7 +3781,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 86,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "FF92550B0564F3E31659A2812F5875A55934A2737880F7FC43E040256338D68A"
+      "sha256": "8DC6DB541F563451D086E46D5CD2A2D7A10E19293DD49C88E1911FB6AA35FDCD"
     },
     {
       "id": "libretro-psp-ulus-10041",
@@ -3800,7 +3800,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 408,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "40DB98D78A059036424505DC99DE94E4A65845E050B84A122D205227A102BB25"
+      "sha256": "FB59E801569D0D1AB351CB90CFF438A49DBF2B5C5354EB407421A8E3E7139D08"
     },
     {
       "id": "libretro-psp-ulus-10045",
@@ -3819,7 +3819,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 69,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "16337B20B54F705AC93CA038CA3793EC6F06026BFD6CF1C8CB1860787E19DEBE"
+      "sha256": "4B6C3C3F45EF32E2F78DA86BF72DB5FAE98287C56C6CD1AAAA5DD503B58B015D"
     },
     {
       "id": "libretro-psp-ulus-10059",
@@ -3838,7 +3838,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 125,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "298E3E07F15BD963E2FFAEEE0B3B1A0D03047DAA3A23A5665C311D389EB2B27B"
+      "sha256": "F56A6FD8E79F9FD780C7DC7122535D6DD5B752AD90257F7180FFCD2211F030C8"
     },
     {
       "id": "libretro-psp-ulus-10068",
@@ -3857,7 +3857,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 83,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "121F8D49BFF244F182BE98C63AE539FD974E92FCE6ED0F971D6878A345781CD6"
+      "sha256": "C7648924DE07829E447CE0FE190B616F2EA56142D9A9EE3C758D3609C9138E17"
     },
     {
       "id": "libretro-psp-ulus-10084",
@@ -3876,7 +3876,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 346,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "BAE2C3659E3AB4203D548AD945B33ED01D20CF3F9BF54D65145DD1250B80E00E"
+      "sha256": "E98F9D34EEAB134D27C62C8D8A1F93019A7C681E90BC4FE5D8B9408D6042B890"
     },
     {
       "id": "libretro-psp-ulus-10086",
@@ -3895,7 +3895,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 89,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "A2ADFF5DE02EC3FB76DE0E55422C702B8E52586CED519A5790FBFA7E7C6D47E2"
+      "sha256": "FBC91DA87EF6F296D5D49167F887824252FC7A62E933A10C143F7C3372B66E3B"
     },
     {
       "id": "libretro-psp-ulus-10087",
@@ -3914,7 +3914,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 97,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "9AD30E5BB91D444E19711FB40F8DD57492F0A05F8CD5BE2AD9948CC08686647C"
+      "sha256": "96F088CEB46A261B628B5D3773B930557C1ECB3CA12BCBD481DB2B9D6A17ADAE"
     },
     {
       "id": "libretro-psp-ulus-10089",
@@ -3933,7 +3933,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 79,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "B97ACFB9974E8A8FED25171510887A8F3922BDB9B28581BC121918BC4C264285"
+      "sha256": "6CDBAE5A14720BEF73824192FCD66EFA73E337AA250A3D9936BFF0D42CED22C2"
     },
     {
       "id": "libretro-psp-ulus-10097",
@@ -3952,7 +3952,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 110,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C4024158D446939B4D32624DE1485B0101924E067C6C207443807E9D842BA90D"
+      "sha256": "1E5BCFBC501E584D6046178924487134EC78970E6075D0D8C830463AD5DDBC5B"
     },
     {
       "id": "libretro-psp-ulus-10107",
@@ -3971,7 +3971,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 225,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "E4B9B3E7668700A06DFC56933B583FC841F6BE5731403DD02D4891D07B5F00AE"
+      "sha256": "2DDC767E7270183FA3855DD6AC164E9B2055F8512F32677677997DF523E103F6"
     },
     {
       "id": "libretro-psp-ulus-10134",
@@ -3990,7 +3990,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 101,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "4A2B94E1B318257E33A79F5F35AD2C856C430772832C58DDC72BF47E7A671B15"
+      "sha256": "28271DD6646C583F27B3B49D1677EF592472253E18002401900D52CEB9BC4B8B"
     },
     {
       "id": "libretro-psp-ulus-10139",
@@ -4009,7 +4009,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 101,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "B04A18BDA75A8D53E9F5DE88A50EDD12D395CB9319AE7413C576DFB9862625D2"
+      "sha256": "5C78F9882B91DF0B5E6234311A22C991CE94C4F07BDFB2F808D537CD29D76140"
     },
     {
       "id": "libretro-psp-ulus-10141",
@@ -4028,7 +4028,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 119,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "A7F47348AAA8BC7DE1E63C80A035BB13E2E4036F7972823D0F546D862E499B87"
+      "sha256": "61098F9BBEA7FFB059A89C141CC9E59634AF7A76310278C67F3CFF3E7324E7F3"
     },
     {
       "id": "libretro-psp-ulus-10142",
@@ -4047,7 +4047,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 133,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "FDD5A13EACF335381531B0F0479EAF55E8D897C3F94A26539CA0E2BC4A1E2A1D"
+      "sha256": "042FA5787A7FE576CD6F4DAEA28FEDDF86F1865141BC3743C09069AEE9CD9376"
     },
     {
       "id": "libretro-psp-ulus-10160",
@@ -4066,7 +4066,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 247,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "86A44034FABFB4B15385034DC134A672C9DEF93107032C5C5E9E75BECD0CB14D"
+      "sha256": "E636BF881409FA1D63FEF65716C3E1B577E8EED34AC18D5F4ED362CA7135C6CC"
     },
     {
       "id": "libretro-psp-ulus-10176",
@@ -4085,7 +4085,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 62,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "E879EC6A0BA386AB6BBFFCDB7683CAA3C89E61A5A7602A62DA797C55319CD2AA"
+      "sha256": "E48A9E60316CB73DFB73E7E31613F131675F4CF882CDB01B783EF671FA9F4D7E"
     },
     {
       "id": "libretro-psp-ulus-10200",
@@ -4104,7 +4104,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 21,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "5F6D65EC31B11FA76A2F8859BAE9768574969EC4092CD863EFA155E0136CAD60"
+      "sha256": "3E7D96F48B8482F10CDCC136F7DDDA6568E50A086AF87A0FF271E004D64F6290"
     },
     {
       "id": "libretro-psp-ulus-10202",
@@ -4123,7 +4123,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 247,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "253F53794D3150CA8541721EA053DEC06FBB75464F248F137EB8AE867BADF8B6"
+      "sha256": "B91C340B2710B77579D7C048F99FDE0691949CFD43D4BAE3362D7F2AC7C57CA6"
     },
     {
       "id": "libretro-psp-ulus-10211",
@@ -4142,7 +4142,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 106,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "41599940B28E5ADF5274656C084439E0E523EC9F7A8242BB95357EB2AF618525"
+      "sha256": "B792A8C4C8D11446C3B9263760DA21D4796FE4207D94A532A19223B01381F820"
     },
     {
       "id": "libretro-psp-ulus-10218",
@@ -4161,7 +4161,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 64,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "1419E752B745254C9AC2B2EA824AEAF770E1705FC2C2CCF8D442BD04602282A0"
+      "sha256": "0D8088FDA607B1FAD32E25E27F1AE7E14C82F9D99BBE96F930568E38F336CDF1"
     },
     {
       "id": "libretro-psp-ulus-10219",
@@ -4180,7 +4180,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 46,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "7784D2D8CFA7163D935BE3ABD11BA7883D87FE70A039EEB10E122E0884FA9C25"
+      "sha256": "EED9A162E1E7E7F26E5E3118FE358D99E4A23ECE0A59984CEC4BA5FA428BD21F"
     },
     {
       "id": "libretro-psp-ulus-10251",
@@ -4199,7 +4199,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 141,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "BE67A4575ABC53D16BF1068297A3BE05E69BB7ED6EC763930945BB9989C1BD5F"
+      "sha256": "67F01AE75CC0BB9920FC5CFBCD58400BB55E43C62F302F53C25DF3CA6A96A604"
     },
     {
       "id": "libretro-psp-ulus-10263",
@@ -4218,7 +4218,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 134,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "A8B3A4DBD1BEF11A411897DD64C89B03CAC5976B650650F19518C4949CF7DD42"
+      "sha256": "59060D0B7682CD7A8114A1F66431BC56792E7D8FB673C1EE95DE978252B1DB88"
     },
     {
       "id": "libretro-psp-ulus-10266",
@@ -4237,7 +4237,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 122,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "65960EDA847520114484C43FB104DD1D06CFDC89388DC277DF1129175079EE5E"
+      "sha256": "9F249DFCC0EC333FA2469548B4E92A469DFBF942B5E6F6C2AB080533F0E135BD"
     },
     {
       "id": "libretro-psp-ulus-10271",
@@ -4256,7 +4256,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 89,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "A91F5EFD9EFD495DC3E0B113902E0C862D3C293F9C87CCAB475CF23741317D2F"
+      "sha256": "DB21EAFA303FB93F18B1070DFBE5F55DE695375F9CEB58FA536B5BEB463B8309"
     },
     {
       "id": "libretro-psp-ulus-10277",
@@ -4275,7 +4275,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 72,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "469D8953AD46191B7C4E8E94DAB2DFB21407BAAC9134E545D84B7329202951EF"
+      "sha256": "D63017F801F24AE250DDA30FE4C469460A285CBD87A026AE58EC24791685139A"
     },
     {
       "id": "libretro-psp-ulus-10282",
@@ -4294,7 +4294,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 93,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "CA7E844D0E04E3DA85192F242715CE94A77D29E3393E072EED31C949EA24690C"
+      "sha256": "A15E4FD0023FD55B88F10B764C3D81E557589092C5D0BDC09736D8343FCED7D1"
     },
     {
       "id": "libretro-psp-ulus-10289",
@@ -4313,7 +4313,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 76,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "43402AF7FD5019050927FA1C66D91D8D324536DB8F45A4D31BC458C4F342DF78"
+      "sha256": "B1DB4533A00B904155A537D5CCAE8D0BD14C9EEFC2C8EACF0D931190AD4DF59A"
     },
     {
       "id": "libretro-psp-ulus-10290",
@@ -4332,7 +4332,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 107,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "07330992FAA4E1487D227077C4704BCBB11FE232C52B83B426018E785E8CEFA6"
+      "sha256": "3CF46C6031A935DD6A8CB4FFE44807FA03581C58C6E9FA9A81048EB72F02BF52"
     },
     {
       "id": "libretro-psp-ulus-10292",
@@ -4351,7 +4351,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 96,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "36DCE55A4F21A72300B355A32BCF14EE28D60F7BD7B2097A97886849577227B8"
+      "sha256": "114AFD05F86413AC25CA54C3D3A030DFD10CF78BFBF99BD855BFBB8251095019"
     },
     {
       "id": "libretro-psp-ulus-10297",
@@ -4370,7 +4370,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 187,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "83BEC394A4A620B54A63488A8259CEB5D2F051FA55BCFF6031E6BC30E2F09554"
+      "sha256": "AA30E782A694583AC2988F3DC6B323FD2864D44D7455BE3F1580043D6149A244"
     },
     {
       "id": "libretro-psp-ulus-10308",
@@ -4389,7 +4389,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 183,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "6A853BD45977628EE45991A775611A33AE6996E90E0E6AF87ED1BD44082EF47D"
+      "sha256": "05B2434A47D7C2C0A4CCB0F35B0E5724D93AD730A80342170301D2ABCDDA9F7C"
     },
     {
       "id": "libretro-psp-ulus-10310",
@@ -4408,7 +4408,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 165,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D9C20B79CEB160EBB0603B997B8958ACA3D14A8702FF38C5FB7705146D7FE3AB"
+      "sha256": "0765093EAFCDA35E76AE1E7623FFCD4E0D0E6A62BA2F81AFDF28D74B0752A20C"
     },
     {
       "id": "libretro-psp-ulus-10323",
@@ -4427,7 +4427,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 85,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "3D0C9109BA9F844D9C5F9EDAB4252C49DC4F8DC2D0AF17347F2762DBF2751DA5"
+      "sha256": "9C9BCD44C635391D2A5AD12B1467A2052699E26702B1B8B7FE45F55CE77FF370"
     },
     {
       "id": "libretro-psp-ulus-10336",
@@ -4446,7 +4446,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 178,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "473784DA76DDC5C81722CAA5395590981996F682619C1A8D7E036EA42314588E"
+      "sha256": "87180E7F03259342B0B58FB479EE9E204CC238B04CA6CE8F88BC549FF36DE34F"
     },
     {
       "id": "libretro-psp-ulus-10339",
@@ -4465,7 +4465,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 64,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D914FFFD0A3133F3FF5751BCD6A15D1BC9C9A68D970DBBBCF9ED8A915A2EBA93"
+      "sha256": "09C42F4C15ACFA23F40598746DD63CCBAF94389C0F397876CAF6C6243D3D3022"
     },
     {
       "id": "libretro-psp-ulus-10340",
@@ -4484,7 +4484,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 65,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "A570B05E7F69FFD55BBB9B950E8DD8E4680FD689EC0ED7FE61474E7310AD9251"
+      "sha256": "E4B08CBE9AF87FFD4898E85ECED955287F21A67945C2F2C7A800AD5F52C54BAA"
     },
     {
       "id": "libretro-psp-ulus-10345",
@@ -4503,7 +4503,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 87,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "7FDF8209462E4D9B4AF4DEC2FE559F890A555A44FDF4E3576A806F41E3E5D7E9"
+      "sha256": "4F4A2620E078D556BE30C0DB1ED86C9BBBBA1A0ED25C67E5FD5B8A8E60FD1DCD"
     },
     {
       "id": "libretro-psp-ulus-10368",
@@ -4522,7 +4522,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 121,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "EA5D763B388718039EA1001310EC34A6582489EC317F0E5786900702AA6A39FD"
+      "sha256": "02A75A6AF13282405170F204BAC43DBE043EB41227DBF116C67DD26EA040AF0E"
     },
     {
       "id": "libretro-psp-ulus-10374",
@@ -4541,7 +4541,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 133,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "83B5C0E205D6377D15B2409E8FD5F6A60C59BCE6FAB1D65AE1678E1314EA96B2"
+      "sha256": "2CF61DE0587FADEBD05321760742A1F61414217A925101DDF003415D9547044C"
     },
     {
       "id": "libretro-psp-ulus-10375",
@@ -4560,7 +4560,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 146,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "2445E1BFAC3D9692D17CE3F5E71C39F58CE1BFF3C271F0E582DFA6A0330685AF"
+      "sha256": "965B43DDEE35AC67C441A03E2BCEA74533B19DA9F0C791C829F9EF9D388BA152"
     },
     {
       "id": "libretro-psp-ulus-10380",
@@ -4579,7 +4579,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 127,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "1FDA1AB71570D780A7AE33CE0BC63B3BBD8A7C9E82F613576751708FDA5D7540"
+      "sha256": "9B8B2265EA3A22B0E657F9AE898378137214F80A60ED540F863B0977A1EA5137"
     },
     {
       "id": "libretro-psp-ulus-10383",
@@ -4598,7 +4598,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 70,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D675B1FB4740173ED2964AC7079FA811A38DDAE6000F57E39FB298B18998E117"
+      "sha256": "E7F4E691C2607283901546D004B46BF7C61B5CAACE449392CF3726B85D92AD7D"
     },
     {
       "id": "libretro-psp-ulus-10390",
@@ -4617,7 +4617,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 230,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "73512EF78D3756915DAFCAC673D6999F9882A41E2012E432E90B6B7C9CBFD2DE"
+      "sha256": "C85228EBB94F453DB8107EC76D9473BD4F5ACBD63445BCAE10375F5B46A2BC5B"
     },
     {
       "id": "libretro-psp-ulus-10391",
@@ -4636,7 +4636,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 210,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "82D58931852ADBDBC807CFD1E01CE92A19263DA46627533E02669B8C098DF8AA"
+      "sha256": "8AB4151BAA5B3E14A6C06F557E5C012BC4714BBA32AABB54243E6C73ED6B1537"
     },
     {
       "id": "libretro-psp-ulus-10400",
@@ -4655,7 +4655,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 66,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "F5FBB05CB8E525F57D790302C76486AB668C9DC0F1F5CCA95375D3C0AB6B2188"
+      "sha256": "FA323AA0BDE4DE908B347A3A37C31B821755C6255118D5E8E6F1BC574C4DE79C"
     },
     {
       "id": "libretro-psp-ulus-10409",
@@ -4674,7 +4674,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 73,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "D08C8F098EA483573ADADFDB36B909057AA9D7E01C82C2EBF72BC710B916B55E"
+      "sha256": "65A7022D3A6DEB7734BC1BE031735E2AD67D0FB792A70D6A1694458A7EB5E29E"
     },
     {
       "id": "libretro-psp-ulus-10410",
@@ -4693,7 +4693,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 514,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "8AD34371396D425306BF5381FB55F64650140BE3BD9BDEDC158CBF0C0CC5019F"
+      "sha256": "48C125D334387AB330222009904AA1E7E0BCF65D1CFF6000B82280D5701A9025"
     },
     {
       "id": "libretro-psp-ulus-10416",
@@ -4712,7 +4712,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 94,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C39ABDB96C74950823C6053650BC1B9A38D506D0F5563507298E417B982D8447"
+      "sha256": "2F09CE8C7A883BB8EDF6373E844699FB727B164C09908479F86CA572AE6C41BC"
     },
     {
       "id": "libretro-psp-ulus-10432",
@@ -4731,7 +4731,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 119,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "FDE206099486051C3EF4A22E56D08AB97C09DAD5B612AC7A8DEF58FF03ACF31A"
+      "sha256": "0B336E7948FBF3045CAC20AB4E65256B53DF34873CAC57AD5B757B4571F47202"
     },
     {
       "id": "libretro-psp-ulus-10437",
@@ -4750,7 +4750,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 190,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "E1D5837EA3FF6E276191777B7733B8CAF688C80F02923C90C371405014237341"
+      "sha256": "49A680ABD91C1B90072542B8D5A91C9CF7DB2BE4274958C23423860FAC35D75A"
     },
     {
       "id": "libretro-psp-ulus-10438",
@@ -4769,7 +4769,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 107,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "9D66B723107453D249F6C79EFC3D5618D89F83051ADA0AC8C3582A8E9C4C0E41"
+      "sha256": "0FD3A96972F7DA9ADBF038C0EA8D5467C5EA2E76B134D907D18FF7B78EF53688"
     },
     {
       "id": "libretro-psp-ulus-10442",
@@ -4788,7 +4788,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 58,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "56980BF3C44C9EBFB52E54F0543C14154BFF6F6407E894F4365A775C46A4204A"
+      "sha256": "3DC268057A854E917FB10E35B3EC3519BC3A08305EE6FA9326D74AE4D4174D4A"
     },
     {
       "id": "libretro-psp-ulus-10447",
@@ -4807,7 +4807,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 107,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "793CC714B3F0DE7297789982A639031C4F37C753BADE50E5D2996BE6BF48DD74"
+      "sha256": "ED7D2A424EB2D9147CDBCC498DDDFEC62AC2EA93155D4C0388316886F1B66592"
     },
     {
       "id": "libretro-psp-ulus-10452",
@@ -4826,7 +4826,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 85,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "7E8F9DE075D311B3A71B35DD60E0E6F025D1DB4ACDB493607E66F1F16ACC21E4"
+      "sha256": "E05A69F418A730C3F3A596DC35378DA3B6C9B9334B57080B36E05EA7A2933FE4"
     },
     {
       "id": "libretro-psp-ulus-10455",
@@ -4845,7 +4845,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 55,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "B67E7917E9BA056A81AE6B51D0FF0C3C567CD4A2AD2099E171291330821F0F92"
+      "sha256": "1D4D300F8B6E1CDD894B539644B74E5083607BEAA5C7403B4482AEB65557E709"
     },
     {
       "id": "libretro-psp-ulus-10457",
@@ -4864,7 +4864,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 147,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "01376C31997DD989AD5DAEECD7654DF78C98BE22A4F475E53897AA19602B9D99"
+      "sha256": "97B4AB092485B7E814F24A107E64F2EE4DC6C9C7B36369DFDB88E4434FE78AF4"
     },
     {
       "id": "libretro-psp-ulus-10458",
@@ -4883,7 +4883,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 267,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "08A44BF704A55F63526AA62C64CBD6F965A9BBB2C864AC7BED6CFE88D1080379"
+      "sha256": "3C0DC9BBDFD5EBB22681E4D187AEB2B5D5117FC6E7E6C5BEF0038E90CE9DE865"
     },
     {
       "id": "libretro-psp-ulus-10461",
@@ -4902,7 +4902,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 276,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "FC202AF3D70E173C94F4C150A8D10238E6D4644203CB51A92EEAD4B0DB007E19"
+      "sha256": "BC7D88EA7ED681BE56B112E61D50CD6A204C24DF7817D0ACF847F32F13299118"
     },
     {
       "id": "libretro-psp-ulus-10466",
@@ -4921,7 +4921,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 204,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "3486D93B4A6B5AAAA85570C68E1AE32EDBB2D22E3F64FDC6B1D27324FC20EFB5"
+      "sha256": "3BD04BF18A39B1AF0439953065C827303172517AF6650F9A5EFB418886209F2D"
     },
     {
       "id": "libretro-psp-ulus-10479",
@@ -4940,7 +4940,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 6594,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "6B8A382004AE93F19B4A30A49A2C347022B3534ED4842EA0A86ED098DAB76F5C"
+      "sha256": "8A7F26B0D89AAEB9F079205A23A1AA4D29CD54867FFB776DD2808C2F9B285623"
     },
     {
       "id": "libretro-psp-ulus-10490",
@@ -4959,7 +4959,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 457,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "9ACE26B456157F17BC1F00C2D10928FD40EE0CC3086BD3D5C29690A3F923CD6E"
+      "sha256": "E1F3E28EADB7403731D51992FA7BB27AFC6AA0D18B10EEA05B6E3CF4C0C2135F"
     },
     {
       "id": "libretro-psp-ulus-10495",
@@ -4978,7 +4978,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 99,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "C608D593B53CB738A8F8665FD434B0FB508C43EF03E97353A5BBABFB9759A89E"
+      "sha256": "A2D2908E4B035F77F2DF5F86847346AF2921947CD727B5698DD29DE7716241F2"
     },
     {
       "id": "libretro-psp-ulus-10505",
@@ -4997,7 +4997,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 128,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "FB88B8F0B187BC66CF3D8FF531BDCCF3342453F95AE043BA36C8116035631E95"
+      "sha256": "2E81B35F84EC3A7A6338196AB74463D74497B1F8974CD99218762E727025717B"
     },
     {
       "id": "libretro-psp-ulus-10506",
@@ -5016,7 +5016,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 70,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "4E4BB79068681A2AA8376200E92F5E162D281699C278D73FBB3D6B1E2E8125E8"
+      "sha256": "D1E1B82D90811EC9134F9C6510FEDA24D386D3C9DFB31FA7A96D84A5D98DF043"
     },
     {
       "id": "libretro-psp-ulus-10511",
@@ -5035,7 +5035,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 116,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "090C96AFC60DB97E008CCDBCBE1FC92EAF89FA3E054DBF5C986D7D64877835F1"
+      "sha256": "AB510B9D250674AD8B139AA12D26AC344EB5338016CE6D63F07587E289EE5C80"
     },
     {
       "id": "libretro-psp-ulus-10513",
@@ -5054,7 +5054,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 60,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "B5874E71803560067218C0B1578F812FF98E1CD691038CDAF68E1D232D0854C1"
+      "sha256": "70C0886CE3E412939A63A7A53F25015EAF3DE9B0BAE67B5C535DBA50D4510803"
     },
     {
       "id": "libretro-psp-ulus-10515",
@@ -5073,7 +5073,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 54,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "9886C4BD4A2F69B3C393FAFDEA5F2B81E79101D6958F8ED0DC2B4218AF4EF90B"
+      "sha256": "5EB102B7B0A9EFAEB92766420E6208375F57565FF80CC7B00AC0A1397A5BC8AF"
     },
     {
       "id": "libretro-psp-ulus-10529",
@@ -5092,7 +5092,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 411,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "F78B6AC52B8FC73EA7CF4B1587A917AB0B6A29AF972038DE80ABA89BDF2F0EB5"
+      "sha256": "A98A3C6E0B7402417BF4F14B4CD62B55C30CB40BF1CE802917392DBDB60B8405"
     },
     {
       "id": "libretro-psp-ulus-10543",
@@ -5111,7 +5111,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 96,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "E7E6EBF4E2BBBD810988573D5272E10540F2D3767ECDF2EE1C6F7B3FBCD6AC69"
+      "sha256": "7F7A1AB4E86B452677860C48A166A2BC39982473F32C87B3E1C211273CC847D9"
     },
     {
       "id": "libretro-psp-ulus-10551",
@@ -5130,7 +5130,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 73,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "93A53F686CB60A62C39E22D8E5578E49281A2290D625E868F6308FEC858D2645"
+      "sha256": "0CA54F0EFAC886A640FCBBF439EBD2A0FA778ED7D2FC20A1DE728D01F8288326"
     },
     {
       "id": "libretro-psp-ulus-10560",
@@ -5149,7 +5149,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 75,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "354790AE8FFD1A25B557421AD1EF8436407D45604A5C72A70E1611F59A201ACF"
+      "sha256": "8D19DD661D1A433B78A52E80F9C11D5C1AF1E3095BB9A6E61F206F081CF8C1DF"
     },
     {
       "id": "libretro-psp-ulus-10563",
@@ -5168,7 +5168,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 477,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "3CEF99E2713E75053DEAC664007D0FCA703D7F014488D58D7E4EA467AAE7E9DC"
+      "sha256": "4AB6F9C0265EA5F33907656BC6E2DDCABE0BEC7B0F194FD40431B0E2D4F2AE69"
     },
     {
       "id": "libretro-psp-ulus-10565",
@@ -5187,7 +5187,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 137,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "BB604DD155C345A52BCCEBD9B23307BE038D8AEA9AF98DF527FA5066B9E10F54"
+      "sha256": "06D6CADE16F7629F17AC51586C7AC5218BFFD88DB0B1473E2F52619F110F2688"
     },
     {
       "id": "libretro-psp-ulus-10582",
@@ -5206,7 +5206,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 259,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "FB9CA5A686D7DECA47F48DE4F646C677F894472D0E9889AD80F7FAB321FD76BA"
+      "sha256": "2B1FF7C71F1C0839DF987ECF10E07EA35A09DC290A76178AD06D3060E9B40372"
     },
     {
       "id": "libretro-psp-ulus-10593",
@@ -5225,7 +5225,7 @@
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "blockCount": 76,
       "updatedAt": "2026-09-19T00:00:00Z",
-      "sha256": "E2E97B8BD02AD2AC9169A0711818B6C211DCD877C9C503DDC38EEC87BF620FFB"
+      "sha256": "9083EE7EDAA936AB2B71A39E460146AA39B3F117E23EFFB2324704CD16F04DC0"
     }
   ]
 }
