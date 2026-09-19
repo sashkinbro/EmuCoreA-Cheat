@@ -1,0 +1,899 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10308
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Bonus Gauge Modifier
+Author = libretro-database contributors / original PSP cheat authors
+001C3F86 00000009
+
+// Bonus Stat Points Mod
+Author = libretro-database contributors / original PSP cheat authors
+101DD68C 00000001
+
+// Char. Slot 1: All Elemental Resistances = 99
+Author = libretro-database contributors / original PSP cheat authors
+0018116F 00000063
+10181170 00006363
+
+// Char. Slot 1: All Status Resistances = 99
+Author = libretro-database contributors / original PSP cheat authors
+00180DA4 00000063
+00180DA6 00000063
+00180DA8 00000063
+00180DAA 00000063
+00180DAC 00000063
+
+// Char. Slot 1: All Weapon Mastery = 20
+Author = libretro-database contributors / original PSP cheat authors
+20181140 14141414
+10181144 00001414
+00181146 00000014
+
+// Char. Slot 1: All Weapon Mastery = 99
+Author = libretro-database contributors / original PSP cheat authors
+20181140 63636363
+10181144 00006363
+00181146 00000063
+
+// Char. Slot 1: All Weapon Mastery = 255
+Author = libretro-database contributors / original PSP cheat authors
+20181140 FFFFFFFF
+10181144 0000FFFF
+00181146 000000FF
+
+// Char. Slot 1: Counter 99 (Base,Recalced)
+Author = libretro-database contributors / original PSP cheat authors
+10181176 00006363
+
+// Char. Slot 1: Force Level 1 (Fast Regrind Without Reincarnating)
+Author = libretro-database contributors / original PSP cheat authors
+10181158 00000001
+
+// Char. Slot 1: Jump 99 (Base,Recalced)
+Author = libretro-database contributors / original PSP cheat authors
+10181172 00006363
+
+// Char. Slot 1: Move 99 (Base,Recalced) (99 => Teleport)
+Author = libretro-database contributors / original PSP cheat authors
+10181174 00006363
+
+// Character Slot 1 Lvl. 1
+Author = libretro-database contributors / original PSP cheat authors
+10181158 00000001
+
+// Character Slot 1 Lvl. 1
+Author = libretro-database contributors / original PSP cheat authors
+10181158 00000001
+
+// Character Slot 1 Lvl. 1
+Author = libretro-database contributors / original PSP cheat authors
+10181158 00000001
+
+// Clr New Char. Bonus Stat Points (Needed To Exit Bonus Screen)
+Author = libretro-database contributors / original PSP cheat authors
+101DD68C 00000000
+
+// Create A Character Bonus 200
+Author = libretro-database contributors / original PSP cheat authors
+101DD68C 000000C8
+
+// Customer Rank Modifier
+Author = libretro-database contributors / original PSP cheat authors
+201DEEB0 0FFFFFFF
+
+// Dark Assembly Always pass
+Author = libretro-database contributors / original PSP cheat authors
+00180DAC 00000063
+
+// Deprive Resistance Modifier - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+0018116F 00000063
+
+// Fire Resistance Modifier - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+00180DAA 00000063
+
+// Forget Resistance Modifier - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+00181171 00000063
+
+// Ice Resistance Modifier - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+201810BC 0000FFFF
+
+// Inf. HP (65535)
+Author = libretro-database contributors / original PSP cheat authors
+201810C0 0000FFFF
+
+// Inf. SP (65535)
+Author = libretro-database contributors / original PSP cheat authors
+101DD69C 0000FFFF
+
+// Influence Max 65535
+Author = libretro-database contributors / original PSP cheat authors
+201BA6BE 00000000
+
+// Item 1: Legend Rarity
+Author = libretro-database contributors / original PSP cheat authors
+201BA6BA 00000064
+
+// Item 1: Max Level
+Author = libretro-database contributors / original PSP cheat authors
+201BA688 0000270F
+201BA68C 0000270F
+201BA690 0000270F
+201BA694 0000270F
+201BA698 0000270F
+201BA69C 0000270F
+201BA6A0 0000270F
+201BA6A4 0000270F
+
+// Item 1: Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+201BA688 0000270F
+201BA68C 0000270F
+
+// Item Slot 1: Boost Stats HP,SP = 9,999 (Lost At Recalc)
+Author = libretro-database contributors / original PSP cheat authors
+201BA640 3D3D27A6
+201BA644 3E3E27A6
+201BA648 3F3F27A6
+201BA64C 40404E1F
+
+// Item Slot 1: Gainer Spec Set (HL,Exp.,Mana,Mastery)
+Author = libretro-database contributors / original PSP cheat authors
+201BA690 05F5E0FF
+
+// Item Slot 1: Max Stats Atk.,Def.,Int.,Spd.,Res.,Hit = 99,999,999 (Lost At Recalc)
+Author = libretro-database contributors / original PSP cheat authors
+201BA688 05F5E0FF
+201BA68C 05F5E0FF
+
+// Item Slot 1: Max Stats HP,SP = 99,999,999 (Lost At Recalc)
+Author = libretro-database contributors / original PSP cheat authors
+201BA640 29294E1F
+201BA644 2A2A4E1F
+201BA648 2B2B4E1F
+201BA64C 2C2C4E1F
+201BA650 2D2D4E1F
+201BA654 2E2E4E1F
+201BA658 2F2F4E1F
+201BA65C 30304E1F
+
+// Item Slot 1: Protective Spec Set (Poi,Slp,Par,For,Dep,Fire,Wind,Ice)
+Author = libretro-database contributors / original PSP cheat authors
+D01BA640 00202710
+30302710 101BA640
+D01BA644 00202710
+30302710 101BA644
+D01BA648 00202710
+30302710 101BA648
+D01BA64C 00202710
+30302710 101BA64C
+D01BA650 00202710
+30302710 101BA650
+D01BA654 00202710
+30302710 101BA654
+D01BA658 00202710
+30302710 101BA658
+D01BA65C 00202710
+30302710 101BA65C
+D01BA660 00202710
+30302710 101BA660
+D01BA664 00202710
+30302710 101BA664
+D01BA668 00202710
+30302710 101BA668
+D01BA66C 00202710
+30302710 101BA66C
+D01BA670 00202710
+30302710 101BA670
+D01BA674 00202710
+30302710 101BA674
+D01BA678 00202710
+30302710 101BA678
+D01BA67C 00202710
+30302710 101BA67C
+
+// Item Slot 1: Residents 1-16 Subdued
+Author = libretro-database contributors / original PSP cheat authors
+201BA640 01014E1F
+201BA644 02024E1F
+201BA648 03034E1F
+201BA64C 04044E1F
+201BA650 05054E1F
+201BA654 06064E1F
+201BA658 07074E1F
+201BA65C 08084E1F
+
+// Item Slot 1: Stat Spec Set (HP,SP,Atk.,Def.,Int.,Spd.,Res.,Hit)
+Author = libretro-database contributors / original PSP cheat authors
+201BA640 15154E1F
+201BA644 16164E1F
+201BA648 17174E1F
+201BA64C 18184E1F
+201BA650 19194E1F
+201BA654 1A1A4E1F
+
+// Item Slot 1: Status Atk. Spec Set (Poi,Slp,Par,For,Dep,Critical)
+Author = libretro-database contributors / original PSP cheat authors
+001BA6BA 00000013
+
+// Item Level Modifier (0-100)
+Author = libretro-database contributors / original PSP cheat authors
+101BA6BC 0000001D
+
+// Item Mod Slot 1 (Test)
+Author = libretro-database contributors / original PSP cheat authors
+00181145 000000FF
+
+// Max Axe Skill - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+001C3F86 00000009
+
+// Max Battle Bonus Gauge
+Author = libretro-database contributors / original PSP cheat authors
+201C3F86 00000009
+
+// Max Bonus Gauge
+Author = libretro-database contributors / original PSP cheat authors
+201DD68C 00000001
+
+// Max Bonus Stat Points
+Author = libretro-database contributors / original PSP cheat authors
+00181143 000000FF
+
+// Max Bow Skill - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+201C3F9C 0000007F
+
+// Max Customer Rank
+Author = libretro-database contributors / original PSP cheat authors
+80180AF8 00640354
+1000E7FF 00000000
+80180AFA 00640354
+10004876 00000000
+80180AFC 00640354
+10000017 00000000
+
+// Max Exp. All Chars
+Author = libretro-database contributors / original PSP cheat authors
+00181140 000000FF
+
+// Max Glove Skill - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+00181144 000000FF
+
+// Max Gun Skill - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+201801D0 107A3FFF
+101801D4 00005AF3
+
+// Max HL
+Author = libretro-database contributors / original PSP cheat authors
+201801D0 4E729FFF
+201801D4 00000918
+
+// Max HL v2
+Author = libretro-database contributors / original PSP cheat authors
+201810C4 0000FFFF
+
+// Max HP (65535)
+Author = libretro-database contributors / original PSP cheat authors
+201DD69C 0098967F
+
+// Max Influence (Dark Assembly)
+Author = libretro-database contributors / original PSP cheat authors
+201DD69C 00FFFFFF
+
+// Max Influence On Dark Assembly
+Author = libretro-database contributors / original PSP cheat authors
+80181124 00640354
+1000E0FF 00000000
+80181126 00640354
+100005F5 00000000
+
+// Max Mana All Chars
+Author = libretro-database contributors / original PSP cheat authors
+80181124 00640354
+1000E0FF 00000000
+80181126 00640354
+100005F5 00000000
+
+// Max Mana All Chars
+Author = libretro-database contributors / original PSP cheat authors
+80181124 00640354
+1000E0FF 00000000
+80181126 00640354
+100005F5 00000000
+
+// Max Mana All Chars
+Author = libretro-database contributors / original PSP cheat authors
+80181124 00640354
+1000E0FF 00000000
+80181126 00640354
+100005F5 00000000
+
+// Max Mana All Chars
+Author = libretro-database contributors / original PSP cheat authors
+201801D0 FFFFFFFF
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+201C3F9B 0000007F
+
+// Max Product Rank
+Author = libretro-database contributors / original PSP cheat authors
+80181185 006406A8
+0000000B 00000000
+
+// Max Senate Rank All Chars
+Author = libretro-database contributors / original PSP cheat authors
+80180E1C 00200002
+1000C6CC 00000000
+80180E1E 00200002
+10000003 00000000
+
+// Max Skill Char. 1
+Author = libretro-database contributors / original PSP cheat authors
+80180E1C 00200002
+1000C6CC 00000000
+80180E1E 00200002
+10000003 00000000
+
+// Max Skill Char. 1
+Author = libretro-database contributors / original PSP cheat authors
+201810C8 0000FFFF
+
+// Max SP (65535)
+Author = libretro-database contributors / original PSP cheat authors
+00181142 000000FF
+
+// Max Spear Skill - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+00181146 000000FF
+
+// Max Staff Skill - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+00181141 000000FF
+
+// Max Sword Skill - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+201DEEB0 05F5E0FF
+
+// Max Yeas (Dark Assembly)
+Author = libretro-database contributors / original PSP cheat authors
+80181175 006406A8
+00000099 00000000
+80181173 006406A8
+
+// Move/Jump All
+Author = libretro-database contributors / original PSP cheat authors
+201DEEB4 00000000
+
+// No Nays (Dark Assembly)
+Author = libretro-database contributors / original PSP cheat authors
+00180DA8 00000063
+
+// Paralysis Resistance Modifier - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+00180DA4 00000063
+
+// Poison Resistance Modifier - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+001C3F9B 0000007F
+
+// Product Rank Modifier
+Author = libretro-database contributors / original PSP cheat authors
+00180DA6 00000063
+
+// Sleep Resistance Modifier Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+001BA6C1 0000000C
+
+// Slot 1 - Space For Residents M
+Author = libretro-database contributors / original PSP cheat authors
+101BA688 0000FDE8
+101BA68C 0000FDE8
+101BA690 0000FDE8
+101BA694 0000FDE8
+101BA698 0000FDE8
+101BA69C 0000FDE8
+101BA6A0 0000FDE8
+101BA6A4 0000FDE8
+
+// Slot 1 Item - Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+001BA6BE 00000000
+
+// Slot 1 Rarity Modifier (Legend)
+Author = libretro-database contributors / original PSP cheat authors
+001C3F9D 00000014
+
+// Stronger/Weaker Enemies Modifier
+Author = libretro-database contributors / original PSP cheat authors
+80181106 006406A8
+00000007 00000000
+8018110A 006406A8
+8018110E 006406A8
+80181112 006406A8
+80181116 006406A8
+8018111A 006406A8
+8018111E 006406A8
+
+// Weapon Mastery All Chars
+Author = libretro-database contributors / original PSP cheat authors
+00181170 00000063
+
+// _______________[>>>Character Codes<<<]_______________
+Author = libretro-database contributors / original PSP cheat authors
+20181774 0000FFFF
+
+// Etna Atk. 65535
+Author = libretro-database contributors / original PSP cheat authors
+20181778 0000FFFF
+
+// Etna Def. 65535
+Author = libretro-database contributors / original PSP cheat authors
+20181784 0000FFFF
+
+// Etna Hit 65535
+Author = libretro-database contributors / original PSP cheat authors
+20181764 0000FFFF
+
+// Etna Inf. HP 65535
+Author = libretro-database contributors / original PSP cheat authors
+20181768 0000FFFF
+
+// Etna Inf. SP 65535
+Author = libretro-database contributors / original PSP cheat authors
+2018178C 0000FFFF
+
+// Etna Int. 65535
+Author = libretro-database contributors / original PSP cheat authors
+2018177C 0000FFFF
+
+// Etna Max HP 65535
+Author = libretro-database contributors / original PSP cheat authors
+20181770 0000FFFF
+
+// Etna Max SP 65535
+Author = libretro-database contributors / original PSP cheat authors
+20181788 0000FFFF
+
+// Etna Res. 65535
+Author = libretro-database contributors / original PSP cheat authors
+20181780 0000FFFF
+
+// Etna Spd. 65535
+Author = libretro-database contributors / original PSP cheat authors
+201810CC 0000FFFF
+
+// Lahard Atk. 65535
+Author = libretro-database contributors / original PSP cheat authors
+201810D0 0000FFFF
+
+// Lahard Def. 65535
+Author = libretro-database contributors / original PSP cheat authors
+201810DC 0000FFFF
+
+// Lahard Hit 65535
+Author = libretro-database contributors / original PSP cheat authors
+201810D4 0000FFFF
+
+// Lahard Int. 65535
+Author = libretro-database contributors / original PSP cheat authors
+201810E0 0000FFFF
+
+// Lahard Res. 65535
+Author = libretro-database contributors / original PSP cheat authors
+201810D8 0000FFFF
+
+// ____________________[>>>Player Codes<<<]____________________
+Author = libretro-database contributors / original PSP cheat authors
+201810BC 0001869F
+
+// [(P1)] Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+201810C0 0001869F
+
+// [(P1)] Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+201810CC 0001869F
+
+// [(P1)] Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+201810D0 0001869F
+
+// [(P1)] Max Def.
+Author = libretro-database contributors / original PSP cheat authors
+20180AF8 05F5E0FF
+
+// [(P1)] Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+201810DC 0001869F
+
+// [(P1)] Max Hit
+Author = libretro-database contributors / original PSP cheat authors
+201810C4 0001869F
+
+// [(P1)] Max HP
+Author = libretro-database contributors / original PSP cheat authors
+201810D4 0001869F
+
+// [(P1)] Max Int.
+Author = libretro-database contributors / original PSP cheat authors
+20181158 000003E7
+
+// [(P1)] Max Level
+Author = libretro-database contributors / original PSP cheat authors
+20181124 05F5E0FF
+
+// [(P1)] Max Mana
+Author = libretro-database contributors / original PSP cheat authors
+201810E0 0001869F
+
+// [(P1)] Max Res.
+Author = libretro-database contributors / original PSP cheat authors
+20181185 0000000B
+
+// [(P1)] Max Senate Rank
+Author = libretro-database contributors / original PSP cheat authors
+201810C8 0001869F
+
+// [(P1)] Max SP
+Author = libretro-database contributors / original PSP cheat authors
+201810D8 0001869F
+
+// [(P1)] Max Spd.
+Author = libretro-database contributors / original PSP cheat authors
+2018116F 00000064
+
+// [(P1)] Resistance: Fire
+Author = libretro-database contributors / original PSP cheat authors
+20181171 00000064
+
+// [(P1)] Resistance: Ice
+Author = libretro-database contributors / original PSP cheat authors
+20181170 00000064
+
+// [(P1)] Resistance: Wind
+Author = libretro-database contributors / original PSP cheat authors
+20180DAC 000003E7
+
+// [(P1)] Resistance Max: Dpr.
+Author = libretro-database contributors / original PSP cheat authors
+20180DAA 000003E7
+
+// [(P1)] Resistance Max: Fgt.
+Author = libretro-database contributors / original PSP cheat authors
+20180DA8 000003E7
+
+// [(P1)] Resistance Max: Par.
+Author = libretro-database contributors / original PSP cheat authors
+20180DA4 000003E7
+
+// [(P1)] Resistance Max: Psn.
+Author = libretro-database contributors / original PSP cheat authors
+20180DA6 000003E7
+
+// [(P1)] Resistance Max: Slp.
+Author = libretro-database contributors / original PSP cheat authors
+20181145 00000064
+20181155 00000019
+
+// [(P1)] Skill: Axe Mastered
+Author = libretro-database contributors / original PSP cheat authors
+20181143 00000064
+20181153 00000019
+
+// [(P1)] Skill: Bow Mastered
+Author = libretro-database contributors / original PSP cheat authors
+20181140 00000064
+20181150 00000019
+
+// [(P1)] Skill: Fist Mastered
+Author = libretro-database contributors / original PSP cheat authors
+20181144 00000064
+20181154 00000019
+
+// [(P1)] Skill: Gun Mastered
+Author = libretro-database contributors / original PSP cheat authors
+20181142 00000064
+20181152 00000019
+
+// [(P1)] Skill: Spear Mastered
+Author = libretro-database contributors / original PSP cheat authors
+20181146 00000064
+20181156 00000019
+
+// [(P1)] Skill: Staff Mastered
+Author = libretro-database contributors / original PSP cheat authors
+20181141 00000064
+20181151 00000019
+
+// [(P1)] Skill: Sword Mastered
+Author = libretro-database contributors / original PSP cheat authors
+20181764 0001869F
+
+// [(P2)] Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+20181768 0001869F
+
+// [(P2)] Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+20181774 0001869F
+
+// [(P2)] Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+20181778 0001869F
+
+// [(P2)] Max Def.
+Author = libretro-database contributors / original PSP cheat authors
+201811A0 05F5E0FF
+
+// [(P2)] Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20181784 0001869F
+
+// [(P2)] Max Hit
+Author = libretro-database contributors / original PSP cheat authors
+2018176C 0001869F
+
+// [(P2)] Max HP
+Author = libretro-database contributors / original PSP cheat authors
+201DD69C 0098967F
+
+// [(P2)] Max Influence
+Author = libretro-database contributors / original PSP cheat authors
+2018177C 0001869F
+
+// [(P2)] Max Int.
+Author = libretro-database contributors / original PSP cheat authors
+20181800 000003E7
+
+// [(P2)] Max Level
+Author = libretro-database contributors / original PSP cheat authors
+201817CC 05F5E0FF
+
+// [(P2)] Max Mana
+Author = libretro-database contributors / original PSP cheat authors
+20181788 0001869F
+
+// [(P2)] Max Res.
+Author = libretro-database contributors / original PSP cheat authors
+2018182D 0000000B
+
+// [(P2)] Max Senate Rank
+Author = libretro-database contributors / original PSP cheat authors
+20181770 0001869F
+
+// [(P2)] Max SP
+Author = libretro-database contributors / original PSP cheat authors
+20181780 0001869F
+
+// [(P2)] Max Spd.
+Author = libretro-database contributors / original PSP cheat authors
+201DEEB0 05F5E0FF
+
+// [(P2)] Max Yeas
+Author = libretro-database contributors / original PSP cheat authors
+201DEEB4 00000000
+
+// [(P2)] No Nays
+Author = libretro-database contributors / original PSP cheat authors
+20181817 00000064
+
+// [(P2)] Resistance: Fire
+Author = libretro-database contributors / original PSP cheat authors
+20181819 00000064
+
+// [(P2)] Resistance: Ice
+Author = libretro-database contributors / original PSP cheat authors
+20181818 00000064
+
+// [(P2)] Resistance: Wind
+Author = libretro-database contributors / original PSP cheat authors
+20181454 000003E7
+
+// [(P2)] Resistance Max: Dpr.
+Author = libretro-database contributors / original PSP cheat authors
+20181452 000003E7
+
+// [(P2)] Resistance Max: Fgt.
+Author = libretro-database contributors / original PSP cheat authors
+20181450 000003E7
+
+// [(P2)] Resistance Max: Par.
+Author = libretro-database contributors / original PSP cheat authors
+2018144C 000003E7
+
+// [(P2)] Resistance Max: Psn.
+Author = libretro-database contributors / original PSP cheat authors
+2018144E 000003E7
+
+// [(P2)] Resistance Max: Slp.
+Author = libretro-database contributors / original PSP cheat authors
+201817ED 00000064
+201817FD 00000019
+
+// [(P2)] Skill: Axe Mastered
+Author = libretro-database contributors / original PSP cheat authors
+201817EB 00000064
+201817FB 00000019
+
+// [(P2)] Skill: Bow Mastered
+Author = libretro-database contributors / original PSP cheat authors
+201817E8 00000064
+201817F8 00000019
+
+// [(P2)] Skill: Fist Mastered
+Author = libretro-database contributors / original PSP cheat authors
+201817EC 00000064
+201817FC 00000019
+
+// [(P2)] Skill: Gun Mastered
+Author = libretro-database contributors / original PSP cheat authors
+201817EA 00000064
+201817FA 00000019
+
+// [(P2)] Skill: Spear Mastered
+Author = libretro-database contributors / original PSP cheat authors
+201817EE 00000064
+201817FE 00000019
+
+// [(P2)] Skill: Staff Mastered
+Author = libretro-database contributors / original PSP cheat authors
+201817E9 00000064
+201817F9 00000019
+
+// ↓[#Character Creation Screen/Menu & Put On Only One Code At Time.]
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 000007DA
+00180ACB 00000007
+
+// Create: #Return To Normal Screen
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000974
+00180ACB 00000009
+
+// Create: Alt.Overlord
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000488
+00180ACB 00000004
+
+// Create: Angel
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 000009EC
+00180ACB 00000009
+
+// Create: Dark Adonis
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000C81
+00180ACB 0000000C
+
+// Create: Demon Item
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 0000096A
+00180ACB 00000009
+
+// Create: Demon Slayer
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000C62
+00180ACB 0000000C
+
+// Create: Durian
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000002
+00180ACB 00000000
+00180ACC 00000000
+00180ACD 00000000
+
+// Create: Etna
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000C58
+00180ACB 0000000C
+
+// Create: Fallen Angel
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000003
+00180ACB 00000000
+00180ACC 00000000
+00180ACD 00000000
+
+// Create: Flonne
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000C4E
+00180ACB 0000000C
+
+// Create: High Priest
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000A8C
+00180ACB 00000000
+
+// Create: Item God
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000001
+00180ACB 00000000
+00180ACC 00000000
+00180ACD 00000000
+
+// Create: Laharl
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 0000041A
+00180ACB 00000000
+
+// Create: Majin
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000BC2
+00180ACB 0000000B
+
+// Create: Majorly
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 000009C4
+00180ACB 00000009
+
+// Create: Mid-Boss
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 000008A7
+00180ACB 00000008
+
+// Create: Mother Prinny
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000BEA
+00180ACB 0000000B
+
+// Create: Noble Demon
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000C44
+00180ACB 0000000C
+
+// Create: Overlord
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000BB8
+00180ACB 0000000B
+
+// Create: Priere
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000A32
+00180ACB 0000000A
+
+// Create: Prism 1
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000A33
+00180ACB 0000000A
+
+// Create: Prism 2
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000A34
+00180ACB 0000000A
+
+// Create: Prism 3
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000A35
+00180ACB 0000000A
+
+// Create: Prism 4
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000A36
+00180ACB 0000000A
+
+// Create: Prism 5
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000A37
+00180ACB 0000000A
+
+// Create: Prism 6
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000960
+00180ACB 00000009
+
+// Create: Rich Demon
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 00000870
+00180ACB 00000008
+
+// Create: Succubus
+Author = libretro-database contributors / original PSP cheat authors
+00180ACA 0000097E
+00180ACB 00000009

@@ -1,6 +1,6 @@
 {
-  "batch": "batch-007",
-  "release": "v1.0.8",
+  "batch": "batch-008",
+  "release": "v1.0.9",
   "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
   "libretroCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
   "libretroEntries": [
@@ -29,12 +29,28 @@
       "sha256": "F137E006C2C9AE05D98D3F54A093FDF4F301DBC790CC6C97A3C3A0094C650A06"
     },
     {
+      "serial": "NPJH-50045",
+      "sourceFile": "Metal Gear Solid - Peace Walker (PlayStation Store) [JP] [NPJH-50045].cht",
+      "blocks": 108,
+      "excluded": 9,
+      "malformed": 0,
+      "sha256": "822C5F60C3AE6EE78DB2F1B44C52486754D8E418468A545B6154B2356463A4D0"
+    },
+    {
       "serial": "NPJH-50107",
       "sourceFile": "Kidou Senshi Gundam - Gundam Vs. Gundam Next Plus (PlayStation Store) [JP] [NPJH-50107].cht",
       "blocks": 632,
       "excluded": 62,
       "malformed": 0,
       "sha256": "64D5ACB2B4A5B83567E277F245F947F01FC74BDBCD4CF69E13E9828EEF12AC84"
+    },
+    {
+      "serial": "NPJH-50263",
+      "sourceFile": "Ace Combat X2 - Joint Assault (PlayStation Store) [JP] [NPJH-50263].cht",
+      "blocks": 112,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "C5BE824B10CE45254FB814AF1F5655AE69434095377DE703F6AF0E244952F710"
     },
     {
       "serial": "NPJH-50311",
@@ -67,6 +83,14 @@
       "excluded": 0,
       "malformed": 0,
       "sha256": "66EC966BEF35E6C148BA660F45F1404CB42DFF926C434BE339729295A5191B26"
+    },
+    {
+      "serial": "NPJH-50435",
+      "sourceFile": "Naruto Shippuden - Narutimate Impact (PlayStation Store) [JP] [NPJH-50435].cht",
+      "blocks": 129,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "B218CE3E73B1A18A3755BE4AAC09399B26B588C51AFC8FE6F117C1B740C56A70"
     },
     {
       "serial": "NPJH-50443",
@@ -133,12 +157,36 @@
       "sha256": "C6B6A016513F7B78EE632D6C363FB0DFA6BE1D2C8FF8A2BC4F3943A7AD63A2ED"
     },
     {
+      "serial": "NPJH-50625",
+      "sourceFile": "Nayuta No Kiseki (PlayStation Store) [JP] [NPJH-50625].cht",
+      "blocks": 109,
+      "excluded": 9,
+      "malformed": 0,
+      "sha256": "25B99EE274437ABE7FEF9F7376748D528F07776EFBDD777630384E5B9391F7D1"
+    },
+    {
+      "serial": "NPJH-50681",
+      "sourceFile": "SD Gundam G Generation OverWorld [JP] [NPJH-50681].cht",
+      "blocks": 97,
+      "excluded": 9,
+      "malformed": 0,
+      "sha256": "D583C756DFDB7A4E2DE8D120980EA674C15B6B619D00E338CDCD1F376D7DFC82"
+    },
+    {
       "serial": "NPJH-50701",
       "sourceFile": "Sword Art Online - Infinity Moment [JP] [NPJH-50701].cht",
       "blocks": 585,
       "excluded": 20,
       "malformed": 0,
       "sha256": "B04424780EB9DA3C2BEEE1149CD54D7D60BE0C788E44B1F4E827D10DF3FC3057"
+    },
+    {
+      "serial": "NPJH-50721",
+      "sourceFile": "Frontier Gate Boost+ (v1.00-1.01) [JP] [NPJH-50721].cht",
+      "blocks": 118,
+      "excluded": 15,
+      "malformed": 0,
+      "sha256": "5749D490D34C039EB3D8012532E6AF9FDC9E981B54424E90994FC75348DD53BE"
     },
     {
       "serial": "NPJH-50789",
@@ -235,6 +283,14 @@
       "excluded": 2,
       "malformed": 0,
       "sha256": "975667C50CBAEEB07DA625566D2D26A47B3238663E1543B69C53923FC290BE68"
+    },
+    {
+      "serial": "UCUS-98612",
+      "sourceFile": "Wipeout Pure [US] [UCUS-98612].cht",
+      "blocks": 102,
+      "excluded": 9,
+      "malformed": 0,
+      "sha256": "87F42EAA00C57657AB8A6BFE2199C17D70CF31550F47F1287C91B0FE51FBD768"
     },
     {
       "serial": "UCUS-98632",
@@ -389,6 +445,14 @@
       "sha256": "3872E2C8C9BADCB9BC54830EE30D64267B04C76E75E66A233CBFA1F8C28F232E"
     },
     {
+      "serial": "ULES-00756",
+      "sourceFile": "Manhunt 2 [EU] [ULES-00756].cht",
+      "blocks": 120,
+      "excluded": 23,
+      "malformed": 0,
+      "sha256": "E50D4EE73A0407F4764BBB5018C84EB6016C9946AD824D0FF7133F446A48854E"
+    },
+    {
       "serial": "ULES-00841",
       "sourceFile": "Castlevania - The Dracula X Chronicles [EU] [ULES-00841].cht",
       "blocks": 151,
@@ -469,6 +533,14 @@
       "sha256": "48F6198FA79CA38BD774B8DC5AD76B64E3C6A4C606BD8982C9CCABAD8F1CB5A8"
     },
     {
+      "serial": "ULES-01376",
+      "sourceFile": "Tekken 6 [EU] [ULES-01376].cht",
+      "blocks": 106,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "BD8B4889A2BB5D44CF35A8800E3C4A353A748A5B478B8C5486A7A9C7C706A923"
+    },
+    {
       "serial": "ULES-01392",
       "sourceFile": "Disgaea 2 - Dark Hero Days [EU] [ULES-01392].cht",
       "blocks": 295,
@@ -533,12 +605,28 @@
       "sha256": "6F159B2A4FA623C650A8B5C3664948BB1135DC3CE7FB5E770CB076E18A44A2AD"
     },
     {
+      "serial": "ULJM-05262",
+      "sourceFile": "Dissidia - Final Fantasy [JP] [ULJM-05262].cht",
+      "blocks": 125,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "31B1330229F5639784A115D5721EEF7FB90171841BD05F004F37F213E4AD29E6"
+    },
+    {
       "serial": "ULJM-05297",
       "sourceFile": "Grand Theft Auto - Vice City Stories [JP] [ULJM-05297].cht",
       "blocks": 229,
       "excluded": 6,
       "malformed": 0,
       "sha256": "F02F94AAC8A6EA4C3A820A6B5E2457D3AB5811F763DEC4B48E45779C2998A4C2"
+    },
+    {
+      "serial": "ULJM-05299",
+      "sourceFile": "Yggdra Union [JP] [ULJM-05299].cht",
+      "blocks": 103,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "A613F6B76BBB4E5CC735AE9C1FC0FB2A7DBBB618A45B328A3B2125CFF7DF802A"
     },
     {
       "serial": "ULJM-05309",
@@ -571,6 +659,22 @@
       "excluded": 1,
       "malformed": 0,
       "sha256": "D50201324BB31E3A3921306E171E3F8001F1FC7F13DF7B671210AC9F04C580F8"
+    },
+    {
+      "serial": "ULJM-05410",
+      "sourceFile": "Zill O'll Infinite Plus [JP] [ULJM-05410].cht",
+      "blocks": 131,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "6A4B69A58CA55FC42EA7B320FDEB8AA99A9C5F78A2518F3EEC1C8C8B61FF2050"
+    },
+    {
+      "serial": "ULJM-05490",
+      "sourceFile": "Blazing Souls - Accelate [JP] [ULJM-05490].cht",
+      "blocks": 128,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "0EFFC45DEDED63C5BF2D8B1C09EA97B6E8E954543CDC436ACE4DFC707095260F"
     },
     {
       "serial": "ULJM-05500",
@@ -693,6 +797,14 @@
       "sha256": "4259AB9B4570460A371462C04BB6F3C4FF8C7C260F76AA345D53364812A5A268"
     },
     {
+      "serial": "ULJS-00183",
+      "sourceFile": "Makai Senki Disgaea 2 Portable [JP] [ULJS-00183].cht",
+      "blocks": 123,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "98FBB3F62E0490208455D1C1350B2FE69BC7CAB1F52F358951F92F2B9FC7EC3A"
+    },
+    {
       "serial": "ULJS-00202",
       "sourceFile": "Soul Calibur - Broken Destiny [JP] [ULJS-00202].cht",
       "blocks": 144,
@@ -707,6 +819,14 @@
       "excluded": 0,
       "malformed": 0,
       "sha256": "04DAB063BC794D1E9F67CDA1651B12A5ECCE60DEE4B16E8CAC0AA3B0EE8F2921"
+    },
+    {
+      "serial": "ULJS-00293",
+      "sourceFile": "Tales Of Phantasia - Narikiri Dungeon X [JP] [ULJS-00293].cht",
+      "blocks": 99,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "410BE4554D9902405C15EEC0CFAF06FFA6DDB97ECF9FD89DAFFBAC05B69C4CD8"
     },
     {
       "serial": "ULUS-10041",
@@ -733,6 +853,14 @@
       "sha256": "BAE2C3659E3AB4203D548AD945B33ED01D20CF3F9BF54D65145DD1250B80E00E"
     },
     {
+      "serial": "ULUS-10097",
+      "sourceFile": "Capcom Classics Collection Remixed [US] [ULUS-10097].cht",
+      "blocks": 110,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "C4024158D446939B4D32624DE1485B0101924E067C6C207443807E9D842BA90D"
+    },
+    {
       "serial": "ULUS-10107",
       "sourceFile": "Valkyrie Profile - Lenneth [US] [ULUS-10107].cht",
       "blocks": 225,
@@ -747,6 +875,22 @@
       "excluded": 4,
       "malformed": 0,
       "sha256": "B04A18BDA75A8D53E9F5DE88A50EDD12D395CB9319AE7413C576DFB9862625D2"
+    },
+    {
+      "serial": "ULUS-10141",
+      "sourceFile": "Medal Of Honor - Heroes (Greatest Hits) [US] [ULUS-10141].cht",
+      "blocks": 119,
+      "excluded": 8,
+      "malformed": 0,
+      "sha256": "A7F47348AAA8BC7DE1E63C80A035BB13E2E4036F7972823D0F546D862E499B87"
+    },
+    {
+      "serial": "ULUS-10142",
+      "sourceFile": "Harvest Moon - Boy & Girl [US] [ULUS-10142].cht",
+      "blocks": 133,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "FDD5A13EACF335381531B0F0479EAF55E8D897C3F94A26539CA0E2BC4A1E2A1D"
     },
     {
       "serial": "ULUS-10160",
@@ -773,12 +917,36 @@
       "sha256": "253F53794D3150CA8541721EA053DEC06FBB75464F248F137EB8AE867BADF8B6"
     },
     {
+      "serial": "ULUS-10211",
+      "sourceFile": "Monster Kingdom - Jewel Summoner [US] [ULUS-10211].cht",
+      "blocks": 106,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "41599940B28E5ADF5274656C084439E0E523EC9F7A8242BB95357EB2AF618525"
+    },
+    {
       "serial": "ULUS-10219",
       "sourceFile": "Innocent Life - A Futuristic Harvest Moon [US] [ULUS-10219].cht",
       "blocks": 46,
       "excluded": 0,
       "malformed": 0,
       "sha256": "7784D2D8CFA7163D935BE3ABD11BA7883D87FE70A039EEB10E122E0884FA9C25"
+    },
+    {
+      "serial": "ULUS-10251",
+      "sourceFile": "Final Fantasy - Anniversary Edition [US] [ULUS-10251].cht",
+      "blocks": 141,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "BE67A4575ABC53D16BF1068297A3BE05E69BB7ED6EC763930945BB9989C1BD5F"
+    },
+    {
+      "serial": "ULUS-10263",
+      "sourceFile": "Final Fantasy II - Anniversary Edition [US] [ULUS-10263].cht",
+      "blocks": 134,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "A8B3A4DBD1BEF11A411897DD64C89B03CAC5976B650650F19518C4949CF7DD42"
     },
     {
       "serial": "ULUS-10266",
@@ -861,6 +1029,14 @@
       "sha256": "2445E1BFAC3D9692D17CE3F5E71C39F58CE1BFF3C271F0E582DFA6A0330685AF"
     },
     {
+      "serial": "ULUS-10380",
+      "sourceFile": "LEGO Batman - The VideoGame [US] [ULUS-10380].cht",
+      "blocks": 127,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "1FDA1AB71570D780A7AE33CE0BC63B3BBD8A7C9E82F613576751708FDA5D7540"
+    },
+    {
       "serial": "ULUS-10390",
       "sourceFile": "Star Wars - Battlefront - Elite Squadron [US] [ULUS-10390].cht",
       "blocks": 230,
@@ -885,12 +1061,28 @@
       "sha256": "8AD34371396D425306BF5381FB55F64650140BE3BD9BDEDC158CBF0C0CC5019F"
     },
     {
+      "serial": "ULUS-10432",
+      "sourceFile": "Shin Megami Tensei - Persona [US] [ULUS-10432].cht",
+      "blocks": 119,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "FDE206099486051C3EF4A22E56D08AB97C09DAD5B612AC7A8DEF58FF03ACF31A"
+    },
+    {
       "serial": "ULUS-10437",
       "sourceFile": "Dissidia - Final Fantasy [US] [ULUS-10437].cht",
       "blocks": 190,
       "excluded": 10,
       "malformed": 0,
       "sha256": "E1D5837EA3FF6E276191777B7733B8CAF688C80F02923C90C371405014237341"
+    },
+    {
+      "serial": "ULUS-10438",
+      "sourceFile": "Fantasy Golf - Pangya [US] [ULUS-10438].cht",
+      "blocks": 107,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "9D66B723107453D249F6C79EFC3D5618D89F83051ADA0AC8C3582A8E9C4C0E41"
     },
     {
       "serial": "ULUS-10447",
@@ -947,6 +1139,14 @@
       "excluded": 8,
       "malformed": 0,
       "sha256": "9ACE26B456157F17BC1F00C2D10928FD40EE0CC3086BD3D5C29690A3F923CD6E"
+    },
+    {
+      "serial": "ULUS-10505",
+      "sourceFile": "Kingdom Hearts - Birth By Sleep [US] [ULUS-10505].cht",
+      "blocks": 128,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "FB88B8F0B187BC66CF3D8FF531BDCCF3342453F95AE043BA36C8116035631E95"
     },
     {
       "serial": "ULUS-10511",

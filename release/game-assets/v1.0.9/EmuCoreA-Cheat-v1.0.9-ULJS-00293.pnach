@@ -1,0 +1,552 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULJS-00293
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 999999 Gald
+Author = libretro-database contributors / original PSP cheat authors
+208893E8 05F5E0FF
+
+// 99999999 Gald
+Author = libretro-database contributors / original PSP cheat authors
+202F76C8 05F5E0FF
+
+// Accessories
+Author = libretro-database contributors / original PSP cheat authors
+803078BD 006E0001
+0000000F 00000000
+
+// Costume
+Author = libretro-database contributors / original PSP cheat authors
+8030797F 00540001
+0000000F 00000000
+
+// CRESS Skill 100%
+Author = libretro-database contributors / original PSP cheat authors
+20889A40 64646464
+20889A44 64646464
+20889A48 64646464
+10889A44 00006464
+
+// EBG999 Player1
+Author = libretro-database contributors / original PSP cheat authors
+102F311E 000003E7
+
+// EBG999 Player2
+Author = libretro-database contributors / original PSP cheat authors
+102F33F6 000003E7
+
+// EBG999 Player3
+Author = libretro-database contributors / original PSP cheat authors
+102F36CE 000003E7
+
+// EBG999 Player4
+Author = libretro-database contributors / original PSP cheat authors
+102F39A6 000003E7
+
+// Exp. x256
+Author = libretro-database contributors / original PSP cheat authors
+2002AC68 00063200
+
+// Experience Points Acquired
+Author = libretro-database contributors / original PSP cheat authors
+205C9634 00002710
+205CBB2C 00002710
+
+// Food
+Author = libretro-database contributors / original PSP cheat authors
+80307759 00260001
+0000000F 00000000
+
+// Hard & Mania 256
+Author = libretro-database contributors / original PSP cheat authors
+10889C30 00000100
+
+// Item Max
+Author = libretro-database contributors / original PSP cheat authors
+8030770D 00340001
+0000000F 00000000
+80307743 00060001
+8030774A 000F0001
+
+// Job Master
+Author = libretro-database contributors / original PSP cheat authors
+202F1864 0000000F
+202F18B4 000003E7
+20329418 000003E7
+20329438 000003E7
+
+// Kakutoku Keikenti
+Author = libretro-database contributors / original PSP cheat authors
+205C9634 00002710
+205CBB2C 00002710
+
+// Max Hit 999
+Author = libretro-database contributors / original PSP cheat authors
+20889AA8 000003E7
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+202F30C8 05F5E0FF
+
+// NDX: All Check
+Author = libretro-database contributors / original PSP cheat authors
+2000D530 53E00026
+
+// NDX: Anywhere Save
+Author = libretro-database contributors / original PSP cheat authors
+200A660C 17E00009
+200BB044 17E0FF78
+
+// NDX: Canceler
+Author = libretro-database contributors / original PSP cheat authors
+20059F7C 00000000
+20069A10 00000000
+20069A1C 10000006
+
+// NDX: Clear F Max
+Author = libretro-database contributors / original PSP cheat authors
+10307B8C 0000270F
+
+// NDX: Cp Twice
+Author = libretro-database contributors / original PSP cheat authors
+20029534 4482D000
+20029538 461AA502
+20029524 3C02
+
+// NDX: Debug Map
+Author = libretro-database contributors / original PSP cheat authors
+E0044300 0023B7A0
+202272A0 00000005
+202272A4 42C70000
+202272A8 C38A0000
+202272AC 40A00000
+
+// NDX: Dio Costume
+Author = libretro-database contributors / original PSP cheat authors
+203069D8 FFFFFFFE
+103069DC 000007FF
+
+// NDX: EBG No Use
+Author = libretro-database contributors / original PSP cheat authors
+200404E4 00000000
+200419C4 00000000
+200419E4 00000000
+20041A88 00000000
+20041A9C 24060000
+20041C44 00000000
+20041C64 10000003
+200449E8 4480A000
+200449EC 00000000
+
+// NDX: EBG Up To Max
+Author = libretro-database contributors / original PSP cheat authors
+20041B60 C60C0660
+
+// NDX: Encount Grow Up
+Author = libretro-database contributors / original PSP cheat authors
+102F2404 0000
+
+// NDX: Encount Off
+Author = libretro-database contributors / original PSP cheat authors
+20123008 10000011
+D023B7A0 00004200
+20123008 00000000
+
+// NDX: Ene MB Invalid
+Author = libretro-database contributors / original PSP cheat authors
+2004EE50 10000006
+2005029C 50000007
+200502C4 00000000
+
+// NDX: Escape Soon
+Author = libretro-database contributors / original PSP cheat authors
+200141F4 24040000
+
+// NDX: Exp. Twice
+Author = libretro-database contributors / original PSP cheat authors
+20028D10 00000000
+20028D28 4616D582
+10028D18 0000447A
+
+// NDX: Gald Max
+Author = libretro-database contributors / original PSP cheat authors
+202F30C8 05F5E0FF
+
+// NDX: Gald Twice
+Author = libretro-database contributors / original PSP cheat authors
+2002925C 4482A000
+20029260 4614D502
+20029244 3C02
+
+// NDX: Grade Max
+Author = libretro-database contributors / original PSP cheat authors
+20307B9C 3B9AC9FF
+
+// NDX: Grade Twice
+Author = libretro-database contributors / original PSP cheat authors
+20029978 4482D000
+2002997C 4614D502
+2002996C 3C02
+
+// NDX: Item All
+Author = libretro-database contributors / original PSP cheat authors
+0030770D 0000000F
+1030770E 00000F0F
+10307928 00000F0F
+0030792A 0000000F
+40307710 00860001
+0F0F0F0F 00000000
+
+// NDX: Item Max 99
+Author = libretro-database contributors / original PSP cheat authors
+0030768D 00000063
+
+// NDX: Jiraiya Seikou
+Author = libretro-database contributors / original PSP cheat authors
+2005CEE0 1000155C
+
+// NDX: Jiraiya Sippai
+Author = libretro-database contributors / original PSP cheat authors
+2005CEE0 00000000
+
+// NDX: Lucky Item
+Author = libretro-database contributors / original PSP cheat authors
+20058C18 5000000B
+
+// NDX: M Capture100
+Author = libretro-database contributors / original PSP cheat authors
+2002B414 00000000
+2002B4F0 00000000
+
+// NDX: Mel Costume
+Author = libretro-database contributors / original PSP cheat authors
+00306DF1 000000F8
+10306DF2 0000FFFF
+10306DF4 0000FFFF
+00306DF6 0000001F
+
+// NDX: OBG No Use
+Author = libretro-database contributors / original PSP cheat authors
+2003BA38 00000000
+
+// NDX: OBG Opening
+Author = libretro-database contributors / original PSP cheat authors
+2000BC2C 00000000
+
+// NDX: OBG ProHibition
+Author = libretro-database contributors / original PSP cheat authors
+2000BC50 00000000
+
+// NDX: Order All
+Author = libretro-database contributors / original PSP cheat authors
+20307C30 FFFFFFFF
+20307C34 FFFFFFFF
+00307C38 0000003F
+
+// NDX: Party Change
+Author = libretro-database contributors / original PSP cheat authors
+202F30CC 00010000
+202F30D0 00020001
+202F30D4 00030002
+202F30D8 00040003
+202F30DC 00050004
+202F30E0 00060005
+202F30E4 00070006
+202F30E8 00080007
+202F30EC 00090008
+202F30F0 000A0009
+
+// NDX: Pick Gald
+Author = libretro-database contributors / original PSP cheat authors
+20051854 00000000
+200518F0 00000000
+
+// NDX: Recipe All
+Author = libretro-database contributors / original PSP cheat authors
+2030764C FFFFFFFF
+10307650 00003FFF
+
+// NDX: Rover Item
+Author = libretro-database contributors / original PSP cheat authors
+200515C8 00000000
+20051640 00000000
+
+// NDX: Title All
+Author = libretro-database contributors / original PSP cheat authors
+202F3110 00FFFFFF
+202F33E8 003FFFFF
+102F36C0 00001FFF
+102F3998 0000FFFF
+102F3C70 00000FFF
+102F3F48 00000FFF
+102F4220 00000FFF
+102F44F8 00000FFF
+102F47D0 00000FFF
+102F4AA8 00003FFF
+
+// NDX: Top Operation
+Author = libretro-database contributors / original PSP cheat authors
+20018748 54000001
+200BDCCC 10000008
+
+// Okane Max
+Author = libretro-database contributors / original PSP cheat authors
+208893E8 0098967F
+
+// Protective Gear(Arm)
+Author = libretro-database contributors / original PSP cheat authors
+80307896 00270001
+0000000F 00000000
+
+// Protective Gear(Body)
+Author = libretro-database contributors / original PSP cheat authors
+80307845 00310001
+0000000F 00000000
+
+// Protective Gear(Head)
+Author = libretro-database contributors / original PSP cheat authors
+80307876 00200001
+0000000F 00000000
+
+// TOPX: Arche - Crab
+Author = libretro-database contributors / original PSP cheat authors
+01581B9E 00000002
+
+// TOPX: Arche - ENE Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+11581B62 00001000
+
+// TOPX: Arche - Invincible
+Author = libretro-database contributors / original PSP cheat authors
+01581B5C 000000FF
+
+// TOPX: Arche - Score Max
+Author = libretro-database contributors / original PSP cheat authors
+21581B80 0098967F
+
+// TOPX: Arche - Skill All
+Author = libretro-database contributors / original PSP cheat authors
+20889060 3B423E37
+20889064 383F4346
+20889068 4A473C4C
+2088906C 40484439
+20889070 3D3A4945
+20889074 4B4D4E41
+
+// TOPX: At Once Cooking
+Author = libretro-database contributors / original PSP cheat authors
+200C0C14 5000000C
+
+// TOPX: Auto Satsugeki (Killing Dance Sword)
+Author = libretro-database contributors / original PSP cheat authors
+20042D2C 53E00007
+20043454 54000009
+
+// TOPX: Battle Group
+Author = libretro-database contributors / original PSP cheat authors
+10889AB6 000001FC
+
+// TOPX: Canceler
+Author = libretro-database contributors / original PSP cheat authors
+20037214 10000033
+
+// TOPX: Clear Flag On
+Author = libretro-database contributors / original PSP cheat authors
+00889C40 00000001
+0088A3FC 00000001
+
+// TOPX: Cless - Skill All
+Author = libretro-database contributors / original PSP cheat authors
+20888F20 04030201
+20888F24 0E061005
+20888F28 0F07110C
+20888F2C 0A090D08
+20888F30 1413120B
+20888F34 18171615
+20888F38 1C1B1A19
+20888F3C 201F1E1D
+20888F40 24232221
+20889A40 FFFFFFFF
+20889A44 FFFFFFFF
+20889A48 00FFFFFF
+20889A4C 01010101
+20889A50 01010101
+20889A54 01010101
+20889A58 01010101
+10889A5C 00000101
+00889A5F 00000001
+
+// TOPX: Chester - Skill All
+Author = libretro-database contributors / original PSP cheat authors
+208891A0 2A272625
+208891A4 2C29282B
+008891A8 0000002D
+
+// TOPX: Cook All
+Author = libretro-database contributors / original PSP cheat authors
+20889C24 01FFFFFF
+
+// TOPX: Cook Skill Max
+Author = libretro-database contributors / original PSP cheat authors
+200C12B0 54000003
+
+// TOPX: Debug Map
+Author = libretro-database contributors / original PSP cheat authors
+10889AAC 00000005
+
+// TOPX: Encount Max
+Author = libretro-database contributors / original PSP cheat authors
+20889AA4 000F423F
+
+// TOPX: Encount Off [Press □]
+Author = libretro-database contributors / original PSP cheat authors
+10889AB8 00000000
+D082E889 20000080
+10889AB8 00000001
+
+// TOPX: F&I No Damage
+Author = libretro-database contributors / original PSP cheat authors
+200D0D8C 57E00005
+200D0DA4 17E00004
+
+// TOPX: Field Speedup
+Author = libretro-database contributors / original PSP cheat authors
+2014E2F0 57E00002
+
+// TOPX: GE Reset
+Author = libretro-database contributors / original PSP cheat authors
+00889C41 00000000
+
+// TOPX: Get Exp. 2 T G
+Author = libretro-database contributors / original PSP cheat authors
+70889C41 00000004
+
+// TOPX: Get Exp. 10 T G
+Author = libretro-database contributors / original PSP cheat authors
+70889C41 00000008
+
+// TOPX: Get Exp. Half G
+Author = libretro-database contributors / original PSP cheat authors
+70889C41 00000002
+
+// TOPX: Get Gald 2 T G
+Author = libretro-database contributors / original PSP cheat authors
+70889C41 00000020
+
+// TOPX: Get Grade Up G
+Author = libretro-database contributors / original PSP cheat authors
+70889C41 00000010
+
+// TOPX: Grade Max
+Author = libretro-database contributors / original PSP cheat authors
+20889C3C 0001869F
+
+// TOPX: Item 20 G
+Author = libretro-database contributors / original PSP cheat authors
+70889C41 00000001
+
+// TOPX: Klarth - Skill All
+Author = libretro-database contributors / original PSP cheat authors
+20889100 5251504F
+20889104 56555453
+20889108 5A595857
+
+// TOPX: Londrine - Skill All
+Author = libretro-database contributors / original PSP cheat authors
+208892E0 74737271
+208892E4 77757876
+208892E8 43423E37
+108892EC 00003F4C
+008892EE 0000003C
+
+// TOPX: Mental Symbol
+Author = libretro-database contributors / original PSP cheat authors
+2002C6CC 10600001
+
+// TOPX: Mint - Skill All
+Author = libretro-database contributors / original PSP cheat authors
+20888FC0 6669635B
+20888FC4 6760655C
+20888FC8 6C616B5E
+20888FCC 626A645D
+10888FD0 0000685F
+
+// TOPX: Mystic Arts
+Author = libretro-database contributors / original PSP cheat authors
+2003A79C 00000000
+2003A77C 10000009
+2003A7AC 57E30004
+2003A7C4 50000007
+2003A830 00000000
+2003AA1C 10000007
+2003AA70 1000000A
+0059D8B0 00000001
+00889A5F 00000001
+
+// TOPX: No Aria Time
+Author = libretro-database contributors / original PSP cheat authors
+2002FAE4 53E00009
+2002FB00 24030001
+
+// TOPX: Party Change
+Author = libretro-database contributors / original PSP cheat authors
+008893D0 00000001
+008893D2 00000002
+008893D4 00000003
+008893D6 00000004
+008893D8 00000005
+008893DA 00000006
+008893DC 00000007
+00889AC4 00000001
+00889AC6 00000002
+00889AC8 00000003
+00889ACA 00000004
+00889ACC 00000005
+00889ACE 00000006
+00889AD0 00000007
+
+// TOPX: Phantom
+Author = libretro-database contributors / original PSP cheat authors
+2002B244 24020001
+2002B248 A2820235
+
+// TOPX: Rare Bird
+Author = libretro-database contributors / original PSP cheat authors
+2014DCF0 10400001
+
+// TOPX: Suzu - Skill All
+Author = libretro-database contributors / original PSP cheat authors
+20889240 3130322E
+20889244 2F353433
+20889248 00000036
+
+// TOPX: Title All
+Author = libretro-database contributors / original PSP cheat authors
+20889AD4 0000FFFF
+20889AD8 00007F3F
+20889ADC 00007F3F
+20889AE0 00007F3F
+20889AE4 0000FF3F
+20889AE8 00007F3F
+20889AEC 0000000F
+
+// TOPX: TP No Use
+Author = libretro-database contributors / original PSP cheat authors
+2008C2E4 00601821
+200B4F5C 00401023
+
+// TOPX: Wall Penetrate
+Author = libretro-database contributors / original PSP cheat authors
+200F3358 14000004
+200F48E8 14000006
+200F4974 53E00006
+
+// Valuables
+Author = libretro-database contributors / original PSP cheat authors
+8030792B 00340001
+0000000F 00000000
+
+// Weapon
+Author = libretro-database contributors / original PSP cheat authors
+8030777F 00C60001
+0000000F 00000000

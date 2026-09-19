@@ -1,0 +1,1418 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULJM-05402
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 2nd Char. Mod
+Author = libretro-database contributors / original PSP cheat authors
+01255290 0000000C
+
+// 3rd Character: Mod
+Author = libretro-database contributors / original PSP cheat authors
+017FF65C 00000029
+
+// 767 Combo
+Author = libretro-database contributors / original PSP cheat authors
+012552E4 000002FF
+012755CC 000002FF
+
+// 9999 KOs
+Author = libretro-database contributors / original PSP cheat authors
+21255284 0000270F
+2127E434 0000270F
+212E3770 0000270F
+212F0584 0000270F
+
+// Activate If Play As NPC/CAC
+Author = libretro-database contributors / original PSP cheat authors
+012552B8 00000041
+01255290 0000000C
+D00000FF 10000100
+111EBAD6 00000C0C
+111EBAFA 00004141
+111EBAB2 00004D4D
+21254F6C 0B0B0304
+
+// Activate Turbo Keys Mod
+Author = libretro-database contributors / original PSP cheat authors
+0123264D 00000004
+
+// Always Defense x2
+Author = libretro-database contributors / original PSP cheat authors
+01280D45 00000333
+012552FD 00000333
+
+// Always Speed Up
+Author = libretro-database contributors / original PSP cheat authors
+11280D46 00000350
+11255304 00000350
+
+// Always Speed x2
+Author = libretro-database contributors / original PSP cheat authors
+0130276A 00000444
+013027EA 00000444
+012EC0DD 00000000
+012EC0DA 00000000
+00D440F0 00000000
+
+// Atk. Speed
+Author = libretro-database contributors / original PSP cheat authors
+D00000FF 10000200
+1133D4F6 00004B2F
+
+// Attack Up
+Author = libretro-database contributors / original PSP cheat authors
+712552F0 00000002
+112552F8 00000384
+
+// Auto Attack Square
+Author = libretro-database contributors / original PSP cheat authors
+D000000C 10008000
+0123264D 00000001
+
+// Auto Attack Triangle
+Author = libretro-database contributors / original PSP cheat authors
+D00000E6 10001000
+0123264D 00000001
+
+// Create A Character Nor.Slt.1
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000001
+01255268 00000001
+01255290 00000001
+011EBAB6 00000000
+011EBAB7 00000000
+111EBAB2 00000101
+21254F68 06060606
+
+// Create A Character Nor.Slt.2
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000001
+01255268 00000001
+01255290 00000001
+011EBAB6 00000000
+011EBAB7 00000001
+111EBAB2 00004040
+21254F68 06060606
+
+// Create A Character NPC Slt.1
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000085
+011EBAB7 00000001
+111EBAB2 00005C5C
+012555B1 0000005C
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Create A Character NPC Slt.2
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000085
+011EBAB7 00000001
+111EBAB2 00005C5C
+012555B1 0000005C
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Defense Up
+Author = libretro-database contributors / original PSP cheat authors
+712552F0 00000004
+112552FC 00000384
+
+// Enable Maou Sairin X Mod
+Author = libretro-database contributors / original PSP cheat authors
+21254F70 00050201
+21254F6C 0B0B0304
+21254F68 09060A06
+21254F74 0B0B0800
+D00000FF 10002200
+212F34F8 00D60000
+
+// Enter Normal Mode
+Author = libretro-database contributors / original PSP cheat authors
+21254F68 09060A06
+21254F6C 0B0B0304
+
+// Final Musou Attack [R+Circle]
+Author = libretro-database contributors / original PSP cheat authors
+D00000FF 10002200
+212F34F8 00D60000
+
+// Have All Materials
+Author = libretro-database contributors / original PSP cheat authors
+21254F20 3FFFFFFF
+
+// HP Max
+Author = libretro-database contributors / original PSP cheat authors
+112F34F0 00000320
+112F34F2 00000320
+
+// Infinite Force jokeRed
+Author = libretro-database contributors / original PSP cheat authors
+D0000020 30002000
+212F34F8 00D600F2
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+512F34F0 00000002
+012F34F2 00000000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+512F34F0 00000001
+012F34F2 00000000
+
+// Infinite Power
+Author = libretro-database contributors / original PSP cheat authors
+212F34F8 00D6014F
+01280D70 00000101
+21280D3C 003A0090
+2127F82C 010B009A
+2127EDF4 010B009A
+
+// Infinite Upgrade Points For Experience
+Author = libretro-database contributors / original PSP cheat authors
+20DB57A8 0001869F
+20DDDD48 0001869F
+
+// Infinite Upgrade Points For Weapon
+Author = libretro-database contributors / original PSP cheat authors
+20DB7358 0001869F
+
+// Infinite Musou (L+O Off)
+Author = libretro-database contributors / original PSP cheat authors
+E0022100 11232620
+512F34F6 00000002
+012F34F8 00000000
+
+// Max Defense
+Author = libretro-database contributors / original PSP cheat authors
+112F34FC 00007000
+
+// Max Jump
+Author = libretro-database contributors / original PSP cheat authors
+212F3504 42C80000
+
+// Max Kills Of All Stages
+Author = libretro-database contributors / original PSP cheat authors
+41254BEC 00440003
+0000270F 00000000
+
+// Max Movement
+Author = libretro-database contributors / original PSP cheat authors
+212F3500 41D20000
+
+// Max Movement Speed
+Author = libretro-database contributors / original PSP cheat authors
+212F3500 42C80000
+
+// Max Specials Of All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+81254F3D 000F0001
+00000063 00000000
+
+// Max Stored Exp.
+Author = libretro-database contributors / original PSP cheat authors
+21254F1C 0001869F
+
+// Max Stored Experience
+Author = libretro-database contributors / original PSP cheat authors
+21254F1C 0001869F
+
+// Max Strenght
+Author = libretro-database contributors / original PSP cheat authors
+112F34FA 00007000
+
+// Min Clear Time Of All Stages
+Author = libretro-database contributors / original PSP cheat authors
+41254BE8 00440003
+
+// Music Selector
+Author = libretro-database contributors / original PSP cheat authors
+0133CD7C 0000000E
+
+// Musou No Decrease
+Author = libretro-database contributors / original PSP cheat authors
+712552F0 00000008
+11255300 00000384
+
+// Orochi X Level Mod
+Author = libretro-database contributors / original PSP cheat authors
+00DB57AC 00000061
+00DB57A0 000000C6
+10DB579C 000001CB
+10DB5798 000001DD
+10DB5790 000001CF
+20DB578C 00034EE0
+00DB5788 00000061
+
+// Speed Up
+Author = libretro-database contributors / original PSP cheat authors
+712552F0 00000010
+11255304 00000384
+
+// Unlock All Movies
+Author = libretro-database contributors / original PSP cheat authors
+11254F4E 0000FFFF
+71254F50 00010BFF
+
+// Unlock All Music
+Author = libretro-database contributors / original PSP cheat authors
+81254F52 00070001
+000000FF 00000000
+71254F59 00000007
+
+// Unlock All Stages
+Author = libretro-database contributors / original PSP cheat authors
+41254BF0 00440003
+00000001 00000000
+
+// Unlock All Warriors
+Author = libretro-database contributors / original PSP cheat authors
+8124FD59 005C00D8
+000000FF 00000000
+01254AF9 00000040
+01254BD1 00000040
+
+// Weapon 255 Attack
+Author = libretro-database contributors / original PSP cheat authors
+00DB7247 000002FF
+00DDF7E7 000002FF
+
+// Weapon Mod
+Author = libretro-database contributors / original PSP cheat authors
+011EBAB6 0000008C
+
+// Weapon Mode Switch
+Author = libretro-database contributors / original PSP cheat authors
+011EBAB7 00000001
+
+// Play As Woman Warrior Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000052
+01255268 00000052
+011EBAB6 00000074
+111EBAB2 00006E7E
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Amazon Warrior Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000051
+01255268 00000051
+011EBAB6 00000074
+111EBAB2 00006E7C
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Amazon Warrior Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000051
+01255268 00000051
+011EBAB6 00000070
+111EBAB2 00006A7C
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Andonisis
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000018
+01255268 00000018
+011EBAB6 0000008A
+011EBAB7 00000001
+111EBAB2 00007686
+21254F68 06060606
+D00000FF 10000200
+1133D4E7 00000162
+1133D4EE 00000152
+21254F6C 0B0B0404
+
+// Play As Archer
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000046
+01255268 00000046
+011EBAB6 00000084
+111EBAB2 00007278
+21254F68 06060606
+
+// Play As Armored Soldier Sp2
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000074
+111EBAB2 00006F74
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Armored Soldier Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000074
+111EBAB2 00006E74
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Armored Soldier Stg.
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000085
+111EBAB2 00007474
+112F34FA 00000600
+21254F68 06060606
+
+// Play As Armored Warrior Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000047
+01255268 00000047
+011EBAB6 00000077
+111EBAB2 00006465
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Armored Warrior Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000004B
+01255268 0000004B
+011EBAB6 0000008A
+111EBAB2 00006165
+112F34FC 000002B5
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Baiazid I
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000054
+01255268 00000054
+011EBAB6 0000006C
+111EBAB2 0000298D
+0133CD7C 00000032
+112F34FC 00000900
+212F3500 41B20000
+212F3504 41080000
+017FF65C 00000029
+21254F68 06060606
+
+// Play As Base Captain
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000051
+01255268 00000051
+011EBAB6 00000086
+111EBAB2 0000697D
+112F34FA 0000013F
+112F34FC 000002E0
+212F3500 41760000
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Base Captain El.Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000051
+01255268 00000051
+011EBAB6 0000008B
+111EBAB2 0000607D
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Bekenik Archer
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000084
+111EBAB2 0000726F
+112F34FC 00000260
+112F34FA 00000500
+21254F68 06060606
+
+// Play As Bekenik Shield
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000086
+111EBAB2 00007C6F
+112F34FA 00000220
+112F34FC 00000230
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Bekenik Shotgun
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000085
+111EBAB2 0000736F
+112F34FC 00000260
+112F34FA 00000700
+21254F68 06060606
+
+// Play As Bekenik Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000074
+111EBAB2 00006E6F
+112F34FC 00000300
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Bekenik Spear 2
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000074
+111EBAB2 00006F6F
+112F34FA 00000320
+112F34FC 00000300
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Bekenik Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000070
+111EBAB2 00006A6F
+112F34FC 00000300
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As BombThrower
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000047
+01255268 00000047
+011EBAB6 00000083
+111EBAB2 00006780
+112F34FA 0000032F
+112F34FC 00000220
+212F3500 41F60000
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As BoneCrusher
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000054
+01255268 00000054
+011EBAB6 00000081
+111EBAB2 0000788B
+112F34FA 00006800
+112F34FC 00005800
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Boss Lu Bu
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000000C
+01255268 0000000C
+0133CD7C 0000001D
+112F34FA 00000500
+21254F68 06060606
+112F34FC 00000450
+212F3500 41CB0000
+01280D45 00000333
+012552FD 00000333
+01255290 0000004D
+012552B8 00000041
+
+// Play As Boss Masamune Date
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000003B
+01255268 0000003B
+0133CD7C 00000021
+112F34FA 00000420
+112F34FC 00000380
+212F3500 41920000
+21254F68 06060606
+D000006B 10000200
+1133D4E9 00000419
+
+// Play As Boss Orochi
+Author = libretro-database contributors / original PSP cheat authors
+111EBAB2 00004D4D
+01255268 0000004D
+017FF654 0000004D
+012552B8 00000041
+01255290 0000000C
+011EBAB6 00000036
+0133CD7C 0000002E
+112F34FA 00000540
+112F34FC 000005F0
+1133D4EA 0000052E
+1133D4F4 00000382
+212F3500 41B40000
+21254F68 06060606
+D00000FF 10000200
+2133D4A0 4401D346
+1133D4E7 00000030
+
+// Play As Defates
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000046
+01255268 00000046
+011EBAB6 0000008A
+111EBAB2 0000607F
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Demon Commander H.SP.
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000054
+01255268 00000054
+011EBAB6 00000077
+111EBAB2 0000746B
+112F34FA 000003A0
+112F34FC 000002F0
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Demon Commander H.Sp2
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000054
+01255268 00000054
+011EBAB6 00000077
+111EBAB2 0000706B
+112F34FA 00000340
+112F34FC 00000300
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Demon Commander Low.sp
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000054
+01255268 00000054
+011EBAB6 00000077
+111EBAB2 0000646B
+112F34FA 00000260
+112F34FC 000002B0
+212F3500 41620000
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Demon Commander Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000054
+01255268 00000054
+011EBAB6 0000008A
+111EBAB2 0000616B
+112F34FA 000001E0
+112F34FC 00000285
+212F3500 41820000
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Demon Warrior Archer
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000053
+01255268 00000053
+011EBAB6 00000084
+111EBAB2 00007277
+112F34FA 00005F00
+112F34FC 00000290
+21254F68 06060606
+
+// Play As Demon Warrior lsp
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000053
+01255268 00000053
+011EBAB6 00000074
+111EBAB2 00006E77
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Demon Warrior Shotgun
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000053
+01255268 00000053
+011EBAB6 00000085
+111EBAB2 00007377
+112F34FA 00007000
+21254F68 06060606
+
+// Play As Demon Warrior Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000053
+01255268 00000053
+111EBAB2 00006A77
+011EBAB6 00000070
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Dodomeki
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000035
+01255268 00000035
+011EBAB6 0000008D
+011EBAB7 00000001
+111EBAB2 00005C5C
+012555B1 0000005C
+112F34FA 00000220
+11280D46 00000350
+11255304 00000350
+21254F68 06060606
+D00000CF 10000100
+01255268 0000005C
+21254F68 09060A06
+D00000FF 10001000
+1133D4EE 000000F2
+
+// Play As Dosh
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000041
+01255268 00000041
+011EBAB6 00000077
+111EBAB2 0000645E
+112F34FA 0000014F
+112F34FC 00000209
+212F3500 41890000
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Elite Gunner
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000050
+01255268 00000050
+011EBAB6 00000085
+111EBAB2 00007385
+21254F68 06060606
+
+// Play As Excalidus Special
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000005B
+01255268 0000005B
+011EBAB6 00000007
+111EBAB2 0000708D
+212F3500 41CF0000
+112F34FC 00000350
+112F34FA 00000310
+212F3504 41E80000
+0133CD7C 0000001A
+21254F68 06060606
+21254F6C 0B0B0404
+D00000FF 10000200
+1133D4F6 0000034F
+
+// Play As Fi Fi Archer
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000052
+01255268 00000052
+011EBAB6 00000084
+011EBAB7 00000001
+111EBAB2 00007276
+21254F68 06060606
+
+// Play As Fu Ying Low Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000053
+01255268 00000053
+011EBAB6 00000074
+111EBAB2 00006F73
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Fu Ying Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000053
+01255268 00000053
+011EBAB6 00000070
+111EBAB2 00006A73
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Gate Captain Shield 2
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000004B
+01255268 0000004B
+011EBAB6 00000086
+111EBAB2 00006975
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Gate Guardian Shield
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000004B
+01255268 0000004B
+011EBAB6 00000086
+111EBAB2 00007C75
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As General Molok Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000031
+01255268 00000031
+011EBAB6 00000076
+011EBAB7 00000001
+111EBAB2 00006461
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As General Molok Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000031
+01255268 00000031
+011EBAB6 0000008A
+011EBAB7 00000001
+111EBAB2 00006161
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As General Taifun Bei
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000051
+01255268 00000051
+011EBAB6 0000008A
+111EBAB2 00006169
+112F34FA 000001B0
+112F34FC 000002B0
+212F3500 416F0000
+21254F68 06060606
+21254F6C 0B0B0404
+D00000FF 10000200
+1133D4F6 000002A0
+
+// Play As General Taifun Bei SP.
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000051
+01255268 00000051
+011EBAB6 00000077
+111EBAB2 00006469
+112F34FA 00000220
+112F34FC 000002F0
+212F3500 41630000
+21254F6C 0B0B0404
+21254F68 06060606
+D00000FF 10000200
+1133D4FA 00000361
+
+// Play As Gladiator
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000051
+01255268 00000051
+011EBAB6 00000086
+111EBAB2 00006964
+012555B1 0000005E
+112F34FA 00000431
+112F34FC 00000310
+212F3500 41620000
+0133CD7C 0000000E
+21254F68 06060606
+21254F6C 0B0B0404
+D0000051 10000200
+1133D4F6 0000022F
+1133D4F4 00000382
+
+// Play As Gozisis Archer
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000017
+01255268 00000017
+011EBAB6 00000084
+011EBAB7 00000001
+111EBAB2 00007278
+21254F68 06060606
+
+// Play As Graves Armored Staff
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000000A
+01255268 0000000A
+011EBAB6 00000079
+011EBAB7 00000001
+111EBAB2 0000658A
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Graves Spear 4
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000000A
+01255268 0000000A
+011EBAB6 00000076
+011EBAB7 00000001
+111EBAB2 0000668A
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Grovias
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000043
+01255268 00000043
+011EBAB6 00000076
+011EBAB7 00000001
+111EBAB2 0000646A
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Gyauki
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000047
+01255268 00000047
+011EBAB6 0000008C
+011EBAB7 00000001
+111EBAB2 00005D5D
+012555B1 0000005D
+21254F68 06060606
+D00000FF 10000100
+01255268 0000005D
+21254F68 09060A06
+
+// Play As Hamushijutsu Spear 4
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000019
+01255268 00000019
+011EBAB6 00000076
+011EBAB7 00000001
+111EBAB2 0000667F
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Han Kamus Special SP.
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000000A
+01255268 0000000A
+011EBAB6 00000007
+111EBAB2 00006471
+012555B1 0000005E
+112F34FC 000002B0
+21254F6C 0B0B0404
+21254F68 06060606
+D00000FF 10000200
+2133D4E7 00000532
+
+// Play As Han Kamus Special Sw.
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000000A
+01255268 0000000A
+011EBAB6 000000CB
+111EBAB2 00006171
+012555B1 0000005E
+017FF65C 00000032
+112F34FC 000002C0
+21254F6C 0B0B0404
+21254F68 06060606
+D00000FF 10000200
+212F34F8 00D600F2
+2133D4E7 00000532
+
+// Play As Havik Spear 4
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000020
+01255268 00000020
+011EBAB6 00000077
+011EBAB7 00000001
+111EBAB2 00006683
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Heavy Trooper Archer
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000085
+111EBAB2 0000737B
+112F34FA 00000230
+21254F68 06060606
+
+// Play As Heavy Trooper El. Sw.
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 0000008B
+111EBAB2 0000607B
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Heavy Trooper Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000074
+111EBAB2 00006E7B
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Heavy Trooper Spear 2
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000087
+111EBAB2 00006F7B
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Heavy Trooper Spear 3
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000087
+111EBAB2 0000637B
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Heavy Trooper Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000049
+01255268 00000049
+011EBAB6 00000070
+111EBAB2 00006A7B
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Hitara Special
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000052
+01255268 00000052
+0133CD7C 00000022
+011EBAB6 0000002B
+011EBAB7 00000001
+111EBAB2 0000687E
+21254F6C 0B0B0404
+21254F68 06060606
+D00000FF 10000200
+1133D4EE 00000006
+1133D4FA 00000361
+
+// Play As Hung Do High Spear 2
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000041
+01255268 00000041
+011EBAB6 00000077
+111EBAB2 00007066
+112F34FA 0000018A
+112F34FC 0000016B
+212F3500 41660000
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Hung Do Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000041
+01255268 00000041
+011EBAB6 00000077
+111EBAB2 00006466
+112F34FA 0000019A
+112F34FC 0000015B
+212F3500 41560000
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Jeet Fu Archer
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000004F
+01255268 0000004F
+011EBAB6 00000084
+111EBAB2 00007272
+112F34FA 00000600
+112F34FC 00000220
+21254F68 06060606
+
+// Play As Jeet Fu Shotgun
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000004F
+01255268 0000004F
+011EBAB6 00000085
+111EBAB2 00007372
+112F34FA 00007000
+21254F68 06060606
+
+// Play As Jeet Fu Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000004F
+01255268 0000004F
+011EBAB6 00000074
+111EBAB2 00006E72
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Jeet Fu Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000004F
+01255268 0000004F
+011EBAB6 00000070
+111EBAB2 00006A72
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Jitai Elite Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000053
+01255268 00000053
+011EBAB6 0000008B
+111EBAB2 0000606E
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Jitai Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000053
+01255268 00000053
+011EBAB6 00000074
+111EBAB2 00006E6E
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Jitai Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000053
+01255268 00000053
+011EBAB6 00000070
+111EBAB2 00006A6E
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Komodor Spear 4
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000022
+01255268 00000022
+011EBAB6 00000076
+011EBAB7 00000001
+111EBAB2 00006684
+012555B1 0000005E
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Komunitsu Staff
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000020
+01255268 00000020
+011EBAB6 0000007B
+011EBAB7 00000001
+111EBAB2 00006460
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Komunitsu Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000020
+01255268 00000020
+011EBAB6 0000008A
+011EBAB7 00000001
+111EBAB2 00006060
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Kune Do Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000051
+01255268 00000051
+011EBAB6 0000008A
+111EBAB2 00006166
+112F34FA 00000150
+112F34FC 000002A0
+212F3500 41AB0000
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Leonid Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000001
+01255268 00000001
+011EBAB7 00000001
+011EBAB6 00000076
+111EBAB2 00006462
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Leonid Sword
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000001
+01255268 00000001
+011EBAB6 0000008A
+011EBAB7 00000001
+111EBAB2 00006162
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Lindza
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000004E
+01255268 0000004E
+011EBAB6 00000070
+111EBAB2 00006C70
+112F34FA 00000200
+112F34FC 00000430
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Lu Sih Zan
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000004B
+01255268 0000004B
+011EBAB6 0000008A
+112F34FC 000002B5
+111EBAB2 00006168
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Makui
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000051
+01255268 00000051
+011EBAB6 0000008B
+111EBAB2 0000605E
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Muai Fang
+Author = libretro-database contributors / original PSP cheat authors
+01255268 00000046
+017FF654 00000046
+011EBAB6 00000077
+111EBAB2 00006467
+112F34FA 000001D0
+112F34FC 00000270
+212F3500 41920000
+21254F68 06060606
+21254F6C 0B0B0404
+D00000FF 10000200
+1133D4FA 00000361
+1133D4F6 00000360
+
+// Play As Nekrodolis
+Author = libretro-database contributors / original PSP cheat authors
+111EBAB2 00005D5D
+017FF654 00000047
+01255268 00000047
+011EBAB6 00000047
+011EBAB7 00000001
+012555B1 0000005D
+1133D4F6 00004EAF
+0133CD7C 00000027
+112F34FA 000005A0
+112F34FC 000007B0
+212F3500 41A20000
+212F3504 41C80000
+2133D4A0 4401D346
+1133D54C 00000600
+017FF65C 00000010
+D00000FF 10000300
+01255268 0000005D
+1133D54C 00000000
+
+// Play As Nexus King(CAC)
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000051
+01255268 00000051
+011EBAB6 00000032
+111EBAB2 00004C51
+011EBAB7 00000001
+0133CD7C 0000002B
+012552B8 0000004C
+2133D4A0 4401D346
+21254F68 06060606
+
+// Play As Ninja
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000050
+01255268 00000050
+011EBAB6 0000007E
+111EBAB2 0000768F
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Red Archer
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000051
+01255268 00000051
+011EBAB6 00000084
+111EBAB2 00007279
+21254F68 06060606
+
+// Play As Red Warrior Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000004B
+01255268 0000004B
+011EBAB6 00000074
+111EBAB2 00006E75
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Saphior Detonator
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000043
+01255268 00000043
+011EBAB6 00000083
+111EBAB2 00007B8E
+112F34FA 0000017F
+112F34FC 00000280
+212F3500 41A10000
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Shadow Hunter
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000053
+01255268 00000053
+111EBAB2 0000798C
+011EBAB6 00000081
+112F34FA 00007000
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Shielded Captain
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000053
+01255268 00000053
+011EBAB6 00000086
+111EBAB2 00006973
+012555B1 0000005E
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Shielded Warrior
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000053
+01255268 00000053
+011EBAB6 00000086
+111EBAB2 00007C73
+012555B1 0000005E
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Sorcerer
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000053
+01255268 00000053
+011EBAB6 00000088
+111EBAB2 00005E81
+012555B1 0000005E
+112F34FA 00000320
+21254F68 06060606
+21254F6C 0B0B0404
+D0000088 10000200
+1133D4F2 0000035F
+
+// Play As Super Shin Orochi
+Author = libretro-database contributors / original PSP cheat authors
+111EBAB2 00005B5B
+01255268 0000005B
+017FF654 0000005B
+011EBAB6 0000006F
+112F34FA 000008A0
+112F34FC 00000800
+212F3504 41D80000
+212F3500 421B0000
+11255304 00000350
+11280D46 00000350
+01280D45 00000333
+012552FD 00000333
+013027EA 00000444
+0130276A 00000444
+1133D4FA 00000361
+1133D4F6 00003E8B
+21254F68 06060606
+0133CD7C 00000025
+2133D4A0 4401D346
+D00000FF 30002000
+212F34F8 00D600F0
+0133D4F9 00000004
+D00000FF 10008000
+1133D4F2 0000035F
+1133D4F3 0000046F
+1133D4F4 00000382
+1133D4EE 00000332
+1133D4EA 0000052E
+1133D4E9 00000419
+1133D4E7 00000532
+
+// Play As Tomoku Archer
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000001D
+01255268 0000001D
+011EBAB6 00000084
+011EBAB7 00000001
+111EBAB2 00007282
+21254F68 06060606
+
+// Play As Villager Spear
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000017
+01255268 00000017
+011EBAB6 00000074
+111EBAB2 00006E88
+011EBAB7 00000001
+21254F6C 0B0B0404
+21254F68 06060606
+
+// Play As Warrior Priest
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000043
+01255268 00000043
+011EBAB6 00000082
+111EBAB2 00007A8D
+112F34FC 00001000
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Woman Ninja
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000036
+01255268 00000036
+011EBAB6 0000007E
+011EBAB7 00000001
+111EBAB2 00007787
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Woman Warrior Spear 2
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000052
+01255268 00000052
+011EBAB6 00000074
+111EBAB2 00006F7E
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Yellow Aremer
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000043
+01255268 00000043
+011EBAB6 00000077
+111EBAB2 0000645F
+112F34FA 0000012F
+112F34FC 0000020E
+212F3500 419F0000
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Yellow Warrior SP
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 0000000A
+01255268 0000000A
+011EBAB6 00000074
+011EBAB7 00000001
+111EBAB2 00006E7A
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Zang Chen
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000045
+01255268 00000045
+011EBAB6 00000074
+111EBAB2 0000636F
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Zhung Wu WO1
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000051
+01255268 00000051
+011EBAB6 0000007B
+111EBAB2 00006463
+112F34FA 0000026A
+112F34FC 000002BB
+212F3500 41560000
+21254F68 06060606
+21254F6C 0B0B0404
+
+// Play As Zhung Wu WO2
+Author = libretro-database contributors / original PSP cheat authors
+017FF654 00000045
+01255268 00000045
+011EBAB6 00000077
+111EBAB2 00006463
+112F34FA 000001AA
+112F34FC 0000021B
+212F3500 41920000
+21254F68 06060606
+21254F6C 0B0B0404
