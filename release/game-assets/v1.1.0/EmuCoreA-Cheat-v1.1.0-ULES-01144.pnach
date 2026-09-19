@@ -1,0 +1,456 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-01144
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Draw Distance Fix
+Author = libretro-database contributors / original PSP cheat authors
+200AAB00 AC800000
+
+// Draw Distance No-Fix [Default]
+Author = libretro-database contributors / original PSP cheat authors
+200AAB00 AC850000
+
+// 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E009001E 10003800
+10003800 0000001E
+20003804 0E2AB395
+20003808 00000000
+2000380C 0E2F232A
+20003810 00000000
+20003814 0A2AB3FE
+20003818 8F84A258
+202ACFEC 0A200E01
+202ACFF4 00000000
+
+// 60 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E005003C 10003800
+10003800 0000003C
+50003450 00000018
+00003804 00000000
+202ACFEC 0E2AB395
+202ACFF4 8F84A258
+
+// 1337 Steering
+Author = libretro-database contributors / original PSP cheat authors
+201583E0 00004040
+
+// 20000 Rep. Points
+Author = libretro-database contributors / original PSP cheat authors
+1056A470 00004E20
+
+// 100000$
+Author = libretro-database contributors / original PSP cheat authors
+20526FC0 000F4240
+
+// 580000 Money Always
+Author = libretro-database contributors / original PSP cheat authors
+20526FC0 0008D9A0
+
+// 107049925$
+Author = libretro-database contributors / original PSP cheat authors
+20526FE0 066173C5
+
+// Blip Size
+Author = libretro-database contributors / original PSP cheat authors
+200CBC14 00004000
+
+// Bright Lights
+Author = libretro-database contributors / original PSP cheat authors
+200A47B8 00004080
+
+// Car Speed Modifier
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 005A3D68
+20000030 00000000
+
+// Car Speed Modifier v2
+Author = libretro-database contributors / original PSP cheat authors
+605A3D68 00000000
+00020001 00000030
+
+// Disable AI (Hold Select While Race Loads)
+Author = libretro-database contributors / original PSP cheat authors
+20351FBC A2700001
+217AE9E8 00000001
+20351FBC A2600001
+D2000000 00000000
+
+// First Person View
+Author = libretro-database contributors / original PSP cheat authors
+20032DE0 00003E00
+
+// Height Cam [Stationary]
+Author = libretro-database contributors / original PSP cheat authors
+20164B50 00004100
+
+// Hud Positions
+Author = libretro-database contributors / original PSP cheat authors
+200BC004 00003FA4
+
+// Hyper Cam
+Author = libretro-database contributors / original PSP cheat authors
+20032DEC 00004080
+
+// Inf. In-The-Zone
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 004DA4C0
+20000108 00000005
+
+// Inf. In-The-Zone v2
+Author = libretro-database contributors / original PSP cheat authors
+604DA4C0 00000005
+00020001 00000108
+
+// Inf. Nitro
+Author = libretro-database contributors / original PSP cheat authors
+6042F2C8 00000005
+00000001 00000222
+
+// Inf. Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+604D5BDC 00050064
+00020001 00000220
+
+// Inf. Nitrous v2
+Author = libretro-database contributors / original PSP cheat authors
+6042F2C8 00050064
+00020001 00000220
+
+// Infinite Car Health
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 004D665C
+20000024 00000000
+
+// Infinite Car Health v2
+Author = libretro-database contributors / original PSP cheat authors
+604D665C 00000000
+00020001 00000024
+
+// Infinite Cash
+Author = libretro-database contributors / original PSP cheat authors
+20526FC0 77359400
+
+// Infinite Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+2042F2C8 00000005
+00020000 00000222
+
+// Infinite Nitrous v2
+Author = libretro-database contributors / original PSP cheat authors
+2042F2C8 00000005
+00020001 00000222
+
+// Legend
+Author = libretro-database contributors / original PSP cheat authors
+2056A470 00004E20
+
+// Map Removal
+Author = libretro-database contributors / original PSP cheat authors
+200C11BE 00003C08
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+20526FC0 05F5E0FF
+
+// Max Cash v2
+Author = libretro-database contributors / original PSP cheat authors
+20526FC0 05F5E0FF
+20526FE0 05F5E0FF
+
+// Max Reputation
+Author = libretro-database contributors / original PSP cheat authors
+20538EF0 00004E20
+2056A470 00004E20
+
+// Max/Infinite Nitro (Press X+Square)
+Author = libretro-database contributors / original PSP cheat authors
+200D8E3C 00000000
+200D8E44 00000000
+217FF418 0000C000
+200D8E3C 3C013F80
+200D8E44 AE4101B0
+D2000000 00000000
+
+// Money (1 Million)
+Author = libretro-database contributors / original PSP cheat authors
+20526FC0 000F4240
+
+// Objects
+Author = libretro-database contributors / original PSP cheat authors
+2042A390 3F800000
+
+// Objects [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2042A390 23800000
+
+// Radar Signal Size
+Author = libretro-database contributors / original PSP cheat authors
+200C360C 00004480
+
+// Slow-Mo (In-The-Zone)
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 004DA4C0
+20000148 3E800000
+
+// Slow-Mo (In-The-Zone) v2
+Author = libretro-database contributors / original PSP cheat authors
+604DA4C0 3E800000
+00020001 00000148
+
+// Speed Mod: Normal Speed
+Author = libretro-database contributors / original PSP cheat authors
+2042B45C 3D4CCCCD
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2042B45C 3C8CCCCD
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2042B45C 3C0CCCCD
+
+// Stats
+Author = libretro-database contributors / original PSP cheat authors
+2056A470 000186A0
+
+// Text Size
+Author = libretro-database contributors / original PSP cheat authors
+200B3B24 00003F00
+
+// Total Cash Earned
+Author = libretro-database contributors / original PSP cheat authors
+2054CF7C 77359400
+
+// Traffic Freeze
+Author = libretro-database contributors / original PSP cheat authors
+2031E118 03E00008
+
+// Traffic Freeze [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2031E118 27BDFF60
+
+// Uni Inf. NoS
+Author = libretro-database contributors / original PSP cheat authors
+200C02BC 0E200180
+20000600 3C0808C3
+20000604 8D09F2C8
+20000608 10080004
+20000610 3C0A0005
+20000614 354A0064
+20000618 AD2A0220
+2000061C 03E00008
+20000624 3C0808CE
+20000628 8D095BDC
+2000062C 10080004
+20000634 3C0A0005
+20000638 354A0064
+2000063C AD2A0220
+20000640 03E00008
+20000644 0E2AEBAB
+
+// Unlimited Damage (LA)
+Author = libretro-database contributors / original PSP cheat authors
+2044B200 00000000
+213C9D80 00000000
+213C9DD0 00000000
+213C9E70 00000000
+21431244 00000000
+21431248 00000000
+
+// Disable Car Modifier Codes
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 84820000
+
+// Driving 04 Cobra
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020021
+
+// Driving 04 Focus SVT
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402000A
+
+// Driving 05 Mustang
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020016
+
+// Driving 06 350Z
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402001A
+
+// Driving 06 999R
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402001F
+
+// Driving 06 Benz S600
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020029
+
+// Driving 06 Cobalt SS
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020006
+
+// Driving 06 GAllardo
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020024
+
+// Driving 06 GT
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020022
+
+// Driving 06 Lancer
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020018
+
+// Driving 06 S7
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402002B
+
+// Driving 06 Solstice
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402000D
+
+// Driving 07 300C SRT8
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020012
+
+// Driving 07 Monster
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020020
+
+// Driving 07 SL65 AMG
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402002A
+
+// Driving 07 Vantage
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402001D
+
+// Driving 07 Z06
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402001E
+
+// Driving 08 R32
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402001C
+
+// Driving 08 S302
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402002C
+
+// Driving 69 Boss 302
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020009
+
+// Driving 69 Camaro SS
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020005
+
+// Driving 70 ChAll RT
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020008
+
+// Driving 71 Miura
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020025
+
+// Driving 75 280Z
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020003
+
+// Driving 79 Firebird
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402000E
+
+// Driving 88 Scirocco
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020001
+
+// Driving 83 Gold GTI
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020000
+
+// Driving 95 RX7
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020019
+
+// Driving 96 Impala SS
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020007
+
+// Driving 98 240SX
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020002
+
+// Driving 99 3000GT
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020017
+
+// Driving 99 Eclipse
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402000B
+
+// Driving 99 Skyline
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402001B
+
+// Driving 2008 R8
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402002D
+
+// Driving 2008 RS4
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402000F
+
+// Driving Camaro
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020011
+
+// Driving Camaro Dub
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020010
+
+// Driving Challenger
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020013
+
+// Driving Challenger Dub
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020014
+
+// Driving Grand NTML
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020004
+
+// Driving LA Cop
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402002E
+
+// Driving Ninja ZX14
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020023
+
+// Driving Murcielago
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020027
+
+// Driving Murcielago Dub
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020026
+
+// Driving RX8 SHinka
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402000C
+
+// Driving S600 Dub
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020028
+
+// Driving SRT-8
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 24020015
+
+// Driving Tokyo Cop
+Author = libretro-database contributors / original PSP cheat authors
+20135D84 2402002F

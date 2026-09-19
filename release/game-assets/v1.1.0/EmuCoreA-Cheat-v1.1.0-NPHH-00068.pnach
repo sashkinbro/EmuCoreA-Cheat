@@ -1,0 +1,560 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPHH-00068
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Exp. To Level Up
+Author = libretro-database contributors / original PSP cheat authors
+10C92F40 0000EA60
+
+// 2.5M Pang
+Author = libretro-database contributors / original PSP cheat authors
+20C92F48 002625A0
+
+// 9,999,999 Pang
+Author = libretro-database contributors / original PSP cheat authors
+20C92F48 0098967F
+
+// All Bongdari
+Author = libretro-database contributors / original PSP cheat authors
+80CA4128 001E0038
+00000001 00000000
+
+// All Caddies
+Author = libretro-database contributors / original PSP cheat authors
+80C9D128 001E0038
+00000001 00000000
+
+// All Chars
+Author = libretro-database contributors / original PSP cheat authors
+80C92F4C 001208E4
+00000001 00000000
+
+// All Clubs
+Author = libretro-database contributors / original PSP cheat authors
+80C9CF58 00160008
+00000001 00000000
+
+// All Phoenix
+Author = libretro-database contributors / original PSP cheat authors
+80C9D01C 000B0006
+100003E7 00000000
+80C9D014 000B000C
+00000001 00000000
+
+// All Pills
+Author = libretro-database contributors / original PSP cheat authors
+80C9D7C0 000E0006
+100003E7 00000000
+
+// All Rings
+Author = libretro-database contributors / original PSP cheat authors
+80C9D098 00120008
+00000001 00000000
+
+// Always Curve Mastery
+Author = libretro-database contributors / original PSP cheat authors
+2013DB04 10000013
+
+// Always Lucky Panya
+Author = libretro-database contributors / original PSP cheat authors
+200B4914 10000014
+200C17EC 100000CB
+200FE720 10000014
+200FFB6C 10000014
+201730DC 10000026
+
+// Always Nerve Stable
+Author = libretro-database contributors / original PSP cheat authors
+200B4518 10000026
+200B5478 1000001D
+20173100 1000001D
+
+// Always New Gambling (Bongdari Shop)
+Author = libretro-database contributors / original PSP cheat authors
+00CA6546 00000001
+00CA6545 00000001
+
+// Always New Gambling (Bongdari Shop) 2
+Author = libretro-database contributors / original PSP cheat authors
+00CA6546 00000002
+00CA6545 00000002
+
+// Always Silent Window
+Author = libretro-database contributors / original PSP cheat authors
+20150CDC 00000000
+20150EF8 1000000A
+20150F80 10000006
+2015139C 00000000
+2016C3B8 00000000
+
+// Always Spin Mastery
+Author = libretro-database contributors / original PSP cheat authors
+2013DA48 1000001B
+
+// Black Papel Special Gift
+Author = libretro-database contributors / original PSP cheat authors
+00C9F546 00000002
+00C9F545 00000002
+
+// Ball Full 100%
+Author = libretro-database contributors / original PSP cheat authors
+80CEF010 000C0006
+100003E7 00000000
+80CEF016 000C000C
+80CEF014 000C000C
+00000001 00000000
+
+// Bonus Pang
+Author = libretro-database contributors / original PSP cheat authors
+603B33A8 000F423F
+00020002 000000C4
+200000A8 00000000
+
+// Caddies Full 100%
+Author = libretro-database contributors / original PSP cheat authors
+80CEF128 001E0038
+00000001 00000000
+
+// Character All
+Author = libretro-database contributors / original PSP cheat authors
+80C99F4C 001208E4
+00000001 00000000
+
+// Club Restrictions Lifted On Green
+Author = libretro-database contributors / original PSP cheat authors
+2014C5FC 34050000
+2014CD88 34040000
+
+// Cup Size: x0
+Author = libretro-database contributors / original PSP cheat authors
+100116BC 000040A0
+100116E4 000040A0
+
+// Cup Size: x2
+Author = libretro-database contributors / original PSP cheat authors
+100116BC 00004120
+100116E4 00004120
+
+// Cup Size: x5
+Author = libretro-database contributors / original PSP cheat authors
+100116BC 000041C8
+100116E4 000041C8
+
+// Cup Size: x10
+Author = libretro-database contributors / original PSP cheat authors
+100116BC 00004248
+100116E4 00004248
+
+// Cup Size: x20
+Author = libretro-database contributors / original PSP cheat authors
+100116BC 000042C8
+100116E4 000042C8
+
+// Cup Size: x40
+Author = libretro-database contributors / original PSP cheat authors
+100116BC 00004348
+100116E4 00004348
+
+// Cup Size: x80
+Author = libretro-database contributors / original PSP cheat authors
+100116BC 000043C8
+100116E4 000043C8
+
+// Dual Potion (Red+Green)
+Author = libretro-database contributors / original PSP cheat authors
+20CEF838 00000063
+
+// Exp.
+Author = libretro-database contributors / original PSP cheat authors
+10CE4F40 00002000
+
+// Exp. v2
+Author = libretro-database contributors / original PSP cheat authors
+10C99F40 00002000
+
+// Exp. License Max
+Author = libretro-database contributors / original PSP cheat authors
+80CF1310 00030014
+1000012C 00000064
+10CF1388 000001F4
+80CF13B0 00030014
+10000320 00000000
+10CF1428 000003E8
+10CF1450 000003E8
+
+// Exp. Player Max
+Author = libretro-database contributors / original PSP cheat authors
+20CE4F40 0098967F
+
+// Figure 1 All-Pants
+Author = libretro-database contributors / original PSP cheat authors
+40CE51B0 00130001
+0800A000 00000001
+20CE51FC 0800A015
+40CE5200 00050001
+0800A017 00000001
+
+// Figure 1 All Hat-Wide
+Author = libretro-database contributors / original PSP cheat authors
+40CE55B0 00080001
+08000800 00000001
+40CE55D0 00020001
+0800080A 00000003
+40CE55D8 00020001
+0800080F 00000004
+40CE55E0 00030001
+08000816 00000001
+40CE55EC 00020001
+0800081A 00000004
+40CE55F4 00030001
+08000820 00000002
+20CE5600 08000825
+40CE5604 00030001
+08008800 00000001
+40CE5610 00030001
+08008805 00000001
+40CE561C 00120001
+3C000001 00000001
+
+// Figure 1 All-Shoes
+Author = libretro-database contributors / original PSP cheat authors
+40CE53B0 000B0001
+08010000 00000001
+40CE53DC 00040001
+0801000C 00000001
+40CE53EC 00040001
+08010013 00000001
+40CE53FC 00050001
+08010018 00000001
+
+// Figure A Full-Dress
+Author = libretro-database contributors / original PSP cheat authors
+40CE4FB0 001A0001
+08006000 00000001
+40CE5018 00020001
+0800601B 00000001
+40CE5020 00030001
+0800601E 00000001
+40CE502C 00060001
+08006022 00000001
+
+// Full Stats
+Author = libretro-database contributors / original PSP cheat authors
+00CA0D44 00000028
+00CA0D48 0000001E
+00CA0D4C 0000001E
+00CA0D50 0000001E
+00CA0D54 0000001E
+
+// Infinite Gambling
+Author = libretro-database contributors / original PSP cheat authors
+00CF1546 00000001
+00CF1545 00000001
+
+// Iron Set Full
+Author = libretro-database contributors / original PSP cheat authors
+80CEEF58 00160008
+00000001 00000000
+
+// Item 999
+Author = libretro-database contributors / original PSP cheat authors
+80CA47C0 000E0006
+100003E7 00000000
+
+// Item Change
+Author = libretro-database contributors / original PSP cheat authors
+00CA6546 00000002
+00CA6545 00000002
+
+// Items In Bongdari
+Author = libretro-database contributors / original PSP cheat authors
+20CEF860 180000
+20CEF864 180000
+20CEF868 180000
+20CEF86C 180000
+20CEF870 180000
+20CEF874 180000
+20CEF878 180000
+20CEF87C 180000
+20CEF880 180000
+20CEF884 180000
+
+// Kyougi Tyu Not Use Item
+Author = libretro-database contributors / original PSP cheat authors
+2010BF44 00000000
+2010BFB8 00000000
+2010BFF0 00000000
+2010BFF4 00000000
+2010C078 00000000
+2010C0EC 00000000
+2010C124 00000000
+2010C128 00000000
+
+// Level Change 0: Rookie F
+Author = libretro-database contributors / original PSP cheat authors
+00C99F44 00000000
+
+// Level Change 1: Beginner E
+Author = libretro-database contributors / original PSP cheat authors
+00C99F44 00000006
+
+// Level Change 2: Junior E
+Author = libretro-database contributors / original PSP cheat authors
+00C99F44 0000000B
+
+// Level Change 3: Senior E
+Author = libretro-database contributors / original PSP cheat authors
+00C99F44 00000010
+
+// Level Change 4: Amateur E
+Author = libretro-database contributors / original PSP cheat authors
+00C99F44 00000015
+
+// Level Change 5: Semi-Pro E
+Author = libretro-database contributors / original PSP cheat authors
+00C99F44 0000001A
+
+// Level Change 6: Pro E
+Author = libretro-database contributors / original PSP cheat authors
+00C99F44 0000001F
+
+// Level Change 7: National Pro E
+Author = libretro-database contributors / original PSP cheat authors
+00C99F44 00000024
+
+// Level Change 8: World Pro E
+Author = libretro-database contributors / original PSP cheat authors
+00C99F44 00000029
+
+// Level Change 9: Master E
+Author = libretro-database contributors / original PSP cheat authors
+00C99F44 0000002E
+
+// Level Change 10: Top Master E
+Author = libretro-database contributors / original PSP cheat authors
+00C99F44 00000033
+
+// Level Change 11: World Master E
+Author = libretro-database contributors / original PSP cheat authors
+00C99F44 00000038
+
+// Level Change 12: World Master A
+Author = libretro-database contributors / original PSP cheat authors
+00C99F44 0000003C
+
+// License Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+10CF1310 000007D0
+10CF1338 000007D0
+10CF1360 000007D0
+10CF1388 000007D0
+10CF13B0 000007D0
+10CF1308 000007D0
+10CF1400 000007D0
+10CF1428 000007D0
+10CF1450 000007D0
+
+// Max License Rank
+Author = libretro-database contributors / original PSP cheat authors
+80C9F310 00090014
+100003E8 00000000
+
+// Max Pang
+Author = libretro-database contributors / original PSP cheat authors
+20C92F48 000F423F
+
+// Max Rank
+Author = libretro-database contributors / original PSP cheat authors
+20C92F40 0098967F
+
+// New Black Papel Items
+Author = libretro-database contributors / original PSP cheat authors
+00C9F546 00000001
+00C9F545 00000001
+
+// P1: Pangya Combo Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 1036C4A6
+6036C4A4 00000064
+00000001 000000F0
+
+// P1: Story Always 1st Shot
+Author = libretro-database contributors / original PSP cheat authors
+E00A0000 1036C4A6
+6036C4A4 01010101
+00020001 00000070
+00020001 00000074
+00020001 00000078
+00020001 0000007C
+6036C4A4 00000101
+00010001 00000080
+
+// Pang 9999999
+Author = libretro-database contributors / original PSP cheat authors
+20CE4F48 0098967F
+
+// Pangya 100% Successful
+Author = libretro-database contributors / original PSP cheat authors
+2036C678 42AC0000
+
+// Pangya Gauge Acceleration While Press Button
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008000
+200B41CC 3C043F80
+D0000000 30008000
+200B41CC 3C044120
+
+// Ponta Shop Fever
+Author = libretro-database contributors / original PSP cheat authors
+202512AC 00000000
+202512C0 00000000
+202513C0 AEE001D4
+
+// Ponta Ammo 5
+Author = libretro-database contributors / original PSP cheat authors
+2024A818 00000000
+2024A820 34040005
+
+// Potion Full 100%
+Author = libretro-database contributors / original PSP cheat authors
+80CEF7C0 000E0006
+100003E7 00000000
+
+// Power Shot (10 Y.)
+Author = libretro-database contributors / original PSP cheat authors
+2014D9A4 3C054120
+
+// Power Shot (20 Y.)
+Author = libretro-database contributors / original PSP cheat authors
+2014D9A4 3C0541A0
+
+// Power Shot (100 Y.)
+Author = libretro-database contributors / original PSP cheat authors
+2014D9A4 3C0542C8
+
+// Power Shot (200 Y.)
+Author = libretro-database contributors / original PSP cheat authors
+2014D9A4 3C054348
+
+// Power Shot (300 Y.)
+Author = libretro-database contributors / original PSP cheat authors
+2014D9A4 3C054396
+
+// PP Max
+Author = libretro-database contributors / original PSP cheat authors
+20C99F48 000F423F
+
+// Rea
+Author = libretro-database contributors / original PSP cheat authors
+2024A99C 24040063
+
+// Ring Full 100%
+Author = libretro-database contributors / original PSP cheat authors
+80CEF098 00120008
+00000001 00000000
+
+// Stamina Supplements
+Author = libretro-database contributors / original PSP cheat authors
+20CEF85C 00000063
+
+// Stat Full
+Author = libretro-database contributors / original PSP cheat authors
+00CF2D44 00000028
+00CF2D48 0000001E
+00CF2D4C 0000001E
+00CF2D50 0000001E
+00CF2D54 0000001E
+
+// Super Power Shot (10 Y.)
+Author = libretro-database contributors / original PSP cheat authors
+2014D9B4 3C054120
+
+// Super Power Shot (20 Y.)
+Author = libretro-database contributors / original PSP cheat authors
+2014D9B4 3C0541A0
+
+// Super Power Shot (100 Y.)
+Author = libretro-database contributors / original PSP cheat authors
+2014D9B4 3C0542C8
+
+// Super Power Shot (200 Y.)
+Author = libretro-database contributors / original PSP cheat authors
+2014D9B4 3C054348
+
+// Super Power Shot (300 Y.)
+Author = libretro-database contributors / original PSP cheat authors
+2014D9B4 3C054396
+
+// [@] Release My Page Camera Restriction
+Author = libretro-database contributors / original PSP cheat authors
+202368A4 00000000
+202368E8 00000000
+
+// Move Left And Right With LR
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10008080
+10236894 00000330
+102368C0 00000330
+102368CC 00000330
+10236900 00000330
+
+// Move Up And Down With LR
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10008010
+10236894 00000334
+102368C0 00000334
+102368CC 00000334
+10236900 00000334
+
+// Return LR To Enlargement/Reduction
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10008040
+10236894 0000033C
+102368C0 0000033C
+102368CC 0000033C
+10236900 0000033C
+
+// BlueLagoon License All Clear
+Author = libretro-database contributors / original PSP cheat authors
+40CA6314 00060001
+01010101 00000000
+
+// BlueMoon License All Clear
+Author = libretro-database contributors / original PSP cheat authors
+40CA63DC 00060001
+01010101 00000000
+
+// DeepInferno license All Clear
+Author = libretro-database contributors / original PSP cheat authors
+40CA6454 00060001
+01010101 00000000
+
+// PinkWind License All Clear
+Author = libretro-database contributors / original PSP cheat authors
+40CA633C 00060001
+01010101 00000000
+
+// SepiaWind License All Clear
+Author = libretro-database contributors / original PSP cheat authors
+40CA6364 00060001
+01010101 00000000
+
+// WestWiz License All Clear
+Author = libretro-database contributors / original PSP cheat authors
+40CA638C 00060001
+01010101 00000000
+
+// WhiteWiz License All Clear
+Author = libretro-database contributors / original PSP cheat authors
+40CA63B4 00060001
+01010101 00000000
+
+// WindHill License All Clear
+Author = libretro-database contributors / original PSP cheat authors
+40CA6404 00060001
+01010101 00000000
+
+// WizWiz License All Clear
+Author = libretro-database contributors / original PSP cheat authors
+40CA642C 00060001
+01010101 00000000

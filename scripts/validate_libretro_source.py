@@ -56,10 +56,15 @@ def main() -> int:
             "ULJM-05262", "ULUS-10141", "ULUS-10432", "ULJS-00183", "NPJH-50625",
             "NPJH-50045", "NPJH-50263", "ULUS-10438", "ULES-01376", "UCUS-98612",
             "ULUS-10097", "ULUS-10211", "ULJM-05299", "NPJH-50681", "ULJS-00293",
+            "ULES-01144", "NPHH-00068", "ULJS-00363", "ULUS-10495", "ULUS-10134",
+            "ULJM-05493", "ULES-00982", "ULES-00981", "ULUS-10543", "ULUS-10345",
+            "ULUS-10292", "ULJM-05427", "ULES-00999", "ULUS-10087", "ULES-01151",
+            "ULUS-10416", "ULUS-10323", "ULUS-10282", "UCKS-45076", "NPUH-10126",
+            "ULUS-10452", "ULJM-05781", "UCJS-10093", "ULES-00419", "NPJH-50276",
         }
     ]
-    if len(selected) != 150:
-        raise SystemExit(f"validation failed: found {len(selected)} selected source files, expected 150")
+    if len(selected) != 175:
+        raise SystemExit(f"validation failed: found {len(selected)} selected source files, expected 175")
     for path in selected:
         text = path.read_text(encoding="utf-8")
         if not CODE_RE.search(text):

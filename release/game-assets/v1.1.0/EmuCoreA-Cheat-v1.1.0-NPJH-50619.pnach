@@ -1,0 +1,791 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPJH-50619
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Hit Kill (By Attack While Pressing L)
+Author = libretro-database contributors / original PSP cheat authors
+200897AC 00808025
+D0000000 10000100
+200897AC 8EB0000C
+
+// 1st Person In Party Will Be Displayed On Screen As leader
+Author = libretro-database contributors / original PSP cheat authors
+200EEC3C 0E2003CC
+2013B324 0A2003C0
+20000F00 3222FFFF
+20000F04 38436770
+20000F08 3242FFFF
+20000F0C 38426770
+20000F10 0042180A
+20000F14 14600004
+20000F18 3C02089E
+20000F1C 8C437468
+20000F20 28627FFF
+20000F24 0062280A
+20000F28 0A24ECCB
+20000F2C AE050010
+20000F30 1280000A
+20000F34 8FA40074
+20000F38 34050001
+20000F3C 10850007
+20000F40 3224FFFF
+20000F44 38846770
+20000F48 14800004
+20000F4C 3C04089E
+20000F50 8C857468
+20000F54 28A47FFF
+20000F58 00A4900A
+20000F5C 03E00008
+20000F60 00000000
+
+// Accessories x99 1/2
+Author = libretro-database contributors / original PSP cheat authors
+00239AA0 00000009
+00239AA8 00000009
+00239B40 00000009
+00239B48 00000009
+00239BE0 00000009
+00239BE8 00000009
+00239C80 00000009
+00239C88 00000009
+00239D08 00000009
+00239D20 00000009
+00239D28 00000009
+00239DA8 00000009
+00239DB0 00000009
+00239DC0 00000009
+00239DC8 00000009
+00239E00 00000009
+00239E08 00000009
+
+// Accessories x99 2/2
+Author = libretro-database contributors / original PSP cheat authors
+80239A58 00050008
+00000009 00000000
+80239AB8 00040008
+80239AE0 00080008
+80239B58 00040008
+80239B80 00080008
+80239BF8 00040008
+80239C20 00080008
+80239C98 00040008
+80239CC0 00080008
+80239D38 00040008
+80239D60 00080008
+80239DD8 00040008
+
+// All Clear Flag (Pre-Clear All Character)
+Author = libretro-database contributors / original PSP cheat authors
+0021142D 0000001F
+
+// All Tools
+Author = libretro-database contributors / original PSP cheat authors
+4023936C 02A00002
+00000001 00000000
+40239370 02A00002
+00000032 00000000
+
+// Drop Rate 100%
+Author = libretro-database contributors / original PSP cheat authors
+20095D08 24020001
+
+// Dungeon Camera (L+Right = Operation Enabled/L+Left = Default)
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000120
+200D229C 00000000
+200D22C0 00000000
+D0000001 10000180
+200D229C 54400039
+200D22C0 14850006
+
+// Exp. Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+20003900 00021040
+20003904 02422021
+20003908 AE240448
+2000390C 0A226EE7
+2009BB98 0A200E40
+2009BB9C 00000000
+
+// Exp. Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20003900 00021080
+20003904 02422021
+20003908 AE240448
+2000390C 0A226EE7
+2009BB98 0A200E40
+2009BB9C 00000000
+
+// Exp. Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+20003900 000210C0
+20003904 02422021
+20003908 AE240448
+2000390C 0A226EE7
+2009BB98 0A200E40
+2009BB9C 00000000
+
+// Exp. Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+20003900 00021100
+20003904 02422021
+20003908 AE240448
+2000390C 0A226EE7
+2009BB98 0A200E40
+2009BB9C 00000000
+
+// Exp. Multiplier x32
+Author = libretro-database contributors / original PSP cheat authors
+20003900 00021140
+20003904 02422021
+20003908 AE240448
+2000390C 0A226EE7
+2009BB98 0A200E40
+2009BB9C 00000000
+
+// Exp. Multiplier x64
+Author = libretro-database contributors / original PSP cheat authors
+20003900 00021180
+20003904 02422021
+20003908 AE240448
+2000390C 0A226EE7
+2009BB98 0A200E40
+2009BB9C 00000000
+
+// Field Character
+Author = libretro-database contributors / original PSP cheat authors
+200EEC3C 0E2003CC
+2013B324 0A2003C0
+20000F00 3222FFFF
+20000F04 38436770
+20000F08 3242FFFF
+20000F0C 38426770
+20000F10 0042180A
+20000F14 14600004
+20000F18 3C02089E
+20000F1C 8C437468
+20000F20 28627FFF
+20000F24 0062280A
+20000F28 0A24ECCB
+20000F2C AE050010
+20000F30 1280000A
+20000F34 8FA40074
+20000F38 34050001
+20000F3C 10850007
+20000F40 3224FFFF
+20000F44 38846770
+20000F48 14800004
+20000F4C 3C04089E
+20000F50 8C857468
+20000F54 28A47FFF
+20000F58 00A4900A
+20000F5C 03E00008
+20000F60 00000000
+
+// HP Don't Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200FDC6C 3C0708B0
+200FDC70 00E4382B
+200FDC74 00C7280A
+
+// HP No Dec. (On With R+Up, Off With R+Down)
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10000210
+200FDC6C 3C0708B0
+200FDC70 00E4382B
+200FDC74 00C7280A
+D0000002 10000240
+200FDC6C 00C5382A
+200FDC70 54E00001
+200FDC74 00C02825
+
+// Material x99
+Author = libretro-database contributors / original PSP cheat authors
+8023A278 000D0008
+00000063 00000000
+8023A2F0 00030008
+8023A368 00060008
+8023A680 00150008
+
+// Maximum After Quantity Instrument
+Author = libretro-database contributors / original PSP cheat authors
+C0107E8C 24040063
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20237930 0098967F
+
+// Move Up (Change Movement Speed)
+Author = libretro-database contributors / original PSP cheat authors
+200EA0E4 3C054000
+200EDE40 3C044000
+
+// Other Magnifications Are x2
+Author = libretro-database contributors / original PSP cheat authors
+200FED70 00108040
+
+// Overall Attack (On With R+Δ/Off With R+X)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10004200
+200A5074 5645000B
+D0000000 10001200
+200A5074 56A0000B
+
+// Remove Woman's Dress
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000140
+2015ACD4 FAA30030
+D0000000 10000110
+2015ACD4 0E200440
+20001100 8FA40170
+20001104 8C840018
+20001108 3405057C
+2000110C 1085000A
+20001110 34053539
+20001114 34050724
+20001118 10850007
+2000111C 34053D43
+20001120 340506F8
+20001124 10850004
+20001128 34053C43
+2000112C 340507FC
+20001130 14850009
+20001134 34053E44
+20001138 8FA603E0
+2000113C 00052202
+20001140 00C4202A
+20001144 30A500FF
+20001148 00A6282B
+2000114C 00852025
+20001150 50800001
+20001154 D0068080
+20001158 03E00008
+2000115C FAA30030
+
+// Save Point Anywhere (O Button While Holding Down L+R)
+Author = libretro-database contributors / original PSP cheat authors
+200ED4DC 8E710000
+200ED5BC 12400035
+200ED5C4 8225000C
+D0000002 10000300
+200ED4DC 8E710008
+200ED5BC 00000000
+200ED5C4 34050004
+
+// Skills Exp. Rate x2
+Author = libretro-database contributors / original PSP cheat authors
+200FED70 00108040
+
+// Skill Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+40237A3C 00280001
+00000802 00000000
+40237C98 00280001
+40237EF4 00280001
+40238150 00280001
+402383AC 00280001
+40238608 00280001
+
+// Skill Lv. Max 2
+Author = libretro-database contributors / original PSP cheat authors
+40238864 00280001
+00000802 00000000
+40238AC0 00280001
+40238D1C 00280001
+40238F78 00280001
+
+// Skirt (L+Up = Take/L+Down = Return)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000140
+2015ACD4 FAA30030
+D0000000 10000110
+2015ACD4 0E200440
+20001100 8FA40170
+20001104 8C840018
+20001108 3405057C
+2000110C 10850007
+20001110 34053539
+20001114 34050724
+20001118 10850004
+2000111C 34053D43
+20001120 340507FC
+20001124 14850009
+20001128 34053E44
+2000112C 8FA603E0
+20001130 00052202
+20001134 00C4202A
+20001138 30A500FF
+2000113C 00A6282B
+20001140 00852025
+20001144 50800001
+20001148 D0068080
+2000114C 03E00008
+20001150 FAA30030
+
+// Skirt (For Cyril)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000140
+2015ACD4 FAA30030
+D0000000 10000110
+2015ACD4 0E200440
+20001100 8FA40170
+20001104 8C840018
+20001108 3405057C
+2000110C 1085000A
+20001110 34053539
+20001114 34050724
+20001118 10850007
+2000111C 34053D43
+20001120 340506F8
+20001124 10850004
+20001128 34053C43
+2000112C 340507FC
+20001130 14850009
+20001134 34053E44
+20001138 8FA603E0
+2000113C 00052202
+20001140 00C4202A
+20001144 30A500FF
+20001148 00A6282B
+2000114C 00852025
+20001150 50800001
+20001154 D0068080
+20001158 03E00008
+2000115C FAA30030
+
+// Sol Don't Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200FDD20 00000000
+
+// Sol Tank Max
+Author = libretro-database contributors / original PSP cheat authors
+20211830 000F423F
+
+// Tool Quantity After Maximum
+Author = libretro-database contributors / original PSP cheat authors
+C0107E8C 24040063
+
+// Tools x99
+Author = libretro-database contributors / original PSP cheat authors
+8023A278 000D0008
+00000063 00000000
+8023A2F0 00030008
+8023A368 00060008
+8023A680 00150008
+
+// Weapon x9 1/3
+Author = libretro-database contributors / original PSP cheat authors
+00239438 00000009
+00239470 00000009
+00239500 00000009
+00239540 00000009
+00239550 00000009
+002395C8 00000009
+00239608 00000009
+00239618 00000009
+00299690 00000009
+002996D0 00000009
+00239728 00000009
+002397D0 00000009
+00239810 00000009
+00239820 00000009
+
+// Weapon x9 2/3
+Author = libretro-database contributors / original PSP cheat authors
+80239378 000A0008
+00000009 00000000
+802393D0 00050008
+80239408 00020008
+80239448 00040008
+802394B0 00090008
+80239510 00040008
+80239578 00050008
+
+// Weapon x9 3/3
+Author = libretro-database contributors / original PSP cheat authors
+802395A8 00030008
+00000009 00000000
+802395D8 00040008
+80239640 00040008
+80239668 00030008
+802396A0 00040008
+80239708 00030008
+80239738 00030008
+80239780 00030008
+802397A0 00050008
+802397E0 00040008
+
+// x9 Armor
+Author = libretro-database contributors / original PSP cheat authors
+002398E8 00000009
+002398F0 00000009
+00239988 00000009
+00239990 00000009
+00239A28 00000009
+80239868 00060008
+00000009 00000000
+802398B0 00060008
+80239900 00070008
+80239950 00060008
+802399A0 00070008
+802399F0 00060008
+
+// Party Glance 1st (Cyril)
+Author = libretro-database contributors / original PSP cheat authors
+20239328 00000003
+
+// Party Glance 2nd (Cyril)
+Author = libretro-database contributors / original PSP cheat authors
+2023932C 00000003
+
+// Party Glance 3rd (Cyril)
+Author = libretro-database contributors / original PSP cheat authors
+20239330 00000003
+
+// Party Glance 4th (Cyril)
+Author = libretro-database contributors / original PSP cheat authors
+20239334 00000003
+
+// Party Glance 1st (Klotho)
+Author = libretro-database contributors / original PSP cheat authors
+20239328 00000008
+
+// Party Glance 2nd (Klotho)
+Author = libretro-database contributors / original PSP cheat authors
+2023932C 00000008
+
+// Party Glance 3rd (Klotho)
+Author = libretro-database contributors / original PSP cheat authors
+20239330 00000008
+
+// Party Glance 4th (Klotho)
+Author = libretro-database contributors / original PSP cheat authors
+20239334 00000008
+
+// Party Glance 1st (Emma)
+Author = libretro-database contributors / original PSP cheat authors
+20239328 00000001
+
+// Party Glance 2nd (Emma)
+Author = libretro-database contributors / original PSP cheat authors
+2023932C 00000001
+
+// Party Glance 3rd (Emma)
+Author = libretro-database contributors / original PSP cheat authors
+20239330 00000001
+
+// Party Glance 4th (Emma)
+Author = libretro-database contributors / original PSP cheat authors
+20239334 00000001
+
+// Party Glance 1st (Farrell)
+Author = libretro-database contributors / original PSP cheat authors
+20239328 00000000
+
+// Party Glance 2nd (Farrell)
+Author = libretro-database contributors / original PSP cheat authors
+2023932C 00000000
+
+// Party Glance 3rd (Farrell)
+Author = libretro-database contributors / original PSP cheat authors
+20239330 00000000
+
+// Party Glance 4th (Farrell)
+Author = libretro-database contributors / original PSP cheat authors
+20239334 00000000
+
+// Party Glance 1st (Franc)
+Author = libretro-database contributors / original PSP cheat authors
+20239328 00000009
+
+// Party Glance 2nd (Franc)
+Author = libretro-database contributors / original PSP cheat authors
+2023932C 00000009
+
+// Party Glance 3rd (Franc)
+Author = libretro-database contributors / original PSP cheat authors
+20239330 00000009
+
+// Party Glance 4th (Franc)
+Author = libretro-database contributors / original PSP cheat authors
+20239334 00000009
+
+// Party Glance 1st (Gustav)
+Author = libretro-database contributors / original PSP cheat authors
+20239328 00000005
+
+// Party Glance 2nd (Gustav)
+Author = libretro-database contributors / original PSP cheat authors
+2023932C 00000005
+
+// Party Glance 3rd (Gustav)
+Author = libretro-database contributors / original PSP cheat authors
+20239330 00000005
+
+// Party Glance 4th (Gustav)
+Author = libretro-database contributors / original PSP cheat authors
+20239334 00000005
+
+// Party Glance 1st (Lars)
+Author = libretro-database contributors / original PSP cheat authors
+20239328 00000006
+
+// Party Glance 2nd (Lars)
+Author = libretro-database contributors / original PSP cheat authors
+2023932C 00000006
+
+// Party Glance 3rd (Lars)
+Author = libretro-database contributors / original PSP cheat authors
+20239330 00000006
+
+// Party Glance 4th (Lars)
+Author = libretro-database contributors / original PSP cheat authors
+20239334 00000006
+
+// Party Glance 1st (Sophie)
+Author = libretro-database contributors / original PSP cheat authors
+20239328 00000002
+
+// Party Glance 2nd (Sophie)
+Author = libretro-database contributors / original PSP cheat authors
+2023932C 00000002
+
+// Party Glance 3rd (Sophie)
+Author = libretro-database contributors / original PSP cheat authors
+20239330 00000002
+
+// Party Glance 4th (Sophie)
+Author = libretro-database contributors / original PSP cheat authors
+20239334 00000002
+
+// Party Glance 1st (Valther)
+Author = libretro-database contributors / original PSP cheat authors
+20239328 00000004
+
+// Party Glance 2nd (Valther)
+Author = libretro-database contributors / original PSP cheat authors
+2023932C 00000004
+
+// Party Glance 3rd (Valther)
+Author = libretro-database contributors / original PSP cheat authors
+20239330 00000004
+
+// Party Glance 4th (Valther)
+Author = libretro-database contributors / original PSP cheat authors
+20239334 00000004
+
+// Party Glance 1st (Wilma)
+Author = libretro-database contributors / original PSP cheat authors
+20239328 00000007
+
+// Party Glance 2nd (Wilma)
+Author = libretro-database contributors / original PSP cheat authors
+2023932C 00000007
+
+// Party Glance 3rd (Wilma)
+Author = libretro-database contributors / original PSP cheat authors
+20239330 00000007
+
+// Party Glance 4th (Wilma)
+Author = libretro-database contributors / original PSP cheat authors
+20239334 00000007
+
+// Sub Glance 1st (Cyril)
+Author = libretro-database contributors / original PSP cheat authors
+20239338 00000003
+
+// Sub Glance 2nd (Cyril)
+Author = libretro-database contributors / original PSP cheat authors
+2023933C 00000003
+
+// Sub Glance 3rd (Cyril)
+Author = libretro-database contributors / original PSP cheat authors
+20239340 00000003
+
+// Sub Glance 4th (Cyril)
+Author = libretro-database contributors / original PSP cheat authors
+20239344 00000003
+
+// Sub Glance 5th (Cyril)
+Author = libretro-database contributors / original PSP cheat authors
+20239348 00000003
+
+// Sub Glance 1st (Klotho)
+Author = libretro-database contributors / original PSP cheat authors
+20239338 00000008
+
+// Sub Glance 2nd (Klotho)
+Author = libretro-database contributors / original PSP cheat authors
+2023933C 00000008
+
+// Sub Glance 3rd (Klotho)
+Author = libretro-database contributors / original PSP cheat authors
+20239340 00000008
+
+// Sub Glance 4th (Klotho)
+Author = libretro-database contributors / original PSP cheat authors
+20239344 00000008
+
+// Sub Glance 5th (Klotho)
+Author = libretro-database contributors / original PSP cheat authors
+20239348 00000008
+
+// Sub Glance 1st (Emma)
+Author = libretro-database contributors / original PSP cheat authors
+20239338 00000001
+
+// Sub Glance 2nd (Emma)
+Author = libretro-database contributors / original PSP cheat authors
+2023933C 00000001
+
+// Sub Glance 3rd (Emma)
+Author = libretro-database contributors / original PSP cheat authors
+20239340 00000001
+
+// Sub Glance 4th (Emma)
+Author = libretro-database contributors / original PSP cheat authors
+20239344 00000001
+
+// Sub Glance 5th (Emma)
+Author = libretro-database contributors / original PSP cheat authors
+20239348 00000001
+
+// Sub Glance 1st (Farrell)
+Author = libretro-database contributors / original PSP cheat authors
+20239338 00000000
+
+// Sub Glance 2nd (Farrell)
+Author = libretro-database contributors / original PSP cheat authors
+2023933C 00000000
+
+// Sub Glance 3rd (Farrell)
+Author = libretro-database contributors / original PSP cheat authors
+20239340 00000000
+
+// Sub Glance 4th (Farrell)
+Author = libretro-database contributors / original PSP cheat authors
+20239344 00000000
+
+// Sub Glance 5th (Farrell)
+Author = libretro-database contributors / original PSP cheat authors
+20239348 00000000
+
+// Sub Glance 1st (Franc)
+Author = libretro-database contributors / original PSP cheat authors
+20239338 00000009
+
+// Sub Glance 2nd (Franc)
+Author = libretro-database contributors / original PSP cheat authors
+2023933C 00000009
+
+// Sub Glance 3rd (Franc)
+Author = libretro-database contributors / original PSP cheat authors
+20239340 00000009
+
+// Sub Glance 4th (Franc)
+Author = libretro-database contributors / original PSP cheat authors
+20239344 00000009
+
+// Sub Glance 5th (Franc)
+Author = libretro-database contributors / original PSP cheat authors
+20239348 00000009
+
+// Sub Glance 1st (Gustav)
+Author = libretro-database contributors / original PSP cheat authors
+20239338 00000005
+
+// Sub Glance 2nd (Gustav)
+Author = libretro-database contributors / original PSP cheat authors
+2023933C 00000005
+
+// Sub Glance 3rd (Gustav)
+Author = libretro-database contributors / original PSP cheat authors
+20239340 00000005
+
+// Sub Glance 4th (Gustav)
+Author = libretro-database contributors / original PSP cheat authors
+20239344 00000005
+
+// Sub Glance 5th (Gustav)
+Author = libretro-database contributors / original PSP cheat authors
+20239348 00000005
+
+// Sub Glance 1st (Lars)
+Author = libretro-database contributors / original PSP cheat authors
+20239338 00000006
+
+// Sub Glance 2nd (Lars)
+Author = libretro-database contributors / original PSP cheat authors
+2023933C 00000006
+
+// Sub Glance 3rd (Lars)
+Author = libretro-database contributors / original PSP cheat authors
+20239340 00000006
+
+// Sub Glance 4th (Lars)
+Author = libretro-database contributors / original PSP cheat authors
+20239344 00000006
+
+// Sub Glance 5th (Lars)
+Author = libretro-database contributors / original PSP cheat authors
+20239348 00000006
+
+// Sub Glance 1st (Sophie)
+Author = libretro-database contributors / original PSP cheat authors
+20239338 00000002
+
+// Sub Glance 2nd (Sophie)
+Author = libretro-database contributors / original PSP cheat authors
+2023933C 00000002
+
+// Sub Glance 3rd (Sophie)
+Author = libretro-database contributors / original PSP cheat authors
+20239340 00000002
+
+// Sub Glance 4th (Sophie)
+Author = libretro-database contributors / original PSP cheat authors
+20239344 00000002
+
+// Sub Glance 5th (Sophie)
+Author = libretro-database contributors / original PSP cheat authors
+20239348 00000002
+
+// Sub Glance 1st (Valther)
+Author = libretro-database contributors / original PSP cheat authors
+20239338 00000004
+
+// Sub Glance 2nd (Valther)
+Author = libretro-database contributors / original PSP cheat authors
+2023933C 00000004
+
+// Sub Glance 3rd (Valther)
+Author = libretro-database contributors / original PSP cheat authors
+20239340 00000004
+
+// Sub Glance 4th (Valther)
+Author = libretro-database contributors / original PSP cheat authors
+20239344 00000004
+
+// Sub Glance 5th (Valther)
+Author = libretro-database contributors / original PSP cheat authors
+20239348 00000004
+
+// Sub Glance 1st (Wilma)
+Author = libretro-database contributors / original PSP cheat authors
+20239338 00000007
+
+// Sub Glance 2nd (Wilma)
+Author = libretro-database contributors / original PSP cheat authors
+2023933C 00000007
+
+// Sub Glance 3rd (Wilma)
+Author = libretro-database contributors / original PSP cheat authors
+20239340 00000007
+
+// Sub Glance 4th (Wilma)
+Author = libretro-database contributors / original PSP cheat authors
+20239344 00000007
+
+// Sub Glance 5th (Wilma)
+Author = libretro-database contributors / original PSP cheat authors
+20239348 00000007

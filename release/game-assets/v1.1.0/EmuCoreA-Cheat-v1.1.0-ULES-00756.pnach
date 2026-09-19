@@ -1,0 +1,543 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-00756
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Active Shadow Cameras
+Author = libretro-database contributors / original PSP cheat authors
+00398218 00000001
+
+// Execution Information
+Author = libretro-database contributors / original PSP cheat authors
+00445EA0 00000001
+
+// Memory Usage
+Author = libretro-database contributors / original PSP cheat authors
+003981E4 00000001
+
+// Overscan Boundarie
+Author = libretro-database contributors / original PSP cheat authors
+00397FF0 00000001
+
+// Timer Values?
+Author = libretro-database contributors / original PSP cheat authors
+00398410 00000001
+003981E0 00000000
+
+// Destroy Brightness
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 0027F8B0
+2027F8B0 00000000
+
+// Destroy Brightness v2
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 0027F7E8
+2027F7E8 00000000
+
+// Destroy Brightness v3
+Author = libretro-database contributors / original PSP cheat authors
+2027F7E8 00000000
+
+// Destroy Brightness [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010000 0027F8B0
+2027F8B0 24840001
+
+// Destroy Brightness [Disable] v2
+Author = libretro-database contributors / original PSP cheat authors
+E0010000 0027F7E8
+2027F7E8 24840001
+
+// Destroy Brightness [Disable] v3
+Author = libretro-database contributors / original PSP cheat authors
+2027F7E8 24840001
+
+// Restore Colors
+Author = libretro-database contributors / original PSP cheat authors
+E0010006 0027F6F8
+2027F6F8 24A50001
+
+// Restore Colors v2
+Author = libretro-database contributors / original PSP cheat authors
+E0010006 0027F630
+2027F630 24A50001
+
+// Restore Colors v3
+Author = libretro-database contributors / original PSP cheat authors
+2027F630 24A50001
+
+// Restore Colors [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 0027F6F8
+2027F6F8 24A50006
+
+// Restore Colors [Disable] v2
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 0027F630
+2027F630 24A50006
+
+// Restore Colors [Disable] v3
+Author = libretro-database contributors / original PSP cheat authors
+2027F630 24A50006
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+2027F0F4 1000FFE2
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2027F0F4 00000000
+
+// Activate Timer Countdown
+Author = libretro-database contributors / original PSP cheat authors
+20321284 00000001
+20321285 00000001
+20321286 00000001
+20321287 00000001
+
+// Activate Timer Countdown [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20321284 00000000
+20321285 00000000
+20321286 00000000
+20321287 00000000
+
+// Black Screen After Level Loading Finishes
+Author = libretro-database contributors / original PSP cheat authors
+2032124C 00000002
+
+// Can Not Close Weapon Select Menu
+Author = libretro-database contributors / original PSP cheat authors
+20323128 00000001
+
+// Can Not Close Weapon Select Menu [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20323128 00000000
+
+// Daniel Can Not Run
+Author = libretro-database contributors / original PSP cheat authors
+20323204 00000000
+
+// Daniel Can Not Run [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20323204 00000001
+
+// Debug Camera
+Author = libretro-database contributors / original PSP cheat authors
+203240A8 00000001
+
+// Debug Camera [Off]
+Author = libretro-database contributors / original PSP cheat authors
+203240A8 00000000
+
+// Display Glass Object Debug Info
+Author = libretro-database contributors / original PSP cheat authors
+20324410 00000001
+
+// Display Glass Object Debug Info [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20324410 00000000
+
+// Display Kill Counter
+Author = libretro-database contributors / original PSP cheat authors
+20321290 00000001
+
+// Display Kill Counter [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20321290 00000000
+
+// Display Timer
+Author = libretro-database contributors / original PSP cheat authors
+20321280 00000001
+
+// Display Timer [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20321280 00000000
+
+// Endless Loading
+Author = libretro-database contributors / original PSP cheat authors
+203240B4 00000000
+
+// Endless Loading [Off]
+Author = libretro-database contributors / original PSP cheat authors
+203240B4 00000001
+
+// Fire Immunity
+Author = libretro-database contributors / original PSP cheat authors
+203241E0 00000001
+
+// Fire Immunity [Off]
+Author = libretro-database contributors / original PSP cheat authors
+203241E0 00000000
+
+// Free Camera
+Author = libretro-database contributors / original PSP cheat authors
+203240A8 00000001
+
+// Free Camera [Off]
+Author = libretro-database contributors / original PSP cheat authors
+203240A8 00000000
+
+// Freeze Game
+Author = libretro-database contributors / original PSP cheat authors
+20315069 00000001
+
+// Freeze Game [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20315069 00000000
+
+// Freeze Game (In-Game)
+Author = libretro-database contributors / original PSP cheat authors
+20321C60 00000000
+
+// Freeze Game (In-Game) [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20321C60 00000001
+
+// Freeze Game (Menu)
+Author = libretro-database contributors / original PSP cheat authors
+2032139F 00000001
+
+// Freeze Game (Menu) [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2032139F 00000000
+
+// Helium Hunters (Unused Cheat)
+Author = libretro-database contributors / original PSP cheat authors
+20321BCC 00000001
+
+// Helium Hunters (Unused Cheat) [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20321BCC 00000000
+
+// Hide Level Name On Pause Screen
+Author = libretro-database contributors / original PSP cheat authors
+20329D00 00000000
+
+// Hide Level Name On Pause Screen [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20329D00 00000001
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20397D64 00000001
+
+// Infinite Health [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20397D64 00000000
+
+// Invisible & Inaudible
+Author = libretro-database contributors / original PSP cheat authors
+2001AC60 1000001A
+
+// Invisible & Inaudible [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2001AC60 14A0001A
+
+// Invisible
+Author = libretro-database contributors / original PSP cheat authors
+200DAAAC 44800000
+200DAA78 44800000
+
+// Invisible [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200DAAAC C4804B84
+200DAA78 460C0000
+
+// Kuruma Alarm Never Stops (Red Light)
+Author = libretro-database contributors / original PSP cheat authors
+203240E4 00000006
+
+// Leo Comments
+Author = libretro-database contributors / original PSP cheat authors
+20323363 00000000
+
+// Leo Comments [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20323363 00000001
+
+// Level Finished
+Author = libretro-database contributors / original PSP cheat authors
+203240E4 00000001
+
+// Level Structure
+Author = libretro-database contributors / original PSP cheat authors
+203233B9 00000000
+
+// Level Structure [Off]
+Author = libretro-database contributors / original PSP cheat authors
+203233B9 00000001
+
+// Lock Camera
+Author = libretro-database contributors / original PSP cheat authors
+2031602C 00000001
+
+// Lock Camera [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2031602C 00000000
+
+// Molasses Mode
+Author = libretro-database contributors / original PSP cheat authors
+20397D54 00000001
+20315358 00000005
+
+// No Cutscene Flash Noise 1
+Author = libretro-database contributors / original PSP cheat authors
+203240E4 00000002
+
+// No Cutscene Flash Noise 2
+Author = libretro-database contributors / original PSP cheat authors
+203240E4 00000003
+
+// No Cutscene Flash Noise 3
+Author = libretro-database contributors / original PSP cheat authors
+203240E4 00000004
+
+// Normal In-Game (Default)
+Author = libretro-database contributors / original PSP cheat authors
+203240E4 00000005
+
+// Overhead Camera
+Author = libretro-database contributors / original PSP cheat authors
+2032304F 00000043
+
+// Overhead Camera [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2032304F 00000041
+
+// Pause Menu
+Author = libretro-database contributors / original PSP cheat authors
+203240E8 00000001
+
+// Pause Menu [Off]
+Author = libretro-database contributors / original PSP cheat authors
+203240E8 00000000
+
+// Reload Level
+Author = libretro-database contributors / original PSP cheat authors
+203240E4 00000000
+
+// Speed Mod: Quicker Mode
+Author = libretro-database contributors / original PSP cheat authors
+20397D54 00000001
+20315358 00000032
+
+// Set Kill Counter To 0 (Default)
+Author = libretro-database contributors / original PSP cheat authors
+20321294 00000000
+20321295 00000000
+20321296 00000000
+20321297 00000000
+
+// Set Kill Counter To 1
+Author = libretro-database contributors / original PSP cheat authors
+20321294 00000001
+20321295 00000001
+20321296 00000001
+20321297 00000001
+
+// Set Kill Counter To 2
+Author = libretro-database contributors / original PSP cheat authors
+20321294 00000002
+20321295 00000002
+20321296 00000002
+20321297 00000002
+
+// Set Kill Counter To 3
+Author = libretro-database contributors / original PSP cheat authors
+20321294 00000003
+20321295 00000003
+20321296 00000003
+20321297 00000003
+
+// Set Kill Counter To 27
+Author = libretro-database contributors / original PSP cheat authors
+20321294 0000001B
+20321295 0000001B
+20321296 0000001B
+20321297 0000001B
+
+// Set Kill Counter To 255
+Author = libretro-database contributors / original PSP cheat authors
+20321294 000000FF
+20321295 000000FF
+20321296 000000FF
+20321297 000000FF
+
+// Set Timer To 0 Minutes
+Author = libretro-database contributors / original PSP cheat authors
+20321288 00000000
+
+// Set Timer To 2 Minutes
+Author = libretro-database contributors / original PSP cheat authors
+20321288 00000002
+
+// Set Timer To 255 Minutes
+Author = libretro-database contributors / original PSP cheat authors
+20321288 000000FF
+
+// Show HUD During Cutscenes
+Author = libretro-database contributors / original PSP cheat authors
+20324286 00000001
+
+// Show HUD During Cutscenes [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20324286 00000000
+
+// Skip Level (Press L+R)
+Author = libretro-database contributors / original PSP cheat authors
+2032405C 00000000
+20334A40 00000300
+2032405C 00000001
+D0000000 00000000
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20397D54 00000001
+20315358 00000042
+
+// Speed Mod: Much Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20397D54 00000001
+20315358 0000003C
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20397D54 00000000
+
+// Weapon Select Menu Open
+Author = libretro-database contributors / original PSP cheat authors
+203230E4 00000001
+
+// Weapon Select Menu Open [Off]
+Author = libretro-database contributors / original PSP cheat authors
+203230E4 00000000
+
+// Weird Screen 1
+Author = libretro-database contributors / original PSP cheat authors
+20325059 00000001
+
+// Weird Screen 2
+Author = libretro-database contributors / original PSP cheat authors
+20325059 00000003
+
+// Weird Screen [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20325059 00000002
+
+// Active Shadow Cameras
+Author = libretro-database contributors / original PSP cheat authors
+00398118 00000001
+
+// Execution Information
+Author = libretro-database contributors / original PSP cheat authors
+00445DA0 00000001
+
+// Memory Usage
+Author = libretro-database contributors / original PSP cheat authors
+003980E4 00000001
+
+// Overscan Boundaries
+Author = libretro-database contributors / original PSP cheat authors
+00397EF0 00000001
+
+// Timer Values?
+Author = libretro-database contributors / original PSP cheat authors
+00398310 00000001
+003980E0 00000000
+
+// Destroy Brightness
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 0027F8B0
+2027F8B0 00000000
+
+// Destroy Brightness [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010000 0027F8B0
+2027F8B0 24840001
+
+// Restore Colors
+Author = libretro-database contributors / original PSP cheat authors
+E0010006 0027F6F8
+2027F6F8 24A50001
+
+// Restore Colors [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 0027F6F8
+2027F6F8 24A50006
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+2027F02C 1000FFE2
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2027F02C 00000000
+
+// Ahh... I'm Danny
+Author = libretro-database contributors / original PSP cheat authors
+00D07AA0 00000001
+00DEB880 00000001
+
+// Easy Headshot
+Author = libretro-database contributors / original PSP cheat authors
+201403E4 0A200804
+20002010 24050800
+20002014 A605034E
+20002018 0A2500FA
+2000201C 8E04034C
+
+// Flash Fight
+Author = libretro-database contributors / original PSP cheat authors
+100BF754 00004040
+
+// Flash Run
+Author = libretro-database contributors / original PSP cheat authors
+100B8398 00004080
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+603156C8 000000FA
+00000001 000000B2
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2027C9AC 24840000
+
+// Infinite Ammo - Gun
+Author = libretro-database contributors / original PSP cheat authors
+20AEC9F0 00000010
+
+// Infinite Ammo - Pistol/Shotgun1/Shotgun2/Uzi
+Author = libretro-database contributors / original PSP cheat authors
+00FBE340 0000001E
+00FFCDF0 00000004
+00F05400 00000005
+00E49980 00000006
+
+// Infinite Ammo - Shotgun
+Author = libretro-database contributors / original PSP cheat authors
+20BE5830 00000010
+
+// Infinite Ammo - Uzi
+Author = libretro-database contributors / original PSP cheat authors
+00FBE340 0000001E
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+201ABCC8 0A200800
+20002000 3C05447A
+20002004 AC8500B0
+20002008 0A26AF33
+2000200C 8C850098
+
+// The Haunting
+Author = libretro-database contributors / original PSP cheat authors
+100E98F0 00007080
+
+// Walk Through Doors
+Author = libretro-database contributors / original PSP cheat authors
+100F0AE0 00000000
+
+// Walk Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+100F0AD0 0000AF22

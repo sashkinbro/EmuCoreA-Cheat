@@ -1,0 +1,398 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-00419
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Remove Memory Leak
+Author = libretro-database contributors / original PSP cheat authors
+E0090000 003165B8
+203165B8 0A200540
+20001500 949BFFE6
+20001504 17600004
+20001508 949BFFF0
+2000150C 34020110
+20001510 57620001
+20001514 00001821
+20001518 0A2C5970
+2000151C AC830000
+
+// Remove Memory Leak [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010540 003165B8
+203165B8 AC830000
+
+// 20 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20457F98 41A00000
+20457FA0 00000003
+20457FA4 3D4CCCCD
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+20457F98 41F00000
+20457FA0 00000002
+20457FA4 3D088889
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20457F98 42700000
+20457FA0 00000001
+20457FA4 3C888889
+
+// 8 Eyed Fish Eye
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAB0 00000001
+
+// 100 YR Snakeskin
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAA8 00000001
+
+// Angel Feather
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA74 00000001
+
+// Big Arthur
+Author = libretro-database contributors / original PSP cheat authors
+20C0B224 40000000
+20C0B228 40000000
+20C0B22C 40000000
+
+// Bombs
+Author = libretro-database contributors / original PSP cheat authors
+20C0B480 00000006
+
+// Buki
+Author = libretro-database contributors / original PSP cheat authors
+00C0B480 00000005
+
+// Cracked Shield
+Author = libretro-database contributors / original PSP cheat authors
+20C0D908 00000008
+
+// Cursed Leaf
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA98 00000001
+
+// Demon Frog Blood
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA9C 00000001
+
+// Demon Shield
+Author = libretro-database contributors / original PSP cheat authors
+20C0D914 00000008
+
+// Dragon Shield
+Author = libretro-database contributors / original PSP cheat authors
+20C0D918 00000008
+
+// Electric Crossbow
+Author = libretro-database contributors / original PSP cheat authors
+20C0B480 00000009
+
+// Electric Whip
+Author = libretro-database contributors / original PSP cheat authors
+20C0B480 00000008
+
+// Emperor Shield
+Author = libretro-database contributors / original PSP cheat authors
+20C0D910 00000008
+
+// Flame Crossbow
+Author = libretro-database contributors / original PSP cheat authors
+20C0B480 0000000B
+
+// Gigantic Arthur
+Author = libretro-database contributors / original PSP cheat authors
+20C0B224 40400000
+20C0B228 40400000
+20C0B22C 40400000
+
+// Gold Goat Blood
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAA4 00000001
+
+// Have Cracked Shield
+Author = libretro-database contributors / original PSP cheat authors
+20C0D9D4 00000001
+
+// Have Demon Shield
+Author = libretro-database contributors / original PSP cheat authors
+20C0D9E0 00000001
+
+// Have DiscoVery Magic
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA28 00000001
+
+// Have Dragon Shield
+Author = libretro-database contributors / original PSP cheat authors
+20C0D9E4 00000001
+
+// Have Emperor Shield
+Author = libretro-database contributors / original PSP cheat authors
+20C0D9DC 00000001
+
+// Have Flare Magic
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA00 00000001
+
+// Have Gorgon Magic
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA1C 00000001
+
+// Have Inferno Magic
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA08 00000001
+
+// Have Infinity Shield
+Author = libretro-database contributors / original PSP cheat authors
+20C0D9E8 00000001
+
+// Have Invincible Magic
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA14 00000001
+
+// Have Knight Shield
+Author = libretro-database contributors / original PSP cheat authors
+20C0D9D8 00000001
+
+// Have Power Up Magic
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA18 00000001
+
+// Have Spirit Magic
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA0C 00000001
+
+// Have Time Magic
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA20 00000001
+
+// Have UnSeal Magic
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA2C 00000001
+
+// Have Warp Staff 1-1
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAD4 00000001
+
+// Have Warp Staff 1-2
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAD8 00000001
+
+// Have Warp Staff 2-1
+Author = libretro-database contributors / original PSP cheat authors
+20C0DADC 00000001
+
+// Have Warp Staff 2-2
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAE0 00000001
+
+// Have Warp Staff 3-1
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAE4 00000001
+
+// Have Warp Staff 3-2
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAE8 00000001
+
+// Have Warp Staff 4
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAEC 00000001
+
+// Have Warp Staff Blue Rose Witch Lair
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAF8 00000001
+
+// Have Warp Staff Red Rose Witch Lair
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAF0 00000001
+
+// Have Warp Staff Yellow Rose Witch Lair
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAF4 00000001
+
+// Have Wave Magic
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA10 00000001
+
+// Hit Anywhere [Down+Square=On | Up+Square=Off]
+Author = libretro-database contributors / original PSP cheat authors
+E0018010 0043CA1C
+202CAD38 460C003C
+E0018040 0043CA1C
+202CAD38 0E200400
+20001000 8E250070
+20001004 8CA50240
+20001008 8CA5004C
+2000100C 3C04088B
+20001010 248466EC
+20001014 14850002
+20001018 460C003C
+2000101C 23FF0004
+20001020 03E00008
+
+// Holy Water
+Author = libretro-database contributors / original PSP cheat authors
+20C0B480 00000004
+
+// Horn Bull Bone
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAAC 00000001
+
+// Infinite Armor
+Author = libretro-database contributors / original PSP cheat authors
+10796588 00000006
+1079658C 00000006
+10C0B478 00000006
+
+// Infinite Double Jump
+Author = libretro-database contributors / original PSP cheat authors
+20C0B468 000000FF
+
+// Infinite Jumping
+Author = libretro-database contributors / original PSP cheat authors
+000100C0 000000BB
+
+// Infinite Life
+Author = libretro-database contributors / original PSP cheat authors
+00796678 00000007
+0079667C 00000007
+00C0DA40 00000007
+20C0DA40 0000001E
+
+// Infinite Life v2
+Author = libretro-database contributors / original PSP cheat authors
+00796678 00000007
+0079667C 00000007
+00C0DA40 00000007
+
+// Infinite Magic
+Author = libretro-database contributors / original PSP cheat authors
+00796730 00000014
+00796734 00000014
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+20C0B3C7 0000000C
+
+// Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+2009F13C 03E00008
+2009F140 00000000
+
+// Jump x FF
+Author = libretro-database contributors / original PSP cheat authors
+00C0B468 000000FF
+
+// Jump In Mid-Air
+Author = libretro-database contributors / original PSP cheat authors
+200A6828 34050001
+200A6830 34040000
+
+// Knife
+Author = libretro-database contributors / original PSP cheat authors
+20C0B480 00000002
+
+// Knight Shield
+Author = libretro-database contributors / original PSP cheat authors
+20C0D90C 00000008
+
+// Knight Soul
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA68 00000001
+
+// Kougeki Up
+Author = libretro-database contributors / original PSP cheat authors
+00C0B3C6 000000D0
+
+// Lance
+Author = libretro-database contributors / original PSP cheat authors
+20C0B480 00000000
+
+// Leap Boots
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA60 00000001
+20C0B468 00000000
+20C0B468 00000002
+D2000000 00000000
+
+// Leap Boots v2
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA60 00000001
+20C0B468 00000002
+00020001 00000000
+
+// Magic Pendant
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA6C 00000001
+
+// Mantrap Leaf
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA94 00000001
+
+// Maryoku
+Author = libretro-database contributors / original PSP cheat authors
+00C0B47C 00000014
+
+// Max Rings
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA78 00000021
+
+// Mega Arthur
+Author = libretro-database contributors / original PSP cheat authors
+20C0B224 40400000
+20C0B228 40400000
+20C0B22C 40400000
+
+// Microscopic Arthur
+Author = libretro-database contributors / original PSP cheat authors
+20C0B224 00000000
+20C0B228 00000000
+20C0B22C 00000000
+
+// Muteki Mahou
+Author = libretro-database contributors / original PSP cheat authors
+00C0B3C5 00000001
+
+// Necrotree Leaf
+Author = libretro-database contributors / original PSP cheat authors
+20C0DA90 00000001
+
+// Normal Arthur
+Author = libretro-database contributors / original PSP cheat authors
+20C0B224 3F800000
+20C0B228 3F800000
+20C0B22C 3F800000
+
+// Score 9999999
+Author = libretro-database contributors / original PSP cheat authors
+207965E4 0098967F
+
+// Scythe
+Author = libretro-database contributors / original PSP cheat authors
+20C0B480 00000003
+
+// Spiral Lance
+Author = libretro-database contributors / original PSP cheat authors
+20C0B480 00000001
+
+// Spread Shot Crossbow
+Author = libretro-database contributors / original PSP cheat authors
+20C0B480 0000000A
+
+// Tiny Arthur
+Author = libretro-database contributors / original PSP cheat authors
+20C0B224 3F000000
+20C0B228 3F000000
+20C0B22C 3F000000
+
+// Vine Whip
+Author = libretro-database contributors / original PSP cheat authors
+20C0B480 00000007
+
+// Winged Homing Lance
+Author = libretro-database contributors / original PSP cheat authors
+20C0B480 00000005
+
+// Youngbird Blood
+Author = libretro-database contributors / original PSP cheat authors
+20C0DAA0 00000001

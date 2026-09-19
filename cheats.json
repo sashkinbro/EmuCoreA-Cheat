@@ -12,7 +12,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "90 libretro PSP cheat blocks for NPEH-00134; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPEH-00134.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPEH-00134.pnach",
       "packPath": "files/libretro-psp/NPEH-00134.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -20,6 +20,25 @@
       "blockCount": 90,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "1A329970D1B3E340EED3E10472E270DC3CE31172CED00FED89DE17DB6E9600C4"
+    },
+    {
+      "id": "libretro-psp-nphh-00068",
+      "title": "Fantasy Golf Pangya Portable",
+      "serials": [
+        "NPHH-00068"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "100 libretro PSP cheat blocks for NPHH-00068; 5 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPHH-00068.pnach",
+      "packPath": "files/libretro-psp/NPHH-00068.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 100,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "5C1CC4BDAEE3AB9BADED7E4400FD9270D8EDD979931852CD816F66C1399D69B1"
     },
     {
       "id": "libretro-psp-npjb-40001",
@@ -31,7 +50,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "169 libretro PSP cheat blocks for NPJB-40001; 18 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJB-40001.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJB-40001.pnach",
       "packPath": "files/libretro-psp/NPJB-40001.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -50,7 +69,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "131 libretro PSP cheat blocks for NPJH-50043; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50043.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50043.pnach",
       "packPath": "files/libretro-psp/NPJH-50043.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -69,7 +88,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "108 libretro PSP cheat blocks for NPJH-50045; 9 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50045.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50045.pnach",
       "packPath": "files/libretro-psp/NPJH-50045.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -88,7 +107,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "632 libretro PSP cheat blocks for NPJH-50107; 62 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50107.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50107.pnach",
       "packPath": "files/libretro-psp/NPJH-50107.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -107,7 +126,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "112 libretro PSP cheat blocks for NPJH-50263; 2 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50263.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50263.pnach",
       "packPath": "files/libretro-psp/NPJH-50263.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -115,6 +134,25 @@
       "blockCount": 112,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "C5BE824B10CE45254FB814AF1F5655AE69434095377DE703F6AF0E244952F710"
+    },
+    {
+      "id": "libretro-psp-npjh-50276",
+      "title": "Ys Vs. Sora No Kiseki - Alternative Saga (PlayStation Store)",
+      "serials": [
+        "NPJH-50276"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "91 libretro PSP cheat blocks for NPJH-50276; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50276.pnach",
+      "packPath": "files/libretro-psp/NPJH-50276.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 91,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "DC24021279631EDF1755342DB7B99BDED96CB74D3063CAE7EEFBA7E66D93407B"
     },
     {
       "id": "libretro-psp-npjh-50311",
@@ -126,7 +164,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "125 libretro PSP cheat blocks for NPJH-50311; 10 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50311.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50311.pnach",
       "packPath": "files/libretro-psp/NPJH-50311.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -145,7 +183,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "185 libretro PSP cheat blocks for NPJH-50332; 18 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50332.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50332.pnach",
       "packPath": "files/libretro-psp/NPJH-50332.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -164,7 +202,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "730 libretro PSP cheat blocks for NPJH-50352; 38 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50352.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50352.pnach",
       "packPath": "files/libretro-psp/NPJH-50352.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -183,7 +221,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "154 libretro PSP cheat blocks for NPJH-50377; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50377.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50377.pnach",
       "packPath": "files/libretro-psp/NPJH-50377.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -202,7 +240,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "129 libretro PSP cheat blocks for NPJH-50435; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50435.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50435.pnach",
       "packPath": "files/libretro-psp/NPJH-50435.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -221,7 +259,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "440 libretro PSP cheat blocks for NPJH-50443; 43 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50443.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50443.pnach",
       "packPath": "files/libretro-psp/NPJH-50443.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -240,7 +278,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "423 libretro PSP cheat blocks for NPJH-50444; 33 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50444.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50444.pnach",
       "packPath": "files/libretro-psp/NPJH-50444.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -259,7 +297,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "240 libretro PSP cheat blocks for NPJH-50473; 7 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50473.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50473.pnach",
       "packPath": "files/libretro-psp/NPJH-50473.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -278,7 +316,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "200 libretro PSP cheat blocks for NPJH-50521; 13 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50521.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50521.pnach",
       "packPath": "files/libretro-psp/NPJH-50521.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -297,7 +335,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "204 libretro PSP cheat blocks for NPJH-50567; 2 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50567.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50567.pnach",
       "packPath": "files/libretro-psp/NPJH-50567.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -316,7 +354,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "154 libretro PSP cheat blocks for NPJH-50588; 8 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50588.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50588.pnach",
       "packPath": "files/libretro-psp/NPJH-50588.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -335,7 +373,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "134 libretro PSP cheat blocks for NPJH-50618; 20 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50618.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50618.pnach",
       "packPath": "files/libretro-psp/NPJH-50618.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -354,7 +392,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "128 libretro PSP cheat blocks for NPJH-50619; 7 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50619.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50619.pnach",
       "packPath": "files/libretro-psp/NPJH-50619.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -373,7 +411,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "109 libretro PSP cheat blocks for NPJH-50625; 9 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50625.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50625.pnach",
       "packPath": "files/libretro-psp/NPJH-50625.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -392,7 +430,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "97 libretro PSP cheat blocks for NPJH-50681; 9 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50681.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50681.pnach",
       "packPath": "files/libretro-psp/NPJH-50681.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -411,7 +449,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "585 libretro PSP cheat blocks for NPJH-50701; 20 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50701.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50701.pnach",
       "packPath": "files/libretro-psp/NPJH-50701.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -430,7 +468,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "118 libretro PSP cheat blocks for NPJH-50721; 15 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50721.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50721.pnach",
       "packPath": "files/libretro-psp/NPJH-50721.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -449,7 +487,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "187 libretro PSP cheat blocks for NPJH-50789; 8 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50789.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50789.pnach",
       "packPath": "files/libretro-psp/NPJH-50789.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -468,7 +506,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "605 libretro PSP cheat blocks for NPJH-50878; 103 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPJH-50878.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPJH-50878.pnach",
       "packPath": "files/libretro-psp/NPJH-50878.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -487,7 +525,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "538 libretro PSP cheat blocks for NPUH-10041; 4 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPUH-10041.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPUH-10041.pnach",
       "packPath": "files/libretro-psp/NPUH-10041.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -506,7 +544,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "90 libretro PSP cheat blocks for NPUH-10125; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-NPUH-10125.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPUH-10125.pnach",
       "packPath": "files/libretro-psp/NPUH-10125.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -514,6 +552,25 @@
       "blockCount": 90,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "15DD03C27FFBAF3ED4695F238D357B3C60C700FF70DB02AC8C4BA38C34BE1467"
+    },
+    {
+      "id": "libretro-psp-npuh-10126",
+      "title": "Black Rock Shooter - The Game",
+      "serials": [
+        "NPUH-10126"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "85 libretro PSP cheat blocks for NPUH-10126; 8 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-NPUH-10126.pnach",
+      "packPath": "files/libretro-psp/NPUH-10126.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 85,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "0FDE68C0879A564B371BD2261D923FEA03AFFACA052EA46C521B68F798B87136"
     },
     {
       "id": "libretro-psp-uces-00356",
@@ -525,7 +582,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "131 libretro PSP cheat blocks for UCES-00356; 5 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCES-00356.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCES-00356.pnach",
       "packPath": "files/libretro-psp/UCES-00356.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -544,7 +601,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "438 libretro PSP cheat blocks for UCES-00995; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCES-00995.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCES-00995.pnach",
       "packPath": "files/libretro-psp/UCES-00995.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -563,7 +620,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "205 libretro PSP cheat blocks for UCES-01242; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCES-01242.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCES-01242.pnach",
       "packPath": "files/libretro-psp/UCES-01242.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -582,7 +639,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "572 libretro PSP cheat blocks for UCES-01245; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCES-01245.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCES-01245.pnach",
       "packPath": "files/libretro-psp/UCES-01245.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -601,7 +658,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "72 libretro PSP cheat blocks for UCES-01264; 8 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCES-01264.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCES-01264.pnach",
       "packPath": "files/libretro-psp/UCES-01264.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -620,7 +677,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "119 libretro PSP cheat blocks for UCES-01327; 6 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCES-01327.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCES-01327.pnach",
       "packPath": "files/libretro-psp/UCES-01327.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -628,6 +685,25 @@
       "blockCount": 119,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "EC8554871E8A7E222AE04E903998532095206165746651C9DEDDCEB0CD34EC4F"
+    },
+    {
+      "id": "libretro-psp-ucjs-10093",
+      "title": "Bleach - Heat The Soul 6",
+      "serials": [
+        "UCJS-10093"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "91 libretro PSP cheat blocks for UCJS-10093; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCJS-10093.pnach",
+      "packPath": "files/libretro-psp/UCJS-10093.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 91,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "01CE6E0935B9719683D10D38DF83BFD755FDDFA680078FE33257A5B8822354D6"
     },
     {
       "id": "libretro-psp-ucjs-10100",
@@ -639,7 +715,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "544 libretro PSP cheat blocks for UCJS-10100; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCJS-10100.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCJS-10100.pnach",
       "packPath": "files/libretro-psp/UCJS-10100.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -658,7 +734,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "85 libretro PSP cheat blocks for UCKS-45027; 2 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCKS-45027.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCKS-45027.pnach",
       "packPath": "files/libretro-psp/UCKS-45027.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -666,6 +742,25 @@
       "blockCount": 85,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "975667C50CBAEEB07DA625566D2D26A47B3238663E1543B69C53923FC290BE68"
+    },
+    {
+      "id": "libretro-psp-ucks-45076",
+      "title": "Patapon",
+      "serials": [
+        "UCKS-45076"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "93 libretro PSP cheat blocks for UCKS-45076; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCKS-45076.pnach",
+      "packPath": "files/libretro-psp/UCKS-45076.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 93,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "94D10624A9A03F344BD484CAF7F3FE6CB7F222B09C9D9793B8C28F66204A177F"
     },
     {
       "id": "libretro-psp-ucus-98612",
@@ -677,7 +772,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "102 libretro PSP cheat blocks for UCUS-98612; 9 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCUS-98612.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCUS-98612.pnach",
       "packPath": "files/libretro-psp/UCUS-98612.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -696,7 +791,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "703 libretro PSP cheat blocks for UCUS-98632; 11 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCUS-98632.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCUS-98632.pnach",
       "packPath": "files/libretro-psp/UCUS-98632.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -715,7 +810,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "163 libretro PSP cheat blocks for UCUS-98633; 16 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCUS-98633.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCUS-98633.pnach",
       "packPath": "files/libretro-psp/UCUS-98633.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -734,7 +829,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "165 libretro PSP cheat blocks for UCUS-98645; 5 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCUS-98645.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCUS-98645.pnach",
       "packPath": "files/libretro-psp/UCUS-98645.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -753,7 +848,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "279 libretro PSP cheat blocks for UCUS-98646; 12 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCUS-98646.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCUS-98646.pnach",
       "packPath": "files/libretro-psp/UCUS-98646.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -772,7 +867,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "193 libretro PSP cheat blocks for UCUS-98668; 9 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCUS-98668.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCUS-98668.pnach",
       "packPath": "files/libretro-psp/UCUS-98668.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -791,7 +886,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "181 libretro PSP cheat blocks for UCUS-98711; 4 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCUS-98711.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCUS-98711.pnach",
       "packPath": "files/libretro-psp/UCUS-98711.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -810,7 +905,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "194 libretro PSP cheat blocks for UCUS-98716; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCUS-98716.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCUS-98716.pnach",
       "packPath": "files/libretro-psp/UCUS-98716.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -829,7 +924,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "133 libretro PSP cheat blocks for UCUS-98751; 8 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-UCUS-98751.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-UCUS-98751.pnach",
       "packPath": "files/libretro-psp/UCUS-98751.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -848,7 +943,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "403 libretro PSP cheat blocks for ULAS-42060; 1 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULAS-42060.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULAS-42060.pnach",
       "packPath": "files/libretro-psp/ULAS-42060.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -867,7 +962,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "345 libretro PSP cheat blocks for ULES-00151; 12 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-00151.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00151.pnach",
       "packPath": "files/libretro-psp/ULES-00151.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -886,7 +981,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "395 libretro PSP cheat blocks for ULES-00176; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-00176.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00176.pnach",
       "packPath": "files/libretro-psp/ULES-00176.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -905,7 +1000,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "159 libretro PSP cheat blocks for ULES-00180; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-00180.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00180.pnach",
       "packPath": "files/libretro-psp/ULES-00180.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -924,7 +1019,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "205 libretro PSP cheat blocks for ULES-00182; 11 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-00182.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00182.pnach",
       "packPath": "files/libretro-psp/ULES-00182.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -943,7 +1038,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "261 libretro PSP cheat blocks for ULES-00193; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-00193.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00193.pnach",
       "packPath": "files/libretro-psp/ULES-00193.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -962,7 +1057,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "416 libretro PSP cheat blocks for ULES-00318; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-00318.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00318.pnach",
       "packPath": "files/libretro-psp/ULES-00318.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -970,6 +1065,25 @@
       "blockCount": 416,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "136A0960286525645CA00A5AA23612A2EEDD04496E4D1DC35D8B7266FC77AC76"
+    },
+    {
+      "id": "libretro-psp-ules-00419",
+      "title": "Ultimate Ghosts 'n Goblins",
+      "serials": [
+        "ULES-00419"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "85 libretro PSP cheat blocks for ULES-00419; 6 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00419.pnach",
+      "packPath": "files/libretro-psp/ULES-00419.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 85,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "BB02E548DD527AAD4FA57ECD8425665117C17040DFC1C72A595C59C922A34AB5"
     },
     {
       "id": "libretro-psp-ules-00502",
@@ -981,7 +1095,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "320 libretro PSP cheat blocks for ULES-00502; 12 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-00502.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00502.pnach",
       "packPath": "files/libretro-psp/ULES-00502.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1000,7 +1114,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "201 libretro PSP cheat blocks for ULES-00503; 6 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-00503.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00503.pnach",
       "packPath": "files/libretro-psp/ULES-00503.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1019,7 +1133,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "189 libretro PSP cheat blocks for ULES-00657; 2 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-00657.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00657.pnach",
       "packPath": "files/libretro-psp/ULES-00657.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1038,7 +1152,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "231 libretro PSP cheat blocks for ULES-00724; 1 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-00724.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00724.pnach",
       "packPath": "files/libretro-psp/ULES-00724.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1057,7 +1171,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "120 libretro PSP cheat blocks for ULES-00756; 23 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-00756.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00756.pnach",
       "packPath": "files/libretro-psp/ULES-00756.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1076,7 +1190,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "151 libretro PSP cheat blocks for ULES-00841; 10 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-00841.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00841.pnach",
       "packPath": "files/libretro-psp/ULES-00841.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1095,7 +1209,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "244 libretro PSP cheat blocks for ULES-00850; 5 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-00850.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00850.pnach",
       "packPath": "files/libretro-psp/ULES-00850.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1103,6 +1217,63 @@
       "blockCount": 244,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "C39793D82F809437B6994C0747EFC73C4E934569A93E781D4137471E43D09DA5"
+    },
+    {
+      "id": "libretro-psp-ules-00981",
+      "title": "Star Wars - The Force Unleashed",
+      "serials": [
+        "ULES-00981"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "91 libretro PSP cheat blocks for ULES-00981; 10 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00981.pnach",
+      "packPath": "files/libretro-psp/ULES-00981.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 91,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "F4F16989CB59F93EAFE23A4D4CF852C467E4C512ECE73D2DAA98489BAED04948"
+    },
+    {
+      "id": "libretro-psp-ules-00982",
+      "title": "Star Wars - The Force Unleashed",
+      "serials": [
+        "ULES-00982"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "91 libretro PSP cheat blocks for ULES-00982; 10 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00982.pnach",
+      "packPath": "files/libretro-psp/ULES-00982.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 91,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "EF376554F4D21AA0136F98B41C5F7E3111D48E2A1984A05AD3205E954C9AD653"
+    },
+    {
+      "id": "libretro-psp-ules-00999",
+      "title": "Disgaea - Afternoon Of Darkness",
+      "serials": [
+        "ULES-00999"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "98 libretro PSP cheat blocks for ULES-00999; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-00999.pnach",
+      "packPath": "files/libretro-psp/ULES-00999.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 98,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "88A87578FFFB4E6B08C9A5128F49A1710B13E7A301EBBAF848D7A613BA65B938"
     },
     {
       "id": "libretro-psp-ules-01044",
@@ -1114,7 +1285,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "148 libretro PSP cheat blocks for ULES-01044; 5 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01044.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01044.pnach",
       "packPath": "files/libretro-psp/ULES-01044.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1122,6 +1293,44 @@
       "blockCount": 148,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "0DC9C2810374389FF2EE9815A177D5C6694E5F3E7223CF438FE017D575E13207"
+    },
+    {
+      "id": "libretro-psp-ules-01144",
+      "title": "Midnight Club - L.A. Remix",
+      "serials": [
+        "ULES-01144"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "99 libretro PSP cheat blocks for ULES-01144; 6 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01144.pnach",
+      "packPath": "files/libretro-psp/ULES-01144.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 99,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "13692637DAC84E106D9B301ED7AAB12AD52146F8379B47B23874F518B95D9BC1"
+    },
+    {
+      "id": "libretro-psp-ules-01151",
+      "title": "LEGO Batman - The Video Game",
+      "serials": [
+        "ULES-01151"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "96 libretro PSP cheat blocks for ULES-01151; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01151.pnach",
+      "packPath": "files/libretro-psp/ULES-01151.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 96,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "6B031A30D5A48846592762188173E7F91917F09347B243FB87EF1BD665A86F51"
     },
     {
       "id": "libretro-psp-ules-01183",
@@ -1133,7 +1342,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "70 libretro PSP cheat blocks for ULES-01183; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01183.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01183.pnach",
       "packPath": "files/libretro-psp/ULES-01183.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1152,7 +1361,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "116 libretro PSP cheat blocks for ULES-01187; 1 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01187.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01187.pnach",
       "packPath": "files/libretro-psp/ULES-01187.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1171,7 +1380,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "171 libretro PSP cheat blocks for ULES-01213; 11 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01213.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01213.pnach",
       "packPath": "files/libretro-psp/ULES-01213.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1190,7 +1399,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "174 libretro PSP cheat blocks for ULES-01298; 11 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01298.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01298.pnach",
       "packPath": "files/libretro-psp/ULES-01298.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1209,7 +1418,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "146 libretro PSP cheat blocks for ULES-01347; 1 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01347.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01347.pnach",
       "packPath": "files/libretro-psp/ULES-01347.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1228,7 +1437,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "47 libretro PSP cheat blocks for ULES-01367; 16 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01367.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01367.pnach",
       "packPath": "files/libretro-psp/ULES-01367.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1247,7 +1456,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "101 libretro PSP cheat blocks for ULES-01372; 14 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01372.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01372.pnach",
       "packPath": "files/libretro-psp/ULES-01372.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1266,7 +1475,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "106 libretro PSP cheat blocks for ULES-01376; 6 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01376.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01376.pnach",
       "packPath": "files/libretro-psp/ULES-01376.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1285,7 +1494,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "295 libretro PSP cheat blocks for ULES-01392; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01392.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01392.pnach",
       "packPath": "files/libretro-psp/ULES-01392.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1304,7 +1513,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "239 libretro PSP cheat blocks for ULES-01416; 1 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01416.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01416.pnach",
       "packPath": "files/libretro-psp/ULES-01416.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1323,7 +1532,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "136 libretro PSP cheat blocks for ULES-01500; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01500.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01500.pnach",
       "packPath": "files/libretro-psp/ULES-01500.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1342,7 +1551,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "213 libretro PSP cheat blocks for ULES-01507; 7 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01507.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01507.pnach",
       "packPath": "files/libretro-psp/ULES-01507.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1361,7 +1570,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "271 libretro PSP cheat blocks for ULES-01523; 6 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULES-01523.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULES-01523.pnach",
       "packPath": "files/libretro-psp/ULES-01523.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1380,7 +1589,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "232 libretro PSP cheat blocks for ULJM-05101; 2 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05101.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05101.pnach",
       "packPath": "files/libretro-psp/ULJM-05101.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1399,7 +1608,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "221 libretro PSP cheat blocks for ULJM-05255; 11 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05255.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05255.pnach",
       "packPath": "files/libretro-psp/ULJM-05255.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1418,7 +1627,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "80 libretro PSP cheat blocks for ULJM-05261; 6 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05261.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05261.pnach",
       "packPath": "files/libretro-psp/ULJM-05261.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1437,7 +1646,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "125 libretro PSP cheat blocks for ULJM-05262; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05262.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05262.pnach",
       "packPath": "files/libretro-psp/ULJM-05262.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1456,7 +1665,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "229 libretro PSP cheat blocks for ULJM-05297; 6 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05297.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05297.pnach",
       "packPath": "files/libretro-psp/ULJM-05297.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1475,7 +1684,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "103 libretro PSP cheat blocks for ULJM-05299; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05299.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05299.pnach",
       "packPath": "files/libretro-psp/ULJM-05299.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1494,7 +1703,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "113 libretro PSP cheat blocks for ULJM-05309; 2 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05309.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05309.pnach",
       "packPath": "files/libretro-psp/ULJM-05309.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1513,7 +1722,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "39 libretro PSP cheat blocks for ULJM-05341; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05341.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05341.pnach",
       "packPath": "files/libretro-psp/ULJM-05341.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1532,7 +1741,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "148 libretro PSP cheat blocks for ULJM-05353; 4 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05353.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05353.pnach",
       "packPath": "files/libretro-psp/ULJM-05353.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1551,7 +1760,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "154 libretro PSP cheat blocks for ULJM-05402; 1 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05402.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05402.pnach",
       "packPath": "files/libretro-psp/ULJM-05402.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1570,7 +1779,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "131 libretro PSP cheat blocks for ULJM-05410; 2 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05410.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05410.pnach",
       "packPath": "files/libretro-psp/ULJM-05410.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1578,6 +1787,25 @@
       "blockCount": 131,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "6A4B69A58CA55FC42EA7B320FDEB8AA99A9C5F78A2518F3EEC1C8C8B61FF2050"
+    },
+    {
+      "id": "libretro-psp-uljm-05427",
+      "title": "Shin Sangoku Musou - Multi Raid",
+      "serials": [
+        "ULJM-05427"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "99 libretro PSP cheat blocks for ULJM-05427; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05427.pnach",
+      "packPath": "files/libretro-psp/ULJM-05427.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 99,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "D3A2C138D08DC5816FAEAF4E5CF4902344EFBBA2E8C2AFDA02D686A6E7618816"
     },
     {
       "id": "libretro-psp-uljm-05490",
@@ -1589,7 +1817,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "128 libretro PSP cheat blocks for ULJM-05490; 2 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05490.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05490.pnach",
       "packPath": "files/libretro-psp/ULJM-05490.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1597,6 +1825,25 @@
       "blockCount": 128,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "0EFFC45DEDED63C5BF2D8B1C09EA97B6E8E954543CDC436ACE4DFC707095260F"
+    },
+    {
+      "id": "libretro-psp-uljm-05493",
+      "title": "Phantasy Star Portable 2",
+      "serials": [
+        "ULJM-05493"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "100 libretro PSP cheat blocks for ULJM-05493; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05493.pnach",
+      "packPath": "files/libretro-psp/ULJM-05493.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 100,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "4ACBED3EF58082543C39C3CCCC80C7DB9C9920B8C05B6FAD90B865047AC54EF9"
     },
     {
       "id": "libretro-psp-uljm-05500",
@@ -1608,7 +1855,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "306 libretro PSP cheat blocks for ULJM-05500; 26 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05500.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05500.pnach",
       "packPath": "files/libretro-psp/ULJM-05500.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1627,7 +1874,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "129 libretro PSP cheat blocks for ULJM-05505; 5 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05505.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05505.pnach",
       "packPath": "files/libretro-psp/ULJM-05505.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1646,7 +1893,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "49 libretro PSP cheat blocks for ULJM-05552; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05552.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05552.pnach",
       "packPath": "files/libretro-psp/ULJM-05552.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1665,7 +1912,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "307 libretro PSP cheat blocks for ULJM-05600; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05600.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05600.pnach",
       "packPath": "files/libretro-psp/ULJM-05600.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1684,7 +1931,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "153 libretro PSP cheat blocks for ULJM-05604; 1 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05604.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05604.pnach",
       "packPath": "files/libretro-psp/ULJM-05604.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1703,7 +1950,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "200 libretro PSP cheat blocks for ULJM-05637; 6 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05637.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05637.pnach",
       "packPath": "files/libretro-psp/ULJM-05637.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1722,7 +1969,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "112 libretro PSP cheat blocks for ULJM-05753; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05753.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05753.pnach",
       "packPath": "files/libretro-psp/ULJM-05753.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1741,7 +1988,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "114 libretro PSP cheat blocks for ULJM-05775; 9 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05775.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05775.pnach",
       "packPath": "files/libretro-psp/ULJM-05775.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1749,6 +1996,25 @@
       "blockCount": 114,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "857BCE2C5EE44A92B9D5EFF56E2633E9732CC87D81E89BD2FC8DAABA2E940893"
+    },
+    {
+      "id": "libretro-psp-uljm-05781",
+      "title": "Senjou No Valkyria 3",
+      "serials": [
+        "ULJM-05781"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "85 libretro PSP cheat blocks for ULJM-05781; 7 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05781.pnach",
+      "packPath": "files/libretro-psp/ULJM-05781.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 85,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "0527F85DC6E8346E569BC94D716EAF8FC2CC52454972DCF55A9FCD3D3C6157C3"
     },
     {
       "id": "libretro-psp-uljm-05800",
@@ -1760,7 +2026,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "347 libretro PSP cheat blocks for ULJM-05800; 24 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05800.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05800.pnach",
       "packPath": "files/libretro-psp/ULJM-05800.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1779,7 +2045,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "154 libretro PSP cheat blocks for ULJM-05814; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05814.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05814.pnach",
       "packPath": "files/libretro-psp/ULJM-05814.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1798,7 +2064,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "27 libretro PSP cheat blocks for ULJM-05844; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05844.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05844.pnach",
       "packPath": "files/libretro-psp/ULJM-05844.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1817,7 +2083,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "60 libretro PSP cheat blocks for ULJM-05940; 1 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05940.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05940.pnach",
       "packPath": "files/libretro-psp/ULJM-05940.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1836,7 +2102,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "149 libretro PSP cheat blocks for ULJM-05976; 5 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJM-05976.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJM-05976.pnach",
       "packPath": "files/libretro-psp/ULJM-05976.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1855,7 +2121,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "198 libretro PSP cheat blocks for ULJS-00048; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJS-00048.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJS-00048.pnach",
       "packPath": "files/libretro-psp/ULJS-00048.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1874,7 +2140,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "81 libretro PSP cheat blocks for ULJS-00097; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJS-00097.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJS-00097.pnach",
       "packPath": "files/libretro-psp/ULJS-00097.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1893,7 +2159,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "123 libretro PSP cheat blocks for ULJS-00183; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJS-00183.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJS-00183.pnach",
       "packPath": "files/libretro-psp/ULJS-00183.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1912,7 +2178,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "144 libretro PSP cheat blocks for ULJS-00202; 7 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJS-00202.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJS-00202.pnach",
       "packPath": "files/libretro-psp/ULJS-00202.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1931,7 +2197,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "96 libretro PSP cheat blocks for ULJS-00237; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJS-00237.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJS-00237.pnach",
       "packPath": "files/libretro-psp/ULJS-00237.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1950,7 +2216,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "99 libretro PSP cheat blocks for ULJS-00293; 6 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULJS-00293.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJS-00293.pnach",
       "packPath": "files/libretro-psp/ULJS-00293.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1958,6 +2224,25 @@
       "blockCount": 99,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "410BE4554D9902405C15EEC0CFAF06FFA6DDB97ECF9FD89DAFFBAC05B69C4CD8"
+    },
+    {
+      "id": "libretro-psp-uljs-00363",
+      "title": "SD Gundam G Generation World",
+      "serials": [
+        "ULJS-00363"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "95 libretro PSP cheat blocks for ULJS-00363; 9 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULJS-00363.pnach",
+      "packPath": "files/libretro-psp/ULJS-00363.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 95,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C292BF3562FE0CE5EBCD793B118734C812E4648A68CA52AD977B1318640DDE5F"
     },
     {
       "id": "libretro-psp-ulus-10041",
@@ -1969,7 +2254,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "408 libretro PSP cheat blocks for ULUS-10041; 18 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10041.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10041.pnach",
       "packPath": "files/libretro-psp/ULUS-10041.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -1988,7 +2273,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "125 libretro PSP cheat blocks for ULUS-10059; 1 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10059.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10059.pnach",
       "packPath": "files/libretro-psp/ULUS-10059.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2007,7 +2292,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "346 libretro PSP cheat blocks for ULUS-10084; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10084.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10084.pnach",
       "packPath": "files/libretro-psp/ULUS-10084.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2015,6 +2300,25 @@
       "blockCount": 346,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "BAE2C3659E3AB4203D548AD945B33ED01D20CF3F9BF54D65145DD1250B80E00E"
+    },
+    {
+      "id": "libretro-psp-ulus-10087",
+      "title": "Viewtiful Joe - Red Hot Rumble",
+      "serials": [
+        "ULUS-10087"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "97 libretro PSP cheat blocks for ULUS-10087; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10087.pnach",
+      "packPath": "files/libretro-psp/ULUS-10087.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 97,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "9AD30E5BB91D444E19711FB40F8DD57492F0A05F8CD5BE2AD9948CC08686647C"
     },
     {
       "id": "libretro-psp-ulus-10097",
@@ -2026,7 +2330,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "110 libretro PSP cheat blocks for ULUS-10097; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10097.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10097.pnach",
       "packPath": "files/libretro-psp/ULUS-10097.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2045,7 +2349,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "225 libretro PSP cheat blocks for ULUS-10107; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10107.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10107.pnach",
       "packPath": "files/libretro-psp/ULUS-10107.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2053,6 +2357,25 @@
       "blockCount": 225,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "E4B9B3E7668700A06DFC56933B583FC841F6BE5731403DD02D4891D07B5F00AE"
+    },
+    {
+      "id": "libretro-psp-ulus-10134",
+      "title": "Capcom Classics Collection Reloaded",
+      "serials": [
+        "ULUS-10134"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "101 libretro PSP cheat blocks for ULUS-10134; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10134.pnach",
+      "packPath": "files/libretro-psp/ULUS-10134.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 101,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "4A2B94E1B318257E33A79F5F35AD2C856C430772832C58DDC72BF47E7A671B15"
     },
     {
       "id": "libretro-psp-ulus-10139",
@@ -2064,7 +2387,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "101 libretro PSP cheat blocks for ULUS-10139; 4 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10139.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10139.pnach",
       "packPath": "files/libretro-psp/ULUS-10139.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2083,7 +2406,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "119 libretro PSP cheat blocks for ULUS-10141; 8 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10141.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10141.pnach",
       "packPath": "files/libretro-psp/ULUS-10141.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2102,7 +2425,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "133 libretro PSP cheat blocks for ULUS-10142; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10142.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10142.pnach",
       "packPath": "files/libretro-psp/ULUS-10142.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2121,7 +2444,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "247 libretro PSP cheat blocks for ULUS-10160; 10 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10160.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10160.pnach",
       "packPath": "files/libretro-psp/ULUS-10160.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2140,7 +2463,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "21 libretro PSP cheat blocks for ULUS-10200; 2 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10200.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10200.pnach",
       "packPath": "files/libretro-psp/ULUS-10200.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2159,7 +2482,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "247 libretro PSP cheat blocks for ULUS-10202; 14 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10202.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10202.pnach",
       "packPath": "files/libretro-psp/ULUS-10202.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2178,7 +2501,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "106 libretro PSP cheat blocks for ULUS-10211; 1 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10211.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10211.pnach",
       "packPath": "files/libretro-psp/ULUS-10211.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2197,7 +2520,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "46 libretro PSP cheat blocks for ULUS-10219; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10219.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10219.pnach",
       "packPath": "files/libretro-psp/ULUS-10219.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2216,7 +2539,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "141 libretro PSP cheat blocks for ULUS-10251; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10251.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10251.pnach",
       "packPath": "files/libretro-psp/ULUS-10251.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2235,7 +2558,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "134 libretro PSP cheat blocks for ULUS-10263; 1 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10263.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10263.pnach",
       "packPath": "files/libretro-psp/ULUS-10263.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2254,7 +2577,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "122 libretro PSP cheat blocks for ULUS-10266; 2 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10266.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10266.pnach",
       "packPath": "files/libretro-psp/ULUS-10266.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2273,7 +2596,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "89 libretro PSP cheat blocks for ULUS-10271; 8 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10271.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10271.pnach",
       "packPath": "files/libretro-psp/ULUS-10271.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2281,6 +2604,25 @@
       "blockCount": 89,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "A91F5EFD9EFD495DC3E0B113902E0C862D3C293F9C87CCAB475CF23741317D2F"
+    },
+    {
+      "id": "libretro-psp-ulus-10282",
+      "title": "Dungeon Maker - Hunting Ground",
+      "serials": [
+        "ULUS-10282"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "93 libretro PSP cheat blocks for ULUS-10282; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10282.pnach",
+      "packPath": "files/libretro-psp/ULUS-10282.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 93,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "CA7E844D0E04E3DA85192F242715CE94A77D29E3393E072EED31C949EA24690C"
     },
     {
       "id": "libretro-psp-ulus-10290",
@@ -2292,7 +2634,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "107 libretro PSP cheat blocks for ULUS-10290; 14 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10290.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10290.pnach",
       "packPath": "files/libretro-psp/ULUS-10290.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2300,6 +2642,25 @@
       "blockCount": 107,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "07330992FAA4E1487D227077C4704BCBB11FE232C52B83B426018E785E8CEFA6"
+    },
+    {
+      "id": "libretro-psp-ulus-10292",
+      "title": "Star Wars - Battlefront - Renegade Squadron",
+      "serials": [
+        "ULUS-10292"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "96 libretro PSP cheat blocks for ULUS-10292; 3 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10292.pnach",
+      "packPath": "files/libretro-psp/ULUS-10292.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 96,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "36DCE55A4F21A72300B355A32BCF14EE28D60F7BD7B2097A97886849577227B8"
     },
     {
       "id": "libretro-psp-ulus-10297",
@@ -2311,7 +2672,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "187 libretro PSP cheat blocks for ULUS-10297; 4 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10297.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10297.pnach",
       "packPath": "files/libretro-psp/ULUS-10297.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2330,7 +2691,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "183 libretro PSP cheat blocks for ULUS-10308; 5 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10308.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10308.pnach",
       "packPath": "files/libretro-psp/ULUS-10308.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2349,7 +2710,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "165 libretro PSP cheat blocks for ULUS-10310; 5 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10310.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10310.pnach",
       "packPath": "files/libretro-psp/ULUS-10310.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2357,6 +2718,25 @@
       "blockCount": 165,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "D9C20B79CEB160EBB0603B997B8958ACA3D14A8702FF38C5FB7705146D7FE3AB"
+    },
+    {
+      "id": "libretro-psp-ulus-10323",
+      "title": "Sonic Rivals 2",
+      "serials": [
+        "ULUS-10323"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "85 libretro PSP cheat blocks for ULUS-10323; 10 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10323.pnach",
+      "packPath": "files/libretro-psp/ULUS-10323.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 85,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "3D0C9109BA9F844D9C5F9EDAB4252C49DC4F8DC2D0AF17347F2762DBF2751DA5"
     },
     {
       "id": "libretro-psp-ulus-10336",
@@ -2368,7 +2748,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "178 libretro PSP cheat blocks for ULUS-10336; 11 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10336.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10336.pnach",
       "packPath": "files/libretro-psp/ULUS-10336.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2376,6 +2756,25 @@
       "blockCount": 178,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "473784DA76DDC5C81722CAA5395590981996F682619C1A8D7E036EA42314588E"
+    },
+    {
+      "id": "libretro-psp-ulus-10345",
+      "title": "Star Wars - The Force Unleashed",
+      "serials": [
+        "ULUS-10345"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "87 libretro PSP cheat blocks for ULUS-10345; 12 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10345.pnach",
+      "packPath": "files/libretro-psp/ULUS-10345.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 87,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7FDF8209462E4D9B4AF4DEC2FE559F890A555A44FDF4E3576A806F41E3E5D7E9"
     },
     {
       "id": "libretro-psp-ulus-10368",
@@ -2387,7 +2786,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "121 libretro PSP cheat blocks for ULUS-10368; 4 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10368.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10368.pnach",
       "packPath": "files/libretro-psp/ULUS-10368.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2406,7 +2805,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "133 libretro PSP cheat blocks for ULUS-10374; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10374.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10374.pnach",
       "packPath": "files/libretro-psp/ULUS-10374.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2425,7 +2824,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "146 libretro PSP cheat blocks for ULUS-10375; 5 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10375.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10375.pnach",
       "packPath": "files/libretro-psp/ULUS-10375.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2444,7 +2843,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "127 libretro PSP cheat blocks for ULUS-10380; 6 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10380.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10380.pnach",
       "packPath": "files/libretro-psp/ULUS-10380.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2463,7 +2862,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "230 libretro PSP cheat blocks for ULUS-10390; 23 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10390.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10390.pnach",
       "packPath": "files/libretro-psp/ULUS-10390.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2482,7 +2881,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "210 libretro PSP cheat blocks for ULUS-10391; 18 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10391.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10391.pnach",
       "packPath": "files/libretro-psp/ULUS-10391.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2501,7 +2900,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "514 libretro PSP cheat blocks for ULUS-10410; 7 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10410.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10410.pnach",
       "packPath": "files/libretro-psp/ULUS-10410.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2509,6 +2908,25 @@
       "blockCount": 514,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "8AD34371396D425306BF5381FB55F64650140BE3BD9BDEDC158CBF0C0CC5019F"
+    },
+    {
+      "id": "libretro-psp-ulus-10416",
+      "title": "Dynasty Warriors - Strikeforce",
+      "serials": [
+        "ULUS-10416"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "94 libretro PSP cheat blocks for ULUS-10416; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10416.pnach",
+      "packPath": "files/libretro-psp/ULUS-10416.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 94,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C39ABDB96C74950823C6053650BC1B9A38D506D0F5563507298E417B982D8447"
     },
     {
       "id": "libretro-psp-ulus-10432",
@@ -2520,7 +2938,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "119 libretro PSP cheat blocks for ULUS-10432; 4 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10432.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10432.pnach",
       "packPath": "files/libretro-psp/ULUS-10432.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2539,7 +2957,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "190 libretro PSP cheat blocks for ULUS-10437; 10 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10437.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10437.pnach",
       "packPath": "files/libretro-psp/ULUS-10437.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2558,7 +2976,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "107 libretro PSP cheat blocks for ULUS-10438; 5 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10438.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10438.pnach",
       "packPath": "files/libretro-psp/ULUS-10438.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2577,7 +2995,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "107 libretro PSP cheat blocks for ULUS-10447; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10447.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10447.pnach",
       "packPath": "files/libretro-psp/ULUS-10447.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2585,6 +3003,25 @@
       "blockCount": 107,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "793CC714B3F0DE7297789982A639031C4F37C753BADE50E5D2996BE6BF48DD74"
+    },
+    {
+      "id": "libretro-psp-ulus-10452",
+      "title": "WWE SmackDown Vs. RAW 2010",
+      "serials": [
+        "ULUS-10452"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "85 libretro PSP cheat blocks for ULUS-10452; 7 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10452.pnach",
+      "packPath": "files/libretro-psp/ULUS-10452.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 85,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7E8F9DE075D311B3A71B35DD60E0E6F025D1DB4ACDB493607E66F1F16ACC21E4"
     },
     {
       "id": "libretro-psp-ulus-10457",
@@ -2596,7 +3033,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "147 libretro PSP cheat blocks for ULUS-10457; 7 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10457.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10457.pnach",
       "packPath": "files/libretro-psp/ULUS-10457.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2615,7 +3052,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "267 libretro PSP cheat blocks for ULUS-10458; 8 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10458.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10458.pnach",
       "packPath": "files/libretro-psp/ULUS-10458.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2634,7 +3071,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "276 libretro PSP cheat blocks for ULUS-10461; 1 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10461.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10461.pnach",
       "packPath": "files/libretro-psp/ULUS-10461.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2653,7 +3090,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "204 libretro PSP cheat blocks for ULUS-10466; 9 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10466.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10466.pnach",
       "packPath": "files/libretro-psp/ULUS-10466.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2672,7 +3109,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "6594 libretro PSP cheat blocks for ULUS-10479; 10 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10479.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10479.pnach",
       "packPath": "files/libretro-psp/ULUS-10479.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2691,7 +3128,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "457 libretro PSP cheat blocks for ULUS-10490; 8 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10490.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10490.pnach",
       "packPath": "files/libretro-psp/ULUS-10490.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2699,6 +3136,25 @@
       "blockCount": 457,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "9ACE26B456157F17BC1F00C2D10928FD40EE0CC3086BD3D5C29690A3F923CD6E"
+    },
+    {
+      "id": "libretro-psp-ulus-10495",
+      "title": "Metal Slug XX",
+      "serials": [
+        "ULUS-10495"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "99 libretro PSP cheat blocks for ULUS-10495; 3 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10495.pnach",
+      "packPath": "files/libretro-psp/ULUS-10495.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 99,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C608D593B53CB738A8F8665FD434B0FB508C43EF03E97353A5BBABFB9759A89E"
     },
     {
       "id": "libretro-psp-ulus-10505",
@@ -2710,7 +3166,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "128 libretro PSP cheat blocks for ULUS-10505; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10505.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10505.pnach",
       "packPath": "files/libretro-psp/ULUS-10505.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2729,7 +3185,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "116 libretro PSP cheat blocks for ULUS-10511; 3 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10511.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10511.pnach",
       "packPath": "files/libretro-psp/ULUS-10511.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2748,7 +3204,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "411 libretro PSP cheat blocks for ULUS-10529; 9 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10529.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10529.pnach",
       "packPath": "files/libretro-psp/ULUS-10529.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2756,6 +3212,25 @@
       "blockCount": 411,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "F78B6AC52B8FC73EA7CF4B1587A917AB0B6A29AF972038DE80ABA89BDF2F0EB5"
+    },
+    {
+      "id": "libretro-psp-ulus-10543",
+      "title": "WWE SmackDown Vs. RAW 2011",
+      "serials": [
+        "ULUS-10543"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "96 libretro PSP cheat blocks for ULUS-10543; 4 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10543.pnach",
+      "packPath": "files/libretro-psp/ULUS-10543.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 96,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "E7E6EBF4E2BBBD810988573D5272E10540F2D3767ECDF2EE1C6F7B3FBCD6AC69"
     },
     {
       "id": "libretro-psp-ulus-10551",
@@ -2767,7 +3242,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "73 libretro PSP cheat blocks for ULUS-10551; 8 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10551.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10551.pnach",
       "packPath": "files/libretro-psp/ULUS-10551.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2786,7 +3261,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "75 libretro PSP cheat blocks for ULUS-10560; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10560.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10560.pnach",
       "packPath": "files/libretro-psp/ULUS-10560.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2805,7 +3280,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "477 libretro PSP cheat blocks for ULUS-10563; 34 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10563.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10563.pnach",
       "packPath": "files/libretro-psp/ULUS-10563.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2824,7 +3299,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "137 libretro PSP cheat blocks for ULUS-10565; 0 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10565.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10565.pnach",
       "packPath": "files/libretro-psp/ULUS-10565.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",
@@ -2843,7 +3318,7 @@
         "libretro-database contributors and the original PSP cheat authors"
       ],
       "description": "259 libretro PSP cheat blocks for ULUS-10582; 12 empty or malformed upstream blocks excluded.",
-      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.0.9/EmuCoreA-Cheat-v1.0.9-ULUS-10582.pnach",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/v1.1.0/EmuCoreA-Cheat-v1.1.0-ULUS-10582.pnach",
       "packPath": "files/libretro-psp/ULUS-10582.pnach",
       "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "sourceName": "libretro-database PSP cheats",

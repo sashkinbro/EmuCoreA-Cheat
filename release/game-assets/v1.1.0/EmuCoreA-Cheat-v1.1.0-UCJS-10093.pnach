@@ -1,0 +1,399 @@
+# EmuCoreA PSP cheat pack
+# Serial: UCJS-10093
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Championship
+Author = libretro-database contributors / original PSP cheat authors
+8048376C 001F0001
+000000FF 00000000
+
+// All Chip
+Author = libretro-database contributors / original PSP cheat authors
+80483734 00370001
+00000063 00000000
+
+// Alt. Arts Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+00494DFC 00000002
+
+// Alt. HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2049474C 00000000
+20494750 00000000
+
+// Arts Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+0049383C 00000002
+
+// Character All
+Author = libretro-database contributors / original PSP cheat authors
+40482FA4 001E0001
+FFFFFFFF 00000000
+
+// Flash Game
+Author = libretro-database contributors / original PSP cheat authors
+0049EBA4 40800000
+00493BA4 40800000
+004930C4 40800000
+00494684 40800000
+
+// Flash Player v2
+Author = libretro-database contributors / original PSP cheat authors
+004930C4 40800000
+00494684 40800000
+
+// Health Mod
+Author = libretro-database contributors / original PSP cheat authors
+00493190 40000000
+00494750 40000000
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2049318C 00000000
+20493190 00000000
+
+// Inf. Energy
+Author = libretro-database contributors / original PSP cheat authors
+00493834 62000050
+0048F290 42C80000
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+0049318C 40000000
+0049474C 40000000
+
+// Infinite Soul Energy
+Author = libretro-database contributors / original PSP cheat authors
+205D1F38 00000000
+
+// Matrix Mode
+Author = libretro-database contributors / original PSP cheat authors
+0049EBA4 3E000000
+00493BA4 3E000000
+004930C4 3E000000
+00494684 3E000000
+
+// Opponent Speed Down
+Author = libretro-database contributors / original PSP cheat authors
+10493BA6 00003E80
+10495166 00003E80
+
+// Player: Power Up
+Author = libretro-database contributors / original PSP cheat authors
+2048F288 42C80000
+
+// Player: Power Up In Tag Battle
+Author = libretro-database contributors / original PSP cheat authors
+2048F288 42C80000
+2048F290 42C80000
+
+// Player: Speed Up
+Author = libretro-database contributors / original PSP cheat authors
+104930C6 00004040
+10494686 00004040
+
+// Player 1: Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+2049318C 00000000
+20493190 00000000
+
+// Player 1: Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+2049383C 00000002
+
+// Partner Tag: Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+2049474C 00000000
+20494750 00000000
+
+// Partner Tag: Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+20494DFC 00000002
+
+// Reset Time
+Author = libretro-database contributors / original PSP cheat authors
+2048EC68 00000000
+2048EC6C 00000000
+
+// Soul Energy Unlimitedly
+Author = libretro-database contributors / original PSP cheat authors
+005D1F38 00000000
+
+// Speed Mod (Opponent): Fast
+Author = libretro-database contributors / original PSP cheat authors
+20493BA4 40000000
+20495164 40000000
+
+// Speed Mod (Opponent): Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20493BA4 40800000
+20495164 40800000
+
+// Speed Mod (Opponent): Normal
+Author = libretro-database contributors / original PSP cheat authors
+20493BA4 3F800000
+20495164 3F800000
+
+// Speed Mod (Opponent): Slow
+Author = libretro-database contributors / original PSP cheat authors
+20493BA4 3F000000
+20495164 3F000000
+
+// Speed Mod (Opponent): Super Slow
+Author = libretro-database contributors / original PSP cheat authors
+20493BA4 3E800000
+20495164 3E800000
+
+// Speed Mod (Player): Fast
+Author = libretro-database contributors / original PSP cheat authors
+204930C4 40000000
+20494684 40000000
+
+// Speed Mod (Player): Hyper
+Author = libretro-database contributors / original PSP cheat authors
+204930C4 40800000
+20494684 40800000
+
+// Speed Mod (Player): Normal
+Author = libretro-database contributors / original PSP cheat authors
+204930C4 3F800000
+20494684 3F800000
+
+// Speed Mod (Player): Slow
+Author = libretro-database contributors / original PSP cheat authors
+204930C4 3F000000
+20494684 3F000000
+
+// Speed Mod (Player): Super Slow
+Author = libretro-database contributors / original PSP cheat authors
+204930C4 3E800000
+20494684 3E800000
+
+// Time Zero
+Author = libretro-database contributors / original PSP cheat authors
+2048EC68 00000000
+2048EC6C 00000000
+
+// Aaroniero
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000002D
+
+// Aizen
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000017
+
+// Byakuya
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000011
+
+// Chad
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000004
+
+// Cirucci
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000036
+
+// Dordoni
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000035
+
+// Gantenbainne
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000037
+
+// Girl In Purple Hair & Red Belt
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000033
+
+// Grimmjow Jager Jack
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000023
+
+// Guy In Purple Hair & Cloak
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000032
+
+// Harribel
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000001A
+
+// Hinamori
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000001E
+
+// Hirako
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000006
+
+// Hisagi
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000020
+
+// Hitsugaya
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000001B
+
+// Hiyori
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000007
+
+// Hollow Ichigo
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000000B
+
+// Ichigo
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000001
+
+// Ichimaru
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000018
+
+// Inoue
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000005
+
+// Ishida
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000003
+
+// Ishida 2nd Form
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000000E
+
+// Ishida's Father
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000000C
+
+// Ikkaku
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000015
+
+// Kenpachi
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000013
+
+// Kensei
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000008
+
+// Kira
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000001F
+
+// Komamura
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000002F
+
+// Kyouraku
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000027
+
+// Lisa
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000000D
+
+// Luppi
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000038
+
+// Mashiro
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000010
+
+// Matsumoto
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000001C
+
+// Mayuri
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000029
+
+// Nanao
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000028
+
+// Nelliel
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000002B
+
+// Nemu
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000002A
+
+// Nnoitora
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000022
+
+// Old Woman (That Looks Like Rukia)
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000034
+
+// Renji
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000012
+
+// Rose
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000000F
+
+// Rukia
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000002
+
+// Soi Fon
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000001D
+
+// Szayel
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000002C
+
+// Tessai
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000031
+
+// Tousen
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000019
+
+// Ukitake
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000026
+
+// Ulquiorra
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000021
+
+// Urahara Death God
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000030
+
+// Uruhara
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000009
+
+// Yachiru
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000014
+
+// Yamamoto
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000025
+
+// Yammy
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000002E
+
+// Yumichika
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000016
+
+// Yurichi
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 0000000A
+
+// Zommari
+Author = libretro-database contributors / original PSP cheat authors
+005F617C 00000024

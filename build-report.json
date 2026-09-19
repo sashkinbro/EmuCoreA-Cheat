@@ -1,6 +1,6 @@
 {
-  "batch": "batch-008",
-  "release": "v1.0.9",
+  "batch": "batch-009",
+  "release": "v1.1.0",
   "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
   "libretroCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
   "libretroEntries": [
@@ -11,6 +11,14 @@
       "excluded": 0,
       "malformed": 0,
       "sha256": "1A329970D1B3E340EED3E10472E270DC3CE31172CED00FED89DE17DB6E9600C4"
+    },
+    {
+      "serial": "NPHH-00068",
+      "sourceFile": "Fantasy Golf Pangya Portable [KR] [NPHH-00068].cht",
+      "blocks": 100,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "5C1CC4BDAEE3AB9BADED7E4400FD9270D8EDD979931852CD816F66C1399D69B1"
     },
     {
       "serial": "NPJB-40001",
@@ -51,6 +59,14 @@
       "excluded": 2,
       "malformed": 0,
       "sha256": "C5BE824B10CE45254FB814AF1F5655AE69434095377DE703F6AF0E244952F710"
+    },
+    {
+      "serial": "NPJH-50276",
+      "sourceFile": "Ys Vs. Sora No Kiseki - Alternative Saga (PlayStation Store) [JP] [NPJH-50276].cht",
+      "blocks": 91,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "DC24021279631EDF1755342DB7B99BDED96CB74D3063CAE7EEFBA7E66D93407B"
     },
     {
       "serial": "NPJH-50311",
@@ -221,6 +237,14 @@
       "sha256": "15DD03C27FFBAF3ED4695F238D357B3C60C700FF70DB02AC8C4BA38C34BE1467"
     },
     {
+      "serial": "NPUH-10126",
+      "sourceFile": "Black Rock Shooter - The Game [US] [NPUH-10126].cht",
+      "blocks": 85,
+      "excluded": 8,
+      "malformed": 0,
+      "sha256": "0FDE68C0879A564B371BD2261D923FEA03AFFACA052EA46C521B68F798B87136"
+    },
+    {
       "serial": "UCES-00356",
       "sourceFile": "Tekken - Dark Resurrection [EU] [UCES-00356].cht",
       "blocks": 131,
@@ -269,6 +293,14 @@
       "sha256": "EC8554871E8A7E222AE04E903998532095206165746651C9DEDDCEB0CD34EC4F"
     },
     {
+      "serial": "UCJS-10093",
+      "sourceFile": "Bleach - Heat The Soul 6 [JP] [UCJS-10093].cht",
+      "blocks": 91,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "01CE6E0935B9719683D10D38DF83BFD755FDDFA680078FE33257A5B8822354D6"
+    },
+    {
       "serial": "UCJS-10100",
       "sourceFile": "Gran Turismo [JP] [UCJS-10100].cht",
       "blocks": 544,
@@ -283,6 +315,14 @@
       "excluded": 2,
       "malformed": 0,
       "sha256": "975667C50CBAEEB07DA625566D2D26A47B3238663E1543B69C53923FC290BE68"
+    },
+    {
+      "serial": "UCKS-45076",
+      "sourceFile": "Patapon [KR] [UCKS-45076].cht",
+      "blocks": 93,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "94D10624A9A03F344BD484CAF7F3FE6CB7F222B09C9D9793B8C28F66204A177F"
     },
     {
       "serial": "UCUS-98612",
@@ -413,6 +453,14 @@
       "sha256": "136A0960286525645CA00A5AA23612A2EEDD04496E4D1DC35D8B7266FC77AC76"
     },
     {
+      "serial": "ULES-00419",
+      "sourceFile": "Ultimate Ghosts 'n Goblins [EU] [ULES-00419].cht",
+      "blocks": 85,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "BB02E548DD527AAD4FA57ECD8425665117C17040DFC1C72A595C59C922A34AB5"
+    },
+    {
       "serial": "ULES-00502",
       "sourceFile": "Grand Theft Auto - Vice City Stories [EU] [ULES-00502].cht",
       "blocks": 320,
@@ -469,12 +517,52 @@
       "sha256": "C39793D82F809437B6994C0747EFC73C4E934569A93E781D4137471E43D09DA5"
     },
     {
+      "serial": "ULES-00981",
+      "sourceFile": "Star Wars - The Force Unleashed [EU] [ULES-00981].cht",
+      "blocks": 91,
+      "excluded": 10,
+      "malformed": 0,
+      "sha256": "F4F16989CB59F93EAFE23A4D4CF852C467E4C512ECE73D2DAA98489BAED04948"
+    },
+    {
+      "serial": "ULES-00982",
+      "sourceFile": "Star Wars - The Force Unleashed [EU-Multi2] [ULES-00982].cht",
+      "blocks": 91,
+      "excluded": 10,
+      "malformed": 0,
+      "sha256": "EF376554F4D21AA0136F98B41C5F7E3111D48E2A1984A05AD3205E954C9AD653"
+    },
+    {
+      "serial": "ULES-00999",
+      "sourceFile": "Disgaea - Afternoon Of Darkness [EU] [ULES-00999].cht",
+      "blocks": 98,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "88A87578FFFB4E6B08C9A5128F49A1710B13E7A301EBBAF848D7A613BA65B938"
+    },
+    {
       "serial": "ULES-01044",
       "sourceFile": "Crisis Core - Final Fantasy VII [EU] [ULES-01044].cht",
       "blocks": 148,
       "excluded": 5,
       "malformed": 0,
       "sha256": "0DC9C2810374389FF2EE9815A177D5C6694E5F3E7223CF438FE017D575E13207"
+    },
+    {
+      "serial": "ULES-01144",
+      "sourceFile": "Midnight Club - L.A. Remix [EU] [ULES-01144].cht",
+      "blocks": 99,
+      "excluded": 6,
+      "malformed": 0,
+      "sha256": "13692637DAC84E106D9B301ED7AAB12AD52146F8379B47B23874F518B95D9BC1"
+    },
+    {
+      "serial": "ULES-01151",
+      "sourceFile": "LEGO Batman - The Video Game [EU] [ULES-01151].cht",
+      "blocks": 96,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "6B031A30D5A48846592762188173E7F91917F09347B243FB87EF1BD665A86F51"
     },
     {
       "serial": "ULES-01183",
@@ -669,12 +757,28 @@
       "sha256": "6A4B69A58CA55FC42EA7B320FDEB8AA99A9C5F78A2518F3EEC1C8C8B61FF2050"
     },
     {
+      "serial": "ULJM-05427",
+      "sourceFile": "Shin Sangoku Musou - Multi Raid [JP] [ULJM-05427].cht",
+      "blocks": 99,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "D3A2C138D08DC5816FAEAF4E5CF4902344EFBBA2E8C2AFDA02D686A6E7618816"
+    },
+    {
       "serial": "ULJM-05490",
       "sourceFile": "Blazing Souls - Accelate [JP] [ULJM-05490].cht",
       "blocks": 128,
       "excluded": 2,
       "malformed": 0,
       "sha256": "0EFFC45DEDED63C5BF2D8B1C09EA97B6E8E954543CDC436ACE4DFC707095260F"
+    },
+    {
+      "serial": "ULJM-05493",
+      "sourceFile": "Phantasy Star Portable 2 [JP] [ULJM-05493].cht",
+      "blocks": 100,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "4ACBED3EF58082543C39C3CCCC80C7DB9C9920B8C05B6FAD90B865047AC54EF9"
     },
     {
       "serial": "ULJM-05500",
@@ -739,6 +843,14 @@
       "excluded": 9,
       "malformed": 0,
       "sha256": "857BCE2C5EE44A92B9D5EFF56E2633E9732CC87D81E89BD2FC8DAABA2E940893"
+    },
+    {
+      "serial": "ULJM-05781",
+      "sourceFile": "Senjou No Valkyria 3 [JP] [ULJM-05781].cht",
+      "blocks": 85,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "0527F85DC6E8346E569BC94D716EAF8FC2CC52454972DCF55A9FCD3D3C6157C3"
     },
     {
       "serial": "ULJM-05800",
@@ -829,6 +941,14 @@
       "sha256": "410BE4554D9902405C15EEC0CFAF06FFA6DDB97ECF9FD89DAFFBAC05B69C4CD8"
     },
     {
+      "serial": "ULJS-00363",
+      "sourceFile": "SD Gundam G Generation World [JP] [ULJS-00363].cht",
+      "blocks": 95,
+      "excluded": 9,
+      "malformed": 0,
+      "sha256": "C292BF3562FE0CE5EBCD793B118734C812E4648A68CA52AD977B1318640DDE5F"
+    },
+    {
       "serial": "ULUS-10041",
       "sourceFile": "Grand Theft Auto - Liberty City Stories (v1.00-3.00) [US] [ULUS-10041].cht",
       "blocks": 408,
@@ -853,6 +973,14 @@
       "sha256": "BAE2C3659E3AB4203D548AD945B33ED01D20CF3F9BF54D65145DD1250B80E00E"
     },
     {
+      "serial": "ULUS-10087",
+      "sourceFile": "Viewtiful Joe - Red Hot Rumble [US] [ULUS-10087].cht",
+      "blocks": 97,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "9AD30E5BB91D444E19711FB40F8DD57492F0A05F8CD5BE2AD9948CC08686647C"
+    },
+    {
       "serial": "ULUS-10097",
       "sourceFile": "Capcom Classics Collection Remixed [US] [ULUS-10097].cht",
       "blocks": 110,
@@ -867,6 +995,14 @@
       "excluded": 3,
       "malformed": 0,
       "sha256": "E4B9B3E7668700A06DFC56933B583FC841F6BE5731403DD02D4891D07B5F00AE"
+    },
+    {
+      "serial": "ULUS-10134",
+      "sourceFile": "Capcom Classics Collection Reloaded [US] [ULUS-10134].cht",
+      "blocks": 101,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "4A2B94E1B318257E33A79F5F35AD2C856C430772832C58DDC72BF47E7A671B15"
     },
     {
       "serial": "ULUS-10139",
@@ -965,12 +1101,28 @@
       "sha256": "A91F5EFD9EFD495DC3E0B113902E0C862D3C293F9C87CCAB475CF23741317D2F"
     },
     {
+      "serial": "ULUS-10282",
+      "sourceFile": "Dungeon Maker - Hunting Ground [US] [ULUS-10282].cht",
+      "blocks": 93,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "CA7E844D0E04E3DA85192F242715CE94A77D29E3393E072EED31C949EA24690C"
+    },
+    {
       "serial": "ULUS-10290",
       "sourceFile": "Metal Gear Solid - Portable Ops Plus [US] [ULUS-10290].cht",
       "blocks": 107,
       "excluded": 14,
       "malformed": 0,
       "sha256": "07330992FAA4E1487D227077C4704BCBB11FE232C52B83B426018E785E8CEFA6"
+    },
+    {
+      "serial": "ULUS-10292",
+      "sourceFile": "Star Wars - Battlefront - Renegade Squadron [US] [ULUS-10292].cht",
+      "blocks": 96,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "36DCE55A4F21A72300B355A32BCF14EE28D60F7BD7B2097A97886849577227B8"
     },
     {
       "serial": "ULUS-10297",
@@ -997,12 +1149,28 @@
       "sha256": "D9C20B79CEB160EBB0603B997B8958ACA3D14A8702FF38C5FB7705146D7FE3AB"
     },
     {
+      "serial": "ULUS-10323",
+      "sourceFile": "Sonic Rivals 2 [US] [ULUS-10323].cht",
+      "blocks": 85,
+      "excluded": 10,
+      "malformed": 0,
+      "sha256": "3D0C9109BA9F844D9C5F9EDAB4252C49DC4F8DC2D0AF17347F2762DBF2751DA5"
+    },
+    {
       "serial": "ULUS-10336",
       "sourceFile": "Crisis Core - Final Fantasy VII [US] [ULUS-10336].cht",
       "blocks": 178,
       "excluded": 11,
       "malformed": 0,
       "sha256": "473784DA76DDC5C81722CAA5395590981996F682619C1A8D7E036EA42314588E"
+    },
+    {
+      "serial": "ULUS-10345",
+      "sourceFile": "Star Wars - The Force Unleashed [US] [ULUS-10345].cht",
+      "blocks": 87,
+      "excluded": 12,
+      "malformed": 0,
+      "sha256": "7FDF8209462E4D9B4AF4DEC2FE559F890A555A44FDF4E3576A806F41E3E5D7E9"
     },
     {
       "serial": "ULUS-10368",
@@ -1061,6 +1229,14 @@
       "sha256": "8AD34371396D425306BF5381FB55F64650140BE3BD9BDEDC158CBF0C0CC5019F"
     },
     {
+      "serial": "ULUS-10416",
+      "sourceFile": "Dynasty Warriors - Strikeforce [US] [ULUS-10416].cht",
+      "blocks": 94,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "C39ABDB96C74950823C6053650BC1B9A38D506D0F5563507298E417B982D8447"
+    },
+    {
       "serial": "ULUS-10432",
       "sourceFile": "Shin Megami Tensei - Persona [US] [ULUS-10432].cht",
       "blocks": 119,
@@ -1091,6 +1267,14 @@
       "excluded": 0,
       "malformed": 0,
       "sha256": "793CC714B3F0DE7297789982A639031C4F37C753BADE50E5D2996BE6BF48DD74"
+    },
+    {
+      "serial": "ULUS-10452",
+      "sourceFile": "WWE SmackDown Vs. RAW 2010 [US] [ULUS-10452].cht",
+      "blocks": 85,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "7E8F9DE075D311B3A71B35DD60E0E6F025D1DB4ACDB493607E66F1F16ACC21E4"
     },
     {
       "serial": "ULUS-10457",
@@ -1141,6 +1325,14 @@
       "sha256": "9ACE26B456157F17BC1F00C2D10928FD40EE0CC3086BD3D5C29690A3F923CD6E"
     },
     {
+      "serial": "ULUS-10495",
+      "sourceFile": "Metal Slug XX [US] [ULUS-10495].cht",
+      "blocks": 99,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "C608D593B53CB738A8F8665FD434B0FB508C43EF03E97353A5BBABFB9759A89E"
+    },
+    {
       "serial": "ULUS-10505",
       "sourceFile": "Kingdom Hearts - Birth By Sleep [US] [ULUS-10505].cht",
       "blocks": 128,
@@ -1163,6 +1355,14 @@
       "excluded": 9,
       "malformed": 0,
       "sha256": "F78B6AC52B8FC73EA7CF4B1587A917AB0B6A29AF972038DE80ABA89BDF2F0EB5"
+    },
+    {
+      "serial": "ULUS-10543",
+      "sourceFile": "WWE SmackDown Vs. RAW 2011 [US] [ULUS-10543].cht",
+      "blocks": 96,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "E7E6EBF4E2BBBD810988573D5272E10540F2D3767ECDF2EE1C6F7B3FBCD6AC69"
     },
     {
       "serial": "ULUS-10551",
