@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: NPUH-90012
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+204B42E4 000F423F
+
+// No Penalty
+Author = libretro-database contributors / original PSP cheat authors
+204B42EC 00000000
+
+// Max Loop Bonus
+Author = libretro-database contributors / original PSP cheat authors
+204B42E8 05F5E0FF

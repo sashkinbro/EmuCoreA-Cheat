@@ -1,0 +1,20 @@
+# PSP cheat pack
+# Serial: NPUH-90071
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+204062DC 00000002
+204062C4 40000000
+20401C38 40000000
+20401C34 40000000
+203E8BC0 40000000
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E0050002 004062DC
+204062DC 00000001
+204062C4 3F800000
+20401C38 3F800000
+20401C34 3F800000
+203E8BC0 3F800000

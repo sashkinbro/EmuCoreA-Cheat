@@ -1,0 +1,24 @@
+# PSP cheat pack
+# Serial: NPUZ-00114
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Levels Solved/Unlocked on Win Challenge
+Author = libretro-database contributors / original PSP cheat authors
+20068E30 24020000
+20068E48 AC820000
+
+// Moves Counter
+Author = libretro-database contributors / original PSP cheat authors
+2002F774 AC850000
+
+// Moves Counter [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2002F774 00000000
+
+// Timer
+Author = libretro-database contributors / original PSP cheat authors
+20051750 E60D0008
+
+// Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20051750 00000000

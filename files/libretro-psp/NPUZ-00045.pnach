@@ -1,0 +1,33 @@
+# PSP cheat pack
+# Serial: NPUZ-00045
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Flying Slowly
+Author = libretro-database contributors / original PSP cheat authors
+60099FB4 40000000
+00020001 00007368
+
+// Inf. Points
+Author = libretro-database contributors / original PSP cheat authors
+2010AB78 000F423F
+
+// Infinite Drenaline Energy
+Author = libretro-database contributors / original PSP cheat authors
+20012F60 C48C0030
+20012F64 E48C002C
+20012F68 460C6303
+
+// PrEvents From Flying
+Author = libretro-database contributors / original PSP cheat authors
+60099FB4 C0E6703C
+00020001 00007368
+
+// Rises & Falls Slowly
+Author = libretro-database contributors / original PSP cheat authors
+60099FB4 00000000
+00020001 00007368
+
+// Skywalker
+Author = libretro-database contributors / original PSP cheat authors
+60099FB4 43830000
+00020001 00007344

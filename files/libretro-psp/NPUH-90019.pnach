@@ -1,0 +1,105 @@
+# PSP cheat pack
+# Serial: NPUH-90019
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Legos
+Author = libretro-database contributors / original PSP cheat authors
+003C7180 7FFFFFFF
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2033AF58 00000001
+
+// Max Studs
+Author = libretro-database contributors / original PSP cheat authors
+203C7180 3B9AC9FF
+
+// Maximum Infinity Legos
+Author = libretro-database contributors / original PSP cheat authors
+003C7180 7FFFFFFF
+003C7184 7FFFFFFF
+003C7188 7FFFFFFF
+003C718C 7FFFFFFF
+003C7190 7FFFFFFF
+003C7194 7FFFFFFF
+003C7198 7FFFFFFF
+003C719C 7FFFFFFF
+003C71A0 7FFFFFFF
+
+// Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+2036AEF4 FFBF0040
+20353D98 00000000
+0000006C 3F400000
+D2000000 00000000
+
+// Moonjump v2
+Author = libretro-database contributors / original PSP cheat authors
+2036AEF4 FFBF0040
+20353D98 3F400000
+00020000 0000006C
+
+// Moonjump v3
+Author = libretro-database contributors / original PSP cheat authors
+2036AEF4 FFBF0040
+20353D98 3F400000
+00020001 0000006C
+
+// Quicker Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+2036AEF4 FFBF0040
+20353D98 00000000
+0000006C 3F800000
+D2000000 00000000
+
+// Quicker Moonjump v2
+Author = libretro-database contributors / original PSP cheat authors
+2036AEF4 FFBF0040
+20353D98 3F800000
+00020000 0000006C
+
+// Quicker Moonjump v3
+Author = libretro-database contributors / original PSP cheat authors
+2036AEF4 FFBF0040
+20353D98 3F800000
+00020001 0000006C
+
+// Size Mod: Gigantic AI
+Author = libretro-database contributors / original PSP cheat authors
+2003B5BC 3C044040
+
+// Size Mod: Gigantic Player
+Author = libretro-database contributors / original PSP cheat authors
+2003BA4C 3C044040
+
+// Size Mod: Larger AI
+Author = libretro-database contributors / original PSP cheat authors
+2003B5BC 3C044000
+
+// Size Mod: Larger Player
+Author = libretro-database contributors / original PSP cheat authors
+2003BA4C 3C044000
+
+// Size Mod: Normal AI
+Author = libretro-database contributors / original PSP cheat authors
+2003B5BC 3C043F80
+
+// Size Mod: Normal Player
+Author = libretro-database contributors / original PSP cheat authors
+2003BA4C 3C043F80
+
+// Size Mod: Small AI
+Author = libretro-database contributors / original PSP cheat authors
+2003B5BC 3C043F40
+
+// Size Mod: Small Player
+Author = libretro-database contributors / original PSP cheat authors
+2003BA4C 3C043F40
+
+// Size Mod: Tiny AI
+Author = libretro-database contributors / original PSP cheat authors
+2003B5BC 3C043F00
+
+// Size Mod: Tiny Player
+Author = libretro-database contributors / original PSP cheat authors
+2003BA4C 3C043F00

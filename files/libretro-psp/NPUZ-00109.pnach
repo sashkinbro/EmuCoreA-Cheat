@@ -1,0 +1,104 @@
+# PSP cheat pack
+# Serial: NPUZ-00109
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20023964 8E37D6F0
+20023970 24040009
+20023978 AEE412D0
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+200207D4 3C043F80
+200207DC AE0400B4
+200207E0 44846000
+200207E4 10000010
+
+// Level Mod: Start At Level 1
+Author = libretro-database contributors / original PSP cheat authors
+20002020 24080000
+20002024 AE080020
+20002028 0A201272
+2000202C AE0811F8
+200049C0 0A200808
+
+// Level Mod: Start At Level 2
+Author = libretro-database contributors / original PSP cheat authors
+20002020 24080001
+20002024 AE080020
+20002028 0A201272
+2000202C AE0811F8
+200049C0 0A200808
+
+// Level Mod: Start At Level 3
+Author = libretro-database contributors / original PSP cheat authors
+20002020 24080002
+20002024 AE080020
+20002028 0A201272
+2000202C AE0811F8
+200049C0 0A200808
+
+// Level Mod: Start At Level 4
+Author = libretro-database contributors / original PSP cheat authors
+20002020 24080003
+20002024 AE080020
+20002028 0A201272
+2000202C AE0811F8
+200049C0 0A200808
+
+// Level Mod: Start At Level 5
+Author = libretro-database contributors / original PSP cheat authors
+20002020 24080004
+20002024 AE080020
+20002028 0A201272
+2000202C AE0811F8
+200049C0 0A200808
+
+// Recycled Weapon Mod: Laser
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C043F80
+20002004 AE040094
+20002008 24040004
+2000200C AE040084
+20002010 24040003
+20002014 AE040080
+20002018 0A2083A9
+2000201C AE04007C
+20020E9C 0A200800
+
+// Recycled Weapon Mod: Mortar Gun
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C043F80
+20002004 AE040094
+20002008 24040004
+2000200C AE040084
+20002010 24040005
+20002014 AE040080
+20002018 0A2083A9
+2000201C AE04007C
+20020E9C 0A200800
+
+// Recycled Weapon Mod: Shotgun
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C043F80
+20002004 AE040094
+20002008 2404000B
+2000200C AE040084
+20002010 24040002
+20002014 AE040080
+20002018 0A2083A9
+2000201C AE04007C
+20020E9C 0A200800
+
+// Recycled Weapon Mod: Three Way Gun
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C043F80
+20002004 AE040094
+20002008 24040004
+2000200C AE040084
+20002010 24040006
+20002014 AE040080
+20002018 0A2083A9
+2000201C AE04007C
+20020E9C 0A200800

@@ -1,0 +1,58 @@
+# PSP cheat pack
+# Serial: NPUZ-00043
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Flamethrower
+Author = libretro-database contributors / original PSP cheat authors
+0052CE78 00000063
+
+// Inf. Machine Gun
+Author = libretro-database contributors / original PSP cheat authors
+0052CE74 00000063
+
+// Inf. Rocket Launcher
+Author = libretro-database contributors / original PSP cheat authors
+0052CE80 00000063
+
+// Inf. Shotgun
+Author = libretro-database contributors / original PSP cheat authors
+0052CE70 00000063
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000004
+2052CE70 00000063
+DC000000 00000004
+D2000000 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2052CE34 00000063
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+2052CDF8 000F423F
+
+// No Debt
+Author = libretro-database contributors / original PSP cheat authors
+2052CDF4 00000000
+
+// Wanted Level: 0 Star
+Author = libretro-database contributors / original PSP cheat authors
+2052CE10 00000000
+
+// Wanted Level: 1 Star
+Author = libretro-database contributors / original PSP cheat authors
+2052CE10 00000001
+
+// Wanted Level: 2 Stars
+Author = libretro-database contributors / original PSP cheat authors
+2052CE10 00000002
+
+// Wanted Level: 3 Stars
+Author = libretro-database contributors / original PSP cheat authors
+2052CE10 00000003
+
+// Wanted Level: 4 Stars
+Author = libretro-database contributors / original PSP cheat authors
+2052CE10 00000004

@@ -1,0 +1,52 @@
+# PSP cheat pack
+# Serial: NPUZ-00071
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Bullet Level: Lv.1 Bullets
+Author = libretro-database contributors / original PSP cheat authors
+2081B9D0 00000000
+
+// Bullet Level: Lv.2 Bullets
+Author = libretro-database contributors / original PSP cheat authors
+2081B9D0 00000001
+
+// Bullet Level: Lv.3 Bullets
+Author = libretro-database contributors / original PSP cheat authors
+2081B9D0 00000002
+
+// Bullet Level: Lv.4 Bullets
+Author = libretro-database contributors / original PSP cheat authors
+2081B9D0 00000003
+
+// Infinite Bullets
+Author = libretro-database contributors / original PSP cheat authors
+2081B9D8 0000270F
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2081C588 41400000
+2081C58C 41400000
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+2081B9C8 00000005
+
+// Infinite Missiles
+Author = libretro-database contributors / original PSP cheat authors
+2081B9CC 0000270F
+
+// Missile Level: Lv.1 Missiles
+Author = libretro-database contributors / original PSP cheat authors
+2081B9D4 00000000
+
+// Missile Level: Lv.2 Missiles
+Author = libretro-database contributors / original PSP cheat authors
+2081B9D4 00000001
+
+// Missile Level: Lv.3 Missiles
+Author = libretro-database contributors / original PSP cheat authors
+2081B9D4 00000002
+
+// Missile Level: Lv.4 Missiles
+Author = libretro-database contributors / original PSP cheat authors
+2081B9D4 00000003

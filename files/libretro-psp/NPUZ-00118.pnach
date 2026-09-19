@@ -1,0 +1,55 @@
+# PSP cheat pack
+# Serial: NPUZ-00118
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20015840 00000000
+
+// Infinite Ammo (Version 2)
+Author = libretro-database contributors / original PSP cheat authors
+20017360 00000000
+
+// Instant Escape
+Author = libretro-database contributors / original PSP cheat authors
+2002BD60 AC80D2B8
+
+// Instant Escape (Version 2)
+Author = libretro-database contributors / original PSP cheat authors
+200334EC AC802DEC
+
+// Instant Relocate
+Author = libretro-database contributors / original PSP cheat authors
+2002BDC0 AD00D2C0
+
+// Instant Relocate (Version 2)
+Author = libretro-database contributors / original PSP cheat authors
+2003354C AD002DF4
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2000B9B0 03E00008
+2000B9B4 00000000
+
+// Invincible (Version 2)
+Author = libretro-database contributors / original PSP cheat authors
+200078CC 03E00008
+200078D0 00000000
+
+// Max Points
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0F05F6
+20002004 25EFE0FF
+20002008 AC8F15B0
+2000200C 0A20AFA5
+20002010 01E02021
+2002BE8C 0A200800
+
+// Max Points (Version 2)
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0F05F6
+20002004 25EFE0FF
+20002008 AC8F71D0
+2000200C 0A20CD8F
+20002010 01E02021
+20033634 0A200800

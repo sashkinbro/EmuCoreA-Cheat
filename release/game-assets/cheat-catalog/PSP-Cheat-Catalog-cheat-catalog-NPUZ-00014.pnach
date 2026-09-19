@@ -1,0 +1,88 @@
+# PSP cheat pack
+# Serial: NPUZ-00014
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99 Health
+Author = libretro-database contributors / original PSP cheat authors
+00242D00 00000063
+
+// 999 Points
+Author = libretro-database contributors / original PSP cheat authors
+20242CF8 3B9AC9FF
+
+// All Maps Available
+Author = libretro-database contributors / original PSP cheat authors
+200293FC 24020001
+
+// All Modes Available
+Author = libretro-database contributors / original PSP cheat authors
+20028798 24020001
+
+// All Weapons Available
+Author = libretro-database contributors / original PSP cheat authors
+200283A8 24020001
+
+// Fast Forward Available
+Author = libretro-database contributors / original PSP cheat authors
+20008080 24020001
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+0023E5FC 3B9AC9FF
+
+// Inf. Points
+Author = libretro-database contributors / original PSP cheat authors
+0023E5F8 3B9AC9FF
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+0023E600 3B9AC9FF
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2000A100 00C02023
+
+// Invincible [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2000A100 00C42023
+
+// Large Attack Range
+Author = libretro-database contributors / original PSP cheat authors
+2001BA20 3C0F4480
+2001BA24 448F7000
+2001BA2C 8E24003C
+2001BA34 AC8F002C
+
+// Money Decreases On Purchase
+Author = libretro-database contributors / original PSP cheat authors
+20008C38 00C42023
+2001B190 00C42023
+
+// Money Increases On Purchase
+Author = libretro-database contributors / original PSP cheat authors
+20008C38 00C42021
+2001B190 00C42021
+
+// Not Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2000A100 00C42023
+
+// Start With Max Cash & Health
+Author = libretro-database contributors / original PSP cheat authors
+2000EDEC 00000000
+
+// Timescale Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2010D488 3D888889
+
+// Timescale Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2010D488 3D088889
+
+// Timescale Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2010D488 3D488889
+
+// Timescale Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2010D488 3C888889

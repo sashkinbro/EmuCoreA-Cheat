@@ -1,0 +1,125 @@
+# PSP cheat pack
+# Serial: NPUH-10128
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Main Menu For Debug Menu (Press Select)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000001
+203A3E50 00000003
+
+// All Magic
+Author = libretro-database contributors / original PSP cheat authors
+8038851A 000C0001
+000000FF 00000000
+8038852A 00390001
+10000009 00000000
+
+// Always Treasure Box
+Author = libretro-database contributors / original PSP cheat authors
+00514064 00000001
+
+// Bonus Point 99
+Author = libretro-database contributors / original PSP cheat authors
+003A5C88 00000063
+003A5C8A 00000063
+
+// Clear Count [L+Up]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000110
+003884A8 000000AA
+
+// Contract Success
+Author = libretro-database contributors / original PSP cheat authors
+200B35E8 10000013
+200B3490 00000000
+
+// Disarm Success
+Author = libretro-database contributors / original PSP cheat authors
+2009EFF0 00000000
+2009F01C 00000000
+
+// Dungeon Map Complete
+Author = libretro-database contributors / original PSP cheat authors
+2008B8D0 2404FFFF
+2008B8D4 A4445496
+2008B8F4 24020001
+
+// Enemy No Attack
+Author = libretro-database contributors / original PSP cheat authors
+200A7714 00000000
+
+// Enemy No sudden Attack
+Author = libretro-database contributors / original PSP cheat authors
+200A24F0 24030000
+200A2530 24030000
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+200E5608 0A200480
+20001200 8C830058
+20001204 0A239584
+20001208 00052840
+
+// GP Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200E556C 00401023
+
+// GP x2
+Author = libretro-database contributors / original PSP cheat authors
+200E5598 0A200400
+20001000 8C82005C
+20001004 0A239568
+20001008 00052840
+
+// Item Analyze
+Author = libretro-database contributors / original PSP cheat authors
+200C38A4 34420001
+200C38A8 A0A20000
+
+// Item Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200D0028 25060000
+
+// Monster Book Complete
+Author = libretro-database contributors / original PSP cheat authors
+2006E680 2404FFFF
+2006E684 A044A02A
+2006E6A8 24020001
+
+// MP Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200AE8F4 00000000
+200AE93C 24420000
+
+// No Trap
+Author = libretro-database contributors / original PSP cheat authors
+0051D8D2 00000000
+
+// Rare Drop
+Author = libretro-database contributors / original PSP cheat authors
+200A36F4 00000000
+
+// Status Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200E58E8 00000000
+200E58F8 50000003
+
+// Stock Infinity
+Author = libretro-database contributors / original PSP cheat authors
+20053318 240400FF
+
+// Sugoroku dice 1
+Author = libretro-database contributors / original PSP cheat authors
+0039E478 00000001
+
+// Sudden Attack
+Author = libretro-database contributors / original PSP cheat authors
+200A24D4 10000010
+
+// Time Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200902D8 00802023
+
+// Treasure Item 3
+Author = libretro-database contributors / original PSP cheat authors
+200A3610 24020003

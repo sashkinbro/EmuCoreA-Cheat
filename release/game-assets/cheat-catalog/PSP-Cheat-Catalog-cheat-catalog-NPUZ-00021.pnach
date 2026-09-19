@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: NPUZ-00021
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Air
+Author = libretro-database contributors / original PSP cheat authors
+2003E248 E4AD0068
+
+// Infinite Fuel
+Author = libretro-database contributors / original PSP cheat authors
+2003DB00 E4AD0060
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0505F6
+20002004 24A5E0FF
+20002008 0A207B38
+2000200C AE0501A0
+2001ECD8 0A200800

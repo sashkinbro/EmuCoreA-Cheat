@@ -1,0 +1,37 @@
+# PSP cheat pack
+# Serial: NPUH-90095
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (M) Must Code
+Author = libretro-database contributors / original PSP cheat authors
+20002020 0A23A693
+20002024 96050004
+200E9A44 0A200800
+
+// Infinite Chakra
+Author = libretro-database contributors / original PSP cheat authors
+20002008 9605000C
+2000200C A605000A
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 96050006
+20002004 A6050004
+
+// Max Attack
+Author = libretro-database contributors / original PSP cheat authors
+20002010 2405FFFF
+20002014 A605000E
+
+// Max Defense
+Author = libretro-database contributors / original PSP cheat authors
+20002018 2405FFFF
+2000201C A6050012
+
+// Timer Disable
+Author = libretro-database contributors / original PSP cheat authors
+20156694 4480A000
+
+// Timer Enable
+Author = libretro-database contributors / original PSP cheat authors
+20156694 46000506

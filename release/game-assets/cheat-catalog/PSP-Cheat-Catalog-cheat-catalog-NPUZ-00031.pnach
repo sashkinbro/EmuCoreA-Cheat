@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: NPUZ-00031
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+2002866C 24040009
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0705F6
+20002004 24E7E0FF
+20002008 0A24B906
+2000200C AE0701A8
+2012E410 0A200800

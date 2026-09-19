@@ -1,0 +1,12 @@
+# PSP cheat pack
+# Serial: NPUZ-00003
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Drop Pieces On Right Side To Clear Lines
+Author = libretro-database contributors / original PSP cheat authors
+2104144C 10000002
+
+// Max Points
+Author = libretro-database contributors / original PSP cheat authors
+606CA038 0098967F
+00020001 00000064

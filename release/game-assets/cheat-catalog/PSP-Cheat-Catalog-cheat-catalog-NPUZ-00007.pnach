@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: NPUZ-00007
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Bubbles Popped
+Author = libretro-database contributors / original PSP cheat authors
+00ABC4BC 00000063
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+00ABC4A8 3B9AC9FF
+
+// Max Score v2
+Author = libretro-database contributors / original PSP cheat authors
+20ABC4A8 05F5E0FF

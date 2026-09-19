@@ -1,0 +1,68 @@
+# PSP cheat pack
+# Serial: NPUZ-00069
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Can Play Locked Levels
+Author = libretro-database contributors / original PSP cheat authors
+2002AE30 24020063
+
+// Infinite 3-Way Shooter
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C044040
+20002004 AE8400D8
+20002008 24040001
+2000200C 0A205C4D
+20002010 AE8400D4
+2001712C 0A200800
+
+// Infinite Laser Usage
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C044040
+20002004 AE8400D8
+20002008 24040002
+2000200C 0A205C4D
+20002010 AE8400D4
+2001712C 0A200800
+
+// Infinite Missiles
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C044040
+20002004 AE8400D8
+20002008 24040003
+2000200C 0A205C4D
+20002010 AE8400D4
+2001712C 0A200800
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+200167B0 03E00008
+
+// Player Speed: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2002DB44 3C054080
+2002DB6C 3C054080
+
+// Player Speed: Insane
+Author = libretro-database contributors / original PSP cheat authors
+2002DB44 3C0540C0
+2002DB6C 3C0540C0
+
+// Player Speed: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2002DB44 3C053F80
+2002DB6C 3C053F80
+
+// Player Speed: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2002DB44 3C054000
+2002DB6C 3C054000
+
+// Player Speed: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2002DB44 3C053F40
+2002DB6C 3C053F40
+
+// Player Speed: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2002DB44 3C053F00
+2002DB6C 3C053F00

@@ -1,0 +1,79 @@
+# PSP cheat pack
+# Serial: NPUH-10127
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Debug Menu Patch [Press Select + R]
+Author = libretro-database contributors / original PSP cheat authors
+20800004 27BDFFE0
+20800008 AFBF0010
+2080000C AFB3000C
+20800010 AFB00000
+20800014 3C1008A5
+20800018 3C130900
+2080001C 36109E7C
+20800020 82650000
+20800024 00052880
+20800028 00B02821
+2080002C 8CA50000
+20800030 00A0F809
+20800034 02602021
+20800038 8FB00000
+2080003C 8FB3000C
+20800040 8FBF0010
+20800044 03E00008
+20800048 27BD0020
+
+// Hide Debug Menu (Select+L)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000101
+2009A064 0E23E3C4
+
+// Show Debug Menu (Select+R)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000201
+2009A064 0E400001
+
+// 60 Bonus Pts.
+Author = libretro-database contributors / original PSP cheat authors
+004F78DC 0000003C
+
+// 99 Agility (Enrollment)
+Author = libretro-database contributors / original PSP cheat authors
+0029E3EE 00000063
+
+// 99 All Stats (Enrollment)
+Author = libretro-database contributors / original PSP cheat authors
+0029E3EA 00000063
+0029E3EB 00000063
+0029E3EC 00000063
+0029E3ED 00000063
+0029E3EE 00000063
+0029E3EF 00000063
+
+// 99 Faith (Enrollment)
+Author = libretro-database contributors / original PSP cheat authors
+0029E3EC 00000063
+
+// 99 Luck (Enrollment)
+Author = libretro-database contributors / original PSP cheat authors
+0029E3EF 00000063
+
+// 99 Strength (Enrollment)
+Author = libretro-database contributors / original PSP cheat authors
+0029E3EA 00000063
+
+// 99 Vitality (Enrollment)
+Author = libretro-database contributors / original PSP cheat authors
+0029E3ED 00000063
+
+// 99 Wisdom (Enrollment)
+Author = libretro-database contributors / original PSP cheat authors
+0029E3EB 00000063
+
+// Lots Of Money
+Author = libretro-database contributors / original PSP cheat authors
+2140FC34 0FFFFFFF
+
+// Max Tension Gauge
+Author = libretro-database contributors / original PSP cheat authors
+20229D80 00004E20

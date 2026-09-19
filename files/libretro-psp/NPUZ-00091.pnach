@@ -1,0 +1,25 @@
+# PSP cheat pack
+# Serial: NPUZ-00091
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Disable Timer
+Author = libretro-database contributors / original PSP cheat authors
+2000A444 00000000
+
+// Enable Timer
+Author = libretro-database contributors / original PSP cheat authors
+2000A444 461E6300
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+20002000 03E00008
+20002004 00001021
+20017C48 0A200800
+20017C4C A0800027
+
+// Unlock All Trucks
+Author = libretro-database contributors / original PSP cheat authors
+20002000 03E00008
+20002004 00001021
+20017C70 0A200800
+20017C74 A0800020

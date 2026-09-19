@@ -1,0 +1,64 @@
+# PSP cheat pack
+# Serial: NPUZ-00055
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Big Jump
+Author = libretro-database contributors / original PSP cheat authors
+20000098 0A200400
+20001000 3C080890
+20001004 8D087D6C
+20001008 3C0942C8
+20001014 AD0900A4
+20001010 03E00008
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20000098 0A200400
+20001000 3C08088C
+20001004 8D0827F4
+20001008 3C094812
+2000100C 35297540
+20001010 AD091A50
+20001014 03E00008
+
+// Inf. Points
+Author = libretro-database contributors / original PSP cheat authors
+20134C68 000003E7
+
+// Inf. Points Of Heart
+Author = libretro-database contributors / original PSP cheat authors
+20F107E0 000003E7
+
+// Infinite Drenaline Energy
+Author = libretro-database contributors / original PSP cheat authors
+200176A4 C48C0030
+200176A8 E48C002C
+200176AC 460C6303
+
+// Invisibel
+Author = libretro-database contributors / original PSP cheat authors
+201379D4 42C80000
+
+// Menu Of Life Invisible
+Author = libretro-database contributors / original PSP cheat authors
+600C27F4 42C80000
+00020001 00001A5C
+
+// Prevented To Jumping
+Author = libretro-database contributors / original PSP cheat authors
+60107D6C 42C80000
+00020001 000000C0
+
+// Skywalker
+Author = libretro-database contributors / original PSP cheat authors
+20000098 0A200400
+20001000 3C080890
+20001004 8D087D6C
+20001008 3C0942C8
+20001014 AD094788
+20001010 03E00008
+
+// Slide
+Author = libretro-database contributors / original PSP cheat authors
+60107D6C 42C80000
+00020001 000000A4

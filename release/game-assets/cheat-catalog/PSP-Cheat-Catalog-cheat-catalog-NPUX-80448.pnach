@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: NPUX-80448
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Time With One Player
+Author = libretro-database contributors / original PSP cheat authors
+20000098 0A200400
+20001000 3C08088E
+20001004 8D084D38
+20001008 3C094785
+2000100C 3529DC58
+20001010 AD090DD4
+20001014 03E00008
+
+// Inf. Time With Two Player
+Author = libretro-database contributors / original PSP cheat authors
+20000098 0A200400
+20001000 3C08088E
+20001004 8D084D38
+20001008 3C09477C
+2000100C 35290869
+20001010 AD090DCC
+20001014 03E00008

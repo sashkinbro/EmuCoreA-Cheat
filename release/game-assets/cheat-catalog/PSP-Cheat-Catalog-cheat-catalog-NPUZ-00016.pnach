@@ -1,0 +1,59 @@
+# PSP cheat pack
+# Serial: NPUZ-00016
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+60238F9C 00000005
+00020001 0000007D
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+2002F1B0 24020009
+2002F1B4 A0820068
+
+// Infinite Lives (Version 3)
+Author = libretro-database contributors / original PSP cheat authors
+20034D30 24020009
+20034D34 A0820074
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2002F258 03E00008
+2002F25C 00000000
+
+// Invincible (Version 3)
+Author = libretro-database contributors / original PSP cheat authors
+20034EA0 03E00008
+20034EA4 00000000
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+60236A04 0012D688
+00020001 00004464
+
+// Timer Disable
+Author = libretro-database contributors / original PSP cheat authors
+200154AC 00000000
+
+// Timer Disable (Version 3)
+Author = libretro-database contributors / original PSP cheat authors
+200188BC 00000000
+
+// Timer Enable
+Author = libretro-database contributors / original PSP cheat authors
+200154AC 460D6300
+
+// Timer Enable (Version 3)
+Author = libretro-database contributors / original PSP cheat authors
+200188BC 460D6300
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+200629E4 2402000C
+200629E8 A0820014
+
+// Unlock All Levels (Version 3)
+Author = libretro-database contributors / original PSP cheat authors
+200698AC 2402000C
+200698B0 A0820018

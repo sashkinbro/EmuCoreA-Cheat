@@ -1,0 +1,75 @@
+# PSP cheat pack
+# Serial: NPUZ-00046
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Have All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+102A1D78 00000001
+102A1D7C 00000001
+102A1D80 00000001
+102A1D84 00000001
+102A1D88 00000001
+102A1D8C 00000001
+102A1D90 00000001
+102A1D94 00000001
+
+// Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+2000B694 00000000
+2000B7D0 00000000
+20011A94 00000000
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+102A1D18 0000270F
+102A1D1C 0000270F
+102A1D20 0000270F
+102A1D24 0000270F
+102A1D28 0000270F
+102A1D2C 0000270F
+102A1D30 0000270F
+102A1D34 0000270F
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+202A1CAC 42C80000
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+2029D6B4 0001869F
+
+// Max Perk
+Author = libretro-database contributors / original PSP cheat authors
+2029D698 00000063
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+2029D5DC 000F423F
+
+// Player Is Invisible
+Author = libretro-database contributors / original PSP cheat authors
+202A1CA8 00000000
+
+// Player Is Visible
+Author = libretro-database contributors / original PSP cheat authors
+202A1CA8 3F800001
+
+// Player Speed: Bit Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20009A48 00000000
+20009A4C 3C043FC0
+
+// Player Speed: Hyper Mode
+Author = libretro-database contributors / original PSP cheat authors
+20009A48 00000000
+20009A4C 3C044080
+
+// Player Speed: Much Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20009A48 00000000
+20009A4C 3C044000
+
+// Player Speed: Normal Speed
+Author = libretro-database contributors / original PSP cheat authors
+20009A48 10800004
+20009A4C 3C044013

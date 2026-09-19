@@ -1,0 +1,13 @@
+# PSP cheat pack
+# Serial: NPUZ-00081
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Timer Disable
+Author = libretro-database contributors / original PSP cheat authors
+20041EB0 00000000
+20041ECC 00000000
+
+// Timer Enable
+Author = libretro-database contributors / original PSP cheat authors
+20041EB0 E6220088
+20041ECC E6210088

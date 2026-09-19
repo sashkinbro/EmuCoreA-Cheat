@@ -1,0 +1,221 @@
+# PSP cheat pack
+# Serial: NPUH-10193
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// In-Game For Debug Menu (Press L)
+Author = libretro-database contributors / original PSP cheat authors
+00234D35 00000001
+00234D36 00000001
+
+// 99 of Everything
+Author = libretro-database contributors / original PSP cheat authors
+8092AE30 00C00001
+00000063 00000000
+
+// 9999 ESP
+Author = libretro-database contributors / original PSP cheat authors
+10234D0C 0000270F
+
+// All Accessories x50
+Author = libretro-database contributors / original PSP cheat authors
+80906F8D 001B0001
+00000001 00000000
+8092AED5 001B0001
+00000032 00000000
+
+// All Armor x50
+Author = libretro-database contributors / original PSP cheat authors
+80906F5B 00320001
+00000001 00000000
+8092AEA3 00320001
+00000032 00000000
+
+// All Gems x50
+Author = libretro-database contributors / original PSP cheat authors
+80906F06 000A0001
+00000001 00000000
+8092AE4E 000A0001
+00000032 00000000
+
+// All Items x50
+Author = libretro-database contributors / original PSP cheat authors
+80906EE8 00170001
+00000001 00000000
+8092AE30 00170001
+00000032 00000000
+
+// All Stat Ups
+Author = libretro-database contributors / original PSP cheat authors
+8090E2DD 000500FC
+000000F0 00000000
+
+// All Story Items
+Author = libretro-database contributors / original PSP cheat authors
+80906F10 000F0001
+00000001 00000000
+8092AE58 000F0001
+
+// All Supplies x50
+Author = libretro-database contributors / original PSP cheat authors
+80906EFF 00070001
+00000001 00000000
+8092AE47 00070001
+00000032 00000000
+
+// All Weapons x50
+Author = libretro-database contributors / original PSP cheat authors
+80906F1F 003C0001
+00000001 00000000
+8092AE67 003C0001
+00000032 00000000
+
+// Exp. 90K After Battle
+Author = libretro-database contributors / original PSP cheat authors
+20234B70 000DBBA0
+
+// Full Bestiary
+Author = libretro-database contributors / original PSP cheat authors
+809070F0 00500001
+000000FF 00000000
+
+// Full Item List
+Author = libretro-database contributors / original PSP cheat authors
+80906EE8 00C00001
+00000001 00000000
+
+// Full Skill List [1/2]
+Author = libretro-database contributors / original PSP cheat authors
+80906FB1 00050001
+00000001 00000000
+80906FB8 00050001
+80906FBE 00100001
+80906FDB 00060001
+80906FE2 00060001
+80906FEC 00060001
+80906FF6 00060001
+80907000 00060001
+8090700A 00060001
+80907014 00060001
+8090701E 00060001
+10907024 00000101
+20907028 01010101
+0090702D 00000001
+1090702E 00000101
+00907030 00000001
+10907032 00000101
+10907034 00000101
+
+// Full Skill List [2/2]
+Author = libretro-database contributors / original PSP cheat authors
+00907037 00000001
+10907038 00000101
+0090703A 00000001
+2090703C 01010101
+00907041 00000001
+10907042 00000101
+00907044 00000001
+10907046 00000101
+10907048 00000101
+0090704B 00000001
+1090704C 00000101
+20907050 01010101
+00907054 00000001
+1090705A 00000101
+2090705C 01010101
+00907060 00000001
+00907067 00000001
+00907068 00000001
+0090706C 00000001
+2090708C 01010101
+00907090 00000001
+
+// Gold 90K After Battle
+Author = libretro-database contributors / original PSP cheat authors
+20234B74 000DBBA0
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+8090E2B0 0005007E
+1000270F 00000000
+
+// Inf. MP
+Author = libretro-database contributors / original PSP cheat authors
+8090E2B8 0005007E
+1000270F 00000000
+
+// Inf. Underwater Time [1]
+Author = libretro-database contributors / original PSP cheat authors
+10234A88 00000BB8
+
+// Max BP Bar
+Author = libretro-database contributors / original PSP cheat authors
+8090E2D8 0005007E
+1000012C 00000000
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+20234C2C 000F423F
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+8090E2AC 0005007E
+1000270F 00000000
+
+// Max Level
+Author = libretro-database contributors / original PSP cheat authors
+8090E2A4 0005007E
+1000012C 00000000
+
+// Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+4090E2A8 0005003F
+000F423F 00000000
+
+// Max MP
+Author = libretro-database contributors / original PSP cheat authors
+8090E2B4 0005007E
+1000270F 00000000
+
+// Max Skill Slots
+Author = libretro-database contributors / original PSP cheat authors
+8090E258 00050004
+00000010 00000000
+
+// Max Stat Agi.
+Author = libretro-database contributors / original PSP cheat authors
+8090E2CC 0005007E
+100003E7 00000000
+
+// Max Stat Cri.
+Author = libretro-database contributors / original PSP cheat authors
+8090E2D4 0005007E
+100003E7 00000000
+
+// Max Stat Def.
+Author = libretro-database contributors / original PSP cheat authors
+8090E2C0 0005007E
+100003E7 00000000
+
+// Max Stat Esc.
+Author = libretro-database contributors / original PSP cheat authors
+8090E2D0 0005007E
+100003E7 00000000
+
+// Max Stat Int.
+Author = libretro-database contributors / original PSP cheat authors
+8090E2C4 0005007E
+100003E7 00000000
+
+// Max Stat Min.
+Author = libretro-database contributors / original PSP cheat authors
+8090E2C8 0005007E
+100003E7 00000000
+
+// Max Stat Str.
+Author = libretro-database contributors / original PSP cheat authors
+8090E2BC 0005007E
+100003E7 00000000
+
+// No Negative Status
+Author = libretro-database contributors / original PSP cheat authors
+8090E2DC 000500FC

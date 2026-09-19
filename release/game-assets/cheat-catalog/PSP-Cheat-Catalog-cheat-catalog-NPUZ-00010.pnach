@@ -1,0 +1,20 @@
+# PSP cheat pack
+# Serial: NPUZ-00010
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+200187BC 00000000
+
+// Infinite Darts
+Author = libretro-database contributors / original PSP cheat authors
+200241F0 00000000
+
+// Instant Win (Press L+R)
+Author = libretro-database contributors / original PSP cheat authors
+20024814 8E8400F4
+20024818 14800004
+209731AC FCFF0300
+20024814 AE8000F4
+20024818 00000000
+D2000000 00000000

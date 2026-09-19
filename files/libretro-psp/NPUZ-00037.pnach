@@ -1,0 +1,86 @@
+# PSP cheat pack
+# Serial: NPUZ-00037
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (M) Must Code
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8C446798
+20002024 0A210012
+20040040 0A200800
+20040044 3C02088E
+
+// Instant Win (Press L+R)
+Author = libretro-database contributors / original PSP cheat authors
+20002004 00000000
+20002008 00000000
+2000200C 00000000
+20002010 00000000
+200E5C8C FCFF0300
+20002004 24030009
+20002008 AC83009C
+2000200C AC8300A0
+20002010 AC406F1C
+D2000000 00000000
+
+// Powerup Mod: Moving Piranha
+Author = libretro-database contributors / original PSP cheat authors
+20002014 24030007
+20002018 AC830150
+2000201C 24030009
+20002020 AC830154
+
+// Powerup Mod: Multi Thunderbolt
+Author = libretro-database contributors / original PSP cheat authors
+20002014 24030006
+20002018 AC830150
+2000201C 24030009
+20002020 AC830154
+
+// Powerup Mod: Pillars
+Author = libretro-database contributors / original PSP cheat authors
+20002014 24030008
+20002018 AC830150
+2000201C 24030009
+20002020 AC830154
+
+// Powerup Mod: Piranha
+Author = libretro-database contributors / original PSP cheat authors
+20002014 24030002
+20002018 AC830150
+2000201C 24030009
+20002020 AC830154
+
+// Powerup Mod: Shield
+Author = libretro-database contributors / original PSP cheat authors
+20002014 24030004
+20002018 AC830150
+2000201C 24030009
+20002020 AC830154
+
+// Powerup Mod: Single Thunderbolt
+Author = libretro-database contributors / original PSP cheat authors
+20002014 24030005
+20002018 AC830150
+2000201C 24030009
+20002020 AC830154
+
+// Powerup Mod: Snakes
+Author = libretro-database contributors / original PSP cheat authors
+20002014 24030009
+20002018 AC830150
+2000201C 24030009
+20002020 AC830154
+
+// Powerup Mod: Speed Boost
+Author = libretro-database contributors / original PSP cheat authors
+20002014 24030003
+20002018 AC830150
+2000201C 24030009
+20002020 AC830154
+
+// Powerup Mod: Trident
+Author = libretro-database contributors / original PSP cheat authors
+20002014 24030001
+20002018 AC830150
+2000201C 24030009
+20002020 AC830154
