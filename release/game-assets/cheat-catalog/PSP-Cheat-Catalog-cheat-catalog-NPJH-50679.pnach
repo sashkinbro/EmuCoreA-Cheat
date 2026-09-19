@@ -1,0 +1,302 @@
+# PSP cheat pack
+# Serial: NPJH-50679
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (M) Must Code
+Author = libretro-database contributors / original PSP cheat authors
+20002014 08802000
+50423080 00000004
+00002000 00000000
+60002000 00000004
+00500002 00000678
+10000004 00000000
+60002004 00000004
+00400002 00000000
+10000008 00000000
+60002008 00000004
+00300002 00000154
+1000000C 00000000
+6000200C 00000004
+00200002 00000078
+10000010 00000000
+20002030 08802020
+50002004 00000004
+00002020 00000000
+60002020 00000004
+00400002 00000004
+60002024 00000004
+60002028 00000004
+20002050 08802040
+00002040 00000000
+60002040 00000004
+00400002 00000008
+60002044 00000004
+60002048 00000004
+2000206C 08802060
+5044A928 00000004
+00002060 00000000
+60002060 00000004
+00300002 00000000
+60002064 00000004
+00200002 00000000
+E0020001 20002002
+40002000 001C0001
+
+// All Characters Lvl 50
+Author = libretro-database contributors / original PSP cheat authors
+6044A8B0 00000032
+0000000A 00000034
+9000017C 00000000
+
+// All Characters SP 5000
+Author = libretro-database contributors / original PSP cheat authors
+6044A8B0 0000C350
+0001000A 0000003C
+900000BE 00000000
+
+// AP Max
+Author = libretro-database contributors / original PSP cheat authors
+20205F98 AE020070
+
+// AP Max v2
+Author = libretro-database contributors / original PSP cheat authors
+6000200C 00000008
+00000001 00000038
+60002028 00000008
+60002048 00000008
+
+// Bag/Warehouse Items 99
+Author = libretro-database contributors / original PSP cheat authors
+6044A8B0 0000000F
+000003A2 00000F1E
+90000028 00000000
+
+// Berry Max
+Author = libretro-database contributors / original PSP cheat authors
+2179B28C 0098967F
+
+// Dash [Press X]
+Author = libretro-database contributors / original PSP cheat authors
+201FAB14 3C043F80
+D0000000 10004000
+201FAB14 3C043FF0
+
+// Display & Exit Treasure Box
+Author = libretro-database contributors / original PSP cheat authors
+017A9160 00000003
+
+// Exp. Max All Character [Press Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000001
+4179A3B8 000A005F
+0009AF85 00000000
+
+// Exp. Multiplier [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20077F64 0A200800
+20002000 8E040004
+20002004 0A21DFDA
+20002008 00052800
+
+// Exp. Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+20077F64 0A200800
+20002000 8E040004
+20002004 0A21DFDA
+20002008 00052840
+
+// Exp. Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20077F64 0A200800
+20002000 8E040004
+20002004 0A21DFDA
+20002008 00052880
+
+// Exp. Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+20077F64 0A200800
+20002000 8E040004
+20002004 0A21DFDA
+20002008 000528C0
+
+// Exp. Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+20077F64 0A200800
+20002000 8E040004
+20002004 0A21DFDA
+20002008 00052900
+
+// Exp. Multiplier x32
+Author = libretro-database contributors / original PSP cheat authors
+20077F64 0A200800
+20002000 8E040004
+20002004 0A21DFDA
+20002008 00052940
+
+// Exp. Multiplier x64
+Author = libretro-database contributors / original PSP cheat authors
+20077F64 0A200800
+20002000 8E040004
+20002004 0A21DFDA
+20002008 00052980
+
+// Exp. Multiplier x128
+Author = libretro-database contributors / original PSP cheat authors
+20077F64 0A200800
+20002000 8E040004
+20002004 0A21DFDA
+20002008 000529C0
+
+// Exp. Multiplier x256
+Author = libretro-database contributors / original PSP cheat authors
+20077F64 0A200800
+20002000 8E040004
+20002004 0A21DFDA
+20002008 00052A00
+
+// Exp. Multiplier x512
+Author = libretro-database contributors / original PSP cheat authors
+20077F64 0A200800
+20002000 8E040004
+20002004 0A21DFDA
+20002008 00052A40
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+60002010 00000004
+00000002 00000620
+10000624 00000000
+60002008 00000004
+00000002 00000054
+10000050 00000000
+6000202C 00000004
+60002024 00000004
+E0030001 30002046
+60002068 00000004
+00000002 00000968
+1000096C 00000000
+
+// Inf. Skills
+Author = libretro-database contributors / original PSP cheat authors
+6044A8B0 00000000
+00000014 00000090
+90000004 00000000
+00000014 0000020C
+00000014 00000388
+00000014 00000504
+00000014 00000680
+00000014 000007FC
+00000014 00000978
+00000014 00000AF4
+00000014 00000C70
+00000014 00000DEC
+
+// Inf. TP
+Author = libretro-database contributors / original PSP cheat authors
+60002010 00000004
+00000002 00000630
+1000062C 00000000
+6000202C 00000004
+E0030001 30002046
+60002068 00000004
+00000002 00000978
+10000974 00000000
+
+// Infinite Item
+Author = libretro-database contributors / original PSP cheat authors
+20097580 A0860000
+
+// Item x50 (Porch)
+Author = libretro-database contributors / original PSP cheat authors
+8179B29E 000C0028
+00000032 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+2010FCD8 AE270000
+
+// Money Max v2
+Author = libretro-database contributors / original PSP cheat authors
+6044A8B0 0098967F
+00020001 00000F0C
+
+// Post War SP 9999
+Author = libretro-database contributors / original PSP cheat authors
+60002000 0000270F
+00010003 0000033C
+90000002 00000000
+
+// Scud [Press Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000009 10000001
+6044A8A0 3F400000
+00020002 00000098
+20000010 00000000
+00020003 00000098
+20000010 20000000
+00020004 00000098
+20000000 00000000
+
+// SP Max In Combat
+Author = libretro-database contributors / original PSP cheat authors
+2007812C AC860008
+
+// SP Max All Character [Press Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000001
+4179A3BC 000A005F
+0098967F 00000000
+
+// Synthesis Does Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20098190 A0A70000
+200981C8 A0860000
+
+// TP 9999
+Author = libretro-database contributors / original PSP cheat authors
+200F0190 3405270F
+
+// Warehouse Item x50
+Author = libretro-database contributors / original PSP cheat authors
+8179B46D 03840028
+00000032 00000000
+
+// Monkey D.Luffy SP 9999
+Author = libretro-database contributors / original PSP cheat authors
+1179A3BC 0000270F
+
+// Monkey D.Luffy TP 999
+Author = libretro-database contributors / original PSP cheat authors
+10E6872C 000003E7
+1179A494 000003E7
+
+// Nami SP 9999
+Author = libretro-database contributors / original PSP cheat authors
+1179A6B4 0000270F
+
+// Nami TP 999
+Author = libretro-database contributors / original PSP cheat authors
+10E6F97C 000003E7
+1179A78C 000003E7
+
+// Sanji SP 9999
+Author = libretro-database contributors / original PSP cheat authors
+1179A9AC 0000270F
+
+// Usop SP 9999
+Author = libretro-database contributors / original PSP cheat authors
+1179A830 0000270F
+
+// Usop TP 999
+Author = libretro-database contributors / original PSP cheat authors
+10E71784 000003E7
+1179A908 000003E7
+
+// Zoro SP 9999
+Author = libretro-database contributors / original PSP cheat authors
+113B42A0 0000270F
+
+// Zoro TP 999
+Author = libretro-database contributors / original PSP cheat authors
+10E6BE04 000003E7
+1179A610 000003E7

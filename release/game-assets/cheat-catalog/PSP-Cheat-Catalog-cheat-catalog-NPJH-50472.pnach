@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: NPJH-50472
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Costume All
+Author = libretro-database contributors / original PSP cheat authors
+601D6B18 FFFFFFFF
+00020002 00003FC0
+90000001 00000000
+00020090 00003FE0
+9000000C 00000000
+00020090 00003FE4
+00020090 00003FE8
+00020090 00003FEC
+00020090 00003FF0

@@ -1,0 +1,80 @@
+# PSP cheat pack
+# Serial: NPJH-50431
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Armor x9
+Author = libretro-database contributors / original PSP cheat authors
+403F3D2C 002D0001
+00090001 00000001
+103F44B4 0000002D
+
+// All Arms x9
+Author = libretro-database contributors / original PSP cheat authors
+403F374C 013E0001
+00090001 00000001
+103F44AC 0000013E
+
+// All Card x99
+Author = libretro-database contributors / original PSP cheat authors
+403F3E6C 018A0001
+00630001 00000001
+403F4494 00030001
+00630190 00000001
+103F44BC 0000018D
+
+// All Consumeable Items x99
+Author = libretro-database contributors / original PSP cheat authors
+403F3DEC 00130001
+00630001 00000001
+103F44B8 00000013
+
+// All Headgears x9
+Author = libretro-database contributors / original PSP cheat authors
+403F3C4C 00070001
+00090065 00000064
+403F3C68 00040001
+00090321 00000001
+403F3C78 00020001
+00090385 00000064
+403F3C80 00040001
+0009044D 00000001
+403F3C98 00030001
+000904B1 00000064
+403F3CA4 00080001
+000905DD 00000001
+403F3CC4 00010001
+00090641 00000064
+403F3CC8 00030001
+000906A5 00000001
+103F44B0 00000022
+
+// Exp. Booster
+Author = libretro-database contributors / original PSP cheat authors
+10F632BC 000003E7
+
+// Items - In Hand
+Author = libretro-database contributors / original PSP cheat authors
+803F3DEE 003C0002
+00000003 00000000
+
+// Lvl. Up Pts.
+Author = libretro-database contributors / original PSP cheat authors
+10DE5580 00000063
+
+// Max Zeny
+Author = libretro-database contributors / original PSP cheat authors
+203E3220 0098967F
+
+// Point Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000001
+60002000 00000001
+00020004 00000040
+20000024 20000024
+20000010 00000000
+
+// Square+β†‘ Move Again
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10008010
+60002004 00000003
+00000001 000001D4

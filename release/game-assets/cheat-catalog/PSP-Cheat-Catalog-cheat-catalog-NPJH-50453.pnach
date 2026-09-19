@@ -1,0 +1,328 @@
+# PSP cheat pack
+# Serial: NPJH-50453
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1-30 Love 30
+Author = libretro-database contributors / original PSP cheat authors
+8038E057 001E02C4
+0000001E 00000000
+
+// 1 The Experience Needed To Button Up Next To Love [Select+Up]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000011
+40512F30 00FE0003
+00000001 00000000
+
+// All Weapon
+Author = libretro-database contributors / original PSP cheat authors
+E0078084 001C8692
+201C8690 0E200400
+201C8694 80850000
+20001000 24050001
+20001004 A0850000
+20001008 80840000
+2000100C 03E00008
+20001010 3084007F
+
+// All Weapon v2
+Author = libretro-database contributors / original PSP cheat authors
+803A1BB8 12E50001
+10000181 00000000
+
+// All Weapon Zuretatoki
+Author = libretro-database contributors / original PSP cheat authors
+803A4180 00890001
+10000181 00000000
+
+// Bst. Max
+Author = libretro-database contributors / original PSP cheat authors
+E0013010 0022795C
+20227A08 C64C2954
+
+// Bst. Max v2
+Author = libretro-database contributors / original PSP cheat authors
+20001020 8E012954
+20001024 AE012950
+
+// Cost Over
+Author = libretro-database contributors / original PSP cheat authors
+10B6C2F0 00000000
+10B6C310 00000000
+10C1E8C0 00000000
+
+// Cost Over O Push
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10002000
+604DF8E4 00000000
+00010001 000000E0
+
+// Deka Shinki
+Author = libretro-database contributors / original PSP cheat authors
+E0070008 0025E698
+2025E698 0A2005C0
+20001700 AE670008
+20001704 3C043FD0
+20001708 AE040060
+2000170C AE040064
+20001710 0A2979A8
+20001714 AE040068
+
+// Exp.
+Author = libretro-database contributors / original PSP cheat authors
+203CA430 000927C0
+
+// Equip Limit Off
+Author = libretro-database contributors / original PSP cheat authors
+E0025080 001CA6F2
+201CA6F0 1000007C
+201CA8FC 1000007D
+
+// Hissu
+Author = libretro-database contributors / original PSP cheat authors
+E004DD8F 00279FE0
+20001000 82012768
+20001004 14200012
+20001050 0A29DD8F
+20279FE0 0E200400
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+D0278D62 000014C7
+20278D60 14C00003
+
+// HP Max
+Author = libretro-database contributors / original PSP cheat authors
+60002010 00000004
+00000002 0000291C
+10002918 00000000
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+E0083010 0022795C
+20227A28 0E200C40
+20003100 C6412814
+20003104 E6412810
+20003108 C6412868
+2000310C E6412864
+20003110 C64128BC
+20003114 E64128B8
+20003118 0A28E068
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+E0020002 00277EF8
+20277EF8 8E2401A8
+20277EFC 10800014
+
+// Instant Win [L+R+Select]
+Author = libretro-database contributors / original PSP cheat authors
+E00201A8 0022837C
+D0000000 10000301
+2022837C 00003021
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+2038EE70 0098961C
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+2038DE70 3B9AC9FF
+
+// Moving Distance x2
+Author = libretro-database contributors / original PSP cheat authors
+D0273214 00003F80
+20273214 3C084000
+
+// Must Code
+Author = libretro-database contributors / original PSP cheat authors
+20002014 08802000
+501A7404 00000004
+00002000 00000000
+60002000 00000004
+00500002 0000008C
+10000004 00000000
+60002004 00000004
+00400002 0000000C
+10000008 00000000
+60002008 00000004
+00300002 0000001C
+1000000C 00000000
+6000200C 00000004
+00200002 0000000C
+10000010 00000000
+2000202C 08802020
+50002008 00000004
+00002020 00000000
+60002020 00000004
+00300002 0000002C
+60002024 00000004
+20002038 08802030
+50002010 00000004
+00002030 00000000
+60002030 00000004
+00200002 00000258
+E0020001 20002002
+40002000 001C0001
+
+// Muteki
+Author = libretro-database contributors / original PSP cheat authors
+20001030 34010001
+20001034 AE012A34
+
+// No Regulation
+Author = libretro-database contributors / original PSP cheat authors
+2005D744 10000016
+
+// One Down
+Author = libretro-database contributors / original PSP cheat authors
+60002028 3F800000
+00020001 00002918
+
+// Original Body All
+Author = libretro-database contributors / original PSP cheat authors
+803A418F 00420006
+00000001 00000000
+
+// Player LP
+Author = libretro-database contributors / original PSP cheat authors
+E0033010 0022795C
+20227968 C64C291C
+2022796C E64C2918
+20227980 44047000
+
+// Player LP v2
+Author = libretro-database contributors / original PSP cheat authors
+20001010 8E01291C
+20001014 AE012918
+
+// Player SP
+Author = libretro-database contributors / original PSP cheat authors
+E0013010 0022795C
+202279D4 C64C2938
+
+// Player SP v2
+Author = libretro-database contributors / original PSP cheat authors
+20001018 8E012938
+2000101C AE012934
+
+// Raid Ratio
+Author = libretro-database contributors / original PSP cheat authors
+E0033010 0022795C
+20227A30 C64C2994
+20227A34 E64C2990
+20227A50 44066000
+
+// Raid Ratio v2
+Author = libretro-database contributors / original PSP cheat authors
+20001028 8E012994
+2000102C AE012990
+
+// Rail Action All
+Author = libretro-database contributors / original PSP cheat authors
+803A7C90 006D0001
+00000001 00000000
+
+// Ride Max
+Author = libretro-database contributors / original PSP cheat authors
+60002010 00000004
+00000002 00002994
+10002990 00000000
+00000002 000029AC
+100029A8 00000000
+
+// Shinki Point Max
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 101A739E
+601A739C 3B9AC9FF
+00020001 00000018
+
+// SP Max
+Author = libretro-database contributors / original PSP cheat authors
+60002010 00000004
+00000002 00002938
+10002934 00000000
+
+// Time Diminished (Task)
+Author = libretro-database contributors / original PSP cheat authors
+60002034 00000004
+00000002 00000820
+1000081C 00000000
+
+// 1 Love 30 (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+003900B7 0000001E
+
+// 1-30 Love 30 (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+803900B7 001E02C4
+0000001E 00000000
+
+// 1 Battle 1 Love Up (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+203CC490 000927C0
+
+// All Weapon (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+E0078084 001C9992
+201C9990 0E200400
+201C9994 80850000
+20001000 24050001
+20001004 A0850000
+20001008 80840000
+2000100C 03E00008
+20001010 3084007F
+
+// Bst. Max (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+E0013010 00228D1C
+20228DC8 C64C2954
+
+// Cost & Rank Not Check (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+E0025080 001CB9F2
+201CB9F0 1000007C
+201CBBFC 1000007D
+
+// First Contact On (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+202B6C28 30840000
+
+// Instant Win (Start) (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+E00201A8 0022973C
+D0000000 10000008
+2022973C 00003021
+
+// Money 9999999 (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+2038FED0 0098967F
+
+// No Lock-On Release (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+E0024500 0026F776
+2026F774 10000003
+20270158 00000000
+
+// Player LP (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+E0033010 00228D1C
+20228D28 C64C291C
+20228D2C E64C2918
+20228D40 44047000
+
+// Player SP (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+E0013010 00228D1C
+20228D94 C64C2938
+
+// Rail Action All (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+803A9CF0 006D0001
+00000001 00000000
+
+// Raid Ratio Max (1.01)
+Author = libretro-database contributors / original PSP cheat authors
+E0033010 00228D1C
+20228DF0 C64C2994
+20228DF4 E64C2990
+20228E10 44066000

@@ -1,0 +1,42 @@
+# PSP cheat pack
+# Serial: NPJH-50442
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CB 99
+Author = libretro-database contributors / original PSP cheat authors
+003D3534 00000063
+
+// Enemy Defeat[Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000005 10000001
+6037661C 00000000
+00020001 000008DC
+00020001 00000970
+00020001 00000A04
+
+// Enemy Ship Defeat [Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000001
+60376648 00000000
+00020001 00019C80
+
+// HP No Dec.
+Author = libretro-database contributors / original PSP cheat authors
+6037661C 00000004
+00000002 00000034
+10000030 00000000
+00000002 000000C8
+100000C4 00000000
+00000002 0000015C
+10000158 00000000
+
+// Lv. 100
+Author = libretro-database contributors / original PSP cheat authors
+803D3ACC 00090006
+100003E7 00000000
+803D3CC4 00090006
+803D3EF0 00080002
+
+// SP 9999
+Author = libretro-database contributors / original PSP cheat authors
+103D3494 0000270F

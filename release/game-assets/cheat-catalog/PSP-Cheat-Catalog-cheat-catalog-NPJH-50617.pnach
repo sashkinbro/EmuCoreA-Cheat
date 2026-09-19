@@ -1,0 +1,38 @@
+# PSP cheat pack
+# Serial: NPJH-50617
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Rider Lv.99 [Data1]
+Author = libretro-database contributors / original PSP cheat authors
+816737A4 00390014
+00000063 00000000
+
+// Character All-Open [Data1]
+Author = libretro-database contributors / original PSP cheat authors
+81673640 00370001
+00000001 00000000
+
+// Coin Max [Data1]
+Author = libretro-database contributors / original PSP cheat authors
+21674BE8 000F423F
+
+// Coin Max [Data2]
+Author = libretro-database contributors / original PSP cheat authors
+21676248 000F423F
+
+// Fourze Status [Data1]
+Author = libretro-database contributors / original PSP cheat authors
+116739D8 000003E7
+116739DA 0000012C
+116739DC 0000012C
+116739DE 0000012C
+
+// Rider Power Max
+Author = libretro-database contributors / original PSP cheat authors
+601F6820 00001B58
+00010001 00000020
+
+// Stage All-Open [Data1]
+Author = libretro-database contributors / original PSP cheat authors
+8167491C 002C0007
+00000002 00000000

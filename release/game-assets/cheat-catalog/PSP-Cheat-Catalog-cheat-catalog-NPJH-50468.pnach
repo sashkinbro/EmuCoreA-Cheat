@@ -1,0 +1,238 @@
+# PSP cheat pack
+# Serial: NPJH-50468
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Accessory All 10
+Author = libretro-database contributors / original PSP cheat authors
+80911244 00330001
+0000000A 00000000
+
+// Blacksmith List Open [Triangle]
+Author = libretro-database contributors / original PSP cheat authors
+E00980C0 00560808
+20560630 16000003
+20560668 16000003
+2056094C 16000003
+20560984 16000003
+D0000003 10001000
+20560630 17E00003
+20560668 17E00003
+2056094C 17E00003
+20560984 17E00003
+
+// Blacksmith No Material
+Author = libretro-database contributors / original PSP cheat authors
+E00380C0 00560808
+204EF76C 10000002
+2056080C 02318025
+20560B28 02318025
+
+// Box Item 50
+Author = libretro-database contributors / original PSP cheat authors
+809112C4 004D0001
+00000032 00000000
+80911328 01E00001
+
+// Change Fighting Spirit Max
+Author = libretro-database contributors / original PSP cheat authors
+E0041E8E 00513D7C
+20513D5C 34040000
+20513D74 34040003
+20513D88 00000000
+20513D8C 340201F4
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+E002299C 0054A648
+2054A650 00000000
+2054A654 0E200400
+20001000 00118840
+20001004 0A352985
+20001008 02222821
+
+// Exp. x512
+Author = libretro-database contributors / original PSP cheat authors
+E002299C 0054A648
+2054A650 00000000
+2054A654 0E200400
+20001000 00118A40
+20001004 0A352985
+20001008 02222821
+
+// Item All
+Author = libretro-database contributors / original PSP cheat authors
+80911594 004D0001
+0000001E 00000000
+
+// Item All v2
+Author = libretro-database contributors / original PSP cheat authors
+009115D0 0000001E
+809115F8 00380001
+1000001E 00000000
+8091161A 000B0001
+
+// Item Drop Rate
+Author = libretro-database contributors / original PSP cheat authors
+E0026502 00504264
+20504268 3C0442C8
+20504280 00000000
+
+// Item Not Decrease [L=Off]
+Author = libretro-database contributors / original PSP cheat authors
+20008F1C 00A02023
+D0000000 10000100
+20008F1C 00A42023
+
+// Learn Magic With No Materials
+Author = libretro-database contributors / original PSP cheat authors
+200882D0 10000007
+
+// Magic 1list Open [Square]
+Author = libretro-database contributors / original PSP cheat authors
+20087654 1540000D
+20087770 1520000D
+D0000001 10008000
+20087654 17E0000D
+20087770 17E0000D
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+208ECF78 05F5E0FF
+
+// Money Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20011310 00802023
+200590F4 00C02823
+2007703C 00C02023
+2007DCBC 00A02023
+2008B58C 00A02023
+E0023012 0055228C
+20552290 00A02823
+2055D284 01003823
+
+// Partner Status: Atk.999
+Author = libretro-database contributors / original PSP cheat authors
+2092ADAC 03E703E7
+
+// Partner Status: Avd.999
+Author = libretro-database contributors / original PSP cheat authors
+2092ADC4 03E703E7
+
+// Partner Status: Def.999
+Author = libretro-database contributors / original PSP cheat authors
+2092ADCC 03E703E7
+
+// Partner Status: Hit999
+Author = libretro-database contributors / original PSP cheat authors
+2092ADBC 03E703E7
+
+// Partner Status: HP9999
+Author = libretro-database contributors / original PSP cheat authors
+2092ADA0 0000270F
+2092ADA4 0000270F
+
+// Partner Status: Int.999
+Author = libretro-database contributors / original PSP cheat authors
+2092ADB4 03E703E7
+
+// Partner Status: Res.999
+Author = libretro-database contributors / original PSP cheat authors
+2092ADD4 03E703E7
+
+// Player Status: Atk.999
+Author = libretro-database contributors / original PSP cheat authors
+2092A9C0 03E703E7
+
+// Player Status: Avd.999
+Author = libretro-database contributors / original PSP cheat authors
+2092A9D8 03E703E7
+
+// Player Status: Def.999
+Author = libretro-database contributors / original PSP cheat authors
+2092A9E0 03E703E7
+
+// Player Status: Hit999
+Author = libretro-database contributors / original PSP cheat authors
+2092A9D0 03E703E7
+
+// Player Status: HP 9999
+Author = libretro-database contributors / original PSP cheat authors
+2092A9B8 0000270F
+2092A9B4 0000270F
+
+// Player Status: Int.999
+Author = libretro-database contributors / original PSP cheat authors
+2092A9C8 03E703E7
+
+// Player Status: Res.999
+Author = libretro-database contributors / original PSP cheat authors
+2092A9E8 03E703E7
+
+// Shop All Accessory [Triangle]
+Author = libretro-database contributors / original PSP cheat authors
+E00D3826 0055FB2C
+2055FA10 14C0004B
+2055FA30 95CC0010
+2055FA94 8DC7000C
+2055FB30 2CE70001
+2055FB38 50E0FFBE
+2055FB3C 95CC0010
+D0000005 10001000
+2055FA10 00000000
+2055FA30 240C0000
+2055FA94 24070000
+2055FB30 2F270034
+2055FB38 14E0FFBE
+2055FB3C 272C0000
+
+// Shop All Consumables [Triangle]
+Author = libretro-database contributors / original PSP cheat authors
+E00DC026 0055442C
+205542E4 15600056
+20554304 94F80010
+205543E0 8CF8000C
+20554430 2F180001
+20554438 5300FFB3
+2055443C 94F80010
+D0000005 10001000
+205542E4 00000000
+20554304 24180000
+205543E0 24180000
+20554430 2C58004E
+20554438 1700FFB3
+2055443C 24580000
+
+// Shop All Weapon & Armor [Triangle Or Square]
+Author = libretro-database contributors / original PSP cheat authors
+E0144826 0055F9A0
+2055F8A8 15200042
+2055F8C0 94CA0010
+2055F91C 8CC9000C
+2055F9A4 2D290001
+2055F9AC 5120FFC5
+2055F9B0 94CA0010
+D0000005 10001000
+2055F8A8 00000000
+2055F8C0 240A0000
+2055F91C 24090000
+2055F9A4 2C4900FC
+2055F9AC 1520FFC5
+2055F9B0 244A0000
+D0000005 10008000
+2055F9A4 2C49026F
+2055F9B0 244A00FD
+
+// Skill Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+200191D0 00055040
+20019290 00065040
+
+// Skill Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+200191D0 00055100
+20019290 00065100
+
+// Weapon S (Kill Max)
+Author = libretro-database contributors / original PSP cheat authors
+8092AB96 000B0001
+0000000F 00000000

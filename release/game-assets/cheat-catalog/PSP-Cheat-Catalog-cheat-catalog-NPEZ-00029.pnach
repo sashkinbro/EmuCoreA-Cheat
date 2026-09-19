@@ -1,0 +1,17 @@
+# PSP cheat pack
+# Serial: NPEZ-00029
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+20002000 24050009
+20002004 0A202BEF
+20002008 AC85001C
+2000AFB4 0A200800
+
+// Unlock All Levels v2
+Author = libretro-database contributors / original PSP cheat authors
+20002000 24050009
+20002004 0A202CAA
+20002008 AC85001C
+2000B2A0 0A200800

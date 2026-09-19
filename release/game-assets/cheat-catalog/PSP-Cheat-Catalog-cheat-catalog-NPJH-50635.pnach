@@ -1,0 +1,30 @@
+# PSP cheat pack
+# Serial: NPJH-50635
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Advanture Gallery All
+Author = libretro-database contributors / original PSP cheat authors
+2116BCA4 FFFFFFFF
+2116BCA8 FFFFFFFF
+2116BCAC 0000000F
+
+// BGM
+Author = libretro-database contributors / original PSP cheat authors
+0116BCFA 000000FF
+
+// Trust Point 9999
+Author = libretro-database contributors / original PSP cheat authors
+1116BE2C 0000270F
+
+// Small Character All
+Author = libretro-database contributors / original PSP cheat authors
+0116BCD7 000000FF
+1116BCD8 0000FFFF
+
+// Starting Voice All
+Author = libretro-database contributors / original PSP cheat authors
+1116BD06 00000FFF
+
+// Story All
+Author = libretro-database contributors / original PSP cheat authors
+0116BCF0 0000000F

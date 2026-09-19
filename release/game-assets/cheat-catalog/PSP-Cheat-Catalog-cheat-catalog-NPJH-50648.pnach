@@ -1,0 +1,307 @@
+# PSP cheat pack
+# Serial: NPJH-50648
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Monster Targets
+Author = libretro-database contributors / original PSP cheat authors
+20091894 00000000
+200918A8 00000000
+200918B0 00000000
+20091BC4 00000000
+
+// Always Drop Common Item
+Author = libretro-database contributors / original PSP cheat authors
+2011957C 2683FFFF
+
+// Always Drop Rare Item
+Author = libretro-database contributors / original PSP cheat authors
+2011957C 2603FFFF
+
+// Brave Jewel Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20066214 24420000
+
+// Burst
+Author = libretro-database contributors / original PSP cheat authors
+5028F88E 00000002
+0028F88C 00000000
+50290096 00000002
+00290094 00000000
+5029089E 00000002
+0029089C 00000000
+502910A6 00000002
+002910A4 00000000
+502918AE 00000002
+002918AC 00000000
+502920B6 00000002
+002920B4 00000000
+502928BE 00000002
+002928BC 00000000
+502930C6 00000002
+002930C4 00000000
+
+// Burst Gauge Max With One Attack
+Author = libretro-database contributors / original PSP cheat authors
+200D92EC 3406012C
+
+// Damage Floor HP Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200A752C 00000000
+
+// Encount Off [Press L = On]
+Author = libretro-database contributors / original PSP cheat authors
+0158EEB8 00000000
+D0000001 10000008
+0158EEB8 000000FF
+
+// Enemy Unchain
+Author = libretro-database contributors / original PSP cheat authors
+8157BE4E 000A0170
+00000006 00000000
+
+// Enemy Unchain [Toggle Press L]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000100
+8157BE4E 000A0170
+00000006 00000000
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+20001610 00063040
+20001614 00661821
+20001618 0A246528
+2011949C 0A200584
+
+// Exp. x4
+Author = libretro-database contributors / original PSP cheat authors
+20001610 00063080
+20001614 00661821
+20001618 0A246528
+2011949C 0A200584
+
+// Exp. x8
+Author = libretro-database contributors / original PSP cheat authors
+20001610 000630C0
+20001614 00661821
+20001618 0A246528
+2011949C 0A200584
+
+// Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+20001610 00063100
+20001614 00661821
+20001618 0A246528
+2011949C 0A200584
+
+// Follower Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+402937E0 001C0040
+05F5E0FF 00000000
+
+// Follower HP Not Dec. During Battle
+Author = libretro-database contributors / original PSP cheat authors
+200D2CD0 00601023
+
+// Item Drop Reset Code
+Author = libretro-database contributors / original PSP cheat authors
+2011957C 7C021E20
+
+// Item Usage Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+2016FAF8 24420000
+
+// Kaikiishi Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200A531C 00410123
+
+// Kiouseki Stone x50
+Author = libretro-database contributors / original PSP cheat authors
+002ADFF6 00000032
+
+// Lv. Up And Max
+Author = libretro-database contributors / original PSP cheat authors
+200979E4 A4860000
+
+// Max HP 9999
+Author = libretro-database contributors / original PSP cheat authors
+100936F0 00000000
+
+// Max MP 9999
+Author = libretro-database contributors / original PSP cheat authors
+100937C8 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+2028F5C0 0098967F
+
+// Monster Can Be Subdued
+Author = libretro-database contributors / original PSP cheat authors
+20091894 00000000
+200918A8 00000000
+200918B0 00000000
+20091BC4 00000000
+
+// Moving Speed Up
+Author = libretro-database contributors / original PSP cheat authors
+200A6340 30854350
+
+// MP Infinity
+Author = libretro-database contributors / original PSP cheat authors
+5028F898 00000002
+0028F896 00000000
+
+// No Random Encounters
+Author = libretro-database contributors / original PSP cheat authors
+1158EEB8 00000000
+
+// Possession Item x50 [Press Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000001
+8028F5F0 00640002
+10000032 00000000
+
+// Recovers HP Each Action During Battle
+Author = libretro-database contributors / original PSP cheat authors
+20093708 0040102A
+
+// Recovers MP Each Action During Battle
+Author = libretro-database contributors / original PSP cheat authors
+200937E0 0040102A
+
+// Skill Map Not Reduce SP
+Author = libretro-database contributors / original PSP cheat authors
+20080F04 24840000
+
+// Stat. Max: Diane
+Author = libretro-database contributors / original PSP cheat authors
+102910AC 0000270F
+102910B0 0000270F
+102910A2 000003E7
+002910A0 00000005
+00290FD2 0000001E
+
+// Stat. Max: Emil
+Author = libretro-database contributors / original PSP cheat authors
+102928C4 0000270F
+102928C8 0000270F
+102928BA 000003E7
+002928B8 00000005
+002927CA 0000001E
+
+// Stat. Max: Hiruda
+Author = libretro-database contributors / original PSP cheat authors
+102908A4 0000270F
+102908A8 0000270F
+1029089A 000003E7
+00290898 00000005
+002907AA 0000001E
+
+// Stat. Max: jik
+Author = libretro-database contributors / original PSP cheat authors
+102918B4 0000270F
+102918B8 0000270F
+102918AA 000003E7
+002918A8 00000005
+002917BA 0000001E
+
+// Stat. Max: Mint
+Author = libretro-database contributors / original PSP cheat authors
+102920BC 0000270F
+102920C0 0000270F
+102920B2 000003E7
+002920B0 00000005
+00291FC2 0000001E
+
+// Stat. Max: Rei Sureddo
+Author = libretro-database contributors / original PSP cheat authors
+102930CC 0000270F
+102930D0 0000270F
+102930C2 000003E7
+002930C0 00000005
+00292FD2 0000001E
+
+// Stat. Max: Ryuga
+Author = libretro-database contributors / original PSP cheat authors
+1028F894 0000270F
+1028F898 0000270F
+1028F88A 000003E7
+0028F888 00000005
+0028F79A 0000001E
+
+// Stat. Max: Sofia
+Author = libretro-database contributors / original PSP cheat authors
+1029009C 0000270F
+102900A0 0000270F
+10290092 000003E7
+00290090 00000005
+0028FFA2 0000001E
+
+// Str./Int./Vit./Spd. 999: Diane
+Author = libretro-database contributors / original PSP cheat authors
+40290FA4 00040001
+03E703E7 00000000
+
+// Str./Int./Vit./Spd. 999: Emil
+Author = libretro-database contributors / original PSP cheat authors
+402927BC 00040001
+03E703E7 00000000
+
+// Str./Int./Vit./Spd. 999: Hiruda
+Author = libretro-database contributors / original PSP cheat authors
+4029079C 00040001
+03E703E7 00000000
+
+// Str./Int./Vit./Spd. 999: Jik
+Author = libretro-database contributors / original PSP cheat authors
+402917AC 00040001
+03E703E7 00000000
+
+// Str./Int./Vit./Spd. 999: Mint
+Author = libretro-database contributors / original PSP cheat authors
+40291FB4 00040001
+03E703E7 00000000
+
+// Str./Int./Vit./Spd. 999: Rei Sureddo
+Author = libretro-database contributors / original PSP cheat authors
+40292FC4 00040001
+03E703E7 00000000
+
+// Str./Int./Vit./Spd. 999: Ryuga
+Author = libretro-database contributors / original PSP cheat authors
+4028F78C 00040001
+03E703E7 00000000
+
+// Str./Int./Vit./Spd. 999: Sofia
+Author = libretro-database contributors / original PSP cheat authors
+4028FF94 00040001
+03E703E7 00000000
+
+// Synthesis Proficiency Max
+Author = libretro-database contributors / original PSP cheat authors
+1028F5E4 00003EE8
+
+// Through The Wall
+Author = libretro-database contributors / original PSP cheat authors
+8028D88C 00080404
+1000012C 00000111
+
+// Through The Wall v2
+Author = libretro-database contributors / original PSP cheat authors
+100A63A4 00000000
+D02EC5BA 00003F80
+100A63A0 00000003
+D02EC5BA 0000BF80
+D02EC5B2 00003F80
+100A63A0 00000000
+D02EC5B2 0000BF80
+100A63A0 00000002
+
+// Warehouse Item x50 [Press Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000001
+8029D7C2 04B00002
+10000032 00000000
+
+// Water Step Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200A5374 00401023

@@ -1,0 +1,130 @@
+# PSP cheat pack
+# Serial: NPJH-50686
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Verticle Hack
+Author = libretro-database contributors / original PSP cheat authors
+E0120004 0016E874
+2016E874 0A200C00
+20003000 341B0110
+20003004 161B0008
+20003008 AF0C0004
+2000300C 341B0100
+20003010 14DB0005
+20003014 341B0010
+20003018 15DB0003
+20003020 0A25BA1F
+20003024 34090001
+20003028 341B0100
+2000302C 161B0006
+20003030 341B0000
+20003034 14DB0004
+20003038 341B0100
+2000303C 15DB0002
+20003044 340E00FF
+20003048 0A25BA1F
+
+// Verticle Hack [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2016E874 AF0C0004
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E0011880 000A907C
+200A907C 34040001
+
+// 60 FPS [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200A907C 8C841880
+
+// All Digi Pieces
+Author = libretro-database contributors / original PSP cheat authors
+4164D2EC 00770001
+00320007 00000000
+
+// All x99 Props
+Author = libretro-database contributors / original PSP cheat authors
+8164E306 000E0004
+00000063 00000000
+
+// Battle Props All x99
+Author = libretro-database contributors / original PSP cheat authors
+8164E33E 00150004
+00000063 00000000
+
+// Bond Max
+Author = libretro-database contributors / original PSP cheat authors
+81667E18 001C0002
+10000258 00000000
+
+// Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+41648274 000700E0
+0098967F 00000000
+
+// Exp. Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+2007D09C 8C870014
+2007D0A0 00A03025
+2007D0A4 00063080
+
+// Exp. Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+2007D09C 8C870014
+2007D0A0 00A03025
+2007D0A4 000630C0
+
+// Exp. Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+2007D09C 8C870014
+2007D0A0 00A03025
+2007D0A4 00063100
+
+// Exp. Multiplier x32
+Author = libretro-database contributors / original PSP cheat authors
+2007D09C 8C870014
+2007D0A0 00A03025
+2007D0A4 00063140
+
+// Full Digimon Encyclopedia
+Author = libretro-database contributors / original PSP cheat authors
+8164F68C 00910002
+00000001 00000000
+
+// Inf. SP (Battle)
+Author = libretro-database contributors / original PSP cheat authors
+601E9B00 00000002
+00000002 00000F4C
+10000E60 00000000
+00000002 00001B9C
+10001AB0 00000000
+00000002 000027EC
+10002700 00000000
+
+// Item x50
+Author = libretro-database contributors / original PSP cheat authors
+8164E306 00230004
+00000032 00000000
+
+// Material x50
+Author = libretro-database contributors / original PSP cheat authors
+8164E28C 001C0002
+10000032 00000000
+
+// Max Defense (Fighting)
+Author = libretro-database contributors / original PSP cheat authors
+601E9B00 0000270F
+00010003 00000E56
+90000628 00000000
+
+// Unlock All Skill Panels
+Author = libretro-database contributors / original PSP cheat authors
+816482AC 00480002
+00000001 00000000
+8164862C 00480002
+816489AC 00480002
+81648D2C 00480002
+816490AC 00480002
+8164942C 00480002
+816497AC 00480002
+81649B2C 00480002

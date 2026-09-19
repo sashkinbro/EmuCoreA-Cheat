@@ -1,0 +1,81 @@
+# PSP cheat pack
+# Serial: NPJH-50460
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Character Armor
+Author = libretro-database contributors / original PSP cheat authors
+803E0A72 00150004
+0000000F 00000000
+803E0ACA 00090004
+003E0B22 0000000F
+003E0B26 0000000F
+
+// All Character Weapons
+Author = libretro-database contributors / original PSP cheat authors
+803E0A70 00150004
+000000FF 00000000
+803E0AC8 00090004
+003E0B20 000000FF
+003E0B24 000000FF
+
+// Arms 0
+Author = libretro-database contributors / original PSP cheat authors
+203DC23E 00000000
+
+// Basara Max
+Author = libretro-database contributors / original PSP cheat authors
+503DBC64 00000004
+003DBC68 00000000
+
+// Basara Max
+Author = libretro-database contributors / original PSP cheat authors
+503DBC20 00000004
+003DBC24 00000000
+115BD434 000002D0
+
+// Character Clothing Change  Another Color
+Author = libretro-database contributors / original PSP cheat authors
+803E0A73 00150004
+0000000F 00000000
+803E0ACB 00090004
+003E0B23 0000000F
+003E0B27 0000000F
+
+// Character Open
+Author = libretro-database contributors / original PSP cheat authors
+103DE104 00007FFF
+203DE100 FFFFFFFF
+
+// Event CG
+Author = libretro-database contributors / original PSP cheat authors
+803E0EFD 00140001
+000000FF 00000000
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+503DBC5E 00000002
+003DBC5E 00000000
+
+// Main Character HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+503DBC1A 00000002
+003DBC18 00000000
+
+// Money 9999900
+Author = libretro-database contributors / original PSP cheat authors
+203DE0F8 0098961C
+
+// The Enemy General HP0
+Author = libretro-database contributors / original PSP cheat authors
+803DBCA0 00040022
+10000000 00000000
+
+// Time (Fix)
+Author = libretro-database contributors / original PSP cheat authors
+203DBA64 00000000
+
+// Voice Open
+Author = libretro-database contributors / original PSP cheat authors
+803E0F6B 004A0001
+000000FF 00000000
+003E0FB5 0000001F

@@ -1,0 +1,61 @@
+# PSP cheat pack
+# Serial: NPJH-50247
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99999 Money
+Author = libretro-database contributors / original PSP cheat authors
+20246F4C 0098967F
+
+// Create By Saxor29
+Author = libretro-database contributors / original PSP cheat authors
+80242DA4 00200008
+00000062 00000000
+
+// Equip
+Author = libretro-database contributors / original PSP cheat authors
+80242DA4 00200008
+00000063 00000000
+
+// Equip v2
+Author = libretro-database contributors / original PSP cheat authors
+10243360 0000270F
+10243368 0000270F
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+2024294C 0098967F
+
+// Inf. Money 9999999
+Author = libretro-database contributors / original PSP cheat authors
+1024336C 000003E7
+
+// Inf. MP [SABER-Servant]
+Author = libretro-database contributors / original PSP cheat authors
+202431D0 00000000
+
+// Lvl. Up [1] After Every Fight
+Author = libretro-database contributors / original PSP cheat authors
+202431C8 0000270F
+
+// Master Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+102431C4 0000270F
+102431C8 0000270F
+
+// Master MP 9999
+Author = libretro-database contributors / original PSP cheat authors
+10243364 0000270F
+1024336C 0000270F
+
+// MP
+Author = libretro-database contributors / original PSP cheat authors
+10243368 000003E7
+10D4B6A0 000003E7
+
+// Inf. HP [SABER-Servant]
+Author = libretro-database contributors / original PSP cheat authors
+102431B0 000003E7
+
+// SP 999
+Author = libretro-database contributors / original PSP cheat authors
+80F7B778 00060001

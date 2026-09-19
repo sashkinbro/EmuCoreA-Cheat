@@ -1,0 +1,163 @@
+# PSP cheat pack
+# Serial: NPJH-50562
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Movement Speed x2
+Author = libretro-database contributors / original PSP cheat authors
+20097364 3C044000
+20097370 44840000
+
+// 99 Warehouse Full Props (IncludingRepliesDepartment/Accessories/Other)
+Author = libretro-database contributors / original PSP cheat authors
+80B70D24 011F0008
+00000063 00000000
+
+// All Item 99 In Warehouse
+Author = libretro-database contributors / original PSP cheat authors
+80B70D24 011F0008
+00000063 00000000
+
+// ALL Skill Proficiency Max
+Author = libretro-database contributors / original PSP cheat authors
+80B705F0 000E0002
+10001388 00000000
+80B70628 00060002
+10007530 00000000
+80B70650 00020002
+
+// Battle Point 500 (For English Patched)
+Author = libretro-database contributors / original PSP cheat authors
+10B6967C 000001F4
+
+// Battle Point 2000
+Author = libretro-database contributors / original PSP cheat authors
+10B705BC 000007D0
+
+// Battle Point 2000 (For English Patched)
+Author = libretro-database contributors / original PSP cheat authors
+10B6967C 000007D0
+
+// Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+20B705B8 0004A768
+
+// Exp. Max (For English Patched)
+Author = libretro-database contributors / original PSP cheat authors
+20B69678 0004A768
+
+// Fighting Style All
+Author = libretro-database contributors / original PSP cheat authors
+80B706B6 00060001
+000000FF 00000000
+80B706C8 00060001
+
+// Injury 0
+Author = libretro-database contributors / original PSP cheat authors
+20B7059C 00000000
+
+// Injury 0 (For English Patched)
+Author = libretro-database contributors / original PSP cheat authors
+20B6965C 00000000
+
+// Maximum Enhancement Of The Various Parts
+Author = libretro-database contributors / original PSP cheat authors
+80B705A0 00060004
+0000003E 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20B70588 05F5E0FF
+
+// Money Max (For English Patched)
+Author = libretro-database contributors / original PSP cheat authors
+20B69648 05F5E0FF
+
+// Money Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20B70588 0098967F
+
+// Money Not Decrease (For English Patched)
+Author = libretro-database contributors / original PSP cheat authors
+20B69648 0098967F
+
+// Movement Speed x2 v2
+Author = libretro-database contributors / original PSP cheat authors
+200900F8 3C044000
+20090104 44840000
+
+// Only 11 Sets Of Full-Dress
+Author = libretro-database contributors / original PSP cheat authors
+80B717D4 000B0008
+00000001 00000000
+
+// Quick Full Level
+Author = libretro-database contributors / original PSP cheat authors
+20B705B8 0004A767
+
+// Quick Full Level (For English Patched)
+Author = libretro-database contributors / original PSP cheat authors
+20B69678 0004A767
+
+// Skill All Master
+Author = libretro-database contributors / original PSP cheat authors
+80B70752 00090001
+000000FF 00000000
+80B7075C 00090001
+80B70766 00090001
+80B706CE 000C0001
+0000000F 00000000
+00B706D8 0000000F
+80B706DE 00030001
+80B706E1 00070001
+00000087 00000000
+20B706E8 7C3DFF87
+10B706EC 000079B0
+80B706EF 000C0001
+00B706FC 0000000F
+80B706FF 00030001
+80B70702 00060001
+20B70708 3DFF8787
+10B7070C 0079B07C
+40B70710 00030001
+0F0F0F0F 00000000
+00B7071D 0000000F
+20B70720 87FFFFFF
+20B70724 87878787
+20B70728 FF878787
+20B7072C 79B07C3D
+
+// Skills To Fully Open (43 Kinds Of Martial Arts)
+Author = libretro-database contributors / original PSP cheat authors
+20B705D8 FFFFFFFF
+10B705DC 00000FFF
+
+// Status Max
+Author = libretro-database contributors / original PSP cheat authors
+80B705A0 00060004
+0000003E 00000000
+
+// Strength Max
+Author = libretro-database contributors / original PSP cheat authors
+10B70598 0000044C
+
+// Strength Max (For English Patched)
+Author = libretro-database contributors / original PSP cheat authors
+10B69658 0000044C
+
+// Strengthen The Points Diminished
+Author = libretro-database contributors / original PSP cheat authors
+10B705BC 000001F4
+
+// Strengthen The Points Diminished (For English Patched)
+Author = libretro-database contributors / original PSP cheat authors
+10B6967C 000001F4
+
+// Style All
+Author = libretro-database contributors / original PSP cheat authors
+20B705D8 FFFFFFFF
+10B705DC 00000FFF
+
+// Style Exp. 6000
+Author = libretro-database contributors / original PSP cheat authors
+1177B574 00001770
+1177B5CC 00001770

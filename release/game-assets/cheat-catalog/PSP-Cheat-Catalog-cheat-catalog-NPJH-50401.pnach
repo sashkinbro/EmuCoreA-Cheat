@@ -1,0 +1,127 @@
+# PSP cheat pack
+# Serial: NPJH-50401
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1P Heat Max
+Author = libretro-database contributors / original PSP cheat authors
+603D8EC0 00002710
+00020001 0000422C
+
+// 2P Heat Max
+Author = libretro-database contributors / original PSP cheat authors
+603D8EC4 00002710
+00020001 0000422C
+
+// Abyss All50
+Author = libretro-database contributors / original PSP cheat authors
+4041B7C8 00040001
+00000032 00000000
+
+// Abyss Clear
+Author = libretro-database contributors / original PSP cheat authors
+4041B86C 00120001
+00000001 00000000
+4041B8B4 00120001
+000003E7 00000000
+
+// Character Unlimited Open
+Author = libretro-database contributors / original PSP cheat authors
+8040F47C 00490001
+00000001 00000000
+
+// Clear All Tutorials
+Author = libretro-database contributors / original PSP cheat authors
+2040F4C8 02020202
+8040F4E6 00070001
+10000202 00000000
+2040F504 00020202
+8040F522 00120001
+00000002 00000000
+
+// Content Release
+Author = libretro-database contributors / original PSP cheat authors
+403D85E8 002C0001
+02020202 00000000
+003D8698 00000002
+
+// Full Directory
+Author = libretro-database contributors / original PSP cheat authors
+403E1928 00560004
+02020202 00000000
+103E1A80 00000101
+
+// Hit Anywhere Both Players
+Author = libretro-database contributors / original PSP cheat authors
+2008C7E8 00000000
+
+// Inf. Sky Dash
+Author = libretro-database contributors / original PSP cheat authors
+603D846C 00000001
+00000001 00001C78
+60414C28 00000001
+
+// Legion All 50
+Author = libretro-database contributors / original PSP cheat authors
+4041B2A4 00040001
+00000032 00000000
+
+// Legion Platinum
+Author = libretro-database contributors / original PSP cheat authors
+4041B290 000A0009
+00000012 00000000
+4041B294 000A0009
+4041B298 000A0009
+00005208 00000000
+4041B29C 000A0009
+4041B2A0 000A0009
+00000002 00000000
+4041B2A4 000A0009
+00000032 00000000
+4041B2A8 000A0009
+4041B2AC 000A0009
+4041B2B0 000A0009
+
+// Level 99
+Author = libretro-database contributors / original PSP cheat authors
+0040FD24 00000063
+
+// Medal Open
+Author = libretro-database contributors / original PSP cheat authors
+8040F47C 00490001
+00000001 00000000
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+2040FB40 000F423F
+
+// Player 1 HP 0
+Author = libretro-database contributors / original PSP cheat authors
+603D8EC0 00000000
+00020001 00000810
+
+// Player 1 HP Diminished
+Author = libretro-database contributors / original PSP cheat authors
+603D8EC0 00000004
+00020002 00000814
+10000810 00000000
+
+// Player 2 HP 0
+Author = libretro-database contributors / original PSP cheat authors
+603D8EC4 00000000
+00020001 00000810
+
+// Players 2 HP Unabated
+Author = libretro-database contributors / original PSP cheat authors
+603D8EC4 00000004
+00020002 00000814
+10000810 00000000
+
+// Score
+Author = libretro-database contributors / original PSP cheat authors
+203D46B8 FFFFFFFF
+203D46BC 00005AFF
+
+// Visual Open
+Author = libretro-database contributors / original PSP cheat authors
+803E1920 00B10001
+10000202 00000000

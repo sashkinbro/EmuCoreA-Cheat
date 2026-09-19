@@ -1,0 +1,64 @@
+# PSP cheat pack
+# Serial: NPJH-50376
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Character Break Down Age Inf.
+Author = libretro-database contributors / original PSP cheat authors
+803D769A 000D0092
+10000000 00000000
+
+// All Character Fatigue Degree Not InC.
+Author = libretro-database contributors / original PSP cheat authors
+403D774C 000D0049
+
+// All Character Good Condition
+Author = libretro-database contributors / original PSP cheat authors
+403D774C 000E0049
+4479C000 00000000
+
+// All Member Age Fix
+Author = libretro-database contributors / original PSP cheat authors
+803D7693 000D0124
+
+// All Member Atk. Support Max
+Author = libretro-database contributors / original PSP cheat authors
+403D7710 000D0049
+4479C000 00000000
+
+// All Member Attack Max
+Author = libretro-database contributors / original PSP cheat authors
+403D770C 000D0049
+4479C000 00000000
+
+// All Member Def. Support Max
+Author = libretro-database contributors / original PSP cheat authors
+403D7714 000D0049
+4479C000 00000000
+
+// All Member HP Max
+Author = libretro-database contributors / original PSP cheat authors
+403D7704 000D0049
+4479C000 00000000
+
+// All Member Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+803D76B6 000D0124
+00000005 00000000
+
+// All Member Lv. Up Stop
+Author = libretro-database contributors / original PSP cheat authors
+803D76B6 000D0124
+
+// All Member Recovery Max
+Author = libretro-database contributors / original PSP cheat authors
+403D7718 000D0049
+4479C000 00000000
+
+// All Member Speed Max
+Author = libretro-database contributors / original PSP cheat authors
+403D7708 000D0049
+4479C000 00000000
+
+// Safety Value Control
+Author = libretro-database contributors / original PSP cheat authors
+203DE4F0 42C60000

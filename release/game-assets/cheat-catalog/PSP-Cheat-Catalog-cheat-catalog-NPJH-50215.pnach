@@ -1,0 +1,42 @@
+# PSP cheat pack
+# Serial: NPJH-50215
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Improve Framerate
+Author = libretro-database contributors / original PSP cheat authors
+E0010008 0001513C
+2001513C 34020001
+
+// Improve Framerate [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 0001513C
+2001513C 8E020008
+
+// Battle Get Item 100%
+Author = libretro-database contributors / original PSP cheat authors
+2000CE48 34020001
+
+// Item Hendou 50
+Author = libretro-database contributors / original PSP cheat authors
+2000E074 34060032
+2000E1AC 34060032
+
+// Jump Distance 8
+Author = libretro-database contributors / original PSP cheat authors
+20075608 34020008
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+20B78104 000F423F
+
+// Money Hendou Max
+Author = libretro-database contributors / original PSP cheat authors
+200075C4 10000002
+
+// Parameter Bonus
+Author = libretro-database contributors / original PSP cheat authors
+003AE880 00000005
+
+// Subject Bonus
+Author = libretro-database contributors / original PSP cheat authors
+003AE882 00000003

@@ -1,0 +1,144 @@
+# PSP cheat pack
+# Serial: NPJH-50676
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS (Beta)
+Author = libretro-database contributors / original PSP cheat authors
+200BDBC4 00000000
+
+// Auto Play
+Author = libretro-database contributors / original PSP cheat authors
+20045138 34120000
+
+// Auto Play v2
+Author = libretro-database contributors / original PSP cheat authors
+10045012 00000000
+
+// BGM Difficulty All
+Author = libretro-database contributors / original PSP cheat authors
+403C5170 0040000F
+00000001 00000000
+803C5174 0040003C
+00000064 00000000
+803C5178 0040003C
+000000C8 00000000
+803C5180 0040003C
+403C78D0 0018000F
+803C78D4 0018003C
+803C78D8 0018003C
+803C78E0 0018003C
+
+// Combo 100%
+Author = libretro-database contributors / original PSP cheat authors
+203BF110 000003E7
+203BF114 00000000
+203BF118 00000000
+203BF11C 00000000
+003BF12C 00000064
+003BF130 00000001
+003BF134 00000001
+
+// Exhaust Name SSS
+Author = libretro-database contributors / original PSP cheat authors
+203C9B40 00000000
+
+// Fan 9999999
+Author = libretro-database contributors / original PSP cheat authors
+203C9BA0 0098967F
+
+// Fans 9999999 v2
+Author = libretro-database contributors / original PSP cheat authors
+203A5D20 0098967F
+
+// G 900W
+Author = libretro-database contributors / original PSP cheat authors
+203C4CA4 00895440
+
+// Item All
+Author = libretro-database contributors / original PSP cheat authors
+003C4D3C 00000001
+003C4D40 00000063
+003C4D44 00000001
+003C4D48 00000001
+003C4D4C 00000063
+803C4D14 00050008
+00000063 00000000
+803C4D18 00050008
+803C4D50 01040004
+00000001 00000000
+803C4EF0 01190004
+00000012 00000000
+
+// Item Customize Complete
+Author = libretro-database contributors / original PSP cheat authors
+003C4CFC 00000001
+003C4D00 00000063
+003C4D04 00000001
+003C4D08 00000001
+003C4D0C 00000063
+803C4CD4 00050008
+00000063 00000000
+803C4CD8 00050008
+803C4D10 01040004
+00000001 00000000
+803C4EB0 01190004
+00000012 00000000
+
+// Konaito Number Of People Max
+Author = libretro-database contributors / original PSP cheat authors
+203C9B60 0098967F
+
+// Max Money 9999999
+Author = libretro-database contributors / original PSP cheat authors
+203C4CE4 0098967F
+
+// Money 9999999 v2
+Author = libretro-database contributors / original PSP cheat authors
+203A0E64 0098967F
+
+// Money Consumption Max
+Author = libretro-database contributors / original PSP cheat authors
+203C5154 000F4240
+
+// Number Of Fans 9999999
+Author = libretro-database contributors / original PSP cheat authors
+203C9BA0 0098967F
+
+// Number Of Fans 9999999 v2
+Author = libretro-database contributors / original PSP cheat authors
+203A5D20 0098967F
+
+// Popular Vote Count Max
+Author = libretro-database contributors / original PSP cheat authors
+203CA11C 0098967F
+
+// Rank SSS
+Author = libretro-database contributors / original PSP cheat authors
+003C9B80 00000000
+
+// Result Max
+Author = libretro-database contributors / original PSP cheat authors
+203BF110 000003E7
+203BF114 00000000
+203BF118 00000000
+203BF11C 00000000
+203BF120 000003E7
+203BF124 0098967F
+003BF12C 00000064
+003BF128 00000001
+003BF134 00000001
+103BF138 0000270F
+
+// Score 9999999
+Author = libretro-database contributors / original PSP cheat authors
+20652D88 0098967F
+
+// SOF Total Ninki 999999
+Author = libretro-database contributors / original PSP cheat authors
+203CA15C 000F423F
+
+// SPMC All
+Author = libretro-database contributors / original PSP cheat authors
+803C5184 00100240
+00000001 00000000
+803C78E4 00050240

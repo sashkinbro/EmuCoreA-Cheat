@@ -1,0 +1,46 @@
+# PSP cheat pack
+# Serial: NPJH-50597
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E00D3F80 00078F14
+201DEEB0 1000000E
+200F02C0 3C043F00
+200F5C1C 3C053F00
+20078F14 3C063F00
+200EA12C 0A200800
+200EA130 3C0508AF
+20002000 3C1B4000
+20002004 449BF800
+20002008 461F0003
+2000200C 0A23A84D
+20002010 E480003C
+200F6C70 3C0642F0
+E0023F80 003197DA
+203197D8 3F000000
+203197F8 3F000000
+
+// 60 FPS [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201DEEB0 1080000E
+200F02C0 3C043F80
+200F5C1C 3C053F80
+20078F14 3C063F80
+200EA12C 3C0508AF
+200EA130 E480003C
+200F6C70 3C064270
+203197D8 3F800000
+203197F8 3F800000
+
+// Code Fix (M)
+Author = libretro-database contributors / original PSP cheat authors
+554C4A4D 06085820
+
+// Save 1
+Author = libretro-database contributors / original PSP cheat authors
+0030ECF0 00000001
+
+// Save 2
+Author = libretro-database contributors / original PSP cheat authors
+0030F12C 00000001

@@ -1,0 +1,90 @@
+# PSP cheat pack
+# Serial: NPEH-90023
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Hang/Crash Fix
+Author = libretro-database contributors / original PSP cheat authors
+2000C818 0A203286
+
+// Hang/Crash UnFix [Original Value]
+Author = libretro-database contributors / original PSP cheat authors
+2000C818 1440007F
+
+// 20 FPS [In-Game Default]
+Author = libretro-database contributors / original PSP cheat authors
+203270B0 00000003
+202E0878 0000000F
+202E0860 40400000
+
+// 30 FPS v.1
+Author = libretro-database contributors / original PSP cheat authors
+203270B0 00000002
+202E0878 0000000A
+202E0860 40000000
+
+// 60 FPS v.1
+Author = libretro-database contributors / original PSP cheat authors
+203270B0 00000001
+202E0878 00000005
+202E0860 3F800000
+
+// 100% Camouflage Index
+Author = libretro-database contributors / original PSP cheat authors
+014C2340 00000064
+014C2344 00000064
+014C2348 00000064
+014B2220 00000064
+014B2224 00000064
+014B2228 00000064
+014CD6E0 00000064
+014CD6E4 00000064
+014CD6E8 00000064
+014C43C0 00000064
+014C43C4 00000064
+014C43C8 00000064
+014B42E0 00000064
+014B42E4 00000064
+014B42E8 00000064
+014CDDE0 00000064
+014CDDE4 00000064
+014CDDE8 00000064
+014BEF00 00000064
+014BEF04 00000064
+014BEF08 00000064
+014AEDE0 00000064
+014AEDE4 00000064
+014AEDE8 00000064
+014C8EA0 00000064
+014C8EA4 00000064
+014C8EA8 00000064
+014C0B80 00000064
+014C0B84 00000064
+014C0B88 00000064
+014B0A60 00000064
+014B0A64 00000064
+014B0A68 00000064
+014CA560 00000064
+014CA564 00000064
+014CA568 00000064
+
+// Inf. Ammo (Costa Rica)
+Author = libretro-database contributors / original PSP cheat authors
+00001000 3C0808F9
+00001004 8D0840C0
+00001008 3C09FFFF
+0000100C 2529FFFF
+00001010 AD0929C4
+00001014 03E00008
+00000098 0A200400
+
+// Inf. Ammo (Frist Part)
+Author = libretro-database contributors / original PSP cheat authors
+01355914 FFFFFFFF
+
+// Inf. Ammo (Rio Del Jade)
+Author = libretro-database contributors / original PSP cheat authors
+01322A54 FFFFFFFF
+
+// Inf. Ammo F.S
+Author = libretro-database contributors / original PSP cheat authors
+013214E4 FFFFFFFF

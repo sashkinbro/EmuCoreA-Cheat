@@ -1,0 +1,64 @@
+# PSP cheat pack
+# Serial: NPJH-50464
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Awake practice 1 Turn
+Author = libretro-database contributors / original PSP cheat authors
+0052C968 00000001
+
+// ChUseido
+Author = libretro-database contributors / original PSP cheat authors
+80527D8C 00170160
+00000063 00000000
+
+// Coach
+Author = libretro-database contributors / original PSP cheat authors
+10527C30 000000B2
+
+// Coach Bonus Point
+Author = libretro-database contributors / original PSP cheat authors
+105D8574 0000270F
+
+// Condition Max
+Author = libretro-database contributors / original PSP cheat authors
+80527D31 00170160
+80527D8E 00170160
+00000064 00000000
+
+// Edit Point 99
+Author = libretro-database contributors / original PSP cheat authors
+210B7A90 00000063
+
+// Hirou 0
+Author = libretro-database contributors / original PSP cheat authors
+80527D73 00170160
+
+// Money 99999999
+Author = libretro-database contributors / original PSP cheat authors
+20301CB0 05F5E0FF
+20527B5C 05F5E0FF
+20820AAC 05F5E0FF
+20820AB0 05F5E0FF
+
+// Popularity Max
+Author = libretro-database contributors / original PSP cheat authors
+80527D70 001700B0
+1000FFFF 00000000
+
+// Scout
+Author = libretro-database contributors / original PSP cheat authors
+1052BD54 0000006A
+0052BD58 00000009
+1052BD5C 00000001
+
+// Special Practice 1 Turn
+Author = libretro-database contributors / original PSP cheat authors
+0052C874 00000001
+0052C884 00000001
+0052C894 00000001
+
+// Treasuring Practice 1 Turn
+Author = libretro-database contributors / original PSP cheat authors
+0052C974 00000001
+0052C990 00000001
+0052C9AC 00000001

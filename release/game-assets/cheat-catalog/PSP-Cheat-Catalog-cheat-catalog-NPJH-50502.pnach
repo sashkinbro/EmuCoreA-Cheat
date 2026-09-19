@@ -1,0 +1,61 @@
+# PSP cheat pack
+# Serial: NPJH-50502
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CG Full
+Author = libretro-database contributors / original PSP cheat authors
+802A85DC 00260001
+000000FF 00000000
+
+// Down Enemy
+Author = libretro-database contributors / original PSP cheat authors
+6026A1B0 00003B00
+00020001 00000150
+6026A1B8 00003B00
+6026A1C0 00003B00
+
+// Enemy Without Power
+Author = libretro-database contributors / original PSP cheat authors
+6026A1B0 00000000
+00020001 0000016C
+6026A1B8 00000000
+6026A1C0 00000000
+
+// Full Battle Mode All Characters
+Author = libretro-database contributors / original PSP cheat authors
+802A856A 00520001
+000000FF 00000000
+
+// Nirvana Full Appreciation
+Author = libretro-database contributors / original PSP cheat authors
+802A85BE 001C0001
+000000FF 00000000
+
+// P1: HP Diminished
+Author = libretro-database contributors / original PSP cheat authors
+6026A1A8 00000000
+00020001 00000150
+
+// P1: Power Max
+Author = libretro-database contributors / original PSP cheat authors
+6026A1A8 00000004
+00000002 00000168
+1000016C 00000000
+
+// RP 9999999
+Author = libretro-database contributors / original PSP cheat authors
+202A9678 0098967F
+
+// Still Open
+Author = libretro-database contributors / original PSP cheat authors
+802A85DC 00260001
+000000FF 00000000
+
+// Time Diminished
+Author = libretro-database contributors / original PSP cheat authors
+102A6F6C 00000BAD
+
+// Waza Viewer Open
+Author = libretro-database contributors / original PSP cheat authors
+802A85BE 001C0001
+000000FF 00000000

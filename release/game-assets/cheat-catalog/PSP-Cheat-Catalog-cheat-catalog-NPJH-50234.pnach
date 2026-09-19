@@ -1,0 +1,40 @@
+# PSP cheat pack
+# Serial: NPJH-50234
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Easy Hit
+Author = libretro-database contributors / original PSP cheat authors
+20001000 C6610004
+20001004 3C193DE1
+20001008 373947AE
+2000100C 44991000
+20001010 46020841
+20001014 E7A100A4
+20001018 C6610000
+2000101C E7A100A0
+20001020 C7A200A0
+20001024 0A297AC4
+2025EB08 0A200400
+2025EB0C 00000000
+
+// Free Skill Up
+Author = libretro-database contributors / original PSP cheat authors
+E0021021 0166BF8C
+4166BF0C 00090004
+
+// Skill Point
+Author = libretro-database contributors / original PSP cheat authors
+214BF0F4 0000FFFF
+214BF0F8 0000FFFF
+214BF0FC 0000FFFF
+214BF100 0000FFFF
+214BF104 0000FFFF
+
+// Strike Count2 [R+L]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000300
+00318A40 00000002
+
+// VP Max
+Author = libretro-database contributors / original PSP cheat authors
+214B81F4 000F423F

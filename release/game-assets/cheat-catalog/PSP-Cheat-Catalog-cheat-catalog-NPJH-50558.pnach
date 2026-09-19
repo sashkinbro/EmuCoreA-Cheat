@@ -1,0 +1,84 @@
+# PSP cheat pack
+# Serial: NPJH-50558
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AP 9999 (Push Select)
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000001
+6032D5FC 0000270F
+00020001 000002F0
+
+// Brave Point 200
+Author = libretro-database contributors / original PSP cheat authors
+200704F8 14000005
+20070500 28A900C8
+2007050C 24E500C8
+
+// Encount Off
+Author = libretro-database contributors / original PSP cheat authors
+216FA32C 00000001
+
+// Have All Accessories
+Author = libretro-database contributors / original PSP cheat authors
+40589624 00240001
+00000063 00000000
+
+// Have All Amulet
+Author = libretro-database contributors / original PSP cheat authors
+105895C4 00003FFF
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+6032D5FC 00000004
+00000002 000005C4
+10000590 00000000
+00000002 000013A4
+10001370 00000000
+00000002 00002184
+10002150 00000000
+00000002 00002F64
+10002F30 00000000
+
+// Level At 100
+Author = libretro-database contributors / original PSP cheat authors
+20588B5C 05F5E0FF
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+20588B60 05F5E0FF
+
+// Money Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2001E52C 00000000
+
+// Ore No Turn
+Author = libretro-database contributors / original PSP cheat authors
+2009E260 34050000
+
+// Play Time Is Zero
+Author = libretro-database contributors / original PSP cheat authors
+20589BC4 00000000
+
+// PP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+6032D5FC 00000004
+00000002 000005C8
+10000594 00000000
+00000002 000013A8
+10001374 00000000
+00000002 00002188
+10002154 00000000
+00000002 00002F68
+10002F34 00000000
+
+// PP Not Decreasing
+Author = libretro-database contributors / original PSP cheat authors
+E1010000 00589F5C
+200A09F8 10000012
+E1020001 00589F5C
+200A09F8 14000012
+200A0A0C 00000000
+
+// Shop Item Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2008B350 24C60000

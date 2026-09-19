@@ -1,0 +1,457 @@
+# PSP cheat pack
+# Serial: NPJH-50505
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS (Alpha)
+Author = libretro-database contributors / original PSP cheat authors
+200E2C58 00000000
+
+// All Costumes Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+802F5F00 00010008
+00000063 00000000
+802F6088 00240008
+802F61B8 00150008
+
+// All Formal Wear
+Author = libretro-database contributors / original PSP cheat authors
+802F6268 00260008
+00000001 00000000
+002F6360 00000000
+002F6388 00000000
+
+// All Parameter EX
+Author = libretro-database contributors / original PSP cheat authors
+802F6D20 00040004
+000000FF 00000000
+802F6D21 00040004
+002F6D30 000000FF
+002F6D2F 00000000
+
+// All Skills Usable
+Author = libretro-database contributors / original PSP cheat authors
+2005087C 34020001
+20065AC8 34110001
+20065B48 00000000
+20065B5C 00000000
+20065B74 00000000
+20065B8C 00000000
+20065BB4 00000000
+
+// Archer Accuracy 5
+Author = libretro-database contributors / original PSP cheat authors
+602285E4 00000006
+00000002 00001144
+200000F4 00000000
+
+// Auto Play
+Author = libretro-database contributors / original PSP cheat authors
+200367B4 00000000
+
+// Battle Skill Open
+Author = libretro-database contributors / original PSP cheat authors
+20028334 1000000B
+
+// Beige Panty
+Author = libretro-database contributors / original PSP cheat authors
+215BE37C FF6633AA
+215BE380 FFCC66FF
+215BE384 FF3C4C8C
+215BE388 FF405090
+215BE38C FF425292
+215BE390 FF3C4C8C
+215BE394 FF3C4C8C
+215BE398 FF405090
+215BE39C FF425292
+215BE3A0 FF425292
+215BE3A4 FF415191
+215BE3A8 FF405090
+215BE3AC FF415191
+
+// Black Tie
+Author = libretro-database contributors / original PSP cheat authors
+802F6268 00260008
+00000001 00000000
+002F6360 00000000
+002F6388 00000000
+
+// Clothes Full Open
+Author = libretro-database contributors / original PSP cheat authors
+202F6088 00000001
+202F6090 00000001
+202F6098 00000001
+202F60A0 00000001
+202F60A8 00000001
+202F60B8 00000001
+202F60C0 00000001
+202F60C8 00000001
+202F60D0 00000001
+202F60D8 00000001
+202F60E8 00000001
+202F60F0 00000001
+202F60F8 00000001
+202F6100 00000001
+202F6108 00000001
+202F6118 00000001
+202F6128 00000001
+202F6130 00000001
+202F6138 00000001
+202F61A8 00000001
+
+// Complete CG Gallery Unlock
+Author = libretro-database contributors / original PSP cheat authors
+70328F0F 000000F0
+20328F10 FFFFFFFF
+70328F14 00000003
+
+// Custome/Uniform/Decoration
+Author = libretro-database contributors / original PSP cheat authors
+802F5F00 00010008
+00000063 00000000
+802F6088 00240008
+802F61B8 00150008
+
+// Equipment
+Author = libretro-database contributors / original PSP cheat authors
+802F6270 00680008
+00000001 00000000
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+20001000 34040002
+20001004 00862018
+20001008 00003012
+2000100C 03E00008
+20001010 8FA4001C
+200573A8 0E200400
+
+// Field Attack
+Author = libretro-database contributors / original PSP cheat authors
+20166C14 10000006
+20166C38 501D0005
+
+// Field Kill
+Author = libretro-database contributors / original PSP cheat authors
+200E0BFC 54800010
+D0000000 10004000
+200E0BFC 501D0010
+
+// Full Items
+Author = libretro-database contributors / original PSP cheat authors
+802F5EE0 00700008
+00000001 00000000
+
+// Full View Map
+Author = libretro-database contributors / original PSP cheat authors
+200C6DC0 00000000
+
+// Fully Equipped
+Author = libretro-database contributors / original PSP cheat authors
+802F6270 00680008
+00000001 00000000
+
+// Gallery Open
+Author = libretro-database contributors / original PSP cheat authors
+70328F0F 000000F0
+20328F10 FFFFFFFF
+70328F14 00000003
+
+// High-Speed Movement [+□]
+Author = libretro-database contributors / original PSP cheat authors
+2018B130 3C063F80
+D0000000 10008000
+2018B130 3C063FC0
+
+// Inf. HP/MP
+Author = libretro-database contributors / original PSP cheat authors
+502F6D10 00000002
+002F6D18 00000000
+502F6AEE 00000002
+002F6AF0 00000000
+502F6D14 00000002
+002F6D1C 00000000
+
+// Key Item Full Open
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000001E
+28AF5F90 00000001
+DC000000 00000008
+D2000000 00000000
+
+// Key Item Full Open v2
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000001E
+202F5F90 00000001
+DC000000 00000008
+D2000000 00000000
+
+// Map Open
+Author = libretro-database contributors / original PSP cheat authors
+200C6DC0 00000000
+200C71A8 10000007
+200C7578 00000000
+200C76F8 10000006
+200C77A0 10000006
+200C79A8 00000000
+
+// Master MP 9999
+Author = libretro-database contributors / original PSP cheat authors
+502F6AEE 00000008
+002F6AF0 00000000
+102F6AEE 0000270F
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+202F5E88 0098967F
+
+// Next Exp. 0
+Author = libretro-database contributors / original PSP cheat authors
+202431D0 00000000
+
+// Untitled cheat 33
+Author = libretro-database contributors / original PSP cheat authors
+20001220 00040000
+20001224 00060009
+20001228 00079000
+2000122C 0008B000
+20001230 0009A000
+20001234 000A3000
+20001238 000B2000
+2000123C 000C0001
+20001240 000D0008
+20001244 000F9009
+20001248 00128001
+2000124C 00131008
+20001250 00142001
+20001254 00142008
+20001258 00158000
+2000125C 00161000
+20001260 00179001
+20001264 00189008
+20001268 00198008
+2000126C 001A1001
+20001270 001B8009
+20001274 001D1009
+
+// Untitled cheat 34
+Author = libretro-database contributors / original PSP cheat authors
+20001220 00040000
+20001224 00060009
+20001228 00079000
+2000122C 0008B000
+20001230 0009A000
+20001234 000A3000
+20001238 000B2000
+2000123C 000C0001
+20001240 000D0008
+20001244 000F9009
+20001248 00138001
+2000124C 00141008
+20001250 00162001
+20001254 00182008
+20001258 00198000
+2000125C 001A1000
+20001260 001B9001
+20001264 001C9008
+20001268 00228008
+2000126C 00231001
+20001270 00248009
+20001274 00251009
+
+// Pose Change 1/2
+Author = libretro-database contributors / original PSP cheat authors
+200FF3A4 0A2004C0
+200FF3A8 27A40040
+20001300 D8870000
+20001304 3C0208B6
+20001308 8C435650
+2000130C 10600030
+20001310 34020001
+20001314 806305E7
+20001318 1443002D
+2000131C 3C0208B6
+20001320 94454434
+20001324 3C060001
+20001328 3C070880
+2000132C D8404410
+20001330 DFE01B2B
+20001334 64600040
+20001338 64602000
+2000133C 8CE31220
+20001340 7C623C00
+20001344 28480026
+20001348 0108100A
+2000134C 28480004
+20001350 1500001F
+20001354 7C683C00
+20001358 1517001A
+200013D0 0A23FCEB
+200013D4 00000000
+
+// Pose Change 2/2
+Author = libretro-database contributors / original PSP cheat authors
+2000135C 3063FFFF
+20001360 30A2F00F
+20001364 14430009
+20001368 D8C71100
+2000136C 30A80020
+20001370 15000005
+20001374 DFA01C18
+20001378 30A80080
+2000137C 15000002
+20001380 DFA09C18
+20001384 D0060020
+20001388 60078007
+2000138C 38A80340
+20001390 51000001
+20001394 D0068087
+20001398 64878700
+2000139C 64000020
+200013A0 D0470080
+200013A4 D0070020
+200013A8 D0060040
+200013AC 34080004
+200013B0 11170003
+200013B4 60802067
+200013B8 6C406706
+200013BC 49030001
+200013C0 F8C71100
+200013C4 24E70004
+200013C8 1000FFDC
+200013CC 24C60010
+
+// Recovery Item x99
+Author = libretro-database contributors / original PSP cheat authors
+802F5EE0 00040008
+00000063 00000000
+802F5F08 00110008
+
+// Recovery Item x99 v2
+Author = libretro-database contributors / original PSP cheat authors
+28AF5F88 00000063
+C0000000 00000003
+28AF5EE0 00000063
+DC000000 00000008
+D2000000 00000000
+C0000000 0000000E
+28AF5F08 00000063
+
+// Recovery Item x99 v3
+Author = libretro-database contributors / original PSP cheat authors
+202F5F88 00000063
+C0000000 00000003
+202F5EE0 00000063
+DC000000 00000008
+D2000000 00000000
+C0000000 0000000E
+202F5F08 00000063
+
+// Recovery/Key
+Author = libretro-database contributors / original PSP cheat authors
+802F5EE0 00040008
+00000063 00000000
+802F5F08 00110008
+802F5F90 001F0008
+802F61A0 00020008
+
+// Save In All Place
+Author = libretro-database contributors / original PSP cheat authors
+2009BE24 00000000
+
+// Shitadekaifuku & Equipment Items Kai Zen [+Select]
+Author = libretro-database contributors / original PSP cheat authors
+20265E34 00000041
+202429A4 00000063
+202429AC 00000063
+202429B4 00000063
+202429CC 00000063
+202429D4 00000063
+202429DC 00000063
+202429E4 00000063
+202429EC 00000063
+202429F4 00000063
+202429FC 00000063
+20242A04 00000063
+20242A14 00000063
+20242A1C 00000063
+20242A24 00000063
+20242A2C 00000063
+20242A3C 00000063
+20242A44 00000063
+C0000000 0000001E
+20242DA4 00000063
+20242DAC 00000063
+DC000000 00000008
+D2000000 00000000
+
+// Servant HP 9999
+Author = libretro-database contributors / original PSP cheat authors
+502F6D10 00000002
+002F6D18 00000000
+102F6D10 0000270F
+
+// Servant MP 9999
+Author = libretro-database contributors / original PSP cheat authors
+502F6D14 00000002
+002F6D1C 00000000
+102F6D14 0000270F
+
+// Servant Skills Cost 0 MP
+Author = libretro-database contributors / original PSP cheat authors
+2002524C 00009821
+
+// SG Open
+Author = libretro-database contributors / original PSP cheat authors
+70328E51 000000F8
+70328E52 000103D9
+70328EC8 0001FFF0
+10328ECA 0000FFFF
+00328ECC 000000FF
+
+// Show Enemy Patterns
+Author = libretro-database contributors / original PSP cheat authors
+2005C8BC 00000000
+
+// Stealth
+Author = libretro-database contributors / original PSP cheat authors
+200164A4 100001E0
+20135388 10000012
+D0000001 10000008
+200164A4 144001E0
+20135388 10800012
+
+// Uedeshojikin [Select+Max]
+Author = libretro-database contributors / original PSP cheat authors
+20265E34 00000011
+2024294C 0098967F
+D2000000 00000000
+
+// Uniform Full Open
+Author = libretro-database contributors / original PSP cheat authors
+202F6148 00000001
+202F6158 00000001
+202F6160 00000001
+202F6178 00000001
+202F6180 00000001
+202F618C 00000001
+202F6190 00000001
+
+// Servant Archer
+Author = libretro-database contributors / original PSP cheat authors
+002F5E3C 00000012
+
+// Servant Caster
+Author = libretro-database contributors / original PSP cheat authors
+002F5E3C 00000013
+
+// Servant Gilgamesh
+Author = libretro-database contributors / original PSP cheat authors
+002F5E3C 00000014
+
+// Servant Lancer
+Author = libretro-database contributors / original PSP cheat authors
+002F5E3C 00000026
+
+// Servant Saber
+Author = libretro-database contributors / original PSP cheat authors
+002F5E3C 00000011

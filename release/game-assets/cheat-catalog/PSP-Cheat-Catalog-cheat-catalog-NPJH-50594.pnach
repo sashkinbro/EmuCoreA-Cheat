@@ -1,0 +1,224 @@
+# PSP cheat pack
+# Serial: NPJH-50594
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 0 Out Strike 2 [Press Select+↑]
+Author = libretro-database contributors / original PSP cheat authors
+99FFF574 00000011
+29182978 00000002
+2918297C 00000000
+29182980 00000000
+D2000000 00000000
+
+// 1 Out Strike 2 [Press Select+←]
+Author = libretro-database contributors / original PSP cheat authors
+99FFF574 00000081
+29182978 00000002
+2918297C 00000000
+29182980 00000001
+D2000000 00000000
+
+// 2 Out Strike 2 [Press Select+↓]
+Author = libretro-database contributors / original PSP cheat authors
+99FFF574 00000041
+29182978 00000002
+2918297C 00000000
+29182980 00000002
+D2000000 00000000
+
+// 0 Strike 0 Ball 0 Out [Press L+△]
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10001100
+00982978 00000000
+0098297C 00000000
+00982980 00000000
+
+// 0 Strike 3 Ball [Press L+□]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10008100
+00982978 00000000
+0098297C 00000003
+
+// 2 Strike 0 Ball [Press L+R]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000300
+00982978 00000002
+0098297C 00000000
+
+// Book (Only Intimidating)
+Author = libretro-database contributors / original PSP cheat authors
+29189486 00000009
+
+// Condition Max
+Author = libretro-database contributors / original PSP cheat authors
+10A879FE 000001F4
+
+// Evaluation Of People Around Max
+Author = libretro-database contributors / original PSP cheat authors
+00A87A51 000000C8
+00A87A69 000000C8
+00A87A75 000000C8
+00A87A81 000000C8
+00A87A8D 000000C8
+00A87A99 000000C8
+00A87AA5 000000C8
+00A87AB1 000000C8
+00A87ABD 000000C8
+00A87AC9 000000C8
+00A87AD5 000000C8
+00A87AE1 000000C8
+00A87B05 000000C8
+00A87B11 000000C8
+00A87B89 000000C8
+
+// Handheld Items (Consumption)
+Author = libretro-database contributors / original PSP cheat authors
+291A2AD1 00000009
+291A2AD5 00000009
+291A2AD9 00000009
+291A2ADA 00000009
+291A2ADB 00000009
+291A2ADC 00000009
+291A2ADD 00000009
+291A2ADE 00000009
+
+// Lastweek [Press L+↑]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000110
+0098C544 00000004
+0098C546 00000009
+0098C547 00000002
+
+// My Life Home: Apartment
+Author = libretro-database contributors / original PSP cheat authors
+00A880C5 00000002
+
+// My Life Home: Japanese Style
+Author = libretro-database contributors / original PSP cheat authors
+00A880C5 00000003
+
+// My Life Home: Laos
+Author = libretro-database contributors / original PSP cheat authors
+00A880C5 00000000
+
+// My Life Home: Mansion & Wind
+Author = libretro-database contributors / original PSP cheat authors
+00A880C5 00000005
+
+// My Life Home: Mansion Western
+Author = libretro-database contributors / original PSP cheat authors
+00A880C5 00000006
+
+// My Life Home: Rent
+Author = libretro-database contributors / original PSP cheat authors
+00A880C5 00000001
+
+// My Life Home: Western Style
+Author = libretro-database contributors / original PSP cheat authors
+00A880C5 00000004
+
+// Physical Strength Max
+Author = libretro-database contributors / original PSP cheat authors
+1098D468 00000064
+
+// Point Max
+Author = libretro-database contributors / original PSP cheat authors
+8098D46C 00050001
+100003E7 00000000
+
+// Possession 999 Million Yen [Press Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000001
+20A88078 0001869F
+
+// Right In The Middle
+Author = libretro-database contributors / original PSP cheat authors
+20114390 3C080000
+2011439C 3C0940C0
+
+// Scout Max
+Author = libretro-database contributors / original PSP cheat authors
+20996A20 000000C8
+
+// Special Item
+Author = libretro-database contributors / original PSP cheat authors
+291A2AF3 00000001
+291A2AF4 00000001
+291A2AF5 00000001
+
+// Stat: Agility Points 999
+Author = libretro-database contributors / original PSP cheat authors
+1098D46E 000003E7
+
+// Stat: Changing Ball Point 999
+Author = libretro-database contributors / original PSP cheat authors
+1098D472 000003E7
+
+// Stat: Spirit Points 999
+Author = libretro-database contributors / original PSP cheat authors
+1098D474 000003E7
+
+// Stat: Strength Points 999
+Author = libretro-database contributors / original PSP cheat authors
+1098D46C 000003E7
+
+// Stat: Technology Points 999
+Author = libretro-database contributors / original PSP cheat authors
+1098D470 000003E7
+
+// Teammate Evaluation Max (1/2)
+Author = libretro-database contributors / original PSP cheat authors
+00A8B62E 000000C8
+00A8B752 000000C8
+00A8B876 000000C8
+00A8B99A 000000C8
+00A8BABE 000000C8
+00A8BBE2 000000C8
+00A8BD06 000000C8
+00A8BE2A 000000C8
+00A8BF4E 000000C8
+00A8C072 000000C8
+00A8C196 000000C8
+00A8C2BA 000000C8
+00A8C3DE 000000C8
+00A8C502 000000C8
+00A8C626 000000C8
+00A8C74A 000000C8
+00A8C86E 000000C8
+00A8C992 000000C8
+00A8CAB6 000000C8
+00A8CBDA 000000C8
+
+// Teammate Evaluation Max (2/2)
+Author = libretro-database contributors / original PSP cheat authors
+00A8CCFE 000000C8
+00A8CE22 000000C8
+00A8CF46 000000C8
+00A8D06A 000000C8
+00A8D18E 000000C8
+00A8D2B2 000000C8
+00A8D3D6 000000C8
+00A8D4FA 000000C8
+00A8D61E 000000C8
+00A8D742 000000C8
+00A8D866 000000C8
+00A8D98A 000000C8
+00A8DAAE 000000C8
+00A8DBD2 000000C8
+00A8DCF6 000000C8
+00A8DE1A 000000C8
+00A8DF3E 000000C8
+00A8E062 000000C8
+00A8E186 000000C8
+00A8E2AA 000000C8
+
+// Toushu All S
+Author = libretro-database contributors / original PSP cheat authors
+1098D2CC 0000325A
+0098D2CE 00000039
+
+// Yashu All S
+Author = libretro-database contributors / original PSP cheat authors
+2098D2C0 0C993264
+1098D2C4 00003264
+0098D2CB 000000C4
