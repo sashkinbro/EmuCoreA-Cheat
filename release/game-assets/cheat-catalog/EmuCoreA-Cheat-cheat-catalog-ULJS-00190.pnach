@@ -1,0 +1,370 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULJS-00190
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Act. Again (Press Square)
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10008000
+801D7C5D 00200150
+00000004 00000000
+
+// AP All
+Author = libretro-database contributors / original PSP cheat authors
+401D7C08 00040054
+00FF0000 00000000
+
+// CG All
+Author = libretro-database contributors / original PSP cheat authors
+001990D9 000000FF
+101990DA 0000FFFF
+101990DC 0000FFFF
+
+// Costume All
+Author = libretro-database contributors / original PSP cheat authors
+00199339 0000000F
+
+// Demo All
+Author = libretro-database contributors / original PSP cheat authors
+101990EC 0000FFFF
+
+// Enemy Armor HP1 Arm
+Author = libretro-database contributors / original PSP cheat authors
+401D8964 000A0054
+00000001 00000000
+
+// Enemy Armor HP1 Arm (L+Up)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000110
+401D8964 000A0054
+00000001 00000000
+
+// Enemy Armor HP1 Bust
+Author = libretro-database contributors / original PSP cheat authors
+401D8960 000A0054
+00000001 00000000
+
+// Enemy Armor HP1 Bust (L+Up)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000110
+401D8960 000A0054
+00000001 00000000
+
+// Enemy Armor HP1 Head
+Author = libretro-database contributors / original PSP cheat authors
+401D895C 000A0054
+00000001 00000000
+
+// Enemy Armor HP1 Head (L+Up)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000110
+401D895C 000A0054
+00000001 00000000
+
+// Enemy Armor HP1 Hip
+Author = libretro-database contributors / original PSP cheat authors
+401D8968 000A0054
+00000001 00000000
+
+// Enemy Armor HP1 Hip (L+Up)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000110
+401D8968 000A0054
+00000001 00000000
+
+// Enemy Armor HP1 Leg
+Author = libretro-database contributors / original PSP cheat authors
+401D896C 000A0054
+00000001 00000000
+
+// Enemy Armor HP1 Leg (L+Up)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000110
+401D896C 000A0054
+00000001 00000000
+
+// Enemy Unit Weakness [Up + Shikaku]
+Author = libretro-database contributors / original PSP cheat authors
+20001098 0A22D709
+D0000000 10008010
+2007EC88 0E200418
+D0000000 10008040
+2007EC88 0E22D709
+20001060 3C013000
+20001064 AC810048
+20001068 3C013000
+2000106C AC81004C
+20001070 AC810050
+20001074 AC810054
+20001078 AC810058
+2000107C AC81005C
+20001080 2401270F
+20001084 A4810018
+20001088 2401270F
+2000108C A4810014
+20001090 A4800016
+
+// Exp.
+Author = libretro-database contributors / original PSP cheat authors
+8017ACDA 002700B8
+00002710 00000000
+
+// Free Clock
+Author = libretro-database contributors / original PSP cheat authors
+00199310 00000000
+
+// Free Talk
+Author = libretro-database contributors / original PSP cheat authors
+00199310 00000000
+
+// Friend Unit Def. Up
+Author = libretro-database contributors / original PSP cheat authors
+200724BC 80820068
+200724C0 30420007
+200724C4 54400006
+200724D0 3C020000
+
+// Friend Unit Kakusei
+Author = libretro-database contributors / original PSP cheat authors
+20071CA8 00000000
+20071CB4 80820068
+20071CB8 30420007
+20071CBC 54400005
+200723DC 00000000
+200723E8 80820068
+200723EC 30420007
+200723F0 54400005
+
+// Friend Unit Move 99
+Author = libretro-database contributors / original PSP cheat authors
+200C1DBC 82020068
+200C1DC0 30420007
+200C1DC4 54400005
+200C1DD0 34020063
+
+// Friend Unit Recover [Up + Shikaku]
+Author = libretro-database contributors / original PSP cheat authors
+20001050 0A2306E5
+2007F274 0E200400
+20001000 3C013F80
+20001004 AC810048
+20001008 3C013F80
+2000100C AC81004C
+20001010 AC810050
+20001014 AC810054
+20001018 AC810058
+2000101C AC81005C
+20001020 A4800018
+20001024 A4800014
+20001028 24012710
+2000102C A4810016
+20001030 9082006D
+20001034 304200F7
+20001038 A082006D
+
+// Friend Unit S Range 99
+Author = libretro-database contributors / original PSP cheat authors
+200C2650 82020068
+200C2654 30420007
+200C2658 54400005
+200C2664 34020063
+
+// Friend Unit Yamigakure
+Author = libretro-database contributors / original PSP cheat authors
+20071C64 80820068
+20071C68 30420007
+20071C6C 54400003
+200C8808 80820068
+200C880C 30420007
+200C8810 104001C5
+
+// Get Exp. 100
+Author = libretro-database contributors / original PSP cheat authors
+20244150 00000064
+
+// Get Exp. 10000
+Author = libretro-database contributors / original PSP cheat authors
+20244150 00002710
+
+// Have All CG
+Author = libretro-database contributors / original PSP cheat authors
+201990D9 000000FF
+201990DA 0000FFFF
+201990DC 0000FFFF
+
+// Have All Costumes
+Author = libretro-database contributors / original PSP cheat authors
+20199339 0000000F
+
+// Have All Demos
+Author = libretro-database contributors / original PSP cheat authors
+201990EC 0000FFFF
+
+// Have All Items
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000004F
+20199350 00000032
+DC000000 00000001
+D2000000 00000000
+
+// Have All Items v2
+Author = libretro-database contributors / original PSP cheat authors
+20199350 00000001
+00000032 00000000
+
+// Have All JukeBox
+Author = libretro-database contributors / original PSP cheat authors
+201990C4 0000FFFF
+201990C6 0000007F
+
+// HP All
+Author = libretro-database contributors / original PSP cheat authors
+401D7C38 00040054
+3F800000 00000000
+
+// Inf. AP
+Author = libretro-database contributors / original PSP cheat authors
+401D7C08 00040054
+00FF0000 00000000
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+401D7C38 00040054
+3F800000 00000000
+
+// Inf. SP
+Author = libretro-database contributors / original PSP cheat authors
+401D7C04 00200054
+25960000 00000000
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+201992E8 05F5E0FF
+201B7938 05F5E0FF
+
+// Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+2023D350 000003E7
+
+// Infinite Upgrade Pts. [On/Off]
+Author = libretro-database contributors / original PSP cheat authors
+0023B41C 00000001
+
+// Infinity Move
+Author = libretro-database contributors / original PSP cheat authors
+2007F260 24020000
+
+// Item All
+Author = libretro-database contributors / original PSP cheat authors
+40199350 00120001
+62626262 00000000
+
+// Juke Box All
+Author = libretro-database contributors / original PSP cheat authors
+101990C4 0000FFFF
+001990C6 0000007F
+
+// Kill Count
+Author = libretro-database contributors / original PSP cheat authors
+001992E4 000003FF
+
+// Max Experience
+Author = libretro-database contributors / original PSP cheat authors
+20244150 00000064
+
+// Money 99999
+Author = libretro-database contributors / original PSP cheat authors
+201992E8 0001869F
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+201992E8 05F5E0FF
+
+// Partner ArmorHP1 Arm
+Author = libretro-database contributors / original PSP cheat authors
+401D7C44 00090054
+00000001 00000000
+
+// Partner ArmorHP1 Arm (L+Down)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000140
+401D7C44 00090054
+00000001 00000000
+
+// Partner ArmorHP1 bust
+Author = libretro-database contributors / original PSP cheat authors
+401D7C40 00090054
+00000001 00000000
+
+// Partner ArmorHP1 bust (L+Down)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000140
+401D7C40 00090054
+00000001 00000000
+
+// Partner ArmorHP1 Head
+Author = libretro-database contributors / original PSP cheat authors
+401D7C3C 00090054
+00000001 00000000
+
+// Partner ArmorHP1 Head (L+Down)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000140
+401D7C3C 00090054
+
+// Partner ArmorHP1 Hip
+Author = libretro-database contributors / original PSP cheat authors
+401D7C48 00090054
+00000001 00000000
+
+// Partner ArmorHP1 Hip (L+Down)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000140
+401D7C48 00090054
+00000001 00000000
+
+// Partner ArmorHP1 leg
+Author = libretro-database contributors / original PSP cheat authors
+401D7C4C 00090054
+00000001 00000000
+
+// Partner ArmorHP1 leg (L+Down)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000140
+401D7C4C 00090054
+00000001 00000000
+
+// React
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10008000
+801D7C5D 00200150
+00000004 00000000
+
+// Saikoudou
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10008000
+801D7C5D 00200150
+00000004 00000000
+
+// SP All
+Author = libretro-database contributors / original PSP cheat authors
+401D7C04 00200054
+25960000 00000000
+
+// SP Chara. All
+Author = libretro-database contributors / original PSP cheat authors
+40199084 00080001
+FFFFFFFF 00000000
+
+// Special All
+Author = libretro-database contributors / original PSP cheat authors
+101990EC 0000FFFF
+201990C4 FFFFFFFF
+201990D8 FFFFFFFF
+201990DC FFFFFFFF
+80199084 00100002
+100000FF 00000000
+
+// Top 4 Char. Exp.
+Author = libretro-database contributors / original PSP cheat authors
+8017ACDA 0004005C
+10002710 00000000

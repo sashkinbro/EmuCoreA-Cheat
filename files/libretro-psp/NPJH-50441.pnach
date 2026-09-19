@@ -1,0 +1,383 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPJH-50441
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1P Made A Baoa Kuu
+Author = libretro-database contributors / original PSP cheat authors
+80D7C44C 00040001
+10000000 00000000
+
+// 1P Made Anshou Kuuiki
+Author = libretro-database contributors / original PSP cheat authors
+80D7C9A4 00040001
+10000000 00000000
+
+// 1P Made Axis
+Author = libretro-database contributors / original PSP cheat authors
+80D7C7DC 00040001
+10000000 00000000
+
+// 1P Made BERUFASUTO
+Author = libretro-database contributors / original PSP cheat authors
+80D7BFD8 00040001
+10000000 00000000
+
+// 1P Made California
+Author = libretro-database contributors / original PSP cheat authors
+80D7B8B8 00040001
+10000000 00000000
+
+// 1P Made Dakar
+Author = libretro-database contributors / original PSP cheat authors
+80D7C0BC 00040001
+10000000 00000000
+
+// 1P Made GRIPS2
+Author = libretro-database contributors / original PSP cheat authors
+80D7C8C0 00040001
+10000000 00000000
+
+// 1P Made Guranada
+Author = libretro-database contributors / original PSP cheat authors
+80D7C530 00040001
+10000000 00000000
+
+// 1P Made Hawai
+Author = libretro-database contributors / original PSP cheat authors
+80D7BB64 00040001
+10000000 00000000
+
+// 1P Made Jaburo
+Author = libretro-database contributors / original PSP cheat authors
+80D7BA80 00040001
+10000000 00000000
+
+// 1P Made Kirimanjaro
+Author = libretro-database contributors / original PSP cheat authors
+80D7C1A0 00040001
+10000000 00000000
+
+// 1P Made LUNA2
+Author = libretro-database contributors / original PSP cheat authors
+80D7C284 00040001
+10000000 00000000
+
+// 1P Made Madorasu
+Author = libretro-database contributors / original PSP cheat authors
+80D7BE10 00040001
+10000000 00000000
+
+// 1P Made Newyork
+Author = libretro-database contributors / original PSP cheat authors
+80D7B99C 00040001
+10000000 00000000
+
+// 1P Made Odessa
+Author = libretro-database contributors / original PSP cheat authors
+80D7BEF4 00040001
+10000000 00000000
+
+// 1P Made Pekin
+Author = libretro-database contributors / original PSP cheat authors
+80D7BD2C 00040001
+10000000 00000000
+
+// 1P Made SIDE3
+Author = libretro-database contributors / original PSP cheat authors
+80D7C6F8 00040001
+10000000 00000000
+
+// 1P Made Solomon
+Author = libretro-database contributors / original PSP cheat authors
+80D7C368 00040001
+10000000 00000000
+
+// 1P Made Sweet Water
+Author = libretro-database contributors / original PSP cheat authors
+80D7C614 00040001
+10000000 00000000
+
+// 1P Made Torinton
+Author = libretro-database contributors / original PSP cheat authors
+80D7BC48 00040001
+10000000 00000000
+
+// Achievement x2 Times
+Author = libretro-database contributors / original PSP cheat authors
+2003D464 0A200418
+20001060 90E20048
+20001064 14400003
+20001068 24050002
+2000106C 00A30018
+20001070 00001812
+20001074 0A20F51B
+20001078 90E2004B
+
+// Achievement x4 Times
+Author = libretro-database contributors / original PSP cheat authors
+2003D464 0A200418
+20001060 90E20048
+20001064 14400003
+20001068 24050004
+2000106C 00A30018
+20001070 00001812
+20001074 0A20F51B
+20001078 90E2004B
+
+// Achievement x8 Times
+Author = libretro-database contributors / original PSP cheat authors
+2003D464 0A200418
+20001060 90E20048
+20001064 14400003
+20001068 24050008
+2000106C 00A30018
+20001070 00001812
+20001074 0A20F51B
+20001078 90E2004B
+
+// Achievement x16 Times
+Author = libretro-database contributors / original PSP cheat authors
+2003D464 0A200418
+20001060 90E20048
+20001064 14400003
+20001068 24050010
+2000106C 00A30018
+20001070 00001812
+20001074 0A20F51B
+20001078 90E2004B
+
+// Achievement x32 Times
+Author = libretro-database contributors / original PSP cheat authors
+2003D464 0A200418
+20001060 90E20048
+20001064 14400003
+20001068 24050020
+2000106C 00A30018
+20001070 00001812
+20001074 0A20F51B
+20001078 90E2004B
+
+// Achievement x64 Times
+Author = libretro-database contributors / original PSP cheat authors
+2003D464 0A200418
+20001060 90E20048
+20001064 14400003
+20001068 24050040
+2000106C 00A30018
+20001070 00001812
+20001074 0A20F51B
+20001078 90E2004B
+
+// ADEQUACY Tech Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+00D3F6EB 00000014
+
+// All Enemy Machine HP 1
+Author = libretro-database contributors / original PSP cheat authors
+80D492BA 026C0020
+10000001 00000000
+
+// All Our Pilots
+Author = libretro-database contributors / original PSP cheat authors
+80D5C8E4 00FF0032
+10000000 00000000
+
+// All Unit Energy 9000
+Author = libretro-database contributors / original PSP cheat authors
+80D3F7BE 026B0020
+10002328 00000000
+
+// All Unit HP 9000
+Author = libretro-database contributors / original PSP cheat authors
+80D3F7BA 026B0020
+10002328 00000000
+
+// APPROVAL Level Best
+Author = libretro-database contributors / original PSP cheat authors
+00D3F6F4 00000064
+
+// APPROVAL Level Normal
+Author = libretro-database contributors / original PSP cheat authors
+20D3F6F4 00000032
+
+// APPROVAL Level Worst
+Author = libretro-database contributors / original PSP cheat authors
+00D3F6F4 00000000
+
+// Army Fatigue 0
+Author = libretro-database contributors / original PSP cheat authors
+80D3F7B8 026B0040
+
+// Army Morale 100
+Author = libretro-database contributors / original PSP cheat authors
+80D3F7B9 026B0040
+00000064 00000000
+
+// BASIC Tech Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+00D3F6E8 00000014
+
+// Capital
+Author = libretro-database contributors / original PSP cheat authors
+20D3F6D8 0098967F
+
+// Complete All Development Plan
+Author = libretro-database contributors / original PSP cheat authors
+80D6278A 015F0004
+00000001 00000000
+
+// Complete PRODUCTION List Immediately
+Author = libretro-database contributors / original PSP cheat authors
+80D7A024 00080001
+
+// Development Plan Comp
+Author = libretro-database contributors / original PSP cheat authors
+80D62788 015F0004
+00000003 00000000
+
+// Enemy Fatigue 100
+Author = libretro-database contributors / original PSP cheat authors
+80D492B8 026C0040
+00000064 00000000
+
+// Enemy Morale 0
+Author = libretro-database contributors / original PSP cheat authors
+80D492B9 026C0040
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+2003D484 0A200400
+2003D488 96020086
+20001000 80E30048
+20001004 14600003
+20001008 24054000
+2000100C 00A20018
+20001010 00001012
+20001014 0A20F523
+20001018 94E3004C
+
+// Even State MSMA Produce Limit Off
+Author = libretro-database contributors / original PSP cheat authors
+80E3F8FA 00B30068
+00000063 00000000
+80E49222 00030068
+
+// Influence
+Author = libretro-database contributors / original PSP cheat authors
+20D3F6D4 0098967F
+
+// Influence Point x2 Times
+Author = libretro-database contributors / original PSP cheat authors
+20023864 0A20040C
+20001030 04A00003
+20001034 24030002
+20001038 00A30018
+2000103C 00002812
+20001040 0A208E1B
+20001044 3C030098
+
+// Influence Point x4 Times
+Author = libretro-database contributors / original PSP cheat authors
+20023864 0A20040C
+20001030 04A00003
+20001034 24030004
+20001038 00A30018
+2000103C 00002812
+20001040 0A208E1B
+20001044 3C030098
+
+// Influence Point x8 Times
+Author = libretro-database contributors / original PSP cheat authors
+20023864 0A20040C
+20001030 04A00003
+20001034 24030008
+20001038 00A30018
+2000103C 00002812
+20001040 0A208E1B
+20001044 3C030098
+
+// Influence Point x16 Times
+Author = libretro-database contributors / original PSP cheat authors
+20023864 0A20040C
+20001030 04A00003
+20001034 24030010
+20001038 00A30018
+2000103C 00002812
+20001040 0A208E1B
+20001044 3C030098
+
+// Influence Point x32 Times
+Author = libretro-database contributors / original PSP cheat authors
+20023864 0A20040C
+20001030 04A00003
+20001034 24030020
+20001038 00A30018
+2000103C 00002812
+20001040 0A208E1B
+20001044 3C030098
+
+// Influence Point x64 Times
+Author = libretro-database contributors / original PSP cheat authors
+20023864 0A20040C
+20001030 04A00003
+20001034 24030040
+20001038 00A30018
+2000103C 00002812
+20001040 0A208E1B
+20001044 3C030098
+
+// Intelligence
+Author = libretro-database contributors / original PSP cheat authors
+00D3F6F0 00000064
+
+// Intervention Point
+Author = libretro-database contributors / original PSP cheat authors
+20D2AD78 0098967F
+
+// MA Tech Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+00D3F6EA 00000014
+
+// MS Tech Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+00D3F6E9 00000014
+
+// Own Soldiers Morale 100
+Author = libretro-database contributors / original PSP cheat authors
+80D3F7B9 00FA0040
+00000064 00000000
+
+// Precaution Level E
+Author = libretro-database contributors / original PSP cheat authors
+00D3F6F2 00000000
+
+// Research Level S
+Author = libretro-database contributors / original PSP cheat authors
+00D3F6F1 00000064
+
+// Resource
+Author = libretro-database contributors / original PSP cheat authors
+20D3F6DC 0098967F
+
+// Tec. Level All Max
+Author = libretro-database contributors / original PSP cheat authors
+80D3F6E8 00040001
+00000014 00000000
+
+// World Opinion Best
+Author = libretro-database contributors / original PSP cheat authors
+00D3F6F3 00000064
+
+// World Opinion Normal
+Author = libretro-database contributors / original PSP cheat authors
+20D3F6F3 00000032
+
+// World Opinion Worst
+Author = libretro-database contributors / original PSP cheat authors
+00D3F6F3 00000000
+
+// Zion MSMA Produce Limit Off
+Author = libretro-database contributors / original PSP cheat authors
+80E441B2 00C60068
+00000063 00000000
+80E4935A 00170068

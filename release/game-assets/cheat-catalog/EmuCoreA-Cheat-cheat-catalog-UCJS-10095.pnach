@@ -1,0 +1,283 @@
+# EmuCoreA PSP cheat pack
+# Serial: UCJS-10095
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// \50 Game Credit 5
+Author = libretro-database contributors / original PSP cheat authors
+0140A4CA 00000005
+0140A60C 00000005
+0141B823 00000005
+0141B8B6 00000005
+0141B8BB 00000005
+0142BB6B 00000005
+0142BB6D 00000005
+0142BB6F 00000005
+0142BB75 00000005
+
+// Boku Meter Max
+Author = libretro-database contributors / original PSP cheat authors
+20969B74 41400000
+
+// Breath Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+20760174 41400000
+
+// Empty Bottle
+Author = libretro-database contributors / original PSP cheat authors
+20969BBC 00000BB8
+
+// Fishing
+Author = libretro-database contributors / original PSP cheat authors
+20969BAC 0000001E
+
+// Game High Score
+Author = libretro-database contributors / original PSP cheat authors
+20969BC4 0000C350
+
+// Infinite Continue
+Author = libretro-database contributors / original PSP cheat authors
+0141B7D9 00000001
+
+// Infinite Credit
+Author = libretro-database contributors / original PSP cheat authors
+0141B8B6 00000099
+
+// Insect Collecting
+Author = libretro-database contributors / original PSP cheat authors
+20969BA8 00000096
+
+// Money 9999
+Author = libretro-database contributors / original PSP cheat authors
+20969B78 0000270F
+
+// Monkeshi
+Author = libretro-database contributors / original PSP cheat authors
+20969BB0 0000001E
+
+// Picture Diary
+Author = libretro-database contributors / original PSP cheat authors
+20969BA4 000000AA
+
+// Score Max
+Author = libretro-database contributors / original PSP cheat authors
+2141B818 00999909
+
+// Sun Tan
+Author = libretro-database contributors / original PSP cheat authors
+20969BC0 00000007
+
+// Taiko De Tatsujin
+Author = libretro-database contributors / original PSP cheat authors
+2073FD50 00000064
+
+// Test Word
+Author = libretro-database contributors / original PSP cheat authors
+20969BB8 0000001A
+
+// Verming Sumo
+Author = libretro-database contributors / original PSP cheat authors
+20969BB4 00020001
+
+// 8/1
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000001
+
+// 8/2
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000002
+
+// 8/3
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000003
+
+// 8/4
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000004
+
+// 8/5
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000005
+
+// 8/6
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000006
+
+// 8/7
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000007
+
+// 8/8
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000008
+
+// 8/9
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000009
+
+// 8/10
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 0000000A
+
+// 8/11
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 0000000B
+
+// 8/12
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 0000000C
+
+// 8/13
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 0000000D
+
+// 8/14
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 0000000E
+
+// 8/15
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 0000000F
+
+// 8/16
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000010
+
+// 8/17
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000011
+
+// 8/18
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000012
+
+// 8/19
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000013
+
+// 8/20
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000014
+
+// 8/21
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000015
+
+// 8/22
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000016
+
+// 8/23
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000017
+
+// 8/24
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000018
+
+// 8/25
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 00000019
+
+// 8/26
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 0000001A
+
+// 8/27
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 0000001B
+
+// 8/28
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 0000001C
+
+// 8/29
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 0000001D
+
+// 8/30
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 0000001E
+
+// 8/31
+Author = libretro-database contributors / original PSP cheat authors
+00969B5C 0000001F
+
+// 00:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 0000000C
+002BF91E 00000000
+
+// 01:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 0000000D
+002BF91E 00000000
+
+// 02:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 0000000E
+002BF91E 00000000
+
+// 03:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 0000000F
+002BF91E 00000000
+
+// 04:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 00000010
+002BF91E 00000000
+
+// 05:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 00000011
+002BF91E 00000000
+
+// 06:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 00000012
+002BF91E 00000000
+
+// 07:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 00000013
+002BF91E 00000000
+
+// 08:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 00000008
+002BF91E 00000000
+
+// 08:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 00000014
+002BF91E 00000000
+
+// 09:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 00000009
+002BF91E 00000000
+
+// 09:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 00000015
+002BF91E 00000000
+
+// 10:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 0000000A
+002BF91E 00000000
+
+// 10:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 00000016
+002BF91E 00000000
+
+// 11:00 AM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 0000000B
+002BF91E 00000000
+
+// 11:00 PM
+Author = libretro-database contributors / original PSP cheat authors
+002BF91D 00000017
+002BF91E 00000000

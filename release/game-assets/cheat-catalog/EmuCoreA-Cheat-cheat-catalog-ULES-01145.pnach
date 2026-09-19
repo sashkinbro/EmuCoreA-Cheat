@@ -1,0 +1,258 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-01145
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 20 FPS
+Author = libretro-database contributors / original PSP cheat authors
+6044266C 00000003
+00000001 0000028C
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+6044266C 00000002
+00000001 0000028C
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+6044266C 00000001
+00000001 0000028C
+
+// Force 20 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2088C03C 00000003
+
+// Force 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2088C03C 00000002
+
+// Force 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2088C03C 00000001
+
+// 000,000,000 Career Cash
+Author = libretro-database contributors / original PSP cheat authors
+20A711F8 05F5E100
+
+// 2 M. Reward/Unlock All (Items/Cars After Get A Reward)
+Author = libretro-database contributors / original PSP cheat authors
+20A71200 001E8480
+
+// AI [Disabled]
+Author = libretro-database contributors / original PSP cheat authors
+20257F1C 00000000
+
+// AI [Enabled]
+Author = libretro-database contributors / original PSP cheat authors
+20257F1C 00000001
+
+// All Cars Purchased
+Author = libretro-database contributors / original PSP cheat authors
+20A6A578 FFFFFFFF
+20A6A57C 0000FFFF
+
+// Break Money
+Author = libretro-database contributors / original PSP cheat authors
+00A9DCE0 000F4240
+
+// Fastest Speed Driven
+Author = libretro-database contributors / original PSP cheat authors
+20A774F4 71022000
+
+// Inf. Bounty (10M & Unlocks Everything In 1 Race)
+Author = libretro-database contributors / original PSP cheat authors
+20A71200 00989680
+
+// Inf. Cash (10 M)
+Author = libretro-database contributors / original PSP cheat authors
+20A711F8 00989680
+
+// Inf. Nitro
+Author = libretro-database contributors / original PSP cheat authors
+60507390 0000005D
+00000001 00000479
+
+// Inf. Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+201D0970 3C050001
+
+// Inf. Slow Motion (Speed Breaker)
+Author = libretro-database contributors / original PSP cheat authors
+202554E8 00000000
+
+// Infinite Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+20465158 00000000
+204F78A0 00000000
+00000478 00004B00
+D2000000 00000000
+
+// Infinite Nitrous v2
+Author = libretro-database contributors / original PSP cheat authors
+20465158 00000000
+204F78A0 00004B00
+00020000 00000478
+
+// Infinite Nitrous v3
+Author = libretro-database contributors / original PSP cheat authors
+20465158 00000000
+204F78A0 00004B00
+00020001 00000478
+
+// Infinite Nitrous v4
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000000
+604F78A0 00004B00
+00020001 00000478
+
+// Infinite Nitrous v5
+Author = libretro-database contributors / original PSP cheat authors
+201D096C 00000000
+
+// Infraction Single Event
+Author = libretro-database contributors / original PSP cheat authors
+20A77538 0000270F
+
+// Infraction Total
+Author = libretro-database contributors / original PSP cheat authors
+20A77534 0001869F
+
+// Longest Jump Distance
+Author = libretro-database contributors / original PSP cheat authors
+20A77500 35554000
+
+// Max Bounty
+Author = libretro-database contributors / original PSP cheat authors
+68C525EC 00000000
+B8C525EC 00000000
+00001938 05F5E0FF
+D2000000 00000000
+
+// Max Bounty v2
+Author = libretro-database contributors / original PSP cheat authors
+604525EC 05F5E0FF
+00020001 00001938
+
+// Max Bounty v3
+Author = libretro-database contributors / original PSP cheat authors
+10A71200 0098967F
+
+// Max Bounty v4
+Author = libretro-database contributors / original PSP cheat authors
+20A71200 05F5E0FF
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+68C525EC 00000000
+B8C525EC 00000000
+00001930 05F5E0FF
+D2000000 00000000
+
+// Max Cash v2
+Author = libretro-database contributors / original PSP cheat authors
+604525EC 05F5E0FF
+00020001 00001930
+
+// Max Cash v3
+Author = libretro-database contributors / original PSP cheat authors
+20A711F8 05F5E0FF
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+10A711F8 0098967F
+
+// Most Bounty In Single Event
+Author = libretro-database contributors / original PSP cheat authors
+20A77510 0001869F
+
+// Most Jump Airtime
+Author = libretro-database contributors / original PSP cheat authors
+20A77504 26413000
+
+// Most Style For Single Trick
+Author = libretro-database contributors / original PSP cheat authors
+20A7751C 00000063
+
+// Most Style In Single Event
+Author = libretro-database contributors / original PSP cheat authors
+20A77518 000F423F
+
+// Never Busted
+Author = libretro-database contributors / original PSP cheat authors
+200D6500 44806800
+
+// No Damage
+Author = libretro-database contributors / original PSP cheat authors
+20228014 00A52823
+
+// Number Of Pursuits
+Author = libretro-database contributors / original PSP cheat authors
+20A77528 0001869F
+
+// One Hit Takedown
+Author = libretro-database contributors / original PSP cheat authors
+20227E7C 3C05000D
+2026B6B4 E48C0008
+
+// Pursuits Evaded
+Author = libretro-database contributors / original PSP cheat authors
+20A77520 01000000
+
+// Speed In Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+00465127 00000042
+00465126 00000040
+
+// Speed Modifier: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+204590A4 3D488889
+204590A8 3DCCCCCD
+
+// Speed Modifier: Insane
+Author = libretro-database contributors / original PSP cheat authors
+204590A4 3D888889
+204590A8 3DCCCCCD
+
+// Speed Modifier: Normal
+Author = libretro-database contributors / original PSP cheat authors
+204590A4 3C888889
+204590A8 3DCCCCCD
+
+// Speed Modifier: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+204590A4 3D288889
+204590A8 3DCCCCCD
+
+// Speed Modifier: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+204590A4 3C888889
+204590A8 3CCCCCCD
+
+// Speed Modifier: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+204590A4 3C888889
+204590A8 3ACCCCCD
+
+// Steering In Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+0046614B 00000041
+0046614A 000000C0
+
+// Time In Slow Motion Nolimit
+Author = libretro-database contributors / original PSP cheat authors
+004650A3 00000044
+
+// Total Lap Modifier: 1 Lap
+Author = libretro-database contributors / original PSP cheat authors
+204B21EC 00000001
+
+// Total Lap Modifier: 2 Laps
+Author = libretro-database contributors / original PSP cheat authors
+204B21EC 00000002
+
+// Total Lap Modifier: 3 Laps
+Author = libretro-database contributors / original PSP cheat authors
+204B21EC 00000003
+
+// Total Lap Modifier: 9 Laps
+Author = libretro-database contributors / original PSP cheat authors
+204B21EC 00000009

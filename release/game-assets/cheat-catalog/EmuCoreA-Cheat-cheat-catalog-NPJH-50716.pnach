@@ -1,0 +1,589 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPJH-50716
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All 3 Characters SP9999
+Author = libretro-database contributors / original PSP cheat authors
+202BE994 0000FFFF
+202BF7EC 0000FFFF
+202C0644 0000FFFF
+
+// AZ 9999999
+Author = libretro-database contributors / original PSP cheat authors
+202BE910 0098967F
+
+// Az Max
+Author = libretro-database contributors / original PSP cheat authors
+202BE910 000F423F
+
+// AZ x2
+Author = libretro-database contributors / original PSP cheat authors
+200F07B4 0A200488
+20001220 00021040
+20001224 0A23C1EF
+20001228 01622021
+
+// AZ x4
+Author = libretro-database contributors / original PSP cheat authors
+200F07B4 0A200488
+20001220 00021080
+20001224 0A23C1EF
+20001228 01622021
+
+// AZ x8
+Author = libretro-database contributors / original PSP cheat authors
+200F07B4 0A200488
+20001220 000210C0
+20001224 0A23C1EF
+20001228 01622021
+
+// AZ x16
+Author = libretro-database contributors / original PSP cheat authors
+200F07B4 0A200488
+20001220 00021100
+20001224 0A23C1EF
+20001228 01622021
+
+// AZ x32
+Author = libretro-database contributors / original PSP cheat authors
+200F07B4 0A200488
+20001220 00021140
+20001224 0A23C1EF
+20001228 01622021
+
+// AZ x64
+Author = libretro-database contributors / original PSP cheat authors
+200F07B4 0A200488
+20001220 00021180
+20001224 0A23C1EF
+20001228 01622021
+
+// AZ x128
+Author = libretro-database contributors / original PSP cheat authors
+200F07B4 0A200488
+20001220 000211C0
+20001224 0A23C1EF
+20001228 01622021
+
+// AZ x256
+Author = libretro-database contributors / original PSP cheat authors
+200F07B4 0A200488
+20001220 00021200
+20001224 0A23C1EF
+20001228 01622021
+
+// Camera 1/4
+Author = libretro-database contributors / original PSP cheat authors
+20000E00 3C010880
+20000E04 3C060892
+20000E08 94D83298
+20000E0C 0018C400
+20000E10 4498C800
+20000E14 C43E0DE0
+20000E18 461E6300
+20000E1C E48C0000
+20000E20 C43F0DE4
+20000E24 C4BA0004
+20000E28 461FD680
+20000E2C E4BA0004
+20000E30 C4BC0008
+20000E34 C42C0DE8
+20000E38 460CE700
+20000E3C E4BC0008
+20000E40 C4370DEC
+20000E44 C4380DF0
+20000F98 0A2292D5
+20000F9C C4AC0004
+200A4B4C 0A200380
+20000FA0 3C190880
+20000FA4 C73E0DEC
+20000FA8 461E6300
+20000FAC E48C0000
+20000FB0 C4AC0004
+20000FB4 C73E0DF0
+20000FB8 0A229333
+20000FBC 461E6300
+200A4CC4 0A2003E8
+
+// Camera 2/4
+Author = libretro-database contributors / original PSP cheat authors
+20000E48 3C0708A9
+20000E4C 94EC1884
+20000E50 34193F80
+20000E54 39980009
+20000E58 17000008
+20000E5C 34181000
+20000E60 AC200DE0
+20000E64 AC200DE4
+20000E68 AC200DE8
+20000E6C AC200DEC
+20000E70 AC200DF0
+20000E74 10000048
+20000E78 A4D93298
+20000E7C 34191480
+20000E80 318F0008
+20000E84 51E00044
+20000E88 A4394A8E
+20000E8C A4384A8E
+20000E90 90EE1888
+20000E94 90ED1889
+20000E98 31990100
+20000E9C 1720002B
+20000EA0 29D900B0
+20000EA4 53200005
+20000EA8 3C18BDA0
+20000EAC 29D90050
+20000EB0 57200002
+20000EB4 3C183DA0
+20000EB8 0000C021
+20000EBC 4498E000
+
+// Camera 3/4
+Author = libretro-database contributors / original PSP cheat authors
+20000EC0 461CC600
+20000EC4 E4380DF0
+20000EC8 29B90050
+20000ECC 57200005
+20000ED0 3C183DA0
+20000ED4 29B900B0
+20000ED8 53200002
+20000EDC 3C18BDA0
+20000EE0 0000C021
+20000EE4 4498E000
+20000EE8 461CBDC0
+20000EEC E4370DEC
+20000EF0 31990020
+20000EF4 57200005
+20000EF8 3C18BE00
+20000EFC 31990080
+20000F00 57200002
+20000F04 3C183E00
+20000F08 0000C021
+20000F0C 4498E000
+20000F10 461CCE40
+20000F14 4418C800
+20000F18 0018C402
+20000F1C A4D83298
+20000F20 31990010
+20000F24 57200005
+20000F28 3C183F80
+20000F2C 31990040
+20000F30 57200002
+20000F34 3C18BF80
+
+// Camera 4/4
+Author = libretro-database contributors / original PSP cheat authors
+20000F38 0000C021
+20000F3C 4498E000
+20000F40 461CFFC0
+20000F44 10000014
+20000F48 E43F0DE4
+20000F4C 53200005
+20000F50 3C183F80
+20000F54 29D90050
+20000F58 57200002
+20000F5C 3C18BF80
+20000F60 0000C021
+20000F64 4498E000
+20000F68 461CF780
+20000F6C E43E0DE0
+20000F70 29B90050
+20000F74 57200005
+20000F78 3C18BF80
+20000F7C 29B900B0
+20000F80 53200002
+20000F84 3C183F80
+20000F88 0000C021
+20000F8C 4498E000
+20000F90 461C6300
+20000F94 E42C0DE8
+
+// Dash (Much Quickly) [Circle Button]
+Author = libretro-database contributors / original PSP cheat authors
+20000C04 3C063F80
+D0000000 10002000
+20000C04 3C064080
+20000C00 460CE302
+20000C08 4486E800
+20000C0C 461D6302
+20000C10 0A25B6C2
+20000C14 461D7BC2
+2016DB00 0A200300
+
+// Dash (Normal) [Circle Button]
+Author = libretro-database contributors / original PSP cheat authors
+20000C04 3C063F80
+D0000000 10002000
+20000C04 3C064000
+20000C00 460CE302
+20000C08 4486E800
+20000C0C 461D6302
+20000C10 0A25B6C2
+20000C14 461D7BC2
+2016DB00 0A200300
+
+// Dash (Quickly) [Circle Button]
+Author = libretro-database contributors / original PSP cheat authors
+20000C04 3C063F80
+D0000000 10002000
+20000C04 3C064040
+20000C00 460CE302
+20000C08 4486E800
+20000C0C 461D6302
+20000C10 0A25B6C2
+20000C14 461D7BC2
+2016DB00 0A200300
+
+// Dash R Trigger
+Author = libretro-database contributors / original PSP cheat authors
+20000C04 3C063F80
+D0000000 10000200
+20000C04 3C064040
+20000C00 460CC302
+20000C08 4486C800
+20000C0C 46196302
+20000C10 0A251412
+20000C14 46197BC2
+20145040 0A200300
+
+// Dz-999
+Author = libretro-database contributors / original PSP cheat authors
+102BE914 000003E7
+
+// Encounter Rate
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000041
+2023D1D0 1C800003
+D0000000 10000081
+2023D1D0 14000003
+D0000000 10000021
+2023D1D0 10000003
+
+// Exhaust Always Possible
+Author = libretro-database contributors / original PSP cheat authors
+200E4648 00000000
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+200F0794 0A200480
+20001200 00094840
+20001204 0A23C1E7
+20001208 00892021
+
+// Exp. x4
+Author = libretro-database contributors / original PSP cheat authors
+200F0794 0A200480
+20001200 00094880
+20001204 0A23C1E7
+20001208 00892021
+
+// Exp. x8
+Author = libretro-database contributors / original PSP cheat authors
+200F0794 0A200480
+20001200 000948C0
+20001204 0A23C1E7
+20001208 00892021
+
+// Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+200F0794 0A200480
+20001200 00094900
+20001204 0A23C1E7
+20001208 00892021
+
+// Exp. x32
+Author = libretro-database contributors / original PSP cheat authors
+200F0794 0A200480
+20001200 00094940
+20001204 0A23C1E7
+20001208 00892021
+
+// Exp. x64
+Author = libretro-database contributors / original PSP cheat authors
+200F0794 0A200480
+20001200 00094980
+20001204 0A23C1E7
+20001208 00892021
+
+// Exp. x128
+Author = libretro-database contributors / original PSP cheat authors
+200F0794 0A200480
+20001200 000949C0
+20001204 0A23C1E7
+20001208 00892021
+
+// Exp. x256
+Author = libretro-database contributors / original PSP cheat authors
+200F0794 0A200480
+20001200 00094A00
+20001204 0A23C1E7
+20001208 00892021
+
+// Free Skill For destroyer
+Author = libretro-database contributors / original PSP cheat authors
+2011037C 0084202A
+201208BC 0084202A
+
+// HP Not Dec. (Cancel Start Button)
+Author = libretro-database contributors / original PSP cheat authors
+200E3910 10000062
+D0000000 10000008
+200E3910 14900062
+
+// Item Does Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+2018DB9C 00802023
+
+// Kabenuke L Trigger
+Author = libretro-database contributors / original PSP cheat authors
+201DBF20 450000C2
+D0000000 10000100
+201DBF20 100000C2
+
+// Mana Don't Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200E6288 00A08023
+2008019C 26450000
+20057B90 0080282A
+20080498 24840000
+
+// Map Open
+Author = libretro-database contributors / original PSP cheat authors
+20140AE0 00841024
+
+// Map Open [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+20140AE0 00A41024
+
+// More Damage
+Author = libretro-database contributors / original PSP cheat authors
+20000C30 3C0F4120
+20000C34 8E580054
+20000C38 2419FFFF
+20000C3C 57190001
+20000C40 448FC000
+20000C44 0A23CE99
+20000C48 461AA03E
+200F3A5C 0A20030C
+
+// No.1 Exhaust
+Author = libretro-database contributors / original PSP cheat authors
+102BE98C 00002710
+
+// No.1 Exp.
+Author = libretro-database contributors / original PSP cheat authors
+202BE990 0098967F
+
+// No.1 SP
+Author = libretro-database contributors / original PSP cheat authors
+102BE994 0000FFFF
+
+// No.2 Exhaust
+Author = libretro-database contributors / original PSP cheat authors
+102BF7E4 00002710
+
+// No.2 Exp.
+Author = libretro-database contributors / original PSP cheat authors
+202BF7E8 0098967F
+
+// No.2 SP
+Author = libretro-database contributors / original PSP cheat authors
+102BF7EC 0000FFFF
+
+// No.3 Exhaust
+Author = libretro-database contributors / original PSP cheat authors
+102C063C 00002710
+
+// No.3 Exp.
+Author = libretro-database contributors / original PSP cheat authors
+202C0640 0098967F
+
+// No.3 SP
+Author = libretro-database contributors / original PSP cheat authors
+102C0644 0000FFFF
+
+// No Motion Attack Switch
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000100
+00103FC5 00000042
+D0000000 10000110
+00103FC5 0000003F
+
+// OP Movie [Key=L]
+Author = libretro-database contributors / original PSP cheat authors
+2008C6C0 1C800004
+D0000000 10000100
+2008C6C0 00000000
+
+// Party Member 1 Max Exhaust
+Author = libretro-database contributors / original PSP cheat authors
+102BE98C 00002710
+
+// Party Member 2 Max Exhaust
+Author = libretro-database contributors / original PSP cheat authors
+102BF7E4 00002710
+
+// Party Member 3 Max Exhaust
+Author = libretro-database contributors / original PSP cheat authors
+102C063C 00002710
+
+// Shop Items No Limit
+Author = libretro-database contributors / original PSP cheat authors
+2004C510 00000000
+2006C234 10000002
+20157C08 10000018
+
+// Skill All
+Author = libretro-database contributors / original PSP cheat authors
+20081E84 00000000
+
+// Skill Reset [Triangle Button]
+Author = libretro-database contributors / original PSP cheat authors
+2007CEC4 1280000D
+2007D404 14800002
+2007D578 AE040050
+2007D5A0 AE240004
+D0000003 10001000
+2007CEC4 1000000C
+2007D404 10000002
+2007D578 00000000
+2007D5A0 AE200004
+
+// SP 9999
+Author = libretro-database contributors / original PSP cheat authors
+2002C9BC 3404270F
+
+// SP x2
+Author = libretro-database contributors / original PSP cheat authors
+2011C344 0A200404
+2011C348 00000000
+20001010 00132840
+20001014 AE0508F0
+20001018 8C850020
+2000101C 0A2470D3
+20001020 24A50128
+
+// SP x4
+Author = libretro-database contributors / original PSP cheat authors
+2011C344 0A200404
+2011C348 00000000
+20001010 00132880
+20001014 AE0508F0
+20001018 8C850020
+2000101C 0A2470D3
+20001020 24A50128
+
+// SP x8
+Author = libretro-database contributors / original PSP cheat authors
+2011C344 0A200404
+2011C348 00000000
+20001010 001328C0
+20001014 AE0508F0
+20001018 8C850020
+2000101C 0A2470D3
+20001020 24A50128
+
+// SP x16
+Author = libretro-database contributors / original PSP cheat authors
+2011C344 0A200404
+2011C348 00000000
+20001010 00132900
+20001014 AE0508F0
+20001018 8C850020
+2000101C 0A2470D3
+20001020 24A50128
+
+// SP x32
+Author = libretro-database contributors / original PSP cheat authors
+2011C344 0A200404
+2011C348 00000000
+20001010 00132940
+20001014 AE0508F0
+20001018 8C850020
+2000101C 0A2470D3
+20001020 24A50128
+
+// SP x64
+Author = libretro-database contributors / original PSP cheat authors
+2011C344 0A200404
+2011C348 00000000
+20001010 00132980
+20001014 AE0508F0
+20001018 8C850020
+2000101C 0A2470D3
+20001020 24A50128
+
+// SP x128
+Author = libretro-database contributors / original PSP cheat authors
+2011C344 0A200404
+2011C348 00000000
+20001010 001329C0
+20001014 AE0508F0
+20001018 8C850020
+2000101C 0A2470D3
+20001020 24A50128
+
+// SP x256
+Author = libretro-database contributors / original PSP cheat authors
+2011C344 0A200404
+2011C348 00000000
+20001010 00132A00
+20001014 AE0508F0
+20001018 8C850020
+2000101C 0A2470D3
+20001020 24A50128
+
+// Wall Bypass
+Author = libretro-database contributors / original PSP cheat authors
+201DBF20 450000C2
+D0000000 10000100
+201DBF20 100000C2
+
+// Weapon All 1/2 (R+Right=On, R+Left=Off)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000220
+2006F954 0A20031C
+D0000000 10000280
+2006F954 0E244177
+20000C70 3C010880
+20000C74 94240C60
+20000C78 50800001
+20000C7C 240400C7
+20000C80 240600D9
+20000C84 50C40001
+20000C88 240400E0
+20000C8C 240600F2
+20000C90 50C40001
+20000C94 240400F9
+20000C98 2406010B
+20000C9C 50C40001
+20000CA0 24040112
+20000CA4 24060124
+20000CA8 50C40001
+20000CAC 2404012B
+20000CB0 2406013D
+20000CB4 50C40001
+20000CB8 24040144
+20000CF8 3C1F0886
+20000CFC 37FFF95C
+20000D00 8E440004
+20000D04 0A244177
+20000D08 A4200C60
+
+// Weapon All 2/2
+Author = libretro-database contributors / original PSP cheat authors
+20000CBC 2C8600D9
+20000CC0 10C00004
+20000CC4 2C8600F2
+20000CC8 24840001
+20000CCC 0A21BE53
+20000CD0 AC240C60
+20000CD4 14C0FFFC
+20000CD8 2C86010B
+20000CDC 14C0FFFA
+20000CE0 2C860124
+20000CE4 14C0FFF8
+20000CE8 2C86013D
+20000CEC 14C0FFF6
+20000CF0 2C860156
+20000CF4 14C0FFF4

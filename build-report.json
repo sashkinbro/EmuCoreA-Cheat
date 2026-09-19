@@ -1,5 +1,5 @@
 {
-  "batch": "batch-011",
+  "batch": "batch-012",
   "release": "cheat-catalog",
   "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
   "libretroCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
@@ -149,6 +149,14 @@
       "sha256": "B218CE3E73B1A18A3755BE4AAC09399B26B588C51AFC8FE6F117C1B740C56A70"
     },
     {
+      "serial": "NPJH-50441",
+      "sourceFile": "Kidou Senshi Gundam - Shin Gihren No Yabou (PlayStation Store) [JP] [NPJH-50441].cht",
+      "blocks": 65,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "D01C1CE005689FE580165B8F469A920690B63C963F44DCD1462F483920A689F4"
+    },
+    {
       "serial": "NPJH-50443",
       "sourceFile": "Final Fantasy - Type-0 Reishiki (Disk 1) (PlayStation Store) [JP] [NPJH-50443].cht",
       "blocks": 440,
@@ -195,6 +203,14 @@
       "excluded": 5,
       "malformed": 0,
       "sha256": "275BB1AD89696ED6842AB942FDCA9E55CF0C351D3402411DDE1B93EA2D97CC26"
+    },
+    {
+      "serial": "NPJH-50566",
+      "sourceFile": "Kidou Senshi Gundam Age - Universe Accel [JP] [NPJH-50566].cht",
+      "blocks": 57,
+      "excluded": 8,
+      "malformed": 0,
+      "sha256": "B421BCBAD96CB96F280252E7192374F5948FD905DD0688B5D2EDEC990F9B63CC"
     },
     {
       "serial": "NPJH-50567",
@@ -251,6 +267,14 @@
       "excluded": 20,
       "malformed": 0,
       "sha256": "B04424780EB9DA3C2BEEE1149CD54D7D60BE0C788E44B1F4E827D10DF3FC3057"
+    },
+    {
+      "serial": "NPJH-50716",
+      "sourceFile": "7th Dragon 2020-II [JP] [NPJH-50716].cht",
+      "blocks": 67,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "F9768C1A9F25D5783D4034464D64D0E9818685329036A21EABDF04CF07E8B14D"
     },
     {
       "serial": "NPJH-50717",
@@ -341,6 +365,14 @@
       "sha256": "2C1F2B6C94A5702A3EE37B8FD7ADBB678000BE00D05C213E276F35DEE58B34C7"
     },
     {
+      "serial": "NPUZ-00132",
+      "sourceFile": "Zenonia (PlayStation Store) [US] [NPUZ-00132].cht",
+      "blocks": 64,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "0DB274048EFEFAF6BAC59439E1E36CAA86D168E3D88F0ED380BBB3F127565DF1"
+    },
+    {
       "serial": "UCES-00001",
       "sourceFile": "Wipeout Pure [EU] [UCES-00001].cht",
       "blocks": 67,
@@ -413,12 +445,28 @@
       "sha256": "01CE6E0935B9719683D10D38DF83BFD755FDDFA680078FE33257A5B8822354D6"
     },
     {
+      "serial": "UCJS-10095",
+      "sourceFile": "Boku No Natsuyasumi 4 - Seitouchi Shounen Tanteidan, Boku To Himitsu No Chizu [JP] [UCJS-10095].cht",
+      "blocks": 64,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "580F844BF1BC001CFE2C8271685A6DE8A6174551F4615C1825B19963C0C82907"
+    },
+    {
       "serial": "UCJS-10100",
       "sourceFile": "Gran Turismo [JP] [UCJS-10100].cht",
       "blocks": 544,
       "excluded": 3,
       "malformed": 0,
       "sha256": "A464D78E79A6C448B2DA7C4B5DD5F8CD3F1A495A88B824C1FA3DEF7B15CF411E"
+    },
+    {
+      "serial": "UCJS-10109",
+      "sourceFile": "Yuusha No Kuse Ni Namaikida Or 3D [JP] [UCJS-10109].cht",
+      "blocks": 60,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "BA4378068EDD9882A2282C3CB50432D53869CF5E53691D3CABF615FA3A0DFE60"
     },
     {
       "serial": "UCKS-45027",
@@ -459,6 +507,14 @@
       "excluded": 16,
       "malformed": 0,
       "sha256": "25CDE5C08C9765E350BE654226601598BDFC207FCF6CCA52A40003ACCD5A470F"
+    },
+    {
+      "serial": "UCUS-98640",
+      "sourceFile": "Pursuit Force [US] [UCUS-98640].cht",
+      "blocks": 59,
+      "excluded": 4,
+      "malformed": 0,
+      "sha256": "D379C0FF6B408D95D1FCD933B88D62E7468B1AF0D9606E43FA5F9F6DBF5EA73C"
     },
     {
       "serial": "UCUS-98645",
@@ -613,6 +669,14 @@
       "sha256": "3872E2C8C9BADCB9BC54830EE30D64267B04C76E75E66A233CBFA1F8C28F232E"
     },
     {
+      "serial": "ULES-00740",
+      "sourceFile": "Driver 76 [EU] [ULES-00740].cht",
+      "blocks": 55,
+      "excluded": 8,
+      "malformed": 0,
+      "sha256": "447E8568DC132D64FA04790356C927074B2EDFED9ED211E729B8E8BF3A2C07C9"
+    },
+    {
       "serial": "ULES-00756",
       "sourceFile": "Manhunt 2 [EU] [ULES-00756].cht",
       "blocks": 120,
@@ -699,6 +763,14 @@
       "excluded": 6,
       "malformed": 0,
       "sha256": "13692637DAC84E106D9B301ED7AAB12AD52146F8379B47B23874F518B95D9BC1"
+    },
+    {
+      "serial": "ULES-01145",
+      "sourceFile": "Need For Speed - Undercover [EU] [ULES-01145].cht",
+      "blocks": 56,
+      "excluded": 8,
+      "malformed": 0,
+      "sha256": "2359112C8AC39E4C53ADEA3E02C43050253F4DD2264740866D43CF1778416983"
     },
     {
       "serial": "ULES-01151",
@@ -893,6 +965,22 @@
       "sha256": "3A845822B99D15E12BC85249246ACE060BF2FAB088A25C8968953E64A8CCEC71"
     },
     {
+      "serial": "ULJM-05127",
+      "sourceFile": "Dragon Quest & Final Fantasy In Itadaki Street Portable [JP] [ULJM-05127].cht",
+      "blocks": 67,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "747636630B0B089D099072E7FB632FD438C36F45BDC78D42E53373344C16F502"
+    },
+    {
+      "serial": "ULJM-05241",
+      "sourceFile": "Final Fantasy Anniversary Edition [JP] [ULJM-05241].cht",
+      "blocks": 67,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "65CF18ABD6CE2D9FC59BCFC2AD0DA8760E824B0CF78FE23465A7424BAB07653A"
+    },
+    {
       "serial": "ULJM-05255",
       "sourceFile": "Grand Theft Auto - Liberty City Stories [JP] [ULJM-05255].cht",
       "blocks": 221,
@@ -933,12 +1021,28 @@
       "sha256": "A613F6B76BBB4E5CC735AE9C1FC0FB2A7DBBB618A45B328A3B2125CFF7DF802A"
     },
     {
+      "serial": "ULJM-05300",
+      "sourceFile": "Jikkyou Powerful Pro Yakyuu Potable 3 [JP] [ULJM-05300].cht",
+      "blocks": 64,
+      "excluded": 1,
+      "malformed": 0,
+      "sha256": "1CE05CA3032F0E56F6A0E038B27535757AA15D17E3F6AB85F02C912FF678EEDE"
+    },
+    {
       "serial": "ULJM-05309",
       "sourceFile": "Phantasy Star Portable [JP] [ULJM-05309].cht",
       "blocks": 113,
       "excluded": 2,
       "malformed": 0,
       "sha256": "C391466566D37D11B028322C3343FC763F03788D54C47605FCBF77D54B1C12C5"
+    },
+    {
+      "serial": "ULJM-05321",
+      "sourceFile": "Dragon Quest & Final Fantasy In Itadaki Street Portable (Ultimate Hits) [JP] [ULJM-05321].cht",
+      "blocks": 63,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "C829D3B589C53F800793870CD95B2F219C1AB5BAEB55600089AA952602B5BF97"
     },
     {
       "serial": "ULJM-05341",
@@ -987,6 +1091,14 @@
       "excluded": 4,
       "malformed": 0,
       "sha256": "021441644B23A891254AAEDD8DFECB3FE208A766C4D637699A4652DB505B5726"
+    },
+    {
+      "serial": "ULJM-05472",
+      "sourceFile": "Hatsune Miku - Project Diva [JP] [ULJM-05472].cht",
+      "blocks": 61,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "9C576ECA36A36A54BCC5F114D6E4C10618FA47191A3F10FA70B15FA8783E46EC"
     },
     {
       "serial": "ULJM-05490",
@@ -1075,6 +1187,14 @@
       "excluded": 6,
       "malformed": 0,
       "sha256": "0751D89ED846B8A732EE49EB6D0879D0F876FDF757504E37B48EC29143DF8DF7"
+    },
+    {
+      "serial": "ULJM-05676",
+      "sourceFile": "Last Ranker [JP] [ULJM-05676].cht",
+      "blocks": 62,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "E96EBB1A8E10BB6E65631CF264FADD09EF2582AA79CB434886A647BEB7345616"
     },
     {
       "serial": "ULJM-05753",
@@ -1173,6 +1293,22 @@
       "sha256": "586D0BCA90CED2DD738537523E377FDAE06160DEC8E851B2A46D6D5DD4B1EA18"
     },
     {
+      "serial": "ULJS-00168",
+      "sourceFile": "The Idolm@ster SP - Wandering Star [JP] [ULJS-00168].cht",
+      "blocks": 62,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "18469DE9078B103573660CC03EF61AF1A4A85566EBEF2248ABDB4E1E558EA47A"
+    },
+    {
+      "serial": "ULJS-00169",
+      "sourceFile": "The Idolm@ster SP - Missing Moon [JP] [ULJS-00169].cht",
+      "blocks": 61,
+      "excluded": 2,
+      "malformed": 0,
+      "sha256": "215E26942549050BCE3B63F195AF88B1571D33E235961DA920989EABBD3031A5"
+    },
+    {
       "serial": "ULJS-00175",
       "sourceFile": "Tales Of The World - Radiant Mythology 2 [JP] [ULJS-00175].cht",
       "blocks": 77,
@@ -1203,6 +1339,14 @@
       "excluded": 2,
       "malformed": 0,
       "sha256": "D735244F028E6AEB3A89A33969B2E4F3417396E5F759A757A2CD95310A38758A"
+    },
+    {
+      "serial": "ULJS-00190",
+      "sourceFile": "Queen's Blade - Spiral Chaos [JP] [ULJS-00190].cht",
+      "blocks": 63,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "2BBB3AE49597FD59A4BDEAFEE77CD549F4AC7F9BA420FA144B765F82B6E38D39"
     },
     {
       "serial": "ULJS-00202",
@@ -1373,6 +1517,14 @@
       "sha256": "86A44034FABFB4B15385034DC134A672C9DEF93107032C5C5E9E75BECD0CB14D"
     },
     {
+      "serial": "ULUS-10176",
+      "sourceFile": "Ace Combat X - Skies Of Deception [US] [ULUS-10176].cht",
+      "blocks": 62,
+      "excluded": 5,
+      "malformed": 0,
+      "sha256": "E879EC6A0BA386AB6BBFFCDB7683CAA3C89E61A5A7602A62DA797C55319CD2AA"
+    },
+    {
       "serial": "ULUS-10200",
       "sourceFile": "Blitz - OverTime [US] [ULUS-10200].cht",
       "blocks": 21,
@@ -1395,6 +1547,14 @@
       "excluded": 1,
       "malformed": 0,
       "sha256": "41599940B28E5ADF5274656C084439E0E523EC9F7A8242BB95357EB2AF618525"
+    },
+    {
+      "serial": "ULUS-10218",
+      "sourceFile": "Call Of Duty - Road To Victory [US] [ULUS-10218].cht",
+      "blocks": 64,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "1419E752B745254C9AC2B2EA824AEAF770E1705FC2C2CCF8D442BD04602282A0"
     },
     {
       "serial": "ULUS-10219",
@@ -1515,6 +1675,14 @@
       "excluded": 11,
       "malformed": 0,
       "sha256": "473784DA76DDC5C81722CAA5395590981996F682619C1A8D7E036EA42314588E"
+    },
+    {
+      "serial": "ULUS-10339",
+      "sourceFile": "Wild Arms XF [US] [ULUS-10339].cht",
+      "blocks": 64,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "D914FFFD0A3133F3FF5751BCD6A15D1BC9C9A68D970DBBBCF9ED8A915A2EBA93"
     },
     {
       "serial": "ULUS-10340",
@@ -1645,6 +1813,14 @@
       "sha256": "9D66B723107453D249F6C79EFC3D5618D89F83051ADA0AC8C3582A8E9C4C0E41"
     },
     {
+      "serial": "ULUS-10442",
+      "sourceFile": "Kenka Bancho - Badass Rumble [US] [ULUS-10442].cht",
+      "blocks": 58,
+      "excluded": 9,
+      "malformed": 0,
+      "sha256": "56980BF3C44C9EBFB52E54F0543C14154BFF6F6407E894F4365A775C46A4204A"
+    },
+    {
       "serial": "ULUS-10447",
       "sourceFile": "Naruto Shippuden Legends - Akatsuki Rising [US] [ULUS-10447].cht",
       "blocks": 107,
@@ -1659,6 +1835,14 @@
       "excluded": 7,
       "malformed": 0,
       "sha256": "7E8F9DE075D311B3A71B35DD60E0E6F025D1DB4ACDB493607E66F1F16ACC21E4"
+    },
+    {
+      "serial": "ULUS-10455",
+      "sourceFile": "Assassin's Creed - Bloodline [US] [ULUS-10455].cht",
+      "blocks": 55,
+      "excluded": 10,
+      "malformed": 0,
+      "sha256": "B67E7917E9BA056A81AE6B51D0FF0C3C567CD4A2AD2099E171291330821F0F92"
     },
     {
       "serial": "ULUS-10457",
@@ -1739,6 +1923,22 @@
       "excluded": 3,
       "malformed": 0,
       "sha256": "090C96AFC60DB97E008CCDBCBE1FC92EAF89FA3E054DBF5C986D7D64877835F1"
+    },
+    {
+      "serial": "ULUS-10513",
+      "sourceFile": "Split-Second [US] [ULUS-10513].cht",
+      "blocks": 60,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "B5874E71803560067218C0B1578F812FF98E1CD691038CDAF68E1D232D0854C1"
+    },
+    {
+      "serial": "ULUS-10515",
+      "sourceFile": "Valkyria Chronicles II [US] [ULUS-10515].cht",
+      "blocks": 54,
+      "excluded": 10,
+      "malformed": 0,
+      "sha256": "9886C4BD4A2F69B3C393FAFDEA5F2B81E79101D6958F8ED0DC2B4218AF4EF90B"
     },
     {
       "serial": "ULUS-10529",

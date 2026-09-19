@@ -1,0 +1,326 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10442
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Remove Bezier 4x4 & 4x8
+Author = libretro-database contributors / original PSP cheat authors
+E0020404 000FC914
+200FC914 00802821
+200FC990 00802821
+
+// Remove Bezier 4x4 & 4x8 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0022821 000FC914
+200FC914 24850404
+200FC990 24850804
+
+// All Clothes
+Author = libretro-database contributors / original PSP cheat authors
+416D2A40 000C0001
+FFFFFFFF 00000000
+
+// All Items
+Author = libretro-database contributors / original PSP cheat authors
+816D23DC 00360001
+00000063 00000000
+
+// All Weapons (Don't Use Handcuffs)
+Author = libretro-database contributors / original PSP cheat authors
+216D2AA0 FFFFFFFF
+
+// All Weapons v2
+Author = libretro-database contributors / original PSP cheat authors
+216D2AA0 3FFFFFFF
+
+// Bancho Mode
+Author = libretro-database contributors / original PSP cheat authors
+E0190004 00012178
+20012178 0A200800
+20002000 8C840004
+20002008 3C1B09ED
+2000200C 8C82005C
+20002010 009BD82A
+20002018 441B0000
+2000201C 84820002
+20002020 AC82005C
+20002024 AC9B0050
+20002004 10800014
+20002014 17600010
+20002028 34050001
+2000202C 340600FF
+20002030 341B0004
+20002034 24990060
+20002038 A7250000
+2000203C 27390002
+20002040 A7260000
+20002044 27390002
+20002048 A7260000
+2000204C 27390004
+20002050 1760FFF9
+20002054 277BFFFF
+20002058 03E00008
+2000205C 00000000
+
+// Banchou Mode [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20012178 8C840004
+
+// Day 15
+Author = libretro-database contributors / original PSP cheat authors
+016D2370 0000000F
+
+// Exp. Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+E00B3021 000CFB40
+200CFB40 0E200407
+200CFB44 00C73021
+2000101C 34100040
+20001020 16070005
+20001024 34100007
+20001028 8FBB0000
+2000102C 52020001
+20001030 001BD840
+20001034 AFBB0000
+20001038 03E00008
+2000103C 8CD00078
+
+// Exp. Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+E00B3021 000CFB40
+200CFB40 0E200407
+200CFB44 00C73021
+2000101C 34100040
+20001020 16070005
+20001024 34100007
+20001028 8FBB0000
+2000102C 52020001
+20001030 001BD8C0
+20001034 AFBB0000
+20001038 03E00008
+2000103C 8CD00078
+
+// Exp. Multiplier x32
+Author = libretro-database contributors / original PSP cheat authors
+E00B3021 000CFB40
+200CFB40 0E200407
+200CFB44 00C73021
+2000101C 34100040
+20001020 16070005
+20001024 34100007
+20001028 8FBB0000
+2000102C 52020001
+20001030 001BD940
+20001034 AFBB0000
+20001038 03E00008
+2000103C 8CD00078
+
+// Exp. Multiplier [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200CFB40 00C73021
+200CFB44 8CD00078
+
+// Freeze Time
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 000CFCB0
+200CFCB0 00003021
+
+// Freeze Time [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200CFCB0 34060001
+
+// Have All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+216D2AA0 FFFFFFFF
+
+// Infinite Run
+Author = libretro-database contributors / original PSP cheat authors
+216D246C 00000000
+
+// Infinite Spirit
+Author = libretro-database contributors / original PSP cheat authors
+216D2468 000000FF
+
+// Manliness Highest Rank
+Author = libretro-database contributors / original PSP cheat authors
+216D235C FFFFFF9C
+
+// Manliness Lowest Rank
+Author = libretro-database contributors / original PSP cheat authors
+216D235C 000001F4
+
+// Max Bancho Soul
+Author = libretro-database contributors / original PSP cheat authors
+216D2360 000003E7
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+216D2368 05F5E0FF
+
+// Max Soul Points
+Author = libretro-database contributors / original PSP cheat authors
+10C86094 000003E7
+
+// Max Stamina
+Author = libretro-database contributors / original PSP cheat authors
+216D2470 000003E7
+216D2510 000003E7
+
+// Money Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+E00A3025 000CFC44
+200CFC44 00053040
+20132444 0E200400
+20001000 34060064
+20001004 00A6302A
+20001008 10C00002
+2000100C 00053040
+20001010 34A60000
+20001014 03E00008
+20001018 00000000
+
+// Money Multiplier x32
+Author = libretro-database contributors / original PSP cheat authors
+E00A3025 000CFC44
+200CFC44 00053140
+20132444 0E200400
+20001000 34060064
+20001004 00A6302A
+20001008 10C00002
+2000100C 00053140
+20001010 34A60000
+20001014 03E00008
+20001018 00000000
+
+// Money Multiplier [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200CFC44 00A03025
+20132444 34A60000
+
+// Soul Upgrade Points [On/Off]
+Author = libretro-database contributors / original PSP cheat authors
+105DC374 000003E7
+116D2360 000003E7
+
+// Time (01:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 0000003C
+
+// Time (02:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 00000078
+
+// Time (03:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 000000B4
+
+// Time (04:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 000000F0
+
+// Time (05:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 0000012C
+
+// Time (06:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 00000168
+
+// Time (07:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 000001A4
+
+// Time (08:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 000001E0
+
+// Time (09:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 0000021C
+
+// Time (10:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 00000258
+
+// Time (11:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 000002BC
+
+// Time (12:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 000002D0
+
+// Time (13:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 0000030C
+
+// Time (14:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 00000348
+
+// Time (15:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 00000384
+
+// Time (16:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 000003C0
+
+// Time (17:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 000003FC
+
+// Time (18:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 00000438
+
+// Time (19:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 00000474
+
+// Time (20:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 000004B0
+
+// Time (21:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 000004EC
+
+// Time (22:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 00000528
+
+// Time (23:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 00000564
+
+// Time (24:00)
+Author = libretro-database contributors / original PSP cheat authors
+216D236C 000005A0
+
+// Unlimited Run
+Author = libretro-database contributors / original PSP cheat authors
+216D246C 00000000
+
+// Win Smashtalk
+Author = libretro-database contributors / original PSP cheat authors
+E002000F 000A0608
+200A0608 00000000
+200A0624 00000000
+
+// Win Smashtalk [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200A0608 1225000F
+200A0624 54C00001
+
+// Yankii Spirit
+Author = libretro-database contributors / original PSP cheat authors
+E0012023 00013020
+20013020 340400FF
+
+// Yankii Spirit [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20013020 00A42023
+
+// Yen [On/Off]
+Author = libretro-database contributors / original PSP cheat authors
+216D2368 00989680

@@ -1,0 +1,278 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10515
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Black Sky Fix
+Author = libretro-database contributors / original PSP cheat authors
+E004002D 004884B8
+204884B8 0A200580
+20001600 254AFFFF
+20001604 0A322130
+20001608 98CB002D
+
+// Black Sky Fix [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010580 004884B8
+204884B8 98CB002D
+
+// LOD Multiplier
+Author = libretro-database contributors / original PSP cheat authors
+E006B0BD 000CCF3C
+200CCF3C 0E200560
+20001580 3C1B4080
+20001584 449BF800
+20001588 0A31B0BD
+2000158C 461F6302
+200CCF4C 0E200560
+
+// LOD Multiplier [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0020560 000CCF3C
+200CCF3C 0E31B0BD
+200CCF4C 0E31B0BD
+
+// 60 FPS v2
+Author = libretro-database contributors / original PSP cheat authors
+E003FFF7 003EBC4C
+203EBC4C 00000000
+20044800 46006346
+20044AEC 46006B06
+
+// 60 FPS v2 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0030000 003EBC4C
+203EBC4C 1620FFF7
+20044800 460C0342
+20044AEC 460D6302
+
+// 20 FPS test [Adhoc]
+Author = libretro-database contributors / original PSP cheat authors
+20561E4C 00000003
+
+// 30 FPS test [Adhoc]
+Author = libretro-database contributors / original PSP cheat authors
+20561E4C 00000002
+
+// 60 FPS test [Adhoc]
+Author = libretro-database contributors / original PSP cheat authors
+20561E4C 00000001
+
+// All Characters
+Author = libretro-database contributors / original PSP cheat authors
+80536CAC 0025002C
+00000001 00000000
+80537334 0023002C
+
+// All Classes
+Author = libretro-database contributors / original PSP cheat authors
+4053C424 00470008
+10101010 00000000
+4053C428 00470008
+4053C42C 00470008
+4053C430 00470008
+4053C434 00470008
+
+// All Weapon Material
+Author = libretro-database contributors / original PSP cheat authors
+805434DF 01000001
+00000063 00000000
+
+// All Weapon Plan
+Author = libretro-database contributors / original PSP cheat authors
+8054346C 00730001
+00000003 00000000
+
+// AP Does Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+2007A748 0A200C08
+20003020 3C01447A
+20003024 44816000
+20003028 E48C008C
+2000302C 0A21E9D4
+0007A792 00000014
+
+// AP Does Not Decrease (Disable)
+Author = libretro-database contributors / original PSP cheat authors
+2007A748 E48C008C
+0007A792 00000000
+
+// AP Does Not Decrease v2
+Author = libretro-database contributors / original PSP cheat authors
+0007A74A 0000008D
+0007A792 0000000D
+
+// AP Does Not Decrease (Disable) v2
+Author = libretro-database contributors / original PSP cheat authors
+0007A74A 0000008C
+0007A792 00000000
+
+// Arms
+Author = libretro-database contributors / original PSP cheat authors
+4053C424 00470008
+10101010 00000000
+4053C428 00470008
+4053C42C 00470008
+4053C430 00470008
+4053C434 00470008
+
+// Characters Infinite Actions [All]
+Author = libretro-database contributors / original PSP cheat authors
+8087B945 0014002C
+
+// Continuous Attack
+Author = libretro-database contributors / original PSP cheat authors
+100E555C 00000000
+100E5690 00000000
+
+// Continuous Attack (Disable)
+Author = libretro-database contributors / original PSP cheat authors
+100E555C 00000100
+100E5690 00000100
+
+// CP Does Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20073388 0A200C00
+20003000 14800002
+20003008 00912021
+2000300C 0A21CCE4
+
+// CP Does Not Decrease (Disable)
+Author = libretro-database contributors / original PSP cheat authors
+20073388 00912021
+
+// Elementry Certificate
+Author = libretro-database contributors / original PSP cheat authors
+805449DF 01000001
+0000000A 00000000
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+20074F7C 00074040
+
+// Exp. x4
+Author = libretro-database contributors / original PSP cheat authors
+20074F7C 00074080
+
+// Exp. x8
+Author = libretro-database contributors / original PSP cheat authors
+20074F7C 000740C0
+
+// Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+20074F7C 00074100
+
+// Exp. x32
+Author = libretro-database contributors / original PSP cheat authors
+20074F7C 00074140
+
+// Exp. x64
+Author = libretro-database contributors / original PSP cheat authors
+20074F7C 00074180
+
+// Exp. x128
+Author = libretro-database contributors / original PSP cheat authors
+20074F7C 000741C0
+
+// Exp. x256
+Author = libretro-database contributors / original PSP cheat authors
+20074F7C 00074200
+
+// Exp. x512
+Author = libretro-database contributors / original PSP cheat authors
+20074F7C 00074240
+
+// Exp. x1024
+Author = libretro-database contributors / original PSP cheat authors
+20074F7C 00074280
+
+// Exp. x2048
+Author = libretro-database contributors / original PSP cheat authors
+20074F7C 000742C0
+
+// Grenades Does Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+2007E70C 00409025
+
+// Grenades Does Not Decrease (Disable)
+Author = libretro-database contributors / original PSP cheat authors
+2007E70C 01929021
+
+// Infinite Actions (All Chars)
+Author = libretro-database contributors / original PSP cheat authors
+8087B945 0013002C
+
+// Infinite AP (All Chars)
+Author = libretro-database contributors / original PSP cheat authors
+4087BD34 00210040
+447A0000 00000000
+
+// Infinite Bombs (All Chars)
+Author = libretro-database contributors / original PSP cheat authors
+8087BD6E 00210080
+1000FFFF 00000000
+
+// Infinite HP (All Chars)
+Author = libretro-database contributors / original PSP cheat authors
+4087BD30 00210040
+0000270F 00000000
+
+// Max CP
+Author = libretro-database contributors / original PSP cheat authors
+0087B8FC 00000014
+
+// Max CP v2
+Author = libretro-database contributors / original PSP cheat authors
+20073388 34040014
+
+// Max CP (Disable) v2
+Author = libretro-database contributors / original PSP cheat authors
+20073388 00912021
+
+// Max DCT
+Author = libretro-database contributors / original PSP cheat authors
+20538680 0098967F
+
+// Max DCT & Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20538680 0098967F
+20538684 0098967F
+
+// Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20538684 0098967F
+
+// Max Morale
+Author = libretro-database contributors / original PSP cheat authors
+00887310 00000064
+
+// No Weight Restriction
+Author = libretro-database contributors / original PSP cheat authors
+20278F8C 24040014
+20278FE8 24070014
+
+// No Weight Restriction [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20278F8C 8E040010
+20278FE8 8C870010
+
+// Turn Does Not Increase
+Author = libretro-database contributors / original PSP cheat authors
+00107722 00000000
+
+// Turn Does Not Increase (Disable)
+Author = libretro-database contributors / original PSP cheat authors
+00107722 000000A0
+
+// Unlock All Credits
+Author = libretro-database contributors / original PSP cheat authors
+4053C424 00470008
+63636363 00000000
+4053C428 00470008
+4053C42C 00470008
+4053C430 00470008
+4053C434 00470008
+
+// Weapon Material + Coin Exchange
+Author = libretro-database contributors / original PSP cheat authors
+805434DF 02000001
+00000063 00000000

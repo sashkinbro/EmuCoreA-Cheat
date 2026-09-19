@@ -345,6 +345,25 @@
       "sha256": "B218CE3E73B1A18A3755BE4AAC09399B26B588C51AFC8FE6F117C1B740C56A70"
     },
     {
+      "id": "libretro-psp-npjh-50441",
+      "title": "Kidou Senshi Gundam - Shin Gihren No Yabou (PlayStation Store)",
+      "serials": [
+        "NPJH-50441"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "65 libretro PSP cheat blocks for NPJH-50441; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPJH-50441.pnach",
+      "packPath": "files/libretro-psp/NPJH-50441.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 65,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "D01C1CE005689FE580165B8F469A920690B63C963F44DCD1462F483920A689F4"
+    },
+    {
       "id": "libretro-psp-npjh-50443",
       "title": "Final Fantasy - Type-0 Reishiki (Disk 1) (PlayStation Store)",
       "serials": [
@@ -457,6 +476,25 @@
       "blockCount": 70,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "275BB1AD89696ED6842AB942FDCA9E55CF0C351D3402411DDE1B93EA2D97CC26"
+    },
+    {
+      "id": "libretro-psp-npjh-50566",
+      "title": "Kidou Senshi Gundam Age - Universe Accel",
+      "serials": [
+        "NPJH-50566"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "57 libretro PSP cheat blocks for NPJH-50566; 8 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPJH-50566.pnach",
+      "packPath": "files/libretro-psp/NPJH-50566.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 57,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "B421BCBAD96CB96F280252E7192374F5948FD905DD0688B5D2EDEC990F9B63CC"
     },
     {
       "id": "libretro-psp-npjh-50567",
@@ -590,6 +628,25 @@
       "blockCount": 585,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "B04424780EB9DA3C2BEEE1149CD54D7D60BE0C788E44B1F4E827D10DF3FC3057"
+    },
+    {
+      "id": "libretro-psp-npjh-50716",
+      "title": "7th Dragon 2020-II",
+      "serials": [
+        "NPJH-50716"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "67 libretro PSP cheat blocks for NPJH-50716; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPJH-50716.pnach",
+      "packPath": "files/libretro-psp/NPJH-50716.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 67,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "F9768C1A9F25D5783D4034464D64D0E9818685329036A21EABDF04CF07E8B14D"
     },
     {
       "id": "libretro-psp-npjh-50717",
@@ -801,6 +858,25 @@
       "sha256": "2C1F2B6C94A5702A3EE37B8FD7ADBB678000BE00D05C213E276F35DEE58B34C7"
     },
     {
+      "id": "libretro-psp-npuz-00132",
+      "title": "Zenonia (PlayStation Store)",
+      "serials": [
+        "NPUZ-00132"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "64 libretro PSP cheat blocks for NPUZ-00132; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPUZ-00132.pnach",
+      "packPath": "files/libretro-psp/NPUZ-00132.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 64,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "0DB274048EFEFAF6BAC59439E1E36CAA86D168E3D88F0ED380BBB3F127565DF1"
+    },
+    {
       "id": "libretro-psp-uces-00001",
       "title": "Wipeout Pure",
       "serials": [
@@ -972,6 +1048,25 @@
       "sha256": "01CE6E0935B9719683D10D38DF83BFD755FDDFA680078FE33257A5B8822354D6"
     },
     {
+      "id": "libretro-psp-ucjs-10095",
+      "title": "Boku No Natsuyasumi 4 - Seitouchi Shounen Tanteidan, Boku To Himitsu No Chizu",
+      "serials": [
+        "UCJS-10095"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "64 libretro PSP cheat blocks for UCJS-10095; 2 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-UCJS-10095.pnach",
+      "packPath": "files/libretro-psp/UCJS-10095.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 64,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "580F844BF1BC001CFE2C8271685A6DE8A6174551F4615C1825B19963C0C82907"
+    },
+    {
       "id": "libretro-psp-ucjs-10100",
       "title": "Gran Turismo",
       "serials": [
@@ -989,6 +1084,25 @@
       "blockCount": 544,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "A464D78E79A6C448B2DA7C4B5DD5F8CD3F1A495A88B824C1FA3DEF7B15CF411E"
+    },
+    {
+      "id": "libretro-psp-ucjs-10109",
+      "title": "Yuusha No Kuse Ni Namaikida Or 3D",
+      "serials": [
+        "UCJS-10109"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "60 libretro PSP cheat blocks for UCJS-10109; 3 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-UCJS-10109.pnach",
+      "packPath": "files/libretro-psp/UCJS-10109.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 60,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "BA4378068EDD9882A2282C3CB50432D53869CF5E53691D3CABF615FA3A0DFE60"
     },
     {
       "id": "libretro-psp-ucks-45027",
@@ -1084,6 +1198,25 @@
       "blockCount": 163,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "25CDE5C08C9765E350BE654226601598BDFC207FCF6CCA52A40003ACCD5A470F"
+    },
+    {
+      "id": "libretro-psp-ucus-98640",
+      "title": "Pursuit Force",
+      "serials": [
+        "UCUS-98640"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "59 libretro PSP cheat blocks for UCUS-98640; 4 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-UCUS-98640.pnach",
+      "packPath": "files/libretro-psp/UCUS-98640.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 59,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "D379C0FF6B408D95D1FCD933B88D62E7468B1AF0D9606E43FA5F9F6DBF5EA73C"
     },
     {
       "id": "libretro-psp-ucus-98645",
@@ -1447,6 +1580,25 @@
       "sha256": "3872E2C8C9BADCB9BC54830EE30D64267B04C76E75E66A233CBFA1F8C28F232E"
     },
     {
+      "id": "libretro-psp-ules-00740",
+      "title": "Driver 76",
+      "serials": [
+        "ULES-00740"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "55 libretro PSP cheat blocks for ULES-00740; 8 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULES-00740.pnach",
+      "packPath": "files/libretro-psp/ULES-00740.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 55,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "447E8568DC132D64FA04790356C927074B2EDFED9ED211E729B8E8BF3A2C07C9"
+    },
+    {
       "id": "libretro-psp-ules-00756",
       "title": "Manhunt 2",
       "serials": [
@@ -1654,6 +1806,25 @@
       "blockCount": 99,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "13692637DAC84E106D9B301ED7AAB12AD52146F8379B47B23874F518B95D9BC1"
+    },
+    {
+      "id": "libretro-psp-ules-01145",
+      "title": "Need For Speed - Undercover",
+      "serials": [
+        "ULES-01145"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "56 libretro PSP cheat blocks for ULES-01145; 8 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULES-01145.pnach",
+      "packPath": "files/libretro-psp/ULES-01145.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 56,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "2359112C8AC39E4C53ADEA3E02C43050253F4DD2264740866D43CF1778416983"
     },
     {
       "id": "libretro-psp-ules-01151",
@@ -2112,6 +2283,44 @@
       "sha256": "3A845822B99D15E12BC85249246ACE060BF2FAB088A25C8968953E64A8CCEC71"
     },
     {
+      "id": "libretro-psp-uljm-05127",
+      "title": "Dragon Quest & Final Fantasy In Itadaki Street Portable",
+      "serials": [
+        "ULJM-05127"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "67 libretro PSP cheat blocks for ULJM-05127; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05127.pnach",
+      "packPath": "files/libretro-psp/ULJM-05127.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 67,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "747636630B0B089D099072E7FB632FD438C36F45BDC78D42E53373344C16F502"
+    },
+    {
+      "id": "libretro-psp-uljm-05241",
+      "title": "Final Fantasy Anniversary Edition",
+      "serials": [
+        "ULJM-05241"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "67 libretro PSP cheat blocks for ULJM-05241; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05241.pnach",
+      "packPath": "files/libretro-psp/ULJM-05241.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 67,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "65CF18ABD6CE2D9FC59BCFC2AD0DA8760E824B0CF78FE23465A7424BAB07653A"
+    },
+    {
       "id": "libretro-psp-uljm-05255",
       "title": "Grand Theft Auto - Liberty City Stories",
       "serials": [
@@ -2207,6 +2416,25 @@
       "sha256": "A613F6B76BBB4E5CC735AE9C1FC0FB2A7DBBB618A45B328A3B2125CFF7DF802A"
     },
     {
+      "id": "libretro-psp-uljm-05300",
+      "title": "Jikkyou Powerful Pro Yakyuu Potable 3",
+      "serials": [
+        "ULJM-05300"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "64 libretro PSP cheat blocks for ULJM-05300; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05300.pnach",
+      "packPath": "files/libretro-psp/ULJM-05300.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 64,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "1CE05CA3032F0E56F6A0E038B27535757AA15D17E3F6AB85F02C912FF678EEDE"
+    },
+    {
       "id": "libretro-psp-uljm-05309",
       "title": "Phantasy Star Portable",
       "serials": [
@@ -2224,6 +2452,25 @@
       "blockCount": 113,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "C391466566D37D11B028322C3343FC763F03788D54C47605FCBF77D54B1C12C5"
+    },
+    {
+      "id": "libretro-psp-uljm-05321",
+      "title": "Dragon Quest & Final Fantasy In Itadaki Street Portable (Ultimate Hits)",
+      "serials": [
+        "ULJM-05321"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "63 libretro PSP cheat blocks for ULJM-05321; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05321.pnach",
+      "packPath": "files/libretro-psp/ULJM-05321.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 63,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C829D3B589C53F800793870CD95B2F219C1AB5BAEB55600089AA952602B5BF97"
     },
     {
       "id": "libretro-psp-uljm-05341",
@@ -2338,6 +2585,25 @@
       "blockCount": 67,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "021441644B23A891254AAEDD8DFECB3FE208A766C4D637699A4652DB505B5726"
+    },
+    {
+      "id": "libretro-psp-uljm-05472",
+      "title": "Hatsune Miku - Project Diva",
+      "serials": [
+        "ULJM-05472"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "61 libretro PSP cheat blocks for ULJM-05472; 5 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05472.pnach",
+      "packPath": "files/libretro-psp/ULJM-05472.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 61,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "9C576ECA36A36A54BCC5F114D6E4C10618FA47191A3F10FA70B15FA8783E46EC"
     },
     {
       "id": "libretro-psp-uljm-05490",
@@ -2547,6 +2813,25 @@
       "blockCount": 200,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "0751D89ED846B8A732EE49EB6D0879D0F876FDF757504E37B48EC29143DF8DF7"
+    },
+    {
+      "id": "libretro-psp-uljm-05676",
+      "title": "Last Ranker",
+      "serials": [
+        "ULJM-05676"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "62 libretro PSP cheat blocks for ULJM-05676; 5 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05676.pnach",
+      "packPath": "files/libretro-psp/ULJM-05676.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 62,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "E96EBB1A8E10BB6E65631CF264FADD09EF2582AA79CB434886A647BEB7345616"
     },
     {
       "id": "libretro-psp-uljm-05753",
@@ -2777,6 +3062,44 @@
       "sha256": "586D0BCA90CED2DD738537523E377FDAE06160DEC8E851B2A46D6D5DD4B1EA18"
     },
     {
+      "id": "libretro-psp-uljs-00168",
+      "title": "The Idolm@ster SP - Wandering Star",
+      "serials": [
+        "ULJS-00168"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "62 libretro PSP cheat blocks for ULJS-00168; 2 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJS-00168.pnach",
+      "packPath": "files/libretro-psp/ULJS-00168.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 62,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "18469DE9078B103573660CC03EF61AF1A4A85566EBEF2248ABDB4E1E558EA47A"
+    },
+    {
+      "id": "libretro-psp-uljs-00169",
+      "title": "The Idolm@ster SP - Missing Moon",
+      "serials": [
+        "ULJS-00169"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "61 libretro PSP cheat blocks for ULJS-00169; 2 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJS-00169.pnach",
+      "packPath": "files/libretro-psp/ULJS-00169.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 61,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "215E26942549050BCE3B63F195AF88B1571D33E235961DA920989EABBD3031A5"
+    },
+    {
       "id": "libretro-psp-uljs-00175",
       "title": "Tales Of The World - Radiant Mythology 2",
       "serials": [
@@ -2851,6 +3174,25 @@
       "blockCount": 67,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "D735244F028E6AEB3A89A33969B2E4F3417396E5F759A757A2CD95310A38758A"
+    },
+    {
+      "id": "libretro-psp-uljs-00190",
+      "title": "Queen's Blade - Spiral Chaos",
+      "serials": [
+        "ULJS-00190"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "63 libretro PSP cheat blocks for ULJS-00190; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJS-00190.pnach",
+      "packPath": "files/libretro-psp/ULJS-00190.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 63,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "2BBB3AE49597FD59A4BDEAFEE77CD549F4AC7F9BA420FA144B765F82B6E38D39"
     },
     {
       "id": "libretro-psp-uljs-00202",
@@ -3252,6 +3594,25 @@
       "sha256": "86A44034FABFB4B15385034DC134A672C9DEF93107032C5C5E9E75BECD0CB14D"
     },
     {
+      "id": "libretro-psp-ulus-10176",
+      "title": "Ace Combat X - Skies Of Deception",
+      "serials": [
+        "ULUS-10176"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "62 libretro PSP cheat blocks for ULUS-10176; 5 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10176.pnach",
+      "packPath": "files/libretro-psp/ULUS-10176.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 62,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "E879EC6A0BA386AB6BBFFCDB7683CAA3C89E61A5A7602A62DA797C55319CD2AA"
+    },
+    {
       "id": "libretro-psp-ulus-10200",
       "title": "Blitz - OverTime",
       "serials": [
@@ -3307,6 +3668,25 @@
       "blockCount": 106,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "41599940B28E5ADF5274656C084439E0E523EC9F7A8242BB95357EB2AF618525"
+    },
+    {
+      "id": "libretro-psp-ulus-10218",
+      "title": "Call Of Duty - Road To Victory",
+      "serials": [
+        "ULUS-10218"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "64 libretro PSP cheat blocks for ULUS-10218; 3 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10218.pnach",
+      "packPath": "files/libretro-psp/ULUS-10218.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 64,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "1419E752B745254C9AC2B2EA824AEAF770E1705FC2C2CCF8D442BD04602282A0"
     },
     {
       "id": "libretro-psp-ulus-10219",
@@ -3592,6 +3972,25 @@
       "blockCount": 178,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "473784DA76DDC5C81722CAA5395590981996F682619C1A8D7E036EA42314588E"
+    },
+    {
+      "id": "libretro-psp-ulus-10339",
+      "title": "Wild Arms XF",
+      "serials": [
+        "ULUS-10339"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "64 libretro PSP cheat blocks for ULUS-10339; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10339.pnach",
+      "packPath": "files/libretro-psp/ULUS-10339.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 64,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "D914FFFD0A3133F3FF5751BCD6A15D1BC9C9A68D970DBBBCF9ED8A915A2EBA93"
     },
     {
       "id": "libretro-psp-ulus-10340",
@@ -3898,6 +4297,25 @@
       "sha256": "9D66B723107453D249F6C79EFC3D5618D89F83051ADA0AC8C3582A8E9C4C0E41"
     },
     {
+      "id": "libretro-psp-ulus-10442",
+      "title": "Kenka Bancho - Badass Rumble",
+      "serials": [
+        "ULUS-10442"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "58 libretro PSP cheat blocks for ULUS-10442; 9 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10442.pnach",
+      "packPath": "files/libretro-psp/ULUS-10442.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 58,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "56980BF3C44C9EBFB52E54F0543C14154BFF6F6407E894F4365A775C46A4204A"
+    },
+    {
       "id": "libretro-psp-ulus-10447",
       "title": "Naruto Shippuden Legends - Akatsuki Rising",
       "serials": [
@@ -3934,6 +4352,25 @@
       "blockCount": 85,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "7E8F9DE075D311B3A71B35DD60E0E6F025D1DB4ACDB493607E66F1F16ACC21E4"
+    },
+    {
+      "id": "libretro-psp-ulus-10455",
+      "title": "Assassin's Creed - Bloodline",
+      "serials": [
+        "ULUS-10455"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "55 libretro PSP cheat blocks for ULUS-10455; 10 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10455.pnach",
+      "packPath": "files/libretro-psp/ULUS-10455.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 55,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "B67E7917E9BA056A81AE6B51D0FF0C3C567CD4A2AD2099E171291330821F0F92"
     },
     {
       "id": "libretro-psp-ulus-10457",
@@ -4124,6 +4561,44 @@
       "blockCount": 116,
       "updatedAt": "2026-09-19T00:00:00Z",
       "sha256": "090C96AFC60DB97E008CCDBCBE1FC92EAF89FA3E054DBF5C986D7D64877835F1"
+    },
+    {
+      "id": "libretro-psp-ulus-10513",
+      "title": "Split-Second",
+      "serials": [
+        "ULUS-10513"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "60 libretro PSP cheat blocks for ULUS-10513; 7 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10513.pnach",
+      "packPath": "files/libretro-psp/ULUS-10513.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 60,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "B5874E71803560067218C0B1578F812FF98E1CD691038CDAF68E1D232D0854C1"
+    },
+    {
+      "id": "libretro-psp-ulus-10515",
+      "title": "Valkyria Chronicles II",
+      "serials": [
+        "ULUS-10515"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "54 libretro PSP cheat blocks for ULUS-10515; 10 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10515.pnach",
+      "packPath": "files/libretro-psp/ULUS-10515.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 54,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "9886C4BD4A2F69B3C393FAFDEA5F2B81E79101D6958F8ED0DC2B4218AF4EF90B"
     },
     {
       "id": "libretro-psp-ulus-10529",

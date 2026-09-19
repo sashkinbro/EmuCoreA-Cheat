@@ -1,0 +1,317 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10218
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Animation Names
+Author = libretro-database contributors / original PSP cheat authors
+00694F80 00000001
+
+// Behavior Count
+Author = libretro-database contributors / original PSP cheat authors
+00695060 00000001
+
+// Disable HUD (1)
+Author = libretro-database contributors / original PSP cheat authors
+006951E8 00000001
+
+// Disable HUD (2)
+Author = libretro-database contributors / original PSP cheat authors
+00695290 00000001
+
+// Dynamic Nodegraph Count
+Author = libretro-database contributors / original PSP cheat authors
+0069507C 00000001
+
+// Fast Gameplay
+Author = libretro-database contributors / original PSP cheat authors
+00695220 00000001
+
+// Framerate
+Author = libretro-database contributors / original PSP cheat authors
+00695028 00000001
+
+// Health Info
+Author = libretro-database contributors / original PSP cheat authors
+00694B3C 00000001
+
+// LUA Memory
+Author = libretro-database contributors / original PSP cheat authors
+0069500C 00000001
+
+// Memory Usage
+Author = libretro-database contributors / original PSP cheat authors
+00694FF0 00000001
+
+// Object Count
+Author = libretro-database contributors / original PSP cheat authors
+00695044 00000001
+
+// Performance Graph
+Author = libretro-database contributors / original PSP cheat authors
+006956D4 00000001
+
+// Show Last 30 Frames
+Author = libretro-database contributors / original PSP cheat authors
+006956F0 00000001
+
+// Slow Gameplay
+Author = libretro-database contributors / original PSP cheat authors
+0069523C 00000001
+
+// Small Crosshair
+Author = libretro-database contributors / original PSP cheat authors
+00694B58 00000001
+
+// Crazy Camera
+Author = libretro-database contributors / original PSP cheat authors
+00175110 00004000
+
+// Flash
+Author = libretro-database contributors / original PSP cheat authors
+602D0A14 3C054200
+00020001 00006230
+
+// Flash v2
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 002D0A14
+00006230 3C054200
+
+// Health Pointer
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 44960000
+00020001 000003E4
+
+// Incrementing Nades
+Author = libretro-database contributors / original PSP cheat authors
+0001B5E8 0E2001C0
+00000700 3C0808B2
+00000704 8D0823F4
+00000708 8D0A020C
+0000070C 254A0001
+00000710 AD0A020C
+00000714 03E00008
+00000718 0E2546E2
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20034A14 ACA70134
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 45A50000
+00020001 000003E4
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 003223F4
+000003E4 45A50000
+
+// Infinite Health & Grenades
+Author = libretro-database contributors / original PSP cheat authors
+200BD630 0A200800
+20002000 3C0447C4
+20002004 AE0403E4
+20002008 24040063
+2000200C AE04020C
+20002010 0A22F58D
+20002014 C60D03E4
+
+// Invisible
+Author = libretro-database contributors / original PSP cheat authors
+202CCB38 03E00008
+202CCB3C 00000000
+
+// Invisible Gun
+Author = libretro-database contributors / original PSP cheat authors
+013EEFE8 00000000
+
+// Lock Camera Forward
+Author = libretro-database contributors / original PSP cheat authors
+00025120 00000000
+
+// Max Accuracy/Kills/Headshots/Shots Fired
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 003223F4
+00000448 000003E7
+0000044C 000003E7
+00000450 000003E7
+00000454 000003E7
+
+// Max Accuracy/Kills/Headshots/Shots Fired v2
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 000003E7
+00020001 00000448
+00020001 0000044C
+00020001 00000450
+00020001 00000454
+
+// Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 000003E7
+00020001 00000448
+00020001 0000044C
+00020001 00000450
+00020001 00000454
+
+// No Bounce
+Author = libretro-database contributors / original PSP cheat authors
+0002E0B0 00000000
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20029B18 3C054280
+
+// Speed Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+20029B18 3C054180
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20029B18 3C053F80
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20029B18 3C054080
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20029B18 3C053E80
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20029B18 3C053D80
+
+// Super Flash
+Author = libretro-database contributors / original PSP cheat authors
+00029B18 00004100
+
+// Tiny Reticle
+Author = libretro-database contributors / original PSP cheat authors
+00045388 00004480
+
+// Warp
+Author = libretro-database contributors / original PSP cheat authors
+000AFCC0 00004880
+
+// XYZ Coordinates
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 012BAF2C
+00000078 00000000
+0000007C 00000000
+00000080 00000000
+
+// XYZ Coordinates v2
+Author = libretro-database contributors / original PSP cheat authors
+612BAF2C 00000000
+00020001 00000078
+00020001 0000007C
+00020001 00000080
+
+// Infinite [Bar]
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 00000014
+00020001 0000015C
+
+// Infinite [Bar] v2
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 003223F4
+0000015C 00000014
+
+// Infinite [Grenades]
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 00000004
+00020001 0000020C
+
+// Infinite [Grenades] v2
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 003223F4
+0000020C 00000004
+
+// Infinite [Kar98-k]
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 00000005
+00020001 00000140
+
+// Infinite [Kar98-k] v2
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 003223F4
+00000140 00000005
+
+// Infinite [Kar98-K (Scoped)]
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 00000005
+00020001 00000158
+
+// Infinite [Kar98-K (Scoped)] v2
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 003223F4
+00000158 00000005
+
+// Infinite [M1903]
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 00000005
+00020001 00000154
+
+// Infinite [M4A1 Carbine]
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 0000000F
+00020001 00000170
+
+// Infinite [M4A1 Carbine] v2
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 003223F4
+00000170 0000000F
+
+// Infinite [MP-40]
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 00000020
+00020001 00000150
+
+// Infinite [MP-40] v2
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 003223F4
+00000150 00000020
+
+// Infinite [MP-44]
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 0000001E
+00020001 00000164
+
+// Infinite [MP-44] v2
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 003223F4
+00000164 0000001E
+
+// Infinite [M1903]
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 00000005
+00020001 00000154
+
+// Infinite [M1903] v2
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 003223F4
+00000154 00000005
+
+// Infinite [Panzerschreck]
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 00000001
+00020001 0000016C
+
+// Infinite [Panzerschreck] v2
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 003223F4
+0000016C 00000001
+
+// Infinite [Thompson SMG]
+Author = libretro-database contributors / original PSP cheat authors
+603223F4 00000014
+00020001 00000148
+
+// Infinite [Thompson SMG] v2
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 003223F4
+00000148 00000014
+
+// Infinite [Tommygun Ammo]
+Author = libretro-database contributors / original PSP cheat authors
+015A75A8 00000020

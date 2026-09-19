@@ -218,6 +218,18 @@
       "zipBytes": 2258
     },
     {
+      "serial": "NPJH-50441",
+      "catalogId": "libretro-psp-npjh-50441",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-NPJH-50441.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPJH-50441.pnach",
+      "pnachSha256": "D01C1CE005689FE580165B8F469A920690B63C963F44DCD1462F483920A689F4",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-NPJH-50441.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPJH-50441.zip",
+      "zipSha256": "DC07950F1C9AE07EA813D4DC95FE53B583E99D9ABA089A0EAA8A16AAD9F1F3BC",
+      "pnachBytes": 9507,
+      "zipBytes": 1474
+    },
+    {
       "serial": "NPJH-50443",
       "catalogId": "libretro-psp-npjh-50443",
       "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-NPJH-50443.pnach",
@@ -288,6 +300,18 @@
       "zipSha256": "74A1CBE167F183DCB2CA2E4B7AE0D8C986F92543C581D3EAF0084CBC9493CA10",
       "pnachBytes": 9717,
       "zipBytes": 1964
+    },
+    {
+      "serial": "NPJH-50566",
+      "catalogId": "libretro-psp-npjh-50566",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-NPJH-50566.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPJH-50566.pnach",
+      "pnachSha256": "B421BCBAD96CB96F280252E7192374F5948FD905DD0688B5D2EDEC990F9B63CC",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-NPJH-50566.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPJH-50566.zip",
+      "zipSha256": "1FB46275ED4EBE70BCDDE649E4A2DE41F5315438F3E1F1F21F22D9DB7E473E09",
+      "pnachBytes": 12794,
+      "zipBytes": 3118
     },
     {
       "serial": "NPJH-50567",
@@ -372,6 +396,18 @@
       "zipSha256": "6B3724F0CC79834E91020C41D25F93BC275C6B38D38C45D9176EC2084464CD54",
       "pnachBytes": 71005,
       "zipBytes": 6654
+    },
+    {
+      "serial": "NPJH-50716",
+      "catalogId": "libretro-psp-npjh-50716",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-NPJH-50716.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPJH-50716.pnach",
+      "pnachSha256": "F9768C1A9F25D5783D4034464D64D0E9818685329036A21EABDF04CF07E8B14D",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-NPJH-50716.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPJH-50716.zip",
+      "zipSha256": "2D8B25ECDF7DD6931E032DAFD8A1041FAA23E63F08074944CDF03213D9D30A93",
+      "pnachBytes": 12944,
+      "zipBytes": 2621
     },
     {
       "serial": "NPJH-50717",
@@ -506,6 +542,18 @@
       "zipBytes": 1949
     },
     {
+      "serial": "NPUZ-00132",
+      "catalogId": "libretro-psp-npuz-00132",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-NPUZ-00132.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPUZ-00132.pnach",
+      "pnachSha256": "0DB274048EFEFAF6BAC59439E1E36CAA86D168E3D88F0ED380BBB3F127565DF1",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-NPUZ-00132.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPUZ-00132.zip",
+      "zipSha256": "FD0DF01A4F5E53DAB8621764867251334256B7A7ED8426B878617F7501360764",
+      "pnachBytes": 7163,
+      "zipBytes": 1101
+    },
+    {
       "serial": "UCES-00001",
       "catalogId": "libretro-psp-uces-00001",
       "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-UCES-00001.pnach",
@@ -614,6 +662,18 @@
       "zipBytes": 1518
     },
     {
+      "serial": "UCJS-10095",
+      "catalogId": "libretro-psp-ucjs-10095",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-UCJS-10095.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-UCJS-10095.pnach",
+      "pnachSha256": "580F844BF1BC001CFE2C8271685A6DE8A6174551F4615C1825B19963C0C82907",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-UCJS-10095.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-UCJS-10095.zip",
+      "zipSha256": "5D0B68A647170847B9B4A9B9C6008E225527E3C123705389F90A304CFA5E088B",
+      "pnachBytes": 6965,
+      "zipBytes": 966
+    },
+    {
       "serial": "UCJS-10100",
       "catalogId": "libretro-psp-ucjs-10100",
       "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-UCJS-10100.pnach",
@@ -624,6 +684,18 @@
       "zipSha256": "40BF8F0AFC31D1859AEB83449A3DFD6B8BFAD30CE2A1F148F01544189AE465BC",
       "pnachBytes": 64495,
       "zipBytes": 8073
+    },
+    {
+      "serial": "UCJS-10109",
+      "catalogId": "libretro-psp-ucjs-10109",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-UCJS-10109.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-UCJS-10109.pnach",
+      "pnachSha256": "BA4378068EDD9882A2282C3CB50432D53869CF5E53691D3CABF615FA3A0DFE60",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-UCJS-10109.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-UCJS-10109.zip",
+      "zipSha256": "0AE5F681E961E2E6DD5EBF75334C3BE0062D670C88E3051DB7CBA198030BA72D",
+      "pnachBytes": 9476,
+      "zipBytes": 2251
     },
     {
       "serial": "UCKS-45027",
@@ -684,6 +756,18 @@
       "zipSha256": "5576B04AD0F5654250AA01BC1DF1EB1FE96678EAAD746EB536FE4FDAB41BAC8D",
       "pnachBytes": 26113,
       "zipBytes": 4389
+    },
+    {
+      "serial": "UCUS-98640",
+      "catalogId": "libretro-psp-ucus-98640",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-UCUS-98640.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-UCUS-98640.pnach",
+      "pnachSha256": "D379C0FF6B408D95D1FCD933B88D62E7468B1AF0D9606E43FA5F9F6DBF5EA73C",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-UCUS-98640.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-UCUS-98640.zip",
+      "zipSha256": "C29769A033B981397841952FC9474654B030CE6B2F4A9C574952BF3D8B43D00C",
+      "pnachBytes": 8649,
+      "zipBytes": 1602
     },
     {
       "serial": "UCUS-98645",
@@ -914,6 +998,18 @@
       "zipBytes": 2529
     },
     {
+      "serial": "ULES-00740",
+      "catalogId": "libretro-psp-ules-00740",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULES-00740.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULES-00740.pnach",
+      "pnachSha256": "447E8568DC132D64FA04790356C927074B2EDFED9ED211E729B8E8BF3A2C07C9",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULES-00740.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULES-00740.zip",
+      "zipSha256": "44E341769A6B21BC304B9361071C7B2D36AF0628C8498565B80872A2C284CAE0",
+      "pnachBytes": 7848,
+      "zipBytes": 1542
+    },
+    {
       "serial": "ULES-00756",
       "catalogId": "libretro-psp-ules-00756",
       "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULES-00756.pnach",
@@ -1044,6 +1140,18 @@
       "zipSha256": "A4685B4CF2CEBBCECE707B25AF2D8FD20D4213B166739B83B59A98CF29EF5330",
       "pnachBytes": 11999,
       "zipBytes": 2026
+    },
+    {
+      "serial": "ULES-01145",
+      "catalogId": "libretro-psp-ules-01145",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULES-01145.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULES-01145.pnach",
+      "pnachSha256": "2359112C8AC39E4C53ADEA3E02C43050253F4DD2264740866D43CF1778416983",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULES-01145.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULES-01145.zip",
+      "zipSha256": "609F08276C2C83D8E1FF8BAB535E963858527A8A2A063FDBF0A4F2F2ECA5E8B3",
+      "pnachBytes": 6958,
+      "zipBytes": 1319
     },
     {
       "serial": "ULES-01151",
@@ -1334,6 +1442,30 @@
       "zipBytes": 3969
     },
     {
+      "serial": "ULJM-05127",
+      "catalogId": "libretro-psp-uljm-05127",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05127.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05127.pnach",
+      "pnachSha256": "747636630B0B089D099072E7FB632FD438C36F45BDC78D42E53373344C16F502",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05127.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05127.zip",
+      "zipSha256": "12F596D80B661EF0362E64B2A8F4245B7722AD3F3B42A7B04DEAAE93A965BE8C",
+      "pnachBytes": 8656,
+      "zipBytes": 1134
+    },
+    {
+      "serial": "ULJM-05241",
+      "catalogId": "libretro-psp-uljm-05241",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05241.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05241.pnach",
+      "pnachSha256": "65CF18ABD6CE2D9FC59BCFC2AD0DA8760E824B0CF78FE23465A7424BAB07653A",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05241.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05241.zip",
+      "zipSha256": "045B86656D3F27A0D7D65972746B0958017D20EE614163DB397119BC86A95FA5",
+      "pnachBytes": 8163,
+      "zipBytes": 1109
+    },
+    {
       "serial": "ULJM-05255",
       "catalogId": "libretro-psp-uljm-05255",
       "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05255.pnach",
@@ -1394,6 +1526,18 @@
       "zipBytes": 2555
     },
     {
+      "serial": "ULJM-05300",
+      "catalogId": "libretro-psp-uljm-05300",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05300.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05300.pnach",
+      "pnachSha256": "1CE05CA3032F0E56F6A0E038B27535757AA15D17E3F6AB85F02C912FF678EEDE",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05300.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05300.zip",
+      "zipSha256": "8B4A04436AE66CAE610CE47BF3DEA78565FD395D4D0D70D77D2B66BB330E3AB6",
+      "pnachBytes": 9476,
+      "zipBytes": 1544
+    },
+    {
       "serial": "ULJM-05309",
       "catalogId": "libretro-psp-uljm-05309",
       "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05309.pnach",
@@ -1404,6 +1548,18 @@
       "zipSha256": "D70AD22429969F1315995B0BC3C296ED68ADC3C5DB63F65D97B307A5170B55AD",
       "pnachBytes": 23230,
       "zipBytes": 3496
+    },
+    {
+      "serial": "ULJM-05321",
+      "catalogId": "libretro-psp-uljm-05321",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05321.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05321.pnach",
+      "pnachSha256": "C829D3B589C53F800793870CD95B2F219C1AB5BAEB55600089AA952602B5BF97",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05321.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05321.zip",
+      "zipSha256": "951BBD888784D0192A3D778707AAE3C3D4CD397DE552FB5C159FC0C9DD44FCDD",
+      "pnachBytes": 8104,
+      "zipBytes": 1064
     },
     {
       "serial": "ULJM-05341",
@@ -1476,6 +1632,18 @@
       "zipSha256": "CAFB8B3409895BB3BB6499972A74DBF5521CC9A3894A36250167C58009A617E2",
       "pnachBytes": 9298,
       "zipBytes": 1736
+    },
+    {
+      "serial": "ULJM-05472",
+      "catalogId": "libretro-psp-uljm-05472",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05472.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05472.pnach",
+      "pnachSha256": "9C576ECA36A36A54BCC5F114D6E4C10618FA47191A3F10FA70B15FA8783E46EC",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05472.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05472.zip",
+      "zipSha256": "273ED2B170F01EBC3DE3908A0C65330BB03C742CEA909D5BE7B348340892DD08",
+      "pnachBytes": 9459,
+      "zipBytes": 1602
     },
     {
       "serial": "ULJM-05490",
@@ -1608,6 +1776,18 @@
       "zipSha256": "3535AA648BE87CC14007B5FD2EB98D9AF1F6905DBBBA44C196E95F3B759149D3",
       "pnachBytes": 32334,
       "zipBytes": 4555
+    },
+    {
+      "serial": "ULJM-05676",
+      "catalogId": "libretro-psp-uljm-05676",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05676.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05676.pnach",
+      "pnachSha256": "E96EBB1A8E10BB6E65631CF264FADD09EF2582AA79CB434886A647BEB7345616",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULJM-05676.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJM-05676.zip",
+      "zipSha256": "E8804305BE94790CBE60E5D2BF3B2AF578E6A9508F27E8E56CF0D3CC2027F16E",
+      "pnachBytes": 8655,
+      "zipBytes": 1753
     },
     {
       "serial": "ULJM-05753",
@@ -1754,6 +1934,30 @@
       "zipBytes": 1912
     },
     {
+      "serial": "ULJS-00168",
+      "catalogId": "libretro-psp-uljs-00168",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULJS-00168.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJS-00168.pnach",
+      "pnachSha256": "18469DE9078B103573660CC03EF61AF1A4A85566EBEF2248ABDB4E1E558EA47A",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULJS-00168.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJS-00168.zip",
+      "zipSha256": "59E9AB0A3A925BB736A0688F4DA088A9ABFE77A10A74C4DD4974B7C7631E1B5B",
+      "pnachBytes": 8511,
+      "zipBytes": 1476
+    },
+    {
+      "serial": "ULJS-00169",
+      "catalogId": "libretro-psp-uljs-00169",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULJS-00169.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJS-00169.pnach",
+      "pnachSha256": "215E26942549050BCE3B63F195AF88B1571D33E235961DA920989EABBD3031A5",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULJS-00169.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJS-00169.zip",
+      "zipSha256": "9A5E256261779685CE36076F692FB2D966A6621F6824B5ADCC4A7ACE836AC8C7",
+      "pnachBytes": 8409,
+      "zipBytes": 1458
+    },
+    {
       "serial": "ULJS-00175",
       "catalogId": "libretro-psp-uljs-00175",
       "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULJS-00175.pnach",
@@ -1800,6 +2004,18 @@
       "zipSha256": "0D9B9646F7B42BF0AAFE4369521C361EAD663F0141546ACCBA37541FFEED5DAF",
       "pnachBytes": 8945,
       "zipBytes": 1757
+    },
+    {
+      "serial": "ULJS-00190",
+      "catalogId": "libretro-psp-uljs-00190",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULJS-00190.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJS-00190.pnach",
+      "pnachSha256": "2BBB3AE49597FD59A4BDEAFEE77CD549F4AC7F9BA420FA144B765F82B6E38D39",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULJS-00190.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULJS-00190.zip",
+      "zipSha256": "0ADF6D8C5FA350514D8B2EBEE83ECFE0D52B1498F55D02FC5437B9683728DEB2",
+      "pnachBytes": 9113,
+      "zipBytes": 1587
     },
     {
       "serial": "ULJS-00202",
@@ -2054,6 +2270,18 @@
       "zipBytes": 5384
     },
     {
+      "serial": "ULUS-10176",
+      "catalogId": "libretro-psp-ulus-10176",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10176.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10176.pnach",
+      "pnachSha256": "E879EC6A0BA386AB6BBFFCDB7683CAA3C89E61A5A7602A62DA797C55319CD2AA",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10176.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10176.zip",
+      "zipSha256": "EA4C352DF043745773A60C4835F6B960893EECA8E103A172A5BDD88132EED88A",
+      "pnachBytes": 9841,
+      "zipBytes": 1974
+    },
+    {
       "serial": "ULUS-10200",
       "catalogId": "libretro-psp-ulus-10200",
       "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10200.pnach",
@@ -2088,6 +2316,18 @@
       "zipSha256": "A93159EC6AA0AEFECB0D63105021208E4FE78B45A7C1EAE5CE84F1B7D7B8319D",
       "pnachBytes": 12288,
       "zipBytes": 1707
+    },
+    {
+      "serial": "ULUS-10218",
+      "catalogId": "libretro-psp-ulus-10218",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10218.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10218.pnach",
+      "pnachSha256": "1419E752B745254C9AC2B2EA824AEAF770E1705FC2C2CCF8D442BD04602282A0",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10218.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10218.zip",
+      "zipSha256": "47E7575CDEB53676A2608B29E7B154589AD2182D67109DB1539754FE2EC6E07C",
+      "pnachBytes": 8243,
+      "zipBytes": 1432
     },
     {
       "serial": "ULUS-10219",
@@ -2268,6 +2508,18 @@
       "zipSha256": "76BD258575A76C4257B05ABFCD956368DB02928DA8AE767B4F2F0CD6CA4DAE06",
       "pnachBytes": 33091,
       "zipBytes": 5706
+    },
+    {
+      "serial": "ULUS-10339",
+      "catalogId": "libretro-psp-ulus-10339",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10339.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10339.pnach",
+      "pnachSha256": "D914FFFD0A3133F3FF5751BCD6A15D1BC9C9A68D970DBBBCF9ED8A915A2EBA93",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10339.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10339.zip",
+      "zipSha256": "3C9C58E8334FF786A6526989712F1112DE50E2F93202289487F2182BCF41C420",
+      "pnachBytes": 11094,
+      "zipBytes": 2141
     },
     {
       "serial": "ULUS-10340",
@@ -2462,6 +2714,18 @@
       "zipBytes": 2758
     },
     {
+      "serial": "ULUS-10442",
+      "catalogId": "libretro-psp-ulus-10442",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10442.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10442.pnach",
+      "pnachSha256": "56980BF3C44C9EBFB52E54F0543C14154BFF6F6407E894F4365A775C46A4204A",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10442.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10442.zip",
+      "zipSha256": "B9F900A2E81A4DFE9FAAB9F7A016259EC2C5CB54FFFACD3967FEE61C59491E73",
+      "pnachBytes": 8048,
+      "zipBytes": 1463
+    },
+    {
       "serial": "ULUS-10447",
       "catalogId": "libretro-psp-ulus-10447",
       "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10447.pnach",
@@ -2484,6 +2748,18 @@
       "zipSha256": "EE0CB158717BA6840295F7F2BA91B0DF520FEA6850C6604F3FEF912A701FCDD0",
       "pnachBytes": 12272,
       "zipBytes": 2024
+    },
+    {
+      "serial": "ULUS-10455",
+      "catalogId": "libretro-psp-ulus-10455",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10455.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10455.pnach",
+      "pnachSha256": "B67E7917E9BA056A81AE6B51D0FF0C3C567CD4A2AD2099E171291330821F0F92",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10455.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10455.zip",
+      "zipSha256": "F90987F6C883296506B8F262DFAE87C6A9640E2374AEC41913E4C36C047DE677",
+      "pnachBytes": 16200,
+      "zipBytes": 4097
     },
     {
       "serial": "ULUS-10457",
@@ -2604,6 +2880,30 @@
       "zipSha256": "2A8C35CAF5ED16F92D1BC900D1E1AF56CA9D08495BA682F8F8F3FC43DC925CBE",
       "pnachBytes": 17071,
       "zipBytes": 2690
+    },
+    {
+      "serial": "ULUS-10513",
+      "catalogId": "libretro-psp-ulus-10513",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10513.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10513.pnach",
+      "pnachSha256": "B5874E71803560067218C0B1578F812FF98E1CD691038CDAF68E1D232D0854C1",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10513.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10513.zip",
+      "zipSha256": "EF9CD838F362D29E12453E3B42F3F80C1FF3E88D723CC701F71DBD3BC5C1315A",
+      "pnachBytes": 7384,
+      "zipBytes": 1495
+    },
+    {
+      "serial": "ULUS-10515",
+      "catalogId": "libretro-psp-ulus-10515",
+      "pnachAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10515.pnach",
+      "pnachUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10515.pnach",
+      "pnachSha256": "9886C4BD4A2F69B3C393FAFDEA5F2B81E79101D6958F8ED0DC2B4218AF4EF90B",
+      "zipAsset": "EmuCoreA-Cheat-cheat-catalog-ULUS-10515.zip",
+      "zipUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ULUS-10515.zip",
+      "zipSha256": "0A659116FCE4AA8B172CFA2D1C97EAE379E0EB79831994D396F31FB8210468E1",
+      "pnachBytes": 7171,
+      "zipBytes": 1379
     },
     {
       "serial": "ULUS-10529",

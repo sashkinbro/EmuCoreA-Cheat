@@ -1,0 +1,419 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10176
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+200057E8 00000000
+20165598 3C0108AA
+2016559C 8C224968
+201655A0 3C0108B9
+201655A4 8C3B0700
+201655A8 005B1021
+20078D4C 2462FFFF
+
+// 60 FPS [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200057E8 0E28922B
+20165598 10400006
+2016559C 00000000
+201655A0 3C0208AA
+201655A4 8C424968
+201655A8 24420001
+20078D4C 00621023
+
+// $ 100.000.000
+Author = libretro-database contributors / original PSP cheat authors
+20280E38 05F5E100
+
+// 100 Special Weapon
+Author = libretro-database contributors / original PSP cheat authors
+0028B9D3 00000064
+
+// 100.000.000 $
+Author = libretro-database contributors / original PSP cheat authors
+20280E38 05F5E100
+
+// 250 Missiles
+Author = libretro-database contributors / original PSP cheat authors
+0028B9D2 000000FA
+
+// 250 Missiles v2
+Author = libretro-database contributors / original PSP cheat authors
+2028B9D0 000000FA
+
+// Ace Lobby Text Mod
+Author = libretro-database contributors / original PSP cheat authors
+00764A64 69726553
+00764A68 4B206C61
+00764A6C 00230072
+00764A84 424D4F42
+00764A88 55545320
+00764A8C 4E204646
+00764A90 0000574F
+00764AA4 4452554D
+00764AA8 54415245
+00764AAC 004E4F49
+00764AC4 45455246
+00764AC8 4E415220
+00764ACC 44204547
+00764AD0 004B4355
+00764AE4 454D4147
+00764AE8 43414820
+00764AEC 474E494B
+00764B04 46555453
+00764B08 22582246
+00764B24 54494853
+00764B28 45495620
+00764B2C 00524557
+00764B44 4B434148
+00764B48 44205245
+00764B4C 00415441
+00764B64 53415245
+00764B68 41442045
+00764B6C 00004145
+
+// All Aircarft Color
+Author = libretro-database contributors / original PSP cheat authors
+80280E46 00280001
+10002373 00000000
+
+// All Parts
+Author = libretro-database contributors / original PSP cheat authors
+20280EB8 03030300
+40280EBC 000E0001
+03030303 00000000
+00280EF4 00000003
+
+// Def. Up 1/2
+Author = libretro-database contributors / original PSP cheat authors
+10852064 00003E80
+108521EC 00003E80
+10852374 00003E80
+108524FC 00003E80
+10852684 00003E80
+1085280C 00003E80
+10852994 00003E80
+10852B1C 00003E80
+10852CA4 00003E80
+10852E2C 00003E80
+10852FB4 00003E80
+1085313C 00003E80
+108532C4 00003E80
+1085344C 00003E80
+108535D4 00003E80
+1085375C 00003E80
+108538E4 00003E80
+10853A6C 00003E80
+10853BF4 00003E80
+10853D7C 00003E80
+10853F04 00003E80
+1085408C 00003E80
+10854214 00003E80
+1085439C 00003E80
+10854524 00003E80
+108546AC 00003E80
+10854834 00003E80
+
+// Def. Up 2/2
+Author = libretro-database contributors / original PSP cheat authors
+108549BC 00003E80
+10854B44 00003E80
+10854CCC 00003E80
+10854E54 00003E80
+10854FDC 00003E80
+10855164 00003E80
+108552EC 00003E80
+10855474 00003E80
+108555FC 00003E80
+10855784 00003E80
+1085590C 00003E80
+10855A94 00003E80
+10855C1C 00003E80
+
+// Extreme Boost (Press Triangle+DPad Up = 20,000 Mph.)
+Author = libretro-database contributors / original PSP cheat authors
+0004C074 0A200C00
+00003000 3C0808A7
+00003004 8D08B54C
+00003008 24091200
+0000300C 15090005
+00003010 00000000
+00003014 3C0808A9
+00003018 3C09443B
+0000301C 25290000
+00003020 AD09BA64
+00003024 24094200
+00003028 15090005
+0000302C 00000000
+00003030 3C0808A9
+00003034 3C094118
+00003038 25298A75
+0000303C AD09BA64
+00003040 03E00008
+
+// Infinite Credits
+Author = libretro-database contributors / original PSP cheat authors
+00001550 4C4C494B
+00001554 004C4C41
+00280E38 0B532B80
+00813335 0B532B80
+
+// Instant Boost (Press Triangle+^ For 5,000 Mph.)
+Author = libretro-database contributors / original PSP cheat authors
+0004C074 0A200C00
+00003000 3C0808A7
+00003004 8D08B54C
+00003008 24091200
+0000300C 15090005
+00003010 00000000
+00003014 3C0808A9
+00003018 3C09433B
+0000301C 25290000
+00003020 AD09BA64
+00003024 24094200
+00003028 15090005
+0000302C 00000000
+00003030 3C0808A9
+00003034 3C094118
+00003038 25298A75
+0000303C AD09BA64
+00003040 03E00008
+
+// Instant Speed Boost (Press Triangle+^ For 2,000 Mph.)
+Author = libretro-database contributors / original PSP cheat authors
+0004C074 0A200C00
+00003000 3C0808A7
+00003004 8D08B54C
+00003008 24091200
+0000300C 15090005
+00003010 00000000
+00003014 3C0808A9
+00003018 3C0942AE
+0000301C 2529FFFF
+00003020 AD09BA64
+00003024 24094200
+00003028 15090005
+0000302C 00000000
+00003030 3C0808A9
+00003034 3C094118
+00003038 25298A75
+0000303C AD09BA64
+00003040 03E00008
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+20280C0C 000F423F
+
+// Max Weapon
+Author = libretro-database contributors / original PSP cheat authors
+1028B9D2 0000FFFF
+
+// Max (999) Machine Gun
+Author = libretro-database contributors / original PSP cheat authors
+1028BBE4 000003E7
+
+// Missile Rapidfire
+Author = libretro-database contributors / original PSP cheat authors
+E0020FFF 2028B9D4
+D028B9D4 00300005
+1028B9D4 00000002
+E0020FFF 2028B9D6
+D028B9D6 00300005
+1028B9D6 00000002
+E0020FFF 2028B9D8
+D028B9D8 00300005
+1028B9D8 00000002
+E0020FFF 2028B9DA
+D028B9DA 00300005
+1028B9DA 00000002
+
+// Speacial Weapon Rapidfire
+Author = libretro-database contributors / original PSP cheat authors
+E0020FFF 2028B9DC
+D028B9DC 00300005
+1028B9DC 00000002
+E0020FFF 2028B9DE
+D028B9DE 00300005
+1028B9DE 00000002
+E0020FFF 2028B99E
+D028B99E 00300005
+1028B99E 00000002
+E0020FFF 2028B9E2
+D028B9E2 00300005
+1028B9E2 00000002
+
+// Super Speed (Change Value)
+Author = libretro-database contributors / original PSP cheat authors
+1028BA66 0000425F
+
+// Working Special Weapon Rapid Fire
+Author = libretro-database contributors / original PSP cheat authors
+E0020FFF 2028B9DC
+D028B9DC 00300005
+1028B9DC 00000002
+E0020FFF 2028B9DE
+D028B9DE 00300005
+1028B9DE 00000002
+E0020FFF 2028B99E
+D028B99E 00300005
+1028B99E 00000002
+E0020FFF 2028B9E2
+D028B9E2 00300005
+1028B9E2 00000002
+
+// A-10A Thunderbolt II
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000008
+
+// A-6E Intruder
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000001
+
+// Adf.-01 Flaken
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000026
+
+// F/A-18E Super Hornet
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000015
+
+// F/B-22
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000022
+
+// F-1
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000005
+
+// F-117A Nighthawk
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000016
+
+// F-14D Super Tomcat
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 0000000B
+
+// F-15E Strike Eagle
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 0000000F
+
+// F-15S/MTO
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 0000001E
+
+// F-16C Fighting Falcon
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000006
+
+// F-16XL
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000017
+
+// F-22 Raptor
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000020
+
+// F-2A
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000013
+
+// F-35 Lighting II
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000019
+
+// F-5E Tiger II
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000004
+
+// Fenrir
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000027
+
+// Gripen C
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 0000001A
+
+// JA 37 Viggen
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000002
+
+// MiG-1.44
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000021
+
+// MiG-21-93
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000009
+
+// MiG-29A Fulcrum
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000007
+
+// MiG-31 Foxhound
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 0000000C
+
+// Mirage 2000D
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 0000000A
+
+// Rafale M
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000018
+
+// S-32
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000024
+
+// Su-27 Flanker
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000012
+
+// Su-37 Terminator
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 0000001F
+
+// Su-47 Berkut
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000023
+
+// Tornado F3
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 0000000E
+
+// Typhoon
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 0000001B
+
+// X-02 Wyvern
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000025
+
+// X-29A
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000010
+
+// XFA-24A Apalis
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000003
+
+// XFA-27
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000011
+
+// XR-45 Cariburn
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 00000014
+
+// YF-23A Black Widow II
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 0000001C
+
+// YR-302 Fregate
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 0000000D
+
+// YR-99 Forneus
+Author = libretro-database contributors / original PSP cheat authors
+00280AFF 0000001D

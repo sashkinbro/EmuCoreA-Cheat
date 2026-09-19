@@ -1,0 +1,479 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10339
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 0 Turns Left
+Author = libretro-database contributors / original PSP cheat authors
+11483608 00000000
+1148384A 00000000
+11498810 00000000
+
+// 9999 Money
+Author = libretro-database contributors / original PSP cheat authors
+2149A758 0000270F
+
+// Accelerate
+Author = libretro-database contributors / original PSP cheat authors
+2014AB24 0A20041C
+20001070 906104C8
+20001074 30210002
+20001078 14200005
+20001080 0E25EA7C
+20001084 24050042
+20001088 0A252ACB
+20001090 0A252ACD
+
+// Analysis
+Author = libretro-database contributors / original PSP cheat authors
+20202D58 13E000DB
+
+// Auto Revival
+Author = libretro-database contributors / original PSP cheat authors
+20154F74 53E0001C
+20154FDC 8E3702B8
+
+// Can Use High Rank Items
+Author = libretro-database contributors / original PSP cheat authors
+20175958 17E00003
+
+// Complete Search
+Author = libretro-database contributors / original PSP cheat authors
+202081B4 24040000
+20208754 50000007
+2022656C 24020000
+2022687C 24030000
+
+// CP Labyrinthia
+Author = libretro-database contributors / original PSP cheat authors
+1149B0F0 0000015E
+1149B0F2 0000015E
+1149B0F4 0000015E
+1149B0F6 0000015E
+1149B0F8 0000015E
+1149B0FA 0000015E
+1149B0FC 0000015E
+1149B0FE 0000015E
+1149B100 0000015E
+1149B102 0000015E
+1149B104 0000015E
+1149B106 0000015E
+1149B108 0000015E
+1149B10A 0000015E
+1149B10C 0000015E
+1149B114 0000015E
+
+// CSP After Battle
+Author = libretro-database contributors / original PSP cheat authors
+008CFFFC 0000015E
+
+// CSP Alexia
+Author = libretro-database contributors / original PSP cheat authors
+1149B5C4 0000015E
+1149B5C6 0000015E
+1149B5C8 0000015E
+1149B5CA 0000015E
+1149B5CC 0000015E
+1149B5CE 0000015E
+1149B5D0 0000015E
+1149B5D2 0000015E
+1149B5D4 0000015E
+1149B5D6 0000015E
+1149B5D8 0000015E
+1149B5DA 0000015E
+1149B5DC 0000015E
+1149B5DE 0000015E
+1149B5E0 0000015E
+1149B5E2 0000015E
+1149B5EE 0000015E
+
+// CSP Alexia v2
+Author = libretro-database contributors / original PSP cheat authors
+1149B5C4 0000015E
+1149B5C6 0000015E
+1149B5C8 0000015E
+1149B5CA 0000015E
+1149B5CC 0000015E
+1149B5CE 0000015E
+1149B5D0 0000015E
+1149B5D2 0000015E
+1149B5D4 0000015E
+1149B5D6 0000015E
+1149B5D8 0000015E
+1149B5DA 0000015E
+1149B5DC 0000015E
+1149B5DE 0000015E
+1149B5E0 0000015E
+1149B5EE 0000015E
+1149B5D2 0098967F
+2149BA70 0098967F
+2149BCBC 0098967F
+
+// CSP Clarissa
+Author = libretro-database contributors / original PSP cheat authors
+1149ADD8 00000124
+1149ADB8 00000124
+1149ADBA 00000124
+1149ADBC 00000124
+1149ADBE 00000124
+
+// CSP Drifters
+Author = libretro-database contributors / original PSP cheat authors
+1149B8FC 0000015E
+1149B8FE 0000015E
+1149B900 0000015E
+1149B902 0000015E
+1149B904 0000015E
+1149B906 0000015E
+1149B908 0000015E
+1149B90A 0000015E
+1149B90C 0000015E
+1149B90E 0000015E
+1149B910 0000015E
+1149B912 0000015E
+1149B914 0000015E
+1149B916 0000015E
+1149B918 0000015E
+1149BA98 0000015E
+1149BA9C 0000015E
+1149BA9E 0000015E
+
+// CSP Felius
+Author = libretro-database contributors / original PSP cheat authors
+1149AF76 00000124
+1149AF54 00000124
+1149AF56 00000124
+1149AF58 00000124
+1149AF5A 00000124
+
+// CSP Felius v2
+Author = libretro-database contributors / original PSP cheat authors
+1149AF54 0000015E
+1149AF56 0000015E
+1149AF58 0000015E
+1149AF5A 0000015E
+1149AF5C 0000015E
+1149AF5E 0000015E
+1149AF60 0000015E
+1149AF62 0000015E
+1149AF64 0000015E
+1149AF66 0000015E
+1149AF68 0000015E
+1149AF6A 0000015E
+1149AF6C 0000015E
+1149AF6E 0000015E
+1149AF70 0000015E
+
+// CSP Labyrinthia
+Author = libretro-database contributors / original PSP cheat authors
+1149B114 00000124
+1149B0F0 00000124
+1149B0F2 00000124
+1149B0F4 00000124
+1149B0F6 00000124
+
+// CSP Levin
+Author = libretro-database contributors / original PSP cheat authors
+1149B28C 0000015E
+1149B28E 0000015E
+1149B290 0000015E
+1149B292 0000015E
+1149B294 0000015E
+1149B296 0000015E
+1149B298 0000015E
+1149B29A 0000015E
+1149B29C 0000015E
+1149B29E 0000015E
+1149B2A0 0000015E
+1149B2A2 0000015E
+1149B2A4 0000015E
+1149B2A6 0000015E
+1149B2A8 0000015E
+1149B2AA 0000015E
+1149B2B2 0000015E
+
+// CSP Ragnar
+Author = libretro-database contributors / original PSP cheat authors
+1149B428 0000015E
+1149B42A 0000015E
+1149B42C 0000015E
+1149B42E 0000015E
+1149B430 0000015E
+1149B432 0000015E
+1149B434 0000015E
+1149B436 0000015E
+1149B438 0000015E
+1149B43A 0000015E
+1149B43C 0000015E
+1149B43E 0000015E
+1149B440 0000015E
+1149B442 0000015E
+1149B444 0000015E
+1149B446 0000015E
+1149B450 0000015E
+
+// CSP Tony
+Author = libretro-database contributors / original PSP cheat authors
+1149B78C 00000124
+
+// Download Success
+Author = libretro-database contributors / original PSP cheat authors
+2015F12C 24420064
+
+// Exp. Alexia
+Author = libretro-database contributors / original PSP cheat authors
+2149B59C 0098967F
+
+// Exp. Clarissa
+Author = libretro-database contributors / original PSP cheat authors
+1149AD90 0000CA8C
+
+// Exp. Felius
+Author = libretro-database contributors / original PSP cheat authors
+1149AF2C 0000CA8C
+
+// Exp. Labyrinthia
+Author = libretro-database contributors / original PSP cheat authors
+1149B0C8 0000CA8C
+
+// Exp. Levin
+Author = libretro-database contributors / original PSP cheat authors
+2149B264 0098967F
+
+// Exp. Levin
+Author = libretro-database contributors / original PSP cheat authors
+2149B264 0098967F
+
+// Exp. Ragnar
+Author = libretro-database contributors / original PSP cheat authors
+2149B400 0098967F
+
+// Exp. Tony
+Author = libretro-database contributors / original PSP cheat authors
+1149B738 0000CA8C
+
+// Gain Exp. Up
+Author = libretro-database contributors / original PSP cheat authors
+201D9FD8 53E00005
+1051A26E 00000063
+
+// Gain PSP Up
+Author = libretro-database contributors / original PSP cheat authors
+201DA014 13E00004
+1051A280 00000063
+
+// Have All Download Alexia
+Author = libretro-database contributors / original PSP cheat authors
+114AB6E6 00003FFF
+
+// Have All Download Clarissa
+Author = libretro-database contributors / original PSP cheat authors
+1149AEDA 00003FFF
+
+// Have All Download Drifter 1
+Author = libretro-database contributors / original PSP cheat authors
+114ABA1E 00003FFF
+
+// Have All Download Drifter 2
+Author = libretro-database contributors / original PSP cheat authors
+114ABBBA 00003FFF
+
+// Have All Download Drifter 3
+Author = libretro-database contributors / original PSP cheat authors
+114ABD56 00003FFF
+
+// Have All Download Drifter 4
+Author = libretro-database contributors / original PSP cheat authors
+114ABEF2 00003FFF
+
+// Have All Download Drifter 5
+Author = libretro-database contributors / original PSP cheat authors
+114AC08E 00003FFF
+
+// Have All Download Drifter 6
+Author = libretro-database contributors / original PSP cheat authors
+114AC22A 00003FFF
+
+// Have All Download Felius
+Author = libretro-database contributors / original PSP cheat authors
+114AB076 00003FFF
+
+// Have All Download Labyrinthia
+Author = libretro-database contributors / original PSP cheat authors
+114AB212 00003FFF
+
+// Have All Download Logner
+Author = libretro-database contributors / original PSP cheat authors
+114AB54A 00003FFF
+
+// Have All Items
+Author = libretro-database contributors / original PSP cheat authors
+1149FB7C 000007D0
+20229F7C 24030063
+20229F80 A1030000
+
+// Inertial Cancel
+Author = libretro-database contributors / original PSP cheat authors
+20150C94 13E0001D
+
+// Infinite HP When Sacrifice
+Author = libretro-database contributors / original PSP cheat authors
+201602C0 00000000
+201602DC 00000000
+
+// Infinite MP (Both)
+Author = libretro-database contributors / original PSP cheat authors
+2014A5BC 24110000
+
+// Infinite MP (Player Only)
+Author = libretro-database contributors / original PSP cheat authors
+2014A604 0A200440
+20001100 0600000B
+20001108 00101080
+2000110C 00501021
+20001110 00022A00
+20001114 3C0209C8
+20001118 24423360
+2000111C 00452821
+20001120 8CA104C8
+20001124 30210002
+20001128 14200005
+20001130 0E25EA7C
+20001134 24050008
+20001138 0A252983
+20001140 24020000
+20001144 0A2529C4
+
+// Infinite VP (Both)
+Author = libretro-database contributors / original PSP cheat authors
+20154AD8 00601821
+
+// Infinite VP (Player Only)
+Author = libretro-database contributors / original PSP cheat authors
+20154AD4 0A200408
+20001020 90C104C8
+20001024 30210002
+20001028 14200002
+2000102C 84C30316
+20001030 00651821
+20001034 0A2552B7
+
+// Max Clear Frequency
+Author = libretro-database contributors / original PSP cheat authors
+0163EC4C 0000000A
+
+// Money Modifier
+Author = libretro-database contributors / original PSP cheat authors
+2149A758 99999999
+
+// No Limit Of Equipments
+Author = libretro-database contributors / original PSP cheat authors
+2022FA4C 13E0002A
+
+// Normal Clarissa
+Author = libretro-database contributors / original PSP cheat authors
+7163E54E 000200CF
+
+// Princess Clarissa
+Author = libretro-database contributors / original PSP cheat authors
+7163E54E 000200DF
+7163E54E 00000010
+
+// Red Zone
+Author = libretro-database contributors / original PSP cheat authors
+20155B40 0A200410
+20001040 928104C8
+20001044 30210002
+20001048 14200005
+20001050 0E25EA7C
+20001054 24050044
+20001058 0A2556D2
+20001060 0A2556D4
+
+// Rush
+Author = libretro-database contributors / original PSP cheat authors
+20175458 0A200454
+2017545C 00000000
+20001150 8C6104C8
+20001154 30210002
+20001158 14200005
+20001160 90630335
+20001164 00031E00
+20001168 0A25D518
+20001170 0A25D536
+
+// Take No Damage
+Author = libretro-database contributors / original PSP cheat authors
+20165A74 0A200460
+20001180 0680000A
+20001188 00141080
+2000118C 00541021
+20001190 00022A00
+20001194 3C0209C8
+20001198 24423360
+2000119C 00452821
+200011A0 8CA104C8
+200011A4 30210002
+200011A8 14200005
+200011B0 0E25EA7C
+200011B4 2405006F
+200011B8 0A25969F
+200011C0 8E030004
+200011C4 0A2596A5
+
+// Take No Damage v2
+Author = libretro-database contributors / original PSP cheat authors
+20165A74 0A200460
+20001180 0680000A
+20001188 00141080
+2000118C 00541021
+20001190 00022A00
+20001194 3C0209C8
+20001198 24423360
+2000119C 00452821
+200011A0 8CA104C8
+200011A4 30210002
+200011A8 14200005
+200011B0 0E25EA7C
+200011B4 2405006F
+200011B8 0A25969F
+200011C0 8E030004
+20001194 0A2596A5
+
+// Turn Increase 2 Times
+Author = libretro-database contributors / original PSP cheat authors
+2014ABFC 24630002
+
+// Turn Increase 99 Times
+Author = libretro-database contributors / original PSP cheat authors
+2014ABFC 24630063
+
+// Turn Stop Increase
+Author = libretro-database contributors / original PSP cheat authors
+2014ABFC 24630000
+
+// Twin Tail Clarissa
+Author = libretro-database contributors / original PSP cheat authors
+7163E54E 000200EF
+7163E54E 00000020
+
+// Unlimited MP
+Author = libretro-database contributors / original PSP cheat authors
+11484A74 000003E7
+11484F74 000003E7
+11485474 000003E7
+11485974 000003E7
+11485E74 000003E7
+11486374 000003E7
+11486874 000003E7
+11486D74 000003E7
+
+// Unlock All Classes
+Author = libretro-database contributors / original PSP cheat authors
+7163E6DC 0001078E
+
+// Unlock All Synchronous Items
+Author = libretro-database contributors / original PSP cheat authors
+7163E6DC 00012040
+7165171B 000000C0
+7165171C 000103FF
+7165171E 00000040

@@ -1,0 +1,373 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULJM-05300
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Ability Max = Error Kaihi
+Author = libretro-database contributors / original PSP cheat authors
+006B88D8 0000000F
+
+// Ability Max = Kenryoku
+Author = libretro-database contributors / original PSP cheat authors
+006B88D5 0000000F
+
+// Ability Max = Meet
+Author = libretro-database contributors / original PSP cheat authors
+006B88D3 0000000F
+
+// Ability Max = Power
+Author = libretro-database contributors / original PSP cheat authors
+006B88D4 000000FF
+
+// Ability Max = Shubiryoku
+Author = libretro-database contributors / original PSP cheat authors
+006B88D7 0000000F
+
+// Ability Max = Souryoku
+Author = libretro-database contributors / original PSP cheat authors
+006B88D6 0000000F
+
+// Bool Count 3 [R+L Botton]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000300
+002AFD77 00000003
+
+// CPU Speed
+Author = libretro-database contributors / original PSP cheat authors
+00226406 00000004
+
+// CPU Week
+Author = libretro-database contributors / original PSP cheat authors
+002263FB 00000000
+
+// Dandou
+Author = libretro-database contributors / original PSP cheat authors
+006B88E4 00000003
+
+// Exp. 999 = Binsyou
+Author = libretro-database contributors / original PSP cheat authors
+106BDA24 000003E7
+
+// Exp. 999 = Gijyutu
+Author = libretro-database contributors / original PSP cheat authors
+106BDA26 000003E7
+
+// Exp. 999 = Henkakyu
+Author = libretro-database contributors / original PSP cheat authors
+106BDA2A 000003E7
+
+// Exp. 999 = Kinryoku
+Author = libretro-database contributors / original PSP cheat authors
+106BDA22 000003E7
+
+// Exp. 999 = Seishin
+Author = libretro-database contributors / original PSP cheat authors
+106BDA28 000003E7
+
+// Fun 999,999
+Author = libretro-database contributors / original PSP cheat authors
+2073EAD0 000F423F
+
+// Lock On 5
+Author = libretro-database contributors / original PSP cheat authors
+002263E1 00000002
+002263E2 00000004
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+2073EAC0 000F423F
+
+// My Life Feeling Girl+ETC Max
+Author = libretro-database contributors / original PSP cheat authors
+8073EFD8 001F0003
+000000FF 00000000
+
+// My Life Feeling Staff Max
+Author = libretro-database contributors / original PSP cheat authors
+80745D2E 00530010
+000000FF 00000000
+
+// My Life Negotiation Max
+Author = libretro-database contributors / original PSP cheat authors
+0167385A 00000003
+
+// My Life Practice Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+40745D28 00530004
+05050505 00000000
+80745D2C 00530010
+00000005 00000000
+
+// My Life (Parry): Control
+Author = libretro-database contributors / original PSP cheat authors
+806E57FE 00062710
+000000FF 00000000
+
+// My Life (Parry): Error
+Author = libretro-database contributors / original PSP cheat authors
+806E57E0 00062710
+0000000F 00000000
+
+// My Life (Parry): Henka 1
+Author = libretro-database contributors / original PSP cheat authors
+806E5800 00062710
+000000FF 00000000
+
+// My Life (Parry): Henka 2
+Author = libretro-database contributors / original PSP cheat authors
+806E5801 00062710
+000000FF 00000000
+
+// My Life (Parry): Henka 3
+Author = libretro-database contributors / original PSP cheat authors
+806E5802 00062710
+000000FF 00000000
+
+// My Life (Parry): Henka 4
+Author = libretro-database contributors / original PSP cheat authors
+806E5803 00062710
+000000FF 00000000
+
+// My Life (Parry): Henka 5
+Author = libretro-database contributors / original PSP cheat authors
+806E5804 00062710
+000000FF 00000000
+
+// My Life (Parry): Kata
+Author = libretro-database contributors / original PSP cheat authors
+806E57DD 00062710
+0000000F 00000000
+
+// My Life (Parry): Kyusoku 165
+Author = libretro-database contributors / original PSP cheat authors
+806E57FC 00062710
+000000A5 00000000
+
+// My Life (Parry): Meet
+Author = libretro-database contributors / original PSP cheat authors
+806E57DB 00062710
+0000000F 00000000
+
+// My Life (Parry): Power
+Author = libretro-database contributors / original PSP cheat authors
+806E57DC 00062710
+000000FF 00000000
+
+// My Life (Parry): Shubi
+Author = libretro-database contributors / original PSP cheat authors
+806E57DF 00062710
+0000000F 00000000
+
+// My Life (Parry): Sou
+Author = libretro-database contributors / original PSP cheat authors
+806E57DE 00062710
+0000000F 00000000
+
+// My Life (Parry): Stamina
+Author = libretro-database contributors / original PSP cheat authors
+806E57FF 00062710
+000000FF 00000000
+
+// My Life (Selig): Con ST Henka
+Author = libretro-database contributors / original PSP cheat authors
+806D1F7E 000C2710
+000000FF 00000000
+
+// My Life (Selig): Error
+Author = libretro-database contributors / original PSP cheat authors
+806D1F60 000C2710
+0000000F 00000000
+
+// My Life (Selig): Kata
+Author = libretro-database contributors / original PSP cheat authors
+806D1F5D 000C2710
+0000000F 00000000
+
+// My Life (Selig): Kyusoku 165
+Author = libretro-database contributors / original PSP cheat authors
+806D1F7C 000C2710
+000000A5 00000000
+
+// My Life (Selig): Meet
+Author = libretro-database contributors / original PSP cheat authors
+806D1F5B 000C2710
+0000000F 00000000
+
+// My Life (Selig): Power
+Author = libretro-database contributors / original PSP cheat authors
+806D1F5C 000C2710
+000000FF 00000000
+
+// My Life (Selig): Henka 1
+Author = libretro-database contributors / original PSP cheat authors
+806D1F80 000C2710
+000000FF 00000000
+
+// My Life (Selig): Henka 2
+Author = libretro-database contributors / original PSP cheat authors
+806D1F81 000C2710
+000000FF 00000000
+
+// My Life (Selig): Henka 3
+Author = libretro-database contributors / original PSP cheat authors
+806D1F82 000C2710
+000000FF 00000000
+
+// My Life (Selig): Henka 4
+Author = libretro-database contributors / original PSP cheat authors
+806D1F83 000C2710
+000000FF 00000000
+
+// My Life (Selig): Henka 5
+Author = libretro-database contributors / original PSP cheat authors
+806D1F84 000C2710
+000000FF 00000000
+
+// My Life (Selig): Shubi
+Author = libretro-database contributors / original PSP cheat authors
+806D1F5F 000C2710
+0000000F 00000000
+
+// My Life (Selig): Sou
+Author = libretro-database contributors / original PSP cheat authors
+806D1F5E 000C2710
+0000000F 00000000
+
+// My Life (Selig): Stamina
+Author = libretro-database contributors / original PSP cheat authors
+806D1F7F 000C2710
+000000FF 00000000
+
+// PoTaCa Max
+Author = libretro-database contributors / original PSP cheat authors
+40285550 04CB0002
+01326791 00000000
+80285554 04CB0008
+00000063 00000000
+80285555 04CB0008
+00000080 00000000
+
+// Practice Level All 10
+Author = libretro-database contributors / original PSP cheat authors
+006B892E 0000000A
+006B892F 0000000A
+006B8930 0000000A
+006B8931 0000000A
+006B8932 0000000A
+006B8933 0000000A
+006B8934 0000000A
+006B8935 0000000A
+006B8936 0000000A
+006B8937 0000000A
+
+// Red Oath (Rolling With Minus Capability)
+Author = libretro-database contributors / original PSP cheat authors
+006B88E5 00000000
+006B88E6 00000000
+006B88E7 00000000
+006B89CA 00000001
+006B89D0 00000001
+006B89D1 00000001
+006B89D2 00000001
+006B89D3 00000001
+006B89D6 00000001
+006BDABE 00000001
+006BDABF 00000080
+006BDAC0 00000002
+006BDAC4 00000001
+006BDAC5 00000002
+006BDAC7 00000002
+006BDAC9 00000002
+006BDACA 00000002
+006BDACB 00000001
+006BDACD 00000002
+006BDACF 000000E0
+006BDAD0 00000090
+006BDAD1 0000002A
+006BDAD3 00000002
+006BDAD4 00000002
+006BDAD5 00000002
+006BDAD6 00000002
+006BDAD7 00000002
+006BDAD8 00000002
+006BDAD9 00000002
+006BDADA 00000001
+
+// Shivering Blue (Plus Full Capacity)
+Author = libretro-database contributors / original PSP cheat authors
+006B88DD 00000006
+006B88DE 00000006
+006B88E6 00000004
+006B88E7 00000004
+006B89CD 00000001
+006BDABC 000000ED
+006BDABD 000000BB
+006BDABE 000000FE
+006BDABF 00000077
+006BDAC0 000000BD
+006BDAC1 0000001F
+006BDAC3 00000001
+006BDAC4 00000004
+006BDAC5 00000001
+006BDAC6 00000002
+006BDAC7 00000001
+006BDAC9 00000001
+006BDACA 00000001
+006BDACB 00000004
+006BDACD 00000001
+006BDACE 0000008B
+006BDACF 0000001F
+006BDAD0 0000006D
+006BDAD1 000000D4
+006BDAD2 0000003F
+006BDAD3 00000001
+006BDAD4 00000001
+006BDAD5 00000001
+006BDAD6 00000001
+006BDAD7 00000001
+006BDAD8 00000001
+006BDAD9 00000001
+006BDADA 00000004
+
+// Strike Count 0 [R+L Button]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000300
+002AFD76 00000000
+
+// Success End
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 1000F300
+006BDAB1 00000003
+006BDAB2 00000009
+006BDAB3 00000004
+
+// Success Feeling: Akira
+Author = libretro-database contributors / original PSP cheat authors
+006BDA9D 000000C8
+
+// Success Feeling: Homura
+Author = libretro-database contributors / original PSP cheat authors
+006BDA9C 000000C8
+
+// Success Feeling: Karen
+Author = libretro-database contributors / original PSP cheat authors
+006BDA9F 000000C8
+
+// Success Feeling: Mikoto
+Author = libretro-database contributors / original PSP cheat authors
+006BDA9E 000000C8
+
+// Success Hyouka: Kantoku Max
+Author = libretro-database contributors / original PSP cheat authors
+006BDA2E 000000C8
+
+// Success Hyouka: Sukauto Max
+Author = libretro-database contributors / original PSP cheat authors
+006BDA2F 000000C8
+
+// Tyousi
+Author = libretro-database contributors / original PSP cheat authors
+002263EF 00000001
+
+// Visible
+Author = libretro-database contributors / original PSP cheat authors
+00226401 00000000

@@ -1,0 +1,328 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULJS-00168
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// DL Plus Piracy Bypass
+Author = libretro-database contributors / original PSP cheat authors
+200B7254 24040000
+200B87E4 24040000
+2018AA78 04400000
+2018AA8C 24020000
+2018AAA0 24020000
+203C15C8 00000000
+203C15D0 00000000
+203C15D4 00000000
+
+// ACC Body
+Author = libretro-database contributors / original PSP cheat authors
+2039C8F6 01010101
+2039C8FA 01010101
+2039C8FE 01010101
+2039C902 01010101
+2039C906 01010101
+2039C90A 01010101
+2039C90E 01010101
+2039C912 01010101
+2039C916 01010101
+
+// ACC Hand
+Author = libretro-database contributors / original PSP cheat authors
+2039C91A 01010101
+2039C91E 01010101
+2039C922 01010101
+2039C926 01010101
+2039C92A 01010101
+2039C92E 01010101
+2039C932 01010101
+2039C936 01010101
+2039C93A 01010101
+
+// ACC Head
+Author = libretro-database contributors / original PSP cheat authors
+2039C8C4 01010101
+2039C8C8 01010101
+2039C8CC 01010101
+2039C8D0 01010101
+2039C8D4 01010101
+2039C8D8 01010101
+2039C8DC 01010101
+2039C8E0 01010101
+2039C8E4 01010101
+0039C8E8 00000001
+2039C8EA 01010101
+1039C8EE 00000101
+2039C8F1 01010101
+0039C8F5 00000001
+
+// ACC Leg
+Author = libretro-database contributors / original PSP cheat authors
+2039C93E 01010101
+2039C942 01010101
+2039C946 01010101
+2039C94A 01010101
+2039C94E 01010101
+2039C952 01010101
+
+// Amimami: Dance Max
+Author = libretro-database contributors / original PSP cheat authors
+103993F4 000005DC
+10399400 000005DC
+
+// Amimami: Fans 9,999,999
+Author = libretro-database contributors / original PSP cheat authors
+20399434 0098967F
+
+// Amimami: Idol Rank S
+Author = libretro-database contributors / original PSP cheat authors
+00399410 00000007
+
+// Amimami: Image Lv.16
+Author = libretro-database contributors / original PSP cheat authors
+00399414 0000000F
+
+// Amimami: Memory x99
+Author = libretro-database contributors / original PSP cheat authors
+0039944C 00000063
+
+// Amimami: Next Is 2nd Week
+Author = libretro-database contributors / original PSP cheat authors
+00399440 00000001
+
+// Amimami: Next Is 52nd Week
+Author = libretro-database contributors / original PSP cheat authors
+00399440 00000033
+
+// Amimami: Perfect Communication x99 (For Last Song)
+Author = libretro-database contributors / original PSP cheat authors
+00399498 00000063
+203978E8 05F5E0FF
+
+// Amimami: Tension Max
+Author = libretro-database contributors / original PSP cheat authors
+00399408 00000018
+
+// Amimami: Visual Max
+Author = libretro-database contributors / original PSP cheat authors
+103993F8 000005DC
+10399404 000005DC
+
+// Amimami: Vocal Max
+Author = libretro-database contributors / original PSP cheat authors
+103993F0 000005DC
+103993FC 000005DC
+
+// Cool & Sexy Obtained
+Author = libretro-database contributors / original PSP cheat authors
+2039C8A9 01010101
+2039C8AD 01010101
+2039C8B1 01010101
+
+// COS & ACC All
+Author = libretro-database contributors / original PSP cheat authors
+8039C89C 00BA0001
+00000001 00000000
+
+// COS Cool & Sexy
+Author = libretro-database contributors / original PSP cheat authors
+2039C8A9 01010101
+2039C8AD 01010101
+2039C8B1 01010101
+
+// COS Cosmic & Funny
+Author = libretro-database contributors / original PSP cheat authors
+2039C8B5 01010101
+2039C8B9 01010101
+2039C8BD 01010101
+
+// COS Cute & Girly
+Author = libretro-database contributors / original PSP cheat authors
+2039C89C 01010101
+2039C8A0 01010101
+2039C8A4 01010101
+0039C8A8 00000001
+
+// COS Extend
+Author = libretro-database contributors / original PSP cheat authors
+0039C8C1 00000001
+1039C8C2 00000101
+
+// Cosmix & Funny Obtained
+Author = libretro-database contributors / original PSP cheat authors
+2039C8B5 01010101
+2039C8B9 01010101
+2039C8BD 01010101
+
+// Cute & Girly Obtained
+Author = libretro-database contributors / original PSP cheat authors
+2039C89C 01010101
+2039C8A0 01010101
+2039C8A4 01010101
+0039C8A8 00000001
+
+// Extend Obtained
+Author = libretro-database contributors / original PSP cheat authors
+0039C8C1 00000001
+1039C8C2 00000101
+
+// Iori: Dance Max
+Author = libretro-database contributors / original PSP cheat authors
+10398098 000005DC
+103980A4 000005DC
+
+// Iori: Fans 9,999,999
+Author = libretro-database contributors / original PSP cheat authors
+203980D8 0098967F
+
+// Iori: Idol Rank S
+Author = libretro-database contributors / original PSP cheat authors
+003980B4 00000007
+
+// Iori: Image Lv.16
+Author = libretro-database contributors / original PSP cheat authors
+003980B8 0000000F
+
+// Iori: Memory x99
+Author = libretro-database contributors / original PSP cheat authors
+003980F0 00000063
+
+// Iori: Next Is 2nd Week
+Author = libretro-database contributors / original PSP cheat authors
+003980E4 00000001
+
+// Iori: Next Is 52nd Week
+Author = libretro-database contributors / original PSP cheat authors
+003980E4 00000033
+
+// Iori: Perfect Communication x99 (For Last Song)
+Author = libretro-database contributors / original PSP cheat authors
+0039813C 00000063
+
+// Iori: Tension Max
+Author = libretro-database contributors / original PSP cheat authors
+003980AC 00000018
+
+// Iori: Visual Max
+Author = libretro-database contributors / original PSP cheat authors
+1039809C 000005DC
+103980A8 000005DC
+
+// Iori: Vocal Max
+Author = libretro-database contributors / original PSP cheat authors
+10398094 000005DC
+103980A0 000005DC
+
+// Jimusho Kai
+Author = libretro-database contributors / original PSP cheat authors
+20391F0C 00000000
+
+// Lesson Time 0 [R+Down]
+Author = libretro-database contributors / original PSP cheat authors
+E1030047 009EF2FB
+009EF2FA 000000FF
+D0000000 10000240
+009EF2FB 00000043
+E1030047 009EF3BB
+009EF3BA 000000FF
+009EF3BB 00000043
+E1030047 009EE923
+009EE922 000000FF
+009EE923 00000043
+
+// Max Fans Obtainable
+Author = libretro-database contributors / original PSP cheat authors
+203978E8 05F5E0FF
+
+// Memory Use
+Author = libretro-database contributors / original PSP cheat authors
+009EEE50 00000003
+
+// Obtained Max Fans
+Author = libretro-database contributors / original PSP cheat authors
+203A6F04 05F5E0FF
+
+// Office Audition Memory
+Author = libretro-database contributors / original PSP cheat authors
+009EFF50 00000003
+
+// Perfect Lessoni: Dance
+Author = libretro-database contributors / original PSP cheat authors
+20C53948 42700000
+
+// Perfect Lessoni: Expression
+Author = libretro-database contributors / original PSP cheat authors
+20C41B48 42700000
+
+// Perfect Lessoni: Lyric
+Author = libretro-database contributors / original PSP cheat authors
+20C1B348 42700000
+
+// Perfect Lessoni: Performance
+Author = libretro-database contributors / original PSP cheat authors
+20C1FD48 42700000
+
+// Perfect Lessoni: Pose
+Author = libretro-database contributors / original PSP cheat authors
+20C59A48 42700000
+
+// Perfect Lessoni: Voice
+Author = libretro-database contributors / original PSP cheat authors
+20D84C48 42700000
+
+// Ruikei Fun Max
+Author = libretro-database contributors / original PSP cheat authors
+203978E8 05F5E0FF
+
+// Saidai Kakutoku Fun 99,999,999
+Author = libretro-database contributors / original PSP cheat authors
+203A6F04 05F5E0FF
+
+// Unlock Offices
+Author = libretro-database contributors / original PSP cheat authors
+20391F0C 00000000
+
+// Yukiho: Dance Max
+Author = libretro-database contributors / original PSP cheat authors
+10398BA8 000005DC
+10398BB4 000005DC
+
+// Yukiho: Fans 9,999,999
+Author = libretro-database contributors / original PSP cheat authors
+20398BE8 0098967F
+
+// Yukiho: Idol Rank S
+Author = libretro-database contributors / original PSP cheat authors
+00398BC4 00000007
+
+// Yukiho: Image Lv.16
+Author = libretro-database contributors / original PSP cheat authors
+00398BC8 0000000F
+
+// Yukiho: Memory x99
+Author = libretro-database contributors / original PSP cheat authors
+00398C00 00000063
+
+// Yukiho: Next Is 2nd Week
+Author = libretro-database contributors / original PSP cheat authors
+00398BF4 00000001
+
+// Yukiho: Next Is 52nd Week
+Author = libretro-database contributors / original PSP cheat authors
+00398BF4 00000033
+
+// Yukiho: Perfect Communication x99 (For Last Song)
+Author = libretro-database contributors / original PSP cheat authors
+00398C4C 00000063
+
+// Yukiho: Tension Max
+Author = libretro-database contributors / original PSP cheat authors
+00398BBC 00000018
+
+// Yukiho: Visual Max
+Author = libretro-database contributors / original PSP cheat authors
+10398BAC 000005DC
+10398BB8 000005DC
+
+// Yukiho: Vocal Max
+Author = libretro-database contributors / original PSP cheat authors
+10398BA4 000005DC
+10398BB0 000005DC
