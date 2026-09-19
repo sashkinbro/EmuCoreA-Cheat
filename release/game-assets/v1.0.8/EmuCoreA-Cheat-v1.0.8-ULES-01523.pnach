@@ -1,0 +1,1469 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-01523
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Access Menu For Max HP & SP
+Author = libretro-database contributors / original PSP cheat authors
+2000DED0 240203E7
+2000DF20 240203E7
+
+// All Accessories
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000013
+20664489 00000063
+DC000000 00000001
+D2000000 00000000
+C0000000 00000007
+2066449E 00000063
+DC000000 00000004
+206644B9 00000063
+206644BC 00006363
+C0000000 00000024
+206644BF 00000063
+C0000000 00000009
+206644E7 00000063
+206644F5 00000063
+20664502 00006363
+20664504 00000063
+C0000000 00000004
+20664508 00006363
+DC000000 00000002
+20664513 00000063
+C0000000 0000000C
+20664517 00000063
+
+// All Accessories v2
+Author = libretro-database contributors / original PSP cheat authors
+20664489 00000001
+00000063 00000000
+2066449E 00000004
+206644B9 00000063
+206644BC 00006363
+206644BF 00000001
+206644E7 00000001
+206644F5 00000001
+20664502 00006363
+20664504 00000063
+20664508 00000002
+00006363 00000000
+20664513 00000063
+20664517 00000001
+
+// All Armor
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000D
+20664289 00000063
+DC000000 00000001
+D2000000 00000000
+C0000000 0000000F
+2066429B 00000063
+206642AC 63636363
+206642B1 00000063
+C0000000 00000004
+206642B2 00000063
+DC000000 00000004
+206642B3 00000063
+C0000000 00000002
+206642B5 00000063
+DC000000 00000006
+C0000000 0000001C
+206642C4 00000063
+C0000000 00000006
+206642E2 00006363
+DC000000 00000002
+C0000000 00000023
+206642F1 00000063
+
+// All Armor v2
+Author = libretro-database contributors / original PSP cheat authors
+20664289 00000001
+00000063 00000000
+2066429B 00000001
+206642AC 63636363
+206642B1 00000063
+206642B2 00000004
+206642B3 00000063
+206642B5 00000006
+206642C4 00000001
+206642E2 00000002
+00006363 00000000
+206642F1 00000001
+
+// All Items
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000013
+20664589 00000063
+DC000000 00000001
+D2000000 00000000
+C0000000 00000008
+2066459E 00000063
+C0000000 00000012
+206645A8 00000063
+C0000000 00000003
+206645BC 63636363
+DC000000 00000004
+206645CD 00000063
+C0000000 0000001E
+206645D8 00006363
+DC000000 00000002
+C0000000 00000002
+20664618 63636363
+C0000000 00000054
+20664626 00000063
+C0000000 00000009
+2066467D 00000063
+
+// All Items v2
+Author = libretro-database contributors / original PSP cheat authors
+20664589 00000001
+00000063 00000000
+2066459E 00000001
+206645A8 00000001
+206645BC 00000004
+63636363 00000000
+206645CD 00000001
+206645D8 00000002
+00006363 00000000
+20664618 00000004
+20664626 00000001
+2066467D 00000001
+
+// All Learning Skills Card
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 000000C8
+20664718 00000063
+DC000000 00000001
+D2000000 00000000
+C0000000 00000016
+206647E7 00000063
+C0000000 0000000A
+20664800 00006363
+DC000000 00000002
+
+// All Learning Skills Card v2
+Author = libretro-database contributors / original PSP cheat authors
+20664718 00000001
+00000063 00000000
+206647E7 00000001
+20664800 00000002
+00006363 00000000
+
+// All Shoes
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000017
+20664389 00000063
+DC000000 00000001
+D2000000 00000000
+C0000000 00000006
+206643A3 00000063
+206643AC 00006363
+206643AF 00000063
+206643B0 00000063
+C0000000 00000003
+206643B2 00000063
+DC000000 00000004
+206643B3 00000063
+206643BC 00000063
+206643C0 00000063
+206643C4 00006363
+C0000000 0000000A
+206643CF 00000063
+C0000000 0000000E
+206643DB 00000063
+
+// All Shoes v2
+Author = libretro-database contributors / original PSP cheat authors
+20664389 00000001
+00000063 00000000
+206643A3 00000001
+206643AC 00006363
+206643AF 00000063
+206643B0 00000063
+206643B2 00000004
+206643B3 00000063
+206643BC 00000063
+206643C0 00000063
+206643C4 00006363
+206643CF 00000001
+206643DB 00000001
+
+// All Specialty Jewelry
+Author = libretro-database contributors / original PSP cheat authors
+206645E8 63636363
+206645EC 63636363
+206645F0 63636363
+20664679 00000063
+
+// All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000C
+20664089 00000063
+DC000000 00000001
+D2000000 00000000
+C0000000 00000004
+20664098 00006363
+DC000000 00000002
+206640A3 00000063
+206640A4 00006363
+206640A8 00006363
+C0000000 00000014
+206640B3 00000063
+C0000000 00000016
+206640C9 00000063
+206640E8 00000063
+206640EA 00000063
+206640EC 00006363
+206640EF 00000063
+206640F5 00000063
+C0000000 00000003
+206640FD 00000063
+C0000000 00000005
+20664108 63636363
+DC000000 0000C004
+20664128 63636363
+2066412E 00000063
+C0000000 00000002
+20664134 63636363
+DC000000 00000004
+2066414A 00006363
+2066414C 00006363
+2066414F 00000063
+20664155 00000063
+20664156 00000063
+20664158 00000063
+20664169 00000063
+2066416F 00000063
+20664170 00000063
+C0000000 0000000A
+20664174 00000063
+20664186 00000063
+20664188 00000063
+20664190 00006363
+20664198 00000063
+206641A8 00006363
+206641B0 00000063
+206641B8 00006363
+206641C3 00000063
+
+// All Weapons v2
+Author = libretro-database contributors / original PSP cheat authors
+20664089 00000001
+00000063 00000000
+20664098 00000002
+00006363 00000000
+206640A3 00000063
+206640A4 00006363
+206640A8 00000002
+206640B3 00000001
+206640C9 00000001
+206640E8 00000063
+206640EA 00000063
+206640EC 00006363
+206640EF 00000001
+206640F5 00000001
+206640FD 00000001
+20664108 0000C004
+63636363 00000000
+20664128 63636363
+2066412E 00000001
+20664134 00000004
+2066414A 00006363
+2066414C 00006363
+2066414F 00000001
+20664155 00000063
+20664156 00000063
+20664158 00000001
+20664169 00000001
+2066416F 00000063
+20664170 00000063
+20664174 00000001
+20664186 00000063
+20664188 00000001
+20664190 00000002
+20664198 00000001
+206641A8 00000002
+206641B0 00000001
+206641B8 00000002
+206641C3 00000001
+
+// Always Critical Rate Up
+Author = libretro-database contributors / original PSP cheat authors
+201C7D10 00000000
+201C7D30 10000003
+201C7D64 1000038E
+
+// Always Critical Rate Up [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201C7D10 1440F76D
+201C7D30 14400003
+201C7D64 5440038E
+
+// Always Great Status
+Author = libretro-database contributors / original PSP cheat authors
+2000E3CC 24050002
+
+// Always Great Status [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2000E3CC 30A5FFFF
+
+// Analyze Enemy Immediately
+Author = libretro-database contributors / original PSP cheat authors
+201D00F8 00000000
+
+// Analyze Enemy Immediately [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201D00F8 1040005B
+
+// Clan Persona Exp. Multiplier: x2
+Author = libretro-database contributors / original PSP cheat authors
+202561F4 0002A040
+
+// Clan Persona Exp. Multiplier: x4
+Author = libretro-database contributors / original PSP cheat authors
+202561F4 0002A080
+
+// Clan Persona Exp. Multiplier: x8
+Author = libretro-database contributors / original PSP cheat authors
+202561F4 0002A0C0
+
+// Clan Persona Exp. Multiplier: x16
+Author = libretro-database contributors / original PSP cheat authors
+202561F4 0002A100
+
+// Clan Persona Exp. Multiplier: x32
+Author = libretro-database contributors / original PSP cheat authors
+202561F4 0002A140
+
+// Clan Persona Exp. Multiplier: x64
+Author = libretro-database contributors / original PSP cheat authors
+202561F4 0002A180
+
+// Compendium Book: All Persona
+Author = libretro-database contributors / original PSP cheat authors
+D5000000 00010001
+C0000000 000000AD
+D6000000 00664ECC
+D4000000 00010000
+DC000000 00000030
+D2000000 00000000
+
+// Compendium Book: All Persona: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 000000AD
+00664ED4 00500000
+DC000000 00000034
+D2000000 00000000
+
+// Compendium Book: All Persona: Max Exp. v2
+Author = libretro-database contributors / original PSP cheat authors
+20664ED4 00000034
+00500000 00000000
+
+// Compendium Book: All Persona: Max Lv.
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 000000AD
+00664ED0 00000063
+DC000000 00000034
+D2000000 00000000
+
+// Compendium Book: All Persona: Max Lv. v2
+Author = libretro-database contributors / original PSP cheat authors
+20664ED0 00000034
+00000063 00000000
+
+// Compendium Book: All Persona: Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 000000AD
+00664EE8 63636363
+DC000000 00000034
+D2000000 00000000
+20664EEC 00000063
+DC000000 0000000D
+
+// Compendium Book: All Persona: Max Stats v2
+Author = libretro-database contributors / original PSP cheat authors
+20664EE8 00000034
+63636363 00000000
+20664EEC 0000000D
+00000063 00000000
+
+// Enemies Always Drop Items
+Author = libretro-database contributors / original PSP cheat authors
+20236F24 24020000
+20236FD8 24020000
+
+// Enemies Always Drop Items [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20236F24 0E28B8E1
+20236FD8 0E28B8E1
+
+// Equipped Armors Have Max DF
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000008B
+2064FC04 00007FFF
+DC000000 00000038
+D2000000 00000000
+
+// Equipped Armors Have Max DF v2
+Author = libretro-database contributors / original PSP cheat authors
+2064FC04 00000038
+00007FFF 00000000
+
+// Equipped Footwares Have Max EV
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000060
+20653404 7FFF0000
+DC000000 00000038
+D2000000 00000000
+
+// Equipped Footwares Have Max EV v2
+Author = libretro-database contributors / original PSP cheat authors
+20653404 00000038
+7FFF0000 00000000
+
+// Equipped Weapons Have Max At/Hit
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000013D
+20648BFC 7FFF7FFF
+DC000000 00000038
+D2000000 00000000
+
+// Equipped Weapons Have Max At/Hit v2
+Author = libretro-database contributors / original PSP cheat authors
+20648BFC 00000038
+7FFF7FFF 00000000
+
+// Experience Multiplier: x2
+Author = libretro-database contributors / original PSP cheat authors
+20256034 00051040
+
+// Experience Multiplier: x4
+Author = libretro-database contributors / original PSP cheat authors
+20256034 00051080
+
+// Experience Multiplier: x8
+Author = libretro-database contributors / original PSP cheat authors
+20256034 000510C0
+
+// Experience Multiplier: x16
+Author = libretro-database contributors / original PSP cheat authors
+20256034 00051100
+
+// Experience Multiplier: x32
+Author = libretro-database contributors / original PSP cheat authors
+20256034 00051140
+
+// Experience Multiplier: x64
+Author = libretro-database contributors / original PSP cheat authors
+20256034 00051180
+
+// Experience Multiplier: x128
+Author = libretro-database contributors / original PSP cheat authors
+20256034 000511C0
+
+// Experience Multiplier: x256
+Author = libretro-database contributors / original PSP cheat authors
+20256034 00051200
+
+// Game Difficulty Level: Beginner
+Author = libretro-database contributors / original PSP cheat authors
+106684FA 00000800
+
+// Game Difficulty Level: Easy
+Author = libretro-database contributors / original PSP cheat authors
+106684FA 00000002
+
+// Game Difficulty Level: Hard
+Author = libretro-database contributors / original PSP cheat authors
+106684FA 00000200
+
+// Game Difficulty Level: Maniac
+Author = libretro-database contributors / original PSP cheat authors
+106684FA 00000400
+
+// Game Difficulty Level: Normal
+Author = libretro-database contributors / original PSP cheat authors
+106684FA 00000000
+
+// Hero Persona Exp. Multiplier: x2
+Author = libretro-database contributors / original PSP cheat authors
+20256378 00028040
+
+// Hero Persona Exp. Multiplier: x4
+Author = libretro-database contributors / original PSP cheat authors
+20256378 00028080
+
+// Hero Persona Exp. Multiplier: x8
+Author = libretro-database contributors / original PSP cheat authors
+20256378 000280C0
+
+// Hero Persona Exp. Multiplier: x16
+Author = libretro-database contributors / original PSP cheat authors
+20256378 00028100
+
+// Hero Persona Exp. Multiplier: x32
+Author = libretro-database contributors / original PSP cheat authors
+20256378 00028140
+
+// Hero Persona Exp. Multiplier: x64
+Author = libretro-database contributors / original PSP cheat authors
+20256378 00028180
+
+// Hero Persona Exp. Multiplier: x128
+Author = libretro-database contributors / original PSP cheat authors
+20256378 000281C0
+
+// Hero Persona Exp. Multiplier: x256
+Author = libretro-database contributors / original PSP cheat authors
+20256378 00028200
+
+// Igor's Assistant (Elizabeth)
+Author = libretro-database contributors / original PSP cheat authors
+206682BF 00000000
+
+// Igor's Assistant (Theo)
+Author = libretro-database contributors / original PSP cheat authors
+206682BF 00000001
+
+// Map Out
+Author = libretro-database contributors / original PSP cheat authors
+200CC0B8 24020001
+200CC0D0 24020001
+
+// Map Out [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200CC0B8 80A20000
+200CC0D0 80820000
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+20668758 0098967F
+
+// Max/Infinite Item On Get/Usage
+Author = libretro-database contributors / original PSP cheat authors
+2000D6B8 24110063
+
+// Monsters Can See You
+Author = libretro-database contributors / original PSP cheat authors
+200C62DC 00601021
+
+// Monsters Can't See You
+Author = libretro-database contributors / original PSP cheat authors
+200C62DC 24020000
+
+// No Shuffle Time
+Author = libretro-database contributors / original PSP cheat authors
+201BD014 00000000
+
+// No Shuffle Time [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201BD014 10000057
+
+// Prevent S-Link Reverse
+Author = libretro-database contributors / original PSP cheat authors
+2001B0B0 00000000
+
+// S-Link Quick Rank Up
+Author = libretro-database contributors / original PSP cheat authors
+200101B4 00000000
+
+// Start Time Of Day
+Author = libretro-database contributors / original PSP cheat authors
+2000EC24 A044481A
+2000EC3C A0444822
+
+// Stop Time Of Day
+Author = libretro-database contributors / original PSP cheat authors
+2000EC24 00000000
+2000EC3C 00000000
+
+// Aigis: Great Condition
+Author = libretro-database contributors / original PSP cheat authors
+20668D18 00000002
+
+// Aigis: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+10668CD8 000003E7
+
+// Aigis: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+10668CDA 000003E7
+
+// Aigis Persona: Activate Persona
+Author = libretro-database contributors / original PSP cheat authors
+10668D58 00000001
+
+// Aigis Persona: Max Persona Agility
+Author = libretro-database contributors / original PSP cheat authors
+20668D77 00000063
+
+// Aigis Persona: Max Persona Endurance
+Author = libretro-database contributors / original PSP cheat authors
+20668D76 00000063
+
+// Aigis Persona: Max Persona Exp.
+Author = libretro-database contributors / original PSP cheat authors
+00668D60 0098967F
+
+// Aigis Persona: Max Persona Luck
+Author = libretro-database contributors / original PSP cheat authors
+20668D78 00000063
+
+// Aigis Persona: Max Persona Lv.
+Author = libretro-database contributors / original PSP cheat authors
+20668D5C 00000063
+
+// Aigis Persona: Max Persona Magic
+Author = libretro-database contributors / original PSP cheat authors
+20668D75 00000063
+
+// Aigis Persona: Max Persona Strength
+Author = libretro-database contributors / original PSP cheat authors
+20668D74 00000063
+
+// Akihiko: Great Condition
+Author = libretro-database contributors / original PSP cheat authors
+20669178 00000002
+
+// Akihiko: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+10669138 000003E7
+
+// Akihiko: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+1066913A 000003E7
+
+// Akihiko Persona: Activate Persona
+Author = libretro-database contributors / original PSP cheat authors
+106691B8 00000001
+
+// Akihiko Persona: Max Persona Agility
+Author = libretro-database contributors / original PSP cheat authors
+206691D7 00000063
+
+// Akihiko Persona: Max Persona Endurance
+Author = libretro-database contributors / original PSP cheat authors
+206691D6 00000063
+
+// Akihiko Persona: Max Persona Exp.
+Author = libretro-database contributors / original PSP cheat authors
+006691C0 0098967F
+
+// Akihiko Persona: Max Persona Luck
+Author = libretro-database contributors / original PSP cheat authors
+206691D8 00000063
+
+// Akihiko Persona: Max Persona Lv.
+Author = libretro-database contributors / original PSP cheat authors
+206691BC 00000063
+
+// Akihiko Persona: Max Persona Magic
+Author = libretro-database contributors / original PSP cheat authors
+206691D5 00000063
+
+// Akihiko Persona: Max Persona Strength
+Author = libretro-database contributors / original PSP cheat authors
+206691D4 00000063
+
+// Fuuka: Great Condition
+Author = libretro-database contributors / original PSP cheat authors
+20669060 00000002
+
+// Fuuka: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+10669020 000003E7
+
+// Fuuka: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+10669022 000003E7
+
+// Fuuka Persona: Activate Persona
+Author = libretro-database contributors / original PSP cheat authors
+106690A0 00000001
+
+// Fuuka Persona: Max Persona Agility
+Author = libretro-database contributors / original PSP cheat authors
+206690BF 00000063
+
+// Fuuka Persona: Max Persona Endurance
+Author = libretro-database contributors / original PSP cheat authors
+206690BE 00000063
+
+// Fuuka Persona: Max Persona Exp.
+Author = libretro-database contributors / original PSP cheat authors
+006690A8 0098967F
+
+// Fuuka Persona: Max Persona Luck
+Author = libretro-database contributors / original PSP cheat authors
+206690C0 00000063
+
+// Fuuka Persona: Max Persona Lv.
+Author = libretro-database contributors / original PSP cheat authors
+206690A4 00000063
+
+// Fuuka Persona: Max Persona Magic
+Author = libretro-database contributors / original PSP cheat authors
+206690BD 00000063
+
+// Fuuka Persona: Max Persona Strength
+Author = libretro-database contributors / original PSP cheat authors
+206690BC 00000063
+
+// Hero/Heroine: Max Academics
+Author = libretro-database contributors / original PSP cheat authors
+10663C2C 000003E7
+
+// Hero/Heroine: Great Condition
+Author = libretro-database contributors / original PSP cheat authors
+20663C38 00000002
+
+// Hero/Heroine: Max Charm
+Author = libretro-database contributors / original PSP cheat authors
+10663C2E 000003E7
+
+// Hero/Heroine: Max Courage
+Author = libretro-database contributors / original PSP cheat authors
+10663C30 000003E7
+
+// Hero/Heroine: Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+00663C34 0098967F
+
+// Hero/Heroine: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+10663BF8 000003E7
+
+// Hero/Heroine: Max Lv.
+Author = libretro-database contributors / original PSP cheat authors
+20663BF6 00000063
+
+// Hero/Heroine: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+10663BFA 000003E7
+
+// Hero/Heroine Persona: Max Persona Agility
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000B
+20664C47 00000063
+DC000000 00000034
+D2000000 00000000
+
+// Hero/Heroine Persona: Max Persona Agility v2
+Author = libretro-database contributors / original PSP cheat authors
+20664C47 00000034
+00000063 00000000
+
+// Hero/Heroine Persona: Max Persona Endurance
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000B
+20664C46 00000063
+DC000000 00000034
+D2000000 00000000
+
+// Hero/Heroine Persona: Max Persona Endurance v2
+Author = libretro-database contributors / original PSP cheat authors
+20664C46 00000034
+00000063 00000000
+
+// Hero/Heroine Persona: Max Persona Exp.
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000B
+20664C30 0098967F
+DC000000 00000034
+D2000000 00000000
+
+// Hero/Heroine Persona: Max Persona Exp. v2
+Author = libretro-database contributors / original PSP cheat authors
+20664C30 00000034
+0098967F 00000000
+
+// Hero/Heroine Persona: Max Persona Luck
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000B
+20664C48 00000063
+DC000000 00000034
+D2000000 00000000
+
+// Hero/Heroine Persona: Max Persona Luck v2
+Author = libretro-database contributors / original PSP cheat authors
+20664C48 00000034
+00000063 00000000
+
+// Hero/Heroine Persona: Max Persona Lv.
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000B
+20664C2C 00000063
+DC000000 00000034
+D2000000 00000000
+
+// Hero/Heroine Persona: Max Persona Lv. v2
+Author = libretro-database contributors / original PSP cheat authors
+20664C2C 00000034
+00000063 00000000
+
+// Hero/Heroine Persona: Max Persona Magic
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000B
+20664C45 00000063
+DC000000 00000034
+D2000000 00000000
+
+// Hero/Heroine Persona: Max Persona Magic v2
+Author = libretro-database contributors / original PSP cheat authors
+20664C45 00000034
+00000063 00000000
+
+// Hero/Heroine Persona: Max Persona Strength
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000B
+20664C44 00000063
+DC000000 00000034
+D2000000 00000000
+
+// Hero/Heroine Persona: Max Persona Strength v2
+Author = libretro-database contributors / original PSP cheat authors
+20664C44 00000034
+00000063 00000000
+
+// Junpei: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+10668F08 000003E7
+
+// Junpei: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+10668F0A 000003E7
+
+// Junpei: Great Condition
+Author = libretro-database contributors / original PSP cheat authors
+20668F48 00000002
+
+// Junpei Persona: Activate Persona
+Author = libretro-database contributors / original PSP cheat authors
+10668F88 00000001
+
+// Junpei Persona: Max Persona Agility
+Author = libretro-database contributors / original PSP cheat authors
+20668FA7 00000063
+
+// Junpei Persona: Max Persona Endurance
+Author = libretro-database contributors / original PSP cheat authors
+20668FA6 00000063
+
+// Junpei Persona: Max Persona Exp.
+Author = libretro-database contributors / original PSP cheat authors
+00668F90 0098967F
+
+// Junpei Persona: Max Persona Luck
+Author = libretro-database contributors / original PSP cheat authors
+20668FA8 00000063
+
+// Junpei Persona: Max Persona Lv.
+Author = libretro-database contributors / original PSP cheat authors
+20668F8C 00000063
+
+// Junpei Persona: Max Persona Magic
+Author = libretro-database contributors / original PSP cheat authors
+20668FA5 00000063
+
+// Junpei Persona: Max Persona Strength
+Author = libretro-database contributors / original PSP cheat authors
+20668FA4 00000063
+
+// Ken: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+10669250 000003E7
+
+// Ken: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+10669252 000003E7
+
+// Ken: Great Condition
+Author = libretro-database contributors / original PSP cheat authors
+20669290 00000002
+
+// Ken Persona: Activate Persona
+Author = libretro-database contributors / original PSP cheat authors
+106692D0 00000001
+
+// Ken Persona: Max Persona Agility
+Author = libretro-database contributors / original PSP cheat authors
+206692EF 00000063
+
+// Ken Persona: Max Persona Endurance
+Author = libretro-database contributors / original PSP cheat authors
+206692EE 00000063
+
+// Ken Persona: Max Persona Exp.
+Author = libretro-database contributors / original PSP cheat authors
+006692D8 0098967F
+
+// Ken Persona: Max Persona Luck
+Author = libretro-database contributors / original PSP cheat authors
+206692F0 00000063
+
+// Ken Persona: Max Persona Lv.
+Author = libretro-database contributors / original PSP cheat authors
+206692D4 00000063
+
+// Ken Persona: Max Persona Magic
+Author = libretro-database contributors / original PSP cheat authors
+206692ED 00000063
+
+// Ken Persona: Max Persona Strength
+Author = libretro-database contributors / original PSP cheat authors
+206692EC 00000063
+
+// Koromaru: Great Condition
+Author = libretro-database contributors / original PSP cheat authors
+206694C0 00000002
+
+// Koromaru: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+10669480 000003E7
+
+// Koromaru: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+10669482 000003E7
+
+// Koromaru Persona: Activate Persona
+Author = libretro-database contributors / original PSP cheat authors
+10669500 00000001
+
+// Koromaru Persona: Max Persona Agility
+Author = libretro-database contributors / original PSP cheat authors
+2066951F 00000063
+
+// Koromaru Persona: Max Persona Endurance
+Author = libretro-database contributors / original PSP cheat authors
+2066951E 00000063
+
+// Koromaru Persona: Max Persona Exp.
+Author = libretro-database contributors / original PSP cheat authors
+00669508 0098967F
+
+// Koromaru Persona: Max Persona Luck
+Author = libretro-database contributors / original PSP cheat authors
+20669520 00000063
+
+// Koromaru Persona: Max Persona Lv.
+Author = libretro-database contributors / original PSP cheat authors
+20669504 00000063
+
+// Koromaru Persona: Max Persona Magic
+Author = libretro-database contributors / original PSP cheat authors
+2066951D 00000063
+
+// Koromaru Persona: Max Persona Strength
+Author = libretro-database contributors / original PSP cheat authors
+2066951C 00000063
+
+// Mitsuru: Great Condition
+Author = libretro-database contributors / original PSP cheat authors
+20668E30 00000002
+
+// Mitsuru: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+10668DF0 000003E7
+
+// Mitsuru: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+10668DF2 000003E7
+
+// Mitsuru Persona: Activate Persona
+Author = libretro-database contributors / original PSP cheat authors
+10668E70 00000001
+
+// Mitsuru Persona: Max Persona Agility
+Author = libretro-database contributors / original PSP cheat authors
+20668E8F 00000063
+
+// Mitsuru Persona: Max Persona Endurance
+Author = libretro-database contributors / original PSP cheat authors
+20668E8E 00000063
+
+// Mitsuru Persona: Max Persona Exp.
+Author = libretro-database contributors / original PSP cheat authors
+00668E78 0098967F
+
+// Mitsuru Persona: Max Persona Luck
+Author = libretro-database contributors / original PSP cheat authors
+20668E90 00000063
+
+// Mitsuru Persona: Max Persona Lv.
+Author = libretro-database contributors / original PSP cheat authors
+20668E74 00000063
+
+// Mitsuru Persona: Max Persona Magic
+Author = libretro-database contributors / original PSP cheat authors
+20668E8D 00000063
+
+// Mitsuru Persona: Max Persona Strength
+Author = libretro-database contributors / original PSP cheat authors
+20668E8C 00000063
+
+// Shinjiro: Great Condition
+Author = libretro-database contributors / original PSP cheat authors
+206693A8 00000002
+
+// Shinjiro: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+10669368 000003E7
+
+// Shinjiro: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+1066936A 000003E7
+
+// Shinjiro Persona: Activate Persona
+Author = libretro-database contributors / original PSP cheat authors
+106693E8 00000001
+
+// Shinjiro Persona: Max Persona Agility
+Author = libretro-database contributors / original PSP cheat authors
+20669407 00000063
+
+// Shinjiro Persona: Max Persona Endurance
+Author = libretro-database contributors / original PSP cheat authors
+20669406 00000063
+
+// Shinjiro Persona: Max Persona Exp.
+Author = libretro-database contributors / original PSP cheat authors
+006693F0 0098967F
+
+// Shinjiro Persona: Max Persona Luck
+Author = libretro-database contributors / original PSP cheat authors
+20669408 00000063
+
+// Shinjiro Persona: Max Persona Lv.
+Author = libretro-database contributors / original PSP cheat authors
+206693EC 00000063
+
+// Shinjiro Persona: Max Persona Magic
+Author = libretro-database contributors / original PSP cheat authors
+20669405 00000063
+
+// Shinjiro Persona: Max Persona Strength
+Author = libretro-database contributors / original PSP cheat authors
+20669404 00000063
+
+// Yukari: Great Condition
+Author = libretro-database contributors / original PSP cheat authors
+20668C00 00000002
+
+// Yukari: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+10668BC0 000003E7
+
+// Yukari: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+10668BC2 000003E7
+
+// Yukari Persona: Activate Persona
+Author = libretro-database contributors / original PSP cheat authors
+10668C40 00000001
+
+// Yukari Persona: Max Persona Agility
+Author = libretro-database contributors / original PSP cheat authors
+20668C5F 00000063
+
+// Yukari Persona: Max Persona Endurance
+Author = libretro-database contributors / original PSP cheat authors
+20668C5E 00000063
+
+// Yukari Persona: Max Persona Exp.
+Author = libretro-database contributors / original PSP cheat authors
+00668C48 0098967F
+
+// Yukari Persona: Max Persona Luck
+Author = libretro-database contributors / original PSP cheat authors
+20668C60 00000063
+
+// Yukari Persona: Max Persona Lv.
+Author = libretro-database contributors / original PSP cheat authors
+20668C44 00000063
+
+// Yukari Persona: Max Persona Magic
+Author = libretro-database contributors / original PSP cheat authors
+20668C5D 00000063
+
+// Yukari Persona: Max Persona Strength
+Author = libretro-database contributors / original PSP cheat authors
+20668C5C 00000063
+
+// Aigis (Party 1)
+Author = libretro-database contributors / original PSP cheat authors
+1066875C 00000003
+
+// Akihiko (Party 1)
+Author = libretro-database contributors / original PSP cheat authors
+1066875C 00000007
+
+// Fuuka (Party 1)
+Author = libretro-database contributors / original PSP cheat authors
+1066875C 00000006
+
+// Hero (Party 1)
+Author = libretro-database contributors / original PSP cheat authors
+1066875C 00000001
+
+// Junpei (Party 1)
+Author = libretro-database contributors / original PSP cheat authors
+1066875C 00000005
+
+// Ken (Party 1)
+Author = libretro-database contributors / original PSP cheat authors
+1066875C 00000008
+
+// Koromaru (Party 1)
+Author = libretro-database contributors / original PSP cheat authors
+1066875C 0000000A
+
+// Mitsuru (Party 1)
+Author = libretro-database contributors / original PSP cheat authors
+1066875C 00000004
+
+// Nothing (Party 1)
+Author = libretro-database contributors / original PSP cheat authors
+1066875C 00000000
+
+// Shinjiro (Party 1)
+Author = libretro-database contributors / original PSP cheat authors
+1066875C 00000009
+
+// Yukari (Party 1)
+Author = libretro-database contributors / original PSP cheat authors
+1066875C 00000002
+
+// Aigis (Party 2)
+Author = libretro-database contributors / original PSP cheat authors
+1066875E 00000003
+
+// Akihiko (Party 2)
+Author = libretro-database contributors / original PSP cheat authors
+1066875E 00000007
+
+// Fuuka (Party 2)
+Author = libretro-database contributors / original PSP cheat authors
+1066875E 00000006
+
+// Hero (Party 2)
+Author = libretro-database contributors / original PSP cheat authors
+1066875E 00000001
+
+// Junpei (Party 2)
+Author = libretro-database contributors / original PSP cheat authors
+1066875E 00000005
+
+// Ken (Party 2)
+Author = libretro-database contributors / original PSP cheat authors
+1066875E 00000008
+
+// Koromaru (Party 2)
+Author = libretro-database contributors / original PSP cheat authors
+1066875E 0000000A
+
+// Mitsuru (Party 2)
+Author = libretro-database contributors / original PSP cheat authors
+1066875E 00000004
+
+// Nothing (Party 2)
+Author = libretro-database contributors / original PSP cheat authors
+1066875E 00000000
+
+// Shinjiro (Party 2)
+Author = libretro-database contributors / original PSP cheat authors
+1066875E 00000009
+
+// Yukari (Party 2)
+Author = libretro-database contributors / original PSP cheat authors
+1066875E 00000002
+
+// Aigis (Party 3)
+Author = libretro-database contributors / original PSP cheat authors
+10668760 00000003
+
+// Akihiko (Party 3)
+Author = libretro-database contributors / original PSP cheat authors
+10668760 00000007
+
+// Fuuka (Party 3)
+Author = libretro-database contributors / original PSP cheat authors
+10668760 00000006
+
+// Hero (Party 3)
+Author = libretro-database contributors / original PSP cheat authors
+10668760 00000001
+
+// Junpei (Party 3)
+Author = libretro-database contributors / original PSP cheat authors
+10668760 00000005
+
+// Ken (Party 3)
+Author = libretro-database contributors / original PSP cheat authors
+10668760 00000008
+
+// Mitsuru (Party 3)
+Author = libretro-database contributors / original PSP cheat authors
+10668760 00000004
+
+// Nothing (Party 3)
+Author = libretro-database contributors / original PSP cheat authors
+10668760 00000000
+
+// Koromaru (Party 3)
+Author = libretro-database contributors / original PSP cheat authors
+10668760 0000000A
+
+// Shinjiro (Party 3)
+Author = libretro-database contributors / original PSP cheat authors
+10668760 00000009
+
+// Yukari (Party 3)
+Author = libretro-database contributors / original PSP cheat authors
+10668760 00000002
+
+// (M) Appearance Change
+Author = libretro-database contributors / original PSP cheat authors
+20001A88 0A29837F
+20001A8C 24020001
+20260DF4 0A200680
+20260DF8 00409021
+
+// Aigis: Maid Outfit
+Author = libretro-database contributors / original PSP cheat authors
+20001A18 24030003
+20001A1C 5203001A
+20001A20 2412027E
+
+// Aigis: Santa Outfit
+Author = libretro-database contributors / original PSP cheat authors
+20001A18 24030003
+20001A1C 5203001A
+20001A20 24120281
+
+// Aigis: School Uniform
+Author = libretro-database contributors / original PSP cheat authors
+20001A18 24030003
+20001A1C 5203001A
+20001A20 2412027C
+
+// Aigis: Sky Sundress
+Author = libretro-database contributors / original PSP cheat authors
+20001A18 24030003
+20001A1C 5203001A
+20001A20 24120255
+
+// Akihiko: Festival Clothes
+Author = libretro-database contributors / original PSP cheat authors
+20001A3C 24030007
+20001A40 52030011
+20001A44 24120226
+
+// Akihiko: Swimwear
+Author = libretro-database contributors / original PSP cheat authors
+20001A3C 24030007
+20001A40 52030011
+20001A44 24120253
+
+// Akihiko: Tuxedo
+Author = libretro-database contributors / original PSP cheat authors
+20001A3C 24030007
+20001A40 52030011
+20001A44 24120284
+
+// Akihiko: White Suit
+Author = libretro-database contributors / original PSP cheat authors
+20001A3C 24030007
+20001A40 52030011
+20001A44 2412026F
+
+// Hero: Plain Clothes (Summer)
+Author = libretro-database contributors / original PSP cheat authors
+20001A00 24030001
+20001A04 52030020
+20001A08 2412026A
+
+// Hero: Plain Clothes (Winter)
+Author = libretro-database contributors / original PSP cheat authors
+20001A00 24030001
+20001A04 52030020
+20001A08 2412026B
+
+// Hero: Swimwear
+Author = libretro-database contributors / original PSP cheat authors
+20001A00 24030001
+20001A04 52030020
+20001A08 24120251
+
+// Heroine: Bikini
+Author = libretro-database contributors / original PSP cheat authors
+20001A00 24030001
+20001A04 52030020
+20001A08 2412028C
+
+// Heroine: Color Clothes
+Author = libretro-database contributors / original PSP cheat authors
+20001A00 24030001
+20001A04 52030020
+20001A08 24120289
+
+// Heroine: High-Cut Armor
+Author = libretro-database contributors / original PSP cheat authors
+20001A00 24030001
+20001A04 52030020
+20001A08 24120236
+
+// Heroine: Maid Outfit
+Author = libretro-database contributors / original PSP cheat authors
+20001A00 24030001
+20001A04 52030020
+20001A08 2412028B
+
+// Heroine: Plain Clothes
+Author = libretro-database contributors / original PSP cheat authors
+20001A00 24030001
+20001A04 52030020
+20001A08 2412028A
+
+// Junpei: Festival Clothes
+Author = libretro-database contributors / original PSP cheat authors
+20001A30 24030005
+20001A34 52030014
+20001A38 24120226
+
+// Junpei: Plain Clothes (Winter)
+Author = libretro-database contributors / original PSP cheat authors
+20001A30 24030005
+20001A34 52030014
+20001A38 2412026D
+
+// Junpei: Red Shorts
+Author = libretro-database contributors / original PSP cheat authors
+20001A30 24030005
+20001A34 52030014
+20001A38 24120258
+
+// Junpei: Tuxedo
+Author = libretro-database contributors / original PSP cheat authors
+20001A30 24030005
+20001A34 52030014
+20001A38 24120283
+
+// Junpei: Undercover Black
+Author = libretro-database contributors / original PSP cheat authors
+20001A30 24030005
+20001A34 52030014
+20001A38 2412026C
+
+// Ken: Festival Clothes
+Author = libretro-database contributors / original PSP cheat authors
+20001A48 24030008
+20001A4C 5203000E
+20001A50 24120226
+
+// Ken: Tuxedo
+Author = libretro-database contributors / original PSP cheat authors
+20001A48 24030008
+20001A4C 5203000E
+20001A50 24120285
+
+// Ken: Undercover White Stripes
+Author = libretro-database contributors / original PSP cheat authors
+20001A48 24030008
+20001A4C 5203000E
+20001A50 24120274
+
+// Ken: Yellow & Brown Plain Clothes
+Author = libretro-database contributors / original PSP cheat authors
+20001A48 24030008
+20001A4C 5203000E
+20001A50 24120256
+
+// Koromaru: Tuxedo
+Author = libretro-database contributors / original PSP cheat authors
+20001A6C 2403000A
+20001A70 52030005
+20001A74 24120287
+
+// Mitsuru: Black Plain Clothes
+Author = libretro-database contributors / original PSP cheat authors
+20001A24 24030004
+20001A28 52030017
+20001A2C 24120273
+
+// Mitsuru: Elegant Bikini
+Author = libretro-database contributors / original PSP cheat authors
+20001A24 24030004
+20001A28 52030017
+20001A2C 24120254
+
+// Mitsuru: High-Cut Armor
+Author = libretro-database contributors / original PSP cheat authors
+20001A24 24030004
+20001A28 52030017
+20001A2C 24120236
+
+// Mitsuru: Maid Outfit
+Author = libretro-database contributors / original PSP cheat authors
+20001A24 24030004
+20001A28 52030017
+20001A2C 24120276
+
+// Mitsuru: Santa
+Author = libretro-database contributors / original PSP cheat authors
+20001A24 24030004
+20001A28 52030017
+20001A2C 24120282
+
+// Mitsuru: White Plain Clothes
+Author = libretro-database contributors / original PSP cheat authors
+20001A24 24030004
+20001A28 52030017
+20001A2C 24120272
+
+// Shinjiro: Festival Clothes
+Author = libretro-database contributors / original PSP cheat authors
+20001A60 24030009
+20001A64 52030008
+20001A68 24120226
+
+// Shinjiro: Tuxedo
+Author = libretro-database contributors / original PSP cheat authors
+20001A60 24030009
+20001A64 52030008
+20001A68 24120286
+
+// Yukari: Casual Clothes
+Author = libretro-database contributors / original PSP cheat authors
+20001A0C 24030002
+20001A10 5203001D
+20001A14 24120270
+
+// Yukari: Casual Clothes v2
+Author = libretro-database contributors / original PSP cheat authors
+20001A0C 24030002
+20001A10 5203001D
+20001A14 24120271
+
+// Yukari: High-Cut Armor
+Author = libretro-database contributors / original PSP cheat authors
+20001A0C 24030002
+20001A10 5203001D
+20001A14 24120236
+
+// Yukari: Maid Outfit
+Author = libretro-database contributors / original PSP cheat authors
+20001A0C 24030002
+20001A10 5203001D
+20001A14 24120275
+
+// Yukari: Pink Bikini
+Author = libretro-database contributors / original PSP cheat authors
+20001A0C 24030002
+20001A10 5203001D
+20001A14 24120252
+
+// Yukari: Santa Outfit
+Author = libretro-database contributors / original PSP cheat authors
+20001A0C 24030002
+20001A10 5203001D
+20001A14 24120280

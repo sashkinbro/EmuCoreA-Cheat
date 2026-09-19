@@ -12,6 +12,7 @@ SOURCE_COMMIT = "740ebdf03247073658ccea45ddedfd57ea9d2974"
 SOURCE_NAME = "libretro-database PSP cheats"
 SOURCE_URL = "https://github.com/libretro/libretro-database"
 SOURCE_PAGE = f"https://github.com/libretro/libretro-database/blob/{SOURCE_COMMIT}/cht/Sony%20-%20PlayStation%20Portable"
+RELEASE_REPO = "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download"
 LICENSE = "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited"
 
 SERIALS = {
@@ -138,7 +139,7 @@ def main() -> int:
             "serials": [serial],
             "authors": ["libretro-database contributors and the original PSP cheat authors"],
             "description": f"{blocks} libretro PSP cheat blocks for {serial}; {excluded} empty or malformed upstream blocks excluded.",
-            "downloadUrl": f"https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/libretro-psp/{serial}.pnach",
+            "downloadUrl": f"{RELEASE_REPO}/{args.release_version}/EmuCoreA-Cheat-{args.release_version}-{serial}.pnach",
             "packPath": f"files/libretro-psp/{serial}.pnach",
             "sourceUrl": SOURCE_PAGE,
             "sourceName": SOURCE_NAME,

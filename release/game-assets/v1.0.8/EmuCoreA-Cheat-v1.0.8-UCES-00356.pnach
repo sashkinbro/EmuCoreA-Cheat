@@ -1,0 +1,884 @@
+# EmuCoreA PSP cheat pack
+# Serial: UCES-00356
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Disable Cheap/Temporal AA (Screenshake)
+Author = libretro-database contributors / original PSP cheat authors
+2020DF24 AE000024
+
+// Enable Cheap/Temporal AA (Screenshake) [Default]
+Author = libretro-database contributors / original PSP cheat authors
+2020DF24 AE030024
+
+// 1 Always Wins
+Author = libretro-database contributors / original PSP cheat authors
+00376C40 00000006
+
+// 999.999.999 Gil
+Author = libretro-database contributors / original PSP cheat authors
+21369F88 3B9AC9FF
+
+// 9999 Points On Striker Bowl
+Author = libretro-database contributors / original PSP cheat authors
+103837A8 0000270F
+
+// Activate Arena Mode
+Author = libretro-database contributors / original PSP cheat authors
+102F89F6 000041B0
+102F88FA 00003FB7
+1131E7EA 000044F3
+
+// Activate Campaign Style Mode
+Author = libretro-database contributors / original PSP cheat authors
+102F89F6 00004015
+102F88FA 00003F9E
+1131E7EA 000044B3
+
+// Activate RPG Mode
+Author = libretro-database contributors / original PSP cheat authors
+102F89F6 00004015
+102F88FA 00003FB8
+1131E7EA 00004603
+
+// All Movies & Musics Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+2136C94C 00000002
+C0000000 00000027
+2136C8F4 00000003
+DC000000 00000001
+
+// Background Modifier
+Author = libretro-database contributors / original PSP cheat authors
+00376954 000000
+
+// Background Modifier 01
+Author = libretro-database contributors / original PSP cheat authors
+00376954 00000001
+
+// Background Modifier 02
+Author = libretro-database contributors / original PSP cheat authors
+00376954 00000002
+
+// Background Modifier 03
+Author = libretro-database contributors / original PSP cheat authors
+00376954 00000003
+
+// Command Attack Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+2136C948 00000003
+
+// Final Stage On Story/Time Attack Mode
+Author = libretro-database contributors / original PSP cheat authors
+20376450 00000008
+2037655C 00000008
+20379A0C 00000008
+20379A10 00000008
+20488B8C 00000008
+20488B94 00000008
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2037725C 00910000
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+203769A0 00000E07
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+09B69F88 0098967F
+
+// Max Cash v2
+Author = libretro-database contributors / original PSP cheat authors
+21369F88 0098967F
+
+// P1 Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+0037725E 00000091
+
+// Player 2 Has No Health
+Author = libretro-database contributors / original PSP cheat authors
+20377B2C 00010000
+20077B2C 00010000
+D2000000 00000000
+
+// Tekken Bowl Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+2136C940 00000003
+
+// (P1) - Has Anna Williams Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000014
+
+// (P1) - Has Armor King Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 0000001D
+
+// (P1) - Has Asuka Kazama Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000017
+
+// (P1) - Has Baek Do San Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000019
+
+// (P1) - Has Bruce Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000018
+
+// (P1) - Has Bryan Fury Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 0000000C
+
+// (P1) - Has Christie Monteiro Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000008
+
+// (P1) - Has Craig Marduk Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000011
+
+// (P1) - Has Devil Jin Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 0000001A
+
+// (P1) - Has Dragunov Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 0000001F
+
+// (P1) - Has Eddy Gordo Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000021
+
+// (P1) - Has Feng Wei Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 0000001C
+
+// (P1) - Has Ganryu Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000016
+
+// (P1) - Has Heihachi Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 0000000D
+
+// (P1) - Has Hwoarang Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000006
+
+// (P1) - Has Jack-5 Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000012
+
+// (P1) - Has Jin Kazama Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000009
+
+// (P1) - Has Jinpachi Mishima Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000022
+
+// (P1) - Has Julia Chang Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 0000000A
+
+// (P1) - Has Kazuya Mishima Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 0000000E
+
+// (P1) - Has King Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000003
+
+// (P1) - Has Kuma Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 0000000B
+
+// (P1) - Has Law Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000001
+
+// (P1) - Has Lee Chaolan Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 0000000F
+
+// (P1) - Has Lei Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000002
+
+// (P1) - Has Lili Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 0000001E
+
+// (P1) - Has Ling Xiaoyu Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000007
+
+// (P1) - Has Nina Williams Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000005
+
+// (P1) - Has Panda Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000020
+
+// (P1) - Has Paul Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000000
+
+// (P1) - Has Raven Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 0000001B
+
+// (P1) - Has Roger Jr Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000013
+
+// (P1) - Has Steve Fox Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000010
+
+// (P1) - Has Wang Fei Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000015
+
+// (P1) - Has Yoshimitsu Moves
+Author = libretro-database contributors / original PSP cheat authors
+10376BEE 00000004
+
+// Anna (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110033
+20001030 0A25D42E
+201384D8 0E200400
+
+// Anna (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110033
+20001030 0A25D42E
+201384D8 0E200400
+
+// Armor King (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 2411004B
+20001030 0A25D42E
+201384D8 0E200400
+
+// Armor King (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 2411004B
+20001030 0A25D42E
+201384D8 0E200400
+
+// Asuka (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 2411003B
+20001030 0A25D42E
+201384D8 0E200400
+
+// Asuka (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 2411003B
+20001030 0A25D42E
+201384D8 0E200400
+
+// Baek (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110042
+20001030 0A25D42E
+201384D8 0E200400
+
+// Baek (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110042
+20001030 0A25D42E
+201384D8 0E200400
+
+// Brian (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110020
+20001030 0A25D42E
+201384D8 0E200400
+
+// Brian (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110020
+20001030 0A25D42E
+201384D8 0E200400
+
+// Bruce (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 2411003F
+20001030 0A25D42E
+201384D8 0E200400
+
+// Bruce (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 2411003F
+20001030 0A25D42E
+201384D8 0E200400
+
+// Christie (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110015
+20001030 0A25D42E
+201384D8 0E200400
+
+// Christie (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110015
+20001030 0A25D42E
+201384D8 0E200400
+
+// Devil Jin (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110044
+20001030 0A25D42E
+201384D8 0E200400
+
+// Devil Jin (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110044
+20001030 0A25D42E
+201384D8 0E200400
+
+// Dragunov (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 2411004F
+20001030 0A25D42E
+201384D8 0E200400
+
+// Dragunov (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 2411004F
+20001030 0A25D42E
+201384D8 0E200400
+
+// Eddy Gordo (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110017
+20001030 0A25D42E
+201384D8 0E200400
+
+// Eddy Gordo (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110017
+20001030 0A25D42E
+201384D8 0E200400
+
+// Feng (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110049
+20001030 0A25D42E
+201384D8 0E200400
+
+// Feng (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110049
+20001030 0A25D42E
+201384D8 0E200400
+
+// Ganryu (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110038
+20001030 0A25D42E
+201384D8 0E200400
+
+// Ganryu (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110038
+20001030 0A25D42E
+201384D8 0E200400
+
+// Heihachi (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110022
+20001030 0A25D42E
+201384D8 0E200400
+
+// Heihachi (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110022
+20001030 0A25D42E
+201384D8 0E200400
+
+// Howarang (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 2411000E
+20001030 0A25D42E
+201384D8 0E200400
+
+// Howarang (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 2411000E
+20001030 0A25D42E
+201384D8 0E200400
+
+// Jack-5 (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 2411002F
+20001030 0A25D42E
+201384D8 0E200400
+
+// Jack-5 (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 2411002F
+20001030 0A25D42E
+201384D8 0E200400
+
+// Jin (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110019
+20001030 0A25D42E
+201384D8 0E200400
+
+// Jin (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001028 24110019
+20001030 0A25D42E
+201384D8 0E200400
+
+// Jinpachi (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20376BF2 00000053
+
+// Jinpachi (P1) v2
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110051
+20001030 0A25D42E
+201384D8 0E200400
+
+// Jinpachi (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110051
+20001030 0A25D42E
+201384D8 0E200400
+
+// Jinpachi (Monster)
+Author = libretro-database contributors / original PSP cheat authors
+20376BF2 00000052
+
+// Julia (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 2411001C
+20001030 0A25D42E
+201384D8 0E200400
+
+// Julia (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 2411001C
+20001030 0A25D42E
+201384D8 0E200400
+
+// Kazuya (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110024
+20001030 0A25D42E
+201384D8 0E200400
+
+// Kazuya (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110024
+20001030 0A25D42E
+201384D8 0E200400
+
+// King (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110007
+20001030 0A25D42E
+201384D8 0E200400
+
+// King (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110007
+20001030 0A25D42E
+201384D8 0E200400
+
+// Kuma/Panda (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 2411001E
+20001030 0A25D42E
+201384D8 0E200400
+
+// Kuma/Panda (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 2411001E
+20001030 0A25D42E
+201384D8 0E200400
+
+// Law (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110002
+20001030 0A25D42E
+201384D8 0E200400
+
+// Law (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110002
+20001030 0A25D42E
+201384D8 0E200400
+
+// Lee (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110026
+20001030 0A25D42E
+201384D8 0E200400
+
+// Lee (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110026
+20001030 0A25D42E
+201384D8 0E200400
+
+// Lei (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110005
+20001030 0A25D42E
+201384D8 0E200400
+
+// Lei (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110005
+20001030 0A25D42E
+201384D8 0E200400
+
+// Lili (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 2411004D
+20001030 0A25D42E
+201384D8 0E200400
+
+// Lili (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 2411004D
+20001030 0A25D42E
+201384D8 0E200400
+
+// Marduck (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 2411002B
+20001030 0A25D42E
+201384D8 0E200400
+
+// Marduck (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 2411002B
+20001030 0A25D42E
+201384D8 0E200400
+
+// Mokujin As Jinpachi (Demon)
+Author = libretro-database contributors / original PSP cheat authors
+10376BF2 00000052
+
+// Mokujin As Jinpachi (Human)
+Author = libretro-database contributors / original PSP cheat authors
+10376BF2 00000053
+
+// Nina (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 2411000C
+20001030 0A25D42E
+201384D8 0E200400
+
+// Nina (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 2411000C
+20001030 0A25D42E
+201384D8 0E200400
+
+// P1 - As Jinpachi (Demon)
+Author = libretro-database contributors / original PSP cheat authors
+00379DEC 00000052
+00379C00 00000052
+
+// P1 - As Jinpachi (Human)
+Author = libretro-database contributors / original PSP cheat authors
+00379DEC 00000053
+00379C00 00000052
+
+// Paul (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110000
+20001030 0A25D42E
+201384D8 0E200400
+
+// Paul (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110000
+20001030 0A25D42E
+201384D8 0E200400
+
+// Raven (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110046
+20001030 0A25D42E
+201384D8 0E200400
+
+// Raven (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110046
+20001030 0A25D42E
+201384D8 0E200400
+
+// Roger Jr. (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110031
+20001030 0A25D42E
+201384D8 0E200400
+
+// Roger Jr. (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110031
+20001030 0A25D42E
+201384D8 0E200400
+
+// Steve (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110029
+20001030 0A25D42E
+201384D8 0E200400
+
+// Steve (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110029
+20001030 0A25D42E
+201384D8 0E200400
+
+// Wang (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110036
+20001030 0A25D42E
+201384D8 0E200400
+
+// Wang (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110036
+20001030 0A25D42E
+201384D8 0E200400
+
+// Xiaoyu (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110010
+20001030 0A25D42E
+201384D8 0E200400
+
+// Xiaoyu (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110010
+20001030 0A25D42E
+201384D8 0E200400
+
+// Yoshi (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0108B7
+20001004 34216BB0
+20001008 14300002
+20001010 24110009
+20001030 0A25D42E
+201384D8 0E200400
+
+// Yoshi (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20001018 3C0108B7
+2000101C 34217480
+20001020 14300002
+20001028 24110009
+20001030 0A25D42E
+201384D8 0E200400

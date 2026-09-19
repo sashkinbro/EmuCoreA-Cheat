@@ -1,0 +1,820 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULUS-10368
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Test Menu At Boot
+Author = libretro-database contributors / original PSP cheat authors
+0018D7E8 00000028
+
+// All Cards 9999 Power
+Author = libretro-database contributors / original PSP cheat authors
+00288E6E 0000270F
+00288E70 270F270F
+00288E74 270F270F
+00288E78 270F270F
+00288E7C 270F270F
+00288E80 270F270F
+00288E84 270F270F
+00288E88 270F270F
+00288E8C 270F270F
+00288E90 270F270F
+00288E94 270F270F
+00288E98 270F270F
+00288E9C 270F270F
+00288EA0 270F270F
+00288EA4 270F270F
+00288EA8 0000270F
+
+// All Items, Part 1
+Author = libretro-database contributors / original PSP cheat authors
+0020E5A5 773593FF
+0020E5A6 773593FF
+0020E5A7 773593FF
+0020E5A8 773593FF
+0020E5A9 773593FF
+0020E5AA 773593FF
+0020E5AB 773593FF
+0020E5AC 773593FF
+0020E5AD 773593FF
+0020E5AE 773593FF
+0020E5AF 773593FF
+0020E5B0 773593FF
+0020E5B1 773593FF
+0020E5B2 773593FF
+0020E5B3 773593FF
+0020E5B5 773593FF
+0020E5B7 773593FF
+0020E5B8 773593FF
+
+// All Items (Long)
+Author = libretro-database contributors / original PSP cheat authors
+7020E5A5 000000FF
+7020E5A6 000000FF
+7020E5A7 000000FF
+7020E5A8 000000FF
+7020E5A9 000000FF
+7020E5AA 000000FF
+7020E5AB 000000FF
+7020E5AC 000000FF
+7020E5AD 000000FF
+7020E5AE 000000FF
+7020E5AF 000000FF
+7020E5B0 000000FF
+7020E5B1 000000FF
+7020E5B2 000000FF
+7020E5B3 000000FF
+7020E5B4 000000FF
+7020E5B5 000000FF
+7020E5B6 000000FF
+7020E5B7 000000FF
+7020E5B8 000000FF
+7020E5B9 000000FF
+7020E5BA 000000FF
+7020E5BB 000000FF
+7020E5BC 000000FF
+7020E5BD 000000FF
+7020E5BE 000000FF
+7020E5BF 000000FF
+7020E5C0 000000FF
+7020E5C1 000000FF
+7020E5C2 000000FF
+7020E5C3 000000FF
+7020E5C4 000000FF
+7020E5C5 000000FF
+7020E5C6 000000FF
+7020E5C7 000000FF
+
+// All Items (Short)
+Author = libretro-database contributors / original PSP cheat authors
+4020E5A5 00080001
+FFFFFFFF 00000000
+0020E5C5 000000FF
+0020E5C6 000000FF
+0020E5C7 000000FF
+
+// Cards Power
+Author = libretro-database contributors / original PSP cheat authors
+10288E6E 0000257C
+10288EFE 0000257C
+
+// Cards Power v2
+Author = libretro-database contributors / original PSP cheat authors
+10288E6E 0000257C
+10288E70 0000257C
+10288E72 0000257C
+10288E74 0000257C
+10288E76 0000257C
+10288E78 0000257C
+10288E7A 0000257C
+10288E7C 0000257C
+10288E7E 0000257C
+10288E80 0000257C
+10288E82 0000257C
+10288E84 0000257C
+10288E86 0000257C
+10288E88 0000257C
+10288E8A 0000257C
+10288E8E 0000257C
+10288E92 0000257C
+10288E94 0000257C
+
+// Card Power 9999 (Long)
+Author = libretro-database contributors / original PSP cheat authors
+10288E6E 0000270F
+10288E70 0000270F
+10288E72 0000270F
+10288E74 0000270F
+10288E76 0000270F
+10288E78 0000270F
+10288E7A 0000270F
+10288E7C 0000270F
+10288E7E 0000270F
+10288E80 0000270F
+10288E82 0000270F
+10288E84 0000270F
+10288E86 0000270F
+10288E88 0000270F
+10288E8A 0000270F
+10288E8C 0000270F
+10288E8E 0000270F
+10288E90 0000270F
+10288E92 0000270F
+10288E94 0000270F
+10288E96 0000270F
+10288E98 0000270F
+10288E9A 0000270F
+10288E9C 0000270F
+10288E9E 0000270F
+10288EA0 0000270F
+10288EA2 0000270F
+10288EA4 0000270F
+10288EA6 0000270F
+10288EA8 0000270F
+10288EAA 0000270F
+10288EAC 0000270F
+10288EB0 0000270F
+10288EB2 0000270F
+
+// Card Power 9999 (Short)
+Author = libretro-database contributors / original PSP cheat authors
+80288E6E 001E0001
+1000270F 00000000
+20288EB0 270F270F
+
+// Infinite Move
+Author = libretro-database contributors / original PSP cheat authors
+0028F0BE 00000063
+
+// Infinite Movement
+Author = libretro-database contributors / original PSP cheat authors
+0020E67E 00000063
+
+// Max Skill Gauge
+Author = libretro-database contributors / original PSP cheat authors
+1028EA10 00000E60
+
+// Medallion 99
+Author = libretro-database contributors / original PSP cheat authors
+0020E5C7 00000063
+
+// Medallion 255
+Author = libretro-database contributors / original PSP cheat authors
+7020E5C7 000000FF
+
+// Miralo Moral
+Author = libretro-database contributors / original PSP cheat authors
+1029390A 00001770
+0020E67C 00000040
+0028F0BE 00000050
+
+// Movement [Press Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000001
+0020E67E 00000063
+
+// Rosery Moral
+Author = libretro-database contributors / original PSP cheat authors
+10293A22 00001770
+
+// Skill [Press Square+Left]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10008080
+0028EA10 0E600E60
+
+// Yggdra As La Pucelle
+Author = libretro-database contributors / original PSP cheat authors
+00293932 0000000F
+
+// Yggdra Moral
+Author = libretro-database contributors / original PSP cheat authors
+10293942 00001770
+
+// Always High: Milanor
+Author = libretro-database contributors / original PSP cheat authors
+00293902 00000008
+
+// Always High: Yggdra
+Author = libretro-database contributors / original PSP cheat authors
+0029393A 00000008
+
+// Always High: Durant
+Author = libretro-database contributors / original PSP cheat authors
+00293972 00000008
+
+// Always High: Nietzsche
+Author = libretro-database contributors / original PSP cheat authors
+002939AA 00000008
+
+// Always High: Roswell
+Author = libretro-database contributors / original PSP cheat authors
+002939E2 00000008
+
+// Always High: Rosary
+Author = libretro-database contributors / original PSP cheat authors
+00293A1A 00000008
+
+// Always High: Russell
+Author = libretro-database contributors / original PSP cheat authors
+00293A52 00000008
+
+// Always High: Cruz
+Author = libretro-database contributors / original PSP cheat authors
+00293A8A 00000008
+
+// Always High: Elena
+Author = libretro-database contributors / original PSP cheat authors
+00293AC2 00000008
+
+// Always High: Kylier
+Author = libretro-database contributors / original PSP cheat authors
+00293AFA 00000008
+
+// Always High: Unknown1
+Author = libretro-database contributors / original PSP cheat authors
+00293B32 00000008
+
+// Always High: Flunky
+Author = libretro-database contributors / original PSP cheat authors
+00293B6A 00000008
+
+// Always High: Mistel
+Author = libretro-database contributors / original PSP cheat authors
+00293BA2 00000008
+
+// Always High: Pamela
+Author = libretro-database contributors / original PSP cheat authors
+00293BDA 00000008
+
+// Durable Durant
+Author = libretro-database contributors / original PSP cheat authors
+0017CDD8 41525544
+0017CDDC 0000544E
+0029396A 0000000B
+00293970 1E000014
+00293974 061E1E1E
+0029397A 0000270F
+0029397C 270F270F
+00293986 00006363
+00293990 0000000A
+
+// Imperial Yggdra
+Author = libretro-database contributors / original PSP cheat authors
+0017CDB8 44474759
+0017CDBC 00004152
+00293932 0000001C
+00293938 1E000014
+0029393C 061E1E1E
+00293942 0000270F
+00293944 270F270F
+0029394E 00006363
+00293958 0000000A
+
+// Infinite Equipped Item: Milanor
+Author = libretro-database contributors / original PSP cheat authors
+00293920 0000000A
+
+// Infinite Equipped Item: Yggdra
+Author = libretro-database contributors / original PSP cheat authors
+00293958 0000000A
+
+// Infinite Equipped Item: Durant
+Author = libretro-database contributors / original PSP cheat authors
+00293990 0000000A
+
+// Infinite Equipped Item: Nietzsche
+Author = libretro-database contributors / original PSP cheat authors
+002939C8 0000000A
+
+// Infinite Equipped Item: Roswell
+Author = libretro-database contributors / original PSP cheat authors
+00293A00 0000000A
+
+// Infinite Equipped Item: Rosary
+Author = libretro-database contributors / original PSP cheat authors
+00293A38 0000000A
+
+// Infinite Equipped Item: Russell
+Author = libretro-database contributors / original PSP cheat authors
+00293A70 0000000A
+
+// Infinite Equipped Item: Cruz
+Author = libretro-database contributors / original PSP cheat authors
+00293AA8 0000000A
+
+// Infinite Equipped Item: Elena
+Author = libretro-database contributors / original PSP cheat authors
+00293AE0 0000000A
+
+// Infinite Equipped Item: Kylier
+Author = libretro-database contributors / original PSP cheat authors
+00293B18 0000000A
+
+// Infinite Equipped Item: Unknown1
+Author = libretro-database contributors / original PSP cheat authors
+00293B50 0000000A
+
+// Infinite Equipped Item: Flunky
+Author = libretro-database contributors / original PSP cheat authors
+00293B88 0000000A
+
+// Infinite Equipped Item: Mistel
+Author = libretro-database contributors / original PSP cheat authors
+00293BC0 0000000A
+
+// Infinite Equipped Item: Pamela
+Author = libretro-database contributors / original PSP cheat authors
+00293BF8 0000000A
+
+// Max Morale: Milanor
+Author = libretro-database contributors / original PSP cheat authors
+1029390A 0000270F
+2029390C 270F270F
+
+// Max Morale: Yggdra
+Author = libretro-database contributors / original PSP cheat authors
+10293942 0000270F
+20293944 270F270F
+
+// Max Morale: Durant
+Author = libretro-database contributors / original PSP cheat authors
+1029397A 0000270F
+2029397C 270F270F
+
+// Max Morale: Nietzsche's
+Author = libretro-database contributors / original PSP cheat authors
+102939B2 0000270F
+202939B4 270F270F
+
+// Max Morale: Roswell
+Author = libretro-database contributors / original PSP cheat authors
+102939EA 0000270F
+202939EC 270F270F
+
+// Max Morale: Rosary
+Author = libretro-database contributors / original PSP cheat authors
+10293A22 0000270F
+20293A24 270F270F
+
+// Max Morale: Russell
+Author = libretro-database contributors / original PSP cheat authors
+10293A5A 0000270F
+20293A5C 270F270F
+
+// Max Morale: Cruz
+Author = libretro-database contributors / original PSP cheat authors
+10293A92 0000270F
+20293A94 270F270F
+
+// Max Morale: Elena
+Author = libretro-database contributors / original PSP cheat authors
+10293ACA 0000270F
+20293ACC 270F270F
+
+// Max Morale: Kylier
+Author = libretro-database contributors / original PSP cheat authors
+10293B02 0000270F
+20293B04 270F270F
+
+// Max Morale: Unknown1
+Author = libretro-database contributors / original PSP cheat authors
+10293B3A 0000270F
+20293B3C 270F270F
+
+// Max Morale: Flunky
+Author = libretro-database contributors / original PSP cheat authors
+10293B72 0000270F
+20293B74 270F270F
+
+// Max Morale: Mistel
+Author = libretro-database contributors / original PSP cheat authors
+10293BAA 0000270F
+20293BAC 270F270F
+
+// Max Morale: Pamela
+Author = libretro-database contributors / original PSP cheat authors
+10293BE2 0000270F
+20293BE4 270F270F
+
+// Max Stats: Milanor
+Author = libretro-database contributors / original PSP cheat authors
+00293903 0000001E
+00293904 0000001E
+00293905 0000001E
+00293906 0000001E
+00293907 00000006
+
+// Max Stats: Yggdra
+Author = libretro-database contributors / original PSP cheat authors
+0029393B 0000001E
+0029393C 0000001E
+0029393D 0000001E
+0029393E 0000001E
+0029393F 00000006
+
+// Max Stats: Durant
+Author = libretro-database contributors / original PSP cheat authors
+00293973 0000001E
+00293974 0000001E
+00293975 0000001E
+00293976 0000001E
+00293977 00000006
+
+// Max Stats: Nietzsche
+Author = libretro-database contributors / original PSP cheat authors
+002939AB 0000001E
+002939AC 0000001E
+002939AD 0000001E
+002939AE 0000001E
+002939AF 00000006
+
+// Max Stats: Roswell
+Author = libretro-database contributors / original PSP cheat authors
+002939E3 0000001E
+002939E4 0000001E
+002939E5 0000001E
+002939E6 0000001E
+002939E7 00000006
+
+// Max Stats: Rosary
+Author = libretro-database contributors / original PSP cheat authors
+00293A1B 0000001E
+00293A1C 0000001E
+00293A1D 0000001E
+00293A1E 0000001E
+00293A1F 00000006
+
+// Max Stats: Russell
+Author = libretro-database contributors / original PSP cheat authors
+00293A53 0000001E
+00293A54 0000001E
+00293A55 0000001E
+00293A56 0000001E
+00293A57 00000006
+
+// Max Stats: Cruz
+Author = libretro-database contributors / original PSP cheat authors
+00293A8B 0000001E
+00293A8C 0000001E
+00293A8D 0000001E
+00293A8E 0000001E
+00293A8F 00000006
+
+// Max Stats: Elena
+Author = libretro-database contributors / original PSP cheat authors
+00293AC3 0000001E
+00293AC4 0000001E
+00293AC5 0000001E
+00293AC6 0000001E
+00293AC7 00000006
+
+// Max Stats: Kylier
+Author = libretro-database contributors / original PSP cheat authors
+00293AFB 0000001E
+00293AFC 0000001E
+00293AFD 0000001E
+00293AFE 0000001E
+00293AFF 00000006
+
+// Max Stats: Unknown1
+Author = libretro-database contributors / original PSP cheat authors
+00293B33 0000001E
+00293B34 0000001E
+00293B35 0000001E
+00293B36 0000001E
+00293B37 00000006
+
+// Max Stats: Flunky
+Author = libretro-database contributors / original PSP cheat authors
+00293B6B 0000001E
+00293B6C 0000001E
+00293B6D 0000001E
+00293B6E 0000001E
+00293B6F 00000006
+
+// Max Stats: Mistel
+Author = libretro-database contributors / original PSP cheat authors
+00293BA3 0000001E
+00293BA4 0000001E
+00293BA5 0000001E
+00293BA6 0000001E
+00293BA7 00000006
+
+// Max Stats: Pamela
+Author = libretro-database contributors / original PSP cheat authors
+00293BDB 0000001E
+00293BDC 0000001E
+00293BDD 0000001E
+00293BDE 0000001E
+00293BDF 00000006
+
+// Mega Milanor
+Author = libretro-database contributors / original PSP cheat authors
+0017CDC0 414C494D
+0017CDC4 00524F4E
+002938FA 0000001B
+00293900 1E000014
+00293904 061E1E1E
+0029390A 0000270F
+0029390C 270F270F
+00293916 00006363
+00293920 0000000A
+
+// Sq+U/D/L/R => Exp. Milanor
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 00293912
+D0000000 10008040
+30400001 00293912
+D0000000 10008020
+3030000A 00293912
+D0000000 10008080
+3040000A 00293912
+
+// Sq+U/D/L/R => Exp. Yggdra
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 0029394A
+D0000000 10008040
+30400001 0029394A
+D0000000 10008020
+3030000A 0029394A
+D0000000 10008080
+3040000A 0029394A
+
+// Sq+U/D/L/R => Exp. Durant
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 00293982
+D0000000 10008040
+30400001 00293982
+D0000000 10008020
+3030000A 00293982
+D0000000 10008080
+3040000A 00293982
+
+// Sq+U/D/L/R => Exp. Nietzsche
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 002939BA
+D0000000 10008040
+30400001 002939BA
+D0000000 10008020
+3030000A 002939BA
+D0000000 10008080
+3040000A 002939BA
+
+// Sq+U/D/L/R => Exp. Roswell
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 002939F2
+D0000000 10008040
+30400001 002939F2
+D0000000 10008020
+3030000A 002939F2
+D0000000 10008080
+3040000A 002939F2
+
+// Sq+U/D/L/R => Exp. Rosary
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 00293A2A
+D0000000 10008040
+30400001 00293A2A
+D0000000 10008020
+3030000A 00293A2A
+D0000000 10008080
+3040000A 00293A2A
+
+// Sq+U/D/L/R => Exp. Russell
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 00293A62
+D0000000 10008040
+30400001 00293A62
+D0000000 10008020
+3030000A 00293A62
+D0000000 10008080
+3040000A 00293A62
+
+// Sq+U/D/L/R => Exp. Cruz
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 00293A9A
+D0000000 10008040
+30400001 00293A9A
+D0000000 10008020
+3030000A 00293A9A
+D0000000 10008080
+3040000A 00293A9A
+
+// Sq+U/D/L/R => Exp. Elena
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 00293AD2
+D0000000 10008040
+30400001 00293AD2
+D0000000 10008020
+3030000A 00293AD2
+D0000000 10008080
+3040000A 00293AD2
+
+// Sq+U/D/L/R => Exp. Kylier
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 00293B0A
+D0000000 10008040
+30400001 00293B0A
+D0000000 10008020
+3030000A 00293B0A
+D0000000 10008080
+3040000A 00293B0A
+
+// Sq+U/D/L/R => Exp. Unknown1
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 00293B42
+D0000000 10008040
+30400001 00293B42
+D0000000 10008020
+3030000A 00293B42
+D0000000 10008080
+3040000A 00293B42
+
+// Sq+U/D/L/R => Exp. Flunky
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 00293B7A
+D0000000 10008040
+30400001 00293B7A
+D0000000 10008020
+3030000A 00293B7A
+D0000000 10008080
+3040000A 00293B7A
+
+// Sq+U/D/L/R => Exp. Mistel
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 00293BB2
+D0000000 10008040
+30400001 00293BB2
+D0000000 10008020
+3030000A 00293BB2
+D0000000 10008080
+3040000A 00293BB2
+
+// Sq+U/D/L/R => Exp. Pamela
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10008010
+30300001 00293BEA
+D0000000 10008040
+30400001 00293BEA
+D0000000 10008020
+3030000A 00293BEA
+D0000000 10008080
+3040000A 00293BEA
+
+// Status Immunity: Milanor
+Author = libretro-database contributors / original PSP cheat authors
+00293902 00000000
+
+// Status Immunity: Yggdra
+Author = libretro-database contributors / original PSP cheat authors
+0029393A 00000000
+
+// Status Immunity: Durant
+Author = libretro-database contributors / original PSP cheat authors
+00293972 00000000
+
+// Status Immunity: Nietzsche
+Author = libretro-database contributors / original PSP cheat authors
+002939AA 00000000
+
+// Status Immunity: Roswell
+Author = libretro-database contributors / original PSP cheat authors
+002939E2 00000000
+
+// Status Immunity: Rosary
+Author = libretro-database contributors / original PSP cheat authors
+00293A1A 00000000
+
+// Status Immunity: Russell
+Author = libretro-database contributors / original PSP cheat authors
+00293A52 00000000
+
+// Status Immunity: Cruz
+Author = libretro-database contributors / original PSP cheat authors
+00293A8A 00000000
+
+// Status Immunity: Elena
+Author = libretro-database contributors / original PSP cheat authors
+00293AC2 00000000
+
+// Status Immunity: Kylier
+Author = libretro-database contributors / original PSP cheat authors
+00293AFA 00000000
+
+// Status Immunity: Unknown1
+Author = libretro-database contributors / original PSP cheat authors
+00293B32 00000000
+
+// Status Immunity: Flunky
+Author = libretro-database contributors / original PSP cheat authors
+00293B6A 00000000
+
+// Status Immunity: Mistel
+Author = libretro-database contributors / original PSP cheat authors
+00293BA2 00000000
+
+// Status Immunity: Pamela
+Author = libretro-database contributors / original PSP cheat authors
+00293BDA 00000000
+
+// UnEquip: Milanor
+Author = libretro-database contributors / original PSP cheat authors
+10293908 00000000
+00293920 00000000
+
+// UnEquip: Yggdra
+Author = libretro-database contributors / original PSP cheat authors
+10293940 00000000
+00293958 00000000
+
+// UnEquip: Durant
+Author = libretro-database contributors / original PSP cheat authors
+10293978 00000000
+00293990 00000000
+
+// UnEquip: Nietzsche's
+Author = libretro-database contributors / original PSP cheat authors
+102939B0 00000000
+002939C8 00000000
+
+// UnEquip: Roswell
+Author = libretro-database contributors / original PSP cheat authors
+102939E8 00000000
+00293A00 00000000
+
+// UnEquip: Rosary
+Author = libretro-database contributors / original PSP cheat authors
+10293A20 00000000
+00293A38 00000000
+
+// UnEquip: Russell
+Author = libretro-database contributors / original PSP cheat authors
+10293A58 00000000
+00293A70 00000000
+
+// UnEquip: Cruz
+Author = libretro-database contributors / original PSP cheat authors
+10293A90 00000000
+00293AA8 00000000
+
+// UnEquip: Elena
+Author = libretro-database contributors / original PSP cheat authors
+10293AC8 00000000
+00293AE0 00000000
+
+// UnEquip: Kylier
+Author = libretro-database contributors / original PSP cheat authors
+10293B00 00000000
+00293B18 00000000
+
+// UnEquip: Unknown1
+Author = libretro-database contributors / original PSP cheat authors
+10293B38 00000000
+00293B50 00000000
+
+// UnEquip: Flunky
+Author = libretro-database contributors / original PSP cheat authors
+10293B70 00000000
+00293B88 00000000
+
+// UnEquip: Mistel
+Author = libretro-database contributors / original PSP cheat authors
+10293BA8 00000000
+00293BC0 00000000
+
+// UnEquip: Pamela
+Author = libretro-database contributors / original PSP cheat authors
+10293BE0 00000000
+00293BF8 00000000

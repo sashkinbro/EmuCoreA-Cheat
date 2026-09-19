@@ -1,0 +1,1304 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-00850
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Battle Animation Lag Fix
+Author = libretro-database contributors / original PSP cheat authors
+E0030004 0020EF80
+2020EF80 24050002
+2020EF90 24050003
+2020EF9C 24050002
+
+// Battle Animation Lag Fix [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0030002 0020EF80
+2020EF80 24050004
+2020EF90 24050002
+2020EF9C 24050003
+
+// Original Resolution
+Author = libretro-database contributors / original PSP cheat authors
+E00DA2E2 00035780
+20035780 879EA2E4
+20035784 0E200800
+20002000 341001E0
+20002004 121E0007
+20002008 8790A2E2
+2000200C 34130046
+20002010 34120010
+20002014 34160154
+20002018 341700F0
+2000201C 341E0154
+20002020 341500F0
+20002024 03E00008
+20002028 00000000
+
+// Original Resolution [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E002A2E4 00035780
+20035780 8790A2E2
+20035784 879EA2E4
+
+// 10,000,000 Gile
+Author = libretro-database contributors / original PSP cheat authors
+20C4B404 00989680
+
+// Abilities (Part 1)
+Author = libretro-database contributors / original PSP cheat authors
+00275D2B 000000E1
+00275D2C 000000A1
+00275D3B 000000E1
+00275D6B 000000E1
+00275DE3 000000E1
+00275DF3 000000E1
+00275E13 000000E1
+00275E43 000000E1
+00275EA3 000000E1
+00275F03 000000E1
+00275F23 000000E1
+00275F2B 000000E1
+00275F33 000000E1
+00275F4B 000000E1
+00275F53 000000E1
+00275F5B 000000E1
+00275F6B 000000E1
+00277381 00000026
+00277383 00000008
+0027739B 0000002D
+002773F3 00000006
+002774C5 0000000C
+002774E1 0000000C
+00277519 00000007
+0027756D 0000000A
+
+// Abilities (Part 2)
+Author = libretro-database contributors / original PSP cheat authors
+00277613 0000001E
+00277615 00000014
+002776BD 00000010
+002776F5 00000012
+00277703 0000000A
+00277711 00000018
+0027773B 0000000E
+00277749 0000000E
+00277757 0000000E
+00277773 00000012
+
+// All Items (L+Square)
+Author = libretro-database contributors / original PSP cheat authors
+D0000007 10008100
+80AEABA1 01150001
+00000063 00000000
+10AEACC0 00006363
+20AEACC4 63636363
+20AEACCC 63636363
+10AEACD0 00006363
+20AEACD4 63636363
+10AEACD8 00006363
+
+// Action Menus
+Author = libretro-database contributors / original PSP cheat authors
+0027AC65 00000000
+
+// All Jobs Lvl. 8 - Part II
+Author = libretro-database contributors / original PSP cheat authors
+00AEAD94 0000000F
+00AEAD95 00000027
+00AEAD96 0000000F
+00AEAD97 00000027
+00AEAD98 0000000F
+00AEAD99 00000027
+00AEAD9A 0000000F
+00AEAD9B 00000027
+00AEAD9C 0000000F
+00AEAD9D 00000027
+
+// All Jobs Lvl. 8 - Part III
+Author = libretro-database contributors / original PSP cheat authors
+00AEAD9E 0000000F
+00AEAD9F 00000027
+00AEADA0 0000000F
+00AEADA1 00000027
+00AEADA2 0000000F
+00AEADA3 00000027
+00AEADA4 0000000F
+00AEADA5 00000027
+00AEADA6 0000000F
+00AEADA7 00000027
+
+// All Jobs Lvl. 8 - 9999 Exp.
+Author = libretro-database contributors / original PSP cheat authors
+00AEAD8A 0000000F
+00AEAD8B 00000027
+00AEAD8C 0000000F
+00AEAD8D 00000027
+00AEAD8E 0000000F
+00AEAD8F 00000027
+00AEAD90 0000000F
+00AEAD91 00000027
+00AEAD92 0000000F
+00AEAD93 00000027
+00AEAD94 0000000F
+00AEAD95 00000027
+00AEAD96 0000000F
+00AEAD97 00000027
+00AEAD98 0000000F
+00AEAD9A 0000000F
+00AEAD9C 0000000F
+00AEAD9D 00000027
+
+// Character 1: Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+10AE7B64 000003E7
+10AE7B66 000003E7
+
+// Character 1: Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+10AE7B68 000003E7
+10AE7B6A 000003E7
+
+// Character 1: Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+10AE7B72 00006363
+
+// Character 1: Max Jump & Move
+Author = libretro-database contributors / original PSP cheat authors
+10AE7B76 00000909
+
+// Character 1: Max Speed
+Author = libretro-database contributors / original PSP cheat authors
+10AE7B74 00000063
+
+// Character 1: Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+10AE7B5C 00000063
+
+// Character 2: Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+10AE7D4C 000003E7
+10AE7D4E 000003E7
+
+// Character 2: Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+10AE7D50 000003E7
+10AE7D52 000003E7
+
+// Character 2: Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+10AE7D5A 00006363
+
+// Character 2: Max Jump & Move
+Author = libretro-database contributors / original PSP cheat authors
+10AE7D5E 00000909
+
+// Character 2: Max Speed
+Author = libretro-database contributors / original PSP cheat authors
+10AE7D5C 00000063
+
+// Character 2: Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+10AE7D44 00000063
+
+// Character 3: Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+10AE7F34 000003E7
+10AE7F36 000003E7
+
+// Character 3: Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+10AE7F38 000003E7
+10AE7F3A 000003E7
+
+// Character 3: Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+10AE7F42 00006363
+
+// Character 3: Max Jump & Move
+Author = libretro-database contributors / original PSP cheat authors
+10AE7F46 00000909
+
+// Character 3: Max Speed
+Author = libretro-database contributors / original PSP cheat authors
+10AE7F44 00000063
+
+// Character 3: Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+10AE7F2C 00000063
+
+// Character 4: Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+10AE811C 000003E7
+10AE811E 000003E7
+
+// Character 4: Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+10AE8120 000003E7
+10AE8122 000003E7
+
+// Character 4: Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+10AE812A 00006363
+
+// Character 4: Max Jump & Move
+Author = libretro-database contributors / original PSP cheat authors
+10AE812E 00000909
+
+// Character 4: Max Speed
+Author = libretro-database contributors / original PSP cheat authors
+10AE812C 00000063
+
+// Character 4: Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+10AE8114 00000063
+
+// Character 5: Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+10AE8304 000003E7
+10AE8306 000003E7
+
+// Character 5: Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+10AE8308 000003E7
+10AE830A 000003E7
+
+// Character 5: Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+10AE8312 00006363
+
+// Character 5: Max Jump & Move
+Author = libretro-database contributors / original PSP cheat authors
+10AE8316 00000909
+
+// Character 5: Max Speed
+Author = libretro-database contributors / original PSP cheat authors
+10AE8314 00000063
+
+// Character 5: Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+10AE82FC 00000063
+
+// Fast Exp. Gain
+Author = libretro-database contributors / original PSP cheat authors
+20AE82FC FF000032
+20AE82FC 00000032
+D2000000 00000000
+
+// Fast Exp. Gain v2
+Author = libretro-database contributors / original PSP cheat authors
+20AE8114 FF000032
+20AE8114 00000032
+D2000000 00000000
+
+// Fast Exp. Gain v3
+Author = libretro-database contributors / original PSP cheat authors
+20AE7F2C FF000032
+20AE7F2C 00000032
+D2000000 00000000
+
+// Fast Exp. Gain v4
+Author = libretro-database contributors / original PSP cheat authors
+20AE7D44 FF000032
+20AE7D44 00000032
+D2000000 00000000
+
+// Fast Exp. Gain v5
+Author = libretro-database contributors / original PSP cheat authors
+20AE7B5C FF000032
+20AE7B5C 00000032
+D2000000 00000000
+
+// In Battle Debug Menu
+Author = libretro-database contributors / original PSP cheat authors
+20B8CDCC 00000031
+217B3294 BFFF4000
+20B8CD80 08A98B84
+20B8CD94 00000003
+20B8CD94 00000002
+D2000000 00000000
+
+// Infinite Gil
+Author = libretro-database contributors / original PSP cheat authors
+20C4B404 05F5E0FF
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+DA000000 00AE8306
+D7000000 00AE8304
+D2000000 00000000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+DA000000 00AE811E
+D7000000 00AE811C
+D2000000 00000000
+
+// Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+DA000000 00AE7F36
+D7000000 00AE7F34
+D2000000 00000000
+
+// Infinite Health v4
+Author = libretro-database contributors / original PSP cheat authors
+DA000000 00AE7D4E
+D7000000 00AE7D4C
+D2000000 00000000
+
+// Infinite Health v5
+Author = libretro-database contributors / original PSP cheat authors
+DA000000 00AE7B66
+D7000000 00AE7B64
+D2000000 00000000
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+80AE7B64 000500F4
+000003E7 00000000
+80AE7B66 000500F4
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+00C4B404 00000002
+00C4B405 000000FF
+
+// Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+80AE7B68 000500F4
+000003E7 00000000
+80AE7B6A 000500F4
+
+// Infinite MP v2
+Author = libretro-database contributors / original PSP cheat authors
+DA000000 00AE830A
+D7000000 00AE8308
+D2000000 00000000
+
+// Infinite MP v3
+Author = libretro-database contributors / original PSP cheat authors
+DA000000 00AE8122
+D7000000 00AE8120
+
+// Infinite MP v4
+Author = libretro-database contributors / original PSP cheat authors
+DA000000 00AE7F3A
+D7000000 00AE7F38
+
+// Infinite MP v5
+Author = libretro-database contributors / original PSP cheat authors
+DA000000 00AE7D52
+D7000000 00AE7D50
+D2000000 00000000
+
+// Infinite MP v6
+Author = libretro-database contributors / original PSP cheat authors
+DA000000 00AE7B6A
+D7000000 00AE7B68
+D2000000 00000000
+
+// Inflict Statuses
+Author = libretro-database contributors / original PSP cheat authors
+0032A448 00000080
+0032A44C 00000038
+
+// Instant Level Up
+Author = libretro-database contributors / original PSP cheat authors
+20AE82FC FF000063
+20AE82FC 00000063
+
+// Instant Level Up v2
+Author = libretro-database contributors / original PSP cheat authors
+20AE8114 FF000063
+20AE8114 00000063
+
+// Instant Level Up v3
+Author = libretro-database contributors / original PSP cheat authors
+20AE7F2C FF000063
+20AE7F2C 00000063
+
+// Instant Level Up v4
+Author = libretro-database contributors / original PSP cheat authors
+20AE7D44 FF000063
+20AE7D44 00000063
+
+// Instant Level Up v5
+Author = libretro-database contributors / original PSP cheat authors
+20AE7B5C FF000063
+20AE7B5C 00000063
+
+// Jobs
+Author = libretro-database contributors / original PSP cheat authors
+00278AC3 000000DE
+10278AC4 0000DB01
+00278AC6 00000001
+00278ACB 000000D4
+10278ACC 00000450
+00278ACF 00000010
+20278AD0 780B6E0C
+10278AD4 00006466
+00278AD7 0000006E
+00278AD9 00000096
+00278ADC 0000000C
+
+// JP Multiplier (2x)
+Author = libretro-database contributors / original PSP cheat authors
+200D570C 10000007
+200D5710 00129040
+
+// JP Multiplier (4x)
+Author = libretro-database contributors / original PSP cheat authors
+200D570C 10000007
+200D5710 00129080
+
+// JP Multiplier (8x)
+Author = libretro-database contributors / original PSP cheat authors
+200D570C 10000007
+200D5710 001290C0
+
+// JP Multiplier (16x)
+Author = libretro-database contributors / original PSP cheat authors
+200D570C 10000007
+200D5710 00129100
+
+// JP Multiplier (32x)
+Author = libretro-database contributors / original PSP cheat authors
+200D570C 10000007
+200D5710 00129140
+
+// JP Multiplier (64x)
+Author = libretro-database contributors / original PSP cheat authors
+200D570C 10000007
+200D5710 00129180
+
+// JP Multiplier (128x)
+Author = libretro-database contributors / original PSP cheat authors
+200D570C 10000007
+200D5710 001291C0
+
+// JP Multiplier (256x)
+Author = libretro-database contributors / original PSP cheat authors
+200D570C 10000007
+200D5710 00129200
+
+// JP Multiplier (512x)
+Author = libretro-database contributors / original PSP cheat authors
+200D570C 10000007
+200D5710 00129240
+
+// Kill All Baddies (L+Square)
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10008100
+80AE5D16 001001E8
+00000030 00000000
+
+// Main Charac. Archer JP
+Author = libretro-database contributors / original PSP cheat authors
+00C4F648 0000000F
+00C4F649 00000027
+
+// Main Charac. Black Mage JP
+Author = libretro-database contributors / original PSP cheat authors
+00C4F64E 0000000F
+00C4F64F 00000027
+
+// Main Charac. Chemist JP
+Author = libretro-database contributors / original PSP cheat authors
+00C4F644 0000000F
+00C4F645 00000027
+
+// Main Charac. Knight JP
+Author = libretro-database contributors / original PSP cheat authors
+00C4F646 0000000F
+00C4F647 00000027
+
+// Main Charac. Max JP - All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+00C4F642 0000000F
+00C4F643 00000027
+00C4F644 0000000F
+00C4F645 00000027
+00C4F646 0000000F
+00C4F647 00000027
+00C4F648 0000000F
+00C4F649 00000027
+00C4F64C 0000000F
+00C4F64D 00000027
+00C4F64E 0000000F
+00C4F64F 00000027
+00C4F64A 0000000F
+00C4F64B 00000027
+00C4F65A 0000000F
+00C4F650 0000000F
+00C4F652 0000000F
+00C4F653 00000027
+
+// Main Character Monk JP
+Author = libretro-database contributors / original PSP cheat authors
+00C4F64A 0000000F
+00C4F64B 00000027
+
+// Main Character Squire JP
+Author = libretro-database contributors / original PSP cheat authors
+00C4F642 0000000F
+00C4F643 00000027
+
+// Main Character White Mage JP
+Author = libretro-database contributors / original PSP cheat authors
+00C4F64C 0000000F
+00C4F64D 00000027
+
+// Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+80AE7B72 000500F4
+00006363 00000000
+
+// Max Atk. & MAtk.
+Author = libretro-database contributors / original PSP cheat authors
+80AE7B72 000501E8
+00006363 00000000
+
+// Max Gil
+Author = libretro-database contributors / original PSP cheat authors
+20C4B404 05F5E0FF
+
+// Max Health
+Author = libretro-database contributors / original PSP cheat authors
+20AE8306 000003E7
+
+// Max Health v2
+Author = libretro-database contributors / original PSP cheat authors
+20AE811E 000003E7
+
+// Max Health v3
+Author = libretro-database contributors / original PSP cheat authors
+20AE7F36 000003E7
+
+// Max Health v4
+Author = libretro-database contributors / original PSP cheat authors
+20AE7D4E 000003E7
+
+// Max Health v5
+Author = libretro-database contributors / original PSP cheat authors
+20AE7B66 000003E7
+
+// Max Job Points Part II
+Author = libretro-database contributors / original PSP cheat authors
+00C4F64E 0000000F
+00C4F64F 00000027
+00C4F64A 0000000F
+00C4F64B 00000027
+00C4F65A 0000000F
+00C4F65B 00000027
+00C4F650 0000000F
+00C4F651 00000027
+00C4F652 0000000F
+00C4F653 00000027
+
+// Max Job Points Part III
+Author = libretro-database contributors / original PSP cheat authors
+00C4F654 0000000F
+00C4F655 00000027
+00C4F656 0000000F
+00C4F657 00000027
+00C4F658 0000000F
+00C4F659 00000027
+00C4F65C 0000000F
+00C4F65D 00000027
+00C4F65E 0000000F
+00C4F65F 00000027
+
+// Max Jump
+Author = libretro-database contributors / original PSP cheat authors
+20AE8317 00000063
+
+// Max Jump & Move
+Author = libretro-database contributors / original PSP cheat authors
+80AE7B76 000500F4
+00000D0D 00000000
+
+// Max Jump v2
+Author = libretro-database contributors / original PSP cheat authors
+20AE812F 00000063
+
+// Max Jump v3
+Author = libretro-database contributors / original PSP cheat authors
+20AE7F47 00000063
+
+// Max Jump v4
+Author = libretro-database contributors / original PSP cheat authors
+20AE7D5F 00000063
+
+// Max Jump v5
+Author = libretro-database contributors / original PSP cheat authors
+20AE7B77 00000063
+
+// Max Move
+Author = libretro-database contributors / original PSP cheat authors
+20AE8316 00000063
+
+// Max Move v2
+Author = libretro-database contributors / original PSP cheat authors
+20AE812E 00000063
+
+// Max Move v3
+Author = libretro-database contributors / original PSP cheat authors
+20AE7F46 00000063
+
+// Max Move v4
+Author = libretro-database contributors / original PSP cheat authors
+20AE7D5E 00000063
+
+// Max Move v5
+Author = libretro-database contributors / original PSP cheat authors
+20AE7B76 00000063
+
+// Max MP
+Author = libretro-database contributors / original PSP cheat authors
+20AE830A 000003E7
+
+// Max MP v2
+Author = libretro-database contributors / original PSP cheat authors
+20AE8122 000003E7
+
+// Max MP v3
+Author = libretro-database contributors / original PSP cheat authors
+20AE7F3A 000003E7
+
+// Max MP v4
+Author = libretro-database contributors / original PSP cheat authors
+20AE7D52 000003E7
+
+// Max MP v5
+Author = libretro-database contributors / original PSP cheat authors
+20AE7B6A 000003E7
+
+// Max Speed
+Author = libretro-database contributors / original PSP cheat authors
+80AE7B74 000501E8
+00000063 00000000
+
+// Max/Infinite Gil
+Author = libretro-database contributors / original PSP cheat authors
+20C4B404 005F5E0F
+
+// Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+80AE7B5C 000501E8
+00000063 00000000
+
+// Skill Sets
+Author = libretro-database contributors / original PSP cheat authors
+00279BF2 000000FF
+20279BF4 24150F0D
+20279BF8 3C302A26
+20279BFC 4E4D4C48
+20279C00 55535251
+
+// Slot 1-5: Master Teleportation
+Author = libretro-database contributors / original PSP cheat authors
+80C4F5DE 000500A0
+100001F3 00000000
+
+// Slot 1: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE7B5C 00000063
+
+// Slot 2: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE7D44 00000063
+
+// Slot 3: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE7F2C 00000063
+
+// Slot 4: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE8114 00000063
+
+// Slot 5: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE82FC 00000063
+
+// Slot 6: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE84E4 00000063
+
+// Slot 7: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE86CC 00000063
+
+// Slot 8: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE88B4 00000063
+
+// Slot 9: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE8A9C 00000063
+
+// Slot 10: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE8C84 00000063
+
+// Slot 11: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE8E6C 00000063
+
+// Slot 12: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE9054 00000063
+
+// Slot 13: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE923C 00000063
+
+// Slot 14: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE9424 00000063
+
+// Slot 15: Exp. 99
+Author = libretro-database contributors / original PSP cheat authors
+00AE960C 00000063
+
+// Super Status
+Author = libretro-database contributors / original PSP cheat authors
+80AE7B98 000500F4
+10007970 00000000
+
+// Sword Master 0D
+Author = libretro-database contributors / original PSP cheat authors
+10275796 000001DD
+20275798 01F301E3
+2027579C 007C01DB
+002757AD 000000FF
+002757AE 00000007
+
+// Char. 1: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C4F670 00150001
+1000270F 00000000
+
+// Char. 1: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4F5F3 00410001
+000000FF 00000000
+
+// Char. 1: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C4F642 00120001
+1000270F 00000000
+
+// Char. 1: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4F5F0 00030001
+000000FF 00000000
+
+// Char. 2: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C4F7B0 00150001
+1000270F 00000000
+
+// Char. 2: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4F733 00410001
+000000FF 00000000
+
+// Char. 2: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C4F782 00120001
+1000270F 00000000
+
+// Char. 2: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4F730 00030001
+000000FF 00000000
+
+// Char. 3: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C4F8F0 00150001
+1000270F 00000000
+
+// Char. 3: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4F873 00410001
+000000FF 00000000
+
+// Char. 3: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C4F8C2 00120001
+1000270F 00000000
+
+// Char. 3: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4F870 00030001
+000000FF 00000000
+
+// Char. 4: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C4FA30 00150001
+1000270F 00000000
+
+// Char. 4: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4F9B3 00410001
+000000FF 00000000
+
+// Char. 4: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C4FA02 00120001
+1000270F 00000000
+
+// Char. 4: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4F9B0 00030001
+000000FF 00000000
+
+// Char. 5: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C4FB70 00150001
+1000270F 00000000
+
+// Char. 5: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4FAF3 00410001
+000000FF 00000000
+
+// Char. 5: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C4FB42 00120001
+1000270F 00000000
+
+// Char. 5: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4FAF0 00030001
+000000FF 00000000
+
+// Char. 6: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C4FCB0 00150001
+1000270F 00000000
+
+// Char. 6: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4FC33 00410001
+000000FF 00000000
+
+// Char. 6: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C4FC82 00120001
+1000270F 00000000
+
+// Char. 6: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4FC30 00030001
+000000FF 00000000
+
+// Char. 7: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C4FDF0 00150001
+1000270F 00000000
+
+// Char. 7: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4FD73 00410001
+000000FF 00000000
+
+// Char. 7: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C4FDC2 00120001
+1000270F 00000000
+
+// Char. 7: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4FD70 00030001
+000000FF 00000000
+
+// Char. 8: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C4FF30 00150001
+1000270F 00000000
+
+// Char. 8: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4FEB3 00410001
+000000FF 00000000
+
+// Char. 8: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C4FF02 00120001
+1000270F 00000000
+
+// Char. 8: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4FEB0 00030001
+000000FF 00000000
+
+// Char. 9: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C50070 00150001
+1000270F 00000000
+
+// Char. 9: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4FFF3 00410001
+000000FF 00000000
+
+// Char. 9: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C50042 00120001
+1000270F 00000000
+
+// Char. 9: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C4FFF0 00030001
+000000FF 00000000
+
+// Char 10: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C501B0 00150001
+1000270F 00000000
+
+// Char 10: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50133 00410001
+000000FF 00000000
+
+// Char 10: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C50182 00120001
+1000270F 00000000
+
+// Char 10: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50130 00030001
+000000FF 00000000
+
+// Char 11: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C502F0 00150001
+1000270F 00000000
+
+// Char 11: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50273 00410001
+000000FF 00000000
+
+// Char 11: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C502C2 00120001
+1000270F 00000000
+
+// Char 11: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50270 00030001
+000000FF 00000000
+
+// Char 12: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C50430 00150001
+1000270F 00000000
+
+// Char 12: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C503B3 00410001
+000000FF 00000000
+
+// Char 12: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C50402 00120001
+1000270F 00000000
+
+// Char 12: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C503B0 00030001
+000000FF 00000000
+
+// Char 13: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C50570 00150001
+1000270F 00000000
+
+// Char 13: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C504F3 00410001
+000000FF 00000000
+
+// Char 13: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C50542 00120001
+1000270F 00000000
+
+// Char 13: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C504F0 00030001
+000000FF 00000000
+
+// Char 14: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C506B0 00150001
+1000270F 00000000
+
+// Char 14: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50633 00410001
+000000FF 00000000
+
+// Char 14: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C50682 00120001
+1000270F 00000000
+
+// Char 14: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50630 00030001
+000000FF 00000000
+
+// Char 15: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C507F0 00150001
+1000270F 00000000
+
+// Char 15: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50773 00410001
+000000FF 00000000
+
+// Char 15: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C507C2 00120001
+1000270F 00000000
+
+// Char 15: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50770 00030001
+000000FF 00000000
+
+// Char 16: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C50930 00150001
+1000270F 00000000
+
+// Char 16: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C508B3 00410001
+000000FF 00000000
+
+// Char 16: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C50902 00120001
+1000270F 00000000
+
+// Char 16: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C508B0 00030001
+000000FF 00000000
+
+// Char 17: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C50A70 00150001
+1000270F 00000000
+
+// Char 17: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C509F3 00410001
+000000FF 00000000
+
+// Char 17: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C50A42 00120001
+1000270F 00000000
+
+// Char 17: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C509F0 00030001
+000000FF 00000000
+
+// Char 18: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C50BB0 00150001
+1000270F 00000000
+
+// Char 18: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50B33 00410001
+000000FF 00000000
+
+// Char 18: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C50B82 00120001
+1000270F 00000000
+
+// Char 18: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50B30 00030001
+000000FF 00000000
+
+// Char 19: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C50CF0 00150001
+1000270F 00000000
+
+// Char 19: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50C73 00410001
+000000FF 00000000
+
+// Char 19: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C50CC2 00120001
+1000270F 00000000
+
+// Char 19: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50C70 00030001
+000000FF 00000000
+
+// Char 20: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C50E30 00150001
+1000270F 00000000
+
+// Char 20: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50DB3 00410001
+000000FF 00000000
+
+// Char 20: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C50E02 00120001
+1000270F 00000000
+
+// Char 20: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50DB0 00030001
+000000FF 00000000
+
+// Char 21: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C50F70 00150001
+1000270F 00000000
+
+// Char 21: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50EF3 00410001
+000000FF 00000000
+
+// Char 21: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C50F42 00120001
+1000270F 00000000
+
+// Char 21: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C50EF0 00030001
+000000FF 00000000
+
+// Char 22: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C510B0 00150001
+1000270F 00000000
+
+// Char 22: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C51033 00410001
+000000FF 00000000
+
+// Char 22: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C51082 00120001
+1000270F 00000000
+
+// Char 22: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C51030 00030001
+000000FF 00000000
+
+// Char 23: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C511F0 00150001
+1000270F 00000000
+
+// Char 23: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C51173 00410001
+000000FF 00000000
+
+// Char 23: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C511C2 00120001
+1000270F 00000000
+
+// Char 23: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C51170 00030001
+000000FF 00000000
+
+// Char 24: All Jobs Lvl. 8
+Author = libretro-database contributors / original PSP cheat authors
+80C51330 00150001
+1000270F 00000000
+
+// Char 24: Master All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C512B3 00410001
+000000FF 00000000
+
+// Char 24: Max Job Pts.
+Author = libretro-database contributors / original PSP cheat authors
+80C51302 00120001
+1000270F 00000000
+
+// Char 24: Unlock All Jobs
+Author = libretro-database contributors / original PSP cheat authors
+80C512B0 00030001
+000000FF 00000000
+
+// 001 Holy Stone
+Author = libretro-database contributors / original PSP cheat authors
+20221288 24030000
+
+// 002 Opening
+Author = libretro-database contributors / original PSP cheat authors
+20221288 24030004
+
+// 003 Abduction
+Author = libretro-database contributors / original PSP cheat authors
+20221288 24030008
+
+// 004 Kusuabe
+Author = libretro-database contributors / original PSP cheat authors
+20221288 2403000C
+
+// 005 Get Away
+Author = libretro-database contributors / original PSP cheat authors
+20221288 24030010
+
+// 006 Reassume Dilita
+Author = libretro-database contributors / original PSP cheat authors
+20221288 24030014
+
+// 007 Dilita Advice
+Author = libretro-database contributors / original PSP cheat authors
+20221288 24030018
+
+// 008 Ovelia
+Author = libretro-database contributors / original PSP cheat authors
+20221288 2403001C
+
+// 009 Dilita Musing
+Author = libretro-database contributors / original PSP cheat authors
+20221288 24030020
+
+// 010 Ending
+Author = libretro-database contributors / original PSP cheat authors
+20221288 24030024
+
+// 011 Russo
+Author = libretro-database contributors / original PSP cheat authors
+20221288 24030028
+
+// 012 Valuhurea
+Author = libretro-database contributors / original PSP cheat authors
+20221288 2403002C
+
+// 013 Staff Roll
+Author = libretro-database contributors / original PSP cheat authors
+20221288 2403003C

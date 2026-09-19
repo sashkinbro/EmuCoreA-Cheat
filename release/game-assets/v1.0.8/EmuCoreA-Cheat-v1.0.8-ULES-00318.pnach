@@ -1,0 +1,1675 @@
+# EmuCoreA PSP cheat pack
+# Serial: ULES-00318
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Input Drop Fix
+Author = libretro-database contributors / original PSP cheat authors
+D10DCFB6 00001460
+110DCFB6 00001060
+
+// Synchronize Save
+Author = libretro-database contributors / original PSP cheat authors
+E00308EC 0009F288
+2009F288 00C31821
+2009F28C 8C65FFF8
+2009F2A4 8C64FFFC
+
+// Synchronize Save [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0031821 0009F288
+2009F288 8C8508EC
+2009F28C 00C31821
+2009F2A4 8C8408F0
+
+// 10000 Guild Point
+Author = libretro-database contributors / original PSP cheat authors
+110548D8 00002710
+
+// Ancient Stone Type Blade
+Author = libretro-database contributors / original PSP cheat authors
+01055028 00630200
+
+// Ancient Stone Type Dual B
+Author = libretro-database contributors / original PSP cheat authors
+01055028 00630202
+
+// Ancient Stone Type Hammer
+Author = libretro-database contributors / original PSP cheat authors
+01055028 00630201
+
+// Ancient Stone Type Spear
+Author = libretro-database contributors / original PSP cheat authors
+01055028 00630203
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+00779ED2 00000064
+
+// Infinite Mission-Time
+Author = libretro-database contributors / original PSP cheat authors
+21059210 00015F8F
+210599E0 00015F8E
+
+// Infinite zenny
+Author = libretro-database contributors / original PSP cheat authors
+210548DC 05F5E0FF
+
+// Infinite zenny
+Author = libretro-database contributors / original PSP cheat authors
+210548DC 05F5E0FF
+
+// IRON Man!!!
+Author = libretro-database contributors / original PSP cheat authors
+00779E75 00000000
+
+// Item1 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A16C 00000063
+
+// Item10 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A190 00000063
+
+// Item11 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A194 00000063
+
+// Item12 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A198 00000063
+
+// Item13 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A19C 00000063
+
+// Item14 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A1A0 00000063
+
+// Item15 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A1A4 00000063
+
+// Item16 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A1A8 00000063
+
+// Item17 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A1AC 00000063
+
+// Item18 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A1B0 00000063
+
+// Item19 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A1B4 00000063
+
+// Item2 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A170 00000063
+
+// Item20 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A1B8 00000063
+
+// Item3 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A174 00000063
+
+// Item4 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A178 00000063
+
+// Item5 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A17C 00000063
+
+// Item6 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A180 00000063
+
+// Item7 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A184 00000063
+
+// Item8 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A188 00000063
+
+// Item9 99
+Author = libretro-database contributors / original PSP cheat authors
+0077A18C 00000063
+
+// No Bomb Limit *smp*
+Author = libretro-database contributors / original PSP cheat authors
+01054766 00000000
+
+// No Reloading For bowGuns
+Author = libretro-database contributors / original PSP cheat authors
+0077A1EA 00000006
+
+// Quick drunk
+Author = libretro-database contributors / original PSP cheat authors
+0077A0F3 0000000A
+
+// Quick Stamina fill
+Author = libretro-database contributors / original PSP cheat authors
+00779FFC 00000064
+
+// RustStone Type Lance
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301FE
+
+// Weapon Sharpness
+Author = libretro-database contributors / original PSP cheat authors
+1077ACB4 0000015E
+
+// --- Material & Item & Equipment ---
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300C5
+
+// [B] Bitterbug
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300C2
+
+// [B] Bughopper
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300C6
+
+// [B] Flashbug
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300C4
+
+// [B] Godbug
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300C0
+
+// [B] Insect Husk
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300C9
+
+// [B] Joiner Grasshopper
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300C8
+
+// [B] King Scarab
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300CA
+
+// [B] Rainbow Insect
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300C3
+
+// [B] Snakebee Larva
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300C7
+
+// [B] Thunderbug
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300C1
+
+// [B] Yambug
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301E2
+
+// [D] BBQ Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301F1
+
+// [D] BmboFlynMealPass
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301EF
+
+// [D] Chrome Voucher
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301DB
+
+// [D] CommendAtion
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301ED
+
+// [D] Dummy Item(No Use In Game)
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301D9
+
+// [D] Egg Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301E0
+
+// [D] Gold Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301E5
+
+// [D] Grt Sword Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301DE
+
+// [D] Guild Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301E9
+
+// [D] Gunner Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301E6
+
+// [D] Hammer Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301E4
+
+// [D] Heaven&EarthCrst
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301E3
+
+// [D] Hunter CitAtion
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301DA
+
+// [D] Jewel Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301E7
+
+// [D] Lance Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301E1
+
+// [D] lAtinum Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301EB
+
+// [D] Limited Paw Pass
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301EC
+
+// [D] Magazine Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301DD
+
+// [D] Old Ladys Note
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301EA
+
+// [D] Paw Pass Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301DC
+
+// [D] Pawprint Stamp
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301F0
+
+// [D] PineFlynMealPass
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301F2
+
+// [D] PlumFylnMealPass
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301E8
+
+// [D] Saber Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301DF
+
+// [D] Silver Ticket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301EE
+
+// [D] ThunderG Voucher
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301F5
+
+// [D] VegElderTcktBrz
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301F7
+
+// [D] VegElderTcktGl
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301F6
+
+// [D] VegElderTcktSlv
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301F3
+
+// [D] VEggieElderTcket
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301F4
+
+// [D] VEggieElderTckt+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630164
+
+// [E] Alluring Hide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630154
+
+// [E] Azr Rthls Webbng
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063014D
+
+// [E] Azre Rthlos Scl+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063014E
+
+// [E] Azre Rthls Plate
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630155
+
+// [E] Azur Rthlos Wing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301B0
+
+// [E] Azure LaoS Claw
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301B1
+
+// [E] Azure LaoS Horn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301B3
+
+// [E] Azure LaoS Plate
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301B2
+
+// [E] Azure LaoS Scale
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301B4
+
+// [E] Azure LaoS Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301B5
+
+// [E] Azure LaoS Spine
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063014B
+
+// [E] Azure Rthlos Clw.
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630151
+
+// [E] Azure Rthlos Cpc
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063014F
+
+// [E] Azure Rthlos Rby
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063014C
+
+// [E] Azure Rthlos Scl
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630150
+
+// [E] Azure Rthlos Shl.
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630153
+
+// [E] Azure Rthlos Tail
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630165
+
+// [E] Basarios Coin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630166
+
+// [E] Basarios Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630169
+
+// [E] Basarios Tears
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630168
+
+// [E] Basarios Wing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630167
+
+// [E] Basrios Carapace
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630182
+
+// [E] Black Blos Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630183
+
+// [E] Black Blos Spine
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630184
+
+// [E] Black Blos Tail
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630174
+
+// [E] Blk Gravios Cpc
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630172
+
+// [E] Blk Gravios Crst
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630175
+
+// [E] Blk Gravios Head
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630173
+
+// [E] Blk Gravios Shl.
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630176
+
+// [E] Blk Gravios Wing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630180
+
+// [E] Blos Fang
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063017F
+
+// [E] Blos Jaw
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063010E
+
+// [E] Blue Kut-Ku Ear
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063010A
+
+// [E] Blue Kut-Ku Scl
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063010B
+
+// [E] Blue Kut-Ku Shl.
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063010F
+
+// [E] Blue Kut-Ku Wing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063010C
+
+// [E] BlueKutKuCarapace
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300E6
+
+// [E] Bullfango Head
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300E5
+
+// [E] Bullfango Pelt
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630121
+
+// [E] Cephalos Coin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630124
+
+// [E] Cephalos Fin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630122
+
+// [E] Cephalos Scale
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630123
+
+// [E] Cephalos Scale+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630125
+
+// [E] Cephalos Fin+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630127
+
+// [E] Coral Cphlos Fin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630126
+
+// [E] Coral Cphlos Scl
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630195
+
+// [E] Crimson Horn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063017B
+
+// [E] Diablos Carapace
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063017A
+
+// [E] Diablos Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063017C
+
+// [E] Diablos Spine
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063017E
+
+// [E] Diablos Tail
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063017D
+
+// [E] Diablos Thoracic
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301BD
+
+// [E] FAtalis Carapace
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301BF
+
+// [E] FAtalis Crust
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301CC
+
+// [E] FAtalis Devl Eye
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301C4
+
+// [E] FAtalis Evil Eye
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301C4
+
+// [E] FAtalis Evil Eye
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301C2
+
+// [E] FAtalis Eye
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301B8
+
+// [E] FAtalis Gore
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301B6
+
+// [E] FAtalis Horn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301BE
+
+// [E] FAtalis Hvy Shl.
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301B9
+
+// [E] FAtalis Scale
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301BA
+
+// [E] FAtalis Scale+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301BC
+
+// [E] FAtalis Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301C3
+
+// [E] FAtalis Shrp Eye
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301B7
+
+// [E] FAtalis Spike
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301C7
+
+// [E] FAtalis Strg Wng
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301C5
+
+// [E] FAtalis Webbing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301C6
+
+// [E] FAtalis Wing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301C8
+
+// [E] FAtlis Crmsn Hrn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301C9
+
+// [E] FAtlis Crmsn Scl
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301CA
+
+// [E] FAtlis Crmsn Shl.
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301CD
+
+// [E] FAtlis Crmsn Wng
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063015F
+
+// [E] Flabby Hide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301CB
+
+// [E] Ft Crmsn B-Plate
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301D5
+
+// [E] Garuga Carapace
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301D0
+
+// [E] Garuga Ear
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301D4
+
+// [E] Garuga Mane
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301D3
+
+// [E] Garuga Plate
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301CE
+
+// [E] Garuga Scale
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301CF
+
+// [E] Garuga Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301D2
+
+// [E] Garuga Wing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300F8
+
+// [E] Gendrome Hide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300F3
+
+// [E] Genprey Fang
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300F6
+
+// [E] Genprey Hide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300F7
+
+// [E] Genprey Hide+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300F4
+
+// [E] Genprey Scale
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300F5
+
+// [E] Genprey Scale+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630106
+
+// [E] Giant Beak
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630139
+
+// [E] Gld RAtHian Clw.
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063013C
+
+// [E] Gld RAtHian Ruby
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063013A
+
+// [E] Gld RAtHian Scl
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063013D
+
+// [E] Gld RAtHian Shl.
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063013B
+
+// [E] Gld RtHian Plate
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063013E
+
+// [E] Gld RtHian Thorn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063016C
+
+// [E] Gravios Carapace
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063016A
+
+// [E] Gravios Coin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630170
+
+// [E] Gravios Head
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630171
+
+// [E] Gravios Jaw
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063016B
+
+// [E] Gravios Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063016E
+
+// [E] Gravios Wing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063016D
+
+// [E] GraviosHeavyShl
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630120
+
+// [E] Grn Plesioth Fin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063011E
+
+// [E] Grn Plesioth Scl
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063011F
+
+// [E] GrnPlesiothFinPc
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063011D
+
+// [E] GrnPlesiothSclPc
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630193
+
+// [E] Gt LobsterShell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630110
+
+// [E] Gypceros Coin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630113
+
+// [E] Gypceros Head
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063018D
+
+// [E] HornAtaur Head
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063018E
+
+// [E] HornAtaur Wing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063018F
+
+// [E] Hornet Bladefin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063018C
+
+// [E] Hornet Carapace
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630190
+
+// [E] Hornet Razorwing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063018B
+
+// [E] Hornetaur Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301C0
+
+// [E] Hrd FAtalis Crst
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301C1
+
+// [E] Hvy FAtalis Crst
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300FE
+
+// [E] Iodrome Hide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300F9
+
+// [E] Ioprey Fang
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300FC
+
+// [E] Ioprey Hide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300FD
+
+// [E] Ioprey Hide+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300FA
+
+// [E] Ioprey Scale
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300FB
+
+// [E] Ioprey Scale+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300E8
+
+// [E] Kelbi Hide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300E7
+
+// [E] Kelbi Horn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063015E
+
+// [E] Khezu Coin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630160
+
+// [E] Khezu Hide - Tan
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301A3
+
+// [E] Kirin Azr T-Tail
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301A2
+
+// [E] Kirin Azure Horn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063019D
+
+// [E] Kirin Hide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063019E
+
+// [E] Kirin Hide+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063019C
+
+// [E] Kirin Horn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301A0
+
+// [E] Kirin Mane
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301A1
+
+// [E] Kirin Thndr Tail
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630102
+
+// [E] Kut-ku Carapace
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300FF
+
+// [E] Kut-ku Coin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630103
+
+// [E] Kut-ku Ear
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630100
+
+// [E] Kut-ku Scale
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630101
+
+// [E] Kut-ku Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630108
+
+// [E] Kut-Ku Webbing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630109
+
+// [E] Kut-Ku Wing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301AF
+
+// [E] LaoS Heavy Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301A8
+
+// [E] Lao-Shan Scale+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301AE
+
+// [E] LaoShan Thoracic
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301AC
+
+// [E] Lao-ShanCarapace
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301A6
+
+// [E] Lao-Shans Horn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301A9
+
+// [E] Lao-Shans Plate
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301AA
+
+// [E] Lao-Shans Ruby
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301A7
+
+// [E] Lao-Shans Scale
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301AB
+
+// [E] Lao-Shans Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301AD
+
+// [E] Lao-Shans Spine
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630192
+
+// [E] Lg Lobstershell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301A5
+
+// [E] Loa-Shans Claw
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301D6
+
+// [E] Long Garuga Ear
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630104
+
+// [E] Long Kut-ku Ear
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630178
+
+// [E] Majestic Horn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630194
+
+// [E] Monoblos Coin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630198
+
+// [E] Monoblos Heart
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630196
+
+// [E] Monoblos Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630197
+
+// [E] Monoblos Spine
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300E4
+
+// [E] Mosswine Head
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300E3
+
+// [E] Mosswine Hide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630161
+
+// [E] Pale Bone
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630162
+
+// [E] Pale Khezu Steak
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630163
+
+// [E] Pale Lips
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630115
+
+// [E] Piscine Fang
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630117
+
+// [E] Piscine Jaw
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630116
+
+// [E] Piscine Liver
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630118
+
+// [E] Plesioth Coin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063011B
+
+// [E] Plesioth Fin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630119
+
+// [E] Plesioth Scale
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063011A
+
+// [E] Plesioth Scale+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063011C
+
+// [E] Plesioth Top Fin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630131
+
+// [E] Pnk RAtHian Claw
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630137
+
+// [E] Pnk RAtHian Cpc
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630135
+
+// [E] Pnk RAtHian Rby
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630132
+
+// [E] Pnk RAtHian Scl
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630133
+
+// [E] Pnk RAtHian Scl+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630136
+
+// [E] Pnk RAtHian Shl.
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630134
+
+// [E] Pnk RtHian Plate
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630138
+
+// [E] Pnk RtHian Thorn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630114
+
+// [E] Pur Rubbery Hide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630146
+
+// [E] RAthalos Carapace
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630140
+
+// [E] RAthalos Claw
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063013F
+
+// [E] RAthalos Coin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630143
+
+// [E] RAthalos Plate
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630144
+
+// [E] RAthalos Ruby
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630141
+
+// [E] RAthalos Scale
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630142
+
+// [E] RAthalos Scale+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630145
+
+// [E] RAthalos Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630148
+
+// [E] RAthalos Tail
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630149
+
+// [E] RAthalos Webbing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063014A
+
+// [E] RAthalos Wing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063012F
+
+// [E] RAtHian Carapace
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630129
+
+// [E] RAtHian Claw
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630128
+
+// [E] RAtHian Coin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063012C
+
+// [E] RAtHian Plate
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063012D
+
+// [E] RAtHian Ruby
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063012A
+
+// [E] RAtHian Scale
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063012B
+
+// [E] RAtHian Scale+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063012E
+
+// [E] RAtHian Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630130
+
+// [E] RAtHian Spike
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630152
+
+// [E] Rthlos BrainStem
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630111
+
+// [E] Rubbery Hide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630112
+
+// [E] Rubbery Hide+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301D1
+
+// [E] Sharpened Beak
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063015C
+
+// [E] Slv Rthls Webbng
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630156
+
+// [E] Slvr Rthalos Clw.
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630159
+
+// [E] Slvr Rthalos Rby
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630157
+
+// [E] Slvr Rthalos Scl
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063015A
+
+// [E] Slvr Rthalos Shl.
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063015B
+
+// [E] Slvr Rthals Tail
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063015D
+
+// [E] Slvr Rthlos Wing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630158
+
+// [E] Slvr Rthls Plate
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301A4
+
+// [E] Sm Lao-shan Claw
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630191
+
+// [E] Sm Lobstershell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063010D
+
+// [E] SmlBlueKut-KuEar
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630179
+
+// [E] Solid Blos Horn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063019F
+
+// [E] SpecialKirinHide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630107
+
+// [E] Splendid Beak
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063016F
+
+// [E] StrngGraviosWing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301D8
+
+// [E] StrongGarugaWing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301D7
+
+// [E] Stylish Beak
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301BB
+
+// [E] Thck FAtalis Scl
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630105
+
+// [E] Tiny Beak
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630177
+
+// [E] Twisted Horn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630181
+
+// [E] TwstBlkBlosHrn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300EE
+
+// [E] Velocidrome Claw
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300EF
+
+// [E] Velocidrome Head
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300E9
+
+// [E] Velociprey Fang
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300EC
+
+// [E] Velociprey Hide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300ED
+
+// [E] Velociprey Hide+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300EA
+
+// [E] Velociprey Scale
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300EB
+
+// [E] Velociprey Scle+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630185
+
+// [E] Vespoid Abdomen
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630189
+
+// [E] Vespoid Bladefin
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630187
+
+// [E] Vespoid Carapace
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063018A
+
+// [E] Vespoid Razorwing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630186
+
+// [E] Vespoid Shell
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630188
+
+// [E] Vespoid Wing
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630199
+
+// [E] Wht Monoblos Hrn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063019A
+
+// [E] Wht Monoblos Shl.
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063019B
+
+// [E] Wht Monoblos Spn
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300F2
+
+// [E] Wht Velopry Hide
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300F1
+
+// [E] WhtVelopry Scale
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300F0
+
+// [E] WhtVeloprySclPc
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300E2
+
+// [E] Wyvern Claw
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300E1
+
+// [E] Wyvern Fang
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630147
+
+// [E] Wyvern Marrow
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300B8
+
+// [F] Bomb Arrowana
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300BE
+
+// [F] Bugnet Fish
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300B7
+
+// [F] Burst Arrowana
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300BF
+
+// [F] Cooler Fish
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300B9
+
+// [F] GoldenFish
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300B1
+
+// [F] Knife Mackerel
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300BD
+
+// [F] Pickaxe Fish
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300B4
+
+// [F] Pin Tuna
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300B5
+
+// [F] RumbleFish
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300B6
+
+// [F] ScAtterFish
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300B3
+
+// [F] SleepyFish
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300BB
+
+// [F] Small GoldenFish
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300BA
+
+// [F] Speartuna
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300BC
+
+// [F] Springnight Carp
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300B2
+
+// [F] SusHiFish
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300D1
+
+// [I] Coma Sac
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300D4
+
+// [I] Electro Sac
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300D2
+
+// [I] Flame Sac
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300D3
+
+// [I] Inferno Sac
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300CF
+
+// [I] Paralysis Sac
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300CC
+
+// [I] Poison Sac
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300CB
+
+// [I] Screamer
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300D0
+
+// [I] Sleep Sac
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300CE
+
+// [I] Stun Sac
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300D5
+
+// [I] Thunder Sac
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300CD
+
+// [I] Toxin Sac
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300E0
+
+// [MB] Bone
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300DC
+
+// [MB] Hrd Monster Bone
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300DA
+
+// [MB] Lg Monster Bone
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300DF
+
+// [MB] Masters Skull
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300D9
+
+// [MB] Med Monster Bone
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300DB
+
+// [MB] Monster Bone+
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300DD
+
+// [MB] Mystery Bone
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300D8
+
+// [MB] Sm Monster Bone
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300DE
+
+// [MB] Unknown Skull
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300AE
+
+// [O] Antiseptic Stone
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300A5
+
+// [O] Carbalite Ore
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300AA
+
+// [O] Coal
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300A0
+
+// [O] Disk Stone
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300A4
+
+// [O] Dragonite Ore
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300A2
+
+// [O] Earth Crystal
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300A9
+
+// [O] Firecell Stone
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300A8
+
+// [O] FirestOne
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300A6
+
+// [O] Great Stone
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300AF
+
+// [O] Ice Crystal
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300A1
+
+// [O] Iron Ore
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300AB
+
+// [O] LightCrystal
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300A3
+
+// [O] Machalite Ore
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300AC
+
+// [O] NovaCrystal
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300AD
+
+// [O] Pure Crystal
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300B0
+
+// [O] Rainbow Ore
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063009F
+
+// [O] Stone
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300A7
+
+// [O] Union Ore
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630084
+
+// [P] Antidote Herb
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630098
+
+// [P] Armor Seed
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063008F
+
+// [P] Blue Mushroom
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063009C
+
+// [P] Bomberry
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063008A
+
+// [P] Cactus Flower
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630095
+
+// [P] Chaos Mushroom
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063008D
+
+// [P] Dobiscus
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630099
+
+// [P] Dragon Seed
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630093
+
+// [P] Dragon ToadsTool
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630089
+
+// [P] Felvine
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630085
+
+// [P] Fire Herb
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063009E
+
+// [P] Green Seed
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630083
+
+// [P] Herb
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063008C
+
+// [P] Hot Pepper
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630086
+
+// [P] Ivy
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063008B
+
+// [P] King Cactus
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063009B
+
+// [P] Needleberry
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063009A
+
+// [P] Needleberry
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630090
+
+// [P] Nitroshroom
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630096
+
+// [P] Paintberry
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630097
+
+// [P] Power Seed
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063009D
+
+// [P] Red Seed
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630088
+
+// [P] Sap plant
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630087
+
+// [P] Sleep Herb
+Author = libretro-database contributors / original PSP cheat authors
+21055028 0063008E
+
+// [P] Special Mushroom
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630094
+
+// [P] Spicy Mushroom
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630091
+
+// [P] Stunshroom
+Author = libretro-database contributors / original PSP cheat authors
+21055028 00630092
+
+// [P] ToadsTool
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301FF
+
+// [S] Ancient Stone
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301F9
+
+// [S] CHiefs Old Swrd
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006301F8
+
+// [S] Lost Umbrella
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300D7
+
+// [X] Pale Extract
+Author = libretro-database contributors / original PSP cheat authors
+21055028 006300D6
