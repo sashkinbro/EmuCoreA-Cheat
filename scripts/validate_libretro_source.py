@@ -82,10 +82,16 @@ def main() -> int:
             "NPEG-00023", "NPEG-00025", "NPEG-00028", "NPEG-00037", "NPEG-00044",
             "NPEG-00046", "NPEG-00047", "NPEG-00048", "NPEG-00049", "NPEG-20029",
             "NPEG-90003", "NPEG-90008", "NPEG-90009", "NPEG-90012", "NPEG-90014",
+            # Batch 014: additional PSP serials from the same pinned libretro snapshot.
+            "NPEG-90015",            "NPEG-90018",            "NPEG-90019",            "NPEG-90020",            "NPEG-90025",
+            "NPEG-90026",            "NPEG-90030",            "NPEG-90035",            "NPEH-00002",            "NPEH-00003",
+            "NPEH-00007",            "NPEH-00017",            "NPEH-00020",            "NPEH-00021",            "NPEH-00027",
+            "NPEH-00029",            "NPEH-00031",            "NPEH-00033",            "NPEH-00064",            "NPEH-00065",
+            "NPEH-00073",            "NPEH-00076",            "NPEH-00077",            "NPEH-00100",            "NPEH-00124",
         }
     ]
-    if len(selected) != 275:
-        raise SystemExit(f"validation failed: found {len(selected)} selected source files, expected 275")
+    if len(selected) != 300:
+        raise SystemExit(f"validation failed: found {len(selected)} selected source files, expected 300")
     for path in selected:
         text = path.read_text(encoding="utf-8")
         if not CODE_RE.search(text):

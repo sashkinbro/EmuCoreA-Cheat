@@ -1,5 +1,5 @@
 {
-  "batch": "batch-013",
+  "batch": "batch-014",
   "release": "cheat-catalog",
   "libretroSource": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
   "libretroCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
@@ -203,6 +203,206 @@
       "excluded": 0,
       "malformed": 0,
       "sha256": "E5FFFCAFCC66AF288E18BDB689965C6127B40839AB2B67A84EB2E3CB9CA57A21"
+    },
+    {
+      "serial": "NPEG-90015",
+      "sourceFile": "PixelJunk Monsters Deluxe (Demo) [EU] [NPEG-90015].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "853F5AD8D7AD586511136416E4CA84BC1DEB1B28716D99BBC1761F6ECF41C895"
+    },
+    {
+      "serial": "NPEG-90018",
+      "sourceFile": "MotorStorm - Arctic Edge (Demo) [EU] [NPEG-90018].cht",
+      "blocks": 25,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "75D3DB0C8611C9BB8C51A555D4F303E18E5925F599360BEC5A58C0483F8E6BD3"
+    },
+    {
+      "serial": "NPEG-90019",
+      "sourceFile": "LittleBigPlanet (Demo) [EU] [NPEG-90019].cht",
+      "blocks": 19,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "25BC0CA0D272DD0CF5012DFD13D58487D5D329AB94D1D968B133F01E6CB67FC2"
+    },
+    {
+      "serial": "NPEG-90020",
+      "sourceFile": "The Eye Of Judgment - Legends (PlayStation Store) (Demo) [EU] [NPEG-90020].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "A51689B35DE9432075435662FED1785F9A758FA46519B25B7F4E760C873243BF"
+    },
+    {
+      "serial": "NPEG-90025",
+      "sourceFile": "Patchwork Heroes (Demo) [EU] [NPEG-90025].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "33C726187A5AFB0CFB512E3F3250D1A48242FCE81715A929D6D9D911017F8F84"
+    },
+    {
+      "serial": "NPEG-90026",
+      "sourceFile": "ModNation Racers (Demo) [EU] [NPEG-90026].cht",
+      "blocks": 9,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "2194A20FBE3ECB7622C2BFDF1A6432710BF759DF5F5EF6BBFF4445DFCD9E5358"
+    },
+    {
+      "serial": "NPEG-90030",
+      "sourceFile": "Patapon 3 (Demo) [EU] [NPEG-90030].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "7505CD3243B686374FB35F3896544C40766A82D6497553556BCC9C9EBF3844ED"
+    },
+    {
+      "serial": "NPEG-90035",
+      "sourceFile": "God Of War - Ghost Of Sparta (Demo) [EU] [NPEG-90035].cht",
+      "blocks": 23,
+      "excluded": 7,
+      "malformed": 0,
+      "sha256": "6558E4D05E16FA92EDD648AE596DE0DFBE879090CDE7DA15BBAC056EA63CC56B"
+    },
+    {
+      "serial": "NPEH-00002",
+      "sourceFile": "No Gravity - The Plague Of Mind [EU] [NPEH-00002].cht",
+      "blocks": 6,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "1A191F0BBC64C69C614A351E0DA741DDE2D88126F9E7560B1943A19310FEAC77"
+    },
+    {
+      "serial": "NPEH-00003",
+      "sourceFile": "Brain Challenge [EU] [NPEH-00003].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "DC015AEACA74DA73B34D1B9AE52438B8E5389CB550D3C9157AFD5C8628AE7955"
+    },
+    {
+      "serial": "NPEH-00007",
+      "sourceFile": "Fate-Unlimited Codes [EU] [NPEH-00007].cht",
+      "blocks": 2,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "F9DB146E9F041DEB3D44A3DB666BD119962991576DC2CAF5C5CDBB0D91373BDB"
+    },
+    {
+      "serial": "NPEH-00017",
+      "sourceFile": "Crystal Defenders (PlayStation Store) [EU] [NPEH-00017].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "EEF7F8226441F3347F5C4797C4D145B158260CA590587AFF12E60E7D1CC83949"
+    },
+    {
+      "serial": "NPEH-00020",
+      "sourceFile": "Uno [EU] [NPEH-00020].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "35AC74BD42A199E048207004F0490992D2BE1B89DA895C20F94333840D99ACEF"
+    },
+    {
+      "serial": "NPEH-00021",
+      "sourceFile": "Thexder Neo (PlayStation Store) [EU] [NPEH-00021].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "B807644AC905491E235A66856C908CB3DE5798ABDCF7C76ACA48E627F9FC4AA0"
+    },
+    {
+      "serial": "NPEH-00027",
+      "sourceFile": "Elemental Monster TD Portable (PlayStation Store) [EU] [NPEH-00027].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "82C61235B8BDCF497321477F29E6BD11CF3808A39EC88C2962BF9832FEB8D897"
+    },
+    {
+      "serial": "NPEH-00029",
+      "sourceFile": "Assassin's Creed - Bloodlines (PlayStation Store) [EU] [NPEH-00029].cht",
+      "blocks": 20,
+      "excluded": 3,
+      "malformed": 0,
+      "sha256": "FD424DD3C5E60CFB94A169991686228B4151F10E87334D03152C1694C577BB5C"
+    },
+    {
+      "serial": "NPEH-00031",
+      "sourceFile": "James Cameron's Avatar The Game [EU] [NPEH-00031].cht",
+      "blocks": 9,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "92F83A608271A12020F3A9F3E59DE0DB9FC98398DD28F31FC33DB2F5ADB61E7E"
+    },
+    {
+      "serial": "NPEH-00033",
+      "sourceFile": "Kurulin Fusion [EU] [NPEH-00033].cht",
+      "blocks": 33,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "19BA556A754521EC20E98192B85E6E3D9DC019F6099920065242617D53FEC6A3"
+    },
+    {
+      "serial": "NPEH-00064",
+      "sourceFile": "Ys - I & II Chronicles (PSN) [EU] [NPEH-00064].cht",
+      "blocks": 7,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "3B7CB4BDD47D0EA3410D3E2E329B5A18AC6570AB8E9DD06F454D3C848A43E93F"
+    },
+    {
+      "serial": "NPEH-00065",
+      "sourceFile": "Ys - Seven (PSN) [EU] [NPEH-00065].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "DE84BCF0F0DCE7F25899254875BCBCC69EC4347BDB4A55AE3587B3266A79DB9E"
+    },
+    {
+      "serial": "NPEH-00073",
+      "sourceFile": "GTI Club SuperMini Festa! (PlayStation Store) [EU] [NPEH-00073].cht",
+      "blocks": 3,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "95A881DA7B0F1FEC98CDD5359CEA1CDB55446134AFE7C0D85DF5B8B854AA6660"
+    },
+    {
+      "serial": "NPEH-00076",
+      "sourceFile": "Lunar - Silver Star Harmony (PSN) [EU] [NPEH-00076].cht",
+      "blocks": 4,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "C1A6B3C9C0FCF8DA271C62BF6AC8B0133C540BC8442EC5AD1A9F9AEA629A13A6"
+    },
+    {
+      "serial": "NPEH-00077",
+      "sourceFile": "Ys - The Oath In Felghana (PSN) [EU] [NPEH-00077].cht",
+      "blocks": 5,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "781AF0AF90DDF02149529F6D9801A5EC0BEDF769707336EC59AB4A4C8BAEAB50"
+    },
+    {
+      "serial": "NPEH-00100",
+      "sourceFile": "Crystal Mines[EU] [NPEH-00100].cht",
+      "blocks": 6,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "FC3F7721D8D8A50D528B806BD5A2F9C3FAEA1734ECAC8042B2A44B17CCD10D35"
+    },
+    {
+      "serial": "NPEH-00124",
+      "sourceFile": "Metal Slug 2 [EU] [NPEH-00124].cht",
+      "blocks": 1,
+      "excluded": 0,
+      "malformed": 0,
+      "sha256": "41CD1CD297FCA964B2F304BD2ADCB51A20C110ACA69738700D4FDC858CE33541"
     },
     {
       "serial": "NPEH-00134",

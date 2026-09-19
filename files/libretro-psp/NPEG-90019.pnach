@@ -1,0 +1,83 @@
+# PSP cheat pack
+# Serial: NPEG-90019
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Camera Codes: Normal Camera
+Author = libretro-database contributors / original PSP cheat authors
+203651B8 42340000
+
+// Camera Codes: Closer Camera
+Author = libretro-database contributors / original PSP cheat authors
+203651B8 42140000
+
+// Camera Codes: Further Away Camera
+Author = libretro-database contributors / original PSP cheat authors
+203651B8 42540000
+
+// Camera Codes: Much Closer Camera
+Author = libretro-database contributors / original PSP cheat authors
+203651B8 41F40000
+
+// Camera Codes: Much Further Away Camera
+Author = libretro-database contributors / original PSP cheat authors
+203651B8 42840000
+
+// Camera Codes: Where Am I Going?
+Author = libretro-database contributors / original PSP cheat authors
+203651B8 41A40000
+
+// Jump Mod: Bigger Jumps
+Author = libretro-database contributors / original PSP cheat authors
+201F0BD8 3C013FA0
+201F0BFC 4481B800
+
+// Jump Mod: Even Bigger Jumps
+Author = libretro-database contributors / original PSP cheat authors
+201F0BD8 3C013FC0
+201F0BFC 4481B800
+
+// Jump Mod: Massive Jumps
+Author = libretro-database contributors / original PSP cheat authors
+201F0BD8 3C014000
+201F0BFC 4481B800
+
+// Jump Mod: Normal Jumps
+Author = libretro-database contributors / original PSP cheat authors
+201F0BD8 3C013FA0
+201F0BFC C4577B9C
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+2039F734 3B9AC9FF
+
+// Quick Score Gain
+Author = libretro-database contributors / original PSP cheat authors
+2039F734 000000FF
+
+// Speed Mod: A Bit Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20364000 3D288889
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20364000 3D888889
+
+// Speed Mod: Much Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20364000 3D688889
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20364000 3D088889
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20364000 3D488889
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20364000 3C888889
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20364000 3C088889

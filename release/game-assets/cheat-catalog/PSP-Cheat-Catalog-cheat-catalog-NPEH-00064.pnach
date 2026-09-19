@@ -1,0 +1,38 @@
+# PSP cheat pack
+# Serial: NPEH-00064
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Hit Kill (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+D0051BB6 00001840
+20051BB4 10000009
+
+// Invulnerable (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+D0027FD6 00005440
+20027FD4 0A20A019
+D0098C52 00001040
+20098C50 00000000
+
+// Invulnerable (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+D0016F2E 00001040
+20016F2C 00000000
+
+// Kill Enemy To Maximum Level (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+D009D00E 00001440
+2009D00C 1000000C
+
+// Max Exp. (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+202780B8 00FFFFFF
+
+// Max gold (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+202780B4 7FFFFFFF
+
+// Take Money To Get Maximum Amount (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+D0098C06 00001460
+20098C04 10000005

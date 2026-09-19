@@ -1,0 +1,14 @@
+# PSP cheat pack
+# Serial: NPEH-00020
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Instant Win (Press L+R)
+Author = libretro-database contributors / original PSP cheat authors
+20047598 0E22227E
+2004759C 8C640050
+200475A0 10400070
+90119AA8 FCFF0300
+20047598 8C640050
+2004759C AC800008
+200475A0 10000070
+D2000000 00000000

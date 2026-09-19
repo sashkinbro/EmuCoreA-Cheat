@@ -1,0 +1,143 @@
+# PSP cheat pack
+# Serial: NPEH-00029
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// PS3 Connectivity
+Author = libretro-database contributors / original PSP cheat authors
+E00D0005 000F6C7C
+200F6C7C 00000000
+2001A938 00000000
+2001A7B4 00000000
+2001A890 00000000
+2001A7C8 0A200803
+2000200C 80850002
+20002010 341B0002
+20002014 0365D82A
+20002018 53600001
+2000201C 24A5003E
+20002020 A0850002
+20002024 0A2069F4
+20002028 80850000
+
+// PS3 Connectivity [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0050000 000F6C7C
+200F6C7C 04810005
+2001A938 14C4000F
+2001A7B4 14850030
+2001A890 10400003
+2001A7C8 80850000
+
+// Synchronize Save
+Author = libretro-database contributors / original PSP cheat authors
+E0020006 000A81C4
+200A81C4 00000000
+200A81D8 10000003
+
+// Synchronize Save [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 000A81C4
+200A81C4 14850006
+200A81D8 10850003
+
+// Improve Level Of Detail
+Author = libretro-database contributors / original PSP cheat authors
+E0064501 0025F2F6
+20263164 3C0442BE
+20262760 3C0542BE
+202626D4 3C044248
+20259594 00000000
+2025F2F4 10000005
+20122514 00000000
+
+// Improve Level Of Detail [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0061000 0025F2F6
+20263164 3C044248
+20262760 3C054248
+202626D4 3C044188
+20259594 45000003
+2025F2F4 45010005
+20122514 45030001
+
+// AI Disable
+Author = libretro-database contributors / original PSP cheat authors
+602AAEF8 00000001
+00020001 0000000C
+602AAEF8 00000000
+00020001 00000000
+
+// AI Enable
+Author = libretro-database contributors / original PSP cheat authors
+602AAEF8 00000000
+00020001 0000000C
+00020001 00000000
+
+// All Memory Blocks
+Author = libretro-database contributors / original PSP cheat authors
+012DDC40 000000FF
+
+// All Upgrades Purchased
+Author = libretro-database contributors / original PSP cheat authors
+212DDC44 FFFFFFFF
+
+// Disable
+Author = libretro-database contributors / original PSP cheat authors
+602AAEFC 00000001
+00020001 0000000C
+602AAEFC 00000000
+00020001 00000000
+
+// Enable
+Author = libretro-database contributors / original PSP cheat authors
+602AAEFC 00000000
+00020001 0000000C
+00020001 00000000
+
+// Infinite Knives
+Author = libretro-database contributors / original PSP cheat authors
+602AAF18 00000001
+00020001 0000000C
+602AAF18 00000000
+00020001 00000000
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+602AAF14 00000001
+00020001 0000000C
+602AAF14 00000000
+00020001 00000000
+
+// Max Bronze Coins
+Author = libretro-database contributors / original PSP cheat authors
+112DDC28 0000270F
+
+// Speed Mod: Hyper Mode
+Author = libretro-database contributors / original PSP cheat authors
+602A9F74 40800000
+00020001 00000000
+602A9F74 00000000
+
+// Speed Mod: Much Quicker
+Author = libretro-database contributors / original PSP cheat authors
+602A9F74 40000000
+00020001 00000000
+602A9F74 00000000
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+602A9F74 3F800000
+00020001 00000000
+602A9F74 00000000
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+602A9F74 3FC00000
+00020001 00000000
+602A9F74 00000000
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+602A9F74 3F000000
+00020001 00000000
+602A9F74 00000000

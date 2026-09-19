@@ -1,0 +1,27 @@
+# PSP cheat pack
+# Serial: NPEH-00077
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+2006FF3C 00000000
+
+// Buy Even Without Money Or Raval
+Author = libretro-database contributors / original PSP cheat authors
+20056588 10000089
+2005716C 00000000
+2005718C 10000015
+
+// Invulnerable
+Author = libretro-database contributors / original PSP cheat authors
+20070DA8 10000048
+
+// Take Coins & Items Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+20114764 100000E6
+20114B18 00000000
+20114B38 00000000
+
+// Take Money To Get Maximum Amount
+Author = libretro-database contributors / original PSP cheat authors
+200653BC 00000000
