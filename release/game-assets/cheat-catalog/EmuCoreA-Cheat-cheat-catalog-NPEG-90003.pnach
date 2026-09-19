@@ -1,0 +1,97 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPEG-90003
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Freeze Lap Timer
+Author = libretro-database contributors / original PSP cheat authors
+2003D728 00000000
+2003D73C 00000000
+
+// Idiot AI
+Author = libretro-database contributors / original PSP cheat authors
+200314BC 4480A000
+
+// Infinite Auto Pilot
+Author = libretro-database contributors / original PSP cheat authors
+2003F634 24050006
+2003F638 ACC501BC
+
+// Infinite Bomb
+Author = libretro-database contributors / original PSP cheat authors
+2003F634 24050009
+2003F638 ACC501BC
+
+// Infinite Cannon
+Author = libretro-database contributors / original PSP cheat authors
+2003F634 24050003
+2003F638 ACC501BC
+
+// Infinite Plasma
+Author = libretro-database contributors / original PSP cheat authors
+2003F634 24050007
+2003F638 ACC501BC
+
+// Infinite Repulsor
+Author = libretro-database contributors / original PSP cheat authors
+2003F634 2405000B
+2003F638 ACC501BC
+
+// Infinite Rockets
+Author = libretro-database contributors / original PSP cheat authors
+2003F634 24050001
+2003F638 ACC501BC
+
+// Infinite Shield
+Author = libretro-database contributors / original PSP cheat authors
+2003F634 24050005
+2003F638 ACC501BC
+
+// Infinite Shields v2
+Author = libretro-database contributors / original PSP cheat authors
+20036E58 3C014308
+20036E60 AE010084
+
+// Infinite Shuriken
+Author = libretro-database contributors / original PSP cheat authors
+2003F634 2405000C
+2003F638 ACC501BC
+
+// Infinite Turbo
+Author = libretro-database contributors / original PSP cheat authors
+2003F634 24050004
+2003F638 ACC501BC
+
+// Speed Modifier: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20004A80 00000000
+20004A88 3C043D28
+
+// Speed Modifier: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20004A80 00000000
+20004A88 3C043D48
+
+// Speed Modifier: Insane
+Author = libretro-database contributors / original PSP cheat authors
+20004A80 00000000
+20004A88 3C043D68
+
+// Speed Modifier: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20004A80 10800004
+20004A88 3C043D08
+
+// Speed Modifier: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20004A80 00000000
+20004A88 3C043D18
+
+// Speed Modifier: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20004A80 00000000
+20004A88 3C043CC8
+
+// Speed Modifier: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20004A80 00000000
+20004A88 3C043C88

@@ -1,0 +1,65 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPEG-00049
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20182A40 0000D118
+20002010 AC410064
+20002014 0A260A92
+20002018 0281082A
+20182A44 0A200804
+20182A48 24010003
+D2000000 00000000
+
+// Infinite Power Swings
+Author = libretro-database contributors / original PSP cheat authors
+20170914 00000250
+20002000 2402000A
+20002004 0A25C248
+20002008 AE0204D8
+20170918 0A200800
+D2000000 00000000
+
+// Infinite Powerup Usage
+Author = libretro-database contributors / original PSP cheat authors
+2018174C 0000089B
+20181750 24120003
+2018175C AC520068
+D2000000 00000000
+
+// Score Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+201A26FC 000037C2
+201A2700 00129040
+201A2704 00B22821
+201A2708 AE65011C
+201A2710 8C836780
+D2000000 00000000
+
+// Score Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+201A26FC 000037C2
+201A2700 00129080
+201A2704 00B22821
+201A2708 AE65011C
+201A2710 8C836780
+D2000000 00000000
+
+// Score Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+201A26FC 000037C2
+201A2700 001290C0
+201A2704 00B22821
+201A2708 AE65011C
+201A2710 8C836780
+D2000000 00000000
+
+// Score Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+201A26FC 000037C2
+201A2700 00129100
+201A2704 00B22821
+201A2708 AE65011C
+201A2710 8C836780
+D2000000 00000000

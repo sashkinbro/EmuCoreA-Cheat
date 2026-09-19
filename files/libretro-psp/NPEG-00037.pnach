@@ -1,0 +1,18 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPEG-00037
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Chain Bonus Always x1000
+Author = libretro-database contributors / original PSP cheat authors
+200952D4 240703E8
+
+// Freeze Balls [Hold Down + Triangle]
+Author = libretro-database contributors / original PSP cheat authors
+20064810 E48C0008
+D0000000 10001000
+20064810 00000000
+
+// The Game Completes Itself
+Author = libretro-database contributors / original PSP cheat authors
+2006B98C 00000000
+2006B9A4 00000000

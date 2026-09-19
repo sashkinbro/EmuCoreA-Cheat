@@ -1,0 +1,278 @@
+# EmuCoreA PSP cheat pack
+# Serial: CSPS-01360
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AI Doesn't Attack Anyone
+Author = libretro-database contributors / original PSP cheat authors
+20002080 00001021
+20002084 3C0F0882
+20002088 35EF5F5C
+2000208C 15FF0002
+20002094 27FF0004
+20002098 03E00008
+200251B0 24090001
+20025230 0A200820
+
+// AI Doesn't Attack Player
+Author = libretro-database contributors / original PSP cheat authors
+20002080 3C0F08A5
+20002084 8DEF1114
+20002088 8DEF0A54
+2000208C 144F0007
+20002094 00001021
+20002098 3C0F0882
+2000209C 35EF5F5C
+200020A0 15FF0002
+200020A8 27FF0004
+200020AC 03E00008
+200251B0 24090001
+20025230 0A200820
+
+// AI Idiot
+Author = libretro-database contributors / original PSP cheat authors
+200251B0 24090000
+20025230 03E00008
+
+// AI Idiot [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200251B0 24090001
+20025230 03E00008
+
+// AI Only Attacks Player
+Author = libretro-database contributors / original PSP cheat authors
+20002080 3C0F08A5
+20002084 8DEF1114
+20002088 8DEF0A54
+20002094 01E01021
+20002098 3C0F0882
+2000209C 35EF5F5C
+200020A0 15FF0002
+200020A8 27FF0004
+200020AC 03E00008
+200251B0 24090001
+20025230 0A200820
+
+// AI Weapon: All AI Have No Guns
+Author = libretro-database contributors / original PSP cheat authors
+20002050 3C0F08A5
+20002054 8DEF1114
+20002058 8DEF0A54
+2000205C 11F10005
+20002060 8E2F00FC
+2000206C AC600024
+20002070 AC600028
+20002074 0A208B7D
+20002078 8C630020
+20022DEC 0A200814
+20022DF0 8C8300E4
+
+// AI Weapon: CT Forces Have No Guns
+Author = libretro-database contributors / original PSP cheat authors
+20002050 3C0F08A5
+20002054 8DEF1114
+20002058 8DEF0A54
+2000205C 11F10005
+20002060 8E2F00FC
+20002064 11E00003
+2000206C AC600024
+20002070 AC600028
+20002074 0A208B7D
+20002078 8C630020
+20022DEC 0A200814
+20022DF0 8C8300E4
+
+// AI Weapon: Terrorist Forces Have No Guns
+Author = libretro-database contributors / original PSP cheat authors
+20002050 3C0F08A5
+20002054 8DEF1114
+20002058 8DEF0A54
+2000205C 11F10005
+20002060 8E2F00FC
+20002064 15E00003
+2000206C AC600024
+20002070 AC600028
+20002074 0A208B7D
+20002078 8C630020
+20022DEC 0A200814
+20022DF0 8C8300E4
+
+// Can Buy Anytime
+Author = libretro-database contributors / original PSP cheat authors
+2001FE40 1000FEA5
+
+// Can Buy Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+2001FAB4 100000EA
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20024C70 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 240F0064
+20002004 AC6F00CC
+20002008 0A20EAF6
+2000200C C46100CC
+2003ABD0 0A200800
+
+// Instant Round Start
+Author = libretro-database contributors / original PSP cheat authors
+2003E7D8 AE2009D0
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+20002010 3C0605F6
+20002014 24C6E0FF
+20002018 0A20EC20
+2000201C AE0600D0
+2003B078 0A200804
+
+// Player on CT Force Team
+Author = libretro-database contributors / original PSP cheat authors
+200020C0 8C8300B8
+200020C4 14600002
+200020CC AC8200FC
+200020D0 0A207EB1
+200020D4 8C8300B8
+2001FABC 0A200830
+
+// Player on Terrorst Force Team
+Author = libretro-database contributors / original PSP cheat authors
+200020C0 8C8300B8
+200020C4 14600002
+200020CC AC8000FC
+200020D0 0A207EB1
+200020D4 8C8300B8
+2001FABC 0A200830
+
+// Player Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+200020F4 3C0F4080
+
+// Player Speed Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+200020F4 3C0F4100
+
+// Player Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+200020F4 00000000
+
+// Player Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+200020F4 3C0F4000
+
+// Player Speed Mod: Slow
+Author = libretro-database contributors / original PSP cheat authors
+200020F4 3C0F3F00
+
+// Player Speed Mod: Super Slow
+Author = libretro-database contributors / original PSP cheat authors
+200020F4 3C0F3E80
+
+// Rapid Fire
+Author = libretro-database contributors / original PSP cheat authors
+20002020 3C0F08A5
+20002024 8DEF1114
+20002028 8DEF0A54
+2000202C 162F0003
+20002034 240F0014
+20002038 448F0000
+2000203C 0A208C2A
+20002040 46800020
+200230A0 0A200808
+200230A4 C480000C
+
+// Speed Mod (CT Forces): Disable
+Author = libretro-database contributors / original PSP cheat authors
+2000210C 3C0F0000
+
+// Speed Mod (CT Forces): Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2000210C 3C0F4080
+
+// Speed Mod (CT Forces): Insane
+Author = libretro-database contributors / original PSP cheat authors
+2000210C 3C0F4100
+
+// Speed Mod (CT Forces): Normal
+Author = libretro-database contributors / original PSP cheat authors
+2000210C 00000000
+
+// Speed Mod (CT Forces): Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2000210C 3C0F4000
+
+// Speed Mod (CT Forces): Slow
+Author = libretro-database contributors / original PSP cheat authors
+2000210C 3C0F3F00
+
+// Speed Mod (CT Forces): Super Slow
+Author = libretro-database contributors / original PSP cheat authors
+2000210C 3C0F3E80
+
+// Speed Mod (Terrorist Forces): Disable
+Author = libretro-database contributors / original PSP cheat authors
+20002118 3C0F0000
+
+// Speed Mod (Terrorist Forces): Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20002118 3C0F4080
+
+// Speed Mod (Terrorist Forces): Insane
+Author = libretro-database contributors / original PSP cheat authors
+20002118 3C0F4100
+
+// Speed Mod (Terrorist Forces): Normal
+Author = libretro-database contributors / original PSP cheat authors
+20002118 00000000
+
+// Speed Mod (Terrorist Forces): Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20002118 3C0F4000
+
+// Speed Mod (Terrorist Forces): Slow
+Author = libretro-database contributors / original PSP cheat authors
+20002118 3C0F3F00
+
+// Speed Mod (Terrorist Forces): Super Slow
+Author = libretro-database contributors / original PSP cheat authors
+20002118 3C0F3E80
+
+// Speed Modifier Codes
+Author = libretro-database contributors / original PSP cheat authors
+200020E0 3C0E08A5
+200020E4 8DCE1114
+200020E8 8DCE0A54
+200020EC 15D20004
+200020F0 8C8F0024
+200020F8 10000008
+20002100 8E4E00FC
+20002104 11C00004
+20002110 10000002
+2000211C 0A2087E7
+20002120 448F0000
+20021F94 0A200834
+20021F98 8C640020
+
+// Speed Modifier Codes [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20021F94 8C640020
+20021F98 C4800024
+
+// Timer
+Author = libretro-database contributors / original PSP cheat authors
+2003E7C8 E62209D0
+2003E7D0 00000000
+
+// Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2003E7C8 00000000
+2003E7D0 E62209D0
+
+// Walk Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+20040170 00000000
+20040174 00000000
+200404C4 00000000
+200404D8 00000000

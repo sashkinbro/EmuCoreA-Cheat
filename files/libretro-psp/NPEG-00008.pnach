@@ -1,0 +1,55 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPEG-00008
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Bombs Can Be Used Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+20098118 00000000
+
+// Green & Blue Weapon 200%
+Author = libretro-database contributors / original PSP cheat authors
+20093094 AE000008
+20093100 2407000E
+
+// Inf. Bomb
+Author = libretro-database contributors / original PSP cheat authors
+20098D68 24020004
+
+// Inf. Boost
+Author = libretro-database contributors / original PSP cheat authors
+60425A14 447A0000
+00020003 00000024
+20000040 20000004
+
+// Inf. Life
+Author = libretro-database contributors / original PSP cheat authors
+20098EA4 00401023
+
+// Infinite Bombs
+Author = libretro-database contributors / original PSP cheat authors
+20098D70 24430000
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+20098358 00000000
+
+// Maxed Score
+Author = libretro-database contributors / original PSP cheat authors
+20099498 2403FFFF
+
+// Red Weapon 200%
+Author = libretro-database contributors / original PSP cheat authors
+20090214 AE000004
+20090244 2402000E
+
+// Unlock All Planets
+Author = libretro-database contributors / original PSP cheat authors
+20002000 03E00008
+20002004 AC820008
+202BB108 0A200800
+202BB10C 2402FFFF
+
+// Unlock Solo Pack DLC Content
+Author = libretro-database contributors / original PSP cheat authors
+2004F600 10000018
+2004F604 24030001

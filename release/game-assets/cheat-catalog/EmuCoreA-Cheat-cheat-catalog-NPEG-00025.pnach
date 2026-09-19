@@ -1,0 +1,64 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPEG-00025
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Precursor Orb Worth 999 Orbs
+Author = libretro-database contributors / original PSP cheat authors
+200F2EE4 340503E7
+
+// 1 Skull Gem Worth 999 Gems
+Author = libretro-database contributors / original PSP cheat authors
+201968E8 340503E7
+
+// God Mode
+Author = libretro-database contributors / original PSP cheat authors
+200E01E0 10000008
+200AFBA8 10000007
+200D91C8 24840000
+
+// God Mode [Deactivate]
+Author = libretro-database contributors / original PSP cheat authors
+200E01E0 14A00008
+200AFBA8 14C00007
+200D91C8 2484FFFF
+
+// God Mode At Mini-Games
+Author = libretro-database contributors / original PSP cheat authors
+201F8F60 10000007
+201F34BC 00000000
+
+// God Mode At Mini-Games [Deactivate]
+Author = libretro-database contributors / original PSP cheat authors
+201F8F60 18C00007
+201F34BC 2484FFFF
+
+// Infinite Insecticide: Spray Gun)
+Author = libretro-database contributors / original PSP cheat authors
+200B09F8 00000000
+200AA158 00000000
+
+// Infinite Insecticide: Vehicle
+Author = libretro-database contributors / original PSP cheat authors
+20198AF4 00000000
+
+// Infinite Time To Fly With Hover Spray
+Author = libretro-database contributors / original PSP cheat authors
+200B0A74 00000000
+
+// Jump in mid-air
+Author = libretro-database contributors / original PSP cheat authors
+200D69FC 10000009
+
+// Jump In Mid-Air [Deactivate]
+Author = libretro-database contributors / original PSP cheat authors
+200D69FC 45030009
+
+// Max And Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+6034336C 00000008
+00000001 000000A0
+00000001 000002B4
+
+// No Need To Collect Eggs To Unlock Extras
+Author = libretro-database contributors / original PSP cheat authors
+2023FC8C 8E650028

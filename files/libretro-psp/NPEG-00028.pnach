@@ -1,0 +1,51 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPEG-00028
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Challenges Complete
+Author = libretro-database contributors / original PSP cheat authors
+2004675C 24090001
+20046760 A0E90000
+20046764 03A83821
+
+// All Story Levels Complete
+Author = libretro-database contributors / original PSP cheat authors
+20045EF4 3C0F0101
+20045EF8 35E50101
+20045EFC ACE50058
+
+// Inf. Stop Watch Timer
+Author = libretro-database contributors / original PSP cheat authors
+20843E54 000000FF
+
+// Inf. Percentage & Left
+Author = libretro-database contributors / original PSP cheat authors
+617FE190 00000000
+00020001 000000D0
+
+// Infinite MoJo
+Author = libretro-database contributors / original PSP cheat authors
+203C2144 00640000
+2064C238 00000064
+
+// Infinite Mojo v2
+Author = libretro-database contributors / original PSP cheat authors
+2006F47C 24190063
+2006F480 A4991BE6
+2006F484 5000000B
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+20071E98 10000013
+
+// Max Mojo
+Author = libretro-database contributors / original PSP cheat authors
+203C2144 00650000
+
+// Timer Disable
+Author = libretro-database contributors / original PSP cheat authors
+20016528 00000000
+
+// Timer Enable
+Author = libretro-database contributors / original PSP cheat authors
+20016528 24A5FFFF

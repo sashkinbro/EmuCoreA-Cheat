@@ -3,6 +3,481 @@
   "generatedAt": "2026-09-19T00:00:00Z",
   "entries": [
     {
+      "id": "libretro-psp-aljs-00351",
+      "title": "God Eater Burst (PlayStation Store)",
+      "serials": [
+        "ALJS-00351"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "37 libretro PSP cheat blocks for ALJS-00351; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-ALJS-00351.pnach",
+      "packPath": "files/libretro-psp/ALJS-00351.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 37,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "82A973833480C03ECC135DC1BB2F6FB3CE9A7B31F1BBB5C010E37B039D853D1E"
+    },
+    {
+      "id": "libretro-psp-cave-00960",
+      "title": "Cave Story",
+      "serials": [
+        "CAVE-00960"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "18 libretro PSP cheat blocks for CAVE-00960; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-CAVE-00960.pnach",
+      "packPath": "files/libretro-psp/CAVE-00960.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 18,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "E4CB2C1771E88A584283B171128CF0BEA6E412EF33672A50742421E51924A64E"
+    },
+    {
+      "id": "libretro-psp-cave-00992",
+      "title": "Cave Story",
+      "serials": [
+        "CAVE-00992"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "18 libretro PSP cheat blocks for CAVE-00992; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-CAVE-00992.pnach",
+      "packPath": "files/libretro-psp/CAVE-00992.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 18,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7BC9B45E747C7861EDB2262209468DBDE0D52D546096E5098F373B6CDB57B4AE"
+    },
+    {
+      "id": "libretro-psp-csps-01360",
+      "title": "CSPSP (Version 1.92)",
+      "serials": [
+        "CSPS-01360"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "42 libretro PSP cheat blocks for CSPS-01360; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-CSPS-01360.pnach",
+      "packPath": "files/libretro-psp/CSPS-01360.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 42,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7BAB39E14B21EB8E764621BDC13E19DDDD588320F60AE7117913CD9C5EF9AC7B"
+    },
+    {
+      "id": "libretro-psp-npeg-00004",
+      "title": "Syphon Filter - Combat Ops",
+      "serials": [
+        "NPEG-00004"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "7 libretro PSP cheat blocks for NPEG-00004; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00004.pnach",
+      "packPath": "files/libretro-psp/NPEG-00004.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 7,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "DD78ED6EDE2157039C22538069C6249D47B36070B49C29D0DDD1F09793928BE8"
+    },
+    {
+      "id": "libretro-psp-npeg-00008",
+      "title": "Super Stardust Portable (PlayStation Store)",
+      "serials": [
+        "NPEG-00008"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "11 libretro PSP cheat blocks for NPEG-00008; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00008.pnach",
+      "packPath": "files/libretro-psp/NPEG-00008.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 11,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C6239ECC97B4CF6145DAFB7A562FBA69F33027C455E4DC25A0F13AC45BCA82BA"
+    },
+    {
+      "id": "libretro-psp-npeg-00009",
+      "title": "Riff - Everyday Shooter (PlayStation Store)",
+      "serials": [
+        "NPEG-00009"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "2 libretro PSP cheat blocks for NPEG-00009; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00009.pnach",
+      "packPath": "files/libretro-psp/NPEG-00009.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 2,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "14EAB897CD49CB536052EE0FFD774F6797E8B76EB9201E935DB2EF2B781A2EFF"
+    },
+    {
+      "id": "libretro-psp-npeg-00017",
+      "title": "PixelJunk Monsters Deluxe (PlayStation Store)",
+      "serials": [
+        "NPEG-00017"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "4 libretro PSP cheat blocks for NPEG-00017; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00017.pnach",
+      "packPath": "files/libretro-psp/NPEG-00017.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 4,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "CCB8E8E2595D015F8EA795AE10AEBDAF847F113533CC0CF342D4E9BA99B10880"
+    },
+    {
+      "id": "libretro-psp-npeg-00018",
+      "title": "Pinball Heroes",
+      "serials": [
+        "NPEG-00018"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "2 libretro PSP cheat blocks for NPEG-00018; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00018.pnach",
+      "packPath": "files/libretro-psp/NPEG-00018.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 2,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "36245FEB80212F623A3E317055E5DD74498C9D1AEAA015A077D244AEFBE3068A"
+    },
+    {
+      "id": "libretro-psp-npeg-00019",
+      "title": "Savage Moon - The Hera Campaign",
+      "serials": [
+        "NPEG-00019"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "4 libretro PSP cheat blocks for NPEG-00019; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00019.pnach",
+      "packPath": "files/libretro-psp/NPEG-00019.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 4,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "67D05A72375BCEE708F8338AA89F72871A248991EC8F4D5A0F6ABEC2D78FCA05"
+    },
+    {
+      "id": "libretro-psp-npeg-00023",
+      "title": "God Of War - Chains Of Olympus (PlayStation Store)",
+      "serials": [
+        "NPEG-00023"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "28 libretro PSP cheat blocks for NPEG-00023; 8 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00023.pnach",
+      "packPath": "files/libretro-psp/NPEG-00023.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 28,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "B80B511D737AC02C142735E0ED52C5F8CFD68A41E8E611D19C98F0A0BB2DF1DB"
+    },
+    {
+      "id": "libretro-psp-npeg-00025",
+      "title": "Daxter (PSN)",
+      "serials": [
+        "NPEG-00025"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "13 libretro PSP cheat blocks for NPEG-00025; 1 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00025.pnach",
+      "packPath": "files/libretro-psp/NPEG-00025.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 13,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "3E0F9934CDAFCF1B2F7D9F8BF6812C6B0A21CC1E64E0E873653D4322F5644C72"
+    },
+    {
+      "id": "libretro-psp-npeg-00028",
+      "title": "Patchwork Heroes (PlayStation Store)",
+      "serials": [
+        "NPEG-00028"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "10 libretro PSP cheat blocks for NPEG-00028; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00028.pnach",
+      "packPath": "files/libretro-psp/NPEG-00028.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 10,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "D36F7E9B8F7D5764016756E27009F1D52CFCC20B7C025F019F4FAE1A4404A5AF"
+    },
+    {
+      "id": "libretro-psp-npeg-00037",
+      "title": "Zuma (PSN) (Minis)",
+      "serials": [
+        "NPEG-00037"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "3 libretro PSP cheat blocks for NPEG-00037; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00037.pnach",
+      "packPath": "files/libretro-psp/NPEG-00037.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 3,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "249B12D7042589FC9E2E2A7507F4F534FC329F0603C07ECBA553B2B78A4BFCEC"
+    },
+    {
+      "id": "libretro-psp-npeg-00044",
+      "title": "God Of War - Ghost Of Sparta",
+      "serials": [
+        "NPEG-00044"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "3 libretro PSP cheat blocks for NPEG-00044; 6 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00044.pnach",
+      "packPath": "files/libretro-psp/NPEG-00044.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 3,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "BDAC221298AC825A28782B66EC934B47597066E7A75F07B29BDBC7202BB0B064"
+    },
+    {
+      "id": "libretro-psp-npeg-00046",
+      "title": "Everybody's Stress Buster - Green Pack",
+      "serials": [
+        "NPEG-00046"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "2 libretro PSP cheat blocks for NPEG-00046; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00046.pnach",
+      "packPath": "files/libretro-psp/NPEG-00046.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 2,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "7930121CF69C592D02699A50C072D625481C0A51D76694AB23F95DDBC65DCF0F"
+    },
+    {
+      "id": "libretro-psp-npeg-00047",
+      "title": "Everybody's Stress Buster - Blue Pack",
+      "serials": [
+        "NPEG-00047"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "13 libretro PSP cheat blocks for NPEG-00047; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00047.pnach",
+      "packPath": "files/libretro-psp/NPEG-00047.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 13,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "E98DCE460EB1D8E977C8C4FDB671A137FA76F4A8585237E3F903253C0DCEA45F"
+    },
+    {
+      "id": "libretro-psp-npeg-00048",
+      "title": "Everybody's Stress Buster - Red Pack",
+      "serials": [
+        "NPEG-00048"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "13 libretro PSP cheat blocks for NPEG-00048; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00048.pnach",
+      "packPath": "files/libretro-psp/NPEG-00048.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 13,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "8E03A983C536C37EC6FBC44ECCDD8490566E1135D2791221936DA7DC3C9A4361"
+    },
+    {
+      "id": "libretro-psp-npeg-00049",
+      "title": "Everybody's Stress Buster - Yellow Pack",
+      "serials": [
+        "NPEG-00049"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "7 libretro PSP cheat blocks for NPEG-00049; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-00049.pnach",
+      "packPath": "files/libretro-psp/NPEG-00049.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 7,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "CFF9C6E022CE3934033A01C0F26725A5735D20A794B29BB0207785A0C98D5724"
+    },
+    {
+      "id": "libretro-psp-npeg-20029",
+      "title": "Pinball Heroes",
+      "serials": [
+        "NPEG-20029"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "4 libretro PSP cheat blocks for NPEG-20029; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-20029.pnach",
+      "packPath": "files/libretro-psp/NPEG-20029.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 4,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "0C6277933470E5AD5634477669E6F72CBBAD8A01B4ABC0852421603C6FF9811F"
+    },
+    {
+      "id": "libretro-psp-npeg-90003",
+      "title": "Wipeout Pulse (Demo)",
+      "serials": [
+        "NPEG-90003"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "19 libretro PSP cheat blocks for NPEG-90003; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-90003.pnach",
+      "packPath": "files/libretro-psp/NPEG-90003.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 19,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "BF1E19DF4368872147EF86CA6B6B591B11DC8A4982B1311F5A3C5159506CC400"
+    },
+    {
+      "id": "libretro-psp-npeg-90008",
+      "title": "Everybody's Golf 2 (Demo 1)",
+      "serials": [
+        "NPEG-90008"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "1 libretro PSP cheat blocks for NPEG-90008; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-90008.pnach",
+      "packPath": "files/libretro-psp/NPEG-90008.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 1,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "159D7F35618C842D89CA024C4094EB2D2DFC27993C415BB8C2A458F4000D527D"
+    },
+    {
+      "id": "libretro-psp-npeg-90009",
+      "title": "Everybody's Golf 2 (Demo 2)",
+      "serials": [
+        "NPEG-90009"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "1 libretro PSP cheat blocks for NPEG-90009; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-90009.pnach",
+      "packPath": "files/libretro-psp/NPEG-90009.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 1,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C1654B33BDAF98B7A1ABDBAAA5E661A86B90B1B6FA6F16D88C94066A4085BB8D"
+    },
+    {
+      "id": "libretro-psp-npeg-90012",
+      "title": "LocoRoco 2 (Demo)",
+      "serials": [
+        "NPEG-90012"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "11 libretro PSP cheat blocks for NPEG-90012; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-90012.pnach",
+      "packPath": "files/libretro-psp/NPEG-90012.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 11,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "C067CCBD0AB95A574C8B057BC44A7F982F0DDB3E5ED642A8F29BCE171FF475C5"
+    },
+    {
+      "id": "libretro-psp-npeg-90014",
+      "title": "Numblast (Demo)",
+      "serials": [
+        "NPEG-90014"
+      ],
+      "authors": [
+        "libretro-database contributors and the original PSP cheat authors"
+      ],
+      "description": "6 libretro PSP cheat blocks for NPEG-90014; 0 empty or malformed upstream blocks excluded.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog/EmuCoreA-Cheat-cheat-catalog-NPEG-90014.pnach",
+      "packPath": "files/libretro-psp/NPEG-90014.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
+      "sourceName": "libretro-database PSP cheats",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "blockCount": 6,
+      "updatedAt": "2026-09-19T00:00:00Z",
+      "sha256": "44E1543478E7E64AFE718DEF0F5F0C87D47360DFDF9954A48B85DAE9A2FC3C96"
+    },
+    {
       "id": "libretro-psp-npeh-00134",
       "title": "Final Fantasy III (PlayStation Store)",
       "serials": [

@@ -1,0 +1,90 @@
+# EmuCoreA PSP cheat pack
+# Serial: CAVE-00992
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Blade Lv.3
+Author = libretro-database contributors / original PSP cheat authors
+002179A0 00000003
+
+// Gravity Change [L+Up=On,L+Down=Off]
+Author = libretro-database contributors / original PSP cheat authors
+D031DEA8 00000110
+2031E0DC FFFFEFFF
+D031DEA8 00000100
+2031E0DC FFFFFF7F
+D031DEA8 00000140
+2031E0DC 00001000
+
+// Handgun Lv.3
+Author = libretro-database contributors / original PSP cheat authors
+00217978 00000003
+
+// Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+2012BD54 10000077
+
+// HP Mod (99)
+Author = libretro-database contributors / original PSP cheat authors
+2031E138 000003E7
+
+// Item Change 1
+Author = libretro-database contributors / original PSP cheat authors
+002178F4 00000020
+002178F8 00000020
+
+// Item Change 2
+Author = libretro-database contributors / original PSP cheat authors
+002178F4 00000023
+002178F8 00000023
+
+// Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+20127BB4 1000FFC3
+
+// Jump In Midair
+Author = libretro-database contributors / original PSP cheat authors
+201244DC 00000000
+
+// MachineGun Robot
+Author = libretro-database contributors / original PSP cheat authors
+00217984 00000064
+
+// Missile Lv.3
+Author = libretro-database contributors / original PSP cheat authors
+0021798C 00000003
+
+// Missile Ammo
+Author = libretro-database contributors / original PSP cheat authors
+002179C0 0000000A
+
+// Missile Ammo 10
+Author = libretro-database contributors / original PSP cheat authors
+00217998 0000000A
+
+// Toumei Ninngen
+Author = libretro-database contributors / original PSP cheat authors
+1031E134 00000050
+
+// Uki Henkou No
+Author = libretro-database contributors / original PSP cheat authors
+00217904 00217903
+00217900 00217999
+00217999 00000000
+
+// Weapon 1 Spur
+Author = libretro-database contributors / original PSP cheat authors
+00217974 0000000D
+00217978 00000003
+0021797C 000000FF
+00217980 00000000
+00217984 00000000
+
+// Weapon Mod
+Author = libretro-database contributors / original PSP cheat authors
+00217904 00217903
+00217900 00217999
+00217999 00000000
+
+// Weapon No Hikyori
+Author = libretro-database contributors / original PSP cheat authors
+10218830 0000270F

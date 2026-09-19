@@ -1,0 +1,300 @@
+# EmuCoreA PSP cheat pack
+# Serial: ALJS-00351
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Aragami Bullet Will Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200A9BB0 00000000
+
+// Armed Remodeling / Material Gathering Priority
+Author = libretro-database contributors / original PSP cheat authors
+20316130 0908079E
+20316260 EAE6E4A2
+203162AC 1011ABF1
+20316098 716B726C
+203160E4 F3B77778
+
+// Armor Remodeling / Victory Priority
+Author = libretro-database contributors / original PSP cheat authors
+20316130 B4B2B022
+20316260 432E282D
+203162AC AB8FC1F1
+20316098 716B726C
+203160E4 F3B77778
+
+// Burst Time x32
+Author = libretro-database contributors / original PSP cheat authors
+D0419734 00000240
+2043CA40 3C013C00
+
+// Cleared Immediately After Returning To The House
+Author = libretro-database contributors / original PSP cheat authors
+20363AF8 00000001
+
+// Core Change (Ren)
+Author = libretro-database contributors / original PSP cheat authors
+003160FE 00000004
+
+// Core Change (Lindow)
+Author = libretro-database contributors / original PSP cheat authors
+003160FE 00000003
+
+// Core Change (Soma)
+Author = libretro-database contributors / original PSP cheat authors
+003160FE 00000001
+
+// Equip Full Open 1/5
+Author = libretro-database contributors / original PSP cheat authors
+40331440 001C0013
+000E000A 00000001
+40331C90 000B0013
+000E0050 00000001
+40331FD4 00070013
+000E005C 00000001
+403321E8 00090013
+000E0065 00000001
+40332494 00050013
+000E006F 00000001
+40332610 001C0013
+000E0075 00000001
+40332E60 00080013
+000E0092 00000001
+403330C0 001B0013
+000E009B 00000001
+403338C4 00410013
+000E00B7 00000001
+40334C10 001E0013
+000E00F9 00000001
+403354F8 000D0013
+000E0118 00000001
+
+// Equip Full Open 2/5
+Author = libretro-database contributors / original PSP cheat authors
+403358D4 00020013
+000E0126 00000001
+4033596C 00020013
+000E0129 00000001
+40335A04 00300013
+000E012C 00000001
+40336844 00200013
+000E015D 00000001
+403371C4 007C0013
+000E017E 00000001
+40339694 004B0013
+000E0218 00000001
+4033ACD8 000C0013
+000E02EF 00000001
+4033B068 000B0013
+000E02FD 00000001
+2033B3AC 000E0309
+4033B3F8 00200013
+000E030D 00000001
+4033BD78 00030013
+000E032F 00000001
+4033BE5C 001C0013
+000E0333 00000001
+
+// Equip Full Open 3/5
+Author = libretro-database contributors / original PSP cheat authors
+4033C6AC 000B0013
+000E0353 00000001
+4033C9F0 00020013
+000E035F 00000001
+4033CA88 000E0013
+000E0362 00000001
+4033CEB0 000E0013
+000E037E 00000001
+4033D2D8 000E0013
+000E039A 00000001
+4033D700 001C0013
+000E03B6 00000001
+4033DF50 000E0013
+000E03E6 00000001
+4033E378 001C0013
+000E0402 00000001
+4033EBC8 00090013
+000E07CA 00000001
+4033EE74 000A0013
+000E07D7 00000001
+4033F16C 00030013
+000E07E2 00000001
+
+// Equip Full Open 4/5
+Author = libretro-database contributors / original PSP cheat authors
+4033F250 004C0013
+000E07F1 00000001
+403408E0 00240013
+000E0846 00000001
+40341390 00080013
+000E086B 00000001
+403415F0 00120013
+000E0874 00000001
+40341B48 001F0013
+000E0889 00000001
+4034247C 027E0013
+000E08D6 00000001
+4034E1E4 00700013
+000E0B55 00000001
+20350324 000E0BCE
+40350370 00100013
+000E0C00 00000001
+40350830 00160013
+000E0C12 00000001
+40350EB8 00780013
+000E0C2B 00000001
+40353258 000D0013
+000E0CA8 00000001
+
+// Equip Full Open 5/5
+Author = libretro-database contributors / original PSP cheat authors
+40353634 00050013
+000E0CBA 00000001
+403537B0 00030013
+000E0CC7 00000001
+40353894 00020013
+000E0CCB 00000001
+4035392C 00050013
+000E0CD5 00000002
+40353AA8 00080013
+000E0CDF 00000001
+40353D08 00030013
+000E0CEA 00000002
+40353DEC 000A0013
+000E0CF0 00000001
+203540E4 000E0CFB
+40354130 000E0013
+000E0CFD 00000001
+40354558 001A0013
+000E0D13 00000001
+40354D10 000C0013
+000E0D3D 00000001
+203550A0 000E0D4B
+403550EC 00040013
+000E0D5A 00000001
+2035521C 000E06E4
+40355268 000B0013
+000E07E5 00000001
+
+// Equip Possessions Change [Max]
+Author = libretro-database contributors / original PSP cheat authors
+40331444 07990013
+0000270F 00000000
+
+// Equipment Restriction Release (Story Progress Degree Not Relevant)
+Author = libretro-database contributors / original PSP cheat authors
+200FB890 34020000
+200FDA24 34020000
+
+// Gun Remodeling / Ability Value
+Author = libretro-database contributors / original PSP cheat authors
+203161BC 00000000
+203161C0 00000000
+203161C4 00000000
+
+// Gun Remodeling / Skill
+Author = libretro-database contributors / original PSP cheat authors
+203161C8 AFAEADAC
+
+// HP Max
+Author = libretro-database contributors / original PSP cheat authors
+203156B0 43160000
+
+// HP & OP Max
+Author = libretro-database contributors / original PSP cheat authors
+203156BC 43160000
+203156C0 43160000
+
+// Item In Pouch Maximum
+Author = libretro-database contributors / original PSP cheat authors
+803156DE 00200026
+00000063 00000000
+
+// Join Collapse & Down
+Author = libretro-database contributors / original PSP cheat authors
+20132EA0 1000000B
+
+// Join Collapse Only
+Author = libretro-database contributors / original PSP cheat authors
+20001200 8C430000
+20001204 90620061
+20001208 50400005
+2000120C 8E030008
+20001210 9202000F
+20001214 54400002
+20001218 8E030008
+2000121C 24030000
+20001220 0A24CBA8
+20001224 00671823
+20132E98 0A200480
+20132E9C 8E020000
+
+// Material Unnecessary At Synthesis
+Author = libretro-database contributors / original PSP cheat authors
+2047BAFC 34100063
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20318A30 3B9AC9FF
+
+// Motion Change: Gun [0:SN/1:AS/2:BL]
+Author = libretro-database contributors / original PSP cheat authors
+0031618D 00000000
+
+// Motion Change: Shield [0:BU/1:SH/2:TS]
+Author = libretro-database contributors / original PSP cheat authors
+003161D9 00000000
+
+// Motion Change: Sword [0:SB/1:LB/2:BB]
+Author = libretro-database contributors / original PSP cheat authors
+00316141 00000000
+
+// OP Max
+Author = libretro-database contributors / original PSP cheat authors
+203156B4 43160000
+
+// Reinforcement Eestrictions On Accessories
+Author = libretro-database contributors / original PSP cheat authors
+E001BA78 0041DD34
+2048E590 34020000
+2048E788 34050001
+
+// Shield Modification / Capacity Value
+Author = libretro-database contributors / original PSP cheat authors
+20316204 00000000
+20316208 00000000
+2031620C 00000000
+20316210 00000000
+
+// Shield Remodeling / Skill
+Author = libretro-database contributors / original PSP cheat authors
+20316214 B890A4A6
+
+// ST Max
+Author = libretro-database contributors / original PSP cheat authors
+203156B8 43160000
+203156C4 43160000
+
+// Storage Item 999
+Author = libretro-database contributors / original PSP cheat authors
+200A023C 340303E7
+
+// Sword Modification / Capacity Value
+Author = libretro-database contributors / original PSP cheat authors
+2031616C 00000000
+20316170 00000000
+20316174 00000000
+20316178 00000000
+
+// Sword Remodeling / Skill
+Author = libretro-database contributors / original PSP cheat authors
+2031617C 1D1C1B1A
+
+// Synthesis Restriction Release Of Equipment
+Author = libretro-database contributors / original PSP cheat authors
+E001BA78 0041DD34
+2047D880 34030000
+2047E740 34050001
+
+// When Strengthening Material Unnecessary
+Author = libretro-database contributors / original PSP cheat authors
+2048D47C 34100063

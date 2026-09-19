@@ -1,0 +1,33 @@
+# EmuCoreA PSP cheat pack
+# Serial: NPEG-90014
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+217FEB2C 4479C000
+00020000 000000A8
+
+// Infinite Time v2
+Author = libretro-database contributors / original PSP cheat authors
+217FEB2C 4479C000
+00020001 000000A8
+
+// Max Cubes Cleared
+Author = libretro-database contributors / original PSP cheat authors
+217FEB2C 0001869F
+00020000 000000B8
+
+// Max Cubes Cleared v2
+Author = libretro-database contributors / original PSP cheat authors
+217FEB2C 0001869F
+00020001 000000B8
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+217FEB2C 3B9AC9FF
+00020000 000000B0
+
+// Max Score v2
+Author = libretro-database contributors / original PSP cheat authors
+217FEB2C 3B9AC9FF
+00020001 000000B0
