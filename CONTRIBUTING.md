@@ -31,8 +31,11 @@ python scripts/check_duplicates.py
 ```
 
 `check_duplicates.py` must report zero new additions involved in any duplicate.
-The catalog is already free of repeated serials and ids; identical cheat content
-is allowed only for pre-existing regional variants of the same game.
+The catalog is already free of repeated ids and repeated pack bytes; a serial
+may appear in more than one entry only when the packs are genuinely different
+(for example the libretro gameplay pack plus an author camera patch), and
+identical cheat content is allowed only for pre-existing regional variants of
+the same game.
 
 The catalog is an input to the app and is not a guarantee that a code works
 with every game revision. Test codes against the exact serial and PPSSPP

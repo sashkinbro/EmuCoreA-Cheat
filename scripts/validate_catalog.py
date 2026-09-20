@@ -25,7 +25,7 @@ def main() -> int:
     if catalog.get("schemaVersion") != 1 or not isinstance(catalog.get("entries"), list):
         fail("schemaVersion must be 1 and entries must be an array")
     ids: set[str] = set()
-    serials: set[str] = set()
+    serial_packs: dict[str, set[str]] = {}
     for entry in catalog["entries"]:
         required = ["id", "title", "serials", "authors", "description", "downloadUrl", "sourceUrl", "sourceName", "license", "blockCount"]
         missing = [key for key in required if key not in entry]
@@ -36,9 +36,15 @@ def main() -> int:
         ids.add(entry["id"])
         if not entry["serials"] or any(not SERIAL_RE.fullmatch(value) for value in entry["serials"]):
             fail(f"invalid serials in {entry['id']}")
-        if any(value in serials for value in entry["serials"]):
-            fail(f"serial appears in more than one entry: {entry['serials']}")
-        serials.update(entry["serials"])
+        # A serial may be published in more than one pack (for example the
+        # libretro gameplay pack plus an author camera patch), but the same pack
+        # bytes must never be published twice for the same serial.
+        identity = str(entry.get("sha256") or entry.get("packPath") or entry["id"])
+        for value in entry["serials"]:
+            published = serial_packs.setdefault(value, set())
+            if identity in published:
+                fail(f"serial {value} repeats the same pack in {entry['id']}")
+            published.add(identity)
         if not entry["authors"] or entry["blockCount"] < 1:
             fail(f"empty author list or block count for {entry['id']}")
         display_values = [str(entry["title"]), str(entry["description"])] + [str(author) for author in entry["authors"]]
@@ -77,7 +83,7 @@ def main() -> int:
             digest = hashlib.sha256(path.read_bytes()).hexdigest().upper()
             if digest != entry["sha256"]:
                 fail(f"{path.name}: sha256 does not match catalog")
-    print(f"validated {len(catalog['entries'])} packs and {len(serials)} serials")
+    print(f"validated {len(catalog['entries'])} packs and {len(serial_packs)} serials")
     return 0
 
 

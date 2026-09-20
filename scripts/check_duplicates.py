@@ -40,7 +40,7 @@ def main() -> int:
 
     failures: list[str] = []
     ids: dict[str, str] = {}
-    serials: dict[str, str] = {}
+    serials: dict[str, list[str]] = defaultdict(list)
     serial_shas: dict[tuple[str, str], str] = {}
     bodies: dict[str, list[dict]] = defaultdict(list)
     internal: list[tuple[str, int]] = []
@@ -51,9 +51,9 @@ def main() -> int:
         if entry_id in ids:
             failures.append(f"duplicate id {entry_id}")
         ids[entry_id] = serial
-        if serial in serials:
-            failures.append(f"duplicate serial {serial} in {serials[serial]} and {entry_id}")
-        serials[serial] = entry_id
+        # One serial may hold several packs (libretro gameplay plus an author
+        # patch), so only identical pack bytes count as a duplicate.
+        serials[serial].append(entry_id)
         key = (serial, entry["sha256"])
         if key in serial_shas:
             failures.append(f"duplicate (serial, sha256) for {serial}")
@@ -70,7 +70,7 @@ def main() -> int:
         keys = block_keys(content)
         repeated = len(keys) - len(set(keys))
         if repeated:
-            internal.append((serial, repeated))
+            internal.append((entry_id, repeated))
         if len(keys) != entry["blockCount"]:
             failures.append(f"{path.name}: catalog says {entry['blockCount']} blocks, file has {len(keys)}")
 
@@ -84,14 +84,13 @@ def main() -> int:
     for entry_id in new_in_duplicate_groups:
         failures.append(f"{entry_id}: identical content to another pack")
 
+    entries_by_id = {entry["id"]: entry for entry in entries}
     new_internal = [
-        serial for serial, _ in internal
-        if serials.get(serial) and next(
-            entry for entry in entries if entry["serials"][0] == serial
-        ).get("updatedAt") != expansion.BASELINE_UPDATED_AT
+        entry_id for entry_id, _ in internal
+        if entries_by_id[entry_id].get("updatedAt") != expansion.BASELINE_UPDATED_AT
     ]
-    for serial in new_internal:
-        failures.append(f"{serial}: repeated block inside a newly added pack")
+    for entry_id in new_internal:
+        failures.append(f"{entry_id}: repeated block inside a newly added pack")
 
     print(f"checked {len(entries)} packs and {len(serials)} serials")
     print(f"duplicate ids: {len(ids) - len(set(ids))}")

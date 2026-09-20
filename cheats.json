@@ -18832,6 +18832,25 @@
       "sha256": "8848051C3D87ADE265F6B234483873E08A370591343EFCA22E30CD424766F6EB"
     },
     {
+      "id": "custom-psp-ules-00277",
+      "title": "Tenchu - Time Of The Assassins (Camera V18.3)",
+      "serials": [
+        "ULES-00277"
+      ],
+      "authors": [
+        "sashkinbro"
+      ],
+      "description": "Custom camera patch V18.3 (MODE-BYTE FIX, grappling-safe orbit, high-range control) for ULES-00277; 129 blocks with the required orbit core plus optional sensitivity, smoothing, range and distance overrides.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-3/PSP-Cheat-Catalog-cheat-catalog-3-ULES-00277.pnach",
+      "packPath": "files/custom-psp/ULES-00277.pnach",
+      "sourceUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/blob/main/files/custom-psp/ULES-00277.pnach",
+      "sourceName": "sashkinbro Tenchu camera patch",
+      "license": "Published by the pack author for the EmuCoreA cheat catalog",
+      "blockCount": 129,
+      "updatedAt": "2026-09-20T00:00:00Z",
+      "sha256": "A604A2D596D9A24DE1F0BE1D0C5A66E4CB6DE6604344AC0BAF0FDEC9E5F8BD15"
+    },
+    {
       "id": "libretro-psp-ules-00281",
       "title": "Tom Clancy's Splinter Cell Essentials (v2.0)",
       "serials": [

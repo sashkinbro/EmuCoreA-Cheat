@@ -15,6 +15,9 @@ pack for a different revision just because the title matches.
 - `cheats.json` - schema version 1 catalog used by EmuCoreA.
 - `files/libretro-psp/` - packs converted from the pinned PSP subset of
   libretro-database under its repository CC-BY-SA-4.0 license.
+- `files/custom-psp/` - author-provided PSP packs that are not derived from
+  libretro-database; each one records its own author and source in
+  `cheats.json` and `sources.json`.
 - `release/` - local, git-ignored build directory for per-release `.pnach`
   assets and aggregate ZIPs. The published files live on GitHub Releases and
   the Android client installs the individual `.pnach` packs from their release
@@ -60,8 +63,15 @@ and 96 serials repeated the exact cheat content of another serial (regional
 variants); those are skipped so no pack is published twice. Because GitHub
 allows at most 1000 assets per release, the catalog is served from three stable
 release tags: `cheat-catalog` (first 798 packs), `cheat-catalog-2` (next 1000)
-and `cheat-catalog-3` (final 715). Every catalog entry keeps a direct HTTPS
-`.pnach` URL on the release that holds its asset.
+and `cheat-catalog-3` (final 715 libretro packs plus the custom camera pack).
+Every catalog entry keeps a direct HTTPS `.pnach` URL on the release that holds
+its asset.
+
+The catalog also publishes author-provided packs through `files/custom-psp/`.
+`custom-psp-ules-00277` is a Tenchu camera patch for `ULES-00277`, a serial that
+already has a libretro gameplay pack, so a serial may appear in more than one
+entry; the Android client lists every matching pack for the selected game and
+the entries must never repeat the same pack bytes.
 
 ## Pack format
 
@@ -77,7 +87,10 @@ The generated files intentionally omit CWCheat's `_L` and `0x` decoration and
 keep only address/value pairs with an eight-hex-digit address and a value of
 one to eight hex digits. Blocks containing malformed upstream lines are
 excluded rather than silently repaired. This keeps every published block
-parseable and makes the exclusion visible in the build report.
+parseable and makes the exclusion visible in the build report. Author-provided
+CWCheat sources are converted the same way: `_C1`/`_C0` headers become
+`// <title>` block comments and `_L 0xADDR 0xVALUE` lines become `ADDR VALUE`
+pairs, while their explanatory comments are preserved.
 
 ## Rebuild and validate
 

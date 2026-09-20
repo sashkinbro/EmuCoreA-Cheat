@@ -21,6 +21,16 @@
       "rawUrl": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
       "notes": "The repository LICENSE is CC-BY-SA-4.0. Its README says cheat files are collected from web sources and user contributions, so this catalog preserves source attribution and does not relicense individual code authors rights. The whole PSP folder of the pinned revision is imported: 2513 serial packs with 75691 blocks are published, while 96 serials whose content exactly repeats another serial and 2 serials without parseable blocks are excluded."
+    },
+    {
+      "id": "custom-psp",
+      "name": "sashkinbro Tenchu camera patch",
+      "author": "sashkinbro",
+      "url": "https://github.com/sashkinbro/EmuCoreA-Cheat/blob/main/files/custom-psp/ULES-00277.pnach",
+      "rawUrl": "https://raw.githubusercontent.com/sashkinbro/EmuCoreA-Cheat/main/files/custom-psp/ULES-00277.pnach",
+      "license": "Published by the pack author for the EmuCoreA cheat catalog",
+      "notes": "Author-provided PSP camera patch for ULES-00277 (Tenchu: Time of the Assassins [EU]), converted from the CWCheat V18.3 MODE-BYTE FIX source into the catalog pack format. The original CWCheat block names and comments are preserved, _C1/_C0 blocks become catalog blocks, and the pack is published on the cheat-catalog-3 release. ULES-00277 therefore has two catalog entries: the libretro gameplay pack and this camera pack.",
+      "distribution": "catalog"
     }
   ]
 }
