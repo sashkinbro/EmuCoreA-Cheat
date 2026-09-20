@@ -1,0 +1,18 @@
+# PSP cheat pack
+# Serial: ULJS-00391
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CG Open
+Author = libretro-database contributors / original PSP cheat authors
+803023AE 000A0001
+000000FF 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+208B24D4 000F423F
+2096189C 000F423F
+
+// Scenes Open
+Author = libretro-database contributors / original PSP cheat authors
+803023EE 000E0001
+000000FF 00000000

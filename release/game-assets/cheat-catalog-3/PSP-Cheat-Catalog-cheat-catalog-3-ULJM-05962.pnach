@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULJM-05962
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// New Game = Debug Menu
+Author = libretro-database contributors / original PSP cheat authors
+00045508 00000000
+
+// Gallary (Album & Music) Open
+Author = libretro-database contributors / original PSP cheat authors
+80724898 00230001
+000000FF 00000000
+80724C18 00030001
+007201DB 000000FF
+
+// Omake Scenario Open
+Author = libretro-database contributors / original PSP cheat authors
+807201DC 00020001
+000000FF 00000000

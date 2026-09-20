@@ -1,0 +1,340 @@
+# PSP cheat pack
+# Serial: ULUS-10230
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 65535 Gold
+Author = libretro-database contributors / original PSP cheat authors
+002210F8 000000FF
+002210F9 000000FF
+
+// Anchor Card
+Author = libretro-database contributors / original PSP cheat authors
+202F7EF4 00014B02
+
+// Blank Imposter
+Author = libretro-database contributors / original PSP cheat authors
+002F77DC 00000000
+002F77E0 00000000
+002F77E4 00000000
+002F77E8 00000000
+
+// BP Remaining
+Author = libretro-database contributors / original PSP cheat authors
+002F71F3 00000063
+
+// Change Character Name To Legend
+Author = libretro-database contributors / original PSP cheat authors
+00217FB0 4547454C
+00217FB4 0000444E
+
+// Char. 2 Fast Level Up
+Author = libretro-database contributors / original PSP cheat authors
+202FA4CC 00000001
+202FA4D0 00000001
+202FA4D4 00000001
+202FA4D8 00000001
+202FA4DC 00000001
+202FA4E0 00000001
+202FA4E4 00000001
+202FA4E8 00000001
+202FA4EC 00000001
+
+// Double Mark & Recall
+Author = libretro-database contributors / original PSP cheat authors
+00000800 3C0808A4
+00000804 8509D1E8
+00000808 3C0A08A4
+0000080C 8D4B7544
+00000810 240C0280
+00000814 152C0008
+00000818 00000000
+0000081C 3C0D09C0
+00000820 8D6E0020
+00000824 ADAE00F0
+00000828 8D6E0024
+0000082C ADAE00F4
+00000830 8D6E0028
+00000834 ADAE00F8
+00000838 240C0220
+0000083C 15890008
+00000840 00000000
+00000844 3C0D09C0
+00000848 8D6E0020
+0000084C ADAE0100
+00000850 8D6E0024
+00000854 ADAE0104
+00000858 8D6E0028
+0000085C ADAE0108
+00000860 240C0180
+00000864 152C0008
+00000868 00000000
+0000086C 3C0D09C0
+00000870 8DAE00F0
+00000874 AD6E0020
+00000878 8DAE00F4
+0000087C AD6E0024
+00000880 8DAE00F8
+00000884 AD6E0028
+00000888 240C0120
+0000088C 152C0009
+00000890 00000000
+00000894 3C0D09C0
+00000898 8DAE0100
+0000089C AD6E0020
+000008A0 8DAE0104
+000008A4 AD6E0024
+000008A8 8DAE0108
+000008AC AD6E0028
+000008B0 00000000
+000008B4 03E00008
+000089B0 0A200200
+
+// Everything Is Free
+Author = libretro-database contributors / original PSP cheat authors
+0104CC2C 00000000
+0104CC80 00000000
+0104CCD4 00000000
+0104CD0C 00000000
+0104CFAC 00000000
+010503BC 00000000
+01050590 00000000
+01050EB4 00000000
+0105125C 00000000
+0102BE88 00000000
+0102C218 00000000
+0102C608 00000000
+0102C908 00000000
+
+// Fast Level Up
+Author = libretro-database contributors / original PSP cheat authors
+202F780C 00000001
+202F7810 00000001
+202F7814 00000001
+202F7818 00000001
+
+// Fight 1 Exp. tnl
+Author = libretro-database contributors / original PSP cheat authors
+202F780C 00000001
+
+// Hero Max & Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+102F77EC 000003E7
+102F7864 000003E7
+
+// Hero Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+002F786B 00000063
+002F786C 00000063
+002F786D 00000063
+002F786E 00000063
+002F786F 00000063
+002F7870 00000063
+002F7871 00000063
+
+// HP 999
+Author = libretro-database contributors / original PSP cheat authors
+0023960C 000003E7
+0023960E 000003E7
+
+// Inf. Special Moves
+Author = libretro-database contributors / original PSP cheat authors
+002F77F2 00000014
+
+// Infinite Health/Mana
+Author = libretro-database contributors / original PSP cheat authors
+002F77EC 003E73E7
+002F7864 003E73E7
+
+// Instant Level Up
+Author = libretro-database contributors / original PSP cheat authors
+002F780C 00000001
+
+// Jobs Cards - Main Bag 1 To 4
+Author = libretro-database contributors / original PSP cheat authors
+002F7EF4 00014E02
+002F7F1C 00014D02
+002F7F44 00014C02
+002F7F6C 00014B02
+
+// Lock Player
+Author = libretro-database contributors / original PSP cheat authors
+016A22B0 00000001
+
+// Lv. Up Status Point 0
+Author = libretro-database contributors / original PSP cheat authors
+00315D1A 00000000
+
+// Lv. Up Status Point 9
+Author = libretro-database contributors / original PSP cheat authors
+00315D1A 00000009
+
+// Mage 1 Exp. tnl
+Author = libretro-database contributors / original PSP cheat authors
+202F7810 00000001
+
+// Main Char. Max Health
+Author = libretro-database contributors / original PSP cheat authors
+102F9B7C 000003E7
+
+// Make Items
+Author = libretro-database contributors / original PSP cheat authors
+002F7EF5 0000004B
+002F7EF5 00000002
+
+// Mark & Recall
+Author = libretro-database contributors / original PSP cheat authors
+00001000 3C0808A4
+00001004 8D087544
+00001008 3C0908A4
+0000100C 8D29D1E8
+00001010 240A0080
+00001014 152A000A
+0000101C 3C0B0880
+00001020 8D0C0020
+00001024 AD6C0700
+00001028 8D0D0024
+0000102C AD6D0704
+00001030 8D0E0028
+00001034 AD6E0708
+00001038 1000000B
+00001040 240A0020
+00001044 152A0008
+0000104C 3C0B0880
+00001050 8D6C0700
+00001054 AD0C0020
+00001058 8D6D0704
+0000105C AD0D0024
+00001060 8D6E0708
+00001064 AD0E0028
+00001068 10000001
+00001070 03E00008
+000089B0 0A200400
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+202210F8 000F423F
+
+// Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+002F7868 63636363
+002F786C 63636363
+002F7870 63636363
+
+// MP 999
+Author = libretro-database contributors / original PSP cheat authors
+00239610 000003E7
+00239612 000003E7
+
+// Next Exp. 1-1
+Author = libretro-database contributors / original PSP cheat authors
+202FEA70 00000001
+
+// Next Exp. 1-2
+Author = libretro-database contributors / original PSP cheat authors
+203008B4 00000001
+
+// Next Exp. 1-3
+Author = libretro-database contributors / original PSP cheat authors
+2030297C 00000001
+
+// Next Exp. 1-4
+Author = libretro-database contributors / original PSP cheat authors
+20304CF0 00000001
+
+// Next Exp. 1-5
+Author = libretro-database contributors / original PSP cheat authors
+20306DBC 00000001
+
+// Next Exp. 1-6
+Author = libretro-database contributors / original PSP cheat authors
+20308E8C 00000001
+
+// Ninja Card
+Author = libretro-database contributors / original PSP cheat authors
+202F7EF4 00014E02
+
+// Paper Player
+Author = libretro-database contributors / original PSP cheat authors
+002F75B0 30800000
+
+// Play Time 0
+Author = libretro-database contributors / original PSP cheat authors
+20221100 00000000
+
+// Priest 1 Exp. tnl
+Author = libretro-database contributors / original PSP cheat authors
+202F7814 00000001
+
+// Rainbow Kickup Dust
+Author = libretro-database contributors / original PSP cheat authors
+000D4038 3C044080
+
+// Reset Time Play To 0
+Author = libretro-database contributors / original PSP cheat authors
+016AA5DC 00000001
+
+// Samurai Card
+Author = libretro-database contributors / original PSP cheat authors
+202F7EF4 00014D02
+
+// Superman
+Author = libretro-database contributors / original PSP cheat authors
+00000900 3C0808A4
+00000904 8D087544
+00000908 8D090020
+0000090C 3C0A08A4
+00000910 854AD1E8
+00000914 240B0080
+00000918 154B0004
+00000920 25294000
+00000924 AD090020
+00000928 10000007
+0000092C 240C0020
+00000930 154C0005
+00000938 240E4000
+0000093C 012E4822
+00000940 AD090020
+00000948 03E00008
+00000950 3C0808A4
+00000954 8D087544
+00000958 8D090028
+0000095C 3C0A08A4
+00000960 854AD1E8
+00000964 240B0010
+00000968 154B0004
+00000970 25294000
+00000974 AD090028
+00000978 10000007
+0000097C 240C0040
+00000980 154C0005
+00000988 240E4000
+0000098C 012E4822
+00000990 AD090028
+00000998 03E00008
+000009A0 3C0808A4
+000009A4 8D087544
+000009A8 8D090024
+000009AC 3C0A08A4
+000009B0 854AD1E8
+000009B4 240B0210
+000009B8 154B0004
+000009C0 25297000
+000009C4 AD090024
+000009C8 10000007
+000009CC 240C0240
+000009D0 154C0005
+000009D8 240E7000
+000009DC 012E4822
+000009E0 AD090024
+000009E8 03E00008
+0000892C 0A200268
+000089B0 0A200240
+000089D4 0A200254
+
+// Thief 1 Exp. tnl
+Author = libretro-database contributors / original PSP cheat authors
+202F7818 00000001
+
+// Villagers/Enemies Size Mod
+Author = libretro-database contributors / original PSP cheat authors
+00031D7C 3C044080

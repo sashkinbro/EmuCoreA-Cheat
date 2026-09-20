@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: ULUS-10135
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Dev. Point
+Author = libretro-database contributors / original PSP cheat authors
+20345AD0 00001388
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+214CF37C 000F423F

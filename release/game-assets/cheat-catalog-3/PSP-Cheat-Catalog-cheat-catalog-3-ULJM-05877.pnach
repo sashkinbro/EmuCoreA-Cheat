@@ -1,0 +1,41 @@
+# PSP cheat pack
+# Serial: ULJM-05877
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Enable Debug Mode
+Author = libretro-database contributors / original PSP cheat authors
+2047300C 00000001
+
+// 77 Library
+Author = libretro-database contributors / original PSP cheat authors
+0147327C 000000F7
+0147327D 0000007D
+0147327E 00000075
+0147327F 00000057
+01473280 0000007D
+01473281 000000D5
+01473282 000000FF
+01473283 0000007F
+01473284 00000055
+01473285 000000D5
+01473286 00000055
+01473287 00000075
+01473288 000000D5
+01473289 00000055
+0147328A 00000055
+0147328B 00000055
+0147328C 0000005D
+0147328D 0000005D
+0147328E 00000055
+0147328F 00000001
+
+// CG Open
+Author = libretro-database contributors / original PSP cheat authors
+814731A7 00600001
+000000FF 00000000
+
+// Sound & Scean Open
+Author = libretro-database contributors / original PSP cheat authors
+81473088 000B0002
+00000001 00000000
+8147312C 000A0002

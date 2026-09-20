@@ -1,0 +1,57 @@
+# PSP cheat pack
+# Serial: ULJS-00366
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Ace Point
+Author = libretro-database contributors / original PSP cheat authors
+412D1140 01420007
+0001869F 00000000
+
+// All Character Kills Count Max
+Author = libretro-database contributors / original PSP cheat authors
+812D1144 0142000E
+100003E7 00000000
+
+// All Character Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+812D1130 0142000E
+10007FFF 00000000
+
+// All Character Max Exp. 2
+Author = libretro-database contributors / original PSP cheat authors
+812B5110 000A0006
+10007FFF 00000000
+
+// All Character Max Growth
+Author = libretro-database contributors / original PSP cheat authors
+812D1139 0142001C
+0000000A 00000000
+812D113A 0142000E
+10000A0A 00000000
+412D113C 01420007
+0A0A0A0A 00000000
+
+// All Character Max Growth 2
+Author = libretro-database contributors / original PSP cheat authors
+812B5117 000A000C
+0000000F 00000000
+412B5118 000A0003
+0F0F0F0F 00000000
+
+// All Character Max Level 2
+Author = libretro-database contributors / original PSP cheat authors
+812AB2D2 000A0034
+00000063 00000000
+
+// Capital 99999
+Author = libretro-database contributors / original PSP cheat authors
+212A6030 000F423F
+
+// Development No Lv. Limit
+Author = libretro-database contributors / original PSP cheat authors
+2003C024 24020063
+
+// Exp.
+Author = libretro-database contributors / original PSP cheat authors
+812D1130 0142000E
+10007FFF 00000000

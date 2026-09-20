@@ -1,0 +1,59 @@
+# PSP cheat pack
+# Serial: ULJS-00316
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All illustrAtions Collection
+Author = libretro-database contributors / original PSP cheat authors
+8021611C 001E0004
+00000003 00000000
+
+// Enemy Without Full Gas
+Author = libretro-database contributors / original PSP cheat authors
+60237034 00000000
+00010001 0000000C
+
+// Free Battle Mode
+Author = libretro-database contributors / original PSP cheat authors
+80215C6C 00440004
+00000001 00000000
+
+// Free Battle Mode Options Fully Open
+Author = libretro-database contributors / original PSP cheat authors
+80215C6C 00440004
+00000001 00000000
+
+// HP Unabated Players
+Author = libretro-database contributors / original PSP cheat authors
+60237020 00000002
+00000002 00000008
+1000000C 00000000
+
+// HPHeranai
+Author = libretro-database contributors / original PSP cheat authors
+60237020 00000002
+00000002 00000008
+1000000C 00000000
+
+// One Hit Enemy
+Author = libretro-database contributors / original PSP cheat authors
+60237024 00000000
+00010001 0000000C
+
+// Player Full Strength
+Author = libretro-database contributors / original PSP cheat authors
+60237030 0000012C
+00010001 0000000C
+
+// Score
+Author = libretro-database contributors / original PSP cheat authors
+20237074 3B9AC9FF
+
+// Tutorial
+Author = libretro-database contributors / original PSP cheat authors
+80215DFC 00090004
+00000001 00000000
+
+// Tutorial Full
+Author = libretro-database contributors / original PSP cheat authors
+80215DFC 00090004
+00000001 00000000

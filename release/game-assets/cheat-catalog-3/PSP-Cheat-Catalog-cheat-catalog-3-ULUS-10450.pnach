@@ -1,0 +1,59 @@
+# PSP cheat pack
+# Serial: ULUS-10450
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Flash
+Author = libretro-database contributors / original PSP cheat authors
+00036DB0 3C044080
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+6066FC40 00000004
+00000002 000003A8
+100003A4 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2004E8FC 0A200800
+2004E900 00000000
+20002000 C48D169C
+20002004 E48D1698
+20002008 0A213A41
+2000200C 44806000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+2004E8FC C48D169C
+2004E904 E48D1698
+
+// Speed Modifier: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2034C03C 3FC00000
+
+// Speed Modifier: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2034C03C 40000000
+
+// Speed Modifier: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2034C03C 3F800000
+
+// Speed Modifier: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2034C03C 3FA00000
+
+// Speed Modifier: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2034C03C 3F000000
+
+// Stretch Man
+Author = libretro-database contributors / original PSP cheat authors
+00036174 3C044080
+
+// Walk Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+20037E94 100000D5
+
+// Walk Through Walls [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20037E94 504000D5

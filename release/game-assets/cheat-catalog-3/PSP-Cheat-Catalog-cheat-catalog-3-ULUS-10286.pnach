@@ -1,0 +1,110 @@
+# PSP cheat pack
+# Serial: ULUS-10286
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 0 Number Of Turns
+Author = libretro-database contributors / original PSP cheat authors
+011B41DA 00000000
+
+// Cierra Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+0122A220 000003E7
+
+// Cierre Stats
+Author = libretro-database contributors / original PSP cheat authors
+011B2C08 000000D2
+011B2C09 000000D2
+011B2C0A 000000D2
+011B2C0B 000000D2
+
+// Command Mini Game Success
+Author = libretro-database contributors / original PSP cheat authors
+01193B64 00020000
+012EE268 00A800B9
+012FE268 00A800B9
+017FF4A4 00000004
+
+// Debug Menu At Startup
+Author = libretro-database contributors / original PSP cheat authors
+0002AD70 00000000
+
+// Eien Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+011B2B68 000000D2
+011B2B69 000000D2
+011B2B6A 000000D2
+011B2B6B 000000D2
+
+// Ein Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+0122A1E0 000003E7
+
+// Fia Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+0122A220 000003E7
+
+// Fia Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+011B2DE8 000000D2
+011B2DE9 000000D2
+011B2DEA 000000D2
+011B2DEB 000000D2
+
+// Inf. Items
+Author = libretro-database contributors / original PSP cheat authors
+811B2F27 00BA0004
+00000064 00000000
+
+// Item Modifier - Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+011B2F26 00000043
+
+// Item Modifier - Slot 2
+Author = libretro-database contributors / original PSP cheat authors
+011B2F2A 00000042
+
+// Item Modifier - Slot 3
+Author = libretro-database contributors / original PSP cheat authors
+011B2F2E 0000003B
+
+// Item Modifier - Slot 4
+Author = libretro-database contributors / original PSP cheat authors
+011B2F32 00000084
+
+// Item Modifier - Slot 5
+Author = libretro-database contributors / original PSP cheat authors
+011B2F36 00000095
+
+// Lina Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+0122A260 000003E7
+
+// Lina Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+011B2D48 000000D2
+011B2D49 000000D2
+011B2D4A 000000D2
+011B2D4B 000000D2
+
+// Max TP
+Author = libretro-database contributors / original PSP cheat authors
+011B41F1 00000010
+
+// Overdrive Max Lvl-3
+Author = libretro-database contributors / original PSP cheat authors
+1122A3B2 00000180
+
+// Rank S
+Author = libretro-database contributors / original PSP cheat authors
+1122A3C6 00000000
+
+// Serene Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+0122A260 000003E7
+
+// Serene Stats
+Author = libretro-database contributors / original PSP cheat authors
+011B2CA8 000000D2
+011B2CA9 000000D2
+011B2CAA 000000D2
+011B2CAB 000000D2

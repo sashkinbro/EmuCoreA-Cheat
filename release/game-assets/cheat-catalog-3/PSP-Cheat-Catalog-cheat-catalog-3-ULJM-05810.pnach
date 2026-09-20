@@ -1,0 +1,24 @@
+# PSP cheat pack
+# Serial: ULJM-05810
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Heroine HP & MP 200
+Author = libretro-database contributors / original PSP cheat authors
+005E3E39 000000C8
+005E3E3A 000000C8
+
+// Heroine Special Skill All
+Author = libretro-database contributors / original PSP cheat authors
+805E3E19 00140001
+10000005 00000000
+
+// Omake Open
+Author = libretro-database contributors / original PSP cheat authors
+005E3268 000000FF
+805E0D58 000B0001
+000000FF 00000000
+
+// Zenkei 999
+Author = libretro-database contributors / original PSP cheat authors
+405E373E 00050001
+03E703E7 00000000

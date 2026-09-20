@@ -1,0 +1,42 @@
+# PSP cheat pack
+# Serial: ULJS-00384
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1P Drive Stock
+Author = libretro-database contributors / original PSP cheat authors
+001E5AD0 00000005
+
+// 1P HP
+Author = libretro-database contributors / original PSP cheat authors
+21403814 42C80000
+2140381C 42C80000
+
+// 1P MP
+Author = libretro-database contributors / original PSP cheat authors
+21403824 42C80000
+
+// 2P HP0
+Author = libretro-database contributors / original PSP cheat authors
+41405454 00040008
+4140545C 00040008
+
+// All Costume Selectable
+Author = libretro-database contributors / original PSP cheat authors
+200B0998 00000000
+200B0A28 00000000
+
+// Lyrical Point Max
+Author = libretro-database contributors / original PSP cheat authors
+200EAB30 00000000
+
+// Open Lock
+Author = libretro-database contributors / original PSP cheat authors
+201E7E50 0098967F
+
+// Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+20019134 00000000
+
+// Viewers Zoom Out Unlimit
+Author = libretro-database contributors / original PSP cheat authors
+200B8E34 46000030

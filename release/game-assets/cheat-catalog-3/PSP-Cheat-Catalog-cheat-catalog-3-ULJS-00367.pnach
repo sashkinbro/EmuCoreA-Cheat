@@ -1,0 +1,72 @@
+# PSP cheat pack
+# Serial: ULJS-00367
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E001FFFB 001BAE68
+201BAE68 00000000
+
+// 60 FPS [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201BAE68 1460FFFB
+
+// All Accessories
+Author = libretro-database contributors / original PSP cheat authors
+810C7540 001A0008
+0000005A 00000000
+
+// Ammo
+Author = libretro-database contributors / original PSP cheat authors
+206FF378 00000014
+206FF37C 00000014
+
+// Hits
+Author = libretro-database contributors / original PSP cheat authors
+206FF1C8 000003E7
+
+// HP Unabated
+Author = libretro-database contributors / original PSP cheat authors
+506FF154 00000004
+006FF150 00000000
+
+// Kills
+Author = libretro-database contributors / original PSP cheat authors
+210B8BD0 0000270F
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+210DA324 0098967F
+
+// Not Reduce Energy
+Author = libretro-database contributors / original PSP cheat authors
+206FF170 453B8000
+
+// ORBs
+Author = libretro-database contributors / original PSP cheat authors
+210DA324 05F5E0FF
+
+// Press L+R Together Direct Win
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000300
+206FF1D0 0098967F
+206FF1DC 0098967F
+206FF1E4 0098967F
+206FF1EC 00000000
+
+// Untitled cheat 15
+Author = libretro-database contributors / original PSP cheat authors
+410C1604 00050001
+270F270F 00000000
+
+// Sword Power Maximum
+Author = libretro-database contributors / original PSP cheat authors
+206FF160 00000000
+
+// Time Unchange
+Author = libretro-database contributors / original PSP cheat authors
+210D324C 00000000
+
+// Yellow Orbs
+Author = libretro-database contributors / original PSP cheat authors
+210D6E5C 3B9AC9FF

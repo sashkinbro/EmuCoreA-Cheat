@@ -1,0 +1,171 @@
+# PSP cheat pack
+# Serial: ULUS-10165
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 20 FPS
+Author = libretro-database contributors / original PSP cheat authors
+204C15F4 00000003
+204F20EC 3FC00000
+204C15E0 41A00000
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+204C15F4 00000002
+204F20EC 3F800000
+204C15E0 41F00000
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+204C15F4 00000001
+204F20EC 3F000000
+204C15E0 42700000
+
+// 999,999,999 Coins
+Author = libretro-database contributors / original PSP cheat authors
+0057C340 3B9AC9FF
+
+// 999,999,999 Skill Points
+Author = libretro-database contributors / original PSP cheat authors
+0057C344 3B9AC9FF
+
+// [Aang] Fire Defense 200%
+Author = libretro-database contributors / original PSP cheat authors
+0057F72C 000000C8
+
+// [Aang] Water Defense 200%
+Author = libretro-database contributors / original PSP cheat authors
+0057F730 000000C8
+
+// Infinite Bison Whistle
+Author = libretro-database contributors / original PSP cheat authors
+0057CDD0 00000004
+
+// Infinite Bonus PTS [Aang]
+Author = libretro-database contributors / original PSP cheat authors
+0057F8C8 00000063
+
+// Infinite Bonus PTS [Haru]
+Author = libretro-database contributors / original PSP cheat authors
+0057FF88 00000063
+
+// Infinite Bonus PTS [Katara]
+Author = libretro-database contributors / original PSP cheat authors
+0057FB08 00000063
+
+// Infinite Bonus PTS [Sokka]
+Author = libretro-database contributors / original PSP cheat authors
+0057FD48 00000063
+
+// Infinite Chi [Aang]
+Author = libretro-database contributors / original PSP cheat authors
+0057F708 00000063
+
+// Infinite Chi [Aang] v2
+Author = libretro-database contributors / original PSP cheat authors
+0057F708 0000003C
+
+// Infinite Chi [Haru]
+Author = libretro-database contributors / original PSP cheat authors
+0057FDC8 00000063
+
+// Infinite Chi [Katara]
+Author = libretro-database contributors / original PSP cheat authors
+0057F948 00000063
+
+// Infinite Chi [Katara] v2
+Author = libretro-database contributors / original PSP cheat authors
+0057F948 0000005C
+007B4950 0000005C
+
+// Infinite Chi [Sokka]
+Author = libretro-database contributors / original PSP cheat authors
+0057FB88 00000063
+
+// Infinite Chi [Sokka] v2
+Author = libretro-database contributors / original PSP cheat authors
+0057FB88 00000028
+
+// Infinite Chi Remedy
+Author = libretro-database contributors / original PSP cheat authors
+0057CD9C 00000004
+
+// Infinite Explosive Bomb
+Author = libretro-database contributors / original PSP cheat authors
+0057CD68 00000006
+
+// Infinite Flash Bomb
+Author = libretro-database contributors / original PSP cheat authors
+0057CE04 00000006
+
+// Infinite Freeze Bomb
+Author = libretro-database contributors / original PSP cheat authors
+0057CE38 00000006
+
+// Infinite Health [Aang]
+Author = libretro-database contributors / original PSP cheat authors
+0057F704 0000002B
+
+// Infinite Health [Katara]
+Author = libretro-database contributors / original PSP cheat authors
+0057F944 0000003B
+
+// Infinite Health [Sokka]
+Author = libretro-database contributors / original PSP cheat authors
+0057FB84 0000003D
+
+// Infinite Health Remedy
+Author = libretro-database contributors / original PSP cheat authors
+0057CD34 00000063
+
+// Infinite HP [Aang]
+Author = libretro-database contributors / original PSP cheat authors
+1057F704 000003E7
+
+// Infinite HP [Haru]
+Author = libretro-database contributors / original PSP cheat authors
+1057FDC4 000003E7
+
+// Infinite HP [Katara]
+Author = libretro-database contributors / original PSP cheat authors
+1057F944 000003E7
+
+// Infinite HP [Sokka]
+Author = libretro-database contributors / original PSP cheat authors
+1057FB84 000003E7
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+1057C340 0000270F
+
+// Infinite Skill Points
+Author = libretro-database contributors / original PSP cheat authors
+0057C344 0000270F
+
+// Mark & Recall (Press Down/Up)
+Author = libretro-database contributors / original PSP cheat authors
+20000900 3C0808FC
+20000904 8D089C08
+20000908 3C0908A9
+2000090C 8D293E20
+20000910 240A0040
+20000914 152A000A
+2000091C 3C0B0880
+20000920 8D0C0050
+20000924 AD6C1000
+20000928 AD6C0054
+2000092C AD6D1004
+20000930 8D0E0058
+20000934 AD6E1008
+20000938 1000000B
+20000940 240A0010
+20000944 152A0008
+2000094C 3C0B0880
+20000950 8D6C1000
+20000954 AD0C0050
+20000958 8D6D1004
+2000095C AD0D0054
+20000960 8D6E1008
+20000964 AD0E0058
+20000968 10000001
+20000970 03E00008
+2000473C 0A200240

@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: ULJM-05966
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99999999000
+Author = libretro-database contributors / original PSP cheat authors
+206BC0F8 05F5E0FF
+
+// Away Scores 99
+Author = libretro-database contributors / original PSP cheat authors
+2070538C 00000063
+
+// Home Scores 99
+Author = libretro-database contributors / original PSP cheat authors
+206FDE90 00000063

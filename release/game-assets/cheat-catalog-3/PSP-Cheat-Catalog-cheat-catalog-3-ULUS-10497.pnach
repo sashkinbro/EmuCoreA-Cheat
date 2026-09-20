@@ -1,0 +1,70 @@
+# PSP cheat pack
+# Serial: ULUS-10497
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Energy
+Author = libretro-database contributors / original PSP cheat authors
+207BB0CC 42C80000
+
+// Infinite Energy v2
+Author = libretro-database contributors / original PSP cheat authors
+207BB0DC 00000000
+207BB0CC 43480000
+D2000000 00000000
+
+// Infinite Energy v3
+Author = libretro-database contributors / original PSP cheat authors
+207BB0DC 00000000
+00020000 43480000
+D0020001 00000000
+
+// Infinite Energy v4
+Author = libretro-database contributors / original PSP cheat authors
+207BB0DC 00000000
+00020001 43480000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+207BB0DC 00000000
+207BB0D8 44FA0000
+D2000000 00000000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+207BB0DC 00000000
+00020000 44FA0000
+
+// Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+207BB0DC 00000000
+00020001 44FA0000
+
+// Infinite Secondary Weapon
+Author = libretro-database contributors / original PSP cheat authors
+207BB0DC 00000000
+207BF114 0000000A
+D2000000 00000000
+
+// Infinite Secondary Weapon v2
+Author = libretro-database contributors / original PSP cheat authors
+207BF114 0000000A
+
+// Infinite Secondary Weapon v3
+Author = libretro-database contributors / original PSP cheat authors
+207BB0DC 00000000
+207BF114 0000000A
+
+// Max/Infinite Tech Points
+Author = libretro-database contributors / original PSP cheat authors
+207BB0DC 00000000
+2061C050 05F5E0FF
+D2000000 00000000
+
+// Max/Infinite Tech Points v2
+Author = libretro-database contributors / original PSP cheat authors
+2061C050 0098967F
+
+// Max/Infinite Tech Points v3
+Author = libretro-database contributors / original PSP cheat authors
+207BB0DC 00000000
+2061C050 05F5E0FF

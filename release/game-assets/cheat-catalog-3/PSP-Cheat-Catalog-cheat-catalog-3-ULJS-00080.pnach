@@ -1,0 +1,38 @@
+# PSP cheat pack
+# Serial: ULJS-00080
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Always Finish First
+Author = libretro-database contributors / original PSP cheat authors
+E0050000 102734E4
+E0040000 102734E6
+6027010C 00000000
+00000001 00000074
+602734E4 00000000
+00000001 00000024
+
+// Always First (Alt.)
+Author = libretro-database contributors / original PSP cheat authors
+002701CC 00000000
+
+// Nitoro Inf.
+Author = libretro-database contributors / original PSP cheat authors
+0020E190 00000001
+
+// Rally X: Press R For 4 Lives
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000200
+201EC39C 00000005
+
+// Tuneni 1ban
+Author = libretro-database contributors / original PSP cheat authors
+E0050000 102734E4
+E0040000 102734E6
+6027010C 00000000
+00000000 00000074
+602734E4 00000000
+00000000 00000024
+
+// Unlimited Nitro
+Author = libretro-database contributors / original PSP cheat authors
+0020E190 00000001

@@ -1,0 +1,42 @@
+# PSP cheat pack
+# Serial: ULUS-10044
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Save Loading Screen Freeze Fix
+Author = libretro-database contributors / original PSP cheat authors
+E0060020 001CAD7C
+201CAD7C 0A200CC1
+20003304 3C0F0006
+20003308 15E0FFFF
+2000330C 25EFFFFF
+20003310 0A272B61
+20003314 AFB00020
+
+// Save Loading Screen Freeze No-Fix [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0010CC1 001CAD7C
+201CAD7C AFB00020
+
+// Always First Place
+Author = libretro-database contributors / original PSP cheat authors
+00C462A0 00000001
+
+// Always First Place v2
+Author = libretro-database contributors / original PSP cheat authors
+2011AF3C 0A200800
+20002000 24120001
+20002004 0A246BD1
+20002008 A2920040
+
+// Easy Race Objectives
+Author = libretro-database contributors / original PSP cheat authors
+200ECC6C 24040063
+20191650 24040063
+
+// Max Coins
+Author = libretro-database contributors / original PSP cheat authors
+1076E908 0000270F
+
+// Max Crystals
+Author = libretro-database contributors / original PSP cheat authors
+2076E90C 0001869F

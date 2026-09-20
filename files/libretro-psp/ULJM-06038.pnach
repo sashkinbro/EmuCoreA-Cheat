@@ -1,0 +1,16 @@
+# PSP cheat pack
+# Serial: ULJM-06038
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Amulet 9
+Author = libretro-database contributors / original PSP cheat authors
+20723EFC 63636363
+
+// Gallary All
+Author = libretro-database contributors / original PSP cheat authors
+20723EF0 FFFFFFFF
+00723EF4 0000000F
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20722500 05F5E0FF

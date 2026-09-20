@@ -1,0 +1,38 @@
+# PSP cheat pack
+# Serial: ULJM-05802
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Furoku Open
+Author = libretro-database contributors / original PSP cheat authors
+005316FC 000000FF
+005363A7 00000001
+8053168C 00060001
+000000FF 00000000
+8053169C 00020001
+805316AC 00050001
+805316BC 00050001
+805316CC 00050001
+805316DC 00050001
+805316EC 00050001
+8053170C 00030001
+8053216C 03900001
+8053256C 04900001
+805363CF 00030004
+00000001 00000000
+805363DA 00020002
+805363E1 00030002
+805363E8 00060004
+
+// Movie All
+Author = libretro-database contributors / original PSP cheat authors
+40531FEC 03010001
+FFFFFFFF 00000000
+
+// Photo Album All
+Author = libretro-database contributors / original PSP cheat authors
+4053168C 001D0001
+FFFFFFFF 00000000
+
+// Picture All
+Author = libretro-database contributors / original PSP cheat authors
+2053170C 00FFFFFF

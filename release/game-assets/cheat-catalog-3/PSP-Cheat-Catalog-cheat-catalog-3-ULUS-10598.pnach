@@ -1,0 +1,30 @@
+# PSP cheat pack
+# Serial: ULUS-10598
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Faster Shot Clock
+Author = libretro-database contributors / original PSP cheat authors
+20001000 C440E160
+20001004 3C084000
+20001008 44880000
+2000100C 0A25433F
+20150CF4 0A200400
+
+// Increase Game Speed [Hold Note]
+Author = libretro-database contributors / original PSP cheat authors
+20631670 3C8637BD
+D10DAFC8 10800000
+20631670 42000000
+
+// Never Miss A Shot [Hold L]
+Author = libretro-database contributors / original PSP cheat authors
+20407568 3BA3D70A
+D10DAFC8 10000100
+20407568 47000000
+
+// Steal From Anywhere [Press Square]
+Author = libretro-database contributors / original PSP cheat authors
+2019B778 1000000C
+2019B844 10000066
+2019B854 00000000
+2019B87C 00000000

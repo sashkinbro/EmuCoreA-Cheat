@@ -1,0 +1,31 @@
+# PSP cheat pack
+# Serial: ULUS-10216
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 000256F8
+200256F8 0E3663BE
+2002575C 0E3663BE
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E00263BE 000256F8
+200256F8 00000000
+2002575C 00000000
+
+// Handheld Screen (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+205C5AEC 3FC00000
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+205C5AEC 3FE1E1E2
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+205C5AEC 40638E39
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+205C5AEC 4017B426

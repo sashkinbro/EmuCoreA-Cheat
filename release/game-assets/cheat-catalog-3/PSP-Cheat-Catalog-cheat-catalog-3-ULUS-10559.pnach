@@ -1,0 +1,99 @@
+# PSP cheat pack
+# Serial: ULUS-10559
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 10 Mil WP
+Author = libretro-database contributors / original PSP cheat authors
+203BEA80 00989680
+
+// A Lot Of Exp.
+Author = libretro-database contributors / original PSP cheat authors
+203BEAC8 7F8DCF00
+
+// Body Cond. 100
+Author = libretro-database contributors / original PSP cheat authors
+003BEFA4 00000064
+
+// Body Condition Always 99
+Author = libretro-database contributors / original PSP cheat authors
+003BEFA4 00000063
+
+// Head Cond. 100
+Author = libretro-database contributors / original PSP cheat authors
+003BEBE4 00000064
+
+// Head Condition Always 99
+Author = libretro-database contributors / original PSP cheat authors
+003BEBE4 00000063
+
+// Inf. EN
+Author = libretro-database contributors / original PSP cheat authors
+103C0122 000003E8
+
+// Inf. Points For SynThesizing
+Author = libretro-database contributors / original PSP cheat authors
+005B90E0 00000063
+
+// Inf. Synth Points
+Author = libretro-database contributors / original PSP cheat authors
+005B90E0 00000008
+
+// LA Cond. 100
+Author = libretro-database contributors / original PSP cheat authors
+003BECD4 00000064
+
+// Left Weapon Condition Always 99
+Author = libretro-database contributors / original PSP cheat authors
+003BECD4 00000063
+
+// Legs Cond. 100
+Author = libretro-database contributors / original PSP cheat authors
+003BEEB4 00000064
+
+// Legs Condition Always 99
+Author = libretro-database contributors / original PSP cheat authors
+003BEEB4 00000063
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+203BEA80 05F5E0FF
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+203BEA80 3B9ACA00
+
+// Pouch Slot 1 Hit
+Author = libretro-database contributors / original PSP cheat authors
+203C02A8 00000064
+
+// Pouch Slot 1 HP
+Author = libretro-database contributors / original PSP cheat authors
+203C0290 00000064
+
+// Pouch Slot 1 Lat.
+Author = libretro-database contributors / original PSP cheat authors
+203C02A0 00000064
+
+// Pouch Slot 1 Ldf.
+Author = libretro-database contributors / original PSP cheat authors
+203C02AC 00000064
+
+// Pouch Slot 1 Sat.
+Author = libretro-database contributors / original PSP cheat authors
+203C0298 00000064
+
+// Pouch Slot 1 Sdf.
+Author = libretro-database contributors / original PSP cheat authors
+203C029C 00000064
+
+// Pouch Slot 1 Spd.
+Author = libretro-database contributors / original PSP cheat authors
+203C02A4 00000064
+
+// RA Cond. 100
+Author = libretro-database contributors / original PSP cheat authors
+003BEDC4 00000064
+
+// Right Weapon Condition Always 99
+Author = libretro-database contributors / original PSP cheat authors
+003BEDC4 00000063

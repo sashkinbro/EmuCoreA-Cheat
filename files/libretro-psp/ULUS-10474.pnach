@@ -1,0 +1,44 @@
+# PSP cheat pack
+# Serial: ULUS-10474
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Ball To The Side Of The Head
+Author = libretro-database contributors / original PSP cheat authors
+0078C3D4 433760C1
+
+// Inf. Baskets
+Author = libretro-database contributors / original PSP cheat authors
+207AD784 000F423F
+
+// Max Development Hours
+Author = libretro-database contributors / original PSP cheat authors
+208A0F70 00000063
+
+// Make Most Shots
+Author = libretro-database contributors / original PSP cheat authors
+2016AA54 0E252946
+2016AA58 02002021
+D0000001 10000100
+2016AA54 3C044A00
+2016AA58 44840000
+
+// Max Reward Points
+Author = libretro-database contributors / original PSP cheat authors
+208A0F70 00000063
+208B3A2C 00000063
+
+// Max Scouting Reports
+Author = libretro-database contributors / original PSP cheat authors
+208B3A3C 00000063
+
+// Pass The Ball & She Always Go To The Floor
+Author = libretro-database contributors / original PSP cheat authors
+0078C454 0009EDB0
+
+// Pass The Ball To My colleague & She Always Go To The Floor
+Author = libretro-database contributors / original PSP cheat authors
+0078C454 04B01D30
+
+// Score A basket & The Ball Never Enter
+Author = libretro-database contributors / original PSP cheat authors
+0078C454 404AE730

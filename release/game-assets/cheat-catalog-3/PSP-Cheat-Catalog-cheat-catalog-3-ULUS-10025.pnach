@@ -1,0 +1,197 @@
+# PSP cheat pack
+# Serial: ULUS-10025
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS v3 [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0030000 000555D0
+200555D0 14A00003
+2024A7FC 3C043F80
+2000F380 14800003
+
+// 60 FPS v3
+Author = libretro-database contributors / original PSP cheat authors
+E0020003 000555D0
+200555D0 00000000
+2024A7FC 3C043F00
+E0010100 10441740
+2000F380 14800003
+E0010100 00441740
+2000F380 16200003
+
+// Car LOD Hack
+Author = libretro-database contributors / original PSP cheat authors
+2004095C 00000000
+
+// 2 Million Burnout Points
+Author = libretro-database contributors / original PSP cheat authors
+205F2F64 001E8480
+
+// 2 Million Crash Points
+Author = libretro-database contributors / original PSP cheat authors
+205F2F68 001E8480
+
+// 200 Takedowns
+Author = libretro-database contributors / original PSP cheat authors
+103727FC 000000C8
+1055C418 000000C8
+1055C41C 000000C8
+1055C478 000000C8
+105F39EC 000000C8
+
+// 3000 Total Takedowns
+Author = libretro-database contributors / original PSP cheat authors
+203BFF90 00000BB8
+
+// AI Speed: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20177E4C C60F1444
+
+// AI Speed: Normal (Greatest Hits Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+20178274 C60F1444
+
+// AI Speed: Slow
+Author = libretro-database contributors / original PSP cheat authors
+20177E4C 0A200800
+20002000 3C0808B7
+20002004 8D0826D8
+20002008 11100005
+20002010 3C013F80
+20002014 AE010AB0
+20002020 0A25DF95
+20002024 C60F1444
+
+// AI Speed: Slow (Greatest Hits Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+20178274 0A200800
+20002000 3C0808B7
+20002004 8D0864E8
+20002008 11100005
+20002010 3C013F80
+20002014 AE010AB0
+20002020 0A25E09F
+20002024 C60F1444
+
+// All Cars Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000052
+28BBFDF0 00000001
+DC000000 00000001
+D2000000 00000000
+
+// All Cars Unlocked v2
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000052
+203BFDF0 00000001
+DC000000 00000001
+D2000000 00000000
+
+// All Events Complete
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 000000B5
+28DD2738 00000003
+DC000000 00000001
+D2000000 00000000
+
+// All Events Complete v2
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 000000B5
+205D2738 00000003
+DC000000 00000001
+D2000000 00000000
+
+// Always First
+Author = libretro-database contributors / original PSP cheat authors
+00370EE4 00000007
+
+// Crash: Max Crash Damage
+Author = libretro-database contributors / original PSP cheat authors
+2055C448 3B9AC9FF
+2055CA48 3B9AC9FF
+
+// Disable Timer
+Author = libretro-database contributors / original PSP cheat authors
+2024A18C 00000000
+
+// Disable Timer (Greatest Hits Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+2024A834 00000000
+
+// Enable Timer
+Author = libretro-database contributors / original PSP cheat authors
+2024A18C 24A50001
+
+// Enable Timer (Greatest Hits Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+2024A834 24A50001
+
+// Infinite Boost v2
+Author = libretro-database contributors / original PSP cheat authors
+2055C4B4 00000003
+D3000000 2055C4B8
+2055C4BC 00000004
+D2000000 00000000
+
+// Infinite Burnout
+Author = libretro-database contributors / original PSP cheat authors
+2055C4B8 44070000
+2055C4BC 44070000
+
+// Max Burnout Points
+Author = libretro-database contributors / original PSP cheat authors
+2055C3FC 3B9AC9FF
+
+// Max Crash Damage
+Author = libretro-database contributors / original PSP cheat authors
+205D23AC 05F5E0FF
+
+// Max Crash Damage (Greatest Hits Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+205E4ABC 05F5E0FF
+
+// Max Damage
+Author = libretro-database contributors / original PSP cheat authors
+205D23AC 3B9AC9FF
+
+// Max Gauge
+Author = libretro-database contributors / original PSP cheat authors
+2055C4B4 00000005
+
+// Max Overall Burnout Points
+Author = libretro-database contributors / original PSP cheat authors
+205D23A8 05F5E0FF
+
+// Max Overall Burnout Points (Greatest Hits Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+205E4AB8 05F5E0FF
+
+// Max Overall Takedowns
+Author = libretro-database contributors / original PSP cheat authors
+205D2520 05F5E0FF
+
+// Max Overall Takedowns (Greatest Hits Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+205E4C30 05F5E0FF
+
+// Max Takedown Streak
+Author = libretro-database contributors / original PSP cheat authors
+2055C5F8 0000270F
+
+// Max Total Takedowns
+Author = libretro-database contributors / original PSP cheat authors
+2055C418 0000270F
+
+// Reset Play Time
+Author = libretro-database contributors / original PSP cheat authors
+205D236C 00000000
+
+// Reset Play Time (Greatest Hits Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+205E4A7C 00000000
+
+// Turbo Bar x4
+Author = libretro-database contributors / original PSP cheat authors
+00372413 00000004
+0055C4B4 00000003
+003723E0 00000004

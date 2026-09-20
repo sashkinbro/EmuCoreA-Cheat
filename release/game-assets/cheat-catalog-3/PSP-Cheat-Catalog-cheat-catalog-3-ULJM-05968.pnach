@@ -1,0 +1,17 @@
+# PSP cheat pack
+# Serial: ULJM-05968
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Menu Open
+Author = libretro-database contributors / original PSP cheat authors
+01743AB0 000000FF
+
+// Music Box Open
+Author = libretro-database contributors / original PSP cheat authors
+81743AEC 00080001
+000000FF 00000000
+
+// Picture Box Open
+Author = libretro-database contributors / original PSP cheat authors
+81743AB7 00310001
+000000FF 00000000

@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULUS-10057
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 999999999 Score
+Author = libretro-database contributors / original PSP cheat authors
+200AC3D4 3B9AC9FF
+
+// Always Enable Pointer
+Author = libretro-database contributors / original PSP cheat authors
+000A5668 00000001
+
+// Always Get 0:00 Clear Time
+Author = libretro-database contributors / original PSP cheat authors
+000AC63C 00000000
+
+// Max Highscore
+Author = libretro-database contributors / original PSP cheat authors
+200AC3D4 0098967F

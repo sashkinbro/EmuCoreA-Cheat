@@ -1,0 +1,109 @@
+# PSP cheat pack
+# Serial: ULJS-00113
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Status 9999999
+Author = libretro-database contributors / original PSP cheat authors
+20170218 0098967F
+20170220 0098967F
+2017021C 0098967F
+20170224 0098967F
+20170228 0098967F
+2017022C 0098967F
+20170230 0098967F
+20170234 0098967F
+20170238 0098967F
+2017023C 0098967F
+
+// BGM
+Author = libretro-database contributors / original PSP cheat authors
+801B2D30 00290001
+00000003 00000000
+
+// Bonus Gauge 9
+Author = libretro-database contributors / original PSP cheat authors
+001B24F6 00000009
+
+// Exp. +100%
+Author = libretro-database contributors / original PSP cheat authors
+8016FF2A 00400348
+10000064 00000000
+
+// Exp. +400%
+Author = libretro-database contributors / original PSP cheat authors
+8016FF2A 00400348
+10000190 00000000
+
+// Exp. +32767%
+Author = libretro-database contributors / original PSP cheat authors
+8016FF2A 00400348
+10007FFF 00000000
+
+// Exp./WM/HL+400%
+Author = libretro-database contributors / original PSP cheat authors
+8016FF2A 00400348
+10000190 00000000
+8016FF2E 00400348
+8016FF28 00400348
+
+// HL +100%
+Author = libretro-database contributors / original PSP cheat authors
+8016FF28 00400348
+10000064 00000000
+
+// HL +400%
+Author = libretro-database contributors / original PSP cheat authors
+8016FF28 00400348
+10000190 00000000
+
+// HL +32767%
+Author = libretro-database contributors / original PSP cheat authors
+8016FF28 00400348
+10007FFF 00000000
+
+// HL Max
+Author = libretro-database contributors / original PSP cheat authors
+2016F340 4E729FFF
+2016F344 00000918
+
+// Item Lv.99
+Author = libretro-database contributors / original PSP cheat authors
+001A8C2A 00000063
+
+// KEITAI Item Status 9999999
+Author = libretro-database contributors / original PSP cheat authors
+201A8BF8 0098967F
+201A8BFC 0098967F
+201A8C00 0098967F
+201A8C04 0098967F
+201A8C08 0098967F
+201A8C0C 0098967F
+201A8C10 0098967F
+201A8C14 0098967F
+
+// SANSEI Max
+Author = libretro-database contributors / original PSP cheat authors
+201CB3D0 0001869F
+
+// Shop Lv.12
+Author = libretro-database contributors / original PSP cheat authors
+001B250C 0000000C
+
+// Steal 100%
+Author = libretro-database contributors / original PSP cheat authors
+2003B604 24010001
+
+// WM +100%
+Author = libretro-database contributors / original PSP cheat authors
+8016FF2E 00400348
+10000064 00000000
+
+// WM +400%
+Author = libretro-database contributors / original PSP cheat authors
+8016FF2E 00400348
+10000190 00000000
+
+// WM +32767%
+Author = libretro-database contributors / original PSP cheat authors
+8016FF2E 00400348
+10007FFF 00000000

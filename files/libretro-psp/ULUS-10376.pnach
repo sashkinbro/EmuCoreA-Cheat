@@ -1,0 +1,122 @@
+# PSP cheat pack
+# Serial: ULUS-10376
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 20 FPS
+Author = libretro-database contributors / original PSP cheat authors
+6044266C 00000003
+00000001 0000028C
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+6044266C 00000002
+00000001 0000028C
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+6044266C 00000001
+00000001 0000028C
+
+// 2 Billion Bounty
+Author = libretro-database contributors / original PSP cheat authors
+20A71200 77359400
+
+// 2 Billion Dollars
+Author = libretro-database contributors / original PSP cheat authors
+20A711F8 77359400
+
+// AI [Disabled]
+Author = libretro-database contributors / original PSP cheat authors
+10257F1C 00000000
+
+// AI [Disabled] v2
+Author = libretro-database contributors / original PSP cheat authors
+20257F1C 00000000
+
+// AI [Enabled]
+Author = libretro-database contributors / original PSP cheat authors
+10257F1C 00000001
+
+// AI [Enabled] v2
+Author = libretro-database contributors / original PSP cheat authors
+20257F1C 00000001
+
+// All Cars Purchased
+Author = libretro-database contributors / original PSP cheat authors
+20A6A578 FFFFFFFF
+20A6A57C 0000FFFF
+
+// Infinite Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+201D096C 00000000
+
+// Infinite SpeedBreaker
+Author = libretro-database contributors / original PSP cheat authors
+202554E8 00000000
+
+// Max Bounty
+Author = libretro-database contributors / original PSP cheat authors
+20A71200 05F5E0FF
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+20A711F8 05F5E0FF
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+20A711F8 000186A0
+
+// Never Busted
+Author = libretro-database contributors / original PSP cheat authors
+200D6500 44806800
+
+// One Hit Takedown
+Author = libretro-database contributors / original PSP cheat authors
+20227E7C 3C05000D
+2026B6B4 E48C0008
+
+// Speed Modifier: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+204590A4 3D488889
+204590A8 3DCCCCCD
+
+// Speed Modifier: Insane
+Author = libretro-database contributors / original PSP cheat authors
+204590A4 3D888889
+204590A8 3DCCCCCD
+
+// Speed Modifier: Normal
+Author = libretro-database contributors / original PSP cheat authors
+204590A4 3C888889
+204590A8 3DCCCCCD
+
+// Speed Modifier: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+204590A4 3D288889
+204590A8 3DCCCCCD
+
+// Speed Modifier: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+204590A4 3C888889
+204590A8 3CCCCCCD
+
+// Speed Modifier: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+204590A4 3C888889
+204590A8 3ACCCCCD
+
+// Total Lap Modifier: 1 Lap
+Author = libretro-database contributors / original PSP cheat authors
+204B21EC 00000001
+
+// Total Lap Modifier: 2 Laps
+Author = libretro-database contributors / original PSP cheat authors
+204B21EC 00000002
+
+// Total Lap Modifier: 3 Laps
+Author = libretro-database contributors / original PSP cheat authors
+204B21EC 00000003
+
+// Total Lap Modifier: 9 Laps
+Author = libretro-database contributors / original PSP cheat authors
+204B21EC 00000009

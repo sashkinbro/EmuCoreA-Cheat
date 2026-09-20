@@ -1,0 +1,48 @@
+# PSP cheat pack
+# Serial: ULJM-05902
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Kinsen 9999
+Author = libretro-database contributors / original PSP cheat authors
+1141C304 0000270F
+
+// Nagoya Jo 99999
+Author = libretro-database contributors / original PSP cheat authors
+21418D6C 0001869F
+21418D70 0001869F
+21418D74 0001869F
+21418D78 0001869F
+1144CA06 0000270F
+1144CA08 0000270F
+1144CA0C 0000270F
+1144CA0E 0000270F
+
+// Nobunaga Seiji
+Author = libretro-database contributors / original PSP cheat authors
+0139C420 000000FF
+0139C444 000000FF
+
+// Nobunaga Tiryaku
+Author = libretro-database contributors / original PSP cheat authors
+0139C424 000000FF
+0139C446 000000FF
+
+// Nobunaga Tousotu
+Author = libretro-database contributors / original PSP cheat authors
+0139C422 000000FF
+0139C445 000000FF
+
+// Oda Nobuhide 5000
+Author = libretro-database contributors / original PSP cheat authors
+1139C37C 00001388
+0139C380 00000064
+
+// Oda Nobunaga 9500
+Author = libretro-database contributors / original PSP cheat authors
+1139C418 0000251C
+0139C41C 00000064
+
+// Sibata Katuie 5000
+Author = libretro-database contributors / original PSP cheat authors
+1139CFAC 00001388
+0139CFB0 00000064

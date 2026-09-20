@@ -1,0 +1,20 @@
+# PSP cheat pack
+# Serial: ULJS-00241
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1P HP Max
+Author = libretro-database contributors / original PSP cheat authors
+2132DB64 42C80000
+
+// 1P MP Max
+Author = libretro-database contributors / original PSP cheat authors
+2132DB6C 42C80000
+
+// Battle Time Max
+Author = libretro-database contributors / original PSP cheat authors
+1132B790 00002AFF
+
+// Get Fragment
+Author = libretro-database contributors / original PSP cheat authors
+8013891C 000A0004
+10000001 00000000

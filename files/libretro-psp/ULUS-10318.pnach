@@ -1,0 +1,82 @@
+# PSP cheat pack
+# Serial: ULUS-10318
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Savedata Loading Workaround
+Author = libretro-database contributors / original PSP cheat authors
+E00351D4 00355F0C
+20355F0C 00001021
+20355F24 00001021
+20356000 00000000
+
+// Savedata Loading Workaround [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0031021 00355F0C
+20355F0C 0E2E51D4
+20355F24 0E2E51E2
+20356000 0441FFB3
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+206BAE84 3C888888
+
+// Max Token
+Author = libretro-database contributors / original PSP cheat authors
+107DFAC4 000001F4
+
+// Max Tokens v2
+Author = libretro-database contributors / original PSP cheat authors
+207DFAC4 0000270F
+
+// P1: - Infinite Energy
+Author = libretro-database contributors / original PSP cheat authors
+207DFBA4 43140000
+
+// P1: - Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+6062AF54 432F0000
+00020000 00000528
+
+// P1: - Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+207DFBC0 43140000
+
+// P1: - Infinite Special
+Author = libretro-database contributors / original PSP cheat authors
+6062AF54 43160000
+00020000 00000A10
+
+// P2: - Infinite Energy
+Author = libretro-database contributors / original PSP cheat authors
+207DFBA4 43140000
+
+// P2: - Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+6062AF54 432F0000
+00020000 00011138
+
+// P2: - Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+207DFBC0 43140000
+
+// P2: - Infinite Special
+Author = libretro-database contributors / original PSP cheat authors
+6062AF54 43160000
+00020000 00011620
+
+// Unlock All Sidekicks
+Author = libretro-database contributors / original PSP cheat authors
+207DFA54 0860726E
+
+// Unlock Entire Web Shop
+Author = libretro-database contributors / original PSP cheat authors
+207DFC14 00000005
+207DFC30 00000005
+207DFC4C 00000003
+207DFC68 00000003
+207DFC84 00000BFF
+207DFCA0 00000BFF
+
+// Unlock Map Navigation
+Author = libretro-database contributors / original PSP cheat authors
+207DFA8C 00000001

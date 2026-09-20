@@ -1,0 +1,54 @@
+# PSP cheat pack
+# Serial: ULUS-10486
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Handheld Screen (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+20419C78 3FB851EC
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+20419C78 3FD851EC
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+20419C78 405AE148
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+20419C78 401851EC
+
+// Increase Damage
+Author = libretro-database contributors / original PSP cheat authors
+217FEC08 00000000
+217FEC08 47A28000
+00020000 0000285C
+
+// Increase Damage v3
+Author = libretro-database contributors / original PSP cheat authors
+217FEC08 47A28000
+00020001 0000285C
+
+// Decrease Damage
+Author = libretro-database contributors / original PSP cheat authors
+217FEC08 00000000
+00002860 47A28000
+D2000000 00000000
+
+// Decrease Damage v2
+Author = libretro-database contributors / original PSP cheat authors
+217FEC08 47A28000
+00020000 00002860
+
+// Decrease Damage v3
+Author = libretro-database contributors / original PSP cheat authors
+217FEC08 47A28000
+00020001 00002860
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+207B99D0 000DBBA0
+
+// Max Money v2
+Author = libretro-database contributors / original PSP cheat authors
+216A2A14 000DBBA0

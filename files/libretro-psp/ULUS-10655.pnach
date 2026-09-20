@@ -1,0 +1,123 @@
+# PSP cheat pack
+# Serial: ULUS-10655
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Fame Points
+Author = libretro-database contributors / original PSP cheat authors
+20659B88 00000000
+00000008 0000270F
+D2000000 00000000
+
+// Fame Points v2
+Author = libretro-database contributors / original PSP cheat authors
+20659B88 0000270F
+00002000 00000008
+
+// Fame Points v3
+Author = libretro-database contributors / original PSP cheat authors
+20659B88 0000270F
+00002001 00000008
+
+// Goals Home
+Author = libretro-database contributors / original PSP cheat authors
+206FEA90 0000012C
+
+// Goals Away
+Author = libretro-database contributors / original PSP cheat authors
+20705F8C 00000024
+
+// Inf. Money Store
+Author = libretro-database contributors / original PSP cheat authors
+206BCCF8 00100005
+
+// Inf. Points
+Author = libretro-database contributors / original PSP cheat authors
+206F75C0 0000103D
+
+// Inf. Time
+Author = libretro-database contributors / original PSP cheat authors
+206F72C0 00000068
+
+// Keeper Powershot
+Author = libretro-database contributors / original PSP cheat authors
+006305A2 00000095
+
+// Keeper Powershot v2
+Author = libretro-database contributors / original PSP cheat authors
+00630747 0000003E
+
+// Moves
+Author = libretro-database contributors / original PSP cheat authors
+006D3437 00000077
+
+// Moves v2
+Author = libretro-database contributors / original PSP cheat authors
+006D343B 00000000
+
+// Moves v3
+Author = libretro-database contributors / original PSP cheat authors
+006D343F 00000000
+
+// Name (Player ST)
+Author = libretro-database contributors / original PSP cheat authors
+206E6DDB 2E184F4A
+206E6DDC 00004F41
+206E6DDC 00000000
+
+// No Display
+Author = libretro-database contributors / original PSP cheat authors
+0071537C 00000000
+
+// Penalty
+Author = libretro-database contributors / original PSP cheat authors
+20708BC4 00000005
+
+// Player Level
+Author = libretro-database contributors / original PSP cheat authors
+2065B2A4 00000000
+00000280 0000270F
+D2000000 00000000
+
+// Player Level v2
+Author = libretro-database contributors / original PSP cheat authors
+2065B2A4 0000270F
+00002000 00000280
+
+// Player Level v3
+Author = libretro-database contributors / original PSP cheat authors
+2065B2A4 0000270F
+00002001 00000280
+
+// Powershot
+Author = libretro-database contributors / original PSP cheat authors
+0067DDE0 00000039
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20749790 0000719C
+
+// Time Out
+Author = libretro-database contributors / original PSP cheat authors
+206F72C0 00000268
+
+// Unlock Store
+Author = libretro-database contributors / original PSP cheat authors
+206BCCFC 0000005F
+208F0A00 0000005F
+
+// XP Earned
+Author = libretro-database contributors / original PSP cheat authors
+68E5B2A4 00000000
+B8E5B2A4 00000000
+000002AC 0000270F
+D2000000 00000000
+
+// XP Earned v2
+Author = libretro-database contributors / original PSP cheat authors
+2065B2A4 0000270F
+00002000 000002AC
+
+// XP Earned v3
+Author = libretro-database contributors / original PSP cheat authors
+2065B2A4 0000270F
+00002001 000002AC

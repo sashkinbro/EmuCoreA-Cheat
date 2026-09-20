@@ -1,0 +1,66 @@
+# PSP cheat pack
+# Serial: ULJS-00350
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Blade Atk. Max
+Author = libretro-database contributors / original PSP cheat authors
+1030EF86 0000270F
+1030EF88 0000270F
+1030EF8A 0000270F
+1035CA34 0000270F
+1035CA36 0000270F
+1035CA38 0000270F
+
+// Composition Item Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+D0474814 00008021
+20474814 34100000
+
+// Composition Material Unnecessary
+Author = libretro-database contributors / original PSP cheat authors
+D0474814 00008021
+20474814 34100063
+
+// Composition No Limit
+Author = libretro-database contributors / original PSP cheat authors
+D00F3FEA 00001060
+200F3FE8 1000000C
+
+// Gun Atk. Max
+Author = libretro-database contributors / original PSP cheat authors
+1030EED4 0000270F
+1030EED6 0000270F
+1030EED8 0000270F
+1030EEDA 0000270F
+1030EEDC 0000270F
+1030EEDE 0000270F
+1035CA82 0000270F
+1035CA84 0000270F
+1035CA86 0000270F
+1035CA88 0000270F
+1035CA8A 0000270F
+1035CA8C 0000270F
+
+// Healthy Max
+Author = libretro-database contributors / original PSP cheat authors
+2030E3C8 43160000
+2030E3D4 43160000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20318230 3B9AC9FF
+
+// OP Max
+Author = libretro-database contributors / original PSP cheat authors
+2030E3D8 43160000
+2030E3CC 43160000
+
+// Preying Inf.
+Author = libretro-database contributors / original PSP cheat authors
+D0139438 000001B0
+20139438 34060000
+
+// ST Max
+Author = libretro-database contributors / original PSP cheat authors
+2030E7D0 43160000
+2030E7DC 43160000

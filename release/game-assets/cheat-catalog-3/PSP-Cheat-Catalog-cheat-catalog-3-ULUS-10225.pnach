@@ -1,0 +1,128 @@
+# PSP cheat pack
+# Serial: ULUS-10225
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 150 Blue Mana
+Author = libretro-database contributors / original PSP cheat authors
+10C00420 00000096
+10C00468 00000096
+
+// 150 Green Mana
+Author = libretro-database contributors / original PSP cheat authors
+10C00414 00000096
+10C0045C 00000096
+
+// 150 Red Mana
+Author = libretro-database contributors / original PSP cheat authors
+10C00418 00000096
+10C00460 00000096
+
+// 150 Yellow Mana
+Author = libretro-database contributors / original PSP cheat authors
+10C0041C 00000096
+10C00464 00000096
+
+// 300 Hit Points
+Author = libretro-database contributors / original PSP cheat authors
+00C00528 0000012C
+00C004E0 0000012C
+
+// 34552 Exp.
+Author = libretro-database contributors / original PSP cheat authors
+10C0040C 0001869F
+10C00454 0001869F
+
+// 34552 Gold
+Author = libretro-database contributors / original PSP cheat authors
+10C00424 0001869F
+10C0047C 0001869F
+
+// Anvils For Item Creation
+Author = libretro-database contributors / original PSP cheat authors
+00241B4C 0000000F
+
+// Inf. Gold
+Author = libretro-database contributors / original PSP cheat authors
+20C7E30C 000015B3
+
+// Inf. Gold [9M]
+Author = libretro-database contributors / original PSP cheat authors
+20BF8CBC 0098967F
+20C008AC 0098967F
+20C61FDC 0098967F
+20C01CB4 0098967F
+20C01D0C 0098967F
+20C831FC 0098967F
+20C0039C 0098967F
+20C0037C 0098967F
+20C8485C 0098967F
+20C84BAC 0098967F
+211CD3FC 0098967F
+
+// Infinite Blue Mana
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00AC9C10
+00000E48 00000020
+
+// Infinite Blue Mana v2
+Author = libretro-database contributors / original PSP cheat authors
+60AC9C10 00000020
+00020001 00000E48
+
+// Infinite Exp.
+Author = libretro-database contributors / original PSP cheat authors
+10BFFCB4 0001869F
+
+// Infinite Gold Coins
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00AC9C18
+00000EDC 00010000
+
+// Infinite Gold Coins v2
+Author = libretro-database contributors / original PSP cheat authors
+60AC9C18 00010000
+00020001 00000EDC
+
+// Infinite Green Mana
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00AC9C10
+00000E3C 00000020
+
+// Infinite Green Mana v2
+Author = libretro-database contributors / original PSP cheat authors
+60AC9C10 00000020
+00020001 00000E3C
+
+// Infinite Red Mana
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00AC9C10
+00000E40 00000020
+
+// Infinite Red Mana v2
+Author = libretro-database contributors / original PSP cheat authors
+60AC9C10 00000020
+00020001 00000E40
+
+// Infinite Yellow Mana
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00AC9C10
+00000E44 00000020
+
+// Infinite Yellow Mana v2
+Author = libretro-database contributors / original PSP cheat authors
+60AC9C10 00000020
+00020001 00000E44
+
+// Instant Win
+Author = libretro-database contributors / original PSP cheat authors
+20C0BD44 00000000
+
+// Max HP/No Death
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00AC9C10
+00000E38 0000012C
+
+// Max HP/No Death v2
+Author = libretro-database contributors / original PSP cheat authors
+60AC9C10 0000012C
+00020001 00000E38

@@ -1,0 +1,96 @@
+# PSP cheat pack
+# Serial: ULUS-10360
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// KOF. Chanllenges 1st Player Health
+Author = libretro-database contributors / original PSP cheat authors
+2072CD48 00000067
+
+// KOF. Chanllenges Unlimited Time
+Author = libretro-database contributors / original PSP cheat authors
+2072F348 99070056
+
+// KOF.94: 1st Player Health
+Author = libretro-database contributors / original PSP cheat authors
+206B9830 00CF00CF
+
+// KOF.94: 2nd Player Health
+Author = libretro-database contributors / original PSP cheat authors
+206B9A30 00000003
+
+// KOF.94: Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+E001668E 0120EDEE
+1120EDEE 00004E71
+
+// KOF.94: Unlimited Time
+Author = libretro-database contributors / original PSP cheat authors
+206B9E3C 60290001
+
+// KOF.95: 1st Player Health
+Author = libretro-database contributors / original PSP cheat authors
+20F4D640 00000067
+
+// KOF.95: 2nd Player Health
+Author = libretro-database contributors / original PSP cheat authors
+20F4D840 00000003
+
+// KOF.95: Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+E00166BE 00CFE5E0
+10CFE5E0 00004E71
+
+// KOF.95: Unlimited Time
+Author = libretro-database contributors / original PSP cheat authors
+20F4FC54 601C0000
+
+// KOF.96: 1st Player Health
+Author = libretro-database contributors / original PSP cheat authors
+21047958 00000067
+
+// KOF.96: 2nd Player Health
+Author = libretro-database contributors / original PSP cheat authors
+21047B58 00000003
+
+// KOF.96: Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+E0016600 00CF8B50
+10CF8B50 00006002
+
+// KOF.96: Unlimited Time
+Author = libretro-database contributors / original PSP cheat authors
+21049F54 601C0000
+
+// KOF.97: 1st Player Health
+Author = libretro-database contributors / original PSP cheat authors
+21343AD8 00000067
+
+// KOF.97: 2nd Player Health
+Author = libretro-database contributors / original PSP cheat authors
+21343CD8 00000003
+
+// KOF.97: Unlimited Time
+Author = libretro-database contributors / original PSP cheat authors
+213470D8 601C0000
+
+// KOF.97: Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+E0016600 00DF730E
+10DF730E 00006002
+
+// KOF.98: 1st Player Health
+Author = libretro-database contributors / original PSP cheat authors
+20725C88 00000067
+
+// KOF.98: 2nd Player Health
+Author = libretro-database contributors / original PSP cheat authors
+20725E88 00000003
+
+// KOF.98: Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+E0016600 00BA5314
+10BA5314 00006002
+
+// KOF.98: Unlimited Time
+Author = libretro-database contributors / original PSP cheat authors
+20728288 601C0000

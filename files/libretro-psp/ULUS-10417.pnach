@@ -1,0 +1,223 @@
+# PSP cheat pack
+# Serial: ULUS-10417
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 20 AP Alina
+Author = libretro-database contributors / original PSP cheat authors
+00417DA6 00000014
+
+// 20 AP Cat
+Author = libretro-database contributors / original PSP cheat authors
+00418276 00000014
+
+// 20 AP Finn
+Author = libretro-database contributors / original PSP cheat authors
+10417B3E 00000014
+
+// 20 AP Gifford
+Author = libretro-database contributors / original PSP cheat authors
+0041800E 00000014
+
+// 34464 Casino Coins
+Author = libretro-database contributors / original PSP cheat authors
+0041A558 00186A00
+
+// 99 Bladeshards
+Author = libretro-database contributors / original PSP cheat authors
+20417AB4 00000063
+
+// 99 Darkshards
+Author = libretro-database contributors / original PSP cheat authors
+20417AA8 00000063
+
+// 99 Earthshards
+Author = libretro-database contributors / original PSP cheat authors
+20417ACC 00000063
+
+// 99 Fireshards
+Author = libretro-database contributors / original PSP cheat authors
+00417A84 00000063
+
+// 99 Iceshards
+Author = libretro-database contributors / original PSP cheat authors
+20417A90 00000063
+
+// 99 Lightshards
+Author = libretro-database contributors / original PSP cheat authors
+20417A8C 00000063
+
+// 99 Loveshards
+Author = libretro-database contributors / original PSP cheat authors
+20417AC0 00000063
+
+// 99 Mindshards
+Author = libretro-database contributors / original PSP cheat authors
+20417AFC 00000063
+
+// 99 Powershards
+Author = libretro-database contributors / original PSP cheat authors
+20417AE4 00000063
+
+// 99 Timeshards
+Author = libretro-database contributors / original PSP cheat authors
+20417AF0 00000063
+
+// 99 Windshards
+Author = libretro-database contributors / original PSP cheat authors
+20417AD8 00000063
+
+// 999 HP Alina
+Author = libretro-database contributors / original PSP cheat authors
+00417D8C 000003E7
+
+// 999 HP Cat
+Author = libretro-database contributors / original PSP cheat authors
+10418276 000003E7
+
+// 999 HP Finn
+Author = libretro-database contributors / original PSP cheat authors
+10417B24 000003E7
+
+// 999 HP Gifford
+Author = libretro-database contributors / original PSP cheat authors
+10417FF4 000003E7
+
+// 10,000,000 Gold
+Author = libretro-database contributors / original PSP cheat authors
+2041A554 00989680
+
+// 999,999,999 Gold
+Author = libretro-database contributors / original PSP cheat authors
+2041A554 3B9AC9FF
+
+// All Magic Crystal 255
+Author = libretro-database contributors / original PSP cheat authors
+80417A84 000B000C
+000000FF 00000000
+
+// AP Alina
+Author = libretro-database contributors / original PSP cheat authors
+10417DA6 00000014
+
+// AP Finn
+Author = libretro-database contributors / original PSP cheat authors
+10417B3E 00000014
+
+// AP Full / Clear (L Switch)
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000100
+D0000FF0 00000000
+10000FF0 00000001
+D0000FF0 00000002
+10000FF0 00000003
+D0000003 30000100
+D0000FF0 00000001
+10000FF0 00000002
+D0000FF0 00000003
+10000FF0 00000000
+2006E52C 24020014
+2006E52C 24020000
+
+// AP Garron
+Author = libretro-database contributors / original PSP cheat authors
+1041800E 00000014
+
+// Coins (Casino Event)
+Author = libretro-database contributors / original PSP cheat authors
+1041A558 000186A0
+
+// Fast Movement
+Author = libretro-database contributors / original PSP cheat authors
+002FD0C0 000000F5
+
+// Full Armor Guide
+Author = libretro-database contributors / original PSP cheat authors
+8041A429 01290001
+00000002 00000000
+
+// Full Bestiary Monster Guide
+Author = libretro-database contributors / original PSP cheat authors
+8041A2B0 00270001
+10000202 00000000
+
+// Full Magic Crystal Guide
+Author = libretro-database contributors / original PSP cheat authors
+8041A185 00320006
+00000002 00000000
+
+// Full Shard Guide
+Author = libretro-database contributors / original PSP cheat authors
+8041A185 00320006
+00000002 00000000
+
+// Full Weapons Guide
+Author = libretro-database contributors / original PSP cheat authors
+8041A3CE 005B0001
+00000002 00000000
+
+// Game Time 0
+Author = libretro-database contributors / original PSP cheat authors
+20333034 00000000
+
+// HP Alina
+Author = libretro-database contributors / original PSP cheat authors
+10417D8C 000003E7
+10417D8E 000003E7
+
+// HP Finn
+Author = libretro-database contributors / original PSP cheat authors
+10417B24 000003E7
+10417B26 000003E7
+
+// HP Garron
+Author = libretro-database contributors / original PSP cheat authors
+10417FF4 000003E7
+10417FF6 000003E7
+
+// Inf. AP Player 1
+Author = libretro-database contributors / original PSP cheat authors
+10417B3E 00000014
+
+// Inf. HP Player 1
+Author = libretro-database contributors / original PSP cheat authors
+10417B24 00000064
+
+// Infinite AP
+Author = libretro-database contributors / original PSP cheat authors
+20417B3E 00000014
+20417DA6 00000014
+2041800E 00000014
+20418276 00000014
+
+// Lv.99 Alina
+Author = libretro-database contributors / original PSP cheat authors
+10417D80 00000063
+
+// Lv.99 Finn
+Author = libretro-database contributors / original PSP cheat authors
+10417B18 00000063
+
+// Lv.99 Garron
+Author = libretro-database contributors / original PSP cheat authors
+10417FE8 00000063
+
+// Max Current Party HP
+Author = libretro-database contributors / original PSP cheat authors
+20417B24 000003E7
+20417D8C 000003E7
+20417FF4 000003E7
+2041825C 000003E7
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+2041A554 0098967F
+
+// Shards
+Author = libretro-database contributors / original PSP cheat authors
+00417A84 00000063
+00417A90 00000063
+00417A9C 00000063
+00417AB4 00000063
+00417AC0 00000063
+00417ACC 00000063
+00417AD8 00000063

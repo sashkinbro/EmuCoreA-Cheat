@@ -1,0 +1,20 @@
+# PSP cheat pack
+# Serial: ULJS-00395
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Gallary Open
+Author = libretro-database contributors / original PSP cheat authors
+802C8AC0 000F0001
+000000FF 00000000
+802C8AD0 00030001
+802C9EB6 00020001
+
+// Memory Open
+Author = libretro-database contributors / original PSP cheat authors
+802C9D7F 00330001
+000000FF 00000000
+
+// Profile Open
+Author = libretro-database contributors / original PSP cheat authors
+802C9EB0 00060001
+000000FF 00000000

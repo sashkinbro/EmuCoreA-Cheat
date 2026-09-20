@@ -1,0 +1,22 @@
+# PSP cheat pack
+# Serial: ULJS-00468
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Exp. Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2001DE04 00000000
+D0000001 10000020
+2001D690 30E70000
+2001D744 A4A60C8C
+D0000001 10000080
+2001D690 30E7FFFF
+2001D744 00000000
+
+// GP Max
+Author = libretro-database contributors / original PSP cheat authors
+2002F2D8 00000000
+
+// Once In The Item Of Lv20
+Author = libretro-database contributors / original PSP cheat authors
+4002B854 0005007E
+1400000C 00000000

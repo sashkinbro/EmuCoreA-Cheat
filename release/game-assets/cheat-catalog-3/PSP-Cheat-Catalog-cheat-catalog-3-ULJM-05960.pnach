@@ -1,0 +1,39 @@
+# PSP cheat pack
+# Serial: ULJM-05960
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// BGM Open
+Author = libretro-database contributors / original PSP cheat authors
+81663AC6 00020001
+000000FF 00000000
+
+// CG
+Author = libretro-database contributors / original PSP cheat authors
+81663AD4 00280001
+00000011 00000000
+
+// CG Open
+Author = libretro-database contributors / original PSP cheat authors
+81663AD4 00280001
+00000011 00000000
+
+// Character Open
+Author = libretro-database contributors / original PSP cheat authors
+81663ACA 00020001
+000000FF 00000000
+
+// Music
+Author = libretro-database contributors / original PSP cheat authors
+01663AC6 000000FF
+01663AC7 000000FF
+01663AC8 000000FF
+
+// People Read Full
+Author = libretro-database contributors / original PSP cheat authors
+01663ACA 000000FF
+01663ACB 000000FF
+01663ACC 000000FF
+
+// Red BIBLE Caobuzengjia
+Author = libretro-database contributors / original PSP cheat authors
+00456824 00000000

@@ -1,0 +1,142 @@
+# PSP cheat pack
+# Serial: ULUS-10419
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+200313D0 00000000
+203D20E4 0000003C
+
+// 60 FPS [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200313D0 14A0FFF1
+203D20E4 0000001E
+
+// Bamboo Water
+Author = libretro-database contributors / original PSP cheat authors
+60A5FE44 0000000A
+00020001 000001F4
+
+// Constant Coloured Rice Effect
+Author = libretro-database contributors / original PSP cheat authors
+C01E71C4 00000000
+
+// Constant Super Speed
+Author = libretro-database contributors / original PSP cheat authors
+C00446CC 57E0000E
+
+// Fire Escape
+Author = libretro-database contributors / original PSP cheat authors
+C01BE17C 10000003
+
+// Ghost Maker
+Author = libretro-database contributors / original PSP cheat authors
+60A5FE44 0000000A
+00020001 00000218
+
+// Health (After A Block It's Your Turn)
+Author = libretro-database contributors / original PSP cheat authors
+605D585C 42C80000
+00020001 00000B24
+
+// Hitsatsu Them If You Touch Them
+Author = libretro-database contributors / original PSP cheat authors
+C0194B1C 17E00147
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+C01C9B08 00000000
+
+// Infinite Escapes (Rikimaru)
+Author = libretro-database contributors / original PSP cheat authors
+008A2DD0 00000001
+
+// Invisible
+Author = libretro-database contributors / original PSP cheat authors
+20082374 0E200400
+20001000 8C850B04
+20001004 3C011000
+20001008 00A12825
+2000100C 03E00008
+20001010 AC850B04
+
+// Kasugai
+Author = libretro-database contributors / original PSP cheat authors
+60A5FE44 0000000A
+00020001 00000200
+
+// Kunai
+Author = libretro-database contributors / original PSP cheat authors
+60A5FE44 0000000A
+00020001 000001E8
+
+// Max Bamboo Water
+Author = libretro-database contributors / original PSP cheat authors
+00AD26C4 0000000A
+
+// Max Kunai
+Author = libretro-database contributors / original PSP cheat authors
+10AD2694 0000000A
+
+// Max Ninjato (Sword)
+Author = libretro-database contributors / original PSP cheat authors
+00AD26A0 0000000A
+
+// Max Shurikans
+Author = libretro-database contributors / original PSP cheat authors
+00AD2694 0000000A
+
+// Never Die From Fire
+Author = libretro-database contributors / original PSP cheat authors
+C0044750 10000007
+
+// Ninjato Sword
+Author = libretro-database contributors / original PSP cheat authors
+60A5FE44 0000000A
+00020001 000001D0
+
+// Ninjutsu
+Author = libretro-database contributors / original PSP cheat authors
+607B6204 00000001
+00020001 0071E538
+
+// Rock's
+Author = libretro-database contributors / original PSP cheat authors
+60A5FE44 0000000A
+00020001 000001DC
+
+// Shinobi Cat
+Author = libretro-database contributors / original PSP cheat authors
+60A5FE44 0000000A
+00020001 0000023C
+
+// Shuriken
+Author = libretro-database contributors / original PSP cheat authors
+60A5FE44 0000000A
+00020001 000001C4
+
+// Smoke Bomb
+Author = libretro-database contributors / original PSP cheat authors
+60A5FE44 0000000A
+00020001 0000020C
+
+// Stop Time
+Author = libretro-database contributors / original PSP cheat authors
+C01AB808 00000000
+
+// Stop Time v2
+Author = libretro-database contributors / original PSP cheat authors
+201AB808 00000000
+
+// Unbreakable Sword
+Author = libretro-database contributors / original PSP cheat authors
+C01C56D4 10000006
+
+// Won't Be Spotted By Enemies
+Author = libretro-database contributors / original PSP cheat authors
+C0082374 0E200400
+20001000 8C850B04
+20001004 3C011000
+20001008 00A12825
+2000100C 03E00008
+20001010 AC850B04

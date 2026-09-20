@@ -1,0 +1,24 @@
+# PSP cheat pack
+# Serial: ULJM-05914
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CG Open
+Author = libretro-database contributors / original PSP cheat authors
+8042F2B9 00A40001
+00000001 00000000
+
+// Event Open
+Author = libretro-database contributors / original PSP cheat authors
+8042334A 00650002
+00000001 00000000
+
+// Movie & Music Open
+Author = libretro-database contributors / original PSP cheat authors
+8042F4C0 00080001
+00000001 00000000
+00423330 00000001
+
+// Voice & OMIKUGI Open
+Author = libretro-database contributors / original PSP cheat authors
+80423332 00080002
+00000001 00000000

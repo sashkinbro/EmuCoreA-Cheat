@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: ULUS-10459
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Skybox Fix
+Author = libretro-database contributors / original PSP cheat authors
+E0012202 0011AC30
+2011AC30 3C040047
+
+// Skybox Fix [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010047 0011AC30
+2011AC30 00042202
+
+// Infinite Energy Units
+Author = libretro-database contributors / original PSP cheat authors
+28A9DAA8 0000000A
+28A9EB2A 0000000A
+
+// Infinite Energy Units v2
+Author = libretro-database contributors / original PSP cheat authors
+2029DAA8 0000000A
+2029EB2A 0000000A

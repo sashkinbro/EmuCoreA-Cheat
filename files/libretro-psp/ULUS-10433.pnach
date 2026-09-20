@@ -1,0 +1,93 @@
+# PSP cheat pack
+# Serial: ULUS-10433
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Freeze Enemy'S
+Author = libretro-database contributors / original PSP cheat authors
+0013606C 00000000
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+200F6360 03E00008
+
+// Inf. Lives [Lvl. 1&2]
+Author = libretro-database contributors / original PSP cheat authors
+011E4F88 00000099
+01276398 00000099
+
+// Inf. Special Bullets [Lvl. 1&2]
+Author = libretro-database contributors / original PSP cheat authors
+0161495E 00000003
+015F87DE 00000003
+
+// Infinite Energy
+Author = libretro-database contributors / original PSP cheat authors
+617A3C18 447A0000
+00020001 00000500
+
+// Infinite Energy v2
+Author = libretro-database contributors / original PSP cheat authors
+207A3C18 00000000
+00000500 461C4000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+617A3C14 44FA0000
+00020001 000001C8
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+207A3C14 00000000
+000001C8 461C4000
+
+// Matrix Mode
+Author = libretro-database contributors / original PSP cheat authors
+2023D8DC 03E00008
+
+// Matrix Mode [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2023D8DC 27BDFF90
+
+// Pause In Air Projectiles
+Author = libretro-database contributors / original PSP cheat authors
+201BB06C 03E00008
+
+// Shoot Through Enemy'S
+Author = libretro-database contributors / original PSP cheat authors
+200F8B20 10800015
+
+// Speed Modifier: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20414E48 00000000
+0000004C 40800000
+
+// Speed Modifier: Much Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20414E48 00000000
+0000004C 40000000
+
+// Speed Modifier: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20414E48 00000000
+0000004C 3F800000
+
+// Speed Modifier: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20414E48 00000000
+0000004C 3FC00000
+
+// Speed Modifier: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20414E48 00000000
+0000004C 3EC00000
+
+// Unlock All Missions
+Author = libretro-database contributors / original PSP cheat authors
+404DD6AC 00130001
+FFFFFFFF 00000000
+204DD744 FFFFFFFF
+
+// Unlock All Missions v2
+Author = libretro-database contributors / original PSP cheat authors
+204DD6AC FFFFFFFF
+204DD744 FFFFFFFF

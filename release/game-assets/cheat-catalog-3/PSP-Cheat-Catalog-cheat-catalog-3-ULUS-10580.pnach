@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: ULUS-10580
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Insane Real Coin Boost
+Author = libretro-database contributors / original PSP cheat authors
+2041AF28 3B9AC9FF
+
+// Max Lives
+Author = libretro-database contributors / original PSP cheat authors
+202E9D38 00000204

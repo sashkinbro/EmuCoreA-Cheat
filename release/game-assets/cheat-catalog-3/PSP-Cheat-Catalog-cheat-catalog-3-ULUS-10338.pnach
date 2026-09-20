@@ -1,0 +1,60 @@
+# PSP cheat pack
+# Serial: ULUS-10338
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// KOF.94 1P Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+013DB9C0 000000CF
+
+// KOF.94 1P Infinite Power
+Author = libretro-database contributors / original PSP cheat authors
+013DB9B8 0000007F
+
+// KOF.94 1P Psycho Mode
+Author = libretro-database contributors / original PSP cheat authors
+013DB917 00000000
+013DB916 00000000
+
+// KOF.94 Stop Timer
+Author = libretro-database contributors / original PSP cheat authors
+013DBFCE 000000FF
+
+// KOF.94 System Debug Dip Switch
+Author = libretro-database contributors / original PSP cheat authors
+013D37A1 000000FF
+013D37A0 000000FF
+
+// KOF.94: Credits For Home
+Author = libretro-database contributors / original PSP cheat authors
+013DBFAB 00000094
+013DBFAA 00000094
+
+// KOF.94: Play Home Mode
+Author = libretro-database contributors / original PSP cheat authors
+013E3523 00000000
+
+// Last Resort Inf. Live
+Author = libretro-database contributors / original PSP cheat authors
+00A72D51 0000000A
+
+// S.TROOPERS 1P Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+01271ADA 000000C8
+
+// S.TROOPERS 1P Full HP
+Author = libretro-database contributors / original PSP cheat authors
+01268ED4 00000080
+
+// S.TROOPERS 1P Inf. Bombs
+Author = libretro-database contributors / original PSP cheat authors
+01271AE2 00000063
+01271AE6 00000063
+01271AEA 00000063
+
+// S.TROOPERS 1P Invincible
+Author = libretro-database contributors / original PSP cheat authors
+01268E46 000000FF
+
+// S.TROOPERS Time 99
+Author = libretro-database contributors / original PSP cheat authors
+01271A20 00000099

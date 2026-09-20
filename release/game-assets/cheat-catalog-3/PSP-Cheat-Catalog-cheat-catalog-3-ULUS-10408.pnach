@@ -1,0 +1,253 @@
+# PSP cheat pack
+# Serial: ULUS-10408
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2001C238 0E26C5AB
+
+// 65535 Gold
+Author = libretro-database contributors / original PSP cheat authors
+101C6E80 0000FFFF
+106D13A8 0000FFFF
+
+// Bear Hug
+Author = libretro-database contributors / original PSP cheat authors
+006AD470 00000063
+
+// Bomb Ice
+Author = libretro-database contributors / original PSP cheat authors
+006AD38F 00000063
+
+// Burdok Straight x99
+Author = libretro-database contributors / original PSP cheat authors
+006AD2EB 00000063
+
+// Complete Book Of Accessories
+Author = libretro-database contributors / original PSP cheat authors
+806AD69A 002D0001
+00000077 00000000
+
+// Complete Book Of Armors
+Author = libretro-database contributors / original PSP cheat authors
+806AD65D 003D0001
+00000077 00000000
+
+// Complete Book Of Items
+Author = libretro-database contributors / original PSP cheat authors
+806AD5E0 00370001
+00000077 00000000
+
+// Complete Book Of Key Items
+Author = libretro-database contributors / original PSP cheat authors
+806AD6C8 00280001
+00000007 00000000
+
+// Complete Book Of Materials
+Author = libretro-database contributors / original PSP cheat authors
+806AD53C 00A40001
+00000077 00000000
+
+// Complete Book Of Monster
+Author = libretro-database contributors / original PSP cheat authors
+806AD7A0 02270001
+00000007 00000000
+806AD9C7 00F30001
+
+// Complete Book Of Weapons
+Author = libretro-database contributors / original PSP cheat authors
+806AD615 00480001
+00000077 00000000
+
+// Finish Burst Max
+Author = libretro-database contributors / original PSP cheat authors
+606B1D98 00000064
+00010001 00135714
+
+// Flame
+Author = libretro-database contributors / original PSP cheat authors
+006AD38D 00000063
+
+// Harpy's Heart
+Author = libretro-database contributors / original PSP cheat authors
+006AD471 00000063
+
+// Have All Items
+Author = libretro-database contributors / original PSP cheat authors
+806AD53C 01B50001
+00000077 00000000
+806AD2D8 01B50001
+00000063 00000000
+
+// Have All Items W/O Key Items
+Author = libretro-database contributors / original PSP cheat authors
+806AD53C 018C0001
+00000077 00000000
+806AD2D8 018C0001
+00000063 00000000
+
+// In-Battle Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+606B1D98 00000028
+00000001 0001D4D0
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+806AABE4 0010006D
+100003E7 00000000
+
+// Infinite MOnet
+Author = libretro-database contributors / original PSP cheat authors
+206AB928 0098967F
+
+// Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+806AABE6 0010006D
+100003E7 00000000
+
+// Jessica PHilomele 65535AP
+Author = libretro-database contributors / original PSP cheat authors
+106D0B28 0000FFFF
+
+// KNot
+Author = libretro-database contributors / original PSP cheat authors
+006AD31A 00000063
+
+// Kobold Thoughts
+Author = libretro-database contributors / original PSP cheat authors
+006AD46F 00000063
+
+// Lando
+Author = libretro-database contributors / original PSP cheat authors
+006AD2FA 00000063
+
+// Materials x96 [Incomplete List]
+Author = libretro-database contributors / original PSP cheat authors
+106AD2D8 00000060
+106AD2DA 00000060
+106AD2DC 00000060
+106AD2DE 00000060
+106AD2E0 00000060
+106AD2E2 00000060
+106AD2E4 00000060
+106AD2E6 00000060
+106AD2E8 00000060
+106AD2EA 00000060
+106AD2EC 00000060
+106AD2EE 00000060
+106AD2F0 00000060
+106AD2F2 00000060
+106AD2F4 00000060
+106AD2F8 00000060
+106AD2FA 00000060
+106AD2FC 00000060
+106AD2FE 00000060
+106AD300 00000060
+106AD302 00000060
+106AD304 00000060
+106AD306 00000060
+106AD308 00000060
+106AD30A 00000060
+106AD30C 00000060
+106AD310 00000060
+106AD312 00000060
+106AD314 00000060
+106AD316 00000060
+106AD318 00000060
+106AD31A 00000060
+106AD31C 00000060
+106AD31E 00000060
+106AD320 00000060
+106AD322 00000060
+106AD324 00000060
+106AD326 00000060
+106AD328 00000060
+106AD32A 00000060
+106AD32C 00000060
+106AD32E 00000060
+106AD330 00000060
+106AD332 00000060
+106AD334 00000060
+106AD336 00000060
+
+// Max AP
+Author = libretro-database contributors / original PSP cheat authors
+806AAB8C 0010006D
+1000FFFF 00000000
+
+// Max ETher Of All Items
+Author = libretro-database contributors / original PSP cheat authors
+806AD120 01B50001
+00000064 00000000
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+206AB928 05F5E0FF
+
+// Max Gold v2
+Author = libretro-database contributors / original PSP cheat authors
+206AB928 0098967F
+
+// Max Gold v3
+Author = libretro-database contributors / original PSP cheat authors
+106AB928 00000991
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+806AABFE 0010006D
+100003E7 00000000
+
+// Max Koalaria Spirits (Nikki)
+Author = libretro-database contributors / original PSP cheat authors
+006AD46E 00000063
+
+// Max SP
+Author = libretro-database contributors / original PSP cheat authors
+806AAC00 0010006D
+100003E7 00000000
+
+// Monster Bone
+Author = libretro-database contributors / original PSP cheat authors
+006AD31D 00000063
+
+// Nicole Mimi TiThel 65535AP
+Author = libretro-database contributors / original PSP cheat authors
+106D0E90 0000FFFF
+
+// Nikki's friends For summon
+Author = libretro-database contributors / original PSP cheat authors
+006AD46E 00000063
+006AD46F 00000063
+006AD470 00000063
+006AD472 00000063
+
+// PanTher Pathos
+Author = libretro-database contributors / original PSP cheat authors
+006AD472 00000063
+
+// Polish Powder x99
+Author = libretro-database contributors / original PSP cheat authors
+006AD343 00000063
+
+// Taun
+Author = libretro-database contributors / original PSP cheat authors
+006AD2E4 00000063
+
+// Unlock All Manufacture List
+Author = libretro-database contributors / original PSP cheat authors
+806AD6F1 00980001
+00000007 00000000
+
+// Vayne Aurelius 10k Physical Damage
+Author = libretro-database contributors / original PSP cheat authors
+101C9B54 00002710
+106D0682 00002710
+117DF73A 00002710
+
+// Vayne Aurelius 65,535 AP
+Author = libretro-database contributors / original PSP cheat authors
+106D060C 0000FFFF
+
+// Worn Armor x99
+Author = libretro-database contributors / original PSP cheat authors
+006AD32E 00000063

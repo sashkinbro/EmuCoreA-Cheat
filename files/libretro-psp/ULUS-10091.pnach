@@ -1,0 +1,204 @@
+# PSP cheat pack
+# Serial: ULUS-10091
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Weapons Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2004ECB8 00000000
+
+// Challenge Mode - 1 Goal Left
+Author = libretro-database contributors / original PSP cheat authors
+002E8B0D 00000001
+
+// Complete Level [Press L+R]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000300
+002F67F4 00000004
+
+// Enemies Always Drop: Extra Life
+Author = libretro-database contributors / original PSP cheat authors
+20199CCC 34100006
+
+// Enemies Always Drop: Large Life Energy
+Author = libretro-database contributors / original PSP cheat authors
+20199CCC 34100003
+
+// Enemies Always Drop: Large Weapon Energy
+Author = libretro-database contributors / original PSP cheat authors
+20199CCC 34100005
+
+// Enemies Always Drop: Red Orb
+Author = libretro-database contributors / original PSP cheat authors
+20199CCC 34100001
+
+// Enemies Always Drop: Small Life Energy
+Author = libretro-database contributors / original PSP cheat authors
+20199CCC 34100002
+
+// Enemies Always Drop: Small Weapon Energy
+Author = libretro-database contributors / original PSP cheat authors
+20199CCC 34100004
+
+// Enemies Always Drop: Yashichi (Restore Full HP/Weapons)
+Author = libretro-database contributors / original PSP cheat authors
+20199CCC 34100007
+
+// Get Items From Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+2019A60C 00000000
+
+// Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+2001EABC 10000005
+2004E624 341400FF
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+202F6AF8 0000001C
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+002F6AF8 0000001C
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+202E88D9 00000009
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+202F6B12 0000429C
+
+// Jump In Mid-Air: Bombman
+Author = libretro-database contributors / original PSP cheat authors
+20053A70 1000FFD6
+
+// Jump In Mid-Air: Cutman
+Author = libretro-database contributors / original PSP cheat authors
+20051670 1000FFCD
+
+// Jump In Mid-Air: Elecman
+Author = libretro-database contributors / original PSP cheat authors
+20055288 1000FFD6
+
+// Jump In Mid-Air: Fireman
+Author = libretro-database contributors / original PSP cheat authors
+20054844 1000FFD6
+
+// Jump In Mid-Air: Gutsman
+Author = libretro-database contributors / original PSP cheat authors
+20052168 1000FFD6
+
+// Jump In Mid-Air: Iceman
+Author = libretro-database contributors / original PSP cheat authors
+20052F40 1000FFD6
+
+// Jump In Mid-Air: Mega Man
+Author = libretro-database contributors / original PSP cheat authors
+200576A4 1000FFD6
+20050340 1000FFD0
+
+// Jump In Mid-Air: Oilman
+Author = libretro-database contributors / original PSP cheat authors
+20056BDC 1000FFD6
+
+// Jump In Mid-Air: Protoman
+Author = libretro-database contributors / original PSP cheat authors
+20059650 1000FFD6
+
+// Jump In Mid-Air: Roll
+Author = libretro-database contributors / original PSP cheat authors
+20058358 1000FFD6
+
+// Jump In Mid-Air: Timeman
+Author = libretro-database contributors / original PSP cheat authors
+20055DFC 1000FFD6
+
+// Max Energy
+Author = libretro-database contributors / original PSP cheat authors
+402F6B1A 00090001
+000041E0 00000000
+
+// Max Orbs
+Author = libretro-database contributors / original PSP cheat authors
+202F62FC 000003E7
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+202F62F8 05F5E0FF
+
+// Mega Jump!
+Author = libretro-database contributors / original PSP cheat authors
+002F681A 00000064
+
+// Moon Jump (Press X)
+Author = libretro-database contributors / original PSP cheat authors
+217FF5C4 BFFF4000
+202F6818 3FA00000
+D2000000 00000000
+
+// Rapid Fire
+Author = libretro-database contributors / original PSP cheat authors
+002FAE3C 00000000
+
+// Speed Mod: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+202E7438 3FC00000
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+202E7438 40000000
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+202E7438 3F800000
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+202E7438 3FA00000
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+202E7438 3F400000
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+202E7438 3F000000
+
+// Unlock Characters/Costumes/Construction Packs
+Author = libretro-database contributors / original PSP cheat authors
+202E8460 FFFFFFFF
+202E8464 FFFFFFFF
+202E8468 FFFFFFFF
+202E846C FFFFFFFF
+
+// Weapon Inf. Fire Bomb
+Author = libretro-database contributors / original PSP cheat authors
+202F6B2C 41E00000
+
+// Weapon Inf. Hyper Bomb
+Author = libretro-database contributors / original PSP cheat authors
+202F6B28 41E00000
+
+// Weapon Inf. Ice Slasher
+Author = libretro-database contributors / original PSP cheat authors
+202F6B24 41E00000
+
+// Weapon Inf. Oil Slider
+Author = libretro-database contributors / original PSP cheat authors
+202F6B34 41E00000
+
+// Weapon Inf. Rolling Cutter
+Author = libretro-database contributors / original PSP cheat authors
+202F6B1C 41E00000
+
+// Weapon Inf. Super Arm
+Author = libretro-database contributors / original PSP cheat authors
+202F6B20 41E00000
+
+// Weapon Inf. Thunder Beam
+Author = libretro-database contributors / original PSP cheat authors
+202F6B30 41E00000
+
+// Weapon Inf. Time Slow
+Author = libretro-database contributors / original PSP cheat authors
+202F6B34 41E00000

@@ -1,0 +1,32 @@
+# PSP cheat pack
+# Serial: ULJM-05913
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Extra Open
+Author = libretro-database contributors / original PSP cheat authors
+8053F9FB 00050002
+00000001 00000000
+0053FA5D 00000001
+
+// Gallary Open
+Author = libretro-database contributors / original PSP cheat authors
+8054B8D9 004D0001
+00000001 00000000
+0054B8A2 00000001
+
+// Information Open
+Author = libretro-database contributors / original PSP cheat authors
+8054BC1E 00970001
+00000003 00000000
+
+// Memory Piece Open
+Author = libretro-database contributors / original PSP cheat authors
+8053FA04 00240002
+00000001 00000000
+8053FA4C 00070002
+00000002 00000000
+
+// Movie Open
+Author = libretro-database contributors / original PSP cheat authors
+8054BBEA 00070001
+00000001 00000000

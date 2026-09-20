@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULUS-10384
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Disable AI (CPU Won't Attack)
+Author = libretro-database contributors / original PSP cheat authors
+20591E30 24020000
+
+// Enable AI (CPU Will Attack)
+Author = libretro-database contributors / original PSP cheat authors
+20591E30 2C420001
+
+// Toggle AI [Select+Up/Down]
+Author = libretro-database contributors / original PSP cheat authors
+20591E30 2C420001
+217FF534 00000041
+20591E30 2C420000
+D2000000 00000000
+217FF534 00000011

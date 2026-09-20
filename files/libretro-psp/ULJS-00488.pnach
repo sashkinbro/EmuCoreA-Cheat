@@ -1,0 +1,51 @@
+# PSP cheat pack
+# Serial: ULJS-00488
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// FR Max: Ai Haibara
+Author = libretro-database contributors / original PSP cheat authors
+000DFC2C 00000009
+
+// FR Max: Akagi
+Author = libretro-database contributors / original PSP cheat authors
+000DFC4C 00000003
+
+// FR Max: Detective Boys
+Author = libretro-database contributors / original PSP cheat authors
+000DFC34 00000006
+
+// FR Max: Eri Kisaki
+Author = libretro-database contributors / original PSP cheat authors
+000DFC38 00000003
+
+// FR Max: Goto
+Author = libretro-database contributors / original PSP cheat authors
+000DFC50 00000005
+
+// FR Max: Heiji Hattori
+Author = libretro-database contributors / original PSP cheat authors
+000DFC48 00000003
+
+// FR Max: Kazuha Toyama
+Author = libretro-database contributors / original PSP cheat authors
+000DFC40 00000003
+
+// FR Max: Phantom Thief Kid
+Author = libretro-database contributors / original PSP cheat authors
+000DFC30 00000006
+
+// FR Max: Ran Mori
+Author = libretro-database contributors / original PSP cheat authors
+000DFC28 0000000C
+
+// FR Max: Sonoko Suzuki
+Author = libretro-database contributors / original PSP cheat authors
+000DFC3C 00000006
+
+// FR Max: Wataru Takagi
+Author = libretro-database contributors / original PSP cheat authors
+000DFC44 00000003
+
+// LP Max
+Author = libretro-database contributors / original PSP cheat authors
+000DFC1C 00000064

@@ -1,0 +1,305 @@
+# PSP cheat pack
+# Serial: ULJS-00291
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (M) Must Codes
+Author = libretro-database contributors / original PSP cheat authors
+20002020 0A254D13
+20002024 96050004
+20153444 0A200800
+
+// All Character
+Author = libretro-database contributors / original PSP cheat authors
+10393410 0000FFFF
+
+// All Missing Mode
+Author = libretro-database contributors / original PSP cheat authors
+80393418 000C0001
+000000FF 00000000
+
+// All Mission
+Author = libretro-database contributors / original PSP cheat authors
+80393210 00DE0001
+0000000E 00000000
+803933A9 00DE0001
+00000009 00000000
+
+// All Roll
+Author = libretro-database contributors / original PSP cheat authors
+80393210 00DE0001
+0000000A 00000000
+80393310 00DE0001
+00000010 00000000
+
+// All Skill
+Author = libretro-database contributors / original PSP cheat authors
+8039348C 00560001
+0000000E 00000000
+
+// All Skill-Item
+Author = libretro-database contributors / original PSP cheat authors
+8039348C 00560001
+0000000A 00000000
+
+// All Story Mode
+Author = libretro-database contributors / original PSP cheat authors
+20393414 FFFFFFFF
+
+// Bonds 100% Points
+Author = libretro-database contributors / original PSP cheat authors
+48C712C8 08800000
+B8C712C8 00000000
+B0000018 00000000
+1000090C 00002710
+D2000000 00000000
+
+// Characters All
+Author = libretro-database contributors / original PSP cheat authors
+10393410 0000FFFF
+
+// HP Infinite
+Author = libretro-database contributors / original PSP cheat authors
+604C3A0C 00000002
+00000002 00000A46
+
+// Inf. Weapon Usage
+Author = libretro-database contributors / original PSP cheat authors
+013F7538 00000063
+013F7540 00000063
+013F7548 00000063
+013F7550 00000063
+013F7558 00000063
+013F7560 00000063
+013F7510 00000063
+013F7570 00000063
+013F7578 00000063
+013F7580 00000063
+013F7588 00000063
+
+// Infinite Chakra
+Author = libretro-database contributors / original PSP cheat authors
+20002008 9605000C
+2000200C A605000A
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 96050006
+20002004 A6050004
+
+// Item Unlimited
+Author = libretro-database contributors / original PSP cheat authors
+C013DCF8 26240000
+
+// Max Attack
+Author = libretro-database contributors / original PSP cheat authors
+20002010 2405FFFF
+20002014 A605000E
+
+// Max Defense
+Author = libretro-database contributors / original PSP cheat authors
+20002018 2405FFFF
+2000201C A6050012
+
+// Max Ryo
+Author = libretro-database contributors / original PSP cheat authors
+213F6784 0098967F
+
+// Missing Time
+Author = libretro-database contributors / original PSP cheat authors
+C01B7CA0 AE000674
+C01B7CA4 AE000670
+
+// Ninja Arts All
+Author = libretro-database contributors / original PSP cheat authors
+4079348C 00140001
+0E0E0E0E 00000000
+003934DC 0000000E
+
+// Ninjutsu Flat
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000013
+08B9348C 0E0E0E0E
+DC000000 00000004
+D1000000 00000000
+28B934DC 0000000E
+D2000000 00000000
+
+// Ninjutsu Flat v2
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000013
+2039348C 0E0E0E0E
+DC000000 00000004
+D1000000 00000000
+203934DC 0000000E
+D2000000 00000000
+
+// Open All Character
+Author = libretro-database contributors / original PSP cheat authors
+00393410 0000FFFF
+
+// P1: Attack Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 0000EA60
+00010004 00000A4E
+20000484 2000007C
+20000000 00000000
+602FA168 000003E7
+00010004 00000A46
+
+// P1: Defence Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 0000EA60
+00010004 00000A52
+20000484 2000007C
+20000000 00000000
+602FA168 000003E7
+00010004 00000A46
+
+// P1: HP Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 000003E7
+00010004 00000A44
+20000484 2000007C
+20000000 00000000
+00010004 00000A46
+
+// P1: SP Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 000003E7
+00010004 00000A4A
+20000484 2000007C
+20000000 00000000
+00010004 00000A4C
+
+// P2: Acttack Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 0000EA60
+00010004 00000A4E
+20000484 2000007C
+20000000 00000000
+602FA168 000003E7
+00010004 00000A46
+20000004 00000000
+
+// P2: Defence Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 0000EA60
+00010004 00000A52
+20000484 2000007C
+20000000 00000000
+602FA168 000003E7
+00010004 00000A46
+20000004 00000000
+
+// P2: HP Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 000003E7
+00010004 00000A44
+20000484 2000007C
+20000004 00000000
+00010004 00000A46
+
+// P2: SP Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 000003E7
+00010004 00000A4A
+20000484 2000007C
+20000004 00000000
+00010004 00000A4C
+
+// P3: Acttack Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 0000EA60
+00010004 00000A4E
+20000484 2000007C
+20000000 00000000
+602FA168 000003E7
+00010004 00000A46
+20000008 00000000
+
+// P3: Defence Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 0000EA60
+00010004 00000A52
+20000484 2000007C
+20000000 00000000
+602FA168 000003E7
+00010004 00000A46
+20000008 00000000
+
+// P3: HP Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 000003E7
+00010004 00000A44
+20000484 2000007C
+20000008 00000000
+00010004 00000A46
+
+// P3: SP Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 000003E7
+00010004 00000A4A
+20000484 2000007C
+20000008 00000000
+00010004 00000A4C
+
+// P4: Acttack Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 0000EA60
+00010004 00000A4E
+20000484 2000007C
+20000000 00000000
+602FA168 000003E7
+00010004 00000A46
+2000000C 00000000
+
+// P4: Defence Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 0000EA60
+00010004 00000A52
+20000484 2000007C
+20000000 00000000
+602FA168 000003E7
+00010004 00000A46
+2000000C 00000000
+
+// P4: HP Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 000003E7
+00010004 00000A44
+20000484 2000007C
+2000000C 00000000
+00010004 00000A46
+
+// P4: SP Max
+Author = libretro-database contributors / original PSP cheat authors
+602FA168 000003E7
+00010004 00000A4A
+20000484 2000007C
+2000000C 00000000
+00010004 00000A4C
+
+// Player Strength Decrease
+Author = libretro-database contributors / original PSP cheat authors
+48C712C8 08800000
+B8C712C8 00000000
+B000043C 00000000
+20000A44 00000064
+D2000000 00000000
+
+// Super Max
+Author = libretro-database contributors / original PSP cheat authors
+C02ABC68 00000000
+C02ABC84 00000000
+
+// Timer Disable
+Author = libretro-database contributors / original PSP cheat authors
+201B7C88 4480A000
+
+// Timer Enable
+Author = libretro-database contributors / original PSP cheat authors
+201B7C88 46000506
+
+// Unlock All Characters
+Author = libretro-database contributors / original PSP cheat authors
+20393410 0000FFFF

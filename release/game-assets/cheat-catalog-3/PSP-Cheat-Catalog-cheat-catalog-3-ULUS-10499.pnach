@@ -1,0 +1,20 @@
+# PSP cheat pack
+# Serial: ULUS-10499
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 10k Hunt Points
+Author = libretro-database contributors / original PSP cheat authors
+617FA004 00002710
+00020001 0000072C
+
+// Increase Point Gain
+Author = libretro-database contributors / original PSP cheat authors
+E0030000 317FA148
+E002FFFF 217FA148
+60CAC3A0 0000FFFF
+00001001 00000840
+
+// Infinite Hunting Points
+Author = libretro-database contributors / original PSP cheat authors
+617FA0DC 0000270F
+00010001 00000840

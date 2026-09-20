@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULUS-10111
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 03E00008
+20002004 E48000B0
+20042124 0A200800
+20042128 C48000B4
+
+// Max Notoriety
+Author = libretro-database contributors / original PSP cheat authors
+20002010 2484967F
+20002014 AC44007C
+20002018 0A214DB2
+2000201C 288503E8
+200536C0 0A200804
+200536C4 3C040099

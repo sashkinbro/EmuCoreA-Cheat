@@ -1,0 +1,16 @@
+# PSP cheat pack
+# Serial: ULUS-10017
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+2014EC3E 00000014
+
+// Infinite Time v2
+Author = libretro-database contributors / original PSP cheat authors
+2014EC3C 42C60000
+
+// Infinite Time v3
+Author = libretro-database contributors / original PSP cheat authors
+2014EC3C 42C70000
+2014EC40 42C70000

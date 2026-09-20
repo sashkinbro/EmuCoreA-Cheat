@@ -1,0 +1,125 @@
+# PSP cheat pack
+# Serial: ULJS-00150
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Bases
+Author = libretro-database contributors / original PSP cheat authors
+00292200 0000000A
+
+// BGM All
+Author = libretro-database contributors / original PSP cheat authors
+80292E80 001E0001
+00000001 00000000
+
+// Collection 1
+Author = libretro-database contributors / original PSP cheat authors
+80292C7C 00350001
+00000001 00000000
+
+// Collection 2
+Author = libretro-database contributors / original PSP cheat authors
+00292E3E 000000FF
+00292E3F 000000FF
+
+// Combo
+Author = libretro-database contributors / original PSP cheat authors
+00254C46 00000063
+
+// Combo Max
+Author = libretro-database contributors / original PSP cheat authors
+00254C46 000000FF
+
+// Emblem
+Author = libretro-database contributors / original PSP cheat authors
+80292E20 001E0001
+00000003 00000000
+
+// Grow
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000100
+00365C02 000000FF
+00365C06 000000FF
+
+// Hide
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000200
+00365BCF 00000000
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+00365D00 00000004
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+10292202 000003E8
+
+// Jump
+Author = libretro-database contributors / original PSP cheat authors
+00365CE8 00000000
+
+// Key / Ticket [40 +4h]
+Author = libretro-database contributors / original PSP cheat authors
+00292204 00000040
+
+// Life
+Author = libretro-database contributors / original PSP cheat authors
+00365D00 00000003
+
+// Life Max
+Author = libretro-database contributors / original PSP cheat authors
+00365D00 00000004
+
+// LucKey Doll
+Author = libretro-database contributors / original PSP cheat authors
+80292BBC 00280001
+00000007 00000000
+
+// Magic Ball
+Author = libretro-database contributors / original PSP cheat authors
+80292EA3 00070001
+00000003 00000000
+
+// Prinny Max
+Author = libretro-database contributors / original PSP cheat authors
+10292202 0000270F
+10254C64 0000270F
+
+// Reset Death Count
+Author = libretro-database contributors / original PSP cheat authors
+00254C1C 00000000
+00254C1E 00000000
+
+// Score Max
+Author = libretro-database contributors / original PSP cheat authors
+20254C08 0098967F
+
+// Secret Book
+Author = libretro-database contributors / original PSP cheat authors
+80292CA0 005B0004
+00000003 00000000
+
+// Sibou 0
+Author = libretro-database contributors / original PSP cheat authors
+00254C1C 00000000
+00254C1E 00000000
+
+// Strength
+Author = libretro-database contributors / original PSP cheat authors
+00365C60 000000DC
+
+// Time
+Author = libretro-database contributors / original PSP cheat authors
+10254C10 00007080
+
+// Time Max
+Author = libretro-database contributors / original PSP cheat authors
+00254C10 0000FFFF
+
+// Time Gate
+Author = libretro-database contributors / original PSP cheat authors
+80292BE4 00280001
+00000001 00000000
+
+// Zanki 9999
+Author = libretro-database contributors / original PSP cheat authors
+10292202 0000270F

@@ -1,0 +1,17 @@
+# PSP cheat pack
+# Serial: ULJS-00159
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Gold
+Author = libretro-database contributors / original PSP cheat authors
+2018C134 0098967F
+217FF588 0098967F
+
+// Card All
+Author = libretro-database contributors / original PSP cheat authors
+8018C170 01320001
+00000005 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+2018C134 000F423F

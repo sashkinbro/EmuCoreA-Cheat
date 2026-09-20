@@ -1,0 +1,57 @@
+# PSP cheat pack
+# Serial: ULUS-10207
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS (Beta)
+Author = libretro-database contributors / original PSP cheat authors
+2014F50C 00000000
+
+// 60 FPS (Beta) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2014F50C 1440FFFB
+
+// 60 FPS (Beta 2)
+Author = libretro-database contributors / original PSP cheat authors
+20175900 24050001
+2017C47C 3C023EB8
+201504C4 340505DC
+2012C79C 3C023DCC
+2012C7EC 3C023DCC
+2012C8D0 3C023E4C
+2019FBB8 46002805
+201A4000 4600B005
+
+// 60 FPS (Beta 2) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20175900 24050002
+2017C47C 3C023F38
+201504C4 8C8501C8
+2012C79C 3C023E4C
+2012C7EC 3C023E4C
+2012C8D0 3C023ECC
+2019FBB8 44800000
+201A4000 44800000
+
+// Handheld Screen (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+20220140 3FC00000
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+20220140 3FE1E1E2
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+20220140 40638E39
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+20220140 4017B426
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+205118B4 665758D0
+
+// Max Points
+Author = libretro-database contributors / original PSP cheat authors
+205118C0 77359400

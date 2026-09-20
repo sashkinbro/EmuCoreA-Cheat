@@ -1,0 +1,53 @@
+# PSP cheat pack
+# Serial: ULJS-00331
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Amo
+Author = libretro-database contributors / original PSP cheat authors
+6026CB58 00003B00
+00020001 0000014C
+6026CB50 00003B00
+6026CB60 00003B00
+6026CB68 00003B00
+
+// Climax Timer
+Author = libretro-database contributors / original PSP cheat authors
+6026CB48 00000004
+00000002 00000158
+1000015C 00000000
+
+// Damge Power
+Author = libretro-database contributors / original PSP cheat authors
+6026CB58 00000000
+00020001 0000015C
+6026CB50 00000000
+6026CB60 00000000
+6026CB68 00000000
+
+// HP Down Non
+Author = libretro-database contributors / original PSP cheat authors
+6026CB48 00000000
+00020001 0000014C
+
+// Not Down Time
+Author = libretro-database contributors / original PSP cheat authors
+102AE7BC 00000BAD
+
+// RP /Rank-S (1 Stage)
+Author = libretro-database contributors / original PSP cheat authors
+202B585C 0098967F
+002B5860 00000003
+002B5868 00000001
+
+// RP /Rank-S (2 Stage)
+Author = libretro-database contributors / original PSP cheat authors
+202B587C 0098967F
+002B5880 00000003
+002B5888 00000001
+
+// RP 99999999
+Author = libretro-database contributors / original PSP cheat authors
+20866E7C 05F5E0FF
+20867420 05F5E0FF
+20868E84 05F5E0FF
+2152409C 05F5E0FF

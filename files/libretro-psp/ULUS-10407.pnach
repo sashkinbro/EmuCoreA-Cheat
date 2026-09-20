@@ -1,0 +1,90 @@
+# PSP cheat pack
+# Serial: ULUS-10407
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Freeze Time
+Author = libretro-database contributors / original PSP cheat authors
+20046768 00C02823
+
+// Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+2003B58C 00000000
+
+// Hold Triangle To Slow Falls
+Author = libretro-database contributors / original PSP cheat authors
+201A1134 EFFF1000
+20367C88 BE3851E1
+D2000000 00000000
+
+// Hold X To Moon Jump
+Author = libretro-database contributors / original PSP cheat authors
+201A1134 BFFF4000
+20367C88 3FD33335
+D2000000 00000000
+
+// Infinite Air-Jumping
+Author = libretro-database contributors / original PSP cheat authors
+20081738 24630000
+
+// Infinite Air-Jumping (Alt.)
+Author = libretro-database contributors / original PSP cheat authors
+00367CE8 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20367C60 000929DC
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+2018D942 000003E8
+
+// Infinite Scarves
+Author = libretro-database contributors / original PSP cheat authors
+00367D00 00000004
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+20137054 00007E80
+
+// Invulnerable
+Author = libretro-database contributors / original PSP cheat authors
+00367C60 000000DC
+
+// Jump In Mid-Air
+Author = libretro-database contributors / original PSP cheat authors
+200812A4 00000000
+
+// Lives Remaining
+Author = libretro-database contributors / original PSP cheat authors
+1018D942 000003E8
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+2013704C 0098967F
+
+// Moon Jump
+Author = libretro-database contributors / original PSP cheat authors
+200812A4 00000000
+200751F4 8C820008
+
+// No Fallen Prinnies (Boss)
+Author = libretro-database contributors / original PSP cheat authors
+20137062 00000000
+
+// No Fallen Prinnies (Stage)
+Author = libretro-database contributors / original PSP cheat authors
+20137060 00000000
+
+// One-Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+2006F5EC AE400120
+
+// Quick Combo Fill (Press R)
+Author = libretro-database contributors / original PSP cheat authors
+201A1134 FDFF0200
+20137088 0067C280
+D2000000 00000000
+
+// Super Low Time
+Author = libretro-database contributors / original PSP cheat authors
+2013705C 00000001

@@ -1,0 +1,12 @@
+# PSP cheat pack
+# Serial: ULJM-06052
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (M) Master Code
+Author = libretro-database contributors / original PSP cheat authors
+554C4A4D 06052820
+
+// Trust Gauge (Start+Up)
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000018
+016285A4 00000064

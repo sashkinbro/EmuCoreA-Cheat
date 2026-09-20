@@ -1,0 +1,74 @@
+# PSP cheat pack
+# Serial: ULUS-10077
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Always 6 Cards
+Author = libretro-database contributors / original PSP cheat authors
+00CD4528 00000006
+
+// Infinite Packs
+Author = libretro-database contributors / original PSP cheat authors
+002A036C 0000000A
+002A036D 0000000A
+002A036E 0000000A
+002A036F 0000000A
+
+// Infinite Turns
+Author = libretro-database contributors / original PSP cheat authors
+00C8389D 00000000
+
+// Lang Force: English
+Author = libretro-database contributors / original PSP cheat authors
+0029F204 00000000
+
+// Lang Force: French
+Author = libretro-database contributors / original PSP cheat authors
+0029F204 00000001
+
+// Lang Force: German
+Author = libretro-database contributors / original PSP cheat authors
+0029F204 00000002
+
+// Lang Force: Italian
+Author = libretro-database contributors / original PSP cheat authors
+0029F204 00000003
+
+// Lang Force: Spanish
+Author = libretro-database contributors / original PSP cheat authors
+0029F204 00000004
+
+// Max Cards
+Author = libretro-database contributors / original PSP cheat authors
+00C838AC 000000FF
+
+// Max Points
+Author = libretro-database contributors / original PSP cheat authors
+202A50E0 05F5E0FF
+
+// Max Points v2
+Author = libretro-database contributors / original PSP cheat authors
+202A0DE0 0098967F
+20CC1128 0098967F
+20CC112C 0098967F
+
+// Snake 0 Cost Per Turn
+Author = libretro-database contributors / original PSP cheat authors
+00CB651E 00000000
+
+// Snake Has 1000 HP
+Author = libretro-database contributors / original PSP cheat authors
+10EB8280 000003E8
+
+// Snake Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+10CD81C6 000003E8
+10CD81CE 000003E8
+10D01C40 000003E8
+
+// Unlimited Points
+Author = libretro-database contributors / original PSP cheat authors
+202A0DE0 05F5E0FF
+
+// Venus Has 900 HP
+Author = libretro-database contributors / original PSP cheat authors
+10EF7150 00000384

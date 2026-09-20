@@ -1,0 +1,87 @@
+# PSP cheat pack
+# Serial: ULUS-10299
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Controller Address
+Author = libretro-database contributors / original PSP cheat authors
+0057E1E0 00000000
+
+// Fixed Jump [Press L]
+Author = libretro-database contributors / original PSP cheat authors
+00000700 3C0808C5
+00000704 3C0908D8
+00000708 8529E1E0
+0000070C 8D0A4E80
+00000710 240B0100
+00000714 152B0005
+00000718 00000000
+0000071C 3C0D3CD0
+00000720 010D7020
+00000724 AD4E0018
+00000728 00000000
+0000072C 03E00008
+00000014 0E2001C0
+
+// Have 99 Of All Scrolls
+Author = libretro-database contributors / original PSP cheat authors
+0071BBEC 00000063
+0071BBF0 00000063
+0071BBF4 00000063
+0071BBF8 00000063
+0071BBFC 00000063
+
+// Infinite Chackra
+Author = libretro-database contributors / original PSP cheat authors
+0071B76D 00000000
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10454E80
+60454E80 3F800000
+00020000 00000058
+
+// Parameter Power-Up For All
+Author = libretro-database contributors / original PSP cheat authors
+8071B780 00200005
+1000FFFF 00000000
+
+// Sky Walker
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00454E80
+00000018 44796188
+
+// Sky Walker v2
+Author = libretro-database contributors / original PSP cheat authors
+50000000 00454E80
+01FFFFFF 00000000
+20000018 44796188
+
+// Super Jump [Press L]
+Author = libretro-database contributors / original PSP cheat authors
+00000098 0A200240
+00000900 27BDFFE0
+00000904 AFBF0000
+00000908 AFA40004
+0000090C AFA50008
+00000910 AFA6000C
+00000914 AFA70010
+00000918 AFA80014
+0000091C 3C0408C5
+00000920 3C0508D8
+00000924 84A5E1E0
+00000928 8C844E80
+0000092C 24060100
+00000930 14A60005
+00000934 00000000
+00000938 3C073C00
+0000093C 00874020
+00000940 AC880018
+00000944 00000000
+00000948 8FA80014
+0000094C 8FA70010
+00000950 8FA6000C
+00000954 8FA50008
+00000958 8FA40004
+0000095C 8FBF0000
+00000960 03E00008
+00000964 27BD0020

@@ -1,0 +1,296 @@
+# PSP cheat pack
+# Serial: ULUS-10076
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1st To 6th Player Infinite AP
+Author = libretro-database contributors / original PSP cheat authors
+0092F008 00000019
+00931588 00000019
+009302C8 00000019
+00932848 00000019
+00933B08 00000019
+00934DC8 00000019
+
+// 99.999 HP
+Author = libretro-database contributors / original PSP cheat authors
+206CECA8 0001869F
+207A5904 0001869F
+207A95B4 0001869F
+20933004 0001869F
+
+// Armor
+Author = libretro-database contributors / original PSP cheat authors
+80640240 00770058
+00000031 00000000
+80640244 00770058
+00000005 00000000
+8064024C 0077002C
+10000127 00000001
+80640250 00770058
+00000002 00000000
+
+// Change Naiz's Skin
+Author = libretro-database contributors / original PSP cheat authors
+0061AF40 00000000
+
+// Infinite EP
+Author = libretro-database contributors / original PSP cheat authors
+00680984 3B9AC9FF
+00680988 3B9AC9FF
+
+// Infinite Gold
+Author = libretro-database contributors / original PSP cheat authors
+00680964 3B9AC9FF
+00680968 3B9AC9FF
+
+// Infinite Party Points
+Author = libretro-database contributors / original PSP cheat authors
+00680974 3B9AC9FF
+00680978 3B9AC9FF
+
+// Items
+Author = libretro-database contributors / original PSP cheat authors
+80640240 00BD0058
+00000031 00000000
+80644338 00140058
+00000001 00000000
+8064024C 00D1002C
+1000019E 00000001
+80640250 00D10058
+00000004 00000000
+
+// Max EP
+Author = libretro-database contributors / original PSP cheat authors
+20680984 05F5E0FF
+
+// Max EP Neverland Army
+Author = libretro-database contributors / original PSP cheat authors
+20680988 05F5E0FF
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+20680964 05F5E0FF
+
+// Max Money Neverland Army
+Author = libretro-database contributors / original PSP cheat authors
+20680968 05F5E0FF
+
+// Max Money, EP, BP
+Author = libretro-database contributors / original PSP cheat authors
+40680964 00030001
+05F5E0FF 00000000
+40680974 00030001
+40680984 00030001
+207A4444 05F5E0FF
+
+// Max PP/BP
+Author = libretro-database contributors / original PSP cheat authors
+20680974 05F5E0FF
+207A4444 05F5E0FF
+
+// Max Skill
+Author = libretro-database contributors / original PSP cheat authors
+206CECD8 0000000F
+207A5908 0000000F
+207A95B8 0000000F
+20933008 0000000F
+
+// Naiz's Equipment [Slot 1]
+Author = libretro-database contributors / original PSP cheat authors
+0061AF7C 00000000
+
+// Naiz's Equipment [Slot 2]
+Author = libretro-database contributors / original PSP cheat authors
+0061AFD4 00000000
+
+// Naiz's Equipment [Slot 3]
+Author = libretro-database contributors / original PSP cheat authors
+0061B02C 00000000
+
+// Naiz's Equipment Lv. [Slot 1]
+Author = libretro-database contributors / original PSP cheat authors
+0061AF74 00000000
+
+// Naiz's Equipment Lv. [Slot 2]
+Author = libretro-database contributors / original PSP cheat authors
+0061AFCC 00000000
+
+// Naiz's Equipment Lv. [Slot 3]
+Author = libretro-database contributors / original PSP cheat authors
+0061B024 00000000
+
+// Naiz Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+0061B0C4 00000010
+
+// Naiz Max Health
+Author = libretro-database contributors / original PSP cheat authors
+0061B0C4 0000FFFF
+
+// Naiz's Max Jump
+Author = libretro-database contributors / original PSP cheat authors
+0061B0C8 00000063
+
+// Naiz Max Level
+Author = libretro-database contributors / original PSP cheat authors
+0061B074 00000063
+
+// Naiz's Max Move
+Author = libretro-database contributors / original PSP cheat authors
+0061B0C4 00000000
+
+// Naiz Max Proficiency Lv.'s
+Author = libretro-database contributors / original PSP cheat authors
+0061B0E4 000000FF
+0061B0EC 000000FF
+0061B0F4 000000FF
+0061B0FC 000000FF
+0061B100 000000FF
+0061B104 000000FF
+0061B10C 000000FF
+0061B114 000000FF
+0061B11C 000000FF
+0061B124 000000FF
+0061B12C 000000FF
+0061B16C 000000FF
+0061B174 000000FF
+0061B17C 000000FF
+0061B184 000000FF
+
+// Naiz Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+0061B0CC 0000FFFF
+0061B0D0 0000FFFF
+0061B0D4 0000FFFF
+0061B0D8 0000FFFF
+0061B0DC 0000FFFF
+0061B0E0 0000FFFF
+
+// Neverland All Spells/Skills
+Author = libretro-database contributors / original PSP cheat authors
+8066B1C0 00B10058
+00000032 00000000
+8066B1C4 00B10058
+00000001 00000000
+8066B1C8 00B10058
+00000002 00000000
+8066B1D0 00B10058
+00000005 00000000
+8066B1CC 00B1002C
+100002ED 00000001
+80674488 00360058
+8067448C 00360058
+80674490 00360058
+80674498 00360058
+00000006 00000000
+80674494 0036002C
+100003EF 00000001
+
+// Neverland Max PP/BP
+Author = libretro-database contributors / original PSP cheat authors
+206CACA8 05F5E0FF
+20680978 05F5E0FF
+
+// Rename Naiz
+Author = libretro-database contributors / original PSP cheat authors
+0061AF10 00000000
+0061AF14 00000000
+
+// Rozess All Spells/Skills
+Author = libretro-database contributors / original PSP cheat authors
+80675DF8 00B10058
+00000032 00000000
+80675DFC 00B10058
+00000001 00000000
+80675E00 00B10058
+00000004 00000000
+80675E08 00B10058
+00000005 00000000
+80675E04 00B1002C
+100002ED 00000001
+8067F0C0 00360058
+8067F0C4 00360058
+8067F0C8 00360058
+8067F0D0 00360058
+00000006 00000000
+8067F0CC 0036002C
+100003EF 00000001
+
+// Simba All Spells/Skills
+Author = libretro-database contributors / original PSP cheat authors
+806605E0 00B10058
+00000032 00000000
+806605E4 00B10058
+00000001 00000000
+806605E8 00B10058
+806605F0 00B10058
+00000005 00000000
+806605EC 00B1002C
+100002ED 00000001
+806698A8 00360058
+806698AC 00360058
+806698B0 00360058
+806698B8 00360058
+00000006 00000000
+806698B4 0036002C
+100003EF 00000001
+
+// Skills
+Author = libretro-database contributors / original PSP cheat authors
+806605E0 00800058
+00000031 00000000
+806605EC 0080002C
+100002ED 00000001
+806605F0 00800058
+00000005 00000000
+
+// Start Battle 1st
+Author = libretro-database contributors / original PSP cheat authors
+00917FD0 00000001
+
+// Weapons
+Author = libretro-database contributors / original PSP cheat authors
+80640240 01230058
+00000031 00000000
+80640244 01230058
+00000005 00000000
+8064024C 0123002C
+10000001 00000001
+80640250 01230058
+00000001 00000000
+
+// Weapons/Armors/Items
+Author = libretro-database contributors / original PSP cheat authors
+80640240 015C0058
+00000031 00000000
+806479E0 00240058
+00000001 00000000
+80640244 01700058
+00000005 00000000
+8064024C 0013002C
+10000024 00000001
+806408D4 000A002C
+1000004D 00000001
+80640C44 000D002C
+10000072 00000001
+806410BC 0009002C
+10000093 00000001
+806413D4 000C002C
+100000B7 00000001
+806417F4 000A002C
+100000D8 00000001
+80641B64 0008002C
+100000F8 00000001
+80641E24 0013002C
+10000111 00000001
+806424AC 010C002C
+10000163 00000001
+80640250 00640058
+806424B0 003B0058
+00000002 00000000
+806438F8 00D10058
+00000004 00000000
+
+// Yunellia Max AP
+Author = libretro-database contributors / original PSP cheat authors
+2092F008 05F5E0FF

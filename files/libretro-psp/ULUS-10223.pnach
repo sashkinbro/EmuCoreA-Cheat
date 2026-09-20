@@ -1,0 +1,100 @@
+# PSP cheat pack
+# Serial: ULUS-10223
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99 Keys On Pickup
+Author = libretro-database contributors / original PSP cheat authors
+20135C44 34420063
+
+// All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+CF000000 00000002
+
+// Bomb Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+20013984 1000FFA2
+20102F54 1000FFE6
+
+// Fists Of Flame
+Author = libretro-database contributors / original PSP cheat authors
+CF000000 00000002
+
+// Incredibly Fit Dog
+Author = libretro-database contributors / original PSP cheat authors
+CF000000 00000002
+
+// Infinite Adrenaline
+Author = libretro-database contributors / original PSP cheat authors
+CF000000 00000002
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+CF000000 00000002
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+20135B28 00000000
+
+// No Damage
+Author = libretro-database contributors / original PSP cheat authors
+CF000000 00000002
+
+// Superdefomred
+Author = libretro-database contributors / original PSP cheat authors
+CF000000 00000002
+
+// X-Off
+Author = libretro-database contributors / original PSP cheat authors
+205B71D0 00000000
+
+// X-Off v2
+Author = libretro-database contributors / original PSP cheat authors
+205B71D1 00000000
+
+// X-Off v3
+Author = libretro-database contributors / original PSP cheat authors
+205B71D2 00000000
+
+// X-Off v4
+Author = libretro-database contributors / original PSP cheat authors
+205B71D3 00000000
+
+// X-Off v5
+Author = libretro-database contributors / original PSP cheat authors
+205B71D4 00000000
+
+// X-Off v6
+Author = libretro-database contributors / original PSP cheat authors
+205B71D5 00000000
+
+// X-Off v7
+Author = libretro-database contributors / original PSP cheat authors
+205B71D6 00000001
+
+// X-On
+Author = libretro-database contributors / original PSP cheat authors
+205B71D0 00000001
+
+// X-On v2
+Author = libretro-database contributors / original PSP cheat authors
+205B71D1 00000001
+
+// X-On v3
+Author = libretro-database contributors / original PSP cheat authors
+205B71D2 00000001
+
+// X-On v4
+Author = libretro-database contributors / original PSP cheat authors
+205B71D3 00000001
+
+// X-On v5
+Author = libretro-database contributors / original PSP cheat authors
+205B71D4 00000001
+
+// X-On v6
+Author = libretro-database contributors / original PSP cheat authors
+205B71D5 00000001
+
+// X-On v7
+Author = libretro-database contributors / original PSP cheat authors
+205B71D6 00000001

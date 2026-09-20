@@ -1,0 +1,90 @@
+# PSP cheat pack
+# Serial: ULUS-10206
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Blind
+Author = libretro-database contributors / original PSP cheat authors
+213C23E0 FFFFFFFF
+
+// Inf. Ammo MP5
+Author = libretro-database contributors / original PSP cheat authors
+20D7B420 4190AAFF
+
+// Inf. Ammo No Reload Secondary
+Author = libretro-database contributors / original PSP cheat authors
+20DA8E40 00180001
+
+// Inf. Grenades
+Author = libretro-database contributors / original PSP cheat authors
+20F46FF0 00030610
+20F30A90 0003060E
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 0070DE88
+0000056C FFFFFFFF
+
+// Inf. Health v2
+Author = libretro-database contributors / original PSP cheat authors
+6070DE88 FFFFFFFF
+00020001 0000056C
+
+// Inf. Health Ranch B [Offline]
+Author = libretro-database contributors / original PSP cheat authors
+214AF65C 00000064
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2009E6E0 24630000
+20343C10 24820000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20344C80 00000000
+20344C7C 0A200800
+20002000 8FB10014
+20002004 12E00002
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+213C27BC 03E00008
+20D4463C 03E00008
+21307EAC 03E00008
+20D5081C 03E00008
+213D186C 03E00008
+21478EEC 03E00008
+213327EC 03E00008
+20D5CC5C 03E00008
+2122D16C 03E00008
+20D2D23C 03E00008
+2133580C 03E00008
+20D8B5EC 03E00008
+214ABCAC 03E00008
+20D8477C 03E00008
+20D6FE2C 03E00008
+2139F01C 03E00008
+214D11AC 03E00008
+212267CC 03E00008
+21215C7C 03E00008
+20DD3B4C 03E00008
+214DCF4C 03E00008
+20DA5D2C 03E00008
+213D777C 03E00008
+
+// Player Hack
+Author = libretro-database contributors / original PSP cheat authors
+21325B24 00000008
+
+// Player Hack Ammount
+Author = libretro-database contributors / original PSP cheat authors
+21325B24 000001F4
+
+// Rapid Fire L85A1 [Offline]
+Author = libretro-database contributors / original PSP cheat authors
+20D7B490 FF676980
+
+// Veritcal Clipping
+Author = libretro-database contributors / original PSP cheat authors
+20729B70 4B000000
+20729B84 4B000000
+20729B98 4B000000

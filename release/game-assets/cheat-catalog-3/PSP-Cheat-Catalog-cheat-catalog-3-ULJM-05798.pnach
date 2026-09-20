@@ -1,0 +1,1729 @@
+# PSP cheat pack
+# Serial: ULJM-05798
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99999 Money
+Author = libretro-database contributors / original PSP cheat authors
+014AAF04 0001869F
+
+// Achievement Full Complete: Deadly
+Author = libretro-database contributors / original PSP cheat authors
+214AC300 000000FF
+214AC304 000000FF
+214AC308 000000FF
+214AC30C 0000003F
+214AC310 000003FF
+
+// Achievement Full Complete: Easy
+Author = libretro-database contributors / original PSP cheat authors
+214AC2C4 000000FF
+214AC2C8 000000FF
+214AC2CC 000000FF
+214AC2D0 0000003F
+214AC2D4 000003FF
+
+// Achievement Full Complete: Genocide
+Author = libretro-database contributors / original PSP cheat authors
+214AC314 000000FF
+214AC318 000000FF
+214AC31C 000000FF
+214AC320 0000003F
+214AC324 000003FF
+
+// Achievement Full Complete: Hard
+Author = libretro-database contributors / original PSP cheat authors
+214AC2EC 000000FF
+214AC2F0 000000FF
+214AC2F4 000000FF
+214AC2F8 0000003F
+214AC2FC 000003FF
+
+// Achievement Full Complete: Normal
+Author = libretro-database contributors / original PSP cheat authors
+214AC2D8 000000FF
+214AC2DC 000000FF
+214AC2E0 000000FF
+214AC2E4 0000003F
+214AC2E8 000003FF
+
+// All Clothing
+Author = libretro-database contributors / original PSP cheat authors
+114AB75C 000007FF
+
+// Always Overdrive
+Author = libretro-database contributors / original PSP cheat authors
+2016D400 24C60000
+
+// Assault Skill Lv.9
+Author = libretro-database contributors / original PSP cheat authors
+014AAF0C 00000009
+
+// Aya Brea Lv.99
+Author = libretro-database contributors / original PSP cheat authors
+014AAEE4 00000063
+
+// Batu Weapon Inf.
+Author = libretro-database contributors / original PSP cheat authors
+114A1604 00000017
+114A16BC 00000009
+
+// Body Swap With Debug Character
+Author = libretro-database contributors / original PSP cheat authors
+2016D1D8 24060000
+
+// Bomb Diminished
+Author = libretro-database contributors / original PSP cheat authors
+014A16BC 00000009
+
+// BP
+Author = libretro-database contributors / original PSP cheat authors
+214AAF04 0098967F
+
+// Costume All
+Author = libretro-database contributors / original PSP cheat authors
+114AB75C 000007FF
+
+// Difficulty Level: Deadly
+Author = libretro-database contributors / original PSP cheat authors
+017FDA74 00000003
+
+// Difficulty Level: Easy
+Author = libretro-database contributors / original PSP cheat authors
+017FDA74 00000000
+
+// Difficulty Level: Genocide
+Author = libretro-database contributors / original PSP cheat authors
+017FDA74 00000004
+
+// Difficulty Level: Hard
+Author = libretro-database contributors / original PSP cheat authors
+017FDA74 00000002
+
+// Difficulty Level: Normal
+Author = libretro-database contributors / original PSP cheat authors
+017FDA74 00000001
+
+// Episode 0
+Author = libretro-database contributors / original PSP cheat authors
+017FDA78 00000000
+
+// Episode 1
+Author = libretro-database contributors / original PSP cheat authors
+017FDA78 00000001
+
+// Episode 2
+Author = libretro-database contributors / original PSP cheat authors
+017FDA78 00000002
+
+// Episode 3
+Author = libretro-database contributors / original PSP cheat authors
+017FDA78 00000003
+
+// Episode 4
+Author = libretro-database contributors / original PSP cheat authors
+017FDA78 00000004
+
+// Episode 5
+Author = libretro-database contributors / original PSP cheat authors
+017FDA78 00000005
+
+// Episode 6
+Author = libretro-database contributors / original PSP cheat authors
+017FDA78 00000006
+
+// Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+214AAF00 001A3EC0
+
+// Grenade Diminished
+Author = libretro-database contributors / original PSP cheat authors
+C01709F8 00000000
+
+// Grenade Infinit
+Author = libretro-database contributors / original PSP cheat authors
+014A16BC 00000009
+
+// Handgun Skill Lv.9
+Author = libretro-database contributors / original PSP cheat authors
+014AAF08 00000009
+
+// HP Inf.
+Author = libretro-database contributors / original PSP cheat authors
+2016D3D4 C48E0370
+2016D3E0 E48E036C
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+201705B4 00000000
+
+// Infinite Ammo: (Circle) Button Weapons
+Author = libretro-database contributors / original PSP cheat authors
+214A15B4 FFFFFFFF
+114A15C0 000003E7
+
+// Infinite Ammo: (Square) Button Weapons
+Author = libretro-database contributors / original PSP cheat authors
+214A1570 FFFFFFFF
+114A157C 000003E7
+
+// Infinite Ammo: (Triangle) Button Weapons
+Author = libretro-database contributors / original PSP cheat authors
+214A152C FFFFFFFF
+114A1538 000003E7
+
+// Infinite Ammo: Grenades
+Author = libretro-database contributors / original PSP cheat authors
+014A16BC 00000009
+
+// Infinite Ammo: X Button Weapons
+Author = libretro-database contributors / original PSP cheat authors
+214A15F8 FFFFFFFF
+114A1604 000003E7
+
+// Infinite Grenades
+Author = libretro-database contributors / original PSP cheat authors
+201709F8 00000000
+
+// Infinite Heatlh
+Author = libretro-database contributors / original PSP cheat authors
+2016D3D4 C48E0370
+2016D3E0 E48E036C
+
+// Infinite Liberation
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0F447A
+20002004 0A275EF1
+20002008 AC8F8C0C
+201D7BBC 0A200800
+201D7BC0 460CA03E
+
+// Infinite Liberation [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201D7BBC 460CA03E
+201D7BC0 00000000
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2016D3B4 00000000
+
+// Launcher Skill Lv.9
+Author = libretro-database contributors / original PSP cheat authors
+014AAF18 00000009
+
+// Liberation Gauge Always Full [Turn Off To Climb l Adders Or Events]
+Author = libretro-database contributors / original PSP cheat authors
+014AA10F 00000044
+
+// Liberation Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+014AA10C 00000000
+014AA10D 00000000
+014AA10E 0000007F
+014AA10F 00000044
+
+// Lightning
+Author = libretro-database contributors / original PSP cheat authors
+C01709F8 00000000
+
+// Maru Weapon Inf.
+Author = libretro-database contributors / original PSP cheat authors
+114A1538 0000000F
+
+// Max BP
+Author = libretro-database contributors / original PSP cheat authors
+214AAF04 05F5E0FF
+
+// Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+214AAF00 001A3EC0
+
+// Money 99999
+Author = libretro-database contributors / original PSP cheat authors
+014AAF04 0001869F
+
+// Never Overdrive
+Author = libretro-database contributors / original PSP cheat authors
+2016D400 24C6FFFF
+
+// Not Reduce Cross Bullet
+Author = libretro-database contributors / original PSP cheat authors
+014A1604 00000063
+
+// Riva Stopped Immediately [Pressing L]
+Author = libretro-database contributors / original PSP cheat authors
+214AA10C 447F0000
+D0000000 10000100
+214AA10C 00000000
+
+// Ry Clothes
+Author = libretro-database contributors / original PSP cheat authors
+014AAF40 00000002
+014AAF48 00000002
+
+// Sankaku Weapon Inf.
+Author = libretro-database contributors / original PSP cheat authors
+114A15C0 0000000A
+
+// Shotgun Skill Lv.9
+Author = libretro-database contributors / original PSP cheat authors
+014AAF10 00000009
+
+// Sikaku Weapon Inf.
+Author = libretro-database contributors / original PSP cheat authors
+114A157C 00000018
+
+// Sniper Skill Lv.9
+Author = libretro-database contributors / original PSP cheat authors
+014AAF14 00000009
+
+// Spider-Man Up Walls
+Author = libretro-database contributors / original PSP cheat authors
+2016D418 00000000
+
+// Ammo Inf.
+Author = libretro-database contributors / original PSP cheat authors
+814A152C 00060044
+000000C3 00000000
+814A1538 00060044
+00000063 00000000
+
+// Ammo Inf.
+Author = libretro-database contributors / original PSP cheat authors
+014A1604 000003E7
+114A15F8 000003E7
+114A15B4 000003E7
+114A1570 000003E7
+114A157C 000003E7
+114A15C0 000003E7
+
+// Ammo Inf. (999 Hyouji)
+Author = libretro-database contributors / original PSP cheat authors
+014A1604 000003E7
+114A15F8 000003E7
+114A15B4 000003E7
+114A1570 000003E7
+114A157C 000003E7
+114A15C0 000003E7
+
+// Tank & Heli Invisible
+Author = libretro-database contributors / original PSP cheat authors
+20296C3C 10000051
+
+// Unlock All Protective Gear + Blaze Edge
+Author = libretro-database contributors / original PSP cheat authors
+114AB75C 000007FF
+
+// Unlock All Weapons In Weapon Bank
+Author = libretro-database contributors / original PSP cheat authors
+814A1E68 0032008A
+10000101 00000000
+
+// Weapon
+Author = libretro-database contributors / original PSP cheat authors
+814A1E68 0032008A
+10000101 00000000
+
+// Weapon Circle
+Author = libretro-database contributors / original PSP cheat authors
+114A1538 0000000F
+
+// Weapon Cross
+Author = libretro-database contributors / original PSP cheat authors
+114A1604 00000017
+
+// Weapon Lv.9
+Author = libretro-database contributors / original PSP cheat authors
+814AAF08 00060004
+00000009 00000000
+
+// Weapon Square
+Author = libretro-database contributors / original PSP cheat authors
+114A157C 00000018
+
+// Weapon Triangle
+Author = libretro-database contributors / original PSP cheat authors
+114A15C0 0000000A
+
+// Weapons Flags Appeared V (On)
+Author = libretro-database contributors / original PSP cheat authors
+814A1E69 00320114
+00000001 00000000
+
+// Weapons Purchased Furaguon V
+Author = libretro-database contributors / original PSP cheat authors
+814A1E68 00320114
+00000001 00000000
+
+// WEP C48
+Author = libretro-database contributors / original PSP cheat authors
+817FDC00 00050004
+00000001 00000000
+817FDC28 002B0004
+
+// Protective Gear Damage: Apron Dress [Extremely Torn & Damaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF50 00000002
+
+// Protective Gear Damage: Apron Dress [Torn]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF50 00000001
+
+// Protective Gear Damage: Apron Dress [Undamaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF50 00000000
+
+// Protective Gear Damage: Black Leather [Extremely Torn & Damaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF40 00000002
+
+// Protective Gear Damage: Black Leather [Torn]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF40 00000001
+
+// Protective Gear Damage: Black Leather [Undamaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF40 00000000
+
+// Protective Gear Damage: Business Suit [Extremely Torn & Damaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF58 00000002
+
+// Protective Gear Damage: Business Suit [Torn]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF58 00000001
+
+// Protective Gear Damage: Business Suit [Undamaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF58 00000000
+
+// Protective Gear Damage: China Dress [Extremely Torn & Damaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF70 00000002
+
+// Protective Gear Damage: China Dress [Torn]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF70 00000001
+
+// Protective Gear Damage: China Dress [Undamaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF70 00000000
+
+// Protective Gear Damage: Knight Armor [Extremely Torn & Damaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF90 00000002
+
+// Protective Gear Damage: Knight Armor [Torn]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF90 00000001
+
+// Protective Gear Damage: Knight Armor [Undamaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF90 00000000
+
+// Protective Gear Damage: Lightning Custom [Extremely Torn & Damaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF78 00000002
+
+// Protective Gear Damage: Lightning Custom [Torn]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF78 00000001
+
+// Protective Gear Damage: Lightning Custom [Undamaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF78 00000000
+
+// Protective Gear Damage: OD Suit [Extremely Torn & Damaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF88 00000002
+
+// Protective Gear Damage: OD Suit [Torn]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF88 00000001
+
+// Protective Gear Damage: OD Suit [Undamaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF88 00000000
+
+// Protective Gear Damage: Santa Soldier [Extremely Torn & Damaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF80 00000002
+
+// Protective Gear Damage: Santa Soldier [Torn]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF80 00000001
+
+// Protective Gear Damage: Santa Soldier [Undamaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF80 00000000
+
+// Protective Gear Damage: Swim Wear [Extremely Torn & Damaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF60 00000002
+
+// Protective Gear Damage: Swim Wear [Torn]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF60 00000001
+
+// Protective Gear Damage: Swim Wear [Undamaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF60 00000000
+
+// Protective Gear Damage: Titanium Bunny [Extremely Torn & Damaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF68 00000002
+
+// Protective Gear Damage: Titanium Bunny [Torn]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF68 00000001
+
+// Protective Gear Damage: Titanium Bunny [Undamaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF68 00000000
+
+// Protective Gear Damage: White Eider [Extremely Torn & Damaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF48 00000002
+
+// Protective Gear Damage: White Eider [Torn]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF48 00000001
+
+// Protective Gear Damage: White Eider [Undamaged]
+Author = libretro-database contributors / original PSP cheat authors
+014AAF48 00000000
+
+// Replace Square Weapons With .45Auto A1
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000009
+
+// Replace Square Weapons With .45Auto SFA
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000000A
+
+// Replace Square Weapons With 686SEALS
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000010
+
+// Replace Square Weapons With 92M
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000000
+
+// Replace Square Weapons With AG320
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000030
+
+// Replace Square Weapons With AG-C
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000056
+
+// Replace Square Weapons With AG-C v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000055
+
+// Replace Square Weapons With AG-C v3
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000054
+
+// Replace Square Weapons With AG-C v4
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000031
+
+// Replace Square Weapons With AIS50
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000002E
+
+// Replace Square Weapons With AK-101
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000016
+
+// Replace Square Weapons With B82A1
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000002D
+
+// Replace Square Weapons With Berserker
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000003A
+
+// Replace Square Weapons With Berserker v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000039
+
+// Replace Square Weapons With Berserker v3
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000038
+
+// Replace Square Weapons With Blaze Edge
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000037
+
+// Replace Square Weapons With CR10SASS
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000064
+
+// Replace Square Weapons With CR10SASS v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000002A
+
+// Replace Square Weapons With CR15 C.
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000066
+
+// Replace Square Weapons With CR15 C. v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000065
+
+// Replace Square Weapons With CR15 C. v3
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000057
+
+// Replace Square Weapons With CR15 C. v4
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000012
+
+// Replace Square Weapons With FNHC
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000006A
+
+// Replace Square Weapons With FNHC v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000062
+
+// Replace Square Weapons With FNHC v3
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000005C
+
+// Replace Square Weapons With FNHC v4
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000001B
+
+// Replace Square Weapons With FSA12
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000024
+
+// Replace Square Weapons With FSA15
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000025
+
+// Replace Square Weapons With FSA15 IC
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000026
+
+// Replace Square Weapons With HK3SPR1
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000027
+
+// Replace Square Weapons With Humvee
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000003D
+
+// Replace Square Weapons With Humvee v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000003C
+
+// Replace Square Weapons With Humvee v3
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000003B
+
+// Replace Square Weapons With Hunter500
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000011
+
+// Replace Square Weapons With M1014
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000023
+
+// Replace Square Weapons With M102T
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000021
+
+// Replace Square Weapons With M103T
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000022
+
+// Replace Square Weapons With M17GC
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000006
+
+// Replace Square Weapons With M22G G4
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000008
+
+// Replace Square Weapons With M22GC
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000007
+
+// Replace Square Weapons With M240B
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000035
+
+// Replace Square Weapons With M249
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000033
+
+// Replace Square Weapons With MF SOP Mod
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000005E
+
+// Replace Square Weapons With MF SOP Mod v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000059
+
+// Replace Square Weapons With MF SOP Mod v3
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000014
+
+// Replace Square Weapons With MFA1
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000067
+
+// Replace Square Weapons With MFA1 v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 000000
+
+// Replace Square Weapons With MFA1 v3
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000005D
+
+// Replace Square Weapons With MFA1 v4
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000058
+
+// Replace Square Weapons With MFA1 v5
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000013
+
+// Replace Square Weapons With Minigun
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000004D
+
+// Replace Square Weapons With Minigun v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000004B
+
+// Replace Square Weapons With Minigun v3
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000049
+
+// Replace Square Weapons With Minigun v4
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000047
+
+// Replace Square Weapons With Minigun v5
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000045
+
+// Replace Square Weapons With Minigun v6
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000043
+
+// Replace Square Weapons With Minigun v7
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000041
+
+// Replace Square Weapons With Minigun v8
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000003F
+
+// Replace Square Weapons With Missile v9
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000004C
+
+// Replace Square Weapons With Missile v10
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000004A
+
+// Replace Square Weapons With Missile v11
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000048
+
+// Replace Square Weapons With Missile v12
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000046
+
+// Replace Square Weapons With Missile v13
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000044
+
+// Replace Square Weapons With Missile v14
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000042
+
+// Replace Square Weapons With Missile v15
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000040
+
+// Replace Square Weapons With Missile v16
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000003E
+
+// Replace Square Weapons With MK.11 Mod0
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000002B
+
+// Replace Square Weapons With MK.16
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000001C
+
+// Replace Square Weapons With MK.17
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000001D
+
+// Replace Square Weapons With MK.46 Mod0
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000034
+
+// Replace Square Weapons With MP10 3In
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000000F
+
+// Replace Square Weapons With Pile Bunker
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000036
+
+// Replace Square Weapons With PSPR-1
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000063
+
+// Replace Square Weapons With PSPR-1 v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000028
+
+// Replace Square Weapons With PSPR-1 GB
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000053
+
+// Replace Square Weapons With PSPR-1 GB v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000052
+
+// Replace Square Weapons With PSPR-1 GB v3
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000051
+
+// Replace Square Weapons With PSPR-1 GB v4
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000029
+
+// Replace Square Weapons With R1100P
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000001E
+
+// Replace Square Weapons With R11-96P
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000001F
+
+// Replace Square Weapons With RG140
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000032
+
+// Replace Square Weapons With RK SOP Mod
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000017
+
+// Replace Square Weapons With RK-47
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000068
+
+// Replace Square Weapons With RK-47 v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000061
+
+// Replace Square Weapons With RK-47 v3
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000005A
+
+// Replace Square Weapons With RK-47 v4
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000015
+
+// Replace Square Weapons With RSP10
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000020
+
+// Replace Square Weapons With S550
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000001A
+
+// Replace Square Weapons With S552
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000060
+
+// Replace Square Weapons With S552 v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000019
+
+// Replace Square Weapons With S556Swat
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000069
+
+// Replace Square Weapons With S556Swat v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000005F
+
+// Replace Square Weapons With S556Swat v3
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000005B
+
+// Replace Square Weapons With S556Swat v4
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000018
+
+// Replace Square Weapons With Satellite C.
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 00000050
+
+// Replace Square Weapons With Satellite C. v2
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000004F
+
+// Replace Square Weapons With Satellite C. v3
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000004E
+
+// Replace Square Weapons With SBI4.3 CMP.
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000000B
+
+// Replace Square Weapons With SR110
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000002C
+
+// Replace Square Weapons With SZ220 SAO
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000000E
+
+// Replace Square Weapons With SZ229
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000000D
+
+// Replace Square Weapons With SZ239
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000000C
+
+// Replace Square Weapons With XM109
+Author = libretro-database contributors / original PSP cheat authors
+214A1564 0000002F
+
+// Replace Triangle Weapon With .45Auto A1
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000009
+
+// Replace Triangle Weapon With .45Auto SFA
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000000A
+
+// Replace Triangle Weapon With 686SEALS
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000010
+
+// Replace Triangle Weapon With 92M
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000000
+
+// Replace Triangle Weapon With AG320
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000030
+
+// Replace Triangle Weapon With AG-C
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000056
+
+// Replace Triangle Weapon With AG-C v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000055
+
+// Replace Triangle Weapon With AG-C v3
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000054
+
+// Replace Triangle Weapon With AG-C v4
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000031
+
+// Replace Triangle Weapon With AIS50
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000002E
+
+// Replace Triangle Weapon With AK-101
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000016
+
+// Replace Triangle Weapon With B82A1
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000002D
+
+// Replace Triangle Weapon With Berserker
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000003A
+
+// Replace Triangle Weapon With Berserker v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000039
+
+// Replace Triangle Weapon With Berserker v3
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000038
+
+// Replace Triangle Weapon With Blaze Edge
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000037
+
+// Replace Triangle Weapon With CR10SASS
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000064
+
+// Replace Triangle Weapon With CR10SASS v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000002A
+
+// Replace Triangle Weapon With CR15 C.
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000066
+
+// Replace Triangle Weapon With CR15 C. v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000065
+
+// Replace Triangle Weapon With CR15 C. v3
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000057
+
+// Replace Triangle Weapon With CR15 C. v4
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000012
+
+// Replace Triangle Weapon With FNHC
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000006A
+
+// Replace Triangle Weapon With FNHC v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000062
+
+// Replace Triangle Weapon With FNHC v3
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000005C
+
+// Replace Triangle Weapon With FNHC v4
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000001B
+
+// Replace Triangle Weapon With FSA12
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000024
+
+// Replace Triangle Weapon With FSA15
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000025
+
+// Replace Triangle Weapon With FSA15 IC
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000026
+
+// Replace Triangle Weapon With HK3SPR1
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000027
+
+// Replace Triangle Weapon With Humvee
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000003D
+
+// Replace Triangle Weapon With Humvee v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000003C
+
+// Replace Triangle Weapon With Humvee v3
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000003B
+
+// Replace Triangle Weapon With Hunter500
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000011
+
+// Replace Triangle Weapon With M1014
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000023
+
+// Replace Triangle Weapon With M102T
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000021
+
+// Replace Triangle Weapon With M103T
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000022
+
+// Replace Triangle Weapon With M17GC
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000006
+
+// Replace Triangle Weapon With M22G G4
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000008
+
+// Replace Triangle Weapon With M22GC
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000007
+
+// Replace Triangle Weapon With M240B
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000035
+
+// Replace Triangle Weapon With M249
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000033
+
+// Replace Triangle Weapon With MF SOP Mod
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000005E
+
+// Replace Triangle Weapon With MF SOP Mod v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000059
+
+// Replace Triangle Weapon With MF SOP Mod v3
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000014
+
+// Replace Triangle Weapon With MFA1
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000067
+
+// Replace Triangle Weapon With MFA1 v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 000000
+
+// Replace Triangle Weapon With MFA1 v3
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000005D
+
+// Replace Triangle Weapon With MFA1 v4
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000058
+
+// Replace Triangle Weapon With MFA1 v5
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000013
+
+// Replace Triangle Weapon With Minigun
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000004D
+
+// Replace Triangle Weapon With Minigun v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000004B
+
+// Replace Triangle Weapon With Minigun v3
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000049
+
+// Replace Triangle Weapon With Minigun v4
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000047
+
+// Replace Triangle Weapon With Minigun v5
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000045
+
+// Replace Triangle Weapon With Minigun v6
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000043
+
+// Replace Triangle Weapon With Minigun v7
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000041
+
+// Replace Triangle Weapon With Minigun v8
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000003F
+
+// Replace Triangle Weapon With Missile v9
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000004C
+
+// Replace Triangle Weapon With Missile v10
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000004A
+
+// Replace Triangle Weapon With Missile v11
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000048
+
+// Replace Triangle Weapon With Missile v12
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000046
+
+// Replace Triangle Weapon With Missile v13
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000044
+
+// Replace Triangle Weapon With Missile v14
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000042
+
+// Replace Triangle Weapon With Missile v15
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000040
+
+// Replace Triangle Weapon With Missile v16
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000003E
+
+// Replace Triangle Weapon With MK.11 Mod0
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000002B
+
+// Replace Triangle Weapon With MK.16
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000001C
+
+// Replace Triangle Weapon With MK.17
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000001D
+
+// Replace Triangle Weapon With MK.46 Mod0
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000034
+
+// Replace Triangle Weapon With MP10 3In
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000000F
+
+// Replace Triangle Weapon With Pile Bunker
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000036
+
+// Replace Triangle Weapon With PSPR-1
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000063
+
+// Replace Triangle Weapon With PSPR-1 v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000028
+
+// Replace Triangle Weapon With PSPR-1 GB
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000053
+
+// Replace Triangle Weapon With PSPR-1 GB v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000052
+
+// Replace Triangle Weapon With PSPR-1 GB v3
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000051
+
+// Replace Triangle Weapon With PSPR-1 GB v4
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000029
+
+// Replace Triangle Weapon With R1100P
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000001E
+
+// Replace Triangle Weapon With R11-96P
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000001F
+
+// Replace Triangle Weapon With RG140
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000032
+
+// Replace Triangle Weapon With RK SOP Mod
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000017
+
+// Replace Triangle Weapon With RK-47
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000068
+
+// Replace Triangle Weapon With RK-47 v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000061
+
+// Replace Triangle Weapon With RK-47 v3
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000005A
+
+// Replace Triangle Weapon With RK-47 v4
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000015
+
+// Replace Triangle Weapon With RSP10
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000020
+
+// Replace Triangle Weapon With S550
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000001A
+
+// Replace Triangle Weapon With S552
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000060
+
+// Replace Triangle Weapon With S552 v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000019
+
+// Replace Triangle Weapon With S556Swat
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000069
+
+// Replace Triangle Weapon With S556Swat v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000005F
+
+// Replace Triangle Weapon With S556Swat v3
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000005B
+
+// Replace Triangle Weapon With S556Swat v4
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000018
+
+// Replace Triangle Weapon With Satellite C.
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 00000050
+
+// Replace Triangle Weapon With Satellite C. v2
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000004F
+
+// Replace Triangle Weapon With Satellite C. v3
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000004E
+
+// Replace Triangle Weapon With SBI4.3 CMP.
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000000B
+
+// Replace Triangle Weapon With SR110
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000002C
+
+// Replace Triangle Weapon With SZ220 SAO
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000000E
+
+// Replace Triangle Weapon With SZ229
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000000D
+
+// Replace Triangle Weapon With SZ239
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000000C
+
+// Replace Triangle Weapon With XM109
+Author = libretro-database contributors / original PSP cheat authors
+014A1520 0000002F
+
+// Replace X Weapons With .45Auto A1
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000009
+
+// Replace X Weapons With .45Auto SFA
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000000A
+
+// Replace X Weapons With 686Seals
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000010
+
+// Replace X Weapons With 92M
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000000
+
+// Replace X Weapons With AG320
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000030
+
+// Replace X Weapons With AG-C
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000056
+
+// Replace X Weapons With AG-C v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000055
+
+// Replace X Weapons With AG-C v3
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000054
+
+// Replace X Weapons With AG-C v4
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000031
+
+// Replace X Weapons With AIS50
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000002E
+
+// Replace X Weapons With AK-101
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000016
+
+// Replace X Weapons With B82A1
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000002D
+
+// Replace X Weapons With Berserker
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000003A
+
+// Replace X Weapons With Berserker v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000039
+
+// Replace X Weapons With Berserker v3
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000038
+
+// Replace X Weapons With Blaze Edge
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000037
+
+// Replace X Weapons With CR10SASS
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000064
+
+// Replace X Weapons With CR10SASS v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000002A
+
+// Replace X Weapons With CR15 C.
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000066
+
+// Replace X Weapons With CR15 C. v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000065
+
+// Replace X Weapons With CR15 C. v3
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000057
+
+// Replace X Weapons With CR15 C. v4
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000012
+
+// Replace X Weapons With FNHC
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000006A
+
+// Replace X Weapons With FNHC v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000062
+
+// Replace X Weapons With FNHC v3
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000005C
+
+// Replace X Weapons With FNHC v4
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000001B
+
+// Replace X Weapons With FSA12
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000024
+
+// Replace X Weapons With FSA15
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000025
+
+// Replace X Weapons With FSA15 IC
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000026
+
+// Replace X Weapons With HK3SPR1
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000027
+
+// Replace X Weapons With Humvee
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000003D
+
+// Replace X Weapons With Humvee v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000003C
+
+// Replace X Weapons With Humvee v3
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000003B
+
+// Replace X Weapons With Hunter500
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000011
+
+// Replace X Weapons With M1014
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000023
+
+// Replace X Weapons With M102T
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000021
+
+// Replace X Weapons With M103T
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000022
+
+// Replace X Weapons With M17GC
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000006
+
+// Replace X Weapons With M22G G4
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000008
+
+// Replace X Weapons With M22GC
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000007
+
+// Replace X Weapons With M240B
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000035
+
+// Replace X Weapons With M249
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000033
+
+// Replace X Weapons With MF SOP Mod
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000005E
+
+// Replace X Weapons With MF SOP Mod v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000059
+
+// Replace X Weapons With MF SOP Mod v3
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000014
+
+// Replace X Weapons With MFA1
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000067
+
+// Replace X Weapons With MFA1 v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 000000
+
+// Replace X Weapons With MFA1 v3
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000005D
+
+// Replace X Weapons With MFA1 v4
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000058
+
+// Replace X Weapons With MFA1 v5
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000013
+
+// Replace X Weapons With Minigun
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000004D
+
+// Replace X Weapons With Minigun v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000004B
+
+// Replace X Weapons With Minigun v3
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000049
+
+// Replace X Weapons With Minigun v4
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000047
+
+// Replace X Weapons With Minigun v5
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000045
+
+// Replace X Weapons With Minigun v6
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000043
+
+// Replace X Weapons With Minigun v7
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000041
+
+// Replace X Weapons With Minigun v8
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000003F
+
+// Replace X Weapons With Missile v9
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000004C
+
+// Replace X Weapons With Missile v10
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000004A
+
+// Replace X Weapons With Missile v11
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000048
+
+// Replace X Weapons With Missile v12
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000046
+
+// Replace X Weapons With Missile v13
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000044
+
+// Replace X Weapons With Missile v14
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000042
+
+// Replace X Weapons With Missile v15
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000040
+
+// Replace X Weapons With Missile v16
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000003E
+
+// Replace X Weapons With MK.11 Mod0
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000002B
+
+// Replace X Weapons With MK.16
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000001C
+
+// Replace X Weapons With MK.17
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000001D
+
+// Replace X Weapons With MK.46 Mod0
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000034
+
+// Replace X Weapons With MP10 3In
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000000F
+
+// Replace X Weapons With Pile Bunker
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000036
+
+// Replace X Weapons With PSPR-1
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000063
+
+// Replace X Weapons With PSPR-1 v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000028
+
+// Replace X Weapons With PSPR-1 GB
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000053
+
+// Replace X Weapons With PSPR-1 GB v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000052
+
+// Replace X Weapons With PSPR-1 GB v3
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000051
+
+// Replace X Weapons With PSPR-1 GB v4
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000029
+
+// Replace X Weapons With R1100P
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000001E
+
+// Replace X Weapons With R11-96P
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000001F
+
+// Replace X Weapons With RG140
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000032
+
+// Replace X Weapons With RK SOP Mod
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000017
+
+// Replace X Weapons With RK-47
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000068
+
+// Replace X Weapons With RK-47 v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000061
+
+// Replace X Weapons With RK-47 v3
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000005A
+
+// Replace X Weapons With RK-47 v4
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000015
+
+// Replace X Weapons With RSP10
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000020
+
+// Replace X Weapons With S550
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000001A
+
+// Replace X Weapons With S552
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000060
+
+// Replace X Weapons With S552 v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000019
+
+// Replace X Weapons With S556Swat
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000069
+
+// Replace X Weapons With S556Swat v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000005F
+
+// Replace X Weapons With S556Swat v3
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000005B
+
+// Replace X Weapons With S556Swat v4
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000018
+
+// Replace X Weapons With Satellite C.
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 00000050
+
+// Replace X Weapons With Satellite C. v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000004F
+
+// Replace X Weapons With Satellite C. v3
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000004E
+
+// Replace X Weapons With SBI4.3 CMP.
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000000B
+
+// Replace X Weapons With SR110
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000002C
+
+// Replace X Weapons With SZ220 SAO
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000000E
+
+// Replace X Weapons With SZ229
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000000D
+
+// Replace X Weapons With SZ239 v2
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000000C
+
+// Replace X Weapons With XM109
+Author = libretro-database contributors / original PSP cheat authors
+214A15EC 0000002F

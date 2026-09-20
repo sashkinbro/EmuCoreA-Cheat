@@ -1,0 +1,88 @@
+# PSP cheat pack
+# Serial: ULJS-00114
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Enemy HP 0 [R+Down] (CWC)
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10000240
+601A13F8 00000000
+00050002 000001E8
+20000004 00000000
+
+// Enemy HP 0 [R+Down] (FC)
+Author = libretro-database contributors / original PSP cheat authors
+D0000005 10000240
+601A13F8 00000000
+00060000 00000004
+60000000 00000000
+00050001 000001E8
+90000000 00000000
+
+// Enemy HP 0 (CMF)
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000210
+501A13F8 00000004
+00001000 00000000
+D0000000 10000220
+70001000 00000004
+D0000002 10000240
+60001000 00000000
+00050002 00000000
+000001E8 00000000
+
+// Enemy Mana 0 [R+Up] (FC)
+Author = libretro-database contributors / original PSP cheat authors
+D0000005 10000210
+601A13F8 00000000
+00060000 00000004
+60000000 00000000
+00050008 000001E4
+90000001 00000000
+
+// Enemy Mana 0
+Author = libretro-database contributors / original PSP cheat authors
+603A1EC4 00000000
+00020008 00000C08
+90000001 00000000
+
+// HP 65535
+Author = libretro-database contributors / original PSP cheat authors
+601A14C8 0000FFFF
+00020001 00000050
+00020001 0000005C
+
+// Inf. HP/Mana
+Author = libretro-database contributors / original PSP cheat authors
+601A14C8 00000004
+00000002 00000050
+1000005C 00000000
+601A14C8 00000010
+00000002 00000070
+10000060 00000000
+
+// Mana 999
+Author = libretro-database contributors / original PSP cheat authors
+601A14C8 000003E7
+00020008 00000060
+90000001 00000000
+
+// Money 9999
+Author = libretro-database contributors / original PSP cheat authors
+601A14C8 0001869F
+00020001 00000080
+
+// Skill Point 999
+Author = libretro-database contributors / original PSP cheat authors
+601A14C8 000003E7
+00020001 0000018C
+
+// Skill 50 De 30000
+Author = libretro-database contributors / original PSP cheat authors
+10093358 00000032
+10093360 00007530
+
+// Status 999
+Author = libretro-database contributors / original PSP cheat authors
+601A14C8 000003E7
+00020007 00000034
+90000001 00000000

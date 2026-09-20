@@ -1,0 +1,139 @@
+# PSP cheat pack
+# Serial: ULKS-46155
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// SoTN - Full Screen Patch
+Author = libretro-database contributors / original PSP cheat authors
+10113A74 000001E0
+10118C10 000001E0
+1011AD38 000001E0
+1011AE38 000001E0
+1011AE54 000001E0
+1011C6E0 000001E0
+
+// 99 Heart
+Author = libretro-database contributors / original PSP cheat authors
+003F8B2A 00000063
+
+// 99 Lives (Rest)
+Author = libretro-database contributors / original PSP cheat authors
+003F8B3C 00000063
+
+// 999,999,999 Gold
+Author = libretro-database contributors / original PSP cheat authors
+20963F84 3B9ACA00
+
+// Death Man Walking
+Author = libretro-database contributors / original PSP cheat authors
+00D1E3F0 000000FF
+
+// Full Life
+Author = libretro-database contributors / original PSP cheat authors
+003F8B28 0000005C
+00B3A578 0000005C
+
+// Original RoB - Inf. Credits
+Author = libretro-database contributors / original PSP cheat authors
+004EF516 00000099
+
+// Original RoB - Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+004EF514 0000005C
+
+// Original RoB - Inf. Hearts
+Author = libretro-database contributors / original PSP cheat authors
+004EF518 00000099
+
+// Original RoB - Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+004EF50D 00000099
+
+// Rob - Invincible (Richter)
+Author = libretro-database contributors / original PSP cheat authors
+00D1E3F0 00000020
+
+// RoB - Invincible In Boss Mode (Maria)
+Author = libretro-database contributors / original PSP cheat authors
+00E24770 00000020
+
+// RoB - Invincible In Boss Mode (Richter)
+Author = libretro-database contributors / original PSP cheat authors
+00D740B0 00000020
+
+// RoB-Have Axe
+Author = libretro-database contributors / original PSP cheat authors
+003F8B2C 00000002
+00D1E445 00000002
+
+// RoB-Have Dagger
+Author = libretro-database contributors / original PSP cheat authors
+003F8B2C 00000001
+00D1E445 00000001
+
+// RoB-Have Holy Book
+Author = libretro-database contributors / original PSP cheat authors
+003F8B2C 00000005
+00D1E445 00000005
+
+// RoB-Have Holy Cross
+Author = libretro-database contributors / original PSP cheat authors
+003F8B2C 00000004
+00D1E445 00000004
+
+// RoB-Have Holy Water
+Author = libretro-database contributors / original PSP cheat authors
+003F8B2C 00000003
+00D1E445 00000003
+
+// RoB-Have Key
+Author = libretro-database contributors / original PSP cheat authors
+003F8B2C 00000007
+00D1E445 00000007
+
+// RoB-Have No Item
+Author = libretro-database contributors / original PSP cheat authors
+003F8B2C 00000000
+00D1E445 00000000
+
+// RoB-Have Pocket Watch
+Author = libretro-database contributors / original PSP cheat authors
+003F8B2C 00000006
+00D1E445 00000006
+
+// RoB-Invincible (Maria)
+Author = libretro-database contributors / original PSP cheat authors
+00DCEAF0 00000020
+
+// Score 9,999,999
+Author = libretro-database contributors / original PSP cheat authors
+203F8B30 0098967F
+203F8B34 0098967F
+
+// SOTN - 999 Con.
+Author = libretro-database contributors / original PSP cheat authors
+20963F50 000003E7
+
+// SOTN - 999 Int.
+Author = libretro-database contributors / original PSP cheat authors
+20963F54 000003E7
+
+// SOTN - 999 Luck
+Author = libretro-database contributors / original PSP cheat authors
+20963F58 000003E7
+
+// SOTN - 999 Strength
+Author = libretro-database contributors / original PSP cheat authors
+20963F4C 000003E7
+
+// SOTN - Inf. Hearts
+Author = libretro-database contributors / original PSP cheat authors
+20963F3C 0000003B
+
+// SOTN - Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+20962610 0000004D
+20963F34 0000004D
+
+// SOTN - Inf. MP
+Author = libretro-database contributors / original PSP cheat authors
+20963F44 00000021

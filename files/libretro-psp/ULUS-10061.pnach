@@ -1,0 +1,25 @@
+# PSP cheat pack
+# Serial: ULUS-10061
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99 Prehistoric Parts
+Author = libretro-database contributors / original PSP cheat authors
+00409094 00000063
+00409098 00000063
+0040909C 00000063
+
+// 99 Prehistoric Parts v2
+Author = libretro-database contributors / original PSP cheat authors
+00411114 00000063
+00411118 00000063
+0041111C 00000063
+
+// Max Energy
+Author = libretro-database contributors / original PSP cheat authors
+00408CD0 00000064
+00408CD4 00000064
+
+// Max Energy v2
+Author = libretro-database contributors / original PSP cheat authors
+00410D50 00000064
+00410D54 00000064

@@ -1,0 +1,91 @@
+# PSP cheat pack
+# Serial: ULUS-10128
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Ammo: MP & GA+
+Author = libretro-database contributors / original PSP cheat authors
+208AA118 000003E7
+
+// Infinite Ammo: Old Ve+
+Author = libretro-database contributors / original PSP cheat authors
+208AA130 000003E7
+
+// Infinite Ammo: Painkiller
+Author = libretro-database contributors / original PSP cheat authors
+208AA124 000003E7
+
+// Infinite Ammo: Pistol
+Author = libretro-database contributors / original PSP cheat authors
+208AA118 000003E7
+
+// Infinite Ammo: Pistol (v1.02)
+Author = libretro-database contributors / original PSP cheat authors
+008E0038 00000063
+
+// Infinite Body Armor
+Author = libretro-database contributors / original PSP cheat authors
+208A87D4 48E541A4
+
+// Infinity Flashbang
+Author = libretro-database contributors / original PSP cheat authors
+208B0768 00000063
+
+// Infinity Frag Grenade
+Author = libretro-database contributors / original PSP cheat authors
+208B0538 00000063
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+208A88E6 000000C8
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+208A86B8 000F1206
+
+// Infinite Money (v1.02)
+Author = libretro-database contributors / original PSP cheat authors
+208DC6B8 3B9AC9FF
+
+// Infinite Painkillers
+Author = libretro-database contributors / original PSP cheat authors
+208A897C 00000063
+
+// Infinite Pills
+Author = libretro-database contributors / original PSP cheat authors
+208A8977 00000063
+
+// Infinite Pills (v1.02)
+Author = libretro-database contributors / original PSP cheat authors
+008DC7CC 00000063
+
+// Infinite Stamina
+Author = libretro-database contributors / original PSP cheat authors
+208A88AE 000000C8
+
+// One Hit Kills (v1.02)
+Author = libretro-database contributors / original PSP cheat authors
+200346DC 00000001
+
+// Rapid Fire: GA+
+Author = libretro-database contributors / original PSP cheat authors
+209F9A68 00000063
+
+// Rapid Fire: MP
+Author = libretro-database contributors / original PSP cheat authors
+208ADC08 00000063
+
+// Rapid Fire: Old Ve+
+Author = libretro-database contributors / original PSP cheat authors
+208ACFC8 00000063
+
+// Rapid Fire: Painkiller
+Author = libretro-database contributors / original PSP cheat authors
+208ACAC8 00000063
+
+// Rapid Fire: Pistol
+Author = libretro-database contributors / original PSP cheat authors
+208AC1E8 00000063
+
+// Walk Anywhere (v1.02)
+Author = libretro-database contributors / original PSP cheat authors
+200137D4 0000000C

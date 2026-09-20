@@ -1,0 +1,207 @@
+# PSP cheat pack
+# Serial: ULJM-05957
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Black Sky Fix
+Author = libretro-database contributors / original PSP cheat authors
+E004002D 004721C0
+204721C0 0A200580
+20001600 254AFFFF
+20001604 0A31C872
+20001608 98CB002D
+
+// Black Sky Fix [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010580 004721C0
+204721C0 98CB002D
+
+// LOD Multiplier
+Author = libretro-database contributors / original PSP cheat authors
+E0067F59 000D85CC
+200D85CC 0E200560
+20001580 3C1B4080
+20001584 449BF800
+20001588 0A317F59
+2000158C 461F6302
+200D85E0 0E200560
+
+// LOD Multiplier [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0060560 000D85CC
+200D85CC 0E317F59
+200D85E0 0E317F59
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E003FFF7 003DC938
+203DC938 00000000
+20047CC0 46006346
+20047FC0 46006B06
+
+// 60 FPS [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0030000 003DC938
+203DC938 1620FFF7
+20047CC0 460C0342
+20047FC0 460D6302
+
+// 60 FPS [Fixed]
+Author = libretro-database contributors / original PSP cheat authors
+E003665A 003A99B0
+203A99B0 00000000
+20047CC0 46006346
+20047FC0 46006B06
+20561FBC 00000002
+
+// 422 Unit Members HP/AP Recovery In The [Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000001
+80877EA0 001A0080
+1000270F 00000000
+40877EA4 001A0040
+44480000 00000000
+
+// All Accessories
+Author = libretro-database contributors / original PSP cheat authors
+80541945 003D0001
+00000001 00000000
+
+// All Soldiers Armors
+Author = libretro-database contributors / original PSP cheat authors
+4053AB7C 000F0001
+01000100 00000000
+4053AC30 000F0001
+01FF01FF 00000000
+
+// All Soldier Job Lv.l = Star
+Author = libretro-database contributors / original PSP cheat authors
+80532500 00640040
+000000FF 00000000
+80532501 00640040
+80532502 00640040
+80532503 00640040
+80532504 00640040
+
+// All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+4053FE48 001E0001
+01000100 00000000
+4053FF24 000F0001
+4053FF88 001E0001
+40540050 000F0001
+405400B4 000F0001
+40540140 000F0001
+405401A4 00280001
+40540294 001E0001
+4054035C 00140001
+405403FC 000F0001
+40540474 000A0001
+405404D8 00140001
+80540618 00030002
+10000100 00000000
+8054062C 00030002
+
+// All Weapons v2 (Add Unique Weapons From Drop)
+Author = libretro-database contributors / original PSP cheat authors
+4053FE48 05B00001
+01070107 00000000
+
+// AP Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+40877EA4 00360040
+447A0000 00000000
+
+// Camera Up/Down Limit Remove
+Author = libretro-database contributors / original PSP cheat authors
+200927A8 10000003
+200927BC 10000002
+
+// CP Max [Press Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000001
+00876DDC 00000014
+
+// CP Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+00876DDC 00000014
+
+// DCT 99999999
+Author = libretro-database contributors / original PSP cheat authors
+205352A0 05F5E0FF
+
+// DCT 999999999
+Author = libretro-database contributors / original PSP cheat authors
+205352A0 3B9AC9FF
+
+// DCT Gain x4
+Author = libretro-database contributors / original PSP cheat authors
+20001C00 00052880
+20001C04 0A2186D9
+20001C08 AE65003C
+20076490 0E200700
+
+// Exp. 99999999
+Author = libretro-database contributors / original PSP cheat authors
+205352A4 05F5E0FF
+
+// Exp. 999999999
+Author = libretro-database contributors / original PSP cheat authors
+205352A4 3B9AC9FF
+
+// Exp. Gain x4
+Author = libretro-database contributors / original PSP cheat authors
+20001C10 00052880
+20001C14 0A2186E7
+20001C18 AE65001C
+2007649C 0E200704
+
+// Full Skill
+Author = libretro-database contributors / original PSP cheat authors
+40532500 00400010
+FFFFFFFF 00000000
+80532504 00400040
+0000007F 00000000
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2007F664 1000000C
+
+// Infinite Ammo [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2007F664 0660000C
+
+// Infinite Moving
+Author = libretro-database contributors / original PSP cheat authors
+100F39FA 00000000
+
+// Infinite Moving [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+100F39FA 34E70100
+
+// Moral [Press Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000001
+00891A70 00000064
+
+// Soldiers Potentials Are Activated Very Often
+Author = libretro-database contributors / original PSP cheat authors
+80539394 01000018
+000000FF 00000000
+80539396 01000018
+80539398 01000018
+8053939A 01000018
+8053939C 01000018
+8053939E 01000018
+805393A0 01000018
+805393A2 01000018
+
+// SP Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+00876DF0 00000003
+
+// Training
+Author = libretro-database contributors / original PSP cheat authors
+805352B0 00030004
+00000030 00000000
+805352BC 00040004
+00000012 00000000

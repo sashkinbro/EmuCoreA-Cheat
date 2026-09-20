@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULUS-10313
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Levels Open
+Author = libretro-database contributors / original PSP cheat authors
+20137AF8 2417000F
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+200E592C 24020001
+
+// Infinite AP
+Author = libretro-database contributors / original PSP cheat authors
+200E5884 24020001
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+200E58D8 24020001

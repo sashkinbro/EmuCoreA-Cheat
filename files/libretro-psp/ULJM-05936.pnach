@@ -1,0 +1,32 @@
+# PSP cheat pack
+# Serial: ULJM-05936
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// New Game = Debug Menu
+Author = libretro-database contributors / original PSP cheat authors
+009C9036 00000003
+
+// Album CG All
+Author = libretro-database contributors / original PSP cheat authors
+20787684 FFFFFFFF
+20787688 FFFFFFFF
+2078768C FFFFFFFF
+20787690 0000FFFF
+20787692 000000FF
+
+// Ending All
+Author = libretro-database contributors / original PSP cheat authors
+2078762A 0000FFFF
+
+// Memories Add
+Author = libretro-database contributors / original PSP cheat authors
+20787625 00000077
+
+// Movie All
+Author = libretro-database contributors / original PSP cheat authors
+20787630 000000FF
+
+// Music All
+Author = libretro-database contributors / original PSP cheat authors
+20787632 000000FF
+20787744 FFFFFFFF

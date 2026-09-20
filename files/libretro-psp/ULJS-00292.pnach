@@ -1,0 +1,51 @@
+# PSP cheat pack
+# Serial: ULJS-00292
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Alphonse All Action Skill Learned
+Author = libretro-database contributors / original PSP cheat authors
+801D39CF 00090001
+10000001 00000000
+801D39D9 00100001
+
+// Alphonse All Auto Skill Learned
+Author = libretro-database contributors / original PSP cheat authors
+801D3A1F 00560001
+10000001 00000000
+
+// Edward All Action Skill Learned
+Author = libretro-database contributors / original PSP cheat authors
+801D38C1 00070001
+10000001 00000000
+801D38CA 00130001
+
+// Edward All Auto Skill Learned
+Author = libretro-database contributors / original PSP cheat authors
+801D3911 00560001
+10000001 00000000
+
+// HP&MP 9999
+Author = libretro-database contributors / original PSP cheat authors
+20189538 08800000
+20189538 00000000
+10000368 0000270F
+1000036C 0000270F
+1000036E 0000270F
+10000370 0000270F
+D2000000 00000000
+
+// Max HP For First Player
+Author = libretro-database contributors / original PSP cheat authors
+20189538 00000000
+10000334 0000270F
+D2000000 00000000
+
+// Max HP For First Player v2
+Author = libretro-database contributors / original PSP cheat authors
+20189538 0000270F
+00020000 10000334
+
+// Max HP For First Player v3
+Author = libretro-database contributors / original PSP cheat authors
+20189538 0000270F
+00020001 10000334

@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: ULJS-00005
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+2008F6D4 0000001E
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2008F6D4 0000003C

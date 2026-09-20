@@ -1,0 +1,34 @@
+# PSP cheat pack
+# Serial: ULUS-10304
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+211AC3AC 3F800000
+205018A4 3F4CCCCD
+
+// Standard Screen (4:3)
+Author = libretro-database contributors / original PSP cheat authors
+211AC3AC 3F666666
+205018A4 3F333333
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+211AC3AC 3FCCCCCD
+205425F8 3FC66666
+205018A4 3F933333
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+211AC3AC 3F99999A
+205018A4 3F800000
+212E93A8 3F8CCCCD
+
+// 10000000 Mojo
+Author = libretro-database contributors / original PSP cheat authors
+2139B070 10000000
+2139B090 10000000
+
+// 99 Lives
+Author = libretro-database contributors / original PSP cheat authors
+0139B160 00000063

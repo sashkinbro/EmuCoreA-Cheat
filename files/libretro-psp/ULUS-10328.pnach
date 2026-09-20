@@ -1,0 +1,61 @@
+# PSP cheat pack
+# Serial: ULUS-10328
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+006FC0F0 00000001
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+006FC0F0 00000000
+
+// Carnage Mode Total Score 1,500,000
+Author = libretro-database contributors / original PSP cheat authors
+20AC24A8 0016E360
+
+// Have All Carnage Completed
+Author = libretro-database contributors / original PSP cheat authors
+80B03754 0006006C
+00000001 00000000
+80B03E24 0006006C
+80B044F4 0006006C
+80B04BC4 0006006C
+80B05294 0006006C
+80B05964 0006006C
+
+// Have All Cars Fully Upgrade
+Author = libretro-database contributors / original PSP cheat authors
+40AC51B9 00220008
+FFFFFFFF 00000000
+80AC51BD 00220010
+10001FFF 00000000
+40AC51CB 00220008
+000303E0 00000000
+
+// Have All Cars In Garage
+Author = libretro-database contributors / original PSP cheat authors
+80AC51B4 00220020
+00000001 00000000
+
+// Have All Cups/Events Completed
+Author = libretro-database contributors / original PSP cheat authors
+80B06030 003A0004
+00000001 00000000
+
+// Inf. CR
+Author = libretro-database contributors / original PSP cheat authors
+00AC2F88 000F423F
+
+// Inf. Max Nitro
+Author = libretro-database contributors / original PSP cheat authors
+60BBB850 40A00000
+00020001 0000059C
+
+// Inf. Nudge
+Author = libretro-database contributors / original PSP cheat authors
+00BC19B0 000000FF
+
+// Unlock All Cars
+Author = libretro-database contributors / original PSP cheat authors
+80AC51B0 002B0020

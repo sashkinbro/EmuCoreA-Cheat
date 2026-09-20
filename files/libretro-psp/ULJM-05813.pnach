@@ -1,0 +1,80 @@
+# PSP cheat pack
+# Serial: ULJM-05813
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Test Menu At Boot
+Author = libretro-database contributors / original PSP cheat authors
+002BA60C 0000002D
+
+// All Ability Max （Lv 6 Max）
+Author = libretro-database contributors / original PSP cheat authors
+8038F50A 000F0028
+10001E1E 00000000
+8038F50C 000F0028
+
+// All Card (When The Game Starts To Use It Immediately)
+Author = libretro-database contributors / original PSP cheat authors
+803836E8 00080001
+000000FF 00000000
+
+// All Card Can Use
+Author = libretro-database contributors / original PSP cheat authors
+0038C224 00000029
+
+// All Card Power 5000
+Author = libretro-database contributors / original PSP cheat authors
+803836F0 00360001
+10001388 00000000
+
+// All Props
+Author = libretro-database contributors / original PSP cheat authors
+803048E4 00200001
+000000FF 00000000
+00304905 000000FF
+
+// Enemy Do Not Special Attact
+Author = libretro-database contributors / original PSP cheat authors
+6038A3E4 00000000
+00010001 00000010
+
+// Enemy Kill (Select)
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000001
+6038A2BC 00000001
+00010001 00000004
+
+// Lv. 20
+Author = libretro-database contributors / original PSP cheat authors
+8038F500 000F0050
+00000014 00000000
+
+// Morale 9999
+Author = libretro-database contributors / original PSP cheat authors
+8038F514 000F0028
+1000270F 00000000
+8038F512 000F0028
+
+// Movement 99
+Author = libretro-database contributors / original PSP cheat authors
+003049C0 00000063
+
+// Special Attact Gugre Max
+Author = libretro-database contributors / original PSP cheat authors
+2038A2C0 0E600E60
+
+// Team Not Dec. HP
+Author = libretro-database contributors / original PSP cheat authors
+6038A2B8 0000270F
+00010001 00000004
+
+// Time (Day)
+Author = libretro-database contributors / original PSP cheat authors
+003049BC 00000000
+
+// Time (Evening)
+Author = libretro-database contributors / original PSP cheat authors
+003049BC 00000001
+
+// Time (Night)
+Author = libretro-database contributors / original PSP cheat authors
+003049BC 00000002

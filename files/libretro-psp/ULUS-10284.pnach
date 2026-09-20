@@ -1,0 +1,16 @@
+# PSP cheat pack
+# Serial: ULUS-10284
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 999,999 Rookie Upgrade Points
+Author = libretro-database contributors / original PSP cheat authors
+0089FC0C 3B9AC9FF
+
+// 1,000,000 Upgrade Points
+Author = libretro-database contributors / original PSP cheat authors
+2089FC0C 000F4240
+
+// Instant PB [Activate & Deactivate]
+Author = libretro-database contributors / original PSP cheat authors
+008A0858 3B9ACA00
+008A085C 3B9ACA00

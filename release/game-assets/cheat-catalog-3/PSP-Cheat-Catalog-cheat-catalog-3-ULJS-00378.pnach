@@ -1,0 +1,826 @@
+# PSP cheat pack
+# Serial: ULJS-00378
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS (Beta)
+Author = libretro-database contributors / original PSP cheat authors
+2019EDC0 00000000
+
+// Album Add Event
+Author = libretro-database contributors / original PSP cheat authors
+20329900 FFFFFFFF
+
+// Biorhythm Time Gauge No Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2004E778 00000000
+
+// Camera Unlimit (Bank)
+Author = libretro-database contributors / original PSP cheat authors
+20074C74 4600003E
+20074CAC 4600003C
+
+// Camera Unlimit (Height)
+Author = libretro-database contributors / original PSP cheat authors
+20006BD4 4600003E
+20006C04 10000007
+
+// Camera Unlimit (Other Than Look)
+Author = libretro-database contributors / original PSP cheat authors
+20006CC4 24020001
+20007874 10000016
+200078EC 10000013
+20007944 57E00026
+20074AF0 1000000A
+20074B24 1000000A
+20074C74 4600003E
+20074CAC 4600003C
+20191E08 24020001
+
+// Camera Unlimit (Zoom)
+Author = libretro-database contributors / original PSP cheat authors
+20074AF0 1000000A
+20074B24 1000000A
+
+// Camera Zoom Bank (Only Bank & Zoom)
+Author = libretro-database contributors / original PSP cheat authors
+20074AF0 1000000A
+20074B24 1000000A
+20074C74 4600003E
+20074CAC 4600003C
+
+// Clear Flag
+Author = libretro-database contributors / original PSP cheat authors
+103297C2 000000FF
+103297C4 000001FF
+103297C6 0000003F
+
+// Escape Character
+Author = libretro-database contributors / original PSP cheat authors
+20006E48 00000000
+
+// Event 100%
+Author = libretro-database contributors / original PSP cheat authors
+8032987C 00330001
+1000FFFF 00000000
+
+// Finder Start [Square=Off Or Triangle=On]
+Author = libretro-database contributors / original PSP cheat authors
+E0028008 002DCE40
+2000B9A8 24120000
+2000B9E4 24110000
+E0021008 002DCE40
+2000B9A8 30D200FF
+2000B9E4 00A08825
+
+// FPSM Camera
+Author = libretro-database contributors / original PSP cheat authors
+20063D5C C48E0004
+20063D78 10000003
+20063D7C E48C0004
+20063DA0 10000002
+20063D44 3C04461C
+20063DB0 00000000
+20063DDC E7AE0000
+20063DF0 E7AC0004
+D0000005 10008000
+20063D5C C48E0000
+20063D7C E48C0000
+20063DDC E7AE0004
+20063DF0 E7AC0000
+D0000003 10001000
+20063D5C C48E0008
+20063D7C E48C0008
+D0000001 10000200
+20063D44 3C0443FA
+20063DB0 00129080
+
+// Free Photo All
+Author = libretro-database contributors / original PSP cheat authors
+70329900 00000004
+70329902 000000C0
+70329903 0000007F
+
+// Hyouka Open
+Author = libretro-database contributors / original PSP cheat authors
+203298F8 3FFFFFFF
+
+// Install Menu = Debug Menu
+Author = libretro-database contributors / original PSP cheat authors
+2009AE98 0E2369FC
+
+// Likability All Heart
+Author = libretro-database contributors / original PSP cheat authors
+8032BBB8 00100001
+000000FF 00000000
+
+// Likability All Max
+Author = libretro-database contributors / original PSP cheat authors
+8032BBA2 00080001
+0000000F 00000000
+
+// Love All Heart
+Author = libretro-database contributors / original PSP cheat authors
+8032BBB8 00120001
+100003FF 00000000
+
+// Love Max Aki
+Author = libretro-database contributors / original PSP cheat authors
+8032BBA2 00020009
+0000000A 00000000
+
+// Love Max All Chara.
+Author = libretro-database contributors / original PSP cheat authors
+8032BBA1 00120001
+0000000A 00000000
+
+// Love Max Haruka:
+Author = libretro-database contributors / original PSP cheat authors
+8032BBA1 00020009
+0000000A 00000000
+
+// Love Max Hikari
+Author = libretro-database contributors / original PSP cheat authors
+8032BBA4 00020009
+0000000A 00000000
+
+// Love Max Mai
+Author = libretro-database contributors / original PSP cheat authors
+8032BBA3 00020009
+0000000A 00000000
+
+// Love Max Nonoka
+Author = libretro-database contributors / original PSP cheat authors
+8032BBA5 00020009
+0000000A 00000000
+
+// Love Max Rina
+Author = libretro-database contributors / original PSP cheat authors
+8032BBA6 00020009
+0000000A 00000000
+
+// Love Max Tomoe
+Author = libretro-database contributors / original PSP cheat authors
+8032BBA7 00020009
+0000000A 00000000
+
+// Matching Talk Time Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2004E778 00000000
+
+// Max Rabbit
+Author = libretro-database contributors / original PSP cheat authors
+0032C008 00000005
+
+// Motion Sel [Square=Stop Or Triangle=Start]
+Author = libretro-database contributors / original PSP cheat authors
+D02DCE40 00008001
+2001C320 00000000
+D02DCE40 00001001
+2001C320 E60C0C68
+
+// Photo Point x2
+Author = libretro-database contributors / original PSP cheat authors
+2007A8C8 0A200460
+20001180 03E00008
+20001184 00021040
+
+// Photo Point x8
+Author = libretro-database contributors / original PSP cheat authors
+2007A8C8 0A200460
+20001180 03E00008
+20001184 00021080
+
+// Photo Point x32
+Author = libretro-database contributors / original PSP cheat authors
+2007A8C8 0A200460
+20001180 03E00008
+20001184 00021140
+
+// RHYTHM Photo All
+Author = libretro-database contributors / original PSP cheat authors
+70329905 0000007F
+00329906 000000FF
+70329907 0000000F
+
+// RPS Perfect
+Author = libretro-database contributors / original PSP cheat authors
+2005E3D4 00000000
+2005E4FC 5000001D
+
+// Shutter Chance Time Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+20072208 10000034
+2007220C 00000000
+D0000000 10000011
+20072208 14000034
+
+// Skirt Off
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E200454
+20001154 54350005
+20001158 C60D0020
+2000115C 24010000
+20001160 44816000
+20001164 44816800
+20001168 44817000
+2000116C 03E00008
+20001150 2401004A
+
+// Skirt Off v2
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E200454
+20001154 54350005
+20001158 C60D0020
+2000115C 24010000
+20001160 44816000
+20001164 44816800
+20001168 44817000
+2000116C 03E00008
+20001150 2401004B
+
+// Skirt Off v3
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E200454
+20001154 54350005
+20001158 C60D0020
+2000115C 24010000
+20001160 44816000
+20001164 44816800
+20001168 44817000
+2000116C 03E00008
+20001150 2401004C
+
+// Skirt Off v4
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E200454
+20001154 54350005
+20001158 C60D0020
+2000115C 24010000
+20001160 44816000
+20001164 44816800
+20001168 44817000
+2000116C 03E00008
+20001150 2401004D
+
+// Skirt Off 2 [(P1)]
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E20044D
+20001134 C60D0020
+2000113C 1435000B
+20001140 3C010880
+20001144 8C211100
+20001148 54200006
+2000114C 24050000
+20001150 24010000
+20001154 44816000
+20001158 44816800
+2000115C 44817000
+20001160 24050001
+20001164 3C010880
+20001168 AC251100
+2000116C 03E00008
+20001138 2401004B
+
+// Skirt Off 2 [(P1)] v2
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E20044D
+20001134 C60D0020
+2000113C 1435000B
+20001140 3C010880
+20001144 8C211100
+20001148 54200006
+2000114C 24050000
+20001150 24010000
+20001154 44816000
+20001158 44816800
+2000115C 44817000
+20001160 24050001
+20001164 3C010880
+20001168 AC251100
+2000116C 03E00008
+20001138 24010038
+
+// Skirt Off 2 [(P1)] v3
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E20044D
+20001134 C60D0020
+2000113C 1435000B
+20001140 3C010880
+20001144 8C211100
+20001148 54200006
+2000114C 24050000
+20001150 24010000
+20001154 44816000
+20001158 44816800
+2000115C 44817000
+20001160 24050001
+20001164 3C010880
+20001168 AC251100
+2000116C 03E00008
+20001138 24010039
+
+// Skirt Off 2 [(P1)] v4
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E20044D
+20001134 C60D0020
+2000113C 1435000B
+20001140 3C010880
+20001144 8C211100
+20001148 54200006
+2000114C 24050000
+20001150 24010000
+20001154 44816000
+20001158 44816800
+2000115C 44817000
+20001160 24050001
+20001164 3C010880
+20001168 AC251100
+2000116C 03E00008
+20001138 2401003B
+
+// Skirt Off 2 [(P1)] v5
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E20044D
+20001134 C60D0020
+2000113C 1435000B
+20001140 3C010880
+20001144 8C211100
+20001148 54200006
+2000114C 24050000
+20001150 24010000
+20001154 44816000
+20001158 44816800
+2000115C 44817000
+20001160 24050001
+20001164 3C010880
+20001168 AC251100
+2000116C 03E00008
+20001138 24010049
+
+// Skirt Off 2 [(P2)]
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E20044D
+20001134 C60D0020
+2000113C 1435000B
+20001140 3C010880
+20001144 8C211100
+20001148 50200006
+2000114C 24050001
+20001150 24010000
+20001154 44816000
+20001158 44816800
+2000115C 44817000
+20001160 24050000
+20001164 3C010880
+20001168 AC251100
+2000116C 03E00008
+20001138 24010038
+
+// Skirt Off 2 [(P2)] v2
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E20044D
+20001134 C60D0020
+2000113C 1435000B
+20001140 3C010880
+20001144 8C211100
+20001148 50200006
+2000114C 24050001
+20001150 24010000
+20001154 44816000
+20001158 44816800
+2000115C 44817000
+20001160 24050000
+20001164 3C010880
+20001168 AC251100
+2000116C 03E00008
+20001138 24010039
+
+// Skirt Off 2 [(P2)] v3
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E20044D
+20001134 C60D0020
+2000113C 1435000B
+20001140 3C010880
+20001144 8C211100
+20001148 50200006
+2000114C 24050001
+20001150 24010000
+20001154 44816000
+20001158 44816800
+2000115C 44817000
+20001160 24050000
+20001164 3C010880
+20001168 AC251100
+2000116C 03E00008
+20001138 2401003B
+
+// Skirt Off 2 [(P2)] v4
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E20044D
+20001134 C60D0020
+2000113C 1435000B
+20001140 3C010880
+20001144 8C211100
+20001148 50200006
+2000114C 24050001
+20001150 24010000
+20001154 44816000
+20001158 44816800
+2000115C 44817000
+20001160 24050000
+20001164 3C010880
+20001168 AC251100
+2000116C 03E00008
+20001138 24010049
+
+// Skirt Off 2 [(P2)] v5
+Author = libretro-database contributors / original PSP cheat authors
+20194EDC 0E20044D
+20001134 C60D0020
+2000113C 1435000B
+20001140 3C010880
+20001144 8C211100
+20001148 50200006
+2000114C 24050001
+20001150 24010000
+20001154 44816000
+20001158 44816800
+2000115C 44817000
+20001160 24050000
+20001164 3C010880
+20001168 AC251100
+2000116C 03E00008
+20001138 2401004B
+
+// Tension Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+E1020007 1032BDC7
+D0352CEA 201000AB
+10352CEA 00006464
+
+// Time Gauge No Dec. (On The End = Select+)
+Author = libretro-database contributors / original PSP cheat authors
+20072208 10000034
+2007220C 00000000
+D0000000 10000011
+20072208 14000034
+
+// USA Power Max
+Author = libretro-database contributors / original PSP cheat authors
+2002BE68 00000000
+
+// Free Costume [No.0]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120000
+
+// Free Costume [No.1]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120001
+
+// Free Costume [No.2]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120002
+
+// Free Costume [No.3]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120003
+
+// Free Costume [No.4]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120004
+
+// Free Costume [No.5]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120005
+
+// Free Costume [No.6]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120006
+
+// Free Costume [No.7]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120007
+
+// Free Costume [No.8]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120008
+
+// Free Costume [No.9]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120009
+
+// Free Costume [No.9.1]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412000B
+
+// Free Costume [No.9.2]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412000C
+
+// Free Costume [No.9.3]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412000F
+
+// Free Costume [No.10]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120010
+
+// Free Costume [No.11]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120011
+
+// Free Costume [No.12]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120012
+
+// Free Costume [No.13]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120013
+
+// Free Costume [No.14?]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120014
+
+// Free Costume [No.15]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120015
+
+// Free Costume [No.16]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120016
+
+// Free Costume [No.17]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120017
+
+// Free Costume [No.18]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120018
+
+// Free Costume [No.19?]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120019
+
+// Free Costume [No.19.1]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412001C
+
+// Free Costume [No.19.2]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412001D
+
+// Free Costume [No.19.3]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412001E
+
+// Free Costume [No.19.4]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412001F
+
+// Free Costume [No.20]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120020
+
+// Free Costume [No.21]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120021
+
+// Free Costume [No.22]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120022
+
+// Free Costume [No.23]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120023
+
+// Free Costume [No.24]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120024
+
+// Free Costume [No.25]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120025
+
+// Free Costume [No.26]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120026
+
+// Free Costume [No.27]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120027
+
+// Free Costume [No.28]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120028
+
+// Free Costume [No.29]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120029
+
+// Free Costume [No.29.1]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412002A
+
+// Free Costume [No.29.2]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412002B
+
+// Free Costume [No.29.3]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412002C
+
+// Free Costume [No.29.4]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412002D
+
+// Free Costume [No.29.5]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412002E
+
+// Free Costume [No.29.6]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412002F
+
+// Free Costume [No.30]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120030
+
+// Free Costume [No.31]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120031
+
+// Free Costume [No.32]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120032
+
+// Free Costume [No.33]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120033
+
+// Free Costume [No.34]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120034
+
+// Free Costume [No.35]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120035
+
+// Free Costume [No.36]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120036
+
+// Free Costume [No.37]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120037
+
+// Free Costume [No.38]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120038
+
+// Free Costume [No.39]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120039
+
+// Free Costume [No.39.1]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412003A
+
+// Free Costume [No.39.2]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412003B
+
+// Free Costume [No.39.3]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412003C
+
+// Free Costume [No.39.4]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412003D
+
+// Free Costume [No.39.5]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412003E
+
+// Free Costume [No.39.6]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412003F
+
+// Free Costume [No.40]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120040
+
+// Free Costume [No.41]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120041
+
+// Free Costume [No.42]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120042
+
+// Free Costume [No.43]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120043
+
+// Free Costume [No.44]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120044
+
+// Free Costume [No.45]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120045
+
+// Free Costume [No.46?]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120046
+
+// Free Costume [No.47?]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120047
+
+// Free Costume [No.48?]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120048
+
+// Free Costume [No.49]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120049
+
+// Free Costume [No.49.1]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412004A
+
+// Free Costume [No.49.2]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412004B
+
+// Free Costume [No.49.3]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412004C
+
+// Free Costume [No.49.4]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412004D
+
+// Free Costume [No.49.5]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412004E
+
+// Free Costume [No.49.6]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412004F
+
+// Free Costume [No.50]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120050
+
+// Free Costume [No.51]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120051
+
+// Free Costume [No.52]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120052
+
+// Free Costume [No.53]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120053
+
+// Free Costume [No.54]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120054
+
+// Free Costume [No.55]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120055
+
+// Free Costume [No.56]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120056
+
+// Free Costume [No.57]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120057
+
+// Free Costume [No.58]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120058
+
+// Free Costume [No.59?]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 24120059
+
+// Free Costume [No.59.1]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412005A
+
+// Free Costume [No.59.2]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412005B
+
+// Free Costume [No.59.3]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412005C
+
+// Free Costume [No.59.4]
+Author = libretro-database contributors / original PSP cheat authors
+20064AF4 2412005D

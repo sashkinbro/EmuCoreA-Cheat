@@ -1,0 +1,43 @@
+# PSP cheat pack
+# Serial: ULUS-10449
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Acceleration: Faster
+Author = libretro-database contributors / original PSP cheat authors
+200D067C 3C044080
+
+// Acceleration: Normal
+Author = libretro-database contributors / original PSP cheat authors
+200D067C 3C043F80
+
+// Acceleration: Slower
+Author = libretro-database contributors / original PSP cheat authors
+200D067C 3C043E80
+
+// AI Dumb
+Author = libretro-database contributors / original PSP cheat authors
+20502F20 FF000000
+00020000 00000001
+
+// AI Dumb v2
+Author = libretro-database contributors / original PSP cheat authors
+20502F20 FF000000
+00020001 00000001
+
+// AI Normal
+Author = libretro-database contributors / original PSP cheat authors
+20502F20 FF000001
+00020000 00000000
+
+// AI Normal v2
+Author = libretro-database contributors / original PSP cheat authors
+20502F20 FF000001
+00020001 00000000
+
+// Debug Camera Disable
+Author = libretro-database contributors / original PSP cheat authors
+2050346C 00000000
+
+// Debug Camera Enable
+Author = libretro-database contributors / original PSP cheat authors
+2050346C 00000001

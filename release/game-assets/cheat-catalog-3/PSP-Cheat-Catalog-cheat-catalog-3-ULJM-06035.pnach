@@ -1,0 +1,13 @@
+# PSP cheat pack
+# Serial: ULJM-06035
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Enable Debug Mode
+Author = libretro-database contributors / original PSP cheat authors
+20148560 0A2C59E9
+20148564 00042080
+203167A4 00A42021
+203167A8 34020001
+203167AC 3C0608BE
+203167B0 0A25215A
+203167B4 ACC2B458

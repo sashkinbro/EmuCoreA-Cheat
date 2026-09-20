@@ -1,0 +1,37 @@
+# PSP cheat pack
+# Serial: ULUS-10441
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 76 Points Ahead [Home Team]
+Author = libretro-database contributors / original PSP cheat authors
+211444CC 0000004C
+
+// Always First Down
+Author = libretro-database contributors / original PSP cheat authors
+211444C0 00000001
+
+// Always Fourth Down
+Author = libretro-database contributors / original PSP cheat authors
+211444C0 00000004
+
+// Cannot Be Tackled [Hold R]
+Author = libretro-database contributors / original PSP cheat authors
+2003C324 27BDFF80
+2007B778 0E21B198
+D0000002 10000200
+2003C324 03E00008
+2007B778 24020000
+
+// Change Possession After Play [Hold L]
+Author = libretro-database contributors / original PSP cheat authors
+2017C35C 10400023
+D0000001 10000100
+2017C35C 100000DB
+
+// Gold Trophy In Training Camp
+Author = libretro-database contributors / original PSP cheat authors
+1070DA6C 0000270F
+
+// Infinite Player Points
+Author = libretro-database contributors / original PSP cheat authors
+206A4B44 00000001

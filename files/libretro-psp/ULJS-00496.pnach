@@ -1,0 +1,52 @@
+# PSP cheat pack
+# Serial: ULJS-00496
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E0024F84 001D3D10
+201D3D10 00000000
+2032BE34 00000000
+
+// 60 FPS [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201D3D10 0E274F84
+2032BE34 0E2CC39F
+
+// 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2032BE34 00000000
+
+// Bougyoryoku 200
+Author = libretro-database contributors / original PSP cheat authors
+2037C162 000000C8
+
+// HP 9999
+Author = libretro-database contributors / original PSP cheat authors
+2037C150 0000270F
+2037C154 0000270F
+
+// Kashikosa 200
+Author = libretro-database contributors / original PSP cheat authors
+2037C166 000000C8
+
+// Kougekiryoku 200
+Author = libretro-database contributors / original PSP cheat authors
+2037C160 000000C8
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+2037B260 000F423F
+
+// MP 999
+Author = libretro-database contributors / original PSP cheat authors
+2037C158 000003E7
+2037C15C 000003E7
+
+// Subayasa 200
+Author = libretro-database contributors / original PSP cheat authors
+2037C164 000000C8
+
+// Top 98 Individual Items
+Author = libretro-database contributors / original PSP cheat authors
+0037B778 00000062

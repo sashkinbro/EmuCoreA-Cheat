@@ -1,0 +1,38 @@
+# PSP cheat pack
+# Serial: ULJS-00069
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Battle Mode Get Point 255
+Author = libretro-database contributors / original PSP cheat authors
+00401D00 000000FF
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+602DCF50 00000004
+00000001 00002E25
+
+// Inf. SP
+Author = libretro-database contributors / original PSP cheat authors
+602DCF50 00000045
+00000001 00002E57
+
+// Infinite AP Battle Mode
+Author = libretro-database contributors / original PSP cheat authors
+10404BB6 0000464F
+
+// Infinite HP Battle Mode
+Author = libretro-database contributors / original PSP cheat authors
+00404B84 000000FF
+
+// Max Points
+Author = libretro-database contributors / original PSP cheat authors
+201FF344 000003E7
+
+// Point 600
+Author = libretro-database contributors / original PSP cheat authors
+001FF3FC 00000258
+
+// Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+60400438 00000030
+00000001 0000146A

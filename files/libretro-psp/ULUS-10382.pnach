@@ -1,0 +1,33 @@
+# PSP cheat pack
+# Serial: ULUS-10382
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Cards (99)
+Author = libretro-database contributors / original PSP cheat authors
+801D1859 801D1859
+00000063 00000000
+
+// Enemy Has No HP
+Author = libretro-database contributors / original PSP cheat authors
+201F46EA 00000000
+
+// Galahad Has Max HP
+Author = libretro-database contributors / original PSP cheat authors
+201F3C42 00000019
+
+// Max Cost
+Author = libretro-database contributors / original PSP cheat authors
+001D1BF0 00000063
+0021B274 00000063
+
+// Max Cost v2
+Author = libretro-database contributors / original PSP cheat authors
+201D1BF0 00000063
+
+// Max Cost Limit
+Author = libretro-database contributors / original PSP cheat authors
+2021B274 00000063
+
+// Max Soul
+Author = libretro-database contributors / original PSP cheat authors
+001D1BF4 00000063

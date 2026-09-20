@@ -1,0 +1,65 @@
+# PSP cheat pack
+# Serial: ULUS-10241
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 6220800 Kleos
+Author = libretro-database contributors / original PSP cheat authors
+205F2A90 47730000
+
+// Kaguluhan
+Author = libretro-database contributors / original PSP cheat authors
+1072CE6A 00000000
+
+// Inf. Health Level 1
+Author = libretro-database contributors / original PSP cheat authors
+1072CE6A 000069A8
+
+// Inf. Health Level 2
+Author = libretro-database contributors / original PSP cheat authors
+0072C7E6 00000042
+
+// Inf. Health Level 3
+Author = libretro-database contributors / original PSP cheat authors
+0072D5D2 0000433A
+
+// Inf. Health Level 4
+Author = libretro-database contributors / original PSP cheat authors
+00733392 0000433B
+
+// Inf. Health Level 5
+Author = libretro-database contributors / original PSP cheat authors
+0072F84E 0000433B
+
+// Inf. Health Level 6
+Author = libretro-database contributors / original PSP cheat authors
+0072CE6A 0000431B
+
+// Inf. Health Level 6 Capitan
+Author = libretro-database contributors / original PSP cheat authors
+0096049A 00004249
+
+// Inf. Health Level 7
+Author = libretro-database contributors / original PSP cheat authors
+007A9F3E 00004279
+
+// Inf. Health Level 8
+Author = libretro-database contributors / original PSP cheat authors
+0072D016 00004332
+
+// Inf. Health Level 8 Wall
+Author = libretro-database contributors / original PSP cheat authors
+0165DFBE 000042FF
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+603E2B50 434A0000
+00020001 000026C8
+
+// Infinite Wrath
+Author = libretro-database contributors / original PSP cheat authors
+603E2B50 434A0000
+00020001 00002704
+
+// Max Kleos
+Author = libretro-database contributors / original PSP cheat authors
+205F2A90 47C35000

@@ -1,0 +1,266 @@
+# PSP cheat pack
+# Serial: ULUS-10453
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Kill For Max
+Author = libretro-database contributors / original PSP cheat authors
+20061A00 24062710
+
+// All Mission
+Author = libretro-database contributors / original PSP cheat authors
+C00A2618 24050001
+
+// Character Code
+Author = libretro-database contributors / original PSP cheat authors
+C006E430 0A200400
+20001008 8E080030
+2000100C 3C097961
+20001010 35296C50
+20001014 1509003A
+2000101C 3C014080
+20001028 3C014180
+20001034 8E013D60
+2000104C 24010001
+20001058 3C0142C8
+20001100 0A21B90E
+20001104 C48C0000
+
+// Dark Energy 999999
+Author = libretro-database contributors / original PSP cheat authors
+2018B0D8 000F423F
+
+// Dark Energy 99999999
+Author = libretro-database contributors / original PSP cheat authors
+601738C0 05F5E0FF
+00020001 00000044
+
+// Dead Enemies
+Author = libretro-database contributors / original PSP cheat authors
+006B5EE8 3B9AC9FF
+
+// Easy Revenge Titles
+Author = libretro-database contributors / original PSP cheat authors
+200764F8 24052710
+
+// Fast Movement
+Author = libretro-database contributors / original PSP cheat authors
+C000102C AE010234
+
+// High Jump
+Author = libretro-database contributors / original PSP cheat authors
+C0001020 AE010230
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+006B5BFC 43480000
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+206B5BFC 43C80000
+
+// Infinite HP & Armor
+Author = libretro-database contributors / original PSP cheat authors
+201476C8 0A200800
+20002000 248EC2A4
+20002004 85CF0030
+20002008 24186C50
+2000200C 15F80004
+20002014 8C8F0004
+20002018 AC8F0000
+2000201C AC8F0008
+20002020 03E00008
+20002024 C4800000
+
+// Infinite Red Bar
+Author = libretro-database contributors / original PSP cheat authors
+206B5F10 42C80000
+
+// Infinite Wrath
+Author = libretro-database contributors / original PSP cheat authors
+200714F0 0E20080E
+20002038 3C1942C8
+2000203C AE194070
+20002040 03E00008
+20002044 C60C4070
+
+// Instant Capture
+Author = libretro-database contributors / original PSP cheat authors
+2006C840 0A20080A
+20002028 3C05447A
+2000202C AC450098
+20002030 0A21B211
+20002034 C44C0098
+
+// Kill Count Never Ends
+Author = libretro-database contributors / original PSP cheat authors
+2006EA94 00000000
+
+// Lv. l Award
+Author = libretro-database contributors / original PSP cheat authors
+C00A3140 24050BB8
+
+// Max Armor
+Author = libretro-database contributors / original PSP cheat authors
+C0001044 AE013D64
+
+// Max Dark Energy
+Author = libretro-database contributors / original PSP cheat authors
+2018B0D8 000F423F
+
+// Max Energy
+Author = libretro-database contributors / original PSP cheat authors
+C000105C AE014070
+
+// Max Hit 1
+Author = libretro-database contributors / original PSP cheat authors
+2018B098 00000002
+
+// Max Life
+Author = libretro-database contributors / original PSP cheat authors
+C0001038 AE013D5C
+
+// Max Souls
+Author = libretro-database contributors / original PSP cheat authors
+016E9400 3B9AC9FF
+
+// Play Time 100 hr
+Author = libretro-database contributors / original PSP cheat authors
+2018B09C 01499700
+
+// Red Zombie Bar
+Author = libretro-database contributors / original PSP cheat authors
+006B5F10 42C80000
+
+// Simulation With The Sword
+Author = libretro-database contributors / original PSP cheat authors
+006B20E0 00000009
+
+// Slide & Health
+Author = libretro-database contributors / original PSP cheat authors
+006B20E0 00000000
+
+// TimeScale: Even Faster
+Author = libretro-database contributors / original PSP cheat authors
+2018D694 3FC00000
+
+// TimeScale: Faster
+Author = libretro-database contributors / original PSP cheat authors
+2018D694 3FA00000
+
+// TimeScale: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2018D694 40000000
+
+// TimeScale: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2018D694 3F800000
+
+// TimeScale: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2018D694 3F400000
+
+// TimeScale: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2018D694 3F000000
+
+// Unlock All Lvl
+Author = libretro-database contributors / original PSP cheat authors
+C00A2ED0 24050001
+
+// Capture AnyOne Instantly
+Author = libretro-database contributors / original PSP cheat authors
+2006F258 3C044A80
+
+// Custom Player
+Author = libretro-database contributors / original PSP cheat authors
+201732DC 42800000
+20179E80 42800000
+201AE2DC 42800000
+
+// Enemy Size Mod
+Author = libretro-database contributors / original PSP cheat authors
+2002912C 3C044080
+
+// Faster Gameplay
+Author = libretro-database contributors / original PSP cheat authors
+20055DF4 3C044080
+
+// Infernal Badass
+Author = libretro-database contributors / original PSP cheat authors
+2018BA00 000F423F
+2018BA04 000F423F
+2018BA08 000F423F
+2018BA0C 000F423F
+2018BA10 000F423F
+2018BA14 000F423F
+2018BA18 000F423F
+2018BA1C 000F423F
+2018BA20 000F423F
+2018BA24 000F423F
+2018BA28 000F423F
+2018BA2C 000F423F
+2018BA30 000F423F
+2018BA34 000F423F
+2018BA38 000F423F
+2018BA3C 000F423F
+2018BA40 000F423F
+2018BA44 000F423F
+2018BA48 000F423F
+2018BA4C 000F423F
+2018BA50 000F423F
+2018BA54 000F423F
+2018BA58 000F423F
+2018BA5C 000F423F
+2018BA60 000F423F
+2018BA64 000F423F
+2018BA68 000F423F
+2018BA6C 000F423F
+2018BA70 000F423F
+2018BA74 000F423F
+2018BA78 000F423F
+2018BA7C 000F423F
+2018BA80 000F423F
+2018BA84 000F423F
+2018BA88 000F423F
+2018BA8C 000F423F
+2018BA90 000F423F
+2018BA94 000F423F
+2018BA98 000F423F
+2018BA9C 000F423F
+2018BAA0 000F423F
+2018BAA4 000F423F
+2018BAA8 000F423F
+2018BAAC 000F423F
+2018BAB0 000F423F
+2018BAB4 000F423F
+2018BAB8 000F423F
+2018BABC 000F423F
+2018BAC0 000F423F
+2018BAC4 000F423F
+2018BAC8 000F423F
+2018BACC 000F423F
+2018BAD0 000F423F
+2018BAD4 000F423F
+2018CAD8 000F423F
+2018CADC 000F423F
+2018CAE0 000F423F
+2018CAE4 000F423F
+2018CAE8 000F423F
+2018CAEC 000F423F
+2018CAF0 000F423F
+2018CAF4 000F423F
+2018CAF8 000F423F
+2018CAFC 000F423F
+2018CB00 000F423F
+
+// Instant Flash
+Author = libretro-database contributors / original PSP cheat authors
+2018D694 40800000
+
+// Massacre Enemies
+Author = libretro-database contributors / original PSP cheat authors
+201732E8 42800000
+
+// Tons Of Blood
+Author = libretro-database contributors / original PSP cheat authors
+200085C0 3C044080

@@ -1,0 +1,56 @@
+# PSP cheat pack
+# Serial: ULJS-00355
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// HP 9999
+Author = libretro-database contributors / original PSP cheat authors
+108B546C 0000270F
+
+// HP Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+208B544C 70000000
+
+// Item All
+Author = libretro-database contributors / original PSP cheat authors
+808B6F88 00AA0001
+00000032 00000000
+
+// Maid Camera
+Author = libretro-database contributors / original PSP cheat authors
+201F3168 53E00001
+201F31A8 10000003
+201F3200 10000008
+201F3248 10000007
+
+// Maid Pantser
+Author = libretro-database contributors / original PSP cheat authors
+201F383C 10000046
+
+// Maid Status Max
+Author = libretro-database contributors / original PSP cheat authors
+208B74F8 05F5E100
+208B74FC 04B003E8
+208B7500 076C076C
+008B7504 00000064
+108B7520 000003FF
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+208B5478 05F5E0FF
+
+// Skill Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+208B5454 7F000000
+
+// SP 9999
+Author = libretro-database contributors / original PSP cheat authors
+108B5470 0000270F
+
+// SP Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+208B5450 7F000000
+
+// Turi Item All
+Author = libretro-database contributors / original PSP cheat authors
+808B70BF 002D0001
+00000032 00000000

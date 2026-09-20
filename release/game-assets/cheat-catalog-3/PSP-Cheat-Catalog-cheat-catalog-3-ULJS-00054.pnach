@@ -1,0 +1,34 @@
+# PSP cheat pack
+# Serial: ULJS-00054
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 200 Max Chain
+Author = libretro-database contributors / original PSP cheat authors
+011A2BF0 000000C8
+
+// 99 Stock
+Author = libretro-database contributors / original PSP cheat authors
+011A2BD0 00000063
+
+// Freeze Time
+Author = libretro-database contributors / original PSP cheat authors
+00334E30 00001194
+011A2BC0 00001194
+011E43FC 00001194
+011E45DC 00001194
+011E47E4 00001194
+011E49C4 00001194
+0120AE64 00001194
+
+// Infinite Continue
+Author = libretro-database contributors / original PSP cheat authors
+00A5587C 00000063
+
+// Max Quicken
+Author = libretro-database contributors / original PSP cheat authors
+2118F30C 00000008
+211A2BA0 00000008
+
+// Score 99999999
+Author = libretro-database contributors / original PSP cheat authors
+211A2BA8 05F5E0FF

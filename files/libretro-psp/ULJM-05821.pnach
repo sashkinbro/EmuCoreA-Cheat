@@ -1,0 +1,17 @@
+# PSP cheat pack
+# Serial: ULJM-05821
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// New Game = Debug Menu
+Author = libretro-database contributors / original PSP cheat authors
+D147EA18 00000001
+2147EA18 00000004
+
+// Extra Open
+Author = libretro-database contributors / original PSP cheat authors
+8020D7E6 00040001
+000000FF 00000000
+8020D860 00140001
+8020D9A0 00190001
+0020D7E1 000000FF
+0020D7F0 000000FF

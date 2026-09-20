@@ -1,0 +1,152 @@
+# PSP cheat pack
+# Serial: ULUS-10500
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Brightness Codes: Bright Screen
+Author = libretro-database contributors / original PSP cheat authors
+201DED68 3FC00000
+
+// Brightness Codes: Dark Screen
+Author = libretro-database contributors / original PSP cheat authors
+201DED68 3F000000
+
+// Brightness Codes: Normal Screen
+Author = libretro-database contributors / original PSP cheat authors
+201DED68 3F800000
+
+// Camera Mod: Further Away
+Author = libretro-database contributors / original PSP cheat authors
+201DF02C 3FA00000
+
+// Camera Mod: Much Further Away
+Author = libretro-database contributors / original PSP cheat authors
+201DF02C 3FC00000
+
+// Camera Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+201DF02C 3F800000
+
+// Character Size Mod: Gigantic
+Author = libretro-database contributors / original PSP cheat authors
+201C6F2C 40400000
+
+// Character Size Mod: Larger
+Author = libretro-database contributors / original PSP cheat authors
+201C6F2C 40000000
+
+// Character Size Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+201C6F2C 3F800000
+
+// Character Size Mod: Small
+Author = libretro-database contributors / original PSP cheat authors
+201C6F2C 3F400000
+
+// Character Size Mod: Tiny
+Author = libretro-database contributors / original PSP cheat authors
+201C6F2C 3F000000
+
+// Freeze Screen
+Author = libretro-database contributors / original PSP cheat authors
+61787900 0000C1BD
+00020001 00000004
+
+// Gamespeed
+Author = libretro-database contributors / original PSP cheat authors
+601E10E8 3F800000
+00020001 000020C8
+
+// Gamespeed v2
+Author = libretro-database contributors / original PSP cheat authors
+2000661C 0A200400
+20001000 3C0808ED
+20001004 3C090000
+20001008 2529C1BD
+2000100C AD09E0A8
+20001010 03E00008
+
+// Magic Invisible
+Author = libretro-database contributors / original PSP cheat authors
+201D86A0 00000000
+
+// Max Studs
+Author = libretro-database contributors / original PSP cheat authors
+2030E264 05F5E100
+
+// Speed Mod (AI): Disable
+Author = libretro-database contributors / original PSP cheat authors
+201B1E44 00000000
+
+// Speed Mod (AI): Fast
+Author = libretro-database contributors / original PSP cheat authors
+201B1E44 3FA00000
+
+// Speed Mod (AI): Hyper
+Author = libretro-database contributors / original PSP cheat authors
+201B1E44 40000000
+
+// Speed Mod (AI): Normal
+Author = libretro-database contributors / original PSP cheat authors
+201B1E44 3F800000
+
+// Speed Mod (AI): Slow
+Author = libretro-database contributors / original PSP cheat authors
+201B1E44 3E800000
+
+// Speed Mod (AI): Super Slow
+Author = libretro-database contributors / original PSP cheat authors
+201B1E44 3F000000
+
+// Speed Mod (Player): Fast
+Author = libretro-database contributors / original PSP cheat authors
+201D8564 3FA00000
+
+// Speed Mod (Player): Hyper
+Author = libretro-database contributors / original PSP cheat authors
+201D8564 40000000
+
+// Speed Mod (Player): Normal
+Author = libretro-database contributors / original PSP cheat authors
+201D8564 3F800000
+
+// Speed Mod (Player): Slow
+Author = libretro-database contributors / original PSP cheat authors
+201D8564 3E800000
+
+// Speed Mod (Player): Super Slow
+Author = libretro-database contributors / original PSP cheat authors
+201D8564 3F000000
+
+// Unlock All Characters
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000007
+201DD4E8 FFFFFFFF
+DC000000 00000004
+D2000000 00000000
+
+// Unlock All Characters v2
+Author = libretro-database contributors / original PSP cheat authors
+201DD4E8 00000004
+FFFFFFFF 00000000
+
+// Unlock All Extras
+Author = libretro-database contributors / original PSP cheat authors
+201DD548 FFFFFFFF
+
+// Unlock All Hints
+Author = libretro-database contributors / original PSP cheat authors
+201DD4DC FFFFFFFF
+201DD4E0 FFFFFFFF
+201DD4E4 000000FF
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000012
+201DD50C FFFFFFFF
+DC000000 00000004
+D2000000 00000000
+
+// Unlock All Levels v2
+Author = libretro-database contributors / original PSP cheat authors
+201DD50C 00000004
+FFFFFFFF 00000000

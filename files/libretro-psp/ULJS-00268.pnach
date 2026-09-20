@@ -1,0 +1,40 @@
+# PSP cheat pack
+# Serial: ULJS-00268
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Remove Bezier 4x4 & 4x8
+Author = libretro-database contributors / original PSP cheat authors
+E0020404 0018628C
+2018628C 00802821
+20186308 00802821
+
+// Remove Bezier 4x4 & 4x8 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0022821 0018628C
+2018628C 24850404
+20186308 24850804
+
+// Fighting Spirit 999
+Author = libretro-database contributors / original PSP cheat authors
+116437B8 000003E7
+
+// Maximum Breathing Capacity
+Author = libretro-database contributors / original PSP cheat authors
+21643964 00000000
+
+// Maximum Degree Of Familiarity Fight
+Author = libretro-database contributors / original PSP cheat authors
+216437C0 000F423F
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+216437A0 0098967F
+
+// Psyched 255
+Author = libretro-database contributors / original PSP cheat authors
+21643960 437F0000
+
+// Strength 9999/9999
+Author = libretro-database contributors / original PSP cheat authors
+2164395C 461C3C00
+116438DA 0000270F

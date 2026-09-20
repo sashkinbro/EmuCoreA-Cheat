@@ -1,0 +1,42 @@
+# PSP cheat pack
+# Serial: ULUS-10352
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99 Training Stats
+Author = libretro-database contributors / original PSP cheat authors
+006FF39C 00000063
+006FF3A0 00000063
+006FF3A4 00000063
+006FF3A8 00000063
+006FF3AC 00000063
+006FF3B0 00000063
+006FF3B4 00000063
+006FF3B8 00000063
+006FF3BC 00000063
+006FF3C0 00000063
+006FF3C4 00000063
+006FF3C8 00000063
+006FF3CC 00000063
+006FF3D0 00000063
+006FF3D4 00000063
+006FF3DC 00000063
+006FF3E4 00000063
+006FF3E8 00000063
+
+// Cannot Be Tackled [Hold R]
+Author = libretro-database contributors / original PSP cheat authors
+2003C148 27BDFF70
+2007BB90 0E21B1C7
+D0000002 10000200
+2003C148 03E00008
+2007BB90 24020000
+
+// Change Possession After Play [Hold L]
+Author = libretro-database contributors / original PSP cheat authors
+2017A278 10400023
+D0000001 10000100
+2017A278 100000A3
+
+// Gold In Training
+Author = libretro-database contributors / original PSP cheat authors
+206FE3E8 0001213B

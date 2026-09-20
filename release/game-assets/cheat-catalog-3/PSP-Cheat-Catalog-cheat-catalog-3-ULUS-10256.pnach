@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: ULUS-10256
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Handheld Screen (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+2031E414 3FC00000
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+2031E414 3FE1E1E2
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+2031E414 40638E39
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+2031E414 4017B426
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+204857E0 05F5E0FF

@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: ULUS-10163
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Instant Win
+Author = libretro-database contributors / original PSP cheat authors
+2028F388 FFFFFFFF
+
+// Total Lap Mod: Nine Laps
+Author = libretro-database contributors / original PSP cheat authors
+2028F388 00000009
+
+// Total Lap Mod: One Lap
+Author = libretro-database contributors / original PSP cheat authors
+2028F388 00000001
+
+// Total Lap Mod: Three Laps
+Author = libretro-database contributors / original PSP cheat authors
+2028F388 00000003
+
+// Total Lap Mod: Two Laps
+Author = libretro-database contributors / original PSP cheat authors
+2028F388 00000002

@@ -1,0 +1,42 @@
+# PSP cheat pack
+# Serial: ULJS-00265
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Drugs
+Author = libretro-database contributors / original PSP cheat authors
+8081838A 000F0001
+00000032 00000000
+
+// All Synthetic Material
+Author = libretro-database contributors / original PSP cheat authors
+80818399 01360001
+00000032 00000000
+
+// HP 999
+Author = libretro-database contributors / original PSP cheat authors
+60194870 000003E7
+00020001 000098DC
+00020001 000098E8
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+10818894 000186A0
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+20818894 05F5E0FF
+
+// MP 999
+Author = libretro-database contributors / original PSP cheat authors
+60194870 000003E7
+00020001 000098E0
+00020001 000098EC
+
+// Props Diminished
+Author = libretro-database contributors / original PSP cheat authors
+C00209DC 24420000
+
+// Unlock All Stages
+Author = libretro-database contributors / original PSP cheat authors
+2081889C FFFFFFFF
+208188A0 000000FF

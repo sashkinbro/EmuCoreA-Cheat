@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: ULJS-00130
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Fame
+Author = libretro-database contributors / original PSP cheat authors
+103C1404 000003E7
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+203C1400 0001869F

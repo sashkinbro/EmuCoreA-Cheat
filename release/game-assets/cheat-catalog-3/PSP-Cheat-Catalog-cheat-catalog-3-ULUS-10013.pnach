@@ -1,0 +1,35 @@
+# PSP cheat pack
+# Serial: ULUS-10013
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Rengoku 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20083FF0 0084202A
+
+// Rengoku 60 FPS [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20083FF0 0085202A
+
+// Rengoku MS 20 [Beta]
+Author = libretro-database contributors / original PSP cheat authors
+202B15E8 00000003
+
+// Rengoku MS 30 [Beta]
+Author = libretro-database contributors / original PSP cheat authors
+202B15E8 00000002
+
+// Untitled cheat 9
+Author = libretro-database contributors / original PSP cheat authors
+202B15E8 00000001
+
+// Rengoku MS Un-cap [Beta]
+Author = libretro-database contributors / original PSP cheat authors
+202B15E8 00000000
+
+// Infinite Elixir
+Author = libretro-database contributors / original PSP cheat authors
+202BB088 0001869F
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+102BB070 00000708

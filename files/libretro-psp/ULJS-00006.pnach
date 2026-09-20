@@ -1,0 +1,22 @@
+# PSP cheat pack
+# Serial: ULJS-00006
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Boost Max
+Author = libretro-database contributors / original PSP cheat authors
+100C627C 000003E7
+
+// Danyaku Max
+Author = libretro-database contributors / original PSP cheat authors
+000C5E98 000003E7
+000C5ED4 000003E7
+000C5F10 000003E7
+000C5F4C 000003E7
+
+// HP Max
+Author = libretro-database contributors / original PSP cheat authors
+000C603C 0001869F
+
+// Operation No
+Author = libretro-database contributors / original PSP cheat authors
+000CA000 0000000

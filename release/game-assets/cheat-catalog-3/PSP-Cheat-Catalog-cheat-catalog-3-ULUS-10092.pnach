@@ -1,0 +1,18 @@
+# PSP cheat pack
+# Serial: ULUS-10092
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+017B7840 0000000A
+017B7848 0000000A
+
+// Inf. Health [15/1000]
+Author = libretro-database contributors / original PSP cheat authors
+217AC7A4 00000003
+217AC7A0 00000003
+217AC79C 00000003
+
+// Inf. Power
+Author = libretro-database contributors / original PSP cheat authors
+017B7878 0000000A

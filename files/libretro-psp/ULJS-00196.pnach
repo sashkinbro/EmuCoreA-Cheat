@@ -1,0 +1,290 @@
+# PSP cheat pack
+# Serial: ULJS-00196
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (M)
+Author = libretro-database contributors / original PSP cheat authors
+200FFA18 0A200400
+200FFA1C 84E20466
+20001050 0A23FE88
+20001054 0002102B
+
+// (M) HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+20001000 84EF0488
+20001004 A4EF03E8
+
+// (M) MP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+20001008 80EF048A
+2000100C A0EF03EC
+
+// (M) No Status Ailment
+Author = libretro-database contributors / original PSP cheat authors
+20001018 24EF0458
+2000101C 24180008
+20001020 5B000005
+20001024 00000000
+20001028 A5E00000
+2000102C 25EF0002
+20001030 1000FFFB
+20001034 2318FFFF
+
+// (M) Tension Max
+Author = libretro-database contributors / original PSP cheat authors
+20001010 240F0014
+20001014 A0EF03F4
+
+// [Support Magic] Aura
+Author = libretro-database contributors / original PSP cheat authors
+616D40B8 00000200
+00010001 00000382
+
+// [Support Magic] Hold
+Author = libretro-database contributors / original PSP cheat authors
+616D40B8 00000200
+00010001 0000037C
+
+// [Support Magic] Rapid
+Author = libretro-database contributors / original PSP cheat authors
+616D40B8 00000200
+00010001 00000384
+
+// [Support Magic] Safety
+Author = libretro-database contributors / original PSP cheat authors
+616D40B8 00000200
+00010001 00000380
+
+// [Support Magic] Search
+Author = libretro-database contributors / original PSP cheat authors
+616D40B8 00000200
+00010001 0000037E
+
+// Additional Race Enable
+Author = libretro-database contributors / original PSP cheat authors
+10156B50 00000000
+10156B64 00000000
+10156B78 00000000
+
+// Battle Out To LvUp
+Author = libretro-database contributors / original PSP cheat authors
+20110434 5400000C
+
+// BP No Limit
+Author = libretro-database contributors / original PSP cheat authors
+2011208C 00000000
+2011210C 00000000
+20112148 00000000
+
+// Enemy Blown Off [R]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000200
+10093F40 00003F00
+D0000000 30000200
+10093F40 0000461C
+
+// Equip No Limit
+Author = libretro-database contributors / original PSP cheat authors
+100320B4 00000000
+100320C0 00000000
+100320C8 00000000
+
+// Exp. xN [8C0 >40h]
+Author = libretro-database contributors / original PSP cheat authors
+20001900 86030052
+20001904 000318C0
+20001908 A6030052
+2000190C 86030050
+20001910 000318C0
+20001914 A6030050
+20001918 0A244074
+2000191C 0000A021
+201101C8 0A200640
+
+// Gold Max
+Author = libretro-database contributors / original PSP cheat authors
+216B79D8 000F423F
+
+// Hofuku Speed Up [100h]
+Author = libretro-database contributors / original PSP cheat authors
+10094B50 00004013
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+20002060 7C031E20
+20002064 3C0209ED
+20002068 8C4240B8
+2000206C 240F0004
+20002070 8C430184
+20002074 5083000A
+20002078 A46503E8
+20002094 25EFFFFF
+20002098 55E0FFF5
+2000209C 24420004
+200020A0 0A2238DD
+2008E36C 0A200818
+
+// If Exp. Dec. Lv. Up
+Author = libretro-database contributors / original PSP cheat authors
+20110434 00000000
+
+// If Exp. Dec. Lv. Up [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20110434 5420000C
+
+// Item Analysis
+Author = libretro-database contributors / original PSP cheat authors
+20002000 24020001
+20002004 0A213832
+20002008 A2420003
+2004E0B8 0A200800
+
+// Item Book Full Open
+Author = libretro-database contributors / original PSP cheat authors
+416C2BE8 00E20001
+FFFFFFFF 00000000
+
+// Item Box 01yy [0-2] 00zz [01-NN]
+Author = libretro-database contributors / original PSP cheat authors
+216BEA9C 01000001
+
+// Item Drop
+Author = libretro-database contributors / original PSP cheat authors
+2012A29C 24040064
+
+// Item Storage All
+Author = libretro-database contributors / original PSP cheat authors
+416BEA9C 010C0008
+01000001 00000001
+416C0C1C 00A00008
+01010001 00000001
+416C201C 00160008
+01020001 00000001
+416C22DC 000C0008
+0102005F 00000001
+816BEAA1 01AC0020
+000000FF 00000000
+816BEAB2 01AC0010
+10006363 00000000
+416BEAB4 01AC0008
+63636363 00000000
+416BEAB8 01AC0008
+
+// Lv. Up BP [1-9]
+Author = libretro-database contributors / original PSP cheat authors
+20111C74 24130001
+20111CB8 24130001
+
+// Lv. Up To Agi. Max
+Author = libretro-database contributors / original PSP cheat authors
+2008C024 54000004
+
+// Lv. Up To AL Max
+Author = libretro-database contributors / original PSP cheat authors
+2008BF94 54000004
+
+// Lv. Up To Def. Max
+Author = libretro-database contributors / original PSP cheat authors
+2008BFDC 54000004
+
+// Lv. Up To HP Max
+Author = libretro-database contributors / original PSP cheat authors
+2008BF4C 54000004
+
+// Lv. Up To Int. Max
+Author = libretro-database contributors / original PSP cheat authors
+2008BFC4 54000004
+
+// Lv. Up To Life Max
+Author = libretro-database contributors / original PSP cheat authors
+2008BFF4 54000004
+
+// Lv. Up To Luk. Max
+Author = libretro-database contributors / original PSP cheat authors
+2008C03C 54000004
+
+// Lv. Up To MP Max
+Author = libretro-database contributors / original PSP cheat authors
+2008BF64 54000004
+
+// Lv. Up To Spd. Max
+Author = libretro-database contributors / original PSP cheat authors
+2008C00C 54000004
+
+// Lv. Up To Str. Max
+Author = libretro-database contributors / original PSP cheat authors
+2008BFAC 54000004
+
+// Lv. Up To WL Max
+Author = libretro-database contributors / original PSP cheat authors
+2008BF7C 54000004
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+216B79D8 000F423F
+
+// Move Speed Up [100h]
+Author = libretro-database contributors / original PSP cheat authors
+10094B80 00004280
+
+// MP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+20084D14 00000000
+20084D88 00000000
+200BC124 00000000
+200BC494 00000000
+200BCE34 00000000
+200BCFA0 00000000
+200BD0FC 00000000
+200BD268 00000000
+200BD3D8 00000000
+200BD4F0 00000000
+200BD698 00000000
+
+// New Game All Chara.
+Author = libretro-database contributors / original PSP cheat authors
+20019190 240600FF
+
+// No Encount Off
+Author = libretro-database contributors / original PSP cheat authors
+601C1C10 00000000
+00000001 0000003F
+601C1C40 00000000
+601C1C70 00000000
+601C1CA0 00000000
+601C1CD0 00000000
+601C1D00 00000000
+601C1D30 00000000
+601C1D60 00000000
+601C1D90 00000000
+601C1DC0 00000000
+601C1DF0 00000000
+601C1E20 00000000
+
+// No Encount On
+Author = libretro-database contributors / original PSP cheat authors
+601C1C10 00000002
+00000001 0000003F
+601C1C40 00000002
+601C1C70 00000002
+601C1CA0 00000002
+601C1CD0 00000002
+601C1D00 00000002
+601C1D30 00000002
+601C1D60 00000002
+601C1D90 00000002
+601C1DC0 00000002
+601C1DF0 00000002
+601C1E20 00000002
+
+// Tension Max
+Author = libretro-database contributors / original PSP cheat authors
+2010686C 00000000
+
+// Tension Max [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2010686C 54600004
+
+// Warp All
+Author = libretro-database contributors / original PSP cheat authors
+216C2A1C 003FFFFF

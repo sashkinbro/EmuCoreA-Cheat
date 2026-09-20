@@ -1,0 +1,116 @@
+# PSP cheat pack
+# Serial: ULJS-00193
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AOF: HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+00F9416C 00000060
+
+// AOF: SP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+00F94345 00000060
+
+// Baseball Stars Pount 99
+Author = libretro-database contributors / original PSP cheat authors
+00B8F293 00000099
+
+// Baseball Stars Powbat x99
+Author = libretro-database contributors / original PSP cheat authors
+00B8F2C3 00000063
+
+// BTG Shot Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+01091EA7 00000001
+
+// Burning Fight Stock x99
+Author = libretro-database contributors / original PSP cheat authors
+00B808D1 00000063
+
+// KOF94: HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2127BB40 003F003F
+
+// KOM: HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+00B8CF0A 000000FF
+
+// Last Resort Stock x99
+Author = libretro-database contributors / original PSP cheat authors
+00A92ED1 00000063
+
+// Magician Lord: HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+00A8E9A6 00000005
+
+// Metal Slug Balkan x99
+Author = libretro-database contributors / original PSP cheat authors
+01089361 00000063
+
+// Metal Slug Stock x99
+Author = libretro-database contributors / original PSP cheat authors
+01089216 00000064
+
+// MOTW: HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+10B8B258 00006060
+
+// Sengoku Densyou: HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+00B8B1A4 00000006
+
+// ShockTR: HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+01389054 00000080
+
+// Tokutenoh Point 99
+Author = libretro-database contributors / original PSP cheat authors
+01128B0B 00000063
+
+// Top Hunter Stock x99
+Author = libretro-database contributors / original PSP cheat authors
+01093BBC 00000064
+
+// World Heroes: HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+00D90EAB 00000068
+00D90ECF 00000068
+
+// ???? ???
+Author = libretro-database contributors / original PSP cheat authors
+00FB25A9 00000000
+
+// ???? ????
+Author = libretro-database contributors / original PSP cheat authors
+00FB25A9 00000099
+
+// ???? ????
+Author = libretro-database contributors / original PSP cheat authors
+10B8CE57 00002A30
+
+// ????? ????? ????
+Author = libretro-database contributors / original PSP cheat authors
+2127BB40 00CF00CF
+
+// ???? 99
+Author = libretro-database contributors / original PSP cheat authors
+01391BA0 00000099
+
+// ???? ??????? x99
+Author = libretro-database contributors / original PSP cheat authors
+01391C62 00000063
+
+// ???? ??????? x99
+Author = libretro-database contributors / original PSP cheat authors
+01391C66 00000063
+
+// ????? ??????? x99
+Author = libretro-database contributors / original PSP cheat authors
+01391C6A 00000063
+
+// ???????? ??? x200
+Author = libretro-database contributors / original PSP cheat authors
+01391C5A 000000C8
+
+// ????? x999
+Author = libretro-database contributors / original PSP cheat authors
+11089362 000003E7

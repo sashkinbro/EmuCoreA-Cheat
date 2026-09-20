@@ -1,0 +1,80 @@
+# PSP cheat pack
+# Serial: ULUS-10544
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CAW Height Modification
+Author = libretro-database contributors / original PSP cheat authors
+10503CA6 00003F80
+
+// Disable A.I.
+Author = libretro-database contributors / original PSP cheat authors
+607CCABC 00000000
+00020001 000002FC
+607CCAC0 00000000
+607CCAC4 00000000
+
+// Enable A.I.
+Author = libretro-database contributors / original PSP cheat authors
+607CCABC 01010100
+00020001 000002FC
+607CCAC0 01010100
+607CCAC4 01010100
+
+// Enemy's Last Chance
+Author = libretro-database contributors / original PSP cheat authors
+607CCABC 00000000
+00020001 0000038C
+607CCAC0 00000000
+607CCAC4 00000000
+
+// Finisher Always Full
+Author = libretro-database contributors / original PSP cheat authors
+603D220C 447A0000
+00020001 00002A18
+D2000000 00000000
+
+// Finisher Always Full [(P1)]
+Author = libretro-database contributors / original PSP cheat authors
+603CCAB8 447A0000
+00020001 00002A18
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+603D220C 000003E8
+00020001 0000038C
+
+// Infinite Health [(P1)]
+Author = libretro-database contributors / original PSP cheat authors
+603CCAB8 000003E8
+00020001 0000038C
+
+// (P2) Infinite Finishers
+Author = libretro-database contributors / original PSP cheat authors
+603CCABC 447A0000
+00020001 00002A18
+
+// (P2) Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+603CCABC 000003E8
+00020001 0000038C
+
+// (P2) Infinite Sigs
+Author = libretro-database contributors / original PSP cheat authors
+603CCABC 447A0000
+00020001 00002A0C
+
+// P3 Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+603CCAC0 000003E8
+00020001 0000038C
+
+// Signature Always Full
+Author = libretro-database contributors / original PSP cheat authors
+603D220C 447A0000
+00020001 00002A0C
+D2000000 00000000
+
+// Signature Always Full [(P1)]
+Author = libretro-database contributors / original PSP cheat authors
+603CCAB8 447A0000
+00020001 00002A0C

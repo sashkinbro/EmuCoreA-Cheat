@@ -1,0 +1,94 @@
+# PSP cheat pack
+# Serial: ULJS-00220
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Alphonse: All Costumes
+Author = libretro-database contributors / original PSP cheat authors
+2017063C 000000FF
+
+// Alphonse: All Voices
+Author = libretro-database contributors / original PSP cheat authors
+20170640 0000000F
+
+// Alphonse: Max Experience
+Author = libretro-database contributors / original PSP cheat authors
+201705DC 000F4240
+
+// Alphonse: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+201705C4 00000064
+
+// Anti-Piracy Patch
+Author = libretro-database contributors / original PSP cheat authors
+D016FCBC 003003FF
+1016FCBC 00000000
+
+// Armstrong: SP 100
+Author = libretro-database contributors / original PSP cheat authors
+0017078C 00000064
+
+// Bradley: SP 100
+Author = libretro-database contributors / original PSP cheat authors
+00170AEC 00000064
+
+// Edward: All Costumes
+Author = libretro-database contributors / original PSP cheat authors
+201705AC 0000FFFF
+201705AE 0000000F
+
+// Edward: All Voices
+Author = libretro-database contributors / original PSP cheat authors
+201705B0 0000000F
+
+// Edward: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+2017054C 00000064
+
+// Edward: Max Experience
+Author = libretro-database contributors / original PSP cheat authors
+20170534 000F4240
+
+// Kidou
+Author = libretro-database contributors / original PSP cheat authors
+D016FCBC 003003FF
+1016FCBC 00000000
+
+// May: SP 100
+Author = libretro-database contributors / original PSP cheat authors
+00170A5C 00000064
+
+// Riza: All Costumes
+Author = libretro-database contributors / original PSP cheat authors
+2017075C 0000FFFF
+
+// Riza: All Voices
+Author = libretro-database contributors / original PSP cheat authors
+20170760 00000007
+
+// Riza: Max Experience
+Author = libretro-database contributors / original PSP cheat authors
+201706E4 000F4240
+
+// Riza: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+201706FC 00000064
+
+// Roy: All Costumes
+Author = libretro-database contributors / original PSP cheat authors
+201706CC 0000FFFF
+
+// Roy: All Voices
+Author = libretro-database contributors / original PSP cheat authors
+201706D0 0000000F
+
+// Roy: Max Experience
+Author = libretro-database contributors / original PSP cheat authors
+20170654 000F4240
+
+// Roy: Max SP
+Author = libretro-database contributors / original PSP cheat authors
+2017066C 00000064
+
+// Scar: SP 100
+Author = libretro-database contributors / original PSP cheat authors
+001709CC 00000064

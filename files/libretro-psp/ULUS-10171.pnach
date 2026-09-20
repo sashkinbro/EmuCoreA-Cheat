@@ -1,0 +1,89 @@
+# PSP cheat pack
+# Serial: ULUS-10171
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Hit Anywhere [P1]
+Author = libretro-database contributors / original PSP cheat authors
+2000B92C 0A200400
+20001000 02F6282A
+20001004 14A02A4B
+2000100C 10402A62
+20001014 0A202E4D
+
+// Inf. Energy (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20473C44 00F000F0
+2078111C 00F000F0
+
+// Inf. Energy (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20473D04 00F000F0
+2078C09C 00F000F0
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+205B8930 3B9AC9FF
+
+// Inf. Tickets
+Author = libretro-database contributors / original PSP cheat authors
+005B9010 00000063
+
+// Inf. Time
+Author = libretro-database contributors / original PSP cheat authors
+0078FB91 00000063
+
+// Infinite Balls
+Author = libretro-database contributors / original PSP cheat authors
+202176CC 00000003
+
+// Low Time
+Author = libretro-database contributors / original PSP cheat authors
+00791152 00000000
+
+// No Energy (P1)
+Author = libretro-database contributors / original PSP cheat authors
+20473C44 00010001
+2078111C 00010001
+
+// No Energy (P2)
+Author = libretro-database contributors / original PSP cheat authors
+20473D04 00010001
+2078C09C 00010001
+
+// 0 Time [PWST2]
+Author = libretro-database contributors / original PSP cheat authors
+005B6654 00000000
+
+// Inf. Energy P1 [PWST2]
+Author = libretro-database contributors / original PSP cheat authors
+20577EEC 447A0000
+20552550 447A0000
+20552520 447A0000
+
+// Inf. Energy P2 [PWST2]
+Author = libretro-database contributors / original PSP cheat authors
+20582DDC 447A0000
+
+// Inf. Energy P3 [PWST2]
+Author = libretro-database contributors / original PSP cheat authors
+2058DCCC 447A0000
+
+// Inf. Energy P4 [PWST2]
+Author = libretro-database contributors / original PSP cheat authors
+20598BBC 447A0000
+
+// Inf. Time [PWST2]
+Author = libretro-database contributors / original PSP cheat authors
+00576DC8 000000A0
+
+// No Energy P2 [PWST2]
+Author = libretro-database contributors / original PSP cheat authors
+20582DDC 00000000
+
+// No Energy P3 [PWST2]
+Author = libretro-database contributors / original PSP cheat authors
+2058DCCC 00000000
+
+// No Energy P4 [PWST2]
+Author = libretro-database contributors / original PSP cheat authors
+20598BBC 00000000

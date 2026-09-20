@@ -1,0 +1,69 @@
+# PSP cheat pack
+# Serial: ULUS-10098
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+2048F1CC 00000002
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2048F1CC 00000001
+
+// 100 Skill Points
+Author = libretro-database contributors / original PSP cheat authors
+0117182A 000000C8
+0117182B 00000042
+
+// Inf. Ammo (.38)
+Author = libretro-database contributors / original PSP cheat authors
+00537988 00000063
+005E8D8C 00000063
+
+// Inf. Ammo (Dynamite)
+Author = libretro-database contributors / original PSP cheat authors
+005E8CC0 00000063
+
+// Inf. Ammo (Magnum)
+Author = libretro-database contributors / original PSP cheat authors
+005380A8 00000063
+005E8D94 00000063
+
+// Inf. Ammo (Molotov)
+Author = libretro-database contributors / original PSP cheat authors
+005E8CAC 00000063
+
+// Inf. Ammo (Pistol)
+Author = libretro-database contributors / original PSP cheat authors
+00537D18 00000063
+005E8D90 00000063
+
+// Inf. Ammo (Shotgun)
+Author = libretro-database contributors / original PSP cheat authors
+006C87C8 00000063
+005E8D9C 00000063
+
+// Inf. Ammo (Tommy Gun)
+Author = libretro-database contributors / original PSP cheat authors
+006C8448 00000063
+005E8D98 00000063
+
+// Infinite Ammo & No Reload All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+00550390 00000064
+00550398 00000064
+005E8D8C 00000064
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+005E871A 000000BE
+005E8722 000000BE
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+2052F4DC 000F423F
+2052F4E0 000F423F
+
+// Money Cheat
+Author = libretro-database contributors / original PSP cheat authors
+2052F4DC 000004E2

@@ -1,0 +1,64 @@
+# PSP cheat pack
+# Serial: ULUS-10144
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (M) Must Codes
+Author = libretro-database contributors / original PSP cheat authors
+20023168 0A200800
+20002008 94440870
+2000200C 0A208C5C
+
+// Full Power
+Author = libretro-database contributors / original PSP cheat authors
+20023614 34040064
+2002361C AE2408B0
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+20002000 9444086E
+20002004 A4440872
+
+// Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+20002010 A4440874
+
+// Max Gents
+Author = libretro-database contributors / original PSP cheat authors
+20332B44 05F5E0FF
+
+// Max Gents & Rills
+Author = libretro-database contributors / original PSP cheat authors
+20332B44 05F5E0FF
+20332B48 05F5E0FF
+
+// Max HP/MP Forte
+Author = libretro-database contributors / original PSP cheat authors
+10332B5E 000003E7
+10332B60 000003E7
+10332B62 000003E7
+10332B64 000003E7
+
+// Max HP/MP Jan
+Author = libretro-database contributors / original PSP cheat authors
+10332FA2 000003E7
+10332FA4 000003E7
+10332FA6 000003E7
+10332FA8 000003E7
+
+// Max HP/MP McBain
+Author = libretro-database contributors / original PSP cheat authors
+10332BB2 000003E7
+10332BB4 000003E7
+10332BB6 000003E7
+10332BB8 000003E7
+
+// Max HP/MP Una
+Author = libretro-database contributors / original PSP cheat authors
+10332C06 000003E7
+10332C08 000003E7
+10332C0A 000003E7
+10332C0C 000003E7
+
+// Max Rills
+Author = libretro-database contributors / original PSP cheat authors
+20332B48 05F5E0FF

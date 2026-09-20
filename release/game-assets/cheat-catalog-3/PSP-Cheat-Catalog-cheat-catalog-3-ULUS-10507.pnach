@@ -1,0 +1,73 @@
+# PSP cheat pack
+# Serial: ULUS-10507
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+202E77CC 1080FFFB
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+202E77CC 00000000
+
+// Inf. Lives Buzz
+Author = libretro-database contributors / original PSP cheat authors
+617F0A14 00000010
+00020001 000004E8
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+617FC014 0048ACE0
+00020001 000001EC
+
+// Inf. Purchase Credits
+Author = libretro-database contributors / original PSP cheat authors
+205D4B30 000186A0
+
+// Keys
+Author = libretro-database contributors / original PSP cheat authors
+61539D60 002DEF90
+00020001 00000578
+
+// Max Coins
+Author = libretro-database contributors / original PSP cheat authors
+205D4B30 0000270F
+
+// Never Beats A Cactus
+Author = libretro-database contributors / original PSP cheat authors
+60E22AA0 00000000
+00020001 00000594
+
+// Speed Modifier: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C044100
+
+// Speed Modifier: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C044180
+
+// Speed Modifier: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C043F80
+
+// Speed Modifier: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C044080
+
+// Speed Modifier: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C043E80
+
+// Speed Modifier: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C043D80
+
+// Stars
+Author = libretro-database contributors / original PSP cheat authors
+205D6264 FFFFFFFF
+20000578 002DEF90
+
+// Timber
+Author = libretro-database contributors / original PSP cheat authors
+609B53D0 002DEF90
+00020001 00000578

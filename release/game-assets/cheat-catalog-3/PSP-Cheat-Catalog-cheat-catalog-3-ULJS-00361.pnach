@@ -1,0 +1,142 @@
+# PSP cheat pack
+# Serial: ULJS-00361
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Consumer Goods
+Author = libretro-database contributors / original PSP cheat authors
+813AEE30 01700001
+00000001 00000000
+
+// All Equipment
+Author = libretro-database contributors / original PSP cheat authors
+813A9D80 00640010
+00000003 00000001
+813A9D84 00640008
+10000001 00000001
+813A9D8E 00640008
+1000FFFF 00000000
+
+// All Item
+Author = libretro-database contributors / original PSP cheat authors
+813AEE30 01700001
+00000001 00000000
+
+// All Right Armor
+Author = libretro-database contributors / original PSP cheat authors
+813AAD70 00640010
+00000003 00000001
+813AAD74 00640008
+10000001 00000001
+813AAD7E 00640008
+1000FFFF 00000000
+009CDC40 00000000
+413ACD58 00640004
+
+// All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+813ADD44 0C800001
+00000001 00000000
+
+// Ammo Inf.
+Author = libretro-database contributors / original PSP cheat authors
+602C2F04 00000004
+00000002 00004F20
+10004F24 00000000
+
+// Battery Inf.
+Author = libretro-database contributors / original PSP cheat authors
+602C2F04 000003E8
+00010001 00004F18
+
+// Battery Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+602C2F04 000003E8
+00010001 00004F18
+
+// BP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+602C2F04 00000004
+00000002 00004F48
+10004F4C 00000000
+
+// Bullet Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+602C2F04 00000004
+00000002 00004F20
+10004F24 00000000
+
+// Credit Max
+Author = libretro-database contributors / original PSP cheat authors
+213A67D8 05F5E0FF
+
+// Full Armor Foot
+Author = libretro-database contributors / original PSP cheat authors
+813ACD50 00640010
+00000003 00000001
+813ACD54 00640008
+10000001 00000001
+813ACD5E 00640008
+1000FFFF 00000000
+
+// Full Armor Left
+Author = libretro-database contributors / original PSP cheat authors
+813ABD60 00640010
+00000003 00000001
+813ABD64 00640008
+10000001 00000001
+813ABD6E 00640008
+1000FFFF 00000000
+
+// Full Shield
+Author = libretro-database contributors / original PSP cheat authors
+813AEAB8 019C0001
+00000001 00000000
+
+// Head Armor All
+Author = libretro-database contributors / original PSP cheat authors
+813A8D90 00640010
+00000004 00000001
+813A8D94 00640008
+10000001 00000001
+813A8D9E 00640008
+1000FFFF 00000000
+
+// LP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+602C2F04 00000004
+00000002 00004D78
+10004D7C 00000000
+
+// Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+213A7028 008DDB64
+
+// Shield All
+Author = libretro-database contributors / original PSP cheat authors
+813A3DBC 00090001
+000000FF 00000000
+
+// Skill All
+Author = libretro-database contributors / original PSP cheat authors
+813A7048 006E0001
+00000001 00000000
+
+// Special Attack Infinity
+Author = libretro-database contributors / original PSP cheat authors
+602C2F04 00001388
+00010001 00004F16
+
+// Unit & Armor All
+Author = libretro-database contributors / original PSP cheat authors
+813A3F20 02280001
+000000FF 00000000
+
+// Weapon All
+Author = libretro-database contributors / original PSP cheat authors
+813A3CD4 00420001
+000000FF 00000000
+
+// Weapon Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+813A702C 00070002
+100005F5 00000000

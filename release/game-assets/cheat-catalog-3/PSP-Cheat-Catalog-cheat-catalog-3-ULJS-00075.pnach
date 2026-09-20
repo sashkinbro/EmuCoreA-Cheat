@@ -1,0 +1,88 @@
+# PSP cheat pack
+# Serial: ULJS-00075
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1st HP999 (Max)
+Author = libretro-database contributors / original PSP cheat authors
+102FEA4E 000003E7
+
+// 1st HP999 (Now)
+Author = libretro-database contributors / original PSP cheat authors
+102FEA4C 000003E7
+
+// 1st MP99 (Max)
+Author = libretro-database contributors / original PSP cheat authors
+002FEA52 00000063
+
+// 1st MP99 (Now)
+Author = libretro-database contributors / original PSP cheat authors
+002FEA50 00000063
+
+// Char. Make Point 0
+Author = libretro-database contributors / original PSP cheat authors
+002FE1F3 00000000
+
+// Char. Make Point 99
+Author = libretro-database contributors / original PSP cheat authors
+002FE1F3 00000063
+
+// Gold 999999
+Author = libretro-database contributors / original PSP cheat authors
+202192C8 000F423F
+
+// Lv. Up Status Point 0
+Author = libretro-database contributors / original PSP cheat authors
+00315D1A 00000000
+
+// Lv. Up Status Point 9
+Author = libretro-database contributors / original PSP cheat authors
+00315D1A 00000009
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+202192C8 000F423F
+
+// Money 90000
+Author = libretro-database contributors / original PSP cheat authors
+002192C8 00015F90
+
+// Money 99999
+Author = libretro-database contributors / original PSP cheat authors
+202192C8 0001869F
+2030D658 0001869F
+
+// Moving Spd. Up
+Author = libretro-database contributors / original PSP cheat authors
+002FEAB2 000000FF
+
+// Next Exp. 1 x1
+Author = libretro-database contributors / original PSP cheat authors
+202FEA70 00000001
+
+// Next Exp. 1 x2
+Author = libretro-database contributors / original PSP cheat authors
+203008B4 00000001
+
+// Next Exp. 1 x3
+Author = libretro-database contributors / original PSP cheat authors
+2030297C 00000001
+
+// Next Exp. 1 x4
+Author = libretro-database contributors / original PSP cheat authors
+20304CF0 00000001
+
+// Next Exp. 1 x5
+Author = libretro-database contributors / original PSP cheat authors
+20306DBC 00000001
+
+// Next Exp. 1 x6
+Author = libretro-database contributors / original PSP cheat authors
+20308E8C 00000001
+
+// Rime Waza
+Author = libretro-database contributors / original PSP cheat authors
+002FEA52 000000FF
+
+// Status Point 99
+Author = libretro-database contributors / original PSP cheat authors
+002FE1F3 00000063

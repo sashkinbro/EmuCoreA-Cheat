@@ -1,0 +1,99 @@
+# PSP cheat pack
+# Serial: ULUS-10322
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 9 Attractor
+Author = libretro-database contributors / original PSP cheat authors
+600DE01C 00000009
+00000001 0000006C
+
+// 9 Bombs
+Author = libretro-database contributors / original PSP cheat authors
+600DE01C 00000009
+00000001 00000060
+
+// 9 Fans
+Author = libretro-database contributors / original PSP cheat authors
+600DE01C 00000009
+00000001 00000068
+
+// 9 Freezer
+Author = libretro-database contributors / original PSP cheat authors
+600DE01C 00000009
+00000001 00000074
+
+// 9 Harpoon
+Author = libretro-database contributors / original PSP cheat authors
+600DE01C 00000009
+00000001 00000070
+
+// 9 Net
+Author = libretro-database contributors / original PSP cheat authors
+600DE01C 00000009
+00000001 00000078
+
+// 9 Plants
+Author = libretro-database contributors / original PSP cheat authors
+600DE01C 00000009
+00000001 00000064
+
+// Bomb Tool Lvl 1
+Author = libretro-database contributors / original PSP cheat authors
+00D8C720 00000539
+
+// Bomb Tool Lvl 4
+Author = libretro-database contributors / original PSP cheat authors
+00C661F0 00000539
+
+// Bomb Tool Lvl 6
+Author = libretro-database contributors / original PSP cheat authors
+00CA1EE0 00000539
+
+// Bomb Tool Lvl 9 +10
+Author = libretro-database contributors / original PSP cheat authors
+00C15800 00000539
+
+// Bomb Tool Lvl 11
+Author = libretro-database contributors / original PSP cheat authors
+00C15710 00000539
+
+// Harpoon Tool Lvl 6
+Author = libretro-database contributors / original PSP cheat authors
+00CA1EF0 00000539
+
+// Harpoon Tool Lvl 7
+Author = libretro-database contributors / original PSP cheat authors
+00C51340 00000539
+
+// Instant Win Level
+Author = libretro-database contributors / original PSP cheat authors
+600DE040 00000064
+00000001 00000018
+
+// Plant Tool Lvl 2
+Author = libretro-database contributors / original PSP cheat authors
+00CEE434 00000539
+
+// Plant Tool Lvl 3
+Author = libretro-database contributors / original PSP cheat authors
+00C8DC14 00000539
+
+// Plant Tool Lvl 4
+Author = libretro-database contributors / original PSP cheat authors
+00C661F4 00000539
+
+// Plant Tool Lvl 5
+Author = libretro-database contributors / original PSP cheat authors
+00C81924 00000539
+
+// Plant Tool Lvl 7
+Author = libretro-database contributors / original PSP cheat authors
+00C51334 00000539
+
+// Plant Tool Lvl 10
+Author = libretro-database contributors / original PSP cheat authors
+00C15804 00000539
+
+// Plant Tool Lvl 11
+Author = libretro-database contributors / original PSP cheat authors
+00C15714 00000539

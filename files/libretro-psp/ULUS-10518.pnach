@@ -1,0 +1,140 @@
+# PSP cheat pack
+# Serial: ULUS-10518
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Skip Intro Movie (US)
+Author = libretro-database contributors / original PSP cheat authors
+E0010003 000C8450
+100C8450 0000000D
+
+// (M) Must Code
+Author = libretro-database contributors / original PSP cheat authors
+201D9114 0A200800
+201D9118 00000000
+20002000 16000007
+20002020 44800000
+20002024 0A276447
+20002028 4600083E
+
+// Auto Kill 2nd Charac. (Note)
+Author = libretro-database contributors / original PSP cheat authors
+604DFCB0 00000000
+00020001 0000007C
+
+// Auto Kill 3rd Charac. (Note)
+Author = libretro-database contributors / original PSP cheat authors
+604DFCD8 00000000
+00020001 0000007C
+
+// Auto Kill 4th Charac. (Note)
+Author = libretro-database contributors / original PSP cheat authors
+604DFD00 00000000
+00020001 0000007C
+
+// Awakening 0 (Enable Both)
+Author = libretro-database contributors / original PSP cheat authors
+604DFB90 00000080
+00001001 00000086
+
+// Awakening 1 (Enable Both)
+Author = libretro-database contributors / original PSP cheat authors
+604DFB90 0000003F
+00001001 00000087
+
+// Awakening Mode
+Author = libretro-database contributors / original PSP cheat authors
+20002018 3C0A3F80
+2000201C AC8A0084
+
+// Awakening (P2) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+604DFCB0 00000000
+00020001 00000084
+
+// Awakening P3 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+604DFCD8 00000000
+00020001 00000084
+
+// Awakening P4 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+604DFD00 00000000
+00020001 00000084
+
+// Chakra P2 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+604DFCB0 00000000
+00020001 00000080
+
+// Chakra P3 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+604DFCD8 00000000
+00020001 00000080
+
+// Chakra P4 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+604DFD00 00000000
+00020001 00000080
+
+// Infinite Chakra
+Author = libretro-database contributors / original PSP cheat authors
+604DFB90 41700000
+00020001 00000080
+
+// Infinite Chakra v2
+Author = libretro-database contributors / original PSP cheat authors
+20002010 3C0A4170
+20002014 AC8A0080
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+604DFB90 3F800000
+00020001 0000007C
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+20002008 3C0A3F80
+2000200C AC8A007C
+
+// Infinite NP
+Author = libretro-database contributors / original PSP cheat authors
+206A9DA8 000F423F
+
+// Infinite NP v2
+Author = libretro-database contributors / original PSP cheat authors
+206A8DA8 000F423F
+206A8DAC 000F423F
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+604E0628 00000062
+00000001 00000007
+
+// Infinite Time v2
+Author = libretro-database contributors / original PSP cheat authors
+20176DC4 00000000
+
+// Max Hits
+Author = libretro-database contributors / original PSP cheat authors
+201336CC 2403270F
+201336D0 00002710
+201C0C08 2402270F
+
+// Max Tree Of Mettle
+Author = libretro-database contributors / original PSP cheat authors
+206A9DAC 3B9AC9FF
+
+// Multi Jumps
+Author = libretro-database contributors / original PSP cheat authors
+201CBDA0 0A20080C
+20002030 2403001B
+20002034 12230007
+20002038 2403001D
+2000203C 12230005
+20002040 2403001F
+20002044 12230003
+2000204C 16230003
+20002054 2411001A
+20002058 A67101BC
+2000205C 0A272F6A
+20002060 866301BA

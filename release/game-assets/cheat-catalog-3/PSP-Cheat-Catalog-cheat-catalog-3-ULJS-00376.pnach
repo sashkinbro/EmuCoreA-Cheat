@@ -1,0 +1,51 @@
+# PSP cheat pack
+# Serial: ULJS-00376
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Gems
+Author = libretro-database contributors / original PSP cheat authors
+802CF335 00340001
+00000001 00000000
+
+// All Props
+Author = libretro-database contributors / original PSP cheat authors
+802CF133 00950001
+00000063 00000000
+
+// CG Full
+Author = libretro-database contributors / original PSP cheat authors
+802CEC9A 000B0001
+000000FF 00000000
+002CECA5 0000001F
+
+// Characters Introduced Full
+Author = libretro-database contributors / original PSP cheat authors
+802CEC42 00340001
+00000001 00000000
+
+// Demo Video All
+Author = libretro-database contributors / original PSP cheat authors
+102CECB4 00001FFF
+
+// Full Sound
+Author = libretro-database contributors / original PSP cheat authors
+202CEC8C FFFFFFFF
+002CEC90 0000000F
+
+// Growth Points To 0
+Author = libretro-database contributors / original PSP cheat authors
+20228274 00000000
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+202CF030 05F5E0FF
+
+// The Maximum Growth
+Author = libretro-database contributors / original PSP cheat authors
+80228278 00070002
+100003E7 00000000
+
+// Unabated Growth Points
+Author = libretro-database contributors / original PSP cheat authors
+50228270 00000004
+00228274 00000000

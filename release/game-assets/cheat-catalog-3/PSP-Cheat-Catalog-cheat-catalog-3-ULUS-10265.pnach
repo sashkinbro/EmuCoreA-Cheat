@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: ULUS-10265
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 200 Credit Cheat
+Author = libretro-database contributors / original PSP cheat authors
+0011EEEC 000000C8
+
+// No Pinball Restraint
+Author = libretro-database contributors / original PSP cheat authors
+00111E74 00000001
+
+// Set Total Points At 65k
+Author = libretro-database contributors / original PSP cheat authors
+217FF398 00002B7C
+
+// Set Your Score At 99 mio
+Author = libretro-database contributors / original PSP cheat authors
+20119B58 05EA9AE8
+
+// Unlimited Credits
+Author = libretro-database contributors / original PSP cheat authors
+0011EEEC 000000FF

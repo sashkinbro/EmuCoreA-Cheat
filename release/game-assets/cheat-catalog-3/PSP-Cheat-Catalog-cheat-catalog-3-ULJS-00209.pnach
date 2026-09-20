@@ -1,0 +1,109 @@
+# PSP cheat pack
+# Serial: ULJS-00209
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Accessaries
+Author = libretro-database contributors / original PSP cheat authors
+41249B4C 0023014F
+FFFFFFFF 00000000
+41249B50 0023014F
+81249B54 0023029E
+1000FFFF 00000000
+
+// All Armor
+Author = libretro-database contributors / original PSP cheat authors
+41249B48 0023014F
+FFFFFFFF 00000000
+
+// All Chara. GP 99999
+Author = libretro-database contributors / original PSP cheat authors
+4124997C 0023014F
+0001869F 00000000
+
+// All Chara. GP 999999
+Author = libretro-database contributors / original PSP cheat authors
+4124997C 0023014F
+000F423F 00000000
+
+// All Characters
+Author = libretro-database contributors / original PSP cheat authors
+2124972C FFFFFFFF
+21249730 FFFFFF07
+
+// All Characters v2
+Author = libretro-database contributors / original PSP cheat authors
+09A4972C FFFFFFFF
+09A49730 FFFFFFFF
+
+// All GP+
+Author = libretro-database contributors / original PSP cheat authors
+4124997C 0023014F
+000F423F 00000000
+
+// All Skill
+Author = libretro-database contributors / original PSP cheat authors
+412498D8 0023014F
+FFFFFFFF 00000000
+412498DC 0023014F
+412498E0 0023014F
+412498E4 0023014F
+812498E8 0023053C
+000000FF 00000000
+
+// All Title
+Author = libretro-database contributors / original PSP cheat authors
+81249CF4 0023029E
+1000FFFF 00000000
+81249CF6 0023053C
+000000FF 00000000
+
+// All Weapon
+Author = libretro-database contributors / original PSP cheat authors
+81249B15 0023053C
+000000FF 00000000
+81249B16 0023029E
+1000FFFF 00000000
+41249B18 0023014F
+FFFFFFFF 00000000
+41249B1C 0023014F
+41249B20 0023014F
+41249B24 0023014F
+41249B28 0023014F
+41249B2C 0023014F
+41249B30 0023014F
+41249B34 0023014F
+41249B38 0023014F
+41249B3C 0023014F
+41249B40 0023014F
+41249B44 0023014F
+
+// Chara. All
+Author = libretro-database contributors / original PSP cheat authors
+2124972C FFFFFFFF
+21249730 FFFFFFFF
+
+// Gald Max
+Author = libretro-database contributors / original PSP cheat authors
+212492A8 05F5E0FF
+
+// GP Modifier
+Author = libretro-database contributors / original PSP cheat authors
+201EC280 5400001E
+101EC2B4 0000447A
+
+// Guild Max
+Author = libretro-database contributors / original PSP cheat authors
+212492A8 3B9AC9FF
+
+// Have All Custom Rules
+Author = libretro-database contributors / original PSP cheat authors
+212492B0 00003FFF
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+09A492A8 3B9AC9FF
+
+// Wall Breakers Charac All
+Author = libretro-database contributors / original PSP cheat authors
+41249790 00150001
+00000001 00000000

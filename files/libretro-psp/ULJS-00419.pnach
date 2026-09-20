@@ -1,0 +1,76 @@
+# PSP cheat pack
+# Serial: ULJS-00419
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Complete Cards
+Author = libretro-database contributors / original PSP cheat authors
+20071214 0A200400
+20001000 20140001
+20001004 ACF40014
+20001008 201403E7
+2000100C ACF40008
+20001010 0A21C486
+
+// CVP Max
+Author = libretro-database contributors / original PSP cheat authors
+20525E28 0098967F
+
+// Deck Holder All
+Author = libretro-database contributors / original PSP cheat authors
+20525E3C FFFFFFFF
+00525E40 000000FF
+
+// EI Favor Rating Max
+Author = libretro-database contributors / original PSP cheat authors
+00525ECC 00000064
+
+// Maria: Favor Rating Max
+Author = libretro-database contributors / original PSP cheat authors
+00525EC8 00000064
+
+// Minami Favor Rating Max
+Author = libretro-database contributors / original PSP cheat authors
+00525EC4 00000064
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20525E24 0098967F
+
+// Nana Favor Rating Max
+Author = libretro-database contributors / original PSP cheat authors
+00525ECA 00000064
+
+// Play Mat All
+Author = libretro-database contributors / original PSP cheat authors
+20525E34 FFFFFFFF
+
+// Serina Favor Rating Max
+Author = libretro-database contributors / original PSP cheat authors
+00525EC6 00000064
+
+// Skin Set All
+Author = libretro-database contributors / original PSP cheat authors
+20525E4C FFFFFFFF
+20525E50 FFFFFFFF
+
+// Sleeve All
+Author = libretro-database contributors / original PSP cheat authors
+20525E2C FFFFFFFF
+
+// Status Max
+Author = libretro-database contributors / original PSP cheat authors
+10525F26 0000C8C8
+10525F28 0000C8C8
+
+// Suiko Favor Rating Max
+Author = libretro-database contributors / original PSP cheat authors
+00525EC2 00000064
+
+// Suzuka Favor Rating Max
+Author = libretro-database contributors / original PSP cheat authors
+00525EC0 00000064
+
+// Voice Set All
+Author = libretro-database contributors / original PSP cheat authors
+20525E44 FFFFFFFF
+20525E48 FFFFFFFF

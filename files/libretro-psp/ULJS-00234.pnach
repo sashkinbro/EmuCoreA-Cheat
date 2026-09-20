@@ -1,0 +1,17 @@
+# PSP cheat pack
+# Serial: ULJS-00234
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Supers
+Author = libretro-database contributors / original PSP cheat authors
+0153E7A8 0000000A
+
+// Unlock All Secrets
+Author = libretro-database contributors / original PSP cheat authors
+28B00E93 000000FF
+28B00E94 000000FF
+
+// Unlock All Secrets v2
+Author = libretro-database contributors / original PSP cheat authors
+20300E93 000000FF
+20300E94 000000FF

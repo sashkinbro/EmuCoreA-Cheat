@@ -1,0 +1,106 @@
+# PSP cheat pack
+# Serial: ULUS-10051
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20108804 00000000
+20158648 3F800000
+
+// 60 FPS [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20108804 14600025
+20158648 40000000
+
+// 999.999 Emel
+Author = libretro-database contributors / original PSP cheat authors
+20165048 000F423F
+
+// 999.999 Gold
+Author = libretro-database contributors / original PSP cheat authors
+20164E64 000F423F
+
+// All Accessories
+Author = libretro-database contributors / original PSP cheat authors
+40164F0C 00140001
+00000001 00000000
+
+// All Armors
+Author = libretro-database contributors / original PSP cheat authors
+40164EC4 00060001
+00000001 00000000
+
+// All Shields
+Author = libretro-database contributors / original PSP cheat authors
+40164EAC 00060001
+00000001 00000000
+
+// All Tools In Inventory (x8)
+Author = libretro-database contributors / original PSP cheat authors
+20164EDC 00000008
+20164EE0 00000008
+20164EE4 00000008
+20164EE8 00000008
+20164EEC 00000008
+20164EF0 00000008
+20164EF4 00000008
+20164EF8 00000008
+20164EFC 00000008
+20164F00 00000008
+20164F04 00000008
+20164F08 00000008
+
+// Blirante Use Magic Anytime
+Author = libretro-database contributors / original PSP cheat authors
+001654B0 00000001
+
+// Emel = 750,000
+Author = libretro-database contributors / original PSP cheat authors
+20165048 000B71B0
+
+// Ericcil Use Magic Anytime
+Author = libretro-database contributors / original PSP cheat authors
+001654B4 00000001
+
+// Exp. Level Boost
+Author = libretro-database contributors / original PSP cheat authors
+20164E50 4B18967F
+
+// Full Tool Inventory
+Author = libretro-database contributors / original PSP cheat authors
+20164EDC 00000009
+20164EE0 00000009
+20164EE4 00000009
+20164EE8 00000009
+20164EEC 00000009
+20164EF0 00000009
+20164EF8 00000009
+20164EFC 00000009
+20164EF4 00000009
+
+// Gold = 750,000
+Author = libretro-database contributors / original PSP cheat authors
+20164E64 000B71B0
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+2015B21C 04479C00
+20380558 04479C00
+
+// Livard Use Magic Anytime
+Author = libretro-database contributors / original PSP cheat authors
+001654AC 00000001
+
+// Max All Tools
+Author = libretro-database contributors / original PSP cheat authors
+40164EDC 0000C001
+00000063 00000000
+
+// Max Emel
+Author = libretro-database contributors / original PSP cheat authors
+20165048 0098967F
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+2015B224 04479C00
+20164E3C 04479C00

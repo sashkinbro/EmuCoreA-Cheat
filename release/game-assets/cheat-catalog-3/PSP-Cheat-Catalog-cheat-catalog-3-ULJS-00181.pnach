@@ -1,0 +1,234 @@
+# PSP cheat pack
+# Serial: ULJS-00181
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All MS
+Author = libretro-database contributors / original PSP cheat authors
+402544B4 001C000F
+00000001 00000000
+
+// All Invisible Time 0
+Author = libretro-database contributors / original PSP cheat authors
+20031898 AE001718
+
+// All MS No Damage
+Author = libretro-database contributors / original PSP cheat authors
+2004B918 46000046
+
+// Base Not Reduce Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20090328 24420000
+
+// Base Not Reduce Jamming
+Author = libretro-database contributors / original PSP cheat authors
+2008F988 24420000
+
+// Battle Point
+Author = libretro-database contributors / original PSP cheat authors
+102557A2 000007D0
+117BEE4A 000007D0
+
+// Chat Boice Comp
+Author = libretro-database contributors / original PSP cheat authors
+20254EA0 FFFFFFFF
+20254EA4 0FFFFFFF
+
+// Database KITAI List
+Author = libretro-database contributors / original PSP cheat authors
+202524E8 FFFFFFFF
+202524EC 00FFFFFF
+
+// Database Pilot List
+Author = libretro-database contributors / original PSP cheat authors
+202524F0 FFFFFFFF
+002524F4 000000FF
+
+// Database Tip List
+Author = libretro-database contributors / original PSP cheat authors
+202524F8 FFFFFFFF
+202524FC 0FFFFFFF
+
+// EX Setting Costo
+Author = libretro-database contributors / original PSP cheat authors
+10264540 00000000
+
+// Kaikyu Gotyo
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 00000004
+
+// Kaikyu Gunsou
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 00000005
+
+// Kaikyu IPPAN People
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 00000000
+
+// Kaikyu Ittouhei
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 00000002
+
+// Kaikyu Joutohei
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 00000003
+
+// Kaikyu Shoi
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 00000007
+
+// Kaikyu Shosa
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 0000000A
+
+// Kaikyu Shosho
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 0000000D
+
+// Kaikyu Soutyo
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 00000006
+
+// Kaikyu Taii
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 00000009
+
+// Kaikyu Taisa
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 0000000C
+
+// Kaikyu Taisho
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 0000000F
+
+// Kaikyu Tyui
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 00000008
+
+// Kaikyu Tyujo
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 0000000E
+
+// Kaikyu Tyusa
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 0000000B
+
+// Kougeki Ukenai
+Author = libretro-database contributors / original PSP cheat authors
+200010F4 3C014334
+200010F8 AE611718
+
+// L Button Genocide
+Author = libretro-database contributors / original PSP cheat authors
+20035030 C6201708
+D0000000 10000100
+20035030 AE201708
+
+// Mission All Selectable
+Author = libretro-database contributors / original PSP cheat authors
+20254C34 FFFFFFFF
+
+// Kaikyu Notouhei
+Author = libretro-database contributors / original PSP cheat authors
+0025446E 00000001
+
+// Not Decrease Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20033B18 24420000
+20033B20 E4621734
+
+// Original Rules All Selectable
+Author = libretro-database contributors / original PSP cheat authors
+00254C2C 00000007
+
+// Player HP 999 (With Hissu)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C014479
+20001004 AE611708
+
+// Player Inf. Boost (With Hissu)
+Author = libretro-database contributors / original PSP cheat authors
+20001008 3C0142C8
+2000100C AE6116C4
+
+// Player Inf. PowBoost (With Hissu)
+Author = libretro-database contributors / original PSP cheat authors
+20001010 3C0142C8
+20001014 AE6116C4
+20001018 AE6016C8
+
+// Pilot BP Max
+Author = libretro-database contributors / original PSP cheat authors
+20254470 0098967F
+
+// Pilot Point 999999 PT
+Author = libretro-database contributors / original PSP cheat authors
+F6D27F9E 0098967F
+
+// Play Time 0
+Author = libretro-database contributors / original PSP cheat authors
+20254474 00000000
+
+// Player HP & Boost
+Author = libretro-database contributors / original PSP cheat authors
+200345F4 3C014479
+20034628 AE6116C4
+2003462C AE611708
+20034630 24020064
+
+// Player HP & PowBoost
+Author = libretro-database contributors / original PSP cheat authors
+2003459C AE6016C8
+200345F4 3C014479
+20034628 AE6116C4
+2003462C AE611708
+20034630 24020064
+
+// PT 9999999
+Author = libretro-database contributors / original PSP cheat authors
+20254470 05F5E0FF
+
+// Senryoku Gage Renpou 0
+Author = libretro-database contributors / original PSP cheat authors
+10255750 00000000
+
+// Senryoku Gage Renpou 800
+Author = libretro-database contributors / original PSP cheat authors
+10255750 00000320
+
+// Senryoku Gage Renpou 1600
+Author = libretro-database contributors / original PSP cheat authors
+10255750 00000640
+
+// Senryoku Gage Renpou 3200
+Author = libretro-database contributors / original PSP cheat authors
+10255750 00000C80
+
+// Senryoku Gage Zion 0
+Author = libretro-database contributors / original PSP cheat authors
+10255752 00000000
+
+// Senryoku Gage Zion 800
+Author = libretro-database contributors / original PSP cheat authors
+10255752 00000320
+
+// Senryoku Gage Zion 1600
+Author = libretro-database contributors / original PSP cheat authors
+10255752 00000640
+
+// Senryoku Gage Zion 3200
+Author = libretro-database contributors / original PSP cheat authors
+10255752 00000C80
+
+// Skill Bonus
+Author = libretro-database contributors / original PSP cheat authors
+102677A8 000001F4
+
+// Stage All Selectable
+Author = libretro-database contributors / original PSP cheat authors
+20254C30 0003FFFF
+
+// Syogou Comp
+Author = libretro-database contributors / original PSP cheat authors
+20254E8C FFFFFFFF
+20254E90 FFFFFFFF
+00254E94 0000003F

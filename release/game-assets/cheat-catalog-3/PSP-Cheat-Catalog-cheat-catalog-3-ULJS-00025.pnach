@@ -1,0 +1,35 @@
+# PSP cheat pack
+# Serial: ULJS-00025
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Burner
+Author = libretro-database contributors / original PSP cheat authors
+001130E4 00000000
+
+// EN Max
+Author = libretro-database contributors / original PSP cheat authors
+00112E44 00000064
+00112ECC 0000001E
+
+// Mission Number
+Author = libretro-database contributors / original PSP cheat authors
+00114900 00000000
+
+// MS Viewer
+Author = libretro-database contributors / original PSP cheat authors
+20114BE0 FFFFFFFF
+00114BE4 0000003F
+
+// Museum
+Author = libretro-database contributors / original PSP cheat authors
+20114D90 0007FFFF
+00114D94 00000007
+
+// SP Max
+Author = libretro-database contributors / original PSP cheat authors
+00112F61 00000064
+
+// Unlimited Weapons
+Author = libretro-database contributors / original PSP cheat authors
+00112E44 0000000F
+00112ECC 0000000F

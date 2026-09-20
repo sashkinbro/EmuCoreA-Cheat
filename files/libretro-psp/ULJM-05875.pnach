@@ -1,0 +1,16 @@
+# PSP cheat pack
+# Serial: ULJM-05875
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Memories Open
+Author = libretro-database contributors / original PSP cheat authors
+8019BE89 00020001
+000000FF 00000000
+8019BF08 00190001
+8019BF65 00050001
+8019BE90 00060001
+8019C148 134A0001
+8019BE4C 000A0001
+0019BE8D 000000FF
+0019BE9A 000000FF
+0019BF23 000000FF

@@ -1,0 +1,184 @@
+# PSP cheat pack
+# Serial: ULJS-00065
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 9999999 Capital
+Author = libretro-database contributors / original PSP cheat authors
+201FCBBC 0098967F
+
+// A&D
+Author = libretro-database contributors / original PSP cheat authors
+017FEE7B 000003E7
+017FEE7F 000903E7
+
+// All Unit
+Author = libretro-database contributors / original PSP cheat authors
+401FD4E8 002B0001
+FFFFFFFF 00000000
+201FD594 00FFFFFF
+
+// Amuro 99 EN
+Author = libretro-database contributors / original PSP cheat authors
+00207264 00000063
+
+// Bright  99 EN
+Author = libretro-database contributors / original PSP cheat authors
+00209AA4 00000063
+
+// Capital 9999999
+Author = libretro-database contributors / original PSP cheat authors
+201FCBBC 0098967F
+
+// Character Exp. 999
+Author = libretro-database contributors / original PSP cheat authors
+10220284 000003E7
+
+// CharacterEXP
+Author = libretro-database contributors / original PSP cheat authors
+10220284 000003E7
+
+// Collection 100%
+Author = libretro-database contributors / original PSP cheat authors
+401FD264 005C0001
+FFFFFFFF 00000000
+001FD3D4 0000007F
+
+// Halo
+Author = libretro-database contributors / original PSP cheat authors
+001FCBC9 15F5E0FF
+
+// Halo [1]
+Author = libretro-database contributors / original PSP cheat authors
+001FCBCD 00000000
+001FCBD1 00000000
+001FCBD5 00000000
+001FCBD9 00000000
+001FCBDD 00000000
+
+// Halo Rank Platinum
+Author = libretro-database contributors / original PSP cheat authors
+201FCBDC 00000000
+
+// Haro Rank Platinum
+Author = libretro-database contributors / original PSP cheat authors
+201FCBDC 000001F4
+
+// Haro Bronze
+Author = libretro-database contributors / original PSP cheat authors
+201FCBD0 000000C8
+
+// Haro Gold
+Author = libretro-database contributors / original PSP cheat authors
+201FCBD8 00000190
+
+// Haro Normal
+Author = libretro-database contributors / original PSP cheat authors
+201FCBCC 00000064
+
+// Haro Platinum
+Author = libretro-database contributors / original PSP cheat authors
+201FCBDC 000001F4
+
+// Haro Score (Now) 50000
+Author = libretro-database contributors / original PSP cheat authors
+208EEBC0 0000C350
+
+// Haro Silver
+Author = libretro-database contributors / original PSP cheat authors
+201FCBD4 0000012C
+
+// Hayato 99 EN
+Author = libretro-database contributors / original PSP cheat authors
+00207424 00000063
+
+// HP&EN
+Author = libretro-database contributors / original PSP cheat authors
+017FEE67 0001863C
+017FEE6B 0001863C
+017FEE71 03E703E7
+
+// Kai 99 EN
+Author = libretro-database contributors / original PSP cheat authors
+002073E4 00000063
+
+// Lv.99
+Author = libretro-database contributors / original PSP cheat authors
+017FEE63 00000063
+
+// Max At
+Author = libretro-database contributors / original PSP cheat authors
+201159A4 00000000
+
+// Max Chara.
+Author = libretro-database contributors / original PSP cheat authors
+201377D0 00000000
+201377FC 00000000
+2013781C 00000000
+2013783C 00000000
+2013785C 00000000
+2013787C 00000000
+2013789C 00000000
+201378C4 00000000
+
+// Max DF
+Author = libretro-database contributors / original PSP cheat authors
+201159B4 00000000
+
+// Max EN
+Author = libretro-database contributors / original PSP cheat authors
+20115994 00000000
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+20115980 00000000
+
+// Money 999999
+Author = libretro-database contributors / original PSP cheat authors
+201FCBBC 0098967F
+1022027C 000003E7
+10220284 000003E7
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+201FCBBC 0098967F
+
+// MS Exp.
+Author = libretro-database contributors / original PSP cheat authors
+1022027C 000003E7
+
+// Parts
+Author = libretro-database contributors / original PSP cheat authors
+201FD89C FFFFFFFF
+201FD8A0 FFFFFFFF
+201FD8A4 FFFFFFFF
+001FD8A8 000000FF
+201FD8AC FFFFFFFF
+201FD8B0 FFFFFFFF
+201FD8B4 FFFFFFFF
+
+// Ryu/Sayla 99 EN
+Author = libretro-database contributors / original PSP cheat authors
+002073A4 00000063
+
+// Status 1rime
+Author = libretro-database contributors / original PSP cheat authors
+101FE196 0000044F
+201FE198 63C78C00
+201FE19C 0064FFFF
+
+// Status 2rime
+Author = libretro-database contributors / original PSP cheat authors
+101FE1D6 0000044F
+201FE1D8 63C78C00
+201FE1DC 0064FFFF
+
+// Status All Chara.
+Author = libretro-database contributors / original PSP cheat authors
+401FE198 00700010
+63C78C00 00000000
+401FE19C 00700010
+0064FFFF 00000000
+
+// Unit Exp. 999
+Author = libretro-database contributors / original PSP cheat authors
+1022027C 000003E7

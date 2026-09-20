@@ -1,0 +1,111 @@
+# PSP cheat pack
+# Serial: ULJS-00122
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// ?
+Author = libretro-database contributors / original PSP cheat authors
+4151D874 0094000E
+000F423F 00000000
+
+// All Mission Get SS
+Author = libretro-database contributors / original PSP cheat authors
+41515C00 00E00001
+27102710 00000000
+
+// Bania 0
+Author = libretro-database contributors / original PSP cheat authors
+21517964 00000000
+
+// Exp. Point 0
+Author = libretro-database contributors / original PSP cheat authors
+8151D874 0094001C
+10000000 00000000
+
+// Exp. Point 9999
+Author = libretro-database contributors / original PSP cheat authors
+8151D874 0094001C
+1000270F 00000000
+
+// Get Point 655350
+Author = libretro-database contributors / original PSP cheat authors
+21517910 00002710
+
+// Get Point 655350 v2
+Author = libretro-database contributors / original PSP cheat authors
+81515BDC 00940001
+1000FFFF 00000000
+
+// GM Mk.3
+Author = libretro-database contributors / original PSP cheat authors
+2169E07C 0000270F
+
+// GM Point 9999
+Author = libretro-database contributors / original PSP cheat authors
+2151DBF4 0000270F
+
+// GM Point 9999 v2
+Author = libretro-database contributors / original PSP cheat authors
+2151DC64 0000270F
+
+// GM2
+Author = libretro-database contributors / original PSP cheat authors
+2151F04C 0000270F
+
+// Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+21517910 00002710
+
+// Main Chara. 999 Wp
+Author = libretro-database contributors / original PSP cheat authors
+11516FAC 000003E7
+
+// Main Wp 999
+Author = libretro-database contributors / original PSP cheat authors
+11516FAC 000003E7
+
+// MS Point 99999
+Author = libretro-database contributors / original PSP cheat authors
+8151D878 0094001C
+1001869F 00000000
+
+// MS Pt. GM [WD]
+Author = libretro-database contributors / original PSP cheat authors
+1151DC2C 0000270F
+
+// MS Pt. GM Command
+Author = libretro-database contributors / original PSP cheat authors
+1151DC9C 0000270F
+
+// MS Pt. GM Sniper
+Author = libretro-database contributors / original PSP cheat authors
+1151DD0C 0000270F
+
+// MS Pt. Gundam [G]
+Author = libretro-database contributors / original PSP cheat authors
+1151D9FC 0000270F
+
+// Pilot
+Author = libretro-database contributors / original PSP cheat authors
+016E68E8 000000FF
+016E68E9 000000FF
+016E68EA 000000FF
+016E68EB 000000FF
+016E68EC 000000FF
+016E68ED 000000FF
+016E68EE 000000FF
+
+// Rapid Shot
+Author = libretro-database contributors / original PSP cheat authors
+01517730 000000FF
+
+// SP Max
+Author = libretro-database contributors / original PSP cheat authors
+2151763C 00107AC0
+
+// Sub Wp 999
+Author = libretro-database contributors / original PSP cheat authors
+11517164 000003E7
+
+// Zaku 2(F) Point 9999
+Author = libretro-database contributors / original PSP cheat authors
+2151DDB4 0000270F

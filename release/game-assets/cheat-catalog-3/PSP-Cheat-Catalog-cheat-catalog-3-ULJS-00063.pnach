@@ -1,0 +1,24 @@
+# PSP cheat pack
+# Serial: ULJS-00063
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Gold Max
+Author = libretro-database contributors / original PSP cheat authors
+2022F310 3B9ACA00
+
+// PP Max
+Author = libretro-database contributors / original PSP cheat authors
+0022F5E8 000000C8
+
+// PP 200
+Author = libretro-database contributors / original PSP cheat authors
+0022F5E8 000000C8
+
+// Status All 100
+Author = libretro-database contributors / original PSP cheat authors
+8022F5EC 00060002
+00000064 00000000
+
+// Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+0017B02C 00000000

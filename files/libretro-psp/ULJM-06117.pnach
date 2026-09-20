@@ -1,0 +1,128 @@
+# PSP cheat pack
+# Serial: ULJM-06117
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1st Guard Build Up
+Author = libretro-database contributors / original PSP cheat authors
+213CB540 00140014
+213CB548 32323232
+113CB54C 00003232
+213CB544 00000000
+013CB553 00000000
+113CB554 00000203
+113CB556 00000C07
+113CB558 0000430F
+013CB55A 00000044
+
+// 1st Member Exp.
+Author = libretro-database contributors / original PSP cheat authors
+201FAAC0 05F5E0FF
+
+// 1st Member HP
+Author = libretro-database contributors / original PSP cheat authors
+101FAAA8 0000270F
+101FAAAC 0000270F
+
+// 1st Member MP
+Author = libretro-database contributors / original PSP cheat authors
+101FAAB0 0000270F
+101FAAB2 0000270F
+
+// 1st Member Status
+Author = libretro-database contributors / original PSP cheat authors
+101FADD4 0000270F
+101FADD6 0000270F
+001FADD8 000000FF
+001FADD9 000000FF
+001FADDA 000000FF
+001FADDB 000000FF
+001FADDC 000000FF
+001FADDD 000000FF
+
+// 1st Weapon Build Up
+Author = libretro-database contributors / original PSP cheat authors
+213CB540 00000000
+213CB548 32323232
+113CB54C 00003232
+213CB544 00000000
+013CB553 00000F0F
+113CB554 00000404
+113CB556 00004443
+113CB558 00004746
+013CB55A 00000048
+
+// BP Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200A99AC 00000000
+
+// Buff All
+Author = libretro-database contributors / original PSP cheat authors
+200598F4 00A51024
+
+// Camera Speed Up
+Author = libretro-database contributors / original PSP cheat authors
+10118600 000041E0
+10118614 00004140
+
+// Class All
+Author = libretro-database contributors / original PSP cheat authors
+2003B804 00000000
+
+// Class All 2
+Author = libretro-database contributors / original PSP cheat authors
+8027D551 000A0001
+00000001 00000000
+
+// Course x2
+Author = libretro-database contributors / original PSP cheat authors
+2000FFC8 00052840
+
+// Encount Off
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10004000
+20281DF8 45000000
+D0000000 30004000
+20281DF8 00000000
+
+// Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+801FACE4 001E0002
+1000270F 00000000
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+2000FFA4 00073840
+
+// Item All Sale
+Author = libretro-database contributors / original PSP cheat authors
+200510CC 240200FF
+
+// Love Point All Max
+Author = libretro-database contributors / original PSP cheat authors
+4027021C 00170002
+00000064 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+213A89A4 05F5E0FF
+
+// Money x2
+Author = libretro-database contributors / original PSP cheat authors
+2000FFB4 00042040
+
+// Moving Speed Increase
+Author = libretro-database contributors / original PSP cheat authors
+20001100 3C043F80
+D0000000 10002000
+20001100 3C044000
+20001104 44849000
+20001108 46127BC2
+2000110C 46126B42
+20001110 03E00008
+20001114 460F7C82
+20119750 0E200440
+
+// MP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2004454C 00402023
+200858E4 02002023

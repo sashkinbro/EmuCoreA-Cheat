@@ -1,0 +1,165 @@
+# PSP cheat pack
+# Serial: ULKS-46190
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 2b NM Songs All Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+801A10A1 003000B4
+00000065 00000000
+
+// 4b HD Songs All Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+801A10C9 003000B4
+00000065 00000000
+
+// 4b NM Songs All Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+801A10BF 003000B4
+00000065 00000000
+
+// 4bFX HD Songs All Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+801A1123 003000B4
+00000065 00000000
+
+// 4bFX NM Songs All Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+801A1119 003000B4
+00000065 00000000
+
+// 4-Week Head Clearance A
+Author = libretro-database contributors / original PSP cheat authors
+001A3E4F 0000000C
+101A3E50 000C0C0C
+
+// 5b NM Songs All Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+801A10DD 003000B4
+00000065 00000000
+
+// 6b NM Songs All Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+801A10FB 003000B4
+00000065 00000000
+
+// 9999 Days
+Author = libretro-database contributors / original PSP cheat authors
+101A3E34 0000270F
+
+// All Modes
+Author = libretro-database contributors / original PSP cheat authors
+801A10A1 0464000A
+
+// Break
+Author = libretro-database contributors / original PSP cheat authors
+1042B830 00000000
+
+// Club Wide Clearance
+Author = libretro-database contributors / original PSP cheat authors
+801A3E4E 00190001
+0000003A 00000000
+
+// Count
+Author = libretro-database contributors / original PSP cheat authors
+101A3522 0000270F
+
+// Customs Clearance Brush Evaluation Of S
+Author = libretro-database contributors / original PSP cheat authors
+D0000100 10000100
+1042806C 0000FFFF
+20429DD0 0098967F
+2042B820 0098967F
+1042B814 0000270F
+1042B818 0000270F
+1042B85C 0000270F
+1042B830 00000000
+
+// DJ Rank1
+Author = libretro-database contributors / original PSP cheat authors
+001A3E38 00000001
+
+// Fever
+Author = libretro-database contributors / original PSP cheat authors
+2042BBA4 00065536
+
+// Head Wide
+Author = libretro-database contributors / original PSP cheat authors
+401A3604 00870002
+00000100 00000000
+
+// HP Light
+Author = libretro-database contributors / original PSP cheat authors
+204293D0 43160000
+2042B824 43160000
+
+// L Disappear R Recovery (S-Class DJ)
+Author = libretro-database contributors / original PSP cheat authors
+E000006C 00429AB2
+D0000100 10000100
+00429AB5 0000006B
+E000005C 00429AB2
+D0000001 10000200
+00429AB5 0000005B
+
+// Max Combo
+Author = libretro-database contributors / original PSP cheat authors
+2042B814 000F423F
+2042B818 000F423F
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+201A3E3C 0098967F
+
+// Score 100%
+Author = libretro-database contributors / original PSP cheat authors
+1042B85C 0000270F
+
+// Unlimited Time
+Author = libretro-database contributors / original PSP cheat authors
+104293D2 000042C8
+1042B826 000042C8
+
+// Unlock All Characters
+Author = libretro-database contributors / original PSP cheat authors
+401A3664 001E0002
+
+// Unlock All Effectors
+Author = libretro-database contributors / original PSP cheat authors
+401A3C74 00160002
+
+// Unlock All Gears
+Author = libretro-database contributors / original PSP cheat authors
+401A3604 00060002
+
+// Unlock All Images
+Author = libretro-database contributors / original PSP cheat authors
+401A377C 00640002
+
+// Unlock All Movies
+Author = libretro-database contributors / original PSP cheat authors
+401A3754 00050002
+
+// Unlock All Notes
+Author = libretro-database contributors / original PSP cheat authors
+401A3634 00060002
+
+// Unlock Ost. Disc 1 - Clazziquai
+Author = libretro-database contributors / original PSP cheat authors
+401A3A9C 00160002
+
+// Unlock Ost. Disc 2 - Max Emotional Sense
+Author = libretro-database contributors / original PSP cheat authors
+401A3B4C 00160002
+
+// Unlock Ost. Disc 3 - Special
+Author = libretro-database contributors / original PSP cheat authors
+401A3BFC 000E0002
+
+// Whole Repertoire (Incl. Free, 2B - 4BFX)
+Author = libretro-database contributors / original PSP cheat authors
+801A10A1 0384000A
+
+// Whole Repertoire (With The word New)
+Author = libretro-database contributors / original PSP cheat authors
+801A10A1 0384000A
+00000066 00000000

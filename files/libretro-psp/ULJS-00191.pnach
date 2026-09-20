@@ -1,0 +1,143 @@
+# PSP cheat pack
+# Serial: ULJS-00191
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Freeze Workaround
+Author = libretro-database contributors / original PSP cheat authors
+E0010004 00237218
+20237218 00000000
+
+// Freeze Workaround [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010000 00237218
+20237218 50400004
+
+// Can Easily Climb Steps
+Author = libretro-database contributors / original PSP cheat authors
+201234EC 00000000
+
+// HP Max
+Author = libretro-database contributors / original PSP cheat authors
+20951C08 42C80000
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+604C28E4 447A0000
+00020003 00000088
+20000068 2000008C
+
+// Inf. HP v2
+Author = libretro-database contributors / original PSP cheat authors
+2025B088 00000000
+
+// Inf. HP v2 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2025B088 45010002
+
+// Infinite Health & No Stress
+Author = libretro-database contributors / original PSP cheat authors
+20212368 0A200800
+20002000 3C13447A
+20002004 AC530088
+20002008 AC40008C
+2000200C 0A2848DB
+20002010 C4400088
+
+// Infinite Health & No Stress v2
+Author = libretro-database contributors / original PSP cheat authors
+20212368 0A200800
+20002000 C4400088
+20002004 3C13447A
+20002008 AC530088
+2000200C 24130000
+20002010 AC53008C
+20002014 0A2848DB
+
+// No Continues
+Author = libretro-database contributors / original PSP cheat authors
+2025B0B0 24030000
+
+// Not Sway Due Earthquake
+Author = libretro-database contributors / original PSP cheat authors
+20123958 00000000
+
+// See Up To The Top [Press □]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10008000
+20120E40 3C01BF80
+20120E44 44810000
+D0000001 30008000
+20120E40 0320F809
+20120E44 02002021
+
+// Speed x1
+Author = libretro-database contributors / original PSP cheat authors
+20002000 52420002
+20002004 3C023F80
+20002008 3C023F80
+2000200C 44826000
+20002030 0A210360
+20040D78 0A200800
+20040D7C 24020009
+
+// Speed x2
+Author = libretro-database contributors / original PSP cheat authors
+20002000 52420002
+20002004 3C024000
+20002008 3C023F80
+2000200C 44826000
+20002030 0A210360
+20040D78 0A200800
+20040D7C 24020009
+
+// Speed x4
+Author = libretro-database contributors / original PSP cheat authors
+20002000 52420002
+20002004 3C024080
+20002008 3C023F80
+2000200C 44826000
+20002030 0A210360
+20040D78 0A200800
+20040D7C 24020009
+
+// Speed x8
+Author = libretro-database contributors / original PSP cheat authors
+20002000 52420002
+20002004 3C024100
+20002008 3C023F80
+2000200C 44826000
+20002030 0A210360
+20040D78 0A200800
+20040D7C 24020009
+
+// Speed x16
+Author = libretro-database contributors / original PSP cheat authors
+20002000 52420002
+20002004 3C024180
+20002008 3C023F80
+2000200C 44826000
+20002030 0A210360
+20040D78 0A200800
+20040D7C 24020009
+
+// Stress 0
+Author = libretro-database contributors / original PSP cheat authors
+20951C0C 00000000
+
+// Stress 99.75
+Author = libretro-database contributors / original PSP cheat authors
+20951C0C 42C78000
+
+// Zero ST
+Author = libretro-database contributors / original PSP cheat authors
+604C28E4 00000000
+00020003 0000008C
+20000068 2000008C
+
+// Zero Stress
+Author = libretro-database contributors / original PSP cheat authors
+2025B030 00000000
+
+// Zero Stress [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2025B030 46000086

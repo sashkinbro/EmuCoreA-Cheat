@@ -1,0 +1,46 @@
+# PSP cheat pack
+# Serial: ULJS-00249
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CG
+Author = libretro-database contributors / original PSP cheat authors
+408A8880 00820001
+00000001 00000000
+
+// Leader LV50
+Author = libretro-database contributors / original PSP cheat authors
+4020C3C4 0009000C
+00000032 00000000
+
+// Mini Game
+Author = libretro-database contributors / original PSP cheat authors
+408A9128 00060001
+00000001 00000000
+408A916C 00040001
+408A91AC 00050001
+
+// Mini Game Clear
+Author = libretro-database contributors / original PSP cheat authors
+60210448 00000009
+00020001 000000C0
+60210448 00000004
+00000002 000000B8
+100000BC 00000000
+60210444 00000064
+00020001 000000B0
+60210440 00000009
+00020001 000000B4
+00020001 000000B8
+6021043C 00000000
+6021043C 00000004
+00000002 000000C4
+100000C0 00000000
+
+// Omake
+Author = libretro-database contributors / original PSP cheat authors
+208A92B8 00000001
+
+// Weapon Zukan
+Author = libretro-database contributors / original PSP cheat authors
+408A9080 002A0001
+00000001 00000000

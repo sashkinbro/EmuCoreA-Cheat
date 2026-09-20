@@ -1,0 +1,158 @@
+# PSP cheat pack
+# Serial: ULJS-00360
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 0 HP (P2)
+Author = libretro-database contributors / original PSP cheat authors
+2026DB6C 00000000
+
+// 0 Power (P2)
+Author = libretro-database contributors / original PSP cheat authors
+2026DB70 00000000
+
+// 2P Deadly Blow 0
+Author = libretro-database contributors / original PSP cheat authors
+0026DBA0 00000000
+
+// Adventure Mode Kills 9999
+Author = libretro-database contributors / original PSP cheat authors
+2026DB2C 0000270F
+
+// All Character All Clear
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 000000FF
+00000006 000002DF
+90000001 00000000
+
+// All Character/Chapter Open
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 FFFFFFFF
+00020001 00000278
+
+// All Gallery Open
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 FFFFFFFF
+00020021 00000290
+90000001 00000000
+
+// Arena Open
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 FFFFFF00
+00020001 00000280
+
+// Collection Open
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 FFFFFFFF
+00020021 00000290
+90000001 00000000
+
+// HP 0 Player 2
+Author = libretro-database contributors / original PSP cheat authors
+2026DB6C 00000000
+
+// HP Infinity Player 1
+Author = libretro-database contributors / original PSP cheat authors
+2026DB14 44C80000
+
+// Infinite HP (P1)
+Author = libretro-database contributors / original PSP cheat authors
+2026DB14 44C80000
+
+// Max Power (P1)
+Author = libretro-database contributors / original PSP cheat authors
+2026DB18 447A0000
+
+// Max Weapon Level
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 00000005
+00000045 000001E0
+90000001 00000000
+
+// Money 99999999
+Author = libretro-database contributors / original PSP cheat authors
+2026DCDC 05F5E0FF
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 0098967F
+00020001 000001DC
+
+// P1: Deadly Blow 3
+Author = libretro-database contributors / original PSP cheat authors
+0026DB48 00000003
+
+// P1: Energy Max
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 447A0000
+00020001 00000018
+
+// P1: HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 44C80000
+00020001 00000014
+
+// P2: No Energy
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 00000000
+00020001 00000070
+
+// P2: Slow Speed
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 00000000
+00000001 00000090
+
+// Power 0 Player 2
+Author = libretro-database contributors / original PSP cheat authors
+2026DB70 00000000
+
+// Power Max Player 1
+Author = libretro-database contributors / original PSP cheat authors
+2026DB18 447A0000
+
+// Prees Select (P2) One Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000001
+601C6CA0 3F800000
+00020001 0000006C
+
+// Speed Unabated
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 00000003
+00000001 00000048
+
+// Speed x0 Player 2
+Author = libretro-database contributors / original PSP cheat authors
+2026DBA0 00000000
+
+// Speed x3 Player 1
+Author = libretro-database contributors / original PSP cheat authors
+2026DB48 00000003
+
+// Speed x0 (P2)
+Author = libretro-database contributors / original PSP cheat authors
+2026DBA0 00000000
+
+// Speed x3 (P1)
+Author = libretro-database contributors / original PSP cheat authors
+2026DB48 00000003
+
+// Survival Kills 999
+Author = libretro-database contributors / original PSP cheat authors
+2026DC8C 000003E7
+
+// Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 42C80000
+00020001 00000170
+
+// Tsuisou No Ma (Gallery) All Open
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 FFFFFFFF
+00020021 00000290
+90000001 00000000
+
+// Weapon Lvl Max
+Author = libretro-database contributors / original PSP cheat authors
+601C6CA0 00000005
+00000045 000001E0
+90000001 00000000

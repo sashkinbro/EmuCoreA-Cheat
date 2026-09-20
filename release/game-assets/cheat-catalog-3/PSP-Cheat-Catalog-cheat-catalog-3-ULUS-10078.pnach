@@ -1,0 +1,13 @@
+# PSP cheat pack
+# Serial: ULUS-10078
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Money (Rags To Riches)
+Author = libretro-database contributors / original PSP cheat authors
+21074BD0 3B9AC9FF
+2115FABC 3B9AC9FF
+
+// Opponent Alway Have 0 Point
+Author = libretro-database contributors / original PSP cheat authors
+00CD84A4 00000000
+00CE83FC 00000000

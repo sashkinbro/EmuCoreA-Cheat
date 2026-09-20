@@ -1,0 +1,55 @@
+# PSP cheat pack
+# Serial: ULUS-10240
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Handheld Screen (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+204D9AC0 3F9851EC
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+204D9AC0 3F800000
+
+// SmartPhone Screen (18:9)
+Author = libretro-database contributors / original PSP cheat authors
+204D9AC0 3F6147AE
+
+// SmartPhone Screen (19:9)
+Author = libretro-database contributors / original PSP cheat authors
+204D9AC0 3F570A3D
+
+// SmartPhone Screen (20:9)
+Author = libretro-database contributors / original PSP cheat authors
+204D9AC0 3F4CCCCD
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+204D9AC0 3F000000
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+204D9AC0 3F3851EC
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+201CE6EC 0E200800
+201CE6F0 240F012C
+2015A9DC 00000000
+2015A9E8 00000000
+20002000 8C420048
+20002004 AC4F02B0
+20002008 03E00008
+2000200C 8C4202B0
+
+// Infinite Sand Tanks
+Author = libretro-database contributors / original PSP cheat authors
+0097B618 00000006
+
+// Infinite Sands
+Author = libretro-database contributors / original PSP cheat authors
+009AE220 0000007D
+009AEC48 0000007D
+
+// Infinite Sub Weapon
+Author = libretro-database contributors / original PSP cheat authors
+200C4B0C 00000000

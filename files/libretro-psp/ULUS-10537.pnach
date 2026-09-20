@@ -1,0 +1,200 @@
+# PSP cheat pack
+# Serial: ULUS-10537
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+202B7EC8 34040001
+
+// 100% Of The Whole Collection Of Props
+Author = libretro-database contributors / original PSP cheat authors
+6027F708 C4FDF000
+00020001 00000080
+6027F708 01010101
+00020018 00000084
+90000001 00000000
+6027F708 00000101
+00010001 000000E4
+6027F708 00000001
+00000001 000000ED
+00000023 00000105
+0000000F 0000012E
+
+// 999999 D Pts.
+Author = libretro-database contributors / original PSP cheat authors
+206352C4 0098967F
+2063B9C4 0098967F
+2067DA00 0098967F
+
+// 1P+2P Full = A Life Seed Max
+Author = libretro-database contributors / original PSP cheat authors
+6027B850 00000004
+00000005 000002D4
+20000014 20000074
+2000006C 200009D0
+
+// 1P+2P Fusion Gauge Full = 500000
+Author = libretro-database contributors / original PSP cheat authors
+6027B850 0007A120
+00020005 000002D8
+20000014 20000074
+2000006C 200009D0
+
+// 1P HP = 100000
+Author = libretro-database contributors / original PSP cheat authors
+6027B850 000186A0
+00020004 00001A34
+20000014 20000074
+2000006C 00000000
+
+// 1P MP = 100000
+Author = libretro-database contributors / original PSP cheat authors
+6027B850 000186A0
+00020004 00001A40
+20000014 20000074
+2000006C 00000000
+
+// 1P MP Power Up+Diminished Rapidly Gathering
+Author = libretro-database contributors / original PSP cheat authors
+6027B850 00007530
+00020004 00001A54
+20000014 20000074
+2000006C 00000000
+
+// 2P HP = 100000
+Author = libretro-database contributors / original PSP cheat authors
+6027B850 000186A0
+00020004 00001A34
+20000014 20000078
+2000006C 00000000
+
+// 2P MP = 100000
+Author = libretro-database contributors / original PSP cheat authors
+6027B850 000186A0
+00020004 00001A40
+20000014 20000078
+2000006C 00000000
+
+// 2P MP Power Up+Diminished Rapidly Gathering
+Author = libretro-database contributors / original PSP cheat authors
+6027B850 00007530
+00020004 00001A54
+20000014 20000078
+2000006C 00000000
+
+// All Character
+Author = libretro-database contributors / original PSP cheat authors
+6027F708 FFFFFFFF
+00020001 00000184
+90000001 00000000
+6027F708 0000003F
+00000001 0000018C
+
+// All Items Sell Stores
+Author = libretro-database contributors / original PSP cheat authors
+6027F708 00000001
+0000005E 00004D4D
+90000001 00000000
+00000001 00004DB6
+00000023 00004DCE
+0000000F 00004DF7
+0000005E 00004E4D
+00000001 00004EB6
+00000023 00004ECE
+0000000F 00004EF7
+
+// D Point 9999999
+Author = libretro-database contributors / original PSP cheat authors
+6027F708 F8B34C04
+00020001 00000080
+
+// Death (Enemy)
+Author = libretro-database contributors / original PSP cheat authors
+00F41854 00000000
+
+// Fly Flying Sprint On The Map Strength Diminished
+Author = libretro-database contributors / original PSP cheat authors
+602EF748 43480000
+00020002 0000009C
+200008C0 00000000
+
+// Fly On Sprint On The Map Strength Diminished Flight
+Author = libretro-database contributors / original PSP cheat authors
+C01C55D0 00000000
+
+// Full Battle Space
+Author = libretro-database contributors / original PSP cheat authors
+6027F708 000003FF
+00020001 000021A4
+
+// Hit Anywhere (All Players)
+Author = libretro-database contributors / original PSP cheat authors
+2005BB84 00000000
+2005BB94 00000000
+
+// Infinite D Points
+Author = libretro-database contributors / original PSP cheat authors
+2060D780 FE691900
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+6027B850 00007530
+00020002 00001A34
+200002B4 00000000
+
+// Infinite HP (P1)
+Author = libretro-database contributors / original PSP cheat authors
+6027B850 000186A0
+00020004 00001A34
+20000014 20000074
+2000006C 00000000
+
+// Infinite Ki
+Author = libretro-database contributors / original PSP cheat authors
+6027B850 000186A0
+00020002 00001A40
+200002B4 00000000
+
+// Infinite Ki (P1)
+Author = libretro-database contributors / original PSP cheat authors
+6027B850 000186A0
+00020004 00001A40
+20000014 20000074
+2000006C 00000000
+
+// Infinite Time (Mini)
+Author = libretro-database contributors / original PSP cheat authors
+00251A20 03E00008
+
+// Ki 0 (Enemy)
+Author = libretro-database contributors / original PSP cheat authors
+00F41860 00000000
+
+// Ki Max (Player)
+Author = libretro-database contributors / original PSP cheat authors
+00F3E340 00018FC0
+
+// Partner Death (Enemy)
+Author = libretro-database contributors / original PSP cheat authors
+00F432E4 00000000
+
+// Partner Ki 0 (Enemy)
+Author = libretro-database contributors / original PSP cheat authors
+00F432F0 00000000
+
+// Time On Time Of Unabated Fighting
+Author = libretro-database contributors / original PSP cheat authors
+C01056E0 00000000
+C0105710 00000000
+
+// Time Stop Fighting Time
+Author = libretro-database contributors / original PSP cheat authors
+6027B850 00000000
+00000002 00000190
+90000004 00000000
+
+// Upgrading Skills Slot Maximum
+Author = libretro-database contributors / original PSP cheat authors
+6027F708 06060606
+0002000C 00004D0C
+90000001 00000000

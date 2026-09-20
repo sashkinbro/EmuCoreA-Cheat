@@ -1,0 +1,173 @@
+# PSP cheat pack
+# Serial: ULJS-00201
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Anti Piracy Patch
+Author = libretro-database contributors / original PSP cheat authors
+20277488 24020000
+20277490 24020000
+20277494 24020000
+20277498 24020000
+
+// All Map Weapon
+Author = libretro-database contributors / original PSP cheat authors
+803B95EC 00150008
+00000009 00000000
+
+// All Skills Level 3
+Author = libretro-database contributors / original PSP cheat authors
+803C0878 00160004
+00000003 00000000
+
+// All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+803B96B4 002A0008
+00000009 00000000
+
+// At Max
+Author = libretro-database contributors / original PSP cheat authors
+6028C550 447A0000
+00020002 00000124
+20000004 00000000
+
+// Enable All Map Weapons For Sale
+Author = libretro-database contributors / original PSP cheat authors
+803C0927 00150001
+00000002 00000000
+
+// Enable All Simulation Battles
+Author = libretro-database contributors / original PSP cheat authors
+803C093C 00640001
+00000001 00000000
+
+// Enable All Weapons For Sale
+Author = libretro-database contributors / original PSP cheat authors
+803C08FD 002A0001
+00000002 00000000
+
+// Eva Speed x2
+Author = libretro-database contributors / original PSP cheat authors
+20018DF4 3C014000
+20018DF8 44810000
+
+// Eva Speed x3
+Author = libretro-database contributors / original PSP cheat authors
+20018DF4 3C014040
+20018DF8 44810000
+
+// Eva Super Armor
+Author = libretro-database contributors / original PSP cheat authors
+2004CC2C C62C0120
+2004CC30 E62C011C
+2004CC34 460C6303
+2004CC5C C62C0128
+2004CC64 E62C0124
+2004CC68 460C6303
+2004CC74 3C054500
+2004CC84 AE25035C
+20014854 C60C0314
+2001485C E60C0318
+
+// Game Enabler Code
+Author = libretro-database contributors / original PSP cheat authors
+20277488 24020000
+20277490 24020000
+20277494 24020000
+20277498 24020000
+
+// Map Gimmick & Eva Weapon All
+Author = libretro-database contributors / original PSP cheat authors
+403B95EC 00450002
+00000009 00000000
+403B95F0 00450002
+
+// Max Budget
+Author = libretro-database contributors / original PSP cheat authors
+203ABAFC 0098967F
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20402D40 05F5E0FF
+203ABAFC 05F5E0FF
+
+// Pass All Simulation Battles
+Author = libretro-database contributors / original PSP cheat authors
+803C093C 00640001
+00000003 00000000
+
+// QT Command Easy
+Author = libretro-database contributors / original PSP cheat authors
+20057CE0 24060000
+20057B18 10A00020
+
+// Shinji Popularity Max
+Author = libretro-database contributors / original PSP cheat authors
+002AE550 000000C8
+
+// Shinji Speed x1
+Author = libretro-database contributors / original PSP cheat authors
+2008E0C4 3C054080
+2008E128 3C043F80
+
+// Shinji Speed x2
+Author = libretro-database contributors / original PSP cheat authors
+2008E0C4 3C054100
+2008E128 3C043F80
+
+// Simplify QT Command
+Author = libretro-database contributors / original PSP cheat authors
+C0057CE0 24060000
+C0057B18 10A00020
+
+// Skill All 0
+Author = libretro-database contributors / original PSP cheat authors
+403C084C 000B0001
+
+// Skill All Lv.3 Soubi
+Author = libretro-database contributors / original PSP cheat authors
+403C084C 000B0001
+00000003 00000000
+
+// Skill Lv.3 All Get
+Author = libretro-database contributors / original PSP cheat authors
+403C0878 000B0001
+00000003 00000000
+
+// Skill Lv.3 Kaihou
+Author = libretro-database contributors / original PSP cheat authors
+403C08A4 000B0001
+00000003 00000000
+
+// Stats
+Author = libretro-database contributors / original PSP cheat authors
+002AE550 000000C8
+
+// Super Armor For Eva
+Author = libretro-database contributors / original PSP cheat authors
+C004CC2C C62C0120
+C004CC30 E62C011C
+C004CC34 460C6303
+C004CC5C C62C0128
+C004CC64 E62C0124
+C004CC68 460C6303
+C004CC74 3C054500
+C004CC84 AE25035C
+C0014854 C60C0314
+C001485C E60C0318
+
+// Super Armor For Eva v2
+Author = libretro-database contributors / original PSP cheat authors
+2004CC2C C62C0120
+2004CC30 E62C011C
+2004CC34 460C6303
+2004CC5C C62C0128
+2004CC64 E62C0124
+2004CC68 460C6303
+2004CC74 3C054500
+2004CC84 AE25035C
+20014854 C60C0314
+2001485C E60C0318
+
+// Ammo Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+2001A4FC 00000000

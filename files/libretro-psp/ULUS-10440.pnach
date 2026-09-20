@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: ULUS-10440
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 0 Points [Away Team]
+Author = libretro-database contributors / original PSP cheat authors
+106411C8 00000000
+
+// 2 SEC. Left For Play
+Author = libretro-database contributors / original PSP cheat authors
+00CCCC9C 00000002
+
+// 99 Points [Home Team]
+Author = libretro-database contributors / original PSP cheat authors
+106411C4 00000099
+
+// 244 Upgrade Attribute Points
+Author = libretro-database contributors / original PSP cheat authors
+0060C868 000001F4
+
+// Always First Down
+Author = libretro-database contributors / original PSP cheat authors
+00CCF768 00000001

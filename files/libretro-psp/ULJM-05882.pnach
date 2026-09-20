@@ -1,0 +1,30 @@
+# PSP cheat pack
+# Serial: ULJM-05882
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Gallary Open
+Author = libretro-database contributors / original PSP cheat authors
+802A6398 003E0001
+00000001 00000000
+802A6438 003E0001
+802A64D8 003E0001
+802A6578 003E0001
+802A6618 003E0001
+802A66B8 003E0001
+802A6758 003E0001
+802A67F8 003E0001
+
+// Item Open
+Author = libretro-database contributors / original PSP cheat authors
+802A68D8 00310001
+00000001 00000000
+
+// Music Open
+Author = libretro-database contributors / original PSP cheat authors
+802A6898 00050001
+000000FF 00000000
+
+// Profile & Constantin Story Open
+Author = libretro-database contributors / original PSP cheat authors
+802A6919 00070001
+00000001 00000000

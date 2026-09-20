@@ -1,0 +1,12 @@
+# PSP cheat pack
+# Serial: ULUS-10137
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99999 Points (Arcade Mode)
+Author = libretro-database contributors / original PSP cheat authors
+2068D500 0001869F
+
+// Drag Mod
+Author = libretro-database contributors / original PSP cheat authors
+2053A65C 00000006
+2147C5CC 00000006

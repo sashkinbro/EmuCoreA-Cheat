@@ -1,0 +1,176 @@
+# PSP cheat pack
+# Serial: ULUS-10249
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Remove Slow & Ugly Effect
+Author = libretro-database contributors / original PSP cheat authors
+E0020406 002DC218
+202DC218 00003021
+202DC21C 00000000
+
+// Remove Slow & Ugly Effect [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+202DC218 3C060406
+202DC21C 34C60002
+
+// 20 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+20067484 24100002
+20067488 24100003
+2012F9B0 3C033F80
+20537E10 3F800000
+
+// 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20067484 24100002
+20067488 24100002
+2012F9B0 3C033F80
+20537E10 3F800000
+
+// 60 FPS [Fixed Gamespeed]
+Author = libretro-database contributors / original PSP cheat authors
+20067484 24100001
+20067488 24100001
+2012F9B0 3C033F00
+20537E10 3F000000
+
+// Performance/Rendering Resolution Fix
+Author = libretro-database contributors / original PSP cheat authors
+E0090000 00003702
+200674C4 0A200DC1
+20003704 3C030418
+20003708 AC60DB98
+2000370C AC60DBA4
+20003710 AC60DBB0
+20003714 3C030880
+20003718 AC633700
+2000371C 0A219D33
+20003720 3C0308D0
+E0020880 00003702
+20003700 FFFF0000
+200674C4 3C0308D0
+
+// All Cars Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+20310C94 00000000
+
+// Disable Racer AI
+Author = libretro-database contributors / original PSP cheat authors
+201EECBC 03E00008
+201EECC0 00000000
+
+// Disable Traffic
+Author = libretro-database contributors / original PSP cheat authors
+0059B514 00000000
+
+// Drive Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+00569053 00000000
+
+// Drive Through Walls [Off]
+Author = libretro-database contributors / original PSP cheat authors
+00569053 00000001
+
+// Enable Racer AI
+Author = libretro-database contributors / original PSP cheat authors
+201EECBC 27BDFFF0
+201EECC0 AFBF000C
+
+// Enable Traffic
+Author = libretro-database contributors / original PSP cheat authors
+0059B514 00000005
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+21670EC8 3B9AC9FF
+
+// Infinite Rental Time
+Author = libretro-database contributors / original PSP cheat authors
+201F169C 00000000
+
+// Infinite Rental Time [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201F169C 46150841
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+21670EC8 05F00000
+
+// Paint In Secret Colour
+Author = libretro-database contributors / original PSP cheat authors
+E0020011 00154AAC
+E00110A3 00154AAE
+20154AAC 2405FFFE
+
+// Paint In Secret Colour [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E002FFFE 00154AAC
+E0012405 00154AAE
+20154AAC 10A30011
+
+// Police
+Author = libretro-database contributors / original PSP cheat authors
+2059B571 00000000
+
+// Police [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2059B571 00000001
+
+// Speed Modifer: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20537E10 3FE00000
+
+// Speed Modifer: Mega
+Author = libretro-database contributors / original PSP cheat authors
+20537E10 40000000
+
+// Speed Modifer: Much Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20537E10 3FC00000
+
+// Speed Modifer: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20537E10 3F800000
+
+// Speed Modifer: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20537E10 3FA00000
+
+// Speed Modifer: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20537E10 3F400000
+20537E10 3F000000
+
+// Teleport To Marker
+Author = libretro-database contributors / original PSP cheat authors
+E00308D5 0021D1D8
+E0029414 0021D1E0
+2021D1D8 3C0408D6
+2021D1E0 248422AC
+
+// Teleport To Marker [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E00308D6 0021D1D8
+E00222AC 0021D1E0
+2021D1D8 3C0408D5
+2021D1E0 24849414
+
+// Tons Of Exp.
+Author = libretro-database contributors / original PSP cheat authors
+216690B8 7301F3A1
+
+// TP To Marker - Disobey Land-Marking Blacklist
+Author = libretro-database contributors / original PSP cheat authors
+E004A437 0021F0D0
+E0030E28 0021F0D2
+E00200FF 0021F0D8
+E0013051 0021F0DA
+2021F0D8 34110001
+
+// TP To Marker - Disobey Land-Marking Blacklist [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E004A437 0021F0D0
+E0030E28 0021F0D2
+E0020001 0021F0D8
+E0013411 0021F0DA
+2021F0D8 305100FF

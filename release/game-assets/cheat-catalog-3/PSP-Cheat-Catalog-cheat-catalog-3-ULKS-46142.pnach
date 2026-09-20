@@ -1,0 +1,33 @@
+# PSP cheat pack
+# Serial: ULKS-46142
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Big Boom 99
+Author = libretro-database contributors / original PSP cheat authors
+00493979 00000063
+
+// Bronze Medal 99
+Author = libretro-database contributors / original PSP cheat authors
+0049397A 00000063
+
+// Card-Joker 99
+Author = libretro-database contributors / original PSP cheat authors
+0049399C 00000063
+
+// Gold Medal 99
+Author = libretro-database contributors / original PSP cheat authors
+00493962 00000063
+
+// MP Full
+Author = libretro-database contributors / original PSP cheat authors
+20491398 0000170F
+20491AE0 0000170F
+20492228 0000170F
+
+// Platinum Medal 99
+Author = libretro-database contributors / original PSP cheat authors
+0049397C 00000063
+
+// Silver Medal 99
+Author = libretro-database contributors / original PSP cheat authors
+0049397B 00000063

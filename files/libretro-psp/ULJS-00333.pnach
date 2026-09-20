@@ -1,0 +1,182 @@
+# PSP cheat pack
+# Serial: ULJS-00333
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Enable Debug Viewer
+Author = libretro-database contributors / original PSP cheat authors
+00004F30 00000008
+
+// Album All
+Author = libretro-database contributors / original PSP cheat authors
+412FC918 00050001
+FFFFFFFF 00000000
+012FC92C 0000000F
+012FCAA3 000000FF
+412FCAA4 00030001
+
+// Amane Horoyoi
+Author = libretro-database contributors / original PSP cheat authors
+213386AC 3F000000
+
+// Amane Love
+Author = libretro-database contributors / original PSP cheat authors
+212FA2CC 42C80000
+
+// Costume All
+Author = libretro-database contributors / original PSP cheat authors
+412FC390 00100001
+FFFFFFFF 00000000
+
+// Drinking Level 10
+Author = libretro-database contributors / original PSP cheat authors
+11338600 00001194
+
+// Ending At Once
+Author = libretro-database contributors / original PSP cheat authors
+212FA394 0000016C
+
+// Ili Horoyoi
+Author = libretro-database contributors / original PSP cheat authors
+213388EC 3F000000
+
+// Ili Love
+Author = libretro-database contributors / original PSP cheat authors
+212FA380 42C80000
+
+// Item All
+Author = libretro-database contributors / original PSP cheat authors
+81338612 00340001
+10000001 00000000
+
+// Karaoke All
+Author = libretro-database contributors / original PSP cheat authors
+112FC902 0000FFFB
+
+// Karaoke Good
+Author = libretro-database contributors / original PSP cheat authors
+20060C90 10000020
+20060E70 10000051
+
+// Karaoke OK
+Author = libretro-database contributors / original PSP cheat authors
+20070154 10000004
+200C1A50 10000020
+200CAFA8 5000FD99
+
+// Karaoke View Mode
+Author = libretro-database contributors / original PSP cheat authors
+012FC913 000000F8
+012FC914 0000001F
+
+// Mari Horoyoi
+Author = libretro-database contributors / original PSP cheat authors
+213388AC 3F000000
+
+// Mari Love
+Author = libretro-database contributors / original PSP cheat authors
+212FA36C 42C80000
+
+// Memorial All
+Author = libretro-database contributors / original PSP cheat authors
+212FF034 FFFFFFFF
+212FF038 0FFFFFFF
+
+// Mio Horoyoi
+Author = libretro-database contributors / original PSP cheat authors
+213386EC 3F000000
+
+// Mio Love
+Author = libretro-database contributors / original PSP cheat authors
+212FA2E0 42C80000
+
+// Mion Horoyoi
+Author = libretro-database contributors / original PSP cheat authors
+213387AC 3F000000
+
+// Mion Love
+Author = libretro-database contributors / original PSP cheat authors
+212FA31C 42C80000
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+212FA234 3B9AC9FF
+213385D0 3B9AC9FF
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+213385D0 000F423F
+
+// Nao Horoyoi
+Author = libretro-database contributors / original PSP cheat authors
+2133886C 3F000000
+
+// Nao Love
+Author = libretro-database contributors / original PSP cheat authors
+212FA358 42C80000
+
+// Not Inebriate
+Author = libretro-database contributors / original PSP cheat authors
+21338658 00000000
+
+// Not Inebriate (Push L)
+Author = libretro-database contributors / original PSP cheat authors
+21338658 424A0000
+D0000000 10000100
+21338658 00000000
+
+// Reika Hproyoi
+Author = libretro-database contributors / original PSP cheat authors
+2133876C 3F000000
+
+// Reika Love
+Author = libretro-database contributors / original PSP cheat authors
+212FA308 42C80000
+
+// Return Jun 1ST Week
+Author = libretro-database contributors / original PSP cheat authors
+212FA394 00000005
+
+// Riho Hproyoi
+Author = libretro-database contributors / original PSP cheat authors
+2133882C 3F000000
+
+// Riho Love
+Author = libretro-database contributors / original PSP cheat authors
+212FA344 42C80000
+
+// Rui Horoyoi
+Author = libretro-database contributors / original PSP cheat authors
+213387EC 3F000000
+
+// Rui Love
+Author = libretro-database contributors / original PSP cheat authors
+212FA330 42C80000
+
+// Salary 0
+Author = libretro-database contributors / original PSP cheat authors
+213385F0 00000000
+
+// Salary Max
+Author = libretro-database contributors / original PSP cheat authors
+213385F0 000F423F
+
+// Secret Character
+Author = libretro-database contributors / original PSP cheat authors
+012FF220 00000018
+112FF78C 00000101
+
+// Setsu Horoyoi
+Author = libretro-database contributors / original PSP cheat authors
+2133872C 3F000000
+
+// Setsu Love
+Author = libretro-database contributors / original PSP cheat authors
+212FA2F4 42C80000
+
+// Synchro 999
+Author = libretro-database contributors / original PSP cheat authors
+2141F4F8 4479C000
+
+// Time Limit Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+2133866C 42700000

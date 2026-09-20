@@ -1,0 +1,126 @@
+# PSP cheat pack
+# Serial: ULUS-10021
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 999 Tournament Points
+Author = libretro-database contributors / original PSP cheat authors
+10476980 000003E7
+
+// Always Low Time
+Author = libretro-database contributors / original PSP cheat authors
+2007F2D0 44800000
+
+// Head Mod: Blue Bubble
+Author = libretro-database contributors / original PSP cheat authors
+203EBC3C 00000000
+
+// Head Mod: Blue Bubble (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+203DE4CC 00000000
+
+// Head Mod: Bunny
+Author = libretro-database contributors / original PSP cheat authors
+203EBC3C 00000002
+
+// Head Mod: Bunny (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+203DE4CC 00000002
+
+// Head Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+203EBC3C FFFFFFFF
+
+// Head Mod: Normal (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+203DE4CC FFFFFFFF
+
+// Head Mod: Pumpkin
+Author = libretro-database contributors / original PSP cheat authors
+203EBC3C 00000001
+
+// Head Mod: Pumpkin (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+203DE4CC 00000001
+
+// Head Mod: Skull
+Author = libretro-database contributors / original PSP cheat authors
+203EBC3C 00000003
+
+// Head Mod: Skull (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+203DE4CC 00000003
+
+// Head Mod: Snowman
+Author = libretro-database contributors / original PSP cheat authors
+203EBC3C 00000004
+
+// Head Mod: Snowman (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+203DE4CC 00000004
+
+// Infinite Car Health [Arcade Mode]
+Author = libretro-database contributors / original PSP cheat authors
+203EAB90 00000001
+
+// Infinite Car Health [Arcade Mode] (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+203DD5E0 00000001
+
+// Infinite Nitro II (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+20174F78 24110005
+20174F7C A4510012
+20174F84 24060005
+
+// Infinite Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+20174EA0 00000000
+
+// Infinite Nitrous (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+20174F78 00000000
+
+// Lots Of Money
+Author = libretro-database contributors / original PSP cheat authors
+20514780 3B9AC9FF
+20514784 3B9AC9FF
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+20514780 3B9AC9FF
+
+// Max Cash (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+204928F0 3B9AC9FF
+
+// Speed Mod: Normal Speed
+Author = libretro-database contributors / original PSP cheat authors
+203E7C24 3D4CCCCD
+
+// Speed Mod: Normal Speed (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+203DAFAC 3D4CCCCD
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+203E7C24 3C8CCCCD
+
+// Speed Mod: Slow Motion (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+203DAFAC 3C8CCCCD
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+203E7C24 3C0CCCCD
+
+// Speed Mod: Super Slow Motion (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+203DAFAC 3C0CCCCD
+
+// Unlock All Cities [Arcade Mode]
+Author = libretro-database contributors / original PSP cheat authors
+203EB71D 00000001
+
+// Unlock All Cities [Arcade Mode] (v2.0)
+Author = libretro-database contributors / original PSP cheat authors
+203DDFB5 00000001

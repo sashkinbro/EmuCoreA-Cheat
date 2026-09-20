@@ -1,0 +1,76 @@
+# PSP cheat pack
+# Serial: ULJS-00177
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Item Kai
+Author = libretro-database contributors / original PSP cheat authors
+811C938E 00C60006
+00000063 00000000
+811C938C 00C60003
+10000001 00000001
+811C9830 00100003
+1000014C 00000001
+811C9832 00100006
+811C9890 00030003
+100000EB 00000001
+811C9892 00030006
+211C7F7C 000000D9
+
+// Encount Off (L+Up:On/L+Down:Off)
+Author = libretro-database contributors / original PSP cheat authors
+E0020110 0023EF54
+2007767C 00000000
+20078500 00000000
+E0020140 0023EF54
+2007767C 14400005
+20078500 144000A9
+
+// Kakutoku K-kenti
+Author = libretro-database contributors / original PSP cheat authors
+21258334 0098967F
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+211C0124 0098967F
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+211C0124 0098967F
+
+// Not Use HP
+Author = libretro-database contributors / original PSP cheat authors
+51258E2E 00000002
+01258E2C 00000000
+
+// Not Use MP
+Author = libretro-database contributors / original PSP cheat authors
+51258E32 00000002
+01258E30 00000000
+
+// Nouryoku 999
+Author = libretro-database contributors / original PSP cheat authors
+211BF0D8 0000270F
+211BF1B8 00002707
+011BF210 00002706
+211BF234 0000270F
+211BF24C 0000270F
+211BF454 0000270E
+211BE2BC 0000270F
+211BFD68 0000270F
+
+// Run Speed x2
+Author = libretro-database contributors / original PSP cheat authors
+10140FF2 00004258
+
+// Teki ByousAtsu
+Author = libretro-database contributors / original PSP cheat authors
+C009B51C 0E2007FF
+20001FFC 0242902C
+C009B520 00000000
+20002000 1A200003
+20002008 00001821
+20002010 03E00008
+
+// Walk Speed x2
+Author = libretro-database contributors / original PSP cheat authors
+10140FEE 000041D8

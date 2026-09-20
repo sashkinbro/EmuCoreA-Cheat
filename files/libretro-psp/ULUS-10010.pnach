@@ -1,0 +1,71 @@
+# PSP cheat pack
+# Serial: ULUS-10010
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Normal]
+Author = libretro-database contributors / original PSP cheat authors
+202070C8 1000FFF7
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+202070C8 00000000
+
+// Away Gamebreaker Slot
+Author = libretro-database contributors / original PSP cheat authors
+603E15D0 47435000
+00020002 00000080
+200000B8 00000000
+
+// Away Gamebreaker Unlimited Time Slot
+Author = libretro-database contributors / original PSP cheat authors
+603E15D0 00000500
+00020002 0000008C
+200000B8 00000000
+
+// Away Goals
+Author = libretro-database contributors / original PSP cheat authors
+603E15D0 00000014
+00030002 00000284
+200000B8 00000000
+
+// Away Score
+Author = libretro-database contributors / original PSP cheat authors
+603E15D0 0001869F
+00050002 0000022C
+200000B8 00000000
+
+// Away Turbo Slot
+Author = libretro-database contributors / original PSP cheat authors
+603E15D0 3F800000
+00020002 00000030
+200000AC 00000000
+
+// Home Goals
+Author = libretro-database contributors / original PSP cheat authors
+603E15D0 00000014
+00030002 00000288
+200000B8 00000000
+
+// Home Score
+Author = libretro-database contributors / original PSP cheat authors
+603E15D0 0098948B
+00050002 00000230
+200000B8 00000000
+
+// Slot Home Gamebreaker
+Author = libretro-database contributors / original PSP cheat authors
+603E15D0 47435000
+00020002 00000010
+200000B8 00000000
+
+// Slot Turbo Home
+Author = libretro-database contributors / original PSP cheat authors
+603E15D0 3F800000
+00020002 00000000
+200000AC 00000000
+
+// Unlimited Home Gamebreaker Time Slot
+Author = libretro-database contributors / original PSP cheat authors
+603E15D0 00000500
+00020002 0000001C
+200000B8 00000000

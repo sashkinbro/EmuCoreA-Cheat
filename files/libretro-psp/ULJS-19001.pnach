@@ -1,0 +1,71 @@
+# PSP cheat pack
+# Serial: ULJS-19001
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AL Bullet Inf.
+Author = libretro-database contributors / original PSP cheat authors
+0030F8E8 00000001
+
+// AL Ammo Inf.
+Author = libretro-database contributors / original PSP cheat authors
+1030F8E8 00000001
+
+// AR Bullet Inf.
+Author = libretro-database contributors / original PSP cheat authors
+0035D504 00000001
+
+// AR Ammo Inf.
+Author = libretro-database contributors / original PSP cheat authors
+1035D504 00000001
+
+// BL Ammo Inf.
+Author = libretro-database contributors / original PSP cheat authors
+1035D594 00000001
+
+// BL Bullet Inf.
+Author = libretro-database contributors / original PSP cheat authors
+0035D594 00000001
+
+// BR Bullet Inf.
+Author = libretro-database contributors / original PSP cheat authors
+0035D624 00000001
+
+// BR Ammo Inf.
+Author = libretro-database contributors / original PSP cheat authors
+1035D624 00000001
+
+// EN Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+1035CC90 0007A120
+
+// EX Bullet Inf.
+Author = libretro-database contributors / original PSP cheat authors
+0035D744 00000001
+
+// EX Ammo Inf.
+Author = libretro-database contributors / original PSP cheat authors
+1035D744 00000001
+
+// Infinite AP
+Author = libretro-database contributors / original PSP cheat authors
+1035CC84 00009C3C
+
+// Infinite EN
+Author = libretro-database contributors / original PSP cheat authors
+0035CC92 000000DC
+
+// Inside Bullet Inf.
+Author = libretro-database contributors / original PSP cheat authors
+0035D6B4 0000000A
+
+// Inside Ammo Inf.
+Author = libretro-database contributors / original PSP cheat authors
+0035D6B4 0000000A
+
+// Missile Lock
+Author = libretro-database contributors / original PSP cheat authors
+0035CDF0 0000000A
+
+// OP Unlimited
+Author = libretro-database contributors / original PSP cheat authors
+00868EFC 0000002B

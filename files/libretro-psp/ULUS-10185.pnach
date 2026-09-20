@@ -1,0 +1,101 @@
+# PSP cheat pack
+# Serial: ULUS-10185
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 999 PowerUp
+Author = libretro-database contributors / original PSP cheat authors
+20353EBC 000003E7
+
+// Brian: Always Invisible
+Author = libretro-database contributors / original PSP cheat authors
+2003B198 0A200418
+2003B19C 00000000
+20001060 8E240000
+20001064 3C0108A7
+20001068 8C216320
+2000106C 16610002
+20001074 8C2101C8
+20001078 A03401D0
+2000107C 14800003
+20001080 00000000
+20001084 0A20EC69
+20001088 00000000
+2000108C 0A20EC6D
+
+// Brian: Always Invisible [Deactivate]
+Author = libretro-database contributors / original PSP cheat authors
+2003B198 8E240000
+2003B19C 14800005
+
+// Brian: Has No Impulse (Bone Meter)
+Author = libretro-database contributors / original PSP cheat authors
+2002BE40 10000010
+
+// Brian: Has No Impulse (Bone Meter) [Deactivate]
+Author = libretro-database contributors / original PSP cheat authors
+2002BE40 45010010
+
+// God Mode - Peter/RAM
+Author = libretro-database contributors / original PSP cheat authors
+60276320 42C80000
+00020002 000002E8
+200001C8 00000000
+
+// God Mode - Stewie And Peter
+Author = libretro-database contributors / original PSP cheat authors
+20039774 0A200400
+20001000 C64C0000
+20001004 3C0108A7
+20001008 8C216320
+2000100C 16610008
+20001010 8C2101C8
+20001014 C42A02F0
+20001018 460A6032
+2000101C 45010006
+20001020 C42A02E8
+20001024 460A6032
+20001028 45010003
+2000102C 00000000
+20001030 0A20E5DF
+20001034 00000000
+20001038 0A20E5E0
+
+// God Mode - Stewie And Peter [Deactivate]
+Author = libretro-database contributors / original PSP cheat authors
+20039774 C64C0000
+
+// God Mode - Stewie/RAM
+Author = libretro-database contributors / original PSP cheat authors
+60276320 42C80000
+00020002 000002F0
+200001C8 00000000
+
+// Invisible Power - Brian/RAM
+Author = libretro-database contributors / original PSP cheat authors
+60276320 00000001
+00020002 000001D0
+200001C8 00000000
+
+// Maximum Power Increased To 90000 - Peter/RAM
+Author = libretro-database contributors / original PSP cheat authors
+60276320 47AFC800
+00020002 000002DC
+200001C8 00000000
+
+// No Impulse - Brian/RAM
+Author = libretro-database contributors / original PSP cheat authors
+60276320 00000000
+00020002 00000204
+200001C8 00000000
+
+// Unlimited Upgrade Weapon (700)
+Author = libretro-database contributors / original PSP cheat authors
+20353EBC 000002BC
+
+// Walk Anywhere (Hold L)
+Author = libretro-database contributors / original PSP cheat authors
+20016B10 12E0000F
+20013B7C 10A00019
+D0000001 10000100
+20016B10 1000000F
+20013B7C 10000019

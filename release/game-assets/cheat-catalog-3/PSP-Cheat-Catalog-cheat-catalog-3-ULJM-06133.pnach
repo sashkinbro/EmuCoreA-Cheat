@@ -1,0 +1,63 @@
+# PSP cheat pack
+# Serial: ULJM-06133
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1st Character: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+101F9E10 0000270F
+
+// 1st Character: MP At 99
+Author = libretro-database contributors / original PSP cheat authors
+6024C410 00000000
+00020001 00013714
+D0000001 10004000
+6024C410 000000FF
+
+// Encounter None(Hold X Button To Encounter Again)
+Author = libretro-database contributors / original PSP cheat authors
+201F9E04 0098967F
+
+// Exp. 9999999 (1st Slot Character)
+Author = libretro-database contributors / original PSP cheat authors
+201FB6D0 0098967F
+
+// Gil Max
+Author = libretro-database contributors / original PSP cheat authors
+801F9EF8 00170014
+00000063 00000000
+801FA1F0 00170014
+801FA4E8 00170014
+801FA7E0 00170014
+801FA0DC 000402F8
+
+// Job Level Max
+Author = libretro-database contributors / original PSP cheat authors
+001F9E15 00000063
+
+// Lv.1
+Author = libretro-database contributors / original PSP cheat authors
+001F9E17 00000063
+
+// Lv.2
+Author = libretro-database contributors / original PSP cheat authors
+001F9E19 00000063
+
+// Lv.3
+Author = libretro-database contributors / original PSP cheat authors
+001F9E1B 00000063
+
+// Lv.4
+Author = libretro-database contributors / original PSP cheat authors
+001F9E1D 00000063
+
+// Lv.5
+Author = libretro-database contributors / original PSP cheat authors
+001F9E1F 00000063
+
+// Lv.6
+Author = libretro-database contributors / original PSP cheat authors
+001F9E21 00000063
+
+// Lv.7
+Author = libretro-database contributors / original PSP cheat authors
+001F9E23 00000063

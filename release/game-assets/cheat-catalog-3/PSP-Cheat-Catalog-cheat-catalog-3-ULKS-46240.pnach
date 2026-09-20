@@ -1,0 +1,101 @@
+# PSP cheat pack
+# Serial: ULKS-46240
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 4B All Songs Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+802C63BA 003F0068
+00000001 00000000
+
+// 4B Lite All Songs Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+802C63B9 003F0068
+00000001 00000000
+
+// 6B All Songs Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+802C63BB 003F0068
+00000001 00000000
+
+// 8B All Songs Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+802C63BC 003F0068
+00000001 00000000
+
+// All Characters
+Author = libretro-database contributors / original PSP cheat authors
+802C7FEC 00310008
+802C7FF0 00310008
+00000001 00000000
+
+// All Gears
+Author = libretro-database contributors / original PSP cheat authors
+802C7EAC 00130008
+802C7EB0 00130008
+00000001 00000000
+
+// All Images
+Author = libretro-database contributors / original PSP cheat authors
+402C8174 00F40002
+
+// All Items
+Author = libretro-database contributors / original PSP cheat authors
+402C7F44 00140002
+
+// All Notes
+Author = libretro-database contributors / original PSP cheat authors
+802C7F4C 00130008
+802C7F50 00130008
+00000001 00000000
+
+// All Pictures
+Author = libretro-database contributors / original PSP cheat authors
+802C8194 00F00008
+
+// All Portraits
+Author = libretro-database contributors / original PSP cheat authors
+402C7FE4 00320002
+
+// Fever
+Author = libretro-database contributors / original PSP cheat authors
+00057894 000000FF
+
+// Fever Growth Rate Of x Times
+Author = libretro-database contributors / original PSP cheat authors
+2057839C 40000000
+
+// Full Image
+Author = libretro-database contributors / original PSP cheat authors
+802C8174 00040008
+
+// Full Scene Mode
+Author = libretro-database contributors / original PSP cheat authors
+402C7EA4 00140002
+
+// Gold Cheat
+Author = libretro-database contributors / original PSP cheat authors
+202C7E7C 10006D38
+
+// Life
+Author = libretro-database contributors / original PSP cheat authors
+205778BC 42C80000
+
+// Life Recovery Rate x5
+Author = libretro-database contributors / original PSP cheat authors
+C004E008 46176300
+
+// Max Combo
+Author = libretro-database contributors / original PSP cheat authors
+205778AC 000F423F
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+202C7E7C 0098967F
+
+// Score
+Author = libretro-database contributors / original PSP cheat authors
+205778B8 0098967F
+
+// x Times The Number Of Combo
+Author = libretro-database contributors / original PSP cheat authors
+C004DB2C 24C6000A

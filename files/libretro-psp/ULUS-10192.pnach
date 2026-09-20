@@ -1,0 +1,94 @@
+# PSP cheat pack
+# Serial: ULUS-10192
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Ristar: Invulnerability
+Author = libretro-database contributors / original PSP cheat authors
+E0028D89 00056F52
+602C071C 00000078
+00000001 0000C036
+
+// Ristar: Max Life
+Author = libretro-database contributors / original PSP cheat authors
+E0028D89 00056F52
+602C071C 00000005
+00000001 0000C038
+
+// Shadow Dancer: 99 Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0028C82 0005695E
+602BF7CC 00000099
+00000001 006013DE
+
+// Shadow Dancer: Max Time
+Author = libretro-database contributors / original PSP cheat authors
+E0028C82 0005695E
+602BF7CC 00009909
+00020001 00000F02
+
+// Shadow Dancer: Power Always Active
+Author = libretro-database contributors / original PSP cheat authors
+E0028C82 0005695E
+602BF7CC 00000001
+00000001 006013E4
+
+// Shadow Dancer: Zero Hostages To Save
+Author = libretro-database contributors / original PSP cheat authors
+E0028C82 0005695E
+602BF7CC 00000000
+00000001 006013DF
+
+// Shinobi 3: Invulnerability
+Author = libretro-database contributors / original PSP cheat authors
+E0028D19 00056B2E
+602C041C 000000FF
+00000001 00004165
+
+// Shinobi 3: Max Ammo
+Author = libretro-database contributors / original PSP cheat authors
+E0028D19 00056B2E
+602C041C 000000FF
+00010001 000037E2
+
+// Shinobi 3: Max Life
+Author = libretro-database contributors / original PSP cheat authors
+E0028D19 00056B2E
+602C041C 00000010
+00000001 000037E9
+
+// Shinobi 3: Max Power
+Author = libretro-database contributors / original PSP cheat authors
+E0028D19 00056B2E
+602C041C 00000009
+00000001 000037E6
+
+// Skip Intro Videos
+Author = libretro-database contributors / original PSP cheat authors
+2004F2D8 0A200400
+20001000 00712826
+20001004 3C010886
+20001008 2421F574
+2000100C 10340003
+20001010 00000000
+20001014 0A213CB8
+20001018 00000000
+2000101C 0A213CBA
+
+// Vectorman: 99 Lives
+Author = libretro-database contributors / original PSP cheat authors
+E0028D19 00056F4A
+602C014C 00006400
+00010001 0000E87C
+
+// Vectorman: Max Life
+Author = libretro-database contributors / original PSP cheat authors
+E0048D19 00056F4A
+602C014C 00000A00
+00010001 0000E878
+00010001 0000E87A
+
+// Vectorman: Max Time
+Author = libretro-database contributors / original PSP cheat authors
+E0028D19 00056F4A
+602C014C 00003C99
+00020001 0000E890

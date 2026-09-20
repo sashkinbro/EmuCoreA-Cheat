@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: ULJS-00403
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Dear You & Picture Book & Kotonoha Open
+Author = libretro-database contributors / original PSP cheat authors
+805FF370 00640004
+00000001 00000000
+805FF500 00020004
+805FF509 00030004
+805FF517 00040002
+805FF520 00060004
+805FF547 00020004
+
+// Gallary Open
+Author = libretro-database contributors / original PSP cheat authors
+805FF2CC 000D0001
+000000FF 00000000
+
+// Scene Open
+Author = libretro-database contributors / original PSP cheat authors
+805FF2FC 00370001
+000000FF 00000000

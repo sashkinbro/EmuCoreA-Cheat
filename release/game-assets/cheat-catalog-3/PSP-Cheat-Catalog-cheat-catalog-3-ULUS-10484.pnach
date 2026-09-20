@@ -1,0 +1,214 @@
+# PSP cheat pack
+# Serial: ULUS-10484
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E0011080 002D673E
+202D673C 10000005
+
+// 60 FPS [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+202D673C 10800005
+
+// Easy LockPick
+Author = libretro-database contributors / original PSP cheat authors
+200B825C 0A200805
+20002014 3C04BD18
+20002018 3484E800
+2000201C AEA40190
+20002020 3C04437A
+20002024 AEA40180
+20002028 0A22E099
+2000202C 3C04426C
+
+// Flash Strafe
+Author = libretro-database contributors / original PSP cheat authors
+10170D9C 00004180
+
+// Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+608E5F68 42C80000
+00020001 00000154
+608E6188 42C80000
+608E6298 42C80000
+608E63A8 42C80000
+
+// Inf. Bat'S
+Author = libretro-database contributors / original PSP cheat authors
+008EDA20 42454154
+008EDA24 00000001
+
+// Inf. Battery Power
+Author = libretro-database contributors / original PSP cheat authors
+2172A0D4 43610000
+
+// Inf. Chainsaw'S
+Author = libretro-database contributors / original PSP cheat authors
+008ED660 43541F57
+008ED664 00000001
+
+// Inf. Crossbow'S
+Author = libretro-database contributors / original PSP cheat authors
+008ED020 43424F57
+008ED024 00000001
+
+// Inf. Dynamite'S
+Author = libretro-database contributors / original PSP cheat authors
+008ECB20 44594E41
+008ECB24 00000001
+
+// Inf. Energy Drink
+Author = libretro-database contributors / original PSP cheat authors
+11729460 000003E7
+
+// Inf. EXPLOSIVE'S
+Author = libretro-database contributors / original PSP cheat authors
+608E6078 00000063
+00000001 000000E8
+
+// Inf. First Aid Kits
+Author = libretro-database contributors / original PSP cheat authors
+11729500 000003E7
+
+// Inf. FLARE Gun'S
+Author = libretro-database contributors / original PSP cheat authors
+008ED3E0 464C4755
+008ED3E4 00000001
+
+// Inf. Flare Gun Ammo
+Author = libretro-database contributors / original PSP cheat authors
+11729860 000003E7
+
+// Inf. FlashBall'S
+Author = libretro-database contributors / original PSP cheat authors
+008ED2A0 464C4241
+008ED2A4 00000001
+
+// Inf. Flash Ball Ammo
+Author = libretro-database contributors / original PSP cheat authors
+11729780 000003E7
+
+// Inf. Flashbang'S
+Author = libretro-database contributors / original PSP cheat authors
+008EC9E0 464C4247
+008EC9E4 00000001
+
+// Inf. GOLF Club'S
+Author = libretro-database contributors / original PSP cheat authors
+008EDB60 434C5542
+008EDB64 00000001
+
+// Inf. Gun'S
+Author = libretro-database contributors / original PSP cheat authors
+008ED520 47554E00
+008ED524 00000001
+
+// Inf. Gun Ammo
+Author = libretro-database contributors / original PSP cheat authors
+117294E0 000003E7
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+608E6844 42C80000
+00020001 00000390
+608E6994 42C80000
+
+// Inf. HOCKey Stick'S
+Author = libretro-database contributors / original PSP cheat authors
+008ED7A0 43524F53
+008ED7A4 00000001
+
+// Inf. Improved Serum
+Author = libretro-database contributors / original PSP cheat authors
+11729460 000003E7
+
+// Inf. Mini SMG'S
+Author = libretro-database contributors / original PSP cheat authors
+008ECDA0 555A4900
+008ECDA4 00000001
+
+// Inf. Serum
+Author = libretro-database contributors / original PSP cheat authors
+017295E0 000000FF
+
+// Inf. Shotgun'S
+Author = libretro-database contributors / original PSP cheat authors
+008ECEE0 53484F54
+008ECEE4 00000001
+
+// Inf. Shotgun Ammo
+Author = libretro-database contributors / original PSP cheat authors
+11729700 000003E7
+
+// Inf. Small Keys
+Author = libretro-database contributors / original PSP cheat authors
+017294A0 000000FF
+
+// Inf. SPIKED Club'S
+Author = libretro-database contributors / original PSP cheat authors
+008ED8E0 55424554
+008ED8E4 00000001
+
+// Inf. Stun Gun'S
+Author = libretro-database contributors / original PSP cheat authors
+008ED160 54415345
+008ED164 00000001
+
+// Inf. UBER Flashlight'S
+Author = libretro-database contributors / original PSP cheat authors
+008ECC60 5542464C
+008ECC64 00000001
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+200EF1F0 00000000
+200F7320 00000000
+200FB5F8 00000000
+201007D4 00000000
+201014A8 00000000
+20107B58 00000000
+
+// Infinite Battery
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C05437A
+20002004 AC850C84
+20002008 C4960C84
+2000200C 0A27AB2C
+20002010 4614B03E
+201EACA8 0A200800
+201EACAC 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+201EAA84 C48C038C
+201EAA88 E48C0390
+
+// Infinite Item Usage
+Author = libretro-database contributors / original PSP cheat authors
+200133AC 00000000
+
+// Infinite Item Usage v2
+Author = libretro-database contributors / original PSP cheat authors
+200133A0 24060001
+
+// Max Items On Get
+Author = libretro-database contributors / original PSP cheat authors
+20013740 240403E7
+
+// Max Items On Get v2
+Author = libretro-database contributors / original PSP cheat authors
+20013740 240403E7
+608E5F68 00000000
+00020001 00000144
+608E6188 00000000
+608E6298 00000000
+608E63A8 00000000
+
+// Rapid Fire
+Author = libretro-database contributors / original PSP cheat authors
+608E5F68 00000000
+00020001 00000144
+608E6188 00000000
+608E6298 00000000
+608E63A8 00000000

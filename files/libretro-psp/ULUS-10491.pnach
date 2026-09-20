@@ -1,0 +1,28 @@
+# PSP cheat pack
+# Serial: ULUS-10491
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Hero Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+20E9D770 0098967F
+
+// Hero Max HP
+Author = libretro-database contributors / original PSP cheat authors
+20E9D774 000003E7
+
+// Hero Max Status
+Author = libretro-database contributors / original PSP cheat authors
+20E9D778 000003E7
+20E9D77C 000003E7
+20E9D780 000003E7
+20E9D784 000003E7
+20E9D788 000003E7
+20E9D78C 000003E7
+
+// Inf. Coins G
+Author = libretro-database contributors / original PSP cheat authors
+00E9D770 3B9AC9FF
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+00E9D774 05F5E0FF

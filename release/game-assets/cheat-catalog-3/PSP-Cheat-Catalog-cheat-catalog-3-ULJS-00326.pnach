@@ -1,0 +1,27 @@
+# PSP cheat pack
+# Serial: ULJS-00326
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Aite Siki 0 (Select+Sita)
+Author = libretro-database contributors / original PSP cheat authors
+98E37D04 00000041
+289E05B0 00000000
+D2000000 00000000
+
+// Aite Siki 0 (Select+Sita) v2
+Author = libretro-database contributors / original PSP cheat authors
+20637D04 00000041
+201E05B0 00000000
+D2000000 00000000
+
+// Zigun Siki 100 (Select+Up)
+Author = libretro-database contributors / original PSP cheat authors
+98E37D04 00000011
+289DE6A0 00000064
+D2000000 00000000
+
+// Zigun Siki 100 (Select+Up) v2
+Author = libretro-database contributors / original PSP cheat authors
+20637D04 00000011
+201DE6A0 00000064
+D2000000 00000000

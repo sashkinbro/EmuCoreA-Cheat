@@ -1,0 +1,116 @@
+# PSP cheat pack
+# Serial: ULUS-10521
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Animation Speed: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20477764 40000000
+
+// Animation Speed: Even Slower
+Author = libretro-database contributors / original PSP cheat authors
+20477764 3F000000
+
+// Animation Speed: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20477764 3F800000
+
+// Animation Speed: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20477764 3FC00000
+
+// Animation Speed: Slow
+Author = libretro-database contributors / original PSP cheat authors
+20477764 3F400000
+
+// Blackjack (21)
+Author = libretro-database contributors / original PSP cheat authors
+204AFFCC 00000015
+
+// Breast Physics
+Author = libretro-database contributors / original PSP cheat authors
+200C9FEC 50800022
+
+// Breast Physics [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200C9FEC 00000000
+
+// Max Cash After Using Some
+Author = libretro-database contributors / original PSP cheat authors
+201AEB08 00000000
+201AEB6C 00000000
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+204466B0 3B9ACA00
+
+// Poker: Royal Flush (Clubs)
+Author = libretro-database contributors / original PSP cheat authors
+204C1308 0000000A
+204C130C 00000003
+204C1320 0000000B
+204C1324 00000003
+204C1338 0000000C
+204C133C 00000003
+204C1350 0000000D
+204C1354 00000003
+204C1368 00000001
+204C136C 00000003
+
+// Poker: Royal Flush (Diamonds)
+Author = libretro-database contributors / original PSP cheat authors
+204C1308 0000000A
+204C130C 00000002
+204C1320 0000000B
+204C1324 00000002
+204C1338 0000000C
+204C133C 00000002
+204C1350 0000000D
+204C1354 00000002
+204C1368 00000001
+204C136C 00000002
+
+// Poker: Royal Flush (Hearts)
+Author = libretro-database contributors / original PSP cheat authors
+204C1308 0000000A
+204C130C 00000001
+204C1320 0000000B
+204C1324 00000001
+204C1338 0000000C
+204C133C 00000001
+204C1350 0000000D
+204C1354 00000001
+204C1368 00000001
+204C136C 00000001
+
+// Poker: Royal Flush (Spades)
+Author = libretro-database contributors / original PSP cheat authors
+204C1308 0000000A
+204C130C 00000000
+204C1320 0000000B
+204C1324 00000000
+204C1338 0000000C
+204C133C 00000000
+204C1350 0000000D
+204C1354 00000000
+204C1368 00000001
+204C136C 00000000
+
+// Swimsuits
+Author = libretro-database contributors / original PSP cheat authors
+201F0EE0 0E2884D8
+
+// Swimsuits [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201F0EE0 00000000
+
+// Volleyball: Reset Right Score
+Author = libretro-database contributors / original PSP cheat authors
+2049D7FB 00000000
+
+// Volleyball: Reset Left Score
+Author = libretro-database contributors / original PSP cheat authors
+2049D7FA 00000000
+
+// Volleyball: Set Score To 06/06
+Author = libretro-database contributors / original PSP cheat authors
+2049D7FA 00000606

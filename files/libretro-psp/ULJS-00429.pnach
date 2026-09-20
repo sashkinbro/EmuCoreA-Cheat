@@ -1,0 +1,72 @@
+# PSP cheat pack
+# Serial: ULJS-00429
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Agi. PT 999
+Author = libretro-database contributors / original PSP cheat authors
+11480F64 000003E7
+
+// Character Book All
+Author = libretro-database contributors / original PSP cheat authors
+41476928 00030001
+1F1F1F1F 00000000
+01476934 0000001F
+
+// Con. PT 999
+Author = libretro-database contributors / original PSP cheat authors
+11480F5E 000003E7
+
+// Dex. PT 999
+Author = libretro-database contributors / original PSP cheat authors
+11480F62 000003E7
+
+// Event CG Book All
+Author = libretro-database contributors / original PSP cheat authors
+41476AEA 00360002
+1F1F1F1F 00000000
+
+// HP PT 999
+Author = libretro-database contributors / original PSP cheat authors
+11480F58 000003E7
+
+// Item All 99
+Author = libretro-database contributors / original PSP cheat authors
+41480DCC 001D0001
+00000063 00000000
+
+// Magic Book 999
+Author = libretro-database contributors / original PSP cheat authors
+11480F66 000003E7
+
+// Magic Book All
+Author = libretro-database contributors / original PSP cheat authors
+414769BE 001B0003
+1F1F1F1F 00000000
+01476A2A 0000001F
+
+// MP PT 999
+Author = libretro-database contributors / original PSP cheat authors
+11480F5A 000003E7
+
+// Q Button
+Author = libretro-database contributors / original PSP cheat authors
+0148012D 00000000
+
+// Scenario/Tips Book All
+Author = libretro-database contributors / original PSP cheat authors
+41476BE4 001E0001
+1F1F1F1F 00000000
+
+// Str. PT 999
+Author = libretro-database contributors / original PSP cheat authors
+11480F5C 000003E7
+
+// Vit. PT 999
+Author = libretro-database contributors / original PSP cheat authors
+11480F60 000003E7
+
+// Witch Book 95%
+Author = libretro-database contributors / original PSP cheat authors
+4147695A 000B0001
+1F1F1F1F 00000000
+01476986 0000001F

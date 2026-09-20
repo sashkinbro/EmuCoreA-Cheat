@@ -1,0 +1,46 @@
+# PSP cheat pack
+# Serial: ULJS-00282
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1P Agi. Max
+Author = libretro-database contributors / original PSP cheat authors
+103AC082 0000270F
+
+// 1P Def. Max
+Author = libretro-database contributors / original PSP cheat authors
+003AC06F 00000000
+203AC070 00000000
+
+// 1P Dex. Max
+Author = libretro-database contributors / original PSP cheat authors
+103AC08A 0000270F
+
+// 1P Exp. 9999
+Author = libretro-database contributors / original PSP cheat authors
+103AC076 0000270F
+
+// 1P HP 9999
+Author = libretro-database contributors / original PSP cheat authors
+103AC07A 0000270F
+103AC07C 0000270F
+
+// 1P IQ Max
+Author = libretro-database contributors / original PSP cheat authors
+103AC08E 0000270F
+
+// 1P Move Max
+Author = libretro-database contributors / original PSP cheat authors
+003AC06C 000000FF
+
+// 1P MP 9999
+Author = libretro-database contributors / original PSP cheat authors
+103AC07E 0000270F
+103AC080 0000270F
+
+// 1P Pow. Max
+Author = libretro-database contributors / original PSP cheat authors
+103AC086 0000270F
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+103A927A 0000270F

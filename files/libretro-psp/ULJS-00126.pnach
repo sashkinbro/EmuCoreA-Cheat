@@ -1,0 +1,117 @@
+# PSP cheat pack
+# Serial: ULJS-00126
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Mikoudou
+Author = libretro-database contributors / original PSP cheat authors
+80287D8B 003200A0
+
+// Alliance
+Author = libretro-database contributors / original PSP cheat authors
+00287CEA 00000000
+
+// Alliance v2
+Author = libretro-database contributors / original PSP cheat authors
+00287CEA 00000000
+00289CCA 00000001
+0028BCAA 00000001
+0028DC8A 00000001
+
+// Control
+Author = libretro-database contributors / original PSP cheat authors
+00287CE8 00000000
+
+// Country
+Author = libretro-database contributors / original PSP cheat authors
+00287CE9 00000000
+
+// Cursor Position
+Author = libretro-database contributors / original PSP cheat authors
+0034A53C 00000000
+0034A540 00000000
+
+// Enemy Fuel
+Author = libretro-database contributors / original PSP cheat authors
+20289C54 00000000
+2028BC34 00000000
+2028DC14 00000000
+
+// Enemy Fuel All Unit 0
+Author = libretro-database contributors / original PSP cheat authors
+80289D02 003200A0
+8028BCE2 003200A0
+8028DCC2 003200A0
+
+// Enemy HP All Unit 0
+Author = libretro-database contributors / original PSP cheat authors
+80289D52 003200A0
+8028BD32 003200A0
+8028DD12 003200A0
+
+// Enemy Money
+Author = libretro-database contributors / original PSP cheat authors
+20289C50 00000000
+2028BC30 00000000
+2028DC10 00000000
+
+// Fuel
+Author = libretro-database contributors / original PSP cheat authors
+20287C74 0001869F
+
+// Fuel All Unit Max
+Author = libretro-database contributors / original PSP cheat authors
+80287D22 003200A0
+00000063 00000000
+
+// HP All Unit Max
+Author = libretro-database contributors / original PSP cheat authors
+80287D72 003200A0
+0000000A 00000000
+
+// Lv. All Unit S
+Author = libretro-database contributors / original PSP cheat authors
+80287D6C 003200A0
+00000005 00000000
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+20287C70 0001869F
+
+// Number Of Participation Flag
+Author = libretro-database contributors / original PSP cheat authors
+0034A544 00000004
+
+// Turn
+Author = libretro-database contributors / original PSP cheat authors
+00289C4C 00000001
+
+// Unit 1 All 9
+Author = libretro-database contributors / original PSP cheat authors
+80287D28 000A0002
+00000009 00000000
+
+// Unit 1 Direction
+Author = libretro-database contributors / original PSP cheat authors
+00287D70 00000000
+
+// Unit 1 Hight
+Author = libretro-database contributors / original PSP cheat authors
+00287D6E 00000000
+
+// Unit 1 Syurui
+Author = libretro-database contributors / original PSP cheat authors
+10287D1C 00000000
+
+// Unit 1 XY
+Author = libretro-database contributors / original PSP cheat authors
+00287D6D 00000000
+00287D6F 00000000
+
+// Zandan All Unit Max
+Author = libretro-database contributors / original PSP cheat authors
+80287D73 003200A0
+00000063 00000000
+80287D74 003200A0
+80287D75 003200A0
+80287D76 003200A0
+80287D77 003200A0

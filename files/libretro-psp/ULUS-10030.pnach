@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: ULUS-10030
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Score From Anywhere [Hold R1]
+Author = libretro-database contributors / original PSP cheat authors
+20001000 AFA00044
+20001004 3C0508E4
+20001008 90A52411
+2000100C 30A50002
+20001010 10A00003
+20001014 91851564
+20001018 0A25BC11
+20001020 0A25BC05
+2016F00C 0A200400

@@ -1,0 +1,47 @@
+# PSP cheat pack
+# Serial: ULJS-00520
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS (Beta)
+Author = libretro-database contributors / original PSP cheat authors
+20173284 00000002
+
+// 60 FPS (Beta)
+Author = libretro-database contributors / original PSP cheat authors
+20173284 00000001
+
+// Albam All
+Author = libretro-database contributors / original PSP cheat authors
+10AD1752 0000FFFF
+20AD1754 FFFFFFFF
+20AD1758 FFFFFFFF
+20AD175C FFFFFFFF
+20AD1760 FFFFFFFF
+20AD1764 FFFFFFFF
+
+// Gallary Open
+Author = libretro-database contributors / original PSP cheat authors
+80AD1769 000D0001
+000000FF 00000000
+80AD1753 00160001
+80AD174F 00030001
+00AD174C 0000003F
+
+// Phase 99
+Author = libretro-database contributors / original PSP cheat authors
+00398E7C 00000063
+
+// Sinario All
+Author = libretro-database contributors / original PSP cheat authors
+00AD174F 000000FF
+10AD1750 00000FFF
+
+// Sound All
+Author = libretro-database contributors / original PSP cheat authors
+20AD1768 FFFFFFFF
+20AD176C FFFFFFFF
+20AD1770 FFFFFFFF
+
+// Story All
+Author = libretro-database contributors / original PSP cheat authors
+00AD174C 000000FF

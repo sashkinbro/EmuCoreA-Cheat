@@ -1,0 +1,4 @@
+# Normalize text files to LF so the catalog hashes stay byte-stable on Windows.
+* text=auto eol=lf
+# Cheat packs are hashed byte-for-byte by the catalog; never convert them.
+*.pnach text eol=lf

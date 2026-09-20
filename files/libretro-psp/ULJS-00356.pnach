@@ -1,0 +1,26 @@
+# PSP cheat pack
+# Serial: ULJS-00356
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Invincible & Stealth
+Author = libretro-database contributors / original PSP cheat authors
+F07B090F 36AB0302
+7473735A 49CF186E
+E1F8CB35 49AF7340
+D003D198 4E348945
+F4C04108 0A78BC61
+4CB08A43 888DD5D2
+F4C04508 0A78B861
+4C318B43 880CD430
+F4C04908 0A78B461
+4BB6617E 8F8B3E0D
+F4C04D08 0A78B061
+4B318F7E 8F0CD00D
+F4C39108 0A7B6C61
+B4A5D1EB 9B7840AB
+F4C39508 0A7B6861
+0A3E084B 09E80000
+
+// Unlimited Number Of Challenges
+Author = libretro-database contributors / original PSP cheat authors
+C013DD0C 24A50000

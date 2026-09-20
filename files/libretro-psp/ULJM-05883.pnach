@@ -1,0 +1,184 @@
+# PSP cheat pack
+# Serial: ULJM-05883
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Debug Menu
+Author = libretro-database contributors / original PSP cheat authors
+00410EE0 00000004
+
+// Debug Menu In-Game (Press Stick-Down)
+Author = libretro-database contributors / original PSP cheat authors
+004148EB 00000001
+
+// Always Treasure Box
+Author = libretro-database contributors / original PSP cheat authors
+005F8EDC 00000001
+
+// Bonus Point 99
+Author = libretro-database contributors / original PSP cheat authors
+004133D2 00000063
+004133D4 00000063
+
+// Contract Success
+Author = libretro-database contributors / original PSP cheat authors
+200D90D4 10000013
+200D8F68 00000000
+
+// Debug Mode [L+R]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000300
+005BBF7C 00000001
+004148EB 00000001
+
+// Disarm Success
+Author = libretro-database contributors / original PSP cheat authors
+200BD3E4 00000000
+200BD410 00000000
+
+// Dungeon Map Open [Start]
+Author = libretro-database contributors / original PSP cheat authors
+2003BDB8 5040001C
+D0000000 10000008
+2003BDB8 00000000
+
+// Enemy No Attack
+Author = libretro-database contributors / original PSP cheat authors
+200C9E20 00000000
+
+// Enemy No Preemptive Attack
+Author = libretro-database contributors / original PSP cheat authors
+200C36C4 24030000
+200C3718 24030000
+
+// Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+200B3D7C 0A200480
+20001200 8C640080
+20001204 0A22CF61
+20001208 00042100
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+200B3D7C 0A200480
+20001200 8C640080
+20001204 0A22CF61
+20001208 00042040
+
+// Exp. x4
+Author = libretro-database contributors / original PSP cheat authors
+200B3D7C 0A200480
+20001200 8C640080
+20001204 0A22CF61
+20001208 00042080
+
+// Exp. x8
+Author = libretro-database contributors / original PSP cheat authors
+200B3D7C 0A200480
+20001200 8C640080
+20001204 0A22CF61
+20001208 000420C0
+
+// Get Rare Item
+Author = libretro-database contributors / original PSP cheat authors
+200C497C 00000000
+
+// GP Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20110818 00000000
+
+// GP x16
+Author = libretro-database contributors / original PSP cheat authors
+200B3DF8 0A200400
+20001000 8C640084
+20001004 0A22CF80
+20001008 00042100
+
+// GP x2
+Author = libretro-database contributors / original PSP cheat authors
+200B3DF8 0A200400
+20001000 8C640084
+20001004 0A22CF80
+20001008 00042040
+
+// GP x4
+Author = libretro-database contributors / original PSP cheat authors
+200B3DF8 0A200400
+20001000 8C640084
+20001004 0A22CF80
+20001008 00042080
+
+// GP x8
+Author = libretro-database contributors / original PSP cheat authors
+200B3DF8 0A200400
+20001000 8C640084
+20001004 0A22CF80
+20001008 000420C0
+
+// Item Analyze
+Author = libretro-database contributors / original PSP cheat authors
+200EBAFC 34420001
+200EBB00 A0A20000
+
+// Item Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200F95EC 25060000
+
+// Ksk
+Author = libretro-database contributors / original PSP cheat authors
+200205B8 3C0348B4
+20020600 3C0348B4
+
+// Magic Zenkai
+Author = libretro-database contributors / original PSP cheat authors
+403E7F82 000600F4
+FFFFFFFF 00000000
+403E7F86 000600F4
+403E7F8A 000600F4
+403E7F92 000E0001
+20890909 00000000
+403E8362 000E0001
+403E8732 000E0001
+403E8B02 000E0001
+403E8ED2 000E0001
+403E92A2 000E0001
+
+// MP Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200D38CC 00000000
+200D390C 00000000
+
+// No Trap
+Author = libretro-database contributors / original PSP cheat authors
+005F8F1A 00000000
+
+// Preemptive Attack
+Author = libretro-database contributors / original PSP cheat authors
+200C36BC 10000010
+
+// Rendo Max
+Author = libretro-database contributors / original PSP cheat authors
+10412864 00000032
+10412866 00000032
+
+// Status Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20110B8C 0A200500
+20110B90 00000000
+20001400 5A100001
+20001404 00008020
+20001408 16600002
+2000140C 00508021
+20001410 0A2442E5
+20001418 0A2442F6
+
+// Stock Infinity
+Author = libretro-database contributors / original PSP cheat authors
+2005AE30 00000000
+
+// Time Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200A5FAC 00000000
+
+// Treasure Item 3
+Author = libretro-database contributors / original PSP cheat authors
+200C48BC 24020003

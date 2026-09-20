@@ -1,0 +1,14 @@
+# PSP cheat pack
+# Serial: ULUS-10032
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Harry 100000
+Author = libretro-database contributors / original PSP cheat authors
+20DD08A0 000186A0
+20F62D50 000186A0
+2122D35C 000186A0
+2122D394 000186A0
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+20F56710 00000064

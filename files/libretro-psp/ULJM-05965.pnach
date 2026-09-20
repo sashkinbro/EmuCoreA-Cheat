@@ -1,0 +1,269 @@
+# PSP cheat pack
+# Serial: ULJM-05965
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1st Character Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+401E9218 00270001
+05F5E0FF 00000000
+
+// 1st Character Study 100%
+Author = libretro-database contributors / original PSP cheat authors
+801E92B4 00270004
+00000064 00000000
+
+// Alchemy No Material
+Author = libretro-database contributors / original PSP cheat authors
+200B0D88 00000000
+2010D99C 00000000
+
+// All Item Sales (Modal School)
+Author = libretro-database contributors / original PSP cheat authors
+8031BE8B 034A0108
+000000FF 00000000
+803542D3 01640108
+
+// Always Treasure Box
+Author = libretro-database contributors / original PSP cheat authors
+20025A30 00000000
+
+// Always Treasure Box [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20025A30 1200000D
+
+// BP Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200D2B0C 00000000
+
+// Buff All
+Author = libretro-database contributors / original PSP cheat authors
+200719E0 00A51024
+
+// Class Open
+Author = libretro-database contributors / original PSP cheat authors
+20051F84 00000000
+
+// Course x2
+Author = libretro-database contributors / original PSP cheat authors
+20038D08 00042040
+
+// Course x16
+Author = libretro-database contributors / original PSP cheat authors
+20038D08 00042100
+
+// Encount Control
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10004000
+2014CDF0 00000000
+2014DDEC 14400003
+D0000001 30004000
+2014CDF0 14800004
+2014DDEC 00000000
+
+// Encount Off [X=On]
+Author = libretro-database contributors / original PSP cheat authors
+2014CDF0 17E00004
+D0000000 10004000
+2014CDF0 00000000
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+20038CA8 00042040
+
+// Exp. x2 v2
+Author = libretro-database contributors / original PSP cheat authors
+2002DD34 0A200400
+20001000 00021040
+20001004 8C848204
+20001008 0A20B74E
+
+// Exp. x4
+Author = libretro-database contributors / original PSP cheat authors
+2002DD34 0A200400
+20001000 00021080
+20001004 8C848204
+20001008 0A20B74E
+
+// Exp. x8
+Author = libretro-database contributors / original PSP cheat authors
+2002DD34 0A200400
+20001000 000210C0
+20001004 8C848204
+20001008 0A20B74E
+
+// Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+20038CA8 00042100
+
+// Exp. x16 v2
+Author = libretro-database contributors / original PSP cheat authors
+2002DD34 0A200400
+20001000 00021100
+20001004 8C848204
+20001008 0A20B74E
+
+// Exp. x32
+Author = libretro-database contributors / original PSP cheat authors
+2002DD34 0A200400
+20001000 00021140
+20001004 8C848204
+20001008 0A20B74E
+
+// Exp. x64
+Author = libretro-database contributors / original PSP cheat authors
+2002DD34 0A200400
+20001000 00021640
+20001004 8C848204
+20001008 0A20B74E
+
+// Exp. x128
+Author = libretro-database contributors / original PSP cheat authors
+2002DD34 0A200400
+20001000 000211C0
+20001004 8C848204
+20001008 0A20B74E
+
+// Full Alchemy Method
+Author = libretro-database contributors / original PSP cheat authors
+8028A814 00290001
+1000FFFF 00000000
+0028A866 00000001
+8028A86C 00290001
+0028A8BE 00000001
+8028A8C4 00290001
+0028A916 00000001
+
+// Game Speed Up
+Author = libretro-database contributors / original PSP cheat authors
+200076F4 00000000
+
+// Item 99
+Author = libretro-database contributors / original PSP cheat authors
+20060A94 24020063
+20060AAC A2020003
+
+// Item All Sale
+Author = libretro-database contributors / original PSP cheat authors
+2006798C 240200FF
+
+// Item Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20065B50 00402823
+
+// Map Open
+Author = libretro-database contributors / original PSP cheat authors
+2010DF60 00A51024
+
+// Map Open (Full)
+Author = libretro-database contributors / original PSP cheat authors
+2010DF54 2401FFFF
+2010DF58 AC8407E8
+2010DF68 24020001
+
+// Money Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200F0394 00000000
+
+// Money x2
+Author = libretro-database contributors / original PSP cheat authors
+20038CD8 00042040
+
+// Money x2 v2
+Author = libretro-database contributors / original PSP cheat authors
+2002DD44 0A200404
+20001010 8E648200
+20001014 00042040
+20001018 0A20B752
+
+// Money x4
+Author = libretro-database contributors / original PSP cheat authors
+2002DD44 0A200404
+20001010 8E648200
+20001014 00042080
+20001018 0A20B752
+
+// Money x8
+Author = libretro-database contributors / original PSP cheat authors
+2002DD44 0A200404
+20001010 8E648200
+20001014 000420C0
+20001018 0A20B752
+
+// Money x16
+Author = libretro-database contributors / original PSP cheat authors
+20038CD8 00042100
+
+// Money x16 v2
+Author = libretro-database contributors / original PSP cheat authors
+2002DD44 0A200404
+20001010 8E648200
+20001014 00042100
+20001018 0A20B752
+
+// Money x32
+Author = libretro-database contributors / original PSP cheat authors
+2002DD44 0A200404
+20001010 8E648200
+20001014 00042140
+20001018 0A20B752
+
+// Money x64
+Author = libretro-database contributors / original PSP cheat authors
+2002DD44 0A200404
+20001010 8E648200
+20001014 00042180
+20001018 0A20B752
+
+// Money x128
+Author = libretro-database contributors / original PSP cheat authors
+2002DD44 0A200404
+20001010 8E648200
+20001014 000421C0
+20001018 0A20B752
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+21286F1C 05F5E0FF
+
+// Monster Kill Count Max
+Author = libretro-database contributors / original PSP cheat authors
+4028A188 000E0001
+0098967F 00000000
+
+// MP Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20058D04 00402023
+20074B38 02002023
+
+// No Trap
+Author = libretro-database contributors / original PSP cheat authors
+2004F0E8 24040000
+
+// Rare Table
+Author = libretro-database contributors / original PSP cheat authors
+20025A38 10000005
+20025A3C 34040063
+
+// Shop All [Triangle]
+Author = libretro-database contributors / original PSP cheat authors
+20068FC4 58400008
+D0000000 10001000
+20068FC4 00000000
+
+// Stock Infinity
+Author = libretro-database contributors / original PSP cheat authors
+20067924 00000000
+20067928 341000FF
+
+// Unlock Item Picture Book
+Author = libretro-database contributors / original PSP cheat authors
+8028A244 04340001
+000000FF 00000000
+
+// Unlock Monster Picture Book
+Author = libretro-database contributors / original PSP cheat authors
+8028A1C4 00310001
+000000FF 00000000
+0028A1F5 0000001F
+8028A204 00310001
+0028A235 0000001F

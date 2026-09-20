@@ -1,0 +1,12 @@
+# PSP cheat pack
+# Serial: ULUS-10248
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Fairy Dust
+Author = libretro-database contributors / original PSP cheat authors
+6042C4D8 431B0000
+00020001 000001BC
+
+// Max Coins
+Author = libretro-database contributors / original PSP cheat authors
+204D1094 05F5E0FF

@@ -1,0 +1,360 @@
+# PSP cheat pack
+# Serial: ULJS-00016
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Akusesari x10
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000031
+28D0D333 0000000A
+DC000000 00000001
+D2000000 00000000
+
+// Akusesari x10 v2
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000031
+2050D333 0000000A
+DC000000 00000001
+D2000000 00000000
+
+// Bougu Zenbu x10
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000002A
+28D0D308 0000000A
+DC000000 00000001
+D2000000 00000000
+
+// Bougu Zenbu x10 v2
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000002A
+2050D308 0000000A
+DC000000 00000001
+D2000000 00000000
+
+// Buki Zenbu x10
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000002
+28D0D2AD 0000000A
+DC000000 00000001
+D1000000 00000000
+D3000000 00000000
+C0000000 0000000B
+28D0D2B3 0000000A
+C0000000 00000008
+28D0D2C0 0000000A
+C0000000 00000007
+28D0D2CC 0000000A
+C0000000 00000018
+28D0D2D8 0000000A
+C0000000 00000005
+28D0D2F2 0000000A
+C0000000 00000009
+28D0D2FD 0000000A
+D2000000 00000000
+
+// Buki Zenbu x10 v2
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000002
+2050D2AD 0000000A
+DC000000 00000001
+D1000000 00000000
+D3000000 00000000
+C0000000 0000000B
+2050D2B3 0000000A
+C0000000 00000008
+2050D2C0 0000000A
+C0000000 00000007
+2050D2CC 0000000A
+C0000000 00000018
+2050D2D8 0000000A
+C0000000 00000005
+2050D2F2 0000000A
+C0000000 00000009
+2050D2FD 0000000A
+D2000000 00000000
+
+// Buy Even Without Money
+Author = libretro-database contributors / original PSP cheat authors
+200A6124 10000010
+
+// Deadly Blow Even Without Power
+Author = libretro-database contributors / original PSP cheat authors
+2001BBE4 10000009
+
+// Hit Enemy To Fully Fill Power
+Author = libretro-database contributors / original PSP cheat authors
+20013B20 00000000
+
+// Hon Zenbu x1
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000017
+28D0D243 00000001
+DC000000 00000001
+D2000000 00000000
+
+// Hon Zenbu x1 v2
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000017
+2050D243 00000001
+DC000000 00000001
+D2000000 00000000
+
+// HP Always Full
+Author = libretro-database contributors / original PSP cheat authors
+2001E620 960407FA
+2001E648 A60407FE
+
+// Ibent Item x1 & Sonota Item x10
+Author = libretro-database contributors / original PSP cheat authors
+28D0D25E 00000001
+28D0D260 0000000A
+C0000000 00000023
+28D0D261 00000001
+DC000000 00000001
+D1000000 00000000
+D3000000 00000000
+C0000000 00000026
+28D0D286 0000000A
+D2000000 00000000
+
+// Ibent Item x1 & Sonota Item x10 v2
+Author = libretro-database contributors / original PSP cheat authors
+2050D25E 00000001
+2050D260 0000000A
+C0000000 00000023
+2050D261 00000001
+DC000000 00000001
+D1000000 00000000
+D3000000 00000000
+C0000000 00000026
+2050D286 0000000A
+D2000000 00000000
+
+// Item All A
+Author = libretro-database contributors / original PSP cheat authors
+4050D1A0 00040001
+0A0A0A0A 00000000
+2050D1B0 010A0A0A
+2050D1B4 0A0A010A
+2050D1B8 0A010A0A
+4050D1BC 00100001
+1050D1FC 00000A0A
+0050D1FF 0000000A
+0050D211 0000000A
+1050D212 00000A0A
+
+// Item All B
+Author = libretro-database contributors / original PSP cheat authors
+4050D214 00080001
+0A0A0A0A 00000000
+1050D234 00000A0A
+0050D239 0000000A
+1050D23A 00000A0A
+2050D23C 0A0A0A0A
+0050D240 0000000A
+1050D246 00000A0A
+2050D248 0A0A0A0A
+2050D24C 0A0A0A0A
+2050D250 0A0A0A0A
+2050D254 0A0A0A0A
+1050D258 00000A0A
+0050D25A 0000000A
+0050D260 0000000A
+1050D286 00000A0A
+4050D288 00090001
+
+// Item All C
+Author = libretro-database contributors / original PSP cheat authors
+2050D2AC 0101010A
+2050D2B0 010A0A0A
+4050D2B4 00050001
+0A0A0A0A 00000000
+0050D2C8 0000000A
+2050D2CC 0A0A0A0A
+2050D2D0 0A0A0A0A
+0050D2D7 0000000A
+4050D2D8 00060001
+2050D2F0 0A0A010A
+2050D2F4 0A0A0A0A
+0050D2FD 0000000A
+1050D2FE 00000A0A
+2050D300 0A0A0A0A
+1050D304 00000A0A
+0050D306 00000001
+4050D308 00170001
+4050D378 00070001
+1050D394 00000A0A
+0050D396 0000000A
+
+// Kaihuku Item x10
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000D
+28D0D228 0000000A
+DC000000 00000001
+D1000000 00000000
+D3000000 00000000
+C0000000 00000007
+28D0D239 0000000A
+D2000000 00000000
+
+// Kaihuku Item x10 v2
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000D
+2050D228 0000000A
+DC000000 00000001
+D1000000 00000000
+D3000000 00000000
+C0000000 00000007
+2050D239 0000000A
+D2000000 00000000
+
+// Lv. Up To Max
+Author = libretro-database contributors / original PSP cheat authors
+2006F74C 240A0000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+202EDEA4 000F423F
+202EDEA8 000F423F
+
+// Move Speed ​​Twice 1
+Author = libretro-database contributors / original PSP cheat authors
+20069AA8 0A200400
+20001000 00E03021
+20001004 0A21A6AC
+20001008 00129042
+D02CBE65 20000020
+20001008 00000000
+
+// Move Speed ​​Twice 2
+Author = libretro-database contributors / original PSP cheat authors
+20069AA8 0A200400
+20001000 00E03021
+20001004 0A21A6AC
+20001008 00000000
+D02CBE65 20000020
+20001008 00129042
+
+// MP Always Full
+Author = libretro-database contributors / original PSP cheat authors
+2001E6B8 960307FC
+2001E6DC A6030800
+
+// MP No Use
+Author = libretro-database contributors / original PSP cheat authors
+2000A7D8 00000000
+2000A7F4 00000000
+2000A854 00000000
+2000A870 00000000
+
+// One Battle Lv. Up
+Author = libretro-database contributors / original PSP cheat authors
+2001A484 10000044
+
+// Party Change
+Author = libretro-database contributors / original PSP cheat authors
+002EDEB0 00000000
+002EDEB1 00000001
+002EDEB2 00000002
+002EDEB3 00000003
+
+// Pet Food Zenbu x10
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000F
+28D0D378 0000000A
+DC000000 00000001
+D2000000 00000000
+
+// Pet Food Zenbu x10 v2
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000F
+2050D378 0000000A
+DC000000 00000001
+D2000000 00000000
+
+// Pisca Max
+Author = libretro-database contributors / original PSP cheat authors
+202EDEA8 000F423F
+
+// Pow Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+20013B20 50000001
+
+// Roze Max
+Author = libretro-database contributors / original PSP cheat authors
+202EDEA4 000F423F
+
+// Archem Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EE038 00003FFE
+
+// Avin Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EDEE8 000007FE
+
+// Chris Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EE230 0001FFFE
+
+// Conrod Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EE0E0 00000002
+
+// Eleanor Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EE000 00000002
+
+// Gawaine Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EE150 00003FFE
+
+// Jurio Magic
+Author = libretro-database contributors / original PSP cheat authors
+002EE1F8 0000003E
+
+// Lael Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EE0A8 00007FFE
+
+// Lkias Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EDFC8 00000002
+
+// Lure Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EE2D8 0007FFFE
+
+// Marty Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EDF90 00007FFE
+
+// Michelle Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EE188 0000FFFE
+
+// Mile Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EDF20 00003FFE
+
+// Mile 2 Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EE1C0 1FFFFFFE
+
+// Morisn Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EE310 0007FFFE
+
+// Muse Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EDF58 00000002
+
+// Phili Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EE3B8 0001FFFE
+
+// Rutice Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EE118 1FFFFFFE
+
+// Stella Magic
+Author = libretro-database contributors / original PSP cheat authors
+202EE428 0007FFFE

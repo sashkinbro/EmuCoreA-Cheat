@@ -1,0 +1,243 @@
+# PSP cheat pack
+# Serial: ULUS-10053
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Auto Capture Command Post
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0808C7
+20001004 34090000
+20001008 340A0000
+2000100C 340B0000
+20001010 340C0000
+20001014 340D0000
+20001018 AD0988C0
+2000101C AD0A88C4
+20001020 AD0B88C8
+20001024 AD0C88CC
+20001028 AD0D88D0
+2000102C 03E00008
+200091A8 0A200400
+
+// Crackhead
+Author = libretro-database contributors / original PSP cheat authors
+0099886C 40800000
+
+// Horizontal Clipping
+Author = libretro-database contributors / original PSP cheat authors
+00010820 03E00008
+00010824 00000000
+
+// Hoth ReinForcements Control
+Author = libretro-database contributors / original PSP cheat authors
+20001200 3C0808CB
+20001204 8D084F00
+20001208 8D090024
+2000120C 3C0A08E2
+20001210 854AD474
+20001214 240B0010
+20001218 154B0005
+20001220 25290001
+20001224 AD090024
+20001228 10000008
+20001230 240C0040
+20001234 154C0005
+2000123C 240E0001
+20001240 012E4822
+20001244 AD090024
+2000124C 03E00008
+20001250 3C0808DB
+20001254 8D08B4E4
+20001258 8D090024
+2000125C 3C0A08E2
+20001260 854AD474
+20001264 240B0020
+20001268 154B0005
+20001270 25290001
+20001274 AD090024
+20001278 10000008
+20001280 240C0080
+20001284 154C0005
+2000128C 240E0001
+20001290 012E4822
+20001294 AD090024
+2000129C 03E00008
+200091A8 0A200480
+20342394 0A200494
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 005A8198
+00000020 43C80000
+
+// Inf. Health v2
+Author = libretro-database contributors / original PSP cheat authors
+605A8198 43C80000
+00020001 00000020
+
+// Inf. Hero
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 005A8198
+00000010 46000000
+
+// Inf. Hero v2
+Author = libretro-database contributors / original PSP cheat authors
+605A8198 46000000
+00020001 00000010
+
+// Inf. Jetpack
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 005A8198
+00000A40 3F800000
+
+// Inf. Jetpack v2
+Author = libretro-database contributors / original PSP cheat authors
+605A8198 3F800000
+00020001 00000A40
+
+// Inf. Run
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 005A8198
+00000964 42C80000
+
+// Inf. Run v2
+Author = libretro-database contributors / original PSP cheat authors
+605A8198 42C80000
+00020001 00000964
+
+// Infinite Blaster
+Author = libretro-database contributors / original PSP cheat authors
+1118B1F5 000003E7
+
+// Lock Disable (L Disable)
+Author = libretro-database contributors / original PSP cheat authors
+0059B268 00000001
+
+// Mark & Recall (Down/Up)
+Author = libretro-database contributors / original PSP cheat authors
+20001500 3C0808DB
+20001504 8D088198
+20001508 3C0908E2
+2000150C 8D29D474
+20001510 240A0040
+20001514 152A000A
+2000151C 3C0B0880
+20001520 8D0C0000
+20001524 AD6C1000
+20001528 8D0D0004
+2000152C AD6D1004
+20001530 8D0E0008
+20001534 AD6E1008
+20001538 1000000B
+20001540 240A0010
+20001544 152A0008
+2000154C 3C0B0880
+20001550 8D6C1000
+20001554 AD0C0000
+20001558 8D6D1004
+2000155C AD0D0004
+20001560 8D6E1008
+20001564 AD0E0008
+20001568 10000001
+20001570 03E00008
+200091A8 0A200540
+
+// Rank
+Author = libretro-database contributors / original PSP cheat authors
+0045F7AC 0098967F
+0045F7B0 000F423F
+0045F7B4 00000000
+
+// Rapid Fire
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 005C4F98
+000000B8 00000000
+
+// Rapid Fire v2
+Author = libretro-database contributors / original PSP cheat authors
+605C4F98 00000000
+00020001 000000B8
+
+// ReinForcements
+Author = libretro-database contributors / original PSP cheat authors
+009E5594 000F423F
+009E59C4 000F423F
+
+// Shoot Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+00998C88 3F800000
+009A14A8 3F800000
+
+// Skywalker
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00424FD8
+000002DC 3FA00000
+
+// Skywalker v2
+Author = libretro-database contributors / original PSP cheat authors
+60424FD8 3FA00000
+00020001 000002DC
+
+// Skywalker (Press Up)
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00424FD8
+000002DC 41000000
+
+// Skywalker (Press Up) v2
+Author = libretro-database contributors / original PSP cheat authors
+60424FD8 41000000
+00020001 000002DC
+
+// Vehicle Person
+Author = libretro-database contributors / original PSP cheat authors
+0059B268 00000000
+
+// Walk Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+00998C88 3F800000
+009A14A8 3F800000
+
+// Walk Through Walls [L+D-Up=On/D-Up=Off]
+Author = libretro-database contributors / original PSP cheat authors
+000091A8 0A308048
+00420120 3C08091A
+00420124 3C0908E2
+00420128 8D2AD484
+0042012C 340B0110
+00420130 154B0006
+00420134 00000000
+00420138 8D0C8C88
+0042013C 3C0D3F80
+00420140 35AD0000
+00420144 14AC000A
+00420148 00000000
+0042014C 8D2AD484
+00420150 340B0010
+00420154 154B0008
+00420158 00000000
+0042015C 8D0C8C88
+00420160 3C0DC480
+00420164 35AD0000
+00420168 14AC0001
+0042016C 00000000
+00420170 AD0D8C88
+00420174 00000000
+00420178 03E00008
+
+// Walk Through Walls (L-Trig)
+Author = libretro-database contributors / original PSP cheat authors
+00342394 0A308034
+004200D0 3C08091A
+004200D4 3C0908E2
+004200D8 8D2AD484
+004200DC 340B0100
+004200E0 154B0006
+004200E8 8D0C8C88
+004200EC 3C0D3F80
+004200F0 35AD0000
+004200F4 14AC0006
+004200FC 3C0EC480
+00420100 35CE0000
+00420104 AD0E8C88
+00420108 10000003
+00420110 AD0D8C88
+00420118 03E00008

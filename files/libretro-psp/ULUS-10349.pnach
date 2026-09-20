@@ -1,0 +1,110 @@
+# PSP cheat pack
+# Serial: ULUS-10349
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99 Item
+Author = libretro-database contributors / original PSP cheat authors
+8072D232 001C0001
+00000063 00000000
+
+// 99 Skill
+Author = libretro-database contributors / original PSP cheat authors
+8072D211 001B0001
+00000063 00000000
+
+// 10000 Ninja Points
+Author = libretro-database contributors / original PSP cheat authors
+2072C8C8 000186A0
+
+// All BGM Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+2072C8A0 0000FFFF
+2072C8A2 00000001
+
+// All Images Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+2072C898 FFFFFFFF
+2072C89C FFFFFFFF
+
+// All Movies Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+2072C8A4 FFFFFFFF
+2072C8A8 0000001F
+
+// All People - Mugenjo
+Author = libretro-database contributors / original PSP cheat authors
+8072D0E9 00090001
+00000001 00000001
+8072D0F2 00060001
+0000000C 00000001
+8072D0F8 00060001
+00000014 00000001
+0072D0FE 0000001B
+
+// All Photos Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+2072C8AC 000003FF
+
+// All The Props - Mugenjo
+Author = libretro-database contributors / original PSP cheat authors
+8072D232 001C0001
+00000063 00000000
+
+// Capacity Of The Largest - Mugenjo
+Author = libretro-database contributors / original PSP cheat authors
+8072DBE1 00C50001
+00000004 00000000
+
+// Chakra
+Author = libretro-database contributors / original PSP cheat authors
+60462E90 41700000
+00020001 0000005C
+
+// Full Hero Mode
+Author = libretro-database contributors / original PSP cheat authors
+1072C720 00000101
+0072C722 00000001
+
+// Full Heatlh
+Author = libretro-database contributors / original PSP cheat authors
+60462E90 3F800000
+00020001 00000058
+
+// Inf. Chakra - Mugenjo
+Author = libretro-database contributors / original PSP cheat authors
+4072D18C 001B0001
+41700000 00000000
+
+// Inf. Health - Mugenjo
+Author = libretro-database contributors / original PSP cheat authors
+4072D104 001B0001
+3F800000 00000000
+
+// Infinite Chakra Ptr.
+Author = libretro-database contributors / original PSP cheat authors
+60462E90 41700000
+00020001 0000005C
+
+// Infinite Energy Ptr.
+Author = libretro-database contributors / original PSP cheat authors
+60462E90 3F800000
+00020001 00000058
+
+// Max Ninja Points
+Author = libretro-database contributors / original PSP cheat authors
+2072C8C8 0000319C
+
+// Unlimited Skills - Mugenjo
+Author = libretro-database contributors / original PSP cheat authors
+8072D211 001B0001
+00000063 00000000
+
+// Unlock The Full Figures
+Author = libretro-database contributors / original PSP cheat authors
+8072C630 001C0004
+00000001 00000000
+
+// Versus Time
+Author = libretro-database contributors / original PSP cheat authors
+604634C0 63000000
+00020001 000001A8

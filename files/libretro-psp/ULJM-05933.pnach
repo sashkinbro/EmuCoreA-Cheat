@@ -1,0 +1,118 @@
+# PSP cheat pack
+# Serial: ULJM-05933
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E00101F8 002DC91C
+202DC91C 34040001
+
+// 60 FPS [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+202DC91C 8E0401F8
+
+// Assist Items Max
+Author = libretro-database contributors / original PSP cheat authors
+0050B8A9 0000007F
+1050B8AA 00007F7F
+1050B8AC 00007F7F
+
+// Banquette All
+Author = libretro-database contributors / original PSP cheat authors
+1050B7A6 0000FFFF
+4050B7A8 00060001
+FFFFFFFF 00000000
+0050B7D3 00000009
+4050B7D4 00100001
+20890909 00000000
+
+// Diva Room Event All
+Author = libretro-database contributors / original PSP cheat authors
+8050B88E 00060001
+1000FFFF 00000000
+
+// Floor All
+Author = libretro-database contributors / original PSP cheat authors
+0050B75F 000000FF
+2050B760 FFFFFFFF
+0050B764 00000001
+4050B77C 000A0001
+20890909 00000000
+1050B7A4 00000909
+
+// Free Play Difficult All
+Author = libretro-database contributors / original PSP cheat authors
+2050B8C0 FFFFFFFF
+2050B8C4 FFFFFFFF
+2050B8C8 FFFFFFFF
+
+// Free Play Music All
+Author = libretro-database contributors / original PSP cheat authors
+1050B8AE 0000FFFF
+1050B8B0 0000FFFF
+0050B8B2 0000000F
+
+// H Camera
+Author = libretro-database contributors / original PSP cheat authors
+204C5DA8 30000000
+
+// Room All
+Author = libretro-database contributors / original PSP cheat authors
+0050B741 000000FF
+0050B742 00000001
+
+// Room Theme All
+Author = libretro-database contributors / original PSP cheat authors
+0050B74B 00000001
+1050B74C 0000FFFF
+0050B74E 0000000F
+
+// Shop Point Max
+Author = libretro-database contributors / original PSP cheat authors
+204C6058 0098967F
+
+// Shop Sale All
+Author = libretro-database contributors / original PSP cheat authors
+1050B6FE 0000FFFF
+2050B700 FFFFFFFF
+2050B704 FFFFFFFF
+2050B708 FFFFFFFF
+2050B70C FFFFFFFF
+1050B710 0000FFFF
+0050B712 0000007F
+0050B745 000000FF
+0050B746 00000001
+1050B754 0000FFFF
+0050B756 0000000F
+0050B76B 000000FF
+2050B76C FFFFFFFF
+0050B770 00000001
+2050B7B8 FFFFFFFF
+2050B7BC FFFFFFFF
+0050B7C0 00000001
+2050B828 FFFFFFFF
+2050B82C FFFFFFFF
+0050B830 000000FF
+
+// Title All
+Author = libretro-database contributors / original PSP cheat authors
+8050B8D8 00070001
+1000FFFF 00000000
+
+// Total Diva Point Max
+Author = libretro-database contributors / original PSP cheat authors
+204C605C 05F5E0FF
+
+// Visual Library All
+Author = libretro-database contributors / original PSP cheat authors
+2050B8CC FFFFFFFF
+2050B8D0 FFFFFFFF
+
+// Wall All
+Author = libretro-database contributors / original PSP cheat authors
+4050B814 000C0001
+FFFFFFFF 00000000
+0050B844 000000FF
+1050B846 00000909
+4050B848 00120001
+20890909 00000000

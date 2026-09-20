@@ -1,0 +1,43 @@
+# PSP cheat pack
+# Serial: ULJM-05834
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99 Stones
+Author = libretro-database contributors / original PSP cheat authors
+8140A3E2 00060002
+00000063 00000000
+
+// All Rough 99 & Item All
+Author = libretro-database contributors / original PSP cheat authors
+8140A3B2 00060002
+00000063 00000000
+8140A3BC 00120002
+00000001 00000000
+
+// CG Open
+Author = libretro-database contributors / original PSP cheat authors
+8045AF5C 00F00001
+00000001 00000000
+8045B0EA 00080001
+0045B0E4 00000001
+
+// End Open
+Author = libretro-database contributors / original PSP cheat authors
+80449158 00100002
+00000001 00000000
+
+// Extra Open
+Author = libretro-database contributors / original PSP cheat authors
+80449132 00070002
+00000001 00000000
+
+// Sound Open
+Author = libretro-database contributors / original PSP cheat authors
+8044910A 00140002
+00000001 00000000
+
+// SSS Open
+Author = libretro-database contributors / original PSP cheat authors
+8044918C 00110002
+00000001 00000000
+0044931A 00000001

@@ -1,0 +1,378 @@
+# PSP cheat pack
+# Serial: ULJS-00090
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Metal Slug - Inf. Tank Energy
+Author = libretro-database contributors / original PSP cheat authors
+01039C86 00000030
+
+// Metal Slug - Infinite Arms
+Author = libretro-database contributors / original PSP cheat authors
+11039C62 0000FFFF
+
+// Metal Slug - Infinite Arms (V2)
+Author = libretro-database contributors / original PSP cheat authors
+11039B62 0000FFFF
+
+// Metal Slug - Infinite Arms (V3)
+Author = libretro-database contributors / original PSP cheat authors
+11039A62 0000FFFF
+
+// Metal Slug - Infinite Bombs
+Author = libretro-database contributors / original PSP cheat authors
+01039C61 00000063
+
+// Metal Slug - Infinite Bomb (V2)
+Author = libretro-database contributors / original PSP cheat authors
+01039B61 00000063
+
+// Metal Slug - Infinite Bomb (V3)
+Author = libretro-database contributors / original PSP cheat authors
+01039A61 00000063
+
+// Metal Slug - Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+01039B16 00000065
+
+// Metal Slug - Infinite Lives (V2)
+Author = libretro-database contributors / original PSP cheat authors
+01039A16 00000065
+
+// Metal Slug - Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+01040632 00000063
+
+// Metal Slug - Infinite Time (V2)
+Author = libretro-database contributors / original PSP cheat authors
+01040532 00000063
+
+// Metal Slug - Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+01039C24 00000040
+
+// Metal Slug - Invincibility (V2)
+Author = libretro-database contributors / original PSP cheat authors
+01039B24 00000040
+
+// Metal Slug 2 - [Tank] Infinite Cannon
+Author = libretro-database contributors / original PSP cheat authors
+01147E40 00000063
+
+// Metal Slug 2 - Body Type Modifier [P1]
+Author = libretro-database contributors / original PSP cheat authors
+E0020001 017FF0A0
+6013BF04 00000002
+00000001 00001524
+
+// Metal Slug 2 - Inf. Tank Energy (V2)
+Author = libretro-database contributors / original PSP cheat authors
+01147F3A 00000030
+0113A911 00000030
+
+// Metal Slug 2 - Infinite Arms
+Author = libretro-database contributors / original PSP cheat authors
+11145AEC 0000FFFF
+
+// Metal Slug 2 - Infinite Arms (V2)
+Author = libretro-database contributors / original PSP cheat authors
+111459EC 0000FFFF
+
+// Metal Slug 2 - Infinite Arms (V3)
+Author = libretro-database contributors / original PSP cheat authors
+111458EC 0000FFFF
+
+// Metal Slug 2 - Infinite Bombs
+Author = libretro-database contributors / original PSP cheat authors
+011458E9 00000063
+
+// Metal Slug 2 - Infinite Bombs (V2)
+Author = libretro-database contributors / original PSP cheat authors
+011459E9 00000063
+
+// Metal Slug 2 - Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+0113AA17 00000063
+
+// Metal Slug 2 - Infinite Lives (V2)
+Author = libretro-database contributors / original PSP cheat authors
+0113A917 00000063
+
+// Metal Slug 2 - Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+0113A955 00000063
+
+// Metal Slug 2 - Infinite Time (V2)
+Author = libretro-database contributors / original PSP cheat authors
+0113AA55 00000063
+
+// Metal Slug 2 - Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+0113ACB6 00000077
+
+// Metal Slug 2 - Invincibility (V2)
+Author = libretro-database contributors / original PSP cheat authors
+0113ABB6 00000077
+
+// Metal Slug 3 - [Tank] Infinite Cannon
+Author = libretro-database contributors / original PSP cheat authors
+015A81D8 00000063
+
+// Metal Slug 3 - Body Type Modifier [P1]
+Author = libretro-database contributors / original PSP cheat authors
+E0020003 017FF0A0
+6013BF04 00000002
+00000001 0000058E
+6013BF04 000000FF
+00000001 0000EAF6
+
+// Metal Slug 3 - Inf. Tank Energy
+Author = libretro-database contributors / original PSP cheat authors
+01599957 00000030
+0159B76A 00000030
+015A82D0 00000030
+
+// Metal Slug 3 - Infinite Arms
+Author = libretro-database contributors / original PSP cheat authors
+115A829A 0000FFFF
+
+// Metal Slug 3 - Infinite Arms (V2)
+Author = libretro-database contributors / original PSP cheat authors
+115A819A 0000FFFF
+
+// Metal Slug 3 - Infinite Arms (V3)
+Author = libretro-database contributors / original PSP cheat authors
+115A809A 0000FFFF
+
+// Metal Slug 3 - Infinite Bombs
+Author = libretro-database contributors / original PSP cheat authors
+015A8294 00000063
+
+// Metal Slug 3 - Infinite Bomds (V2)
+Author = libretro-database contributors / original PSP cheat authors
+015A8194 00000063
+
+// Metal Slug 3 - Infinite Bomds (V3)
+Author = libretro-database contributors / original PSP cheat authors
+015A8094 00000063
+
+// Metal Slug 3 - Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+01599A5A 00000064
+
+// Metal Slug 3 - Infinite Lives (V2)
+Author = libretro-database contributors / original PSP cheat authors
+0159995A 00000064
+
+// Metal Slug 3 - Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+015A8519 00000099
+
+// Metal Slug 3 - Infinite Time (V2)
+Author = libretro-database contributors / original PSP cheat authors
+015A8419 00000099
+
+// Metal Slug 3 - Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+01599D20 00000002
+
+// Metal Slug 3 - Invincibility (V2)
+Author = libretro-database contributors / original PSP cheat authors
+01599C20 00000002
+
+// Metal Slug 4 - [Tank] Infinite Cannon
+Author = libretro-database contributors / original PSP cheat authors
+013A834C 00000063
+
+// Metal Slug 4 - Inf. Tank Energy
+Author = libretro-database contributors / original PSP cheat authors
+0139A119 00000030
+0139A11B 00000030
+0139CD9A 00000030
+013A8444 00000030
+
+// Metal Slug 4 - Infinite Arms
+Author = libretro-database contributors / original PSP cheat authors
+113A8592 0000FFFF
+
+// Metal Slug 4 - Infinite Arms (V2)
+Author = libretro-database contributors / original PSP cheat authors
+113A8492 0000FFFF
+
+// Metal Slug 4 - Infinite Arms (V3)
+Author = libretro-database contributors / original PSP cheat authors
+113A8392 0000FFFF
+
+// Metal Slug 4 - Infinite Bombs
+Author = libretro-database contributors / original PSP cheat authors
+013A858C 00000063
+
+// Metal Slug 4 - Infinite Bombs (V2)
+Author = libretro-database contributors / original PSP cheat authors
+013A848C 00000063
+
+// Metal Slug 4 - Infinite Bombs (V3)
+Author = libretro-database contributors / original PSP cheat authors
+013A838C 00000063
+
+// Metal Slug 4 - Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+0139A228 00000064
+
+// Metal Slug 4 - Infinite Lives (V2)
+Author = libretro-database contributors / original PSP cheat authors
+0139A128 00000064
+
+// Metal Slug 4 - Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+013A84FD 00000099
+
+// Metal Slug 4 - Infinite Time (V2)
+Author = libretro-database contributors / original PSP cheat authors
+013A83FD 00000099
+
+// Metal Slug 4 - Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+0139A4B6 00000040
+
+// Metal Slug 4 - Invincibility (V2)
+Author = libretro-database contributors / original PSP cheat authors
+0139A3B6 00000040
+
+// Metal Slug 5 - [Tank] Infinite Cannon
+Author = libretro-database contributors / original PSP cheat authors
+0134727E 00000063
+
+// Metal Slug 5 - Infinite Arms
+Author = libretro-database contributors / original PSP cheat authors
+11346BFC 0000FFFF
+
+// Metal Slug 5 - Infinite Arms (V2)
+Author = libretro-database contributors / original PSP cheat authors
+11346AFC 0000FFFF
+
+// Metal Slug 5 - Infinite Arms (V3)
+Author = libretro-database contributors / original PSP cheat authors
+113469FC 0000FFFF
+
+// Metal Slug 5 - Infinite Bombs
+Author = libretro-database contributors / original PSP cheat authors
+01346BF6 00000063
+
+// Metal Slug 5 - Infinite Bombs (V2)
+Author = libretro-database contributors / original PSP cheat authors
+01346AF6 00000063
+
+// Metal Slug 5 - Infinite Bombs (V3)
+Author = libretro-database contributors / original PSP cheat authors
+013469F6 00000063
+
+// Metal Slug 5 - Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+0133A1E0 00000064
+
+// Metal Slug 5 - Infinite Lives (V2)
+Author = libretro-database contributors / original PSP cheat authors
+0133A0E0 00000064
+
+// Metal Slug 5 - Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+01346E1F 00000099
+
+// Metal Slug 5 - Infinite Time (V2)
+Author = libretro-database contributors / original PSP cheat authors
+01346D1F 00000099
+
+// Metal Slug 5 - Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+0133A4E8 00000001
+
+// Metal Slug 5 - Invincibility (V2)
+Author = libretro-database contributors / original PSP cheat authors
+0133A3E8 00000001
+
+// Metal Slug 6 - Infinite Arms
+Author = libretro-database contributors / original PSP cheat authors
+105C22A4 0000FFFF
+
+// Metal Slug 6 - Infinite Arms (V2)
+Author = libretro-database contributors / original PSP cheat authors
+105C22A4 000003E7
+
+// Metal Slug 6 - Infinite Bombs
+Author = libretro-database contributors / original PSP cheat authors
+005C22A1 00000063
+
+// Metal Slug 6 - Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+005E3123 00000064
+
+// Metal Slug 6 - Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+005C21CF 00000099
+
+// Metal Slug 6 - Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+005C2264 00000069
+
+// Metal Slug X - [Tank] Infinite Cannon
+Author = libretro-database contributors / original PSP cheat authors
+01465BC6 00000063
+
+// Metal Slug X - Body Type Modifier [P1]
+Author = libretro-database contributors / original PSP cheat authors
+E0020002 017FF0A0
+6013BF04 00000002
+00000001 00001556
+
+// Metal Slug X - Body Type Modifier [P1] v2
+Author = libretro-database contributors / original PSP cheat authors
+E0020002 017FF0A0
+6013BF04 00000002
+00000001 0000C723
+6013BF04 000000FF
+00000001 0000C724
+
+// Metal Slug X - Inf. Tank Energy
+Author = libretro-database contributors / original PSP cheat authors
+0145DC82 00000030
+01465CC0 00000030
+
+// Metal Slug X - Infinite Arms
+Author = libretro-database contributors / original PSP cheat authors
+11465CC4 0000FFFF
+
+// Metal Slug X - Infinite Arms (V2)
+Author = libretro-database contributors / original PSP cheat authors
+11465DC4 0000FFFF
+
+// Metal Slug X - Infinite Bombs
+Author = libretro-database contributors / original PSP cheat authors
+01465CC1 00000063
+
+// Metal Slug X - Infinite Bombs (V2)
+Author = libretro-database contributors / original PSP cheat authors
+01465DC1 00000063
+
+// Metal Slug X - Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+0145A829 00000063
+
+// Metal Slug X - Infinite Lives (V2)
+Author = libretro-database contributors / original PSP cheat authors
+0145A929 00000063
+
+// Metal Slug X - Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+0145A97F 00000063
+
+// Metal Slug X - Infinite Time (V2)
+Author = libretro-database contributors / original PSP cheat authors
+0145AA7F 00000063
+
+// Metal Slug X - Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+0145AAE8 00000077
+
+// Metal Slug X - Invincibility (V2)
+Author = libretro-database contributors / original PSP cheat authors
+0145ABE8 00000077

@@ -1,0 +1,169 @@
+# PSP cheat pack
+# Serial: ULJS-00217
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Clothing Acquisition
+Author = libretro-database contributors / original PSP cheat authors
+B7800000 00000027
+00DF5AC0 00000001
+D3800000 00000001
+C9800000 00000000
+
+// All Sword Acquisition
+Author = libretro-database contributors / original PSP cheat authors
+B7800000 0000006F
+00DF5A40 00000001
+D3800000 00000001
+C9800000 00000000
+
+// All Title Acquisition
+Author = libretro-database contributors / original PSP cheat authors
+B7800000 00000027
+00DF5AC0 00000001
+D3800000 00000001
+C9800000 00000000
+
+// Clear 0
+Author = libretro-database contributors / original PSP cheat authors
+00DF59F4 00000000
+
+// Clear 9999
+Author = libretro-database contributors / original PSP cheat authors
+10DF59F4 0000270F
+
+// Countervailing Hissatsu 0
+Author = libretro-database contributors / original PSP cheat authors
+20DF5A00 00000000
+
+// Countervailing Hissatsu 999999
+Author = libretro-database contributors / original PSP cheat authors
+20DF5A00 000F423F
+
+// Deathblow
+Author = libretro-database contributors / original PSP cheat authors
+60FE5E34 00010001
+000200B8 00000040
+90000038 00000000
+
+// Energy 20
+Author = libretro-database contributors / original PSP cheat authors
+20DF5AFC 00140014
+
+// HP 2000
+Author = libretro-database contributors / original PSP cheat authors
+10DF5B02 000007D0
+10DF5B04 000007D0
+
+// HP 2000 (Difficulty: Berserker)
+Author = libretro-database contributors / original PSP cheat authors
+210C7AD0 07D007D0
+
+// HP 2000 (Difficulty: Hell)
+Author = libretro-database contributors / original PSP cheat authors
+2103D2D0 07D007D0
+
+// HP 2000 (Difficulty: Nightmare)
+Author = libretro-database contributors / original PSP cheat authors
+212C3080 07D007D0
+
+// HP 2000 (Difficulty: Normal)
+Author = libretro-database contributors / original PSP cheat authors
+212145D0 07D007D0
+
+// HP Max
+Author = libretro-database contributors / original PSP cheat authors
+20506194 0001869F
+20531AB8 0001869F
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+60E15FD0 00000002
+00000002 00000042
+10000040 00000000
+
+// Item 1-5 [1-16]
+Author = libretro-database contributors / original PSP cheat authors
+00DF5B44 00000004
+00DF5B45 0000000D
+00DF5B46 0000000E
+00DF5B47 0000000F
+00DF5B48 00000016
+
+// Item Box
+Author = libretro-database contributors / original PSP cheat authors
+80DFC6B4 00160001
+00000063 00000000
+
+// Jetavana
+Author = libretro-database contributors / original PSP cheat authors
+60E15FD0 000001D9
+00010002 000001A0
+200000C8 00000000
+
+// Kill Max
+Author = libretro-database contributors / original PSP cheat authors
+10DF5BFC 0000270F
+
+// Kill Zero
+Author = libretro-database contributors / original PSP cheat authors
+10DF5BFC 00000000
+
+// Killer 0
+Author = libretro-database contributors / original PSP cheat authors
+20DF59FC 00000000
+
+// Killer 999999
+Author = libretro-database contributors / original PSP cheat authors
+20DF59FC 000F423F
+
+// Koudo 6 (Hardness)
+Author = libretro-database contributors / original PSP cheat authors
+80DF62D4 00640100
+00000006 00000000
+
+// Money 7999
+Author = libretro-database contributors / original PSP cheat authors
+10DF5AFA 00001F3F
+
+// Money 9999
+Author = libretro-database contributors / original PSP cheat authors
+10DF5AFA 0000270F
+
+// Reliability Of Each Power Max
+Author = libretro-database contributors / original PSP cheat authors
+80DF5B20 00090004
+00000064 00000000
+
+// Through The Wall [Press R Button]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 30000200
+C00246A0 50800000
+
+// Total Points 0
+Author = libretro-database contributors / original PSP cheat authors
+20DF59F8 00000000
+
+// Total Points 999999
+Author = libretro-database contributors / original PSP cheat authors
+20DF59F8 000F423F
+
+// Weapon Status Max v1
+Author = libretro-database contributors / original PSP cheat authors
+20DF5BCC 000003E7
+20DF5BD0 000003E7
+00DF5BD4 00000006
+20DF5BD8 00630063
+
+// Weapon Status Max v2
+Author = libretro-database contributors / original PSP cheat authors
+20DF5CCC 000003E7
+20DF5CD0 000003E7
+00DF5CD4 00000006
+20DF5CD8 00630063
+
+// Weapon Status Max v3
+Author = libretro-database contributors / original PSP cheat authors
+20DF5DCC 000003E7
+20DF5DD0 000003E7
+00DF5DD4 00000006
+20DF5DD8 00630063

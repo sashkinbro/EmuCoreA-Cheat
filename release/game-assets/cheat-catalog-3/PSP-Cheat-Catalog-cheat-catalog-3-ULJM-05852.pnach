@@ -1,0 +1,30 @@
+# PSP cheat pack
+# Serial: ULJM-05852
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CG Open
+Author = libretro-database contributors / original PSP cheat authors
+81723BC8 00410001
+000000FF 00000000
+
+// Gallary Extra Open
+Author = libretro-database contributors / original PSP cheat authors
+81723BC8 00410001
+000000FF 00000000
+01723CB8 000000FF
+01723CC8 000000FF
+01723CCB 000000FF
+01723CCF 000000FF
+01723CD3 000000FF
+01723CD4 000000FF
+01723CD8 000000FF
+01723CD9 000000FF
+
+// Secret Add Extra Open
+Author = libretro-database contributors / original PSP cheat authors
+01723CB8 000000FF
+01723CC8 000000FF
+01723CCB 000000FF
+01723CCF 000000FF
+11723CD3 0000FFFF
+11723CD8 0000FFFF

@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULJS-19018
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Gun
+Author = libretro-database contributors / original PSP cheat authors
+2028BBA4 0000270F
+
+// Max Missles
+Author = libretro-database contributors / original PSP cheat authors
+2028B992 000000FF
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+20280DF8 3B9AC9FF
+
+// Max Special Weapons
+Author = libretro-database contributors / original PSP cheat authors
+2028B993 000000FF

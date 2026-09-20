@@ -1,0 +1,183 @@
+# PSP cheat pack
+# Serial: ULUS-10083
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1337 Items (Gives You All Items)
+Author = libretro-database contributors / original PSP cheat authors
+0042F81C 00000539
+0042F804 00000539
+0042F808 00000539
+0042F818 00000539
+0042F800 00000539
+0042F810 00000539
+0042F820 00000539
+0042F830 00000539
+0042F840 00000539
+0042F850 00000539
+0042F860 00000539
+0042F870 00000539
+0042F880 00000539
+0042F890 00000539
+0042F8A0 00000539
+0042F8B0 00000539
+0042F8C0 00000539
+0042F8D0 00000539
+0042F8E0 00000539
+0042F8F0 00000539
+0042F814 00000539
+0042F80C 00000539
+0042F824 00000539
+0042F828 00000539
+0042F82C 00000539
+0042F834 00000539
+0042F838 00000539
+0042F83C 00000539
+0042F844 00000539
+0042F848 00000539
+0042F84C 00000539
+0042F854 00000539
+0042F858 00000539
+0042F85C 00000539
+0042F864 00000539
+0042F868 00000539
+0042F86C 00000539
+0042F874 00000539
+0042F878 00000539
+0042F87C 00000539
+0042F884 00000539
+0042F888 00000539
+0042F88C 00000539
+0042F894 00000539
+0042F898 00000539
+0042F89C 00000539
+0042F8A4 00000539
+0042F8A8 00000539
+0042F8AC 00000539
+0042F8B4 00000539
+0042F8B8 00000539
+0042F8BC 00000539
+0042F8C4 00000539
+0042F8C8 00000539
+0042F8CC 00000539
+0042F8D4 00000539
+0042F8D8 00000539
+0042F8DC 00000539
+0042F8E4 00000539
+0042F8E8 00000539
+0042F8EC 00000539
+0042F8F4 00000539
+0042F8F8 00000539
+0042F8FC 00000539
+0042F900 00000539
+
+// Bomb 120 Dmg. 3x3 Area (Rendalf)
+Author = libretro-database contributors / original PSP cheat authors
+0042F8A0 00000063
+
+// Bracelet Of Luck 1.5x Exp.
+Author = libretro-database contributors / original PSP cheat authors
+0042F868 00000063
+
+// Bracer Of Peace Imu To Insanity
+Author = libretro-database contributors / original PSP cheat authors
+0042F8E4 00000063
+
+// Dalphyn Shoes: Incr Spd w/In Field
+Author = libretro-database contributors / original PSP cheat authors
+0042F844 00000063
+
+// Devil Claw Gain 1/2 HP From Attack
+Author = libretro-database contributors / original PSP cheat authors
+0042F8E8 00000063
+
+// Flame Boots Voids Up To 70 MGC DMG
+Author = libretro-database contributors / original PSP cheat authors
+0042F860 00000063
+
+// Grilled Eel
+Author = libretro-database contributors / original PSP cheat authors
+0042F814 00000063
+
+// Helm Of Recovery HP Aft. Turn
+Author = libretro-database contributors / original PSP cheat authors
+0042F870 00000063
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+0042FC00 07F81ED9
+
+// Infinite MP Loyle
+Author = libretro-database contributors / original PSP cheat authors
+104302A0 0000270F
+
+// Item Kings Lunchbox 300HP
+Author = libretro-database contributors / original PSP cheat authors
+0042F810 00000063
+
+// Item Super Ultra Potion 200MP
+Author = libretro-database contributors / original PSP cheat authors
+0042F8EC 00000063
+
+// Lit Rod Takes Lit DMG
+Author = libretro-database contributors / original PSP cheat authors
+0042F864 00000063
+
+// Lloyd: 999 Agility
+Author = libretro-database contributors / original PSP cheat authors
+1042FD80 000003E7
+
+// Lloyd: 999 Attack
+Author = libretro-database contributors / original PSP cheat authors
+1042FC38 000003E7
+
+// Lloyd: 999 Defense
+Author = libretro-database contributors / original PSP cheat authors
+1042FD7C 000003E7
+
+// Lloyd: 9999 Max HP
+Author = libretro-database contributors / original PSP cheat authors
+1042FC30 0000270F
+
+// Lloyd: 9999 Max MP
+Author = libretro-database contributors / original PSP cheat authors
+1042FC34 0000270F
+
+// Max Gelder
+Author = libretro-database contributors / original PSP cheat authors
+1042FC00 0001869F
+
+// Max Lvl./Exp. Lloyd
+Author = libretro-database contributors / original PSP cheat authors
+104302AC 00005000
+
+// Max Lvl./Exp. Rendalf
+Author = libretro-database contributors / original PSP cheat authors
+1043171C 00005000
+
+// Max Lvl./Exp. Ylenne
+Author = libretro-database contributors / original PSP cheat authors
+1043097C 00005000
+
+// Protect Amulet 20 Def.
+Author = libretro-database contributors / original PSP cheat authors
+0042F840 00000063
+
+// Rock 50 DMG (Rendalf)
+Author = libretro-database contributors / original PSP cheat authors
+0042F894 00000063
+
+// Sphere Of Purification: Null Poison
+Author = libretro-database contributors / original PSP cheat authors
+0042F874 00000063
+
+// Suri Sword  13 DMG. (Only Rudoug/Jenas)
+Author = libretro-database contributors / original PSP cheat authors
+0042F890 00000063
+
+// Throwing Axe  33 DMG.
+Author = libretro-database contributors / original PSP cheat authors
+0042F888 00000063
+
+// Water Of Life
+Author = libretro-database contributors / original PSP cheat authors
+0042F8F0 00000063

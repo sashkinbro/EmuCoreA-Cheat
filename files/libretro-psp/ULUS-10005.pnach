@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: ULUS-10005
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Disable Blocking Both Players
+Author = libretro-database contributors / original PSP cheat authors
+2009EF24 00000000
+
+// Hit Anywhere Both Players
+Author = libretro-database contributors / original PSP cheat authors
+2009E590 1000000D
+
+// Play As Dark Talbain (Gallon)
+Author = libretro-database contributors / original PSP cheat authors
+00800782 00000012

@@ -1,0 +1,272 @@
+# PSP cheat pack
+# Serial: ULUS-10585
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Always THinks You Have Ball
+Author = libretro-database contributors / original PSP cheat authors
+207A397C 08F8A6C0
+
+// Ball Size (R=incr./L=Decr.)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0808F5
+20001004 8D086B20
+20001008 3C0908FE
+2000100C 340A0200
+20001010 340B0100
+20001014 150A0005
+20001018 00000000
+2000101C 8D2C4BE4
+20001020 340DD000
+20001024 018D7020
+20001028 AD2E4BE4
+2000102C 150B0005
+20001030 00000000
+20001034 8D2F4BE4
+20001038 3418D000
+2000103C 01F8C822
+20001040 AD394BE4
+20001044 03E00008
+200000CC 0A200400
+
+// Ball Teleports Into Hoop (1)
+Author = libretro-database contributors / original PSP cheat authors
+207E4C70 BC9BDE2A
+207E4C74 404CF04F
+207E4C78 4149BCCF
+
+// Ball Teleports Into Hoop (2)
+Author = libretro-database contributors / original PSP cheat authors
+207E4C70 3D272E85
+207E4C74 404602C8
+207E4C78 C15022A4
+
+// Beach Ball Mode
+Author = libretro-database contributors / original PSP cheat authors
+207E4BE4 40500000
+207E4C30 3ECFAACE
+207E4C34 3EDD3A14
+
+// Beach Ball Mode [Off]
+Author = libretro-database contributors / original PSP cheat authors
+207E4BE4 3F800000
+207E4C30 3F1FAACE
+207E4C34 3FCD3A14
+
+// Clear Shadows
+Author = libretro-database contributors / original PSP cheat authors
+00806B28 3D80007F
+
+// Disable All Routines (The Codes That Stay On)
+Author = libretro-database contributors / original PSP cheat authors
+200000CC 03E00008
+
+// Elevator (R=Up/L=Down)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0808F5
+20001004 8D086B20
+20001008 3C0908FA
+2000100C 340A0200
+20001010 340B0100
+20001014 150A0005
+2000101C 8D2C399C
+20001020 340D2000
+20001024 018D7020
+20001028 AD2E399C
+2000102C 150B0005
+20001034 8D2F399C
+20001038 34182000
+2000103C 01F8C822
+20001040 AD39399C
+20001044 03E00008
+200000CC 0A200400
+
+// Ice Skater
+Author = libretro-database contributors / original PSP cheat authors
+207DC140 0000005A
+
+// Inbound Teleport (My Player)
+Author = libretro-database contributors / original PSP cheat authors
+207DC1BC 00000000
+
+// Invisibility
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0808F5
+20001004 8D086B20
+20001008 3C0908FA
+2000100C 240A0080
+20001010 3C0B0000
+20001014 256B007D
+20001018 AD2B39A0
+2000101C 150A0004
+20001024 00000000
+20001024 3C0C0000
+20001028 258C007C
+2000102C AD2C39A0
+20001030 03E00008
+200000CC 0A200400
+
+// Iron Ball (L+R Before someOne shoots)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0808F5
+20001004 8D086B20
+20001008 24090300
+2000100C 240A0000
+20001010 15090005
+20001014 00000000
+20001018 3C0B08FE
+2000101C 3C0C3E9F
+20001020 358CAACE
+20001024 AD6C4C30
+20001028 150A0005
+2000102C 00000000
+20001030 3C0B08FE
+20001034 3C0C3F1F
+20001038 3C0C3F1F
+2000103C AD6C4C30
+20001040 03E00008
+200000CC 0A200400
+
+// Lock Ball (Left R + L)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0808F5
+20001004 8D086B20
+20001008 3C0908FE
+2000100C 3C0A08FE
+20001010 3C0B08FE
+20001014 240C0300
+20001018 150C000A
+2000101C 00000000
+20001020 3C0D0000
+20001024 25AD0000
+20001028 AD2D4C50
+2000102C 3C0E0000
+20001030 25CE0000
+20001034 AD4E4C54
+20001038 3C0F0000
+2000103C 25EF0000
+20001040 AD6F4C58
+20001044 03E00008
+200000CC 0A200400
+
+// Mark & Recall (Mark=L+R/Recall=Left)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0808F5
+20001004 8D086B20
+20001008 24090300
+2000100C 240A0080
+20001010 3C0B0880
+20001014 3C0C08FE
+20001018 15090007
+2000101C 00000000
+20001020 8D6D2000
+20001024 8D6E2004
+20001028 8D6F2008
+2000102C AD8DA190
+20001030 AD8EA194
+20001034 AD8FA198
+20001038 150A0007
+2000103C 00000000
+20001040 8D8DA190
+20001044 8D8EA194
+20001048 8D8FA198
+2000104C AD6D2000
+20001050 AD6E2004
+20001054 AD6F2008
+20001058 03E00008
+200000CC 0A200400
+
+// Max My Player Points
+Author = libretro-database contributors / original PSP cheat authors
+10B51E44 00007CCA
+
+// My Player Points 40000
+Author = libretro-database contributors / original PSP cheat authors
+10B51EC4 00009C40
+
+// Score From Anywhere [Hold R]
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0808F5
+20001004 95086B20
+20001008 31080200
+2000100C 11000003
+20001010 460005C6
+20001014 3C084700
+20001018 4488B800
+2000101C 0A256B96
+2015AE50 0A200400
+
+// Screen Size (My Player)
+Author = libretro-database contributors / original PSP cheat authors
+20806B20 00000000
+20806B24 00000000
+
+// Screen Stretch (My Player)
+Author = libretro-database contributors / original PSP cheat authors
+20806B00 00000000
+20806B04 00000000
+
+// Sky Walker
+Author = libretro-database contributors / original PSP cheat authors
+207A399C 4086D3A0
+
+// Steal From Anywhere [Press Square]
+Author = libretro-database contributors / original PSP cheat authors
+2019A040 1000000C
+2019A11C 00000000
+2019A144 00000000
+
+// Stop Time
+Author = libretro-database contributors / original PSP cheat authors
+2090317C 00000002
+
+// Super Jump
+Author = libretro-database contributors / original PSP cheat authors
+207A3984 4006D3A0
+
+// Super Speed
+Author = libretro-database contributors / original PSP cheat authors
+20902BD4 42200000
+
+// Time Decrease Fast
+Author = libretro-database contributors / original PSP cheat authors
+20903178 40800000
+
+// Time Decrease Slow
+Author = libretro-database contributors / original PSP cheat authors
+20903178 3E800000
+
+// Time Editor (R=Incr./L=Decr.)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0808F5
+20001004 8D086B20
+20001008 3C090910
+2000100C 340A0200
+20001010 340B0100
+20001014 150A0005
+20001018 00000000
+2000101C 8D2C3174
+20001020 340D1000
+20001024 018D7020
+20001028 AD2E3174
+2000102C 150B0005
+20001030 00000000
+20001034 8D2F3174
+20001038 34180800
+2000103C 01F8C822
+20001040 AD393174
+20001044 03E00008
+200000CC 0A200400
+
+// Turn Over (Press Left D-pad)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0808F5
+20001004 8D086B20
+20001008 3C090910
+2000100C 240A0080
+20001010 150A0004
+20001014 00000000
+20001018 3C0B0000
+2000101C 256B0000
+20001020 AD2B3190
+20001024 03E00008
+200000CC 0A200400

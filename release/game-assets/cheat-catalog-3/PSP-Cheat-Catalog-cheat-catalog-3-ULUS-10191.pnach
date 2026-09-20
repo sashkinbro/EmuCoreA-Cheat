@@ -1,0 +1,12 @@
+# PSP cheat pack
+# Serial: ULUS-10191
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Cash
+Author = libretro-database contributors / original PSP cheat authors
+0125CDF8 205F5E0F
+
+// Lots Of Money
+Author = libretro-database contributors / original PSP cheat authors
+0125CDD8 0FFFFFFF
+1125CDD8 0FFFFFFF

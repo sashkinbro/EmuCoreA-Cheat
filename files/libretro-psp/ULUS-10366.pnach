@@ -1,0 +1,200 @@
+# PSP cheat pack
+# Serial: ULUS-10366
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 100,000,000 Gold
+Author = libretro-database contributors / original PSP cheat authors
+216AA5E0 00989680
+
+// 1st Character: Fast Level
+Author = libretro-database contributors / original PSP cheat authors
+216CCE60 00000001
+
+// 1st Character: Inf. Special
+Author = libretro-database contributors / original PSP cheat authors
+00257118 00000014
+
+// 2nd Character: Fast Level
+Author = libretro-database contributors / original PSP cheat authors
+116CCE64 00000001
+
+// 3rd Character: Fast Level
+Author = libretro-database contributors / original PSP cheat authors
+116CCE68 00000001
+
+// 4th Character Fast Level
+Author = libretro-database contributors / original PSP cheat authors
+116CCE6C 00000001
+
+// 50k Gold
+Author = libretro-database contributors / original PSP cheat authors
+116AA5E0 0000C350
+
+// 5th Character Fast Level
+Author = libretro-database contributors / original PSP cheat authors
+116CCE70 00000001
+
+// 6th Character Fast Level
+Author = libretro-database contributors / original PSP cheat authors
+116CCE74 00000001
+
+// BAG 1 Anchor Card
+Author = libretro-database contributors / original PSP cheat authors
+0021A54C 00000062
+
+// BAG 1 Enchanter Card
+Author = libretro-database contributors / original PSP cheat authors
+0021A54C 00000066
+
+// BAG 1 Knight Card
+Author = libretro-database contributors / original PSP cheat authors
+0021A54C 00000063
+
+// BAG 1 Ninja Card
+Author = libretro-database contributors / original PSP cheat authors
+0021A54C 00000065
+
+// BAG 1 Samurai Card
+Author = libretro-database contributors / original PSP cheat authors
+0021A54C 00000064
+
+// Cards
+Author = libretro-database contributors / original PSP cheat authors
+0021A54C 00000062
+0021A54C 00000063
+0021A54C 00000064
+0021A54C 00000065
+0021A54C 00000066
+0021A54C 00000069
+
+// Everything Is Free
+Author = libretro-database contributors / original PSP cheat authors
+2104CC2C 00000000
+2104CC80 00000000
+2104CCD4 00000000
+2104CD0C 00000000
+2104CFAC 00000000
+210503BC 00000000
+21050590 00000000
+21050EB4 00000000
+2105125C 00000000
+2102BE88 00000000
+2102C218 00000000
+2102C608 00000000
+2102C908 00000000
+
+// Everything Is Free v2
+Author = libretro-database contributors / original PSP cheat authors
+2004CC2C 00000000
+2004CC80 00000000
+2004CCD4 00000000
+2004CD0C 00000000
+2004CFAC 00000000
+200503BC 00000000
+20050590 00000000
+20050EB4 00000000
+2005125C 00000000
+2002BE88 00000000
+2002C218 00000000
+2002C608 00000000
+2002C908 00000000
+
+// Fighter Lvl 50
+Author = libretro-database contributors / original PSP cheat authors
+00217FEC 00000032
+
+// Inf. HP [Main Character]
+Author = libretro-database contributors / original PSP cheat authors
+00217FCC 000000FF
+
+// Infinite BP
+Author = libretro-database contributors / original PSP cheat authors
+00216B77 00000004
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+202F77EC 003E73E7
+202F7864 003E73E7
+
+// Instant Level Up
+Author = libretro-database contributors / original PSP cheat authors
+202F780C 00000001
+
+// Intelligence 50
+Author = libretro-database contributors / original PSP cheat authors
+00217FDC 00000032
+
+// Luck 50
+Author = libretro-database contributors / original PSP cheat authors
+00217FE1 00000032
+
+// Mark & Recall (Press Left/Right)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C0808A4
+20001004 8D087544
+20001008 3C0908A4
+2000100C 8D29D1E8
+20001010 240A0080
+20001014 152A000A
+2000101C 3C0B0880
+20001020 8D0C0020
+20001024 AD6C0700
+20001028 8D0D0024
+2000102C AD6D0704
+20001030 8D0E0028
+20001034 AD6E0708
+20001038 1000000B
+20001040 240A0020
+20001044 152A0008
+2000104C 3C0B0880
+20001050 8D6C0700
+20001054 AD0C0020
+20001058 8D6D0704
+2000105C AD0D0024
+20001060 8D6E0708
+20001064 AD0E0028
+20001068 10000001
+20001070 03E00008
+200089B0 0A200400
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+202210F8 000F423F
+
+// Max Gold v2
+Author = libretro-database contributors / original PSP cheat authors
+216AA5E0 00989680
+
+// Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+202F7868 63636363
+202F786C 63636363
+202F7870 63636363
+
+// Paper Player
+Author = libretro-database contributors / original PSP cheat authors
+202F75B0 30800000
+
+// Rainbow Kickup Dust
+Author = libretro-database contributors / original PSP cheat authors
+200D4038 3C044080
+
+// Resistance 50
+Author = libretro-database contributors / original PSP cheat authors
+00217FDD 00000032
+
+// Skill 50
+Author = libretro-database contributors / original PSP cheat authors
+00217FE0 00000032
+
+// Speed 50
+Author = libretro-database contributors / original PSP cheat authors
+00217FDF 00000032
+
+// Strength 50
+Author = libretro-database contributors / original PSP cheat authors
+00217FDB 00000032
+
+// Vitality 50
+Author = libretro-database contributors / original PSP cheat authors
+00217FDE 00000032

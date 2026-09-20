@@ -1,0 +1,34 @@
+# PSP cheat pack
+# Serial: ULUS-10520
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AI Disable
+Author = libretro-database contributors / original PSP cheat authors
+201B39D8 00000000
+
+// AI Enable
+Author = libretro-database contributors / original PSP cheat authors
+201B39D8 00001021
+
+// All Weapons Are Upgraded
+Author = libretro-database contributors / original PSP cheat authors
+2021EF7C 2402FFFF
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2022756C 00000000
+2022B230 00000000
+2022D36C 00000000
+202318C0 00000000
+2023C9A4 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 C4400144
+20002004 0A297EE3
+20002008 E4400140
+2025FB84 0A200800
+
+// Max Chips On Get
+Author = libretro-database contributors / original PSP cheat authors
+201F0018 2403270F

@@ -1,0 +1,110 @@
+# PSP cheat pack
+# Serial: ULUS-10301
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Handheld Screen (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+20218DA0 3FC00000
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+20218DA0 3FE38E39
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+20218DA0 40647AE1
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+20218DA0 401EB852
+
+// All Grenades
+Author = libretro-database contributors / original PSP cheat authors
+0024D44C 00000004
+0024D458 00000004
+0024D434 00000004
+0024D440 00000004
+
+// Fire Grenade
+Author = libretro-database contributors / original PSP cheat authors
+0024D44C 00000003
+
+// Flashbangs
+Author = libretro-database contributors / original PSP cheat authors
+0024D434 00000004
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+206B3AE8 42CDA476
+206B3B48 3E991AEE
+20CDCB9C 43AF47EA
+20CDCBA4 3FD3CD96
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2023F7B0 00000000
+20000D28 0000000B
+D2000000 00000000
+
+// Infinite Ammo v2
+Author = libretro-database contributors / original PSP cheat authors
+2023F7B0 0000000B
+00020000 00000D28
+
+// Infinite Ammo v3
+Author = libretro-database contributors / original PSP cheat authors
+2023F7B0 0000000B
+00020001 00000D28
+
+// Infinite Grenades
+Author = libretro-database contributors / original PSP cheat authors
+2024D434 0000000A
+2024D44C 0000000A
+2024D440 0000000A
+2024D458 0000000A
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2023F7B0 00000000
+000002DC 83480000
+D2000000 00000000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+2023F7B0 83480000
+00020000 000002DC
+
+// Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+2023F7B0 83480000
+00020001 000002DC
+
+// Infinite Magic
+Author = libretro-database contributors / original PSP cheat authors
+2023F810 00000000
+1000042A 000042BE
+D2000000 00000000
+
+// Infinite Magic v2
+Author = libretro-database contributors / original PSP cheat authors
+2023F810 000042BE
+00020000 1000042A
+
+// Infinite Magic v3
+Author = libretro-database contributors / original PSP cheat authors
+2023F810 000042BE
+00020001 1000042A
+
+// Killer Grenade
+Author = libretro-database contributors / original PSP cheat authors
+0024D458 00000003
+
+// Unlimited Ammo Ptr..
+Author = libretro-database contributors / original PSP cheat authors
+6023F7B0 0000000A
+00000001 00000D28
+
+// Unlimited Health Ptr.
+Author = libretro-database contributors / original PSP cheat authors
+6023F7B0 43480000
+00020001 000002DC

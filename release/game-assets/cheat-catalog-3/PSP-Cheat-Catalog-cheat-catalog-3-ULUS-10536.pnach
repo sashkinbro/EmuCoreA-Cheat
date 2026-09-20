@@ -1,0 +1,33 @@
+# PSP cheat pack
+# Serial: ULUS-10536
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99 Hits (DMA)
+Author = libretro-database contributors / original PSP cheat authors
+602BA7A4 00000063
+00000001 00000FC8
+
+// CPU1 Score (Modifier)
+Author = libretro-database contributors / original PSP cheat authors
+20450A1C 00000000
+
+// CPU2 Score (Modifier)
+Author = libretro-database contributors / original PSP cheat authors
+20450A20 00000000
+
+// CPU3 Score (Modifier)
+Author = libretro-database contributors / original PSP cheat authors
+20450A24 00000000
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+204509E8 FFFFFFFF
+
+// Max Core Energy [On/Off]
+Author = libretro-database contributors / original PSP cheat authors
+217031A4 3B9AC9FF
+20A22A8C 3B9AC9FF
+
+// P1: Score (Modifier)
+Author = libretro-database contributors / original PSP cheat authors
+20450A18 00000000

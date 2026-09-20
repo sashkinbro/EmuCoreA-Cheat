@@ -1,0 +1,31 @@
+# PSP cheat pack
+# Serial: ULJM-05768
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Bonus & Ending Open
+Author = libretro-database contributors / original PSP cheat authors
+01233550 0000007F
+
+// CG All
+Author = libretro-database contributors / original PSP cheat authors
+41217FE0 000B0001
+FFFFFFFF 00000000
+
+// Choice 100%
+Author = libretro-database contributors / original PSP cheat authors
+4122F0E0 00AB0001
+FFFFFFFF 00000000
+
+// Message 100%
+Author = libretro-database contributors / original PSP cheat authors
+41249198 01EC0001
+FFFFFFFF 00000000
+
+// Music All
+Author = libretro-database contributors / original PSP cheat authors
+2122F324 07FFFFFF
+
+// Scene Title 100%
+Author = libretro-database contributors / original PSP cheat authors
+4122F278 00030001
+FFFFFFFF 00000000

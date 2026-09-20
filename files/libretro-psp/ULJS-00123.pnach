@@ -1,0 +1,17 @@
+# PSP cheat pack
+# Serial: ULJS-00123
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CG Music Minigame
+Author = libretro-database contributors / original PSP cheat authors
+401911B8 00060001
+FFFFFFFF 00000000
+
+// Poker Chara. Costume All
+Author = libretro-database contributors / original PSP cheat authors
+20192C2C FFFFFFFF
+10192C30 0000FFFF
+
+// Sagittalius Charac. All
+Author = libretro-database contributors / original PSP cheat authors
+20192C44 FFFFFFFF

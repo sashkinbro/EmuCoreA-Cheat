@@ -1,0 +1,26 @@
+# PSP cheat pack
+# Serial: ULJS-00186
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Block All Clear
+Author = libretro-database contributors / original PSP cheat authors
+E01F1E9C E0230001
+E0000001 E0000000
+
+// Omake Zenkai
+Author = libretro-database contributors / original PSP cheat authors
+E01F1D7C E0440001
+E1010101 E0000000
+E01F1E8C E0000101
+E01F1E8E E0000001
+E01F1D7B E0000001
+
+// Trump High Score Max
+Author = libretro-database contributors / original PSP cheat authors
+E01F1E94 E000270F
+
+// Unlock All Cheats (Enable In Game)
+Author = libretro-database contributors / original PSP cheat authors
+20A92F77 000000FF
+20A92F78 000000FF
+20A92A9A 000000FF

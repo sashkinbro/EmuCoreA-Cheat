@@ -1,0 +1,294 @@
+# PSP cheat pack
+# Serial: ULUS-10136
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 90 GX Medals
+Author = libretro-database contributors / original PSP cheat authors
+00275F2C 0000005A
+
+// 99 GX Medals
+Author = libretro-database contributors / original PSP cheat authors
+00275F2C 00000063
+
+// 99999999 DP
+Author = libretro-database contributors / original PSP cheat authors
+20266BEC 05F5E0FF
+
+// 99x Every Card & Remove Ban
+Author = libretro-database contributors / original PSP cheat authors
+402680F4 09AF0001
+00036304 00000000
+
+// Auto Increment DP.
+Author = libretro-database contributors / original PSP cheat authors
+20005148 0A200400
+20001030 3C0808A6
+20001034 8D096BEC
+20001038 240A7FFF
+2000103C 012A5820
+20001040 AD0B6BEC
+20001044 03E00008
+
+// Black Luster Soldier - Envoy Of The Beginning
+Author = libretro-database contributors / original PSP cheat authors
+00269A9D 00000303
+
+// Decrease DP.
+Author = libretro-database contributors / original PSP cheat authors
+20005148 0A200400
+20001030 3C0808A6
+20001034 8D096BEC
+20001038 240AFFFF
+2000103C 012A5820
+20001040 AD0B6BEC
+20001044 03E00008
+
+// DP 60000 (For Jinzo)
+Author = libretro-database contributors / original PSP cheat authors
+20266BEC 0000EA60
+
+// Duelist Level 99
+Author = libretro-database contributors / original PSP cheat authors
+20266BE8 00E3C0FB
+
+// Enemy's Life Points 0
+Author = libretro-database contributors / original PSP cheat authors
+01778A08 00000000
+
+// Friend Ship Point Max: Alexis
+Author = libretro-database contributors / original PSP cheat authors
+00266C67 00000020
+
+// Friend Ship Point Max: Chazz
+Author = libretro-database contributors / original PSP cheat authors
+00266C79 00000020
+
+// Friend Ship Point Max: Chumley
+Author = libretro-database contributors / original PSP cheat authors
+00266C55 00000020
+
+// Friend Ship Point Max: Jaden
+Author = libretro-database contributors / original PSP cheat authors
+00266C31 00000020
+
+// Friend Ship Point Max: Misawa
+Author = libretro-database contributors / original PSP cheat authors
+00266C8B 00000020
+
+// Friend Ship Point Max: Strus
+Author = libretro-database contributors / original PSP cheat authors
+00266C43 00000020
+
+// Friend Ship Point Max: Zane
+Author = libretro-database contributors / original PSP cheat authors
+00266C9D 00000020
+
+// Golden Egg
+Author = libretro-database contributors / original PSP cheat authors
+00276050 0000000B
+
+// Inf. Duel Points
+Author = libretro-database contributors / original PSP cheat authors
+20266BEC 7FFFFFFF
+
+// Inf. Duel Points (Money)
+Author = libretro-database contributors / original PSP cheat authors
+00266BEC 77359400
+
+// Inf. Duel Points Sub
+Author = libretro-database contributors / original PSP cheat authors
+20005148 0A200400
+20001000 3C0808A6
+20001004 3C090001
+20001008 2529869F
+2000100C AD096BEC
+20001010 03E00008
+
+// Inf. Exp Sub
+Author = libretro-database contributors / original PSP cheat authors
+20005148 0A200400
+20001000 3C0808A7
+20001004 3C097FFF
+20001008 2529FFFF
+2000100C AD096BE8
+20001010 03E00008
+
+// Inf. Life Points
+Author = libretro-database contributors / original PSP cheat authors
+2165E56C 0001869F
+
+// Inf. Life Points v2
+Author = libretro-database contributors / original PSP cheat authors
+20005148 0A200400
+20001000 3C0809E6
+20001004 3C090001
+20001008 2529869F
+2000100C AD09E56C
+20001010 03E00008
+
+// Infinite DP
+Author = libretro-database contributors / original PSP cheat authors
+20266BEC 3B9ACA00
+
+// Infinite LP (Better)
+Author = libretro-database contributors / original PSP cheat authors
+20005148 0A200400
+20001000 3C0809E6
+20001004 3C099999
+20001008 25299999
+2000100C AD09E56C
+20001010 3C0A09F8
+20001014 3C0B9999
+20001018 25249999
+2000101C AD0A7A5C
+20001020 03E00008
+
+// Infinite Life Points (8000)
+Author = libretro-database contributors / original PSP cheat authors
+2165E56C 00001F40
+21777A5C 00001F40
+
+// Instant Victory
+Author = libretro-database contributors / original PSP cheat authors
+20005148 0A200400
+20001000 3C0808A7
+20001004 3C090000
+20001008 25290539
+2000100C AD097A3C
+20001010 3C0808A7
+20001014 3C090000
+20001018 25290539
+2000101C AD097A40
+20001020 3C0808A8
+20001024 3C090000
+20001028 25290539
+2000102C AD096080
+20001030 3C0809E6
+20001034 3C090000
+20001038 25290539
+2000103C AD09E56C
+20001040 3C0809FE
+20001044 3C090000
+20001048 25290539
+2000104C AD097A5C
+20001050 3C0808A7
+20001054 3C090000
+20001058 25290539
+2000105C AD096BE8
+20001060 3C080966
+20001064 3C090000
+20001068 25290000
+2000106C AD09E574
+20001070 3C0809F8
+20001074 3C090000
+20001078 25290000
+2000107C AD098A08
+20001080 03E00008
+
+// Instant Victory v2
+Author = libretro-database contributors / original PSP cheat authors
+20005148 0A200400
+20001000 3C080966
+20001004 3C090000
+20001008 25290000
+2000100C AD09E574
+20001010 3C0A09F8
+20001014 3C0B0000
+20001018 254A0000
+2000101C AD0A8A08
+20001020 03E00008
+
+// Lost Duels
+Author = libretro-database contributors / original PSP cheat authors
+20267A40 00000000
+
+// LP 5730 (Get Your Bonus Konami)
+Author = libretro-database contributors / original PSP cheat authors
+21656564 00001662
+2165656C 00001662
+2176FA5C 00001662
+
+// Maximum Stats
+Author = libretro-database contributors / original PSP cheat authors
+20005148 0A200400
+20001000 3C0808A7
+20001004 3C090000
+20001008 25290000
+2000100C AD097A40
+20001010 3C0A08A7
+20001014 3C0B9999
+20001018 254A9999
+2000101C AD0A7A3C
+20001020 3C0C08A6
+20001024 3C0D9999
+20001028 258B9999
+2000102C AD0B6BE8
+20001030 03E00008
+
+// Opponent Has 0 Life Points
+Author = libretro-database contributors / original PSP cheat authors
+1165E568 00000000
+1165E570 00000000
+11778A08 00000000
+
+// Opponent Runs Out Of Cards
+Author = libretro-database contributors / original PSP cheat authors
+11778A18 00000000
+
+// Remover Ban List
+Author = libretro-database contributors / original PSP cheat authors
+E0019042 0003F95A
+2003F958 24020003
+
+// Remover Ban List [Deactivate]
+Author = libretro-database contributors / original PSP cheat authors
+E0012402 0003F95A
+2003F958 90420002
+
+// Toute Les Cartes x7
+Author = libretro-database contributors / original PSP cheat authors
+80266978 03FD0002
+10000704 00000000
+80267970 00250002
+80267A08 00B90002
+80267CF8 004E0002
+80267E40 00530002
+80267F94 00340002
+80268070 002F0002
+80268130 002D0002
+
+// Toutes Les Cartes 7x v2
+Author = libretro-database contributors / original PSP cheat authors
+802681F0 00A70002
+10000704 00000000
+80268494 00C40002
+802687B0 007B0002
+802689A4 009C0002
+80268C18 004D0002
+80268D50 00290002
+80268DFC 008E0002
+102687A8 00000704
+
+// Unlock All Card
+Author = libretro-database contributors / original PSP cheat authors
+E0019042 009BC116
+209BC114 34020002
+
+// Unlock All Cards x3
+Author = libretro-database contributors / original PSP cheat authors
+E0019042 0003F3CA
+2003F3C8 34020003
+E0013402 0003F3CA
+
+// Unlock All Cards x3 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0013402 0003F3CA
+2003F3C8 90420001
+
+// Won Duels
+Author = libretro-database contributors / original PSP cheat authors
+20267A3C 7FFFFFFF
+
+// You Have 0 Cards (Instant Lose)
+Author = libretro-database contributors / original PSP cheat authors
+01777A6C 00000000

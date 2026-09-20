@@ -1,0 +1,116 @@
+# PSP cheat pack
+# Serial: ULJS-00322
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Ace 9999
+Author = libretro-database contributors / original PSP cheat authors
+10351624 0000270F
+
+// Ace P 999999
+Author = libretro-database contributors / original PSP cheat authors
+20351C34 000F423F
+
+// Ace Point Acquisition
+Author = libretro-database contributors / original PSP cheat authors
+2035113C 0098967F
+
+// Ace Points Won Max
+Author = libretro-database contributors / original PSP cheat authors
+20351D60 0098967F
+
+// Bullet Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+10071F74 00000000
+
+// Cip 50
+Author = libretro-database contributors / original PSP cheat authors
+80351D6F 00050001
+00000032 00000000
+80351D78 00070001
+80351D82 00030001
+80351D8D 00130001
+
+// Combination Attack Max Max Damage
+Author = libretro-database contributors / original PSP cheat authors
+20351D68 000F423F
+
+// Combination Attack Max Trigger Count
+Author = libretro-database contributors / original PSP cheat authors
+10351D6C 0000270F
+
+// Custom Ace 9999
+Author = libretro-database contributors / original PSP cheat authors
+10351624 0000270F
+
+// Custom Action
+Author = libretro-database contributors / original PSP cheat authors
+80351DB0 0000D001
+000000FF 00000000
+00351DBD 00000005
+
+// Damage
+Author = libretro-database contributors / original PSP cheat authors
+203512BC 00000000
+
+// HP 9999
+Author = libretro-database contributors / original PSP cheat authors
+2061E354 0000270F
+
+// LR De Combination Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000300
+2094A4F4 453B8000
+
+// Max Armor [9999]
+Author = libretro-database contributors / original PSP cheat authors
+2061E354 0000270F
+
+// Max Credits
+Author = libretro-database contributors / original PSP cheat authors
+20351C34 3B9ACA00
+
+// Max Number Of Chips Won
+Author = libretro-database contributors / original PSP cheat authors
+20351D64 0001869F
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+20356F34 000F423F
+20C9D08C 000F423F
+
+// Money 2
+Author = libretro-database contributors / original PSP cheat authors
+2035C234 000F423F
+20C9D08C 000F423F
+
+// Normal 0
+Author = libretro-database contributors / original PSP cheat authors
+1035161E 00000000
+
+// Rookie 0
+Author = libretro-database contributors / original PSP cheat authors
+1035161C 00000000
+
+// Veteran 0
+Author = libretro-database contributors / original PSP cheat authors
+10351622 00000000
+
+// Weapon Type 1 (Gundam XSEi)
+Author = libretro-database contributors / original PSP cheat authors
+1103675E 00000009
+
+// Weapon Type 1 (Gundam XSEi) v2
+Author = libretro-database contributors / original PSP cheat authors
+1103672E 000001B8
+
+// Weapon Type 2 (Gundam XSEi)
+Author = libretro-database contributors / original PSP cheat authors
+1103684E 0000000A
+
+// Weapon Type 3 (Gundam XSEi)
+Author = libretro-database contributors / original PSP cheat authors
+110367BE 0000000F
+
+// Weapon Type 3 (Gundam XSEi) v2
+Author = libretro-database contributors / original PSP cheat authors
+1103678E 000000F0

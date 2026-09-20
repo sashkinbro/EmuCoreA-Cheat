@@ -1,0 +1,20 @@
+# PSP cheat pack
+# Serial: ULUS-10217
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Puzzle Fighter - Drop Piece To Clear Board : X
+Author = libretro-database contributors / original PSP cheat authors
+200BBB4C 00801021
+200BBA2C 34030002
+
+// Puzzle Fighter - Drop Piece To Clear Board : Y
+Author = libretro-database contributors / original PSP cheat authors
+200D541C 24030001
+
+// Super Buster - Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+20129AA0 10000118
+
+// Super Buster - Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+20124AEC 1000FFF5

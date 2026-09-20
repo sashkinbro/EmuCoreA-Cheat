@@ -1,0 +1,59 @@
+# PSP cheat pack
+# Serial: ULUS-10033
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Player 1: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+6043F6A0 42C80000
+00020001 000002E4
+00020001 000002F4
+
+// Player 1: Infinite Rage
+Author = libretro-database contributors / original PSP cheat authors
+6043F6A0 42C80000
+00020001 000002EC
+
+// Player 2: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+6043F6A8 42C80000
+00020001 000002E4
+00020001 000002F4
+
+// Player 2: Infinite Rage
+Author = libretro-database contributors / original PSP cheat authors
+6043F6A8 42C80000
+00020001 000002EC
+
+// Player 2: No Rage
+Author = libretro-database contributors / original PSP cheat authors
+6043F6A8 00000000
+00020001 000002EC
+
+// Player 2: One Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+6043F6A8 00000000
+00020001 000002E4
+
+// Speed Mod: Hyper Mode
+Author = libretro-database contributors / original PSP cheat authors
+10161C74 00004000
+
+// Speed Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+10161C74 00003F80
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+10161C74 00003F00
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+10161C74 00003F80
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+10161C74 00003E80
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+10161C74 00003E00

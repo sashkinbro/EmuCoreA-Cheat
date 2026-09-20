@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: ULJM-05847
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CG & Movie
+Author = libretro-database contributors / original PSP cheat authors
+8047CB4C 00A60001
+00000001 00000000
+0047CF35 00000001
+
+// Kokoroboe & Profile
+Author = libretro-database contributors / original PSP cheat authors
+8046ED30 02900001
+00000001 00000000
+0047CF74 00000001

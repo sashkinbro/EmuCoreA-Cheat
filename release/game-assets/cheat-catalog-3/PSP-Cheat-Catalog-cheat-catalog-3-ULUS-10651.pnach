@@ -1,0 +1,73 @@
+# PSP cheat pack
+# Serial: ULUS-10651
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 9999 Kills
+Author = libretro-database contributors / original PSP cheat authors
+1028BE28 0000270F
+
+// All Jewelry
+Author = libretro-database contributors / original PSP cheat authors
+8028EDF8 00480001
+00000063 00000000
+
+// All Materials
+Author = libretro-database contributors / original PSP cheat authors
+8028EE40 00400001
+00000063 00000000
+
+// Atk. 999
+Author = libretro-database contributors / original PSP cheat authors
+60C4CBE8 0000270F
+00010001 000000FA
+
+// Combo 999
+Author = libretro-database contributors / original PSP cheat authors
+1028BE18 000003E7
+
+// Def. 999
+Author = libretro-database contributors / original PSP cheat authors
+60C4CBE8 0000270F
+00010001 000000FC
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+60C4CBE8 0000270F
+00010001 000000EC
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+2028C730 05F5E0FF
+
+// Inf. Sakura Dance
+Author = libretro-database contributors / original PSP cheat authors
+60C4CBE8 00000708
+00010001 000000F4
+
+// Max Exp. After Battle
+Author = libretro-database contributors / original PSP cheat authors
+2028BE34 05F5E0FF
+2028BE38 05F5E0FF
+
+// Move Faster [Hold L]
+Author = libretro-database contributors / original PSP cheat authors
+60C4CBE8 00000000
+00000001 0000011D
+D0000001 10000100
+60C4CBE8 00000001
+
+// Super Jump [L+X]
+Author = libretro-database contributors / original PSP cheat authors
+60C4CBE8 00000000
+00000001 0000011F
+D0000001 10004100
+60C4CBE8 00000002
+
+// Unlock All Characters
+Author = libretro-database contributors / original PSP cheat authors
+8028BF86 00030004
+00000001 00000000
+
+// Unlock Demon Difficulty
+Author = libretro-database contributors / original PSP cheat authors
+0028BF90 00000001

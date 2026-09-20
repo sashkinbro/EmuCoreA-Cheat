@@ -1,0 +1,50 @@
+# PSP cheat pack
+# Serial: ULJS-00137
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Backpack Infinite
+Author = libretro-database contributors / original PSP cheat authors
+20210774 00000008
+
+// Debug Menu (Press Select)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000001
+0020D9A2 00000001
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20210774 00000063
+
+// Jump Slowly
+Author = libretro-database contributors / original PSP cheat authors
+2020DA68 00000000
+
+// Max Lives
+Author = libretro-database contributors / original PSP cheat authors
+20210774 00000009
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+20210770 3B9AC9FF
+
+// Prevented From Jumping
+Author = libretro-database contributors / original PSP cheat authors
+2020DA50 00000001
+2020DA68 00000000
+
+// Remaining Time Max
+Author = libretro-database contributors / original PSP cheat authors
+20210764 00000000
+
+// Run Fast & Walk On Air Slowly
+Author = libretro-database contributors / original PSP cheat authors
+2020DA68 00000003
+2020DA50 00000010
+
+// Score 0
+Author = libretro-database contributors / original PSP cheat authors
+20210770 00000000
+
+// Slide
+Author = libretro-database contributors / original PSP cheat authors
+2020DAE4 00000000

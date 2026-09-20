@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: ULUS-10232
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 35 Character Creation Stat Points
+Author = libretro-database contributors / original PSP cheat authors
+00A36C80 00000023
+
+// 999999 Gold
+Author = libretro-database contributors / original PSP cheat authors
+208F71D4 000F423F
+
+// Always Show Level Up Options
+Author = libretro-database contributors / original PSP cheat authors
+201143E4 00000000
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+208F71D4 05F5E0FF
+
+// Unlimited Feat Points In Char. Creation
+Author = libretro-database contributors / original PSP cheat authors
+00A36C88 00000001

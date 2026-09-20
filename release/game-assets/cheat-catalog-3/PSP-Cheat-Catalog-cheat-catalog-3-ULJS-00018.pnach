@@ -1,0 +1,39 @@
+# PSP cheat pack
+# Serial: ULJS-00018
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Item 99
+Author = libretro-database contributors / original PSP cheat authors
+6073FEA0 00000063
+00000006 00002266
+90000004 00000000
+
+// HP Max
+Author = libretro-database contributors / original PSP cheat authors
+20740184 42C80000
+20DB2D60 42C80000
+
+// Item 1: 99 Load Kinshi
+Author = libretro-database contributors / original PSP cheat authors
+208F6A68 00000063
+
+// Item 2: 99 Load Kinshi
+Author = libretro-database contributors / original PSP cheat authors
+208F6A6C 00000063
+
+// Item 3: 99 Load Kinshi
+Author = libretro-database contributors / original PSP cheat authors
+208F6A70 00000063
+
+// Item 4: 99 Load Kinshi
+Author = libretro-database contributors / original PSP cheat authors
+208F6A74 00000063
+
+// Item 5: 99 Load Kinshi
+Author = libretro-database contributors / original PSP cheat authors
+208F6A78 00000063
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+20740184 42C80000
+205B2D60 48C80000

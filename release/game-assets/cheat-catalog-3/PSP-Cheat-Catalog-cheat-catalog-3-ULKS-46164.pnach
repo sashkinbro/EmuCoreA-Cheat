@@ -1,0 +1,182 @@
+# PSP cheat pack
+# Serial: ULKS-46164
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Club
+Author = libretro-database contributors / original PSP cheat authors
+80CEEF58 00160008
+00000001 00000000
+
+// All Nuri Coat
+Author = libretro-database contributors / original PSP cheat authors
+40CE55B0 00080001
+08000800 00000001
+40CE55D0 00020001
+0800080A 00000003
+40CE55D8 00020001
+0800080F 00000004
+40CE55E0 00030001
+08000816 00000001
+40CE55EC 00020001
+0800081A 00000004
+40CE55F4 00030001
+08000820 00000002
+20CE5600 08000825
+40CE5604 00030001
+08008800 00000001
+40CE5610 00030001
+08008805 00000001
+40CE561C 00120001
+3C000001 00000001
+
+// All Nuri Pants
+Author = libretro-database contributors / original PSP cheat authors
+40CE51B0 00130001
+0800A000 00000001
+20CE51FC 0800A015
+40CE5200 00050001
+0800A017 00000001
+
+// All Nuri Shirt
+Author = libretro-database contributors / original PSP cheat authors
+40CE4FB0 001A0001
+08006000 00000001
+40CE5018 00020001
+0800601B 00000001
+40CE5020 00030001
+0800601E 00000001
+40CE502C 00060001
+08006022 00000001
+
+// All Nuri Shoes
+Author = libretro-database contributors / original PSP cheat authors
+40CE53B0 000B0001
+08010000 00000001
+40CE53DC 00040001
+0801000C 00000001
+40CE53EC 00040001
+08010013 00000001
+40CE53FC 00050001
+08010018 00000001
+
+// All Ring
+Author = libretro-database contributors / original PSP cheat authors
+80CEF098 00120008
+00000001 00000000
+
+// Always New Gambling (Bongdari)
+Author = libretro-database contributors / original PSP cheat authors
+00CF1546 00000001
+00CF1545 00000001
+
+// Aztec 999+
+Author = libretro-database contributors / original PSP cheat authors
+80CEF010 000C0006
+100003E7 00000000
+80CEF016 000C000C
+80CEF014 000C000C
+00000001 00000000
+
+// Club Pointss
+Author = libretro-database contributors / original PSP cheat authors
+80CF1310 00030014
+1000012C 00000064
+10CF1388 000001F4
+80CF13B0 00030014
+10000320 00000000
+10CF1428 000003E8
+10CF1450 000003E8
+
+// Dual Potion (Red+Green)
+Author = libretro-database contributors / original PSP cheat authors
+20CEF838 00000063
+
+// Exp. 9999999
+Author = libretro-database contributors / original PSP cheat authors
+20CE4F40 00098967
+
+// Item 999+
+Author = libretro-database contributors / original PSP cheat authors
+80CEF7C0 000E0006
+100003E7 00000000
+
+// Items In Bongdari
+Author = libretro-database contributors / original PSP cheat authors
+20CEF860 00000000
+20CEF864 00000000
+20CEF868 00000000
+20CEF86C 00000000
+20CEF870 00000000
+20CEF874 00000000
+20CEF878 00000000
+20CEF87C 00000000
+20CEF880 00000000
+20CEF884 00000000
+
+// Exp.
+Author = libretro-database contributors / original PSP cheat authors
+10CE4F40 00002000
+
+// License Exp.
+Author = libretro-database contributors / original PSP cheat authors
+10CF1310 000007D0
+10CF1338 000007D0
+10CF1360 000007D0
+10CF1388 000007D0
+10CF13B0 000007D0
+10CF1308 000007D0
+10CF1400 000007D0
+10CF1428 000007D0
+10CF1450 000007D0
+
+// New Cheat 1
+Author = libretro-database contributors / original PSP cheat authors
+00FE5748 00000004
+
+// New Cheat 1.1
+Author = libretro-database contributors / original PSP cheat authors
+003B8F24 00000000
+
+// New Cheat 1.2
+Author = libretro-database contributors / original PSP cheat authors
+003B8F25 00000000
+
+// New Cheat 2
+Author = libretro-database contributors / original PSP cheat authors
+00FE5A10 00000002
+
+// New Cheat 2.1
+Author = libretro-database contributors / original PSP cheat authors
+00FE5A10 00000004
+
+// New Cheat 2.2
+Author = libretro-database contributors / original PSP cheat authors
+003B8F49 00000000
+
+// New Cheat 4
+Author = libretro-database contributors / original PSP cheat authors
+00FE5A10 00000004
+
+// Pang 90K
+Author = libretro-database contributors / original PSP cheat authors
+20C92F48 000DBBA0
+
+// 99,999,999 Pang
+Author = libretro-database contributors / original PSP cheat authors
+20C92F48 05F5E0FF
+
+// Pang 9999999
+Author = libretro-database contributors / original PSP cheat authors
+20C92F48 0098967F
+
+// Stamina Supplements
+Author = libretro-database contributors / original PSP cheat authors
+20CEF85C 00000063
+
+// Stat Fulll
+Author = libretro-database contributors / original PSP cheat authors
+00CF2D44 00000028
+00CF2D48 0000001E
+00CF2D4C 0000001E
+00CF2D50 0000001E
+00CF2D54 0000001E

@@ -1,0 +1,22 @@
+# PSP cheat pack
+# Serial: ULUS-10327
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1,000,000 Honor Points
+Author = libretro-database contributors / original PSP cheat authors
+203A6FEC 000F4240
+
+// Infinite Battery
+Author = libretro-database contributors / original PSP cheat authors
+603A76B8 000000C8
+00000001 00000192
+00000001 00000196
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+603A76B8 43960000
+00020001 000002A8
+
+// Max Honour Points
+Author = libretro-database contributors / original PSP cheat authors
+203A6FEC 000F423F

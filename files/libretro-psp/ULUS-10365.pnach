@@ -1,0 +1,227 @@
+# PSP cheat pack
+# Serial: ULUS-10365
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Handheld Screen (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+204A4CD8 3F266666
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+204A4CD8 3F0CCCCD
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+204A4CD8 3E8CCCCD
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+204A4CD8 3ECA3D71
+
+// 2,000,000,000 Gold
+Author = libretro-database contributors / original PSP cheat authors
+203C5F18 77359400
+203C5880 77359400
+
+// AI Size Mod: Gigantic
+Author = libretro-database contributors / original PSP cheat authors
+200356D0 3C044040
+
+// AI Size Mod: Larger
+Author = libretro-database contributors / original PSP cheat authors
+200356D0 3C044000
+
+// AI Size Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+200356D0 3C043F80
+
+// AI Size Mod: Small
+Author = libretro-database contributors / original PSP cheat authors
+200356D0 3C043F40
+
+// AI Size Mod: Tiny
+Author = libretro-database contributors / original PSP cheat authors
+200356D0 3C043F00
+
+// All 10 Artifacts Pieces
+Author = libretro-database contributors / original PSP cheat authors
+003C5C18 0000000A
+017FE090 0000000A
+003C5C1C 0000000A
+
+// Animation Mod
+Author = libretro-database contributors / original PSP cheat authors
+005B275C 00000001
+
+// Enable FPS Counter
+Author = libretro-database contributors / original PSP cheat authors
+203437C8 00000001
+
+// Have All 10 Artifacts Pieces
+Author = libretro-database contributors / original PSP cheat authors
+003C5C18 0000000A
+017FE090 0000000A
+003C5C1C 0000000A
+
+// Inf. Health Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+105B3C62 00000004
+
+// Inf. Health Slot 2
+Author = libretro-database contributors / original PSP cheat authors
+005B5233 00000004
+
+// Inf. Health Slot 3
+Author = libretro-database contributors / original PSP cheat authors
+005B657C 00000004
+
+// Inf. Health Slot 4
+Author = libretro-database contributors / original PSP cheat authors
+005B6803 00000004
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+005B3C63 00000004
+
+// Infinite Studs
+Author = libretro-database contributors / original PSP cheat authors
+203C5F18 000F423F
+
+// Infinite Total Studs
+Author = libretro-database contributors / original PSP cheat authors
+203C5880 000F423F
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2030F6EC 00000001
+
+// Invisibilty [(P1) & (P2) Chars Only]
+Author = libretro-database contributors / original PSP cheat authors
+00350048 6B6B0000
+0035004C 6E756F68
+000110D4 0E2D4010
+00350050 3C0808DB
+00350054 3C096F04
+00350058 25294476
+0035005C AD093C58
+00350060 3C0808DB
+00350064 3C091705
+00350068 25299384
+0035006C AD095228
+00350070 03E00008
+00350074 0E285C58
+
+// Max Points+Inf. Health [(P1) & (P2) Chars Only]
+Author = libretro-database contributors / original PSP cheat authors
+0034FFF8 6B6B0000
+0034FFFC 6E756F68
+000063BC 0E2D4000
+00350000 3C0808BC
+00350004 3C09FFFF
+00350008 2529FFFF
+0035000C AD095F18
+00350010 3C0808DB
+00350014 3C090808
+00350018 25290000
+0035001C AD093C60
+00350020 3C0808DB
+00350024 3C090808
+00350028 25290000
+0035002C AD095230
+00350030 3C0808BC
+00350034 3C09FFFF
+00350038 2529FFFF
+0035003C AD095880
+00350040 03E00008
+00350044 0E2B55A0
+
+// Max Studs
+Author = libretro-database contributors / original PSP cheat authors
+203C5880 05F5E0FF
+203C5F18 05F5E0FF
+
+// Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+203614A8 FFBF0040
+2009D4CC 00000000
+2032F8E4 00000000
+0000006C 3F000000
+D2000000 00000000
+
+// Moonjump v2
+Author = libretro-database contributors / original PSP cheat authors
+203614A8 FFBF0040
+2009D4CC 00000000
+2032F8E4 3F000000
+00020000 0000006C
+
+// Moonjump v3
+Author = libretro-database contributors / original PSP cheat authors
+203614A8 FFBF0040
+2009D4CC 00000000
+2032F8E4 3F000000
+00020001 0000006C
+
+// Moonjump (Quicker)
+Author = libretro-database contributors / original PSP cheat authors
+203614A8 FFBF0040
+2009D4CC 00000000
+2032F8E4 00000000
+0000006C 3F400000
+D2000000 00000000
+
+// Moonjump (Quicker) v2
+Author = libretro-database contributors / original PSP cheat authors
+203614A8 FFBF0040
+2009D4CC 00000000
+2032F8E4 3F400000
+00020000 0000006C
+
+// Moonjump (Quicker) v33
+Author = libretro-database contributors / original PSP cheat authors
+203614A8 FFBF0040
+2009D4CC 00000000
+2032F8E4 3F400000
+00020001 0000006C
+
+// Player Size Mod: Gigantic
+Author = libretro-database contributors / original PSP cheat authors
+200359B4 3C044040
+
+// Player Size Mod: Larger
+Author = libretro-database contributors / original PSP cheat authors
+200359B4 3C044000
+
+// Player Size Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+200359B4 3C043F80
+
+// Player Size Mod: Small
+Author = libretro-database contributors / original PSP cheat authors
+200359B4 3C043F40
+
+// Player Size Mod: Tiny
+Author = libretro-database contributors / original PSP cheat authors
+200359B4 3C043F00
+
+// Point Modifier
+Author = libretro-database contributors / original PSP cheat authors
+103C5F18 00000000
+
+// Quick Cash In Mission
+Author = libretro-database contributors / original PSP cheat authors
+103C5F18 7FFFFFFF
+
+// Unlock All Extras
+Author = libretro-database contributors / original PSP cheat authors
+203C586C FFFFFFFF
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000013
+203C5384 01010101
+203C5388 01010AFF
+203C538C 00000001
+203C5390 44160000
+DC000000 00000010
+D2000000 00000000

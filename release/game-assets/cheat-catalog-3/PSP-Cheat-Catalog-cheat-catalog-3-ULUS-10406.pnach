@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: ULUS-10406
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99999 SC
+Author = libretro-database contributors / original PSP cheat authors
+2046B358 0001869F
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2008ECB4 00000000
+
+// Infinite Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+20057B48 00000000

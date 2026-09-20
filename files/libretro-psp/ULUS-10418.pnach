@@ -1,0 +1,315 @@
+# PSP cheat pack
+# Serial: ULUS-10418
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 100% All Instruments
+Author = libretro-database contributors / original PSP cheat authors
+006FE768 00000064
+006FE76C 00000064
+006FE770 00000064
+006FE774 00000064
+
+// 100 Percent All Instruments [Hz. 15]
+Author = libretro-database contributors / original PSP cheat authors
+006FE770 00000064
+006FE768 00000064
+006FE774 00000064
+006FE76C 00000064
+
+// 999,999 Points In Austin
+Author = libretro-database contributors / original PSP cheat authors
+20981BC8 0098967F
+
+// 999,999 Points In Boston
+Author = libretro-database contributors / original PSP cheat authors
+2098EAF8 0098967F
+
+// 999,999 Points In Chicago
+Author = libretro-database contributors / original PSP cheat authors
+20998598 0098967F
+
+// 999,999 Points In Montreal
+Author = libretro-database contributors / original PSP cheat authors
+2098A458 0098967F
+
+// 999,999 Points In New York
+Author = libretro-database contributors / original PSP cheat authors
+20980C98 0098967F
+
+// 999,999 Points In San Francisco
+Author = libretro-database contributors / original PSP cheat authors
+20990458 0098967F
+
+// 999,999 Points In Seattle
+Author = libretro-database contributors / original PSP cheat authors
+20997C38 0098967F
+
+// 1,000,000 Money
+Author = libretro-database contributors / original PSP cheat authors
+213C25CC 00989680
+
+// 2,000,000 Points [Hz. 15]
+Author = libretro-database contributors / original PSP cheat authors
+0098EAF8 77359400
+
+// 9,999,999 Score
+Author = libretro-database contributors / original PSP cheat authors
+20983178 0098967F
+
+// 999,999,999 Fans
+Author = libretro-database contributors / original PSP cheat authors
+213C25C8 3B9AC9FF
+
+// Bar One Hight Modder
+Author = libretro-database contributors / original PSP cheat authors
+0098FF80 4E4CCCCD
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+013C25CC 3B9AC9FF
+
+// Infinite Crowd Meter
+Author = libretro-database contributors / original PSP cheat authors
+201151A0 3C0A3F80
+201151AC 448A0800
+201151B0 AF0A00D0
+
+// Infinite Energy Meter
+Author = libretro-database contributors / original PSP cheat authors
+20002000 10400003
+20002004 3C0F3F80
+20002008 448F0000
+2000200C AC4F0694
+20002010 03E00008
+20092E74 0A200800
+
+// Infinite Failures
+Author = libretro-database contributors / original PSP cheat authors
+6000CD2C 00000000
+B000CD2C 00000000
+20000690 00000000
+D2000000 00000000
+
+// Infinite Failures v2
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 00000000
+00020000 20000690
+
+// Infinite Failures v3
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 00000000
+00020001 20000690
+
+// Infinite Overdrive
+Author = libretro-database contributors / original PSP cheat authors
+6000CD2C 00000000
+B000CD2C 00000000
+00000694 3F80AA9D
+D2000000 00000000
+
+// Infinite Overdrive v2
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3F80AA9D
+00020000 00000694
+
+// Infinite Overdrive v3
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3F80AA9D
+00020001 00000694
+
+// Max/Infinite Cash
+Author = libretro-database contributors / original PSP cheat authors
+6000CD2C 00000000
+B000CD2C 00000000
+00A2A6BC 3B9AC9FF
+D2000000 00000000
+
+// Max/Infinite Cash v2
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3B9AC9FF
+00020000 00A2A6BC
+
+// Max/Infinite Cash v3
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3B9AC9FF
+00020001 00A2A6BC
+
+// Max Fans
+Author = libretro-database contributors / original PSP cheat authors
+6000CD2C 00000000
+B000CD2C 00000000
+00A2A6B8 3B9AC9FF
+D2000000 00000000
+
+// Max Fans v2
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3B9AC9FF
+00020000 00A2A6B8
+
+// Max Fans v3
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3B9AC9FF
+00020001 00A2A6B8
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+213C25CC 77359400
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+20983178 77359400
+
+// Max Score v2
+Author = libretro-database contributors / original PSP cheat authors
+00990458 3B9AC9FF
+
+// Max Score/5 Gold Stars
+Author = libretro-database contributors / original PSP cheat authors
+6000CD2C 00000000
+B000CD2C 00000000
+00000688 3B9AC9FF
+D2000000 00000000
+
+// Max Score/5 Gold Stars v2
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3B9AC9FF
+00020000 00000688
+
+// Max Score/5 Gold Stars v3
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3B9AC9FF
+00020001 00000688
+
+// Never Fail: Bass
+Author = libretro-database contributors / original PSP cheat authors
+6000CD2C 00000000
+B000CD2C 00000000
+00000330 3F800000
+D2000000 00000000
+
+// Never Fail: Bass v2
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3F800000
+00020000 00000330
+
+// Never Fail: Bass v3
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3F800000
+00020001 00000330
+
+// Never Fail: Drums
+Author = libretro-database contributors / original PSP cheat authors
+6000CD2C 00000000
+B000CD2C 00000000
+000000D0 3F800000
+D2000000 00000000
+
+// Never Fail: Drums v2
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3F800000
+00020000 000000D0
+
+// Never Fail: Drums v3
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3F800000
+00020001 000000D0
+
+// Never Fail: Vocals
+Author = libretro-database contributors / original PSP cheat authors
+6000CD2C 00000000
+B000CD2C 00000000
+00000460 3F800000
+D2000000 00000000
+
+// Never Fail: Vocals v2
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3F800000
+00020000 00000460
+
+// Never Fail: Vocals v3
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 3F800000
+00020001 00000460
+
+// No Fail
+Author = libretro-database contributors / original PSP cheat authors
+0098FFD0 4EDC2905
+0098FEA0 4EDC2905
+00990230 4EDC2905
+00990100 4EDC2905
+
+// No Fans Lost [Hz. 15]
+Author = libretro-database contributors / original PSP cheat authors
+006FE794 00000000
+
+// Quick Score Gain
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 00000000
+20000688 000000FF
+D2000000 00000000
+
+// Quick Score Gain v2
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 000000FF
+00020000 00000688
+
+// Quick Score Gain v3
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 000000FF
+00020001 00000688
+
+// Quick Score Gain: Super
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 00000000
+10000688 0000FFFF
+D2000000 00000000
+
+// Quick Score Gain: Super v2
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 0000FFFF
+00020000 00000688
+
+// Quick Score Gain: Super v3
+Author = libretro-database contributors / original PSP cheat authors
+2000CD2C 0000FFFF
+00020000 00000688
+
+// Score Multiplier x1
+Author = libretro-database contributors / original PSP cheat authors
+20002020 3C063F80
+20002024 44862000
+20002028 0A24E6C2
+2000202C ACA6067C
+20139B00 0A200808
+
+// Score Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+20002020 3C064000
+20002024 44862000
+20002028 0A24E6C2
+2000202C ACA6067C
+20139B00 0A200808
+
+// Score Multiplier x3
+Author = libretro-database contributors / original PSP cheat authors
+20002020 3C064040
+20002024 44862000
+20002028 0A24E6C2
+2000202C ACA6067C
+20139B00 0A200808
+
+// Score Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20002020 3C064080
+20002024 44862000
+20002028 0A24E6C2
+2000202C ACA6067C
+20139B00 0A200808
+
+// Score Multiplier x5
+Author = libretro-database contributors / original PSP cheat authors
+20002020 3C0640A0
+20002024 44862000
+20002028 0A24E6C2
+2000202C ACA6067C
+20139B00 0A200808

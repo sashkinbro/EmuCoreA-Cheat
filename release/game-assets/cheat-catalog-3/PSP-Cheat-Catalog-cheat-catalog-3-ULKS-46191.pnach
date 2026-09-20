@@ -1,0 +1,101 @@
+# PSP cheat pack
+# Serial: ULKS-46191
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 4-Week Head Clearance
+Author = libretro-database contributors / original PSP cheat authors
+001A3E4F 0000000C
+101A3E50 000C0C0C
+
+// 9999 Days
+Author = libretro-database contributors / original PSP cheat authors
+101A3E34 0000270F
+
+// All Albums In Ost.
+Author = libretro-database contributors / original PSP cheat authors
+801A3ABC 00120008
+801A3ABD 00120008
+00000001 00000000
+801A3B6C 00120008
+801A3B6D 00120008
+801A3BFC 000E0008
+801A3BFD 00120008
+
+// All Clubs (Special Code)
+Author = libretro-database contributors / original PSP cheat authors
+801A3D24 00190008
+801A3D25 00190008
+00000001 00000000
+
+// All Movies
+Author = libretro-database contributors / original PSP cheat authors
+801A3754 00050008
+801A3755 00050008
+00000001 00000000
+
+// All Pictures
+Author = libretro-database contributors / original PSP cheat authors
+801A377C 00640008
+801A377D 00640008
+00000001 00000000
+
+// Count
+Author = libretro-database contributors / original PSP cheat authors
+101A3522 0000270F
+
+// DJ Rank 1
+Author = libretro-database contributors / original PSP cheat authors
+001A3E38 00000001
+
+// Max Combo
+Author = libretro-database contributors / original PSP cheat authors
+2042B814 000F423F
+2042B818 000F423F
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+201A3E3C 0098967F
+
+// Score 100%
+Author = libretro-database contributors / original PSP cheat authors
+1042B85C 0000270F
+
+// Scores
+Author = libretro-database contributors / original PSP cheat authors
+20429DD0 0098967F
+2042B820 0098967F
+
+// Special All Open Code - Clubs, Pictures, Ost., Movies, etc.
+Author = libretro-database contributors / original PSP cheat authors
+801A360C 00FC0008
+801A360D 00FC0008
+00000001 00000000
+
+// Unlock All Characters
+Author = libretro-database contributors / original PSP cheat authors
+401A3664 001E0002
+
+// Unlock All Effectors
+Author = libretro-database contributors / original PSP cheat authors
+401A3C74 00160002
+
+// Unlock All Gears
+Author = libretro-database contributors / original PSP cheat authors
+401A3604 00060002
+
+// Unlock All Images
+Author = libretro-database contributors / original PSP cheat authors
+401A377C 00640002
+
+// Unlock All Movies
+Author = libretro-database contributors / original PSP cheat authors
+401A3754 00050002
+
+// Unlock All Notes
+Author = libretro-database contributors / original PSP cheat authors
+401A3634 00060002
+
+// Unlimited Time
+Author = libretro-database contributors / original PSP cheat authors
+104293D2 000042C8
+1042B826 000042C8

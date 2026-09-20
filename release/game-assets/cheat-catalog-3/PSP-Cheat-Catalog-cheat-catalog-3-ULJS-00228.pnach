@@ -1,0 +1,49 @@
+# PSP cheat pack
+# Serial: ULJS-00228
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1P Member Exp.100
+Author = libretro-database contributors / original PSP cheat authors
+0140D1A8 00000064
+
+// 1P Member Str.100
+Author = libretro-database contributors / original PSP cheat authors
+0140D1A3 00000064
+
+// 2P Member Exp.100
+Author = libretro-database contributors / original PSP cheat authors
+0140D1E8 00000064
+
+// 2P Member Str.100
+Author = libretro-database contributors / original PSP cheat authors
+0140D1E3 00000064
+
+// 3P Member Exp.100
+Author = libretro-database contributors / original PSP cheat authors
+0140D228 00000064
+
+// 3P Member Str.100
+Author = libretro-database contributors / original PSP cheat authors
+0140D223 00000064
+
+// 4P Member Exp.100
+Author = libretro-database contributors / original PSP cheat authors
+0140D268 00000064
+
+// 4P Member Str.100
+Author = libretro-database contributors / original PSP cheat authors
+0140D263 00000064
+
+// All Item 9
+Author = libretro-database contributors / original PSP cheat authors
+80265ADA 01B60008
+10000009 00000000
+
+// All Member Exp.100
+Author = libretro-database contributors / original PSP cheat authors
+8140D1A8 000B0040
+10000064 00000000
+
+// Coin 9999
+Author = libretro-database contributors / original PSP cheat authors
+1026479C 0000270F

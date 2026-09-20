@@ -1,0 +1,139 @@
+# PSP cheat pack
+# Serial: ULJS-00132
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Food Ticket Max (15)
+Author = libretro-database contributors / original PSP cheat authors
+00244AE2 0000000F
+00244AE3 0000000F
+00244AE4 0000000F
+00244AE5 0000000F
+00244AE6 0000000F
+00244AE7 0000000F
+00244AE8 0000000F
+00244AE9 0000000F
+00244AEA 0000000F
+00244AEB 0000000F
+00244AEC 0000000F
+00244AED 0000000F
+00244AEE 0000000F
+00244AEF 0000000F
+00244AF0 0000000F
+00244AF1 0000000F
+00244AF2 0000000F
+00244AF3 0000000F
+00244AF4 0000000F
+00244AF5 0000000F
+00244AF6 0000000F
+00244AF7 0000000F
+00244AF8 0000000F
+00244AF9 0000000F
+00244AFA 0000000F
+00244AFB 0000000F
+00244AFC 0000000F
+00244AFD 0000000F
+00244AFE 0000000F
+00244AFF 0000000F
+
+// All Foods Max (15)
+Author = libretro-database contributors / original PSP cheat authors
+00244AC4 0000000F
+00244AC5 0000000F
+00244AC6 0000000F
+00244AC7 0000000F
+00244AC8 0000000F
+00244AC9 0000000F
+00244ACA 0000000F
+00244ACB 0000000F
+00244ACC 0000000F
+00244ACD 0000000F
+00244ACE 0000000F
+00244ACF 0000000F
+00244AD0 0000000F
+00244AD1 0000000F
+00244AD2 0000000F
+00244AD3 0000000F
+00244AD4 0000000F
+00244AD5 0000000F
+00244AD6 0000000F
+00244AD7 0000000F
+00244AD8 0000000F
+00244AD9 0000000F
+00244ADA 0000000F
+00244ADB 0000000F
+00244ADC 0000000F
+00244ADD 0000000F
+00244ADE 0000000F
+00244ADF 0000000F
+00244AE0 0000000F
+00244AE1 0000000F
+
+// All Herb Max (15)
+Author = libretro-database contributors / original PSP cheat authors
+80244AAB 00070001
+0000000F 00000000
+
+// All Item Max (15)
+Author = libretro-database contributors / original PSP cheat authors
+80244A9D 00630001
+0000000F 00000000
+
+// All Stone Max (15)
+Author = libretro-database contributors / original PSP cheat authors
+80244AB2 00050001
+0000000F 00000000
+
+// Dead Point
+Author = libretro-database contributors / original PSP cheat authors
+10244C88 00000000
+
+// Enhance Point 200 (8 Bit)
+Author = libretro-database contributors / original PSP cheat authors
+80242908 0078003C
+000000C8 00000000
+
+// Enhance Point 200 (16 Bit)
+Author = libretro-database contributors / original PSP cheat authors
+80242908 0078001E
+100000C8 00000000
+
+// Gald Max
+Author = libretro-database contributors / original PSP cheat authors
+20245224 7FFFFFFF
+
+// Gald Max (9,999,999)
+Author = libretro-database contributors / original PSP cheat authors
+20245224 0098967F
+
+// Grade Point Max (99999.00)
+Author = libretro-database contributors / original PSP cheat authors
+20244C40 0098961C
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+20245224 05F5E0FF
+
+// Max Experience
+Author = libretro-database contributors / original PSP cheat authors
+2030F33C 05F5E0FF
+
+// Money 65000
+Author = libretro-database contributors / original PSP cheat authors
+10245224 0000FDE8
+
+// Now Exp. 0
+Author = libretro-database contributors / original PSP cheat authors
+40241AA0 00060198
+
+// Now Lv.1
+Author = libretro-database contributors / original PSP cheat authors
+80241AA8 00060198
+00000001 00000000
+
+// Shopping Cost (Minus 155%)
+Author = libretro-database contributors / original PSP cheat authors
+00244AB7 000000FF
+
+// Use EP 0
+Author = libretro-database contributors / original PSP cheat authors
+003C0896 00000000

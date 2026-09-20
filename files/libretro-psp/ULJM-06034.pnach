@@ -1,0 +1,12 @@
+# PSP cheat pack
+# Serial: ULJM-06034
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Club Tour Gold Max
+Author = libretro-database contributors / original PSP cheat authors
+201B7F30 0001869F
+
+// Club Tour Season 1 All Open
+Author = libretro-database contributors / original PSP cheat authors
+801B7F54 00400001
+00000004 00000000

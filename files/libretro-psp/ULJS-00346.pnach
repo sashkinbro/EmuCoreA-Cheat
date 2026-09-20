@@ -1,0 +1,48 @@
+# PSP cheat pack
+# Serial: ULJS-00346
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Character Mania Open
+Author = libretro-database contributors / original PSP cheat authors
+81550F44 000C0018
+000000FF 00000000
+81551AA7 00060004
+01551A99 000000FF
+
+// Discrete Graphic
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000B
+21550EC0 0000FFFF
+DC000000 00000002
+D2000000 00000000
+21550EF8 0000FFFF
+
+// Discrete Graphic v2
+Author = libretro-database contributors / original PSP cheat authors
+21550EC0 00000002
+0000FFFF 00000000
+21550EF8 00000002
+
+// Event Graphic Open
+Author = libretro-database contributors / original PSP cheat authors
+81550EC0 000E0004
+000000FF 00000000
+81550EF8 000E0004
+01550EC9 000000FF
+01550ED9 000000FF
+01550EE5 000000FF
+01550EF5 000000FF
+01550F11 000000FF
+01550F2D 000000FF
+
+// Original Graphic Open
+Author = libretro-database contributors / original PSP cheat authors
+01551A90 000000FF
+01551A91 000000FF
+01551A94 000000FF
+01551A95 000000FF
+
+// Sound Open
+Author = libretro-database contributors / original PSP cheat authors
+81551A84 00090001
+000000FF 00000000

@@ -1,0 +1,344 @@
+# PSP cheat pack
+# Serial: ULUS-10393
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99 2D Small Room
+Author = libretro-database contributors / original PSP cheat authors
+104FE5E6 00000063
+
+// 99 4D Small Room
+Author = libretro-database contributors / original PSP cheat authors
+104FE5EA 00000063
+
+// 99 Corner Room
+Author = libretro-database contributors / original PSP cheat authors
+104FE5E8 00000063
+
+// 99 Corridors
+Author = libretro-database contributors / original PSP cheat authors
+104FE5E2 00000063
+
+// 99 Ice Cave Kit
+Author = libretro-database contributors / original PSP cheat authors
+104FE614 00000063
+
+// 99 Volcano Road Kit
+Author = libretro-database contributors / original PSP cheat authors
+104FE612 00000063
+
+// All Armor Material
+Author = libretro-database contributors / original PSP cheat authors
+104FE6EC 000003C0
+104FE6EE 000003C0
+104FE6F0 000003C0
+104FE6F2 000003C0
+104FE6F4 000003C0
+104FE6F6 000003C0
+104FE6F8 000003C0
+104FE6FA 000003C0
+104FE6FC 000003C0
+104FE6FE 000003C0
+104FE700 000003C0
+104FE702 000003C0
+104FE704 000003C0
+104FE706 000003C0
+104FE708 000003C0
+104FE70C 000003C0
+104FE710 000003C0
+104FE712 000003C0
+
+// All Building Materials 1
+Author = libretro-database contributors / original PSP cheat authors
+104FE5DC 000003C0
+104FE5DE 000003C0
+104FE5E0 000003C0
+104FE5E2 000003C0
+104FE5E4 000003C0
+104FE5E6 000003C0
+104FE5E8 000003C0
+104FE5EA 000003C0
+104FE5EC 000003C0
+104FE5EE 000003C0
+104FE5F0 000003C0
+104FE5F2 000003C0
+104FE5F4 000003C0
+104FE5F6 000003C0
+104FE5F8 000003C0
+104FE5FC 000003C0
+
+// All Building Materials 2
+Author = libretro-database contributors / original PSP cheat authors
+104FE600 000003C0
+104FE602 000003C0
+104FE604 000003C0
+104FE606 000003C0
+104FE608 000003C0
+104FE60A 000003C0
+104FE60C 000003C0
+104FE60E 000003C0
+104FE610 000003C0
+104FE612 000003C0
+104FE614 000003C0
+104FE616 000003C0
+104FE618 000003C0
+104FE61A 000003C0
+104FE61C 000003C0
+104FE620 000003C0
+104FE624 000003C0
+104FE626 000003C0
+
+// All Building Materials 3
+Author = libretro-database contributors / original PSP cheat authors
+104FE630 000003C0
+104FE632 000003C0
+104FE634 000003C0
+104FE636 000003C0
+104FE638 000003C0
+104FE63A 000003C0
+104FE63C 000003C0
+104FE63E 000003C0
+104FE640 000003C0
+104FE642 000003C0
+104FE644 000003C0
+104FE646 000003C0
+104FE648 000003C0
+104FE64A 000003C0
+104FE64C 000003C0
+
+// All Building Materials 4
+Author = libretro-database contributors / original PSP cheat authors
+104FE650 000003C0
+104FE652 000003C0
+104FE654 000003C0
+104FE656 000003C0
+104FE658 000003C0
+104FE65A 000003C0
+104FE65C 000003C0
+104FE65E 000003C0
+104FE660 000003C0
+104FE662 000003C0
+104FE664 000003C0
+104FE666 000003C0
+104FE668 000003C0
+
+// All Fangs Material 1
+Author = libretro-database contributors / original PSP cheat authors
+104FE67C 000003C0
+104FE67E 000003C0
+104FE680 000003C0
+104FE682 000003C0
+104FE684 000003C0
+104FE686 000003C0
+104FE688 000003C0
+104FE68A 000003C0
+104FE68C 000003C0
+104FE68E 000003C0
+
+// All Fangs Material 2
+Author = libretro-database contributors / original PSP cheat authors
+104FE690 000003C0
+104FE692 000003C0
+104FE694 000003C0
+104FE696 000003C0
+104FE698 000003C0
+104FE69A 000003C0
+104FE69C 000003C0
+104FE69E 000003C0
+104FE6A0 000003C0
+104FE6A2 000003C0
+104FE6A4 000003C0
+104FE6A6 000003C0
+104FE6A8 000003C0
+104FE6AA 000003C0
+104FE6AC 000003C0
+
+// All Fangs Material 3
+Author = libretro-database contributors / original PSP cheat authors
+104FE6B0 000003C0
+104FE6B2 000003C0
+104FE6B4 000003C0
+104FE6B6 000003C0
+104FE6B8 000003C0
+104FE6BA 000003C0
+104FE6BC 000003C0
+104FE6BE 000003C0
+104FE6C0 000003C0
+104FE6C2 000003C0
+104FE6C4 000003C0
+104FE6C6 000003C0
+104FE6C8 000003C0
+104FE6CA 000003C0
+104FE6CC 000003C0
+
+// All Fangs Material 4
+Author = libretro-database contributors / original PSP cheat authors
+104FE6D0 000003C0
+104FE6D2 000003C0
+104FE6D4 000003C0
+104FE6D6 000003C0
+104FE6D8 000003C0
+104FE6DA 000003C0
+
+// All Food Ingredients 1
+Author = libretro-database contributors / original PSP cheat authors
+104FE72C 000003C0
+104FE72E 000003C0
+104FE730 000003C0
+104FE732 000003C0
+104FE734 000003C0
+104FE736 000003C0
+104FE738 000003C0
+104FE73A 000003C0
+104FE73C 000003C0
+104FE73E 000003C0
+
+// All Food Ingredients 2
+Author = libretro-database contributors / original PSP cheat authors
+104FE740 000003C0
+104FE742 000003C0
+104FE744 000003C0
+104FE746 000003C0
+104FE748 000003C0
+104FE74A 000003C0
+104FE74C 000003C0
+104FE74E 000003C0
+104FE750 000003C0
+104FE752 000003C0
+104FE754 000003C0
+104FE756 000003C0
+104FE758 000003C0
+104FE75A 000003C0
+104FE75C 000003C0
+
+// All Food Ingredients 3
+Author = libretro-database contributors / original PSP cheat authors
+104FE760 000003C0
+104FE762 000003C0
+104FE764 000003C0
+104FE766 000003C0
+104FE768 000003C0
+104FE76A 000003C0
+104FE76C 000003C0
+104FE76E 000003C0
+104FE770 000003C0
+104FE772 000003C0
+104FE774 000003C0
+104FE776 000003C0
+104FE778 000003C0
+104FE77A 000003C0
+104FE77C 000003C0
+
+// Character 1 SP Bar
+Author = libretro-database contributors / original PSP cheat authors
+004FE7BE 00000001
+
+// Character 2 SP Bar
+Author = libretro-database contributors / original PSP cheat authors
+004FE7BE 00000002
+
+// Defeated All Types Of Monsters
+Author = libretro-database contributors / original PSP cheat authors
+40511B6C 000A0001
+FFFFFFFF 00000000
+
+// Defeated Max Monsters
+Author = libretro-database contributors / original PSP cheat authors
+20511B94 000F423F
+20511B98 000F423F
+
+// Genju Potion Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+004FE852 00000003
+
+// Genju Potion Slot 2
+Author = libretro-database contributors / original PSP cheat authors
+004FE866 00000003
+
+// Genju Potion Slot 3
+Author = libretro-database contributors / original PSP cheat authors
+004FE87A 00000003
+
+// Genju Potion Slot 4
+Author = libretro-database contributors / original PSP cheat authors
+004FE88E 00000003
+
+// Have All Armor Materials
+Author = libretro-database contributors / original PSP cheat authors
+404FE6EC 000D0001
+03E603E6 00000000
+
+// Have All Boot Fangs
+Author = libretro-database contributors / original PSP cheat authors
+404FE67C 00180001
+03E603E6 00000000
+
+// Have All Building Materials
+Author = libretro-database contributors / original PSP cheat authors
+804FE5DC 00470001
+100003E6 00000000
+
+// Have All Foods
+Author = libretro-database contributors / original PSP cheat authors
+404FE72C 00150001
+03E603E6 00000000
+
+// Have All Items In Storage
+Author = libretro-database contributors / original PSP cheat authors
+4050EAD8 02140005
+00030000 00000001
+20511468 00010214
+
+// Infinite Keys
+Author = libretro-database contributors / original PSP cheat authors
+204FE78C 00090909
+
+// Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+704FDC34 0001270F
+70512BB4 0001270F
+
+// Iron Key
+Author = libretro-database contributors / original PSP cheat authors
+004FE78D 00000009
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+204FDC2C 00138780
+70512BAC 0001270F
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+204FE7B4 000F4240
+
+// Silver Key
+Author = libretro-database contributors / original PSP cheat authors
+004FE78E 00000009
+
+// Stat: Max Int.
+Author = libretro-database contributors / original PSP cheat authors
+204FDC3A 00000063
+
+// Stat: Max Sol.
+Author = libretro-database contributors / original PSP cheat authors
+204FDC39 00000063
+
+// Stat: Max Str.
+Author = libretro-database contributors / original PSP cheat authors
+204FDC38 00000063
+
+// Stat: Max Wis.
+Author = libretro-database contributors / original PSP cheat authors
+204FDC3B 00000063
+
+// Stone Key
+Author = libretro-database contributors / original PSP cheat authors
+004FE78C 00000009
+
+// Unlock All Magics
+Author = libretro-database contributors / original PSP cheat authors
+204FDC28 0FFFFFFF
+
+// Unlock All Recipes
+Author = libretro-database contributors / original PSP cheat authors
+2047F2F8 FFFFFFC0
+1047F2FC 00003FFF

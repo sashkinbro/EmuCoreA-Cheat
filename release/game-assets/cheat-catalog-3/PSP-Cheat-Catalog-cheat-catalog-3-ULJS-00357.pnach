@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: ULJS-00357
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Omake Open
+Author = libretro-database contributors / original PSP cheat authors
+806F06D7 00070001
+000000FF 00000000
+806F4D94 00050001
+806F5094 00070001
+006F5114 000000FF

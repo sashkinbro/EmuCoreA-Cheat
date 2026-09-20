@@ -1,0 +1,58 @@
+# PSP cheat pack
+# Serial: ULJM-05784
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 100 Hits
+Author = libretro-database contributors / original PSP cheat authors
+0018E7FC 00000064
+
+// 9999 Attacks
+Author = libretro-database contributors / original PSP cheat authors
+10202132 0000270F
+
+// 9999 Defence
+Author = libretro-database contributors / original PSP cheat authors
+10202134 0000270F
+
+// 9999 Enemies
+Author = libretro-database contributors / original PSP cheat authors
+0018E860 0000270F
+
+// 9999 Enemy General
+Author = libretro-database contributors / original PSP cheat authors
+0018E864 0000270F
+
+// Coin 999
+Author = libretro-database contributors / original PSP cheat authors
+101AA704 000003E7
+
+// Combo Max
+Author = libretro-database contributors / original PSP cheat authors
+2018E7FC 000003E7
+2043A91C 000003E7
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+5020212C 00000004
+00202128 00000000
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+20202128 00001388
+
+// Item List All Open
+Author = libretro-database contributors / original PSP cheat authors
+001AA708 000000FF
+
+// Max Kills
+Author = libretro-database contributors / original PSP cheat authors
+2018E860 0000270F
+2018E864 0000270F
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+201AA700 0098967F
+
+// Morale Up
+Author = libretro-database contributors / original PSP cheat authors
+2018E880 00000400

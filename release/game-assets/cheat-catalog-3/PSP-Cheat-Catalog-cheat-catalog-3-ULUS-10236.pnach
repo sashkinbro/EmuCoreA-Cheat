@@ -1,0 +1,178 @@
+# PSP cheat pack
+# Serial: ULUS-10236
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS v2 [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0040000 0002574C
+2002574C 14A0001A
+201A0358 E60C0034
+204F08BC 3D088888
+2019AE90 3C043F80
+
+// 60 FPS v2
+Author = libretro-database contributors / original PSP cheat authors
+E004001A 0002574C
+2002574C 00000000
+201A0358 00000000
+204F08BC 3C888888
+2019AE90 3C043F00
+
+// Disable Sun & Flares
+Author = libretro-database contributors / original PSP cheat authors
+203BD020 00000000
+
+// Handheld Screen (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+205442E4 3FC00000
+205442E0 3F59999A
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+205442E4 3FE1E1E2
+205442E0 3F800000
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+205442E4 40638E39
+205442E0 40000000
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+205442E4 4017B426
+205442E0 3FACCCCD
+
+// 100 Takedowns
+Author = libretro-database contributors / original PSP cheat authors
+206CC768 00000064
+
+// AI Speed: Slow
+Author = libretro-database contributors / original PSP cheat authors
+20118E2C 0A200400
+20118E30 C60C0A00
+20001000 3C0808DD
+20001004 25086140
+20001008 1110000E
+20001010 3C093C00
+20001014 AE090AC0
+20001044 0A24638D
+20001048 C60D0AC0
+
+// AI Speed: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20118E2C C60C0A00
+20118E30 C60D0AC0
+
+// Always 1st Position
+Author = libretro-database contributors / original PSP cheat authors
+206BA1B0 00000001
+
+// All Awards And Trophies Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+206CCA98 FFFFFFFF
+206CCA9C 00000007
+
+// All Cars Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+206CCA78 3FFFFFFF
+
+// All Events Complete
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000015
+206CC974 06060606
+DC000000 00000004
+D2000000 00000000
+
+// All Shortcuts Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+206CCAB8 07003F07
+206CCABC 7FFFFFFF
+206CCAC0 0000000C
+
+// All Tracks In Record Breaker Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+206CCACC 00FFFFFF
+
+// Big Drift,Maniac & Near Miss Scores
+Author = libretro-database contributors / original PSP cheat authors
+203D0C8C 00888888
+20496694 00888888
+206CC708 00888888
+206CC70C 00888888
+206CC71C 00888888
+
+// Disable Timer
+Author = libretro-database contributors / original PSP cheat authors
+201F3DD4 00000000
+201FAA70 00000000
+
+// Display Full Boost Meter (Doesn't Affect Boost)
+Author = libretro-database contributors / original PSP cheat authors
+203CE680 3F800000
+
+// Dominator Points
+Author = libretro-database contributors / original PSP cheat authors
+206CC970 000023AF
+
+// Dominator Points: Massive
+Author = libretro-database contributors / original PSP cheat authors
+206CC970 0098967F
+
+// Dominator Points: Max
+Author = libretro-database contributors / original PSP cheat authors
+206CC970 00002710
+
+// Infinite Boost
+Author = libretro-database contributors / original PSP cheat authors
+2024BE3C 00000000
+2028DB38 00000000
+2028DBC0 00000000
+
+// Max Boost Score
+Author = libretro-database contributors / original PSP cheat authors
+206CC718 000F423F
+
+// Max Drift Score
+Author = libretro-database contributors / original PSP cheat authors
+206CC70C 000F423F
+
+// Max Maniac Score
+Author = libretro-database contributors / original PSP cheat authors
+206CC71C 000F423F
+
+// Max Near Miss Score
+Author = libretro-database contributors / original PSP cheat authors
+206CC708 000F423F
+
+// Max Overall Near Misses
+Author = libretro-database contributors / original PSP cheat authors
+206D9B80 000F423F
+
+// Max Overall Takedowns
+Author = libretro-database contributors / original PSP cheat authors
+206D9B30 000F423F
+
+// Max Takedowns
+Author = libretro-database contributors / original PSP cheat authors
+206CC768 000F423F
+
+// Near Misses
+Author = libretro-database contributors / original PSP cheat authors
+206D9B80 00000FA0
+
+// No Destruction
+Author = libretro-database contributors / original PSP cheat authors
+206BA6C4 40000000
+
+// Select Takedowns (14)(EndScore)
+Author = libretro-database contributors / original PSP cheat authors
+006CC768 0000000D
+
+// Select Takedowns (14)(Race)
+Author = libretro-database contributors / original PSP cheat authors
+006CC720 0000000D
+
+// Supercharge Boost (Press Up)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000010
+206BA058 44480000

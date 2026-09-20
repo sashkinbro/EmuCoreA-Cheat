@@ -1,0 +1,152 @@
+# PSP cheat pack
+# Serial: ULUS-10228
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+204E4C90 00000002
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+204E4C90 00000001
+
+// {Drill} Ice Parts
+Author = libretro-database contributors / original PSP cheat authors
+006758B8 00000001
+
+// {Drill} Omega Parts
+Author = libretro-database contributors / original PSP cheat authors
+006758B6 00000001
+
+// {Drill} Shock Parts
+Author = libretro-database contributors / original PSP cheat authors
+006758B7 00000001
+
+// {Item} Afro
+Author = libretro-database contributors / original PSP cheat authors
+006758CF 00000001
+
+// {Item} Black Urn
+Author = libretro-database contributors / original PSP cheat authors
+006758E0 00000001
+
+// {Item} Blue Urn
+Author = libretro-database contributors / original PSP cheat authors
+006758C0 00000002
+
+// {Item} Choco Cake
+Author = libretro-database contributors / original PSP cheat authors
+006758C7 00000002
+
+// {Item} Diamond
+Author = libretro-database contributors / original PSP cheat authors
+006758BA 00000001
+
+// {Item} Dragon Slayer
+Author = libretro-database contributors / original PSP cheat authors
+006758BB 00000001
+
+// {Item} Gold Coin
+Author = libretro-database contributors / original PSP cheat authors
+006758C9 00000002
+
+// {Item} Green Urn
+Author = libretro-database contributors / original PSP cheat authors
+006758C3 00000002
+
+// {Item} Helmet
+Author = libretro-database contributors / original PSP cheat authors
+006758D4 00000001
+
+// {Item} Life Gem
+Author = libretro-database contributors / original PSP cheat authors
+006758B9 00000001
+
+// {Item} Magic Hood
+Author = libretro-database contributors / original PSP cheat authors
+006758D8 00000001
+
+// {Item} Magic Urn
+Author = libretro-database contributors / original PSP cheat authors
+006758CB 00000002
+
+// {Item} Maid Outfit
+Author = libretro-database contributors / original PSP cheat authors
+006758CD 00000002
+
+// {Item} Plat Medal
+Author = libretro-database contributors / original PSP cheat authors
+006758DF 00000014
+
+// {Item} Purple Urn
+Author = libretro-database contributors / original PSP cheat authors
+006758C5 00000002
+
+// {Item} Rump Steak
+Author = libretro-database contributors / original PSP cheat authors
+006758C8 00000002
+
+// {Item} Samurai Helmet
+Author = libretro-database contributors / original PSP cheat authors
+006758D7 00000001
+
+// {Item} Shortcake
+Author = libretro-database contributors / original PSP cheat authors
+006758BD 00000003
+
+// {Item} Sombrero
+Author = libretro-database contributors / original PSP cheat authors
+006758D0 00000001
+
+// {Item} Vampire Kit
+Author = libretro-database contributors / original PSP cheat authors
+006758BE 00000001
+
+// {Item} Yellow Urn
+Author = libretro-database contributors / original PSP cheat authors
+006758C1 00000002
+
+// 255 Junk
+Author = libretro-database contributors / original PSP cheat authors
+10632008 000000FF
+
+// 65535 Money
+Author = libretro-database contributors / original PSP cheat authors
+1055EA46 0000FFFF
+
+// 99 Gold Medals
+Author = libretro-database contributors / original PSP cheat authors
+006758F8 00000063
+
+// 9999 Money
+Author = libretro-database contributors / original PSP cheat authors
+1055EA46 0000270F
+
+// Gives You Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+1055EA74 00000032
+1062F910 00000032
+
+// Gives You Infinite Money!
+Author = libretro-database contributors / original PSP cheat authors
+1055EA46 00004E1F
+
+// Infinite Drill-Power
+Author = libretro-database contributors / original PSP cheat authors
+106303D4 0000012C
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+1055EA74 00000064
+
+// Infinite Junk
+Author = libretro-database contributors / original PSP cheat authors
+10632008 000003E7
+
+// Infinite Pockles
+Author = libretro-database contributors / original PSP cheat authors
+1055EA46 0000C350
+
+// Mystery Bag x3
+Author = libretro-database contributors / original PSP cheat authors
+006758CC 00000003

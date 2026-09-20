@@ -1,0 +1,59 @@
+# PSP cheat pack
+# Serial: ULUS-10175
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Camera Mod: First Person
+Author = libretro-database contributors / original PSP cheat authors
+202BC288 3C0343C8
+
+// Camera Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+202BC288 3C0342C8
+
+// Speed Mod (Animals): Even Faster
+Author = libretro-database contributors / original PSP cheat authors
+20251D24 3C024100
+
+// Speed Mod (Animals): Fast
+Author = libretro-database contributors / original PSP cheat authors
+20251D24 3C024080
+
+// Speed Mod (Animals): Normal
+Author = libretro-database contributors / original PSP cheat authors
+20251D24 3C023F80
+
+// Speed Mod (Animals): Slow
+Author = libretro-database contributors / original PSP cheat authors
+20251D24 3C023F00
+
+// Speed Mod (Animals): Super Slow
+Author = libretro-database contributors / original PSP cheat authors
+20251D24 3C023E80
+
+// Speed Mod (Character): Even Faster
+Author = libretro-database contributors / original PSP cheat authors
+2031C910 3C024100
+
+// Speed Mod (Character): Fast
+Author = libretro-database contributors / original PSP cheat authors
+2031C910 3C024080
+
+// Speed Mod (Character): Normal
+Author = libretro-database contributors / original PSP cheat authors
+2031C910 3C023F80
+
+// Speed Mod (Character): Slow
+Author = libretro-database contributors / original PSP cheat authors
+2031C910 3C023F00
+
+// Speed Mod (Character): Super Slow
+Author = libretro-database contributors / original PSP cheat authors
+2031C910 3C023E80
+
+// Walk Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+20200E6C 3C0342C8
+
+// Walk Through Walls [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20200E6C 3C033F80

@@ -1,0 +1,8 @@
+# PSP cheat pack
+# Serial: ULUS-10354
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Boost
+Author = libretro-database contributors / original PSP cheat authors
+200CF58C C4620388
+200CF5A4 E462038C

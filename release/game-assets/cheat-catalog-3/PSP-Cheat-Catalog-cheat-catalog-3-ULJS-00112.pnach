@@ -1,0 +1,95 @@
+# PSP cheat pack
+# Serial: ULJS-00112
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Energy
+Author = libretro-database contributors / original PSP cheat authors
+104F49A4 00000
+
+// Exp. 499 (1)
+Author = libretro-database contributors / original PSP cheat authors
+104F46F4 000001F3
+
+// Exp. 499 (2)
+Author = libretro-database contributors / original PSP cheat authors
+104F47BC 000001F3
+
+// Exp. 499 (3)
+Author = libretro-database contributors / original PSP cheat authors
+104F4884 000001F3
+
+// Haruto 99
+Author = libretro-database contributors / original PSP cheat authors
+004F46F2 00000063
+
+// Haruto Dragon Skill Lv.99
+Author = libretro-database contributors / original PSP cheat authors
+104F4710 00006363
+104F4712 00006363
+104F4714 00006363
+104F4716 00006363
+104F4718 00006363
+104F471A 00006363
+104F471C 00006363
+
+// Haruto Exp. 499
+Author = libretro-database contributors / original PSP cheat authors
+104F46F4 000001F3
+
+// Lusran 99
+Author = libretro-database contributors / original PSP cheat authors
+004F494A 00000063
+
+// Lusran Dragon Skill Lv.99
+Author = libretro-database contributors / original PSP cheat authors
+104F4968 00006363
+104F496A 00006363
+104F496C 00006363
+104F496E 00006363
+104F4970 00006363
+104F4972 00006363
+104F4974 00006363
+
+// Lusran Exp. 499
+Author = libretro-database contributors / original PSP cheat authors
+104F494C 000001F3
+
+// Mana Max
+Author = libretro-database contributors / original PSP cheat authors
+204F49A4 0000270F
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+204F49A0 000F423F
+
+// Ururika 99
+Author = libretro-database contributors / original PSP cheat authors
+004F4882 00000063
+
+// Ururika Dragon Skill Lv.99
+Author = libretro-database contributors / original PSP cheat authors
+104F48A0 00006363
+104F48A2 00006363
+104F48A4 00006363
+104F48A6 00006363
+104F48A8 00006363
+104F48AA 00006363
+104F48AC 00006363
+
+// Ururika Exp. 499
+Author = libretro-database contributors / original PSP cheat authors
+104F4884 000001F3
+
+// Yu-Fe Dragon Skill Lv.99
+Author = libretro-database contributors / original PSP cheat authors
+104F47D8 00006363
+104F47DA 00006363
+104F47DC 00006363
+104F47DE 00006363
+104F47E0 00006363
+104F47E2 00006363
+104F47E4 00006363
+
+// Yu-fe Exp. 499
+Author = libretro-database contributors / original PSP cheat authors
+104F47BC 000001F3

@@ -1,0 +1,33 @@
+# PSP cheat pack
+# Serial: ULUS-10026
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Full Lives
+Author = libretro-database contributors / original PSP cheat authors
+00302068 00000004
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20302068 00000004
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+20302054 05F5E0FF
+
+// Reset Time
+Author = libretro-database contributors / original PSP cheat authors
+20362E30 00000000
+00020000 0000002C
+
+// Reset Time v2
+Author = libretro-database contributors / original PSP cheat authors
+20362E30 00000000
+00020001 0000002C
+
+// Unlock All Hats And Costumes
+Author = libretro-database contributors / original PSP cheat authors
+20302040 0000FFFF
+
+// Unlock All Mini Games
+Author = libretro-database contributors / original PSP cheat authors
+20302042 000000FF

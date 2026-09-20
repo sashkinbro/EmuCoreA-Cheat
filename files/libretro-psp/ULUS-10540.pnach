@@ -1,0 +1,81 @@
+# PSP cheat pack
+# Serial: ULUS-10540
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Elemental Sepith 200
+Author = libretro-database contributors / original PSP cheat authors
+003EA4E0 000000C8
+003EA4E4 000000C8
+003EA4E8 000000C8
+003EA4EC 000000C8
+003EA4F0 000000C8
+003EA4F4 000000C8
+003EA4F8 000000C8
+203EA4D8 3B9AC9FF
+
+// Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+203E86B4 00989680
+203E86E8 00989680
+
+// Max Elemental Orbs
+Author = libretro-database contributors / original PSP cheat authors
+203EA4E0 000003E7
+203EA4E4 000003E7
+203EA4E8 000003E7
+203EA4EC 000003E7
+203EA4F0 000003E7
+203EA4F4 000003E7
+203EA4F8 000003E7
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+203EA4D8 3B9AC9FF
+
+// Orbs [200]
+Author = libretro-database contributors / original PSP cheat authors
+103EA4E0 000000C8
+103EA4E4 000000C8
+103EA4E8 000000C8
+103EA4EC 000000C8
+103EA4F0 000000C8
+103EA4F4 000000C8
+103EA4F8 000000C8
+
+// Quick Level All Boys
+Author = libretro-database contributors / original PSP cheat authors
+203E86E8 000F423F
+203E8750 000F423F
+203E87B8 000F423F
+203E8820 000F423F
+
+// Quick Level All Girls
+Author = libretro-database contributors / original PSP cheat authors
+203E86B4 000F423F
+203E871C 000F423F
+203E8784 000F423F
+203E87EC 000F423F
+
+// Quick Lvl Up Estelle
+Author = libretro-database contributors / original PSP cheat authors
+203E86B4 000F423F
+
+// Quick Lvl Up Joshua
+Author = libretro-database contributors / original PSP cheat authors
+203E86E8 000F423F
+
+// Semi-Infinite CP Estelle
+Author = libretro-database contributors / original PSP cheat authors
+103E86B2 000000C8
+
+// Semi-Infinite CP Joshua
+Author = libretro-database contributors / original PSP cheat authors
+103E86E6 000000C8
+
+// Super Lvl & Stats Estelle
+Author = libretro-database contributors / original PSP cheat authors
+203E86A8 12341234
+
+// Super Lvl & Stats Joshua
+Author = libretro-database contributors / original PSP cheat authors
+203E86DC 12341234

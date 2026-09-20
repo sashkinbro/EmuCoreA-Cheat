@@ -1,0 +1,66 @@
+# PSP cheat pack
+# Serial: ULKS-46059
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Hide Removed Song - Fever GJ
+Author = libretro-database contributors / original PSP cheat authors
+201A0208 00000000
+
+// Show Removed Song - Fever GJ
+Author = libretro-database contributors / original PSP cheat authors
+201A0208 00000002
+
+// Unlock 8 Button Mode
+Author = libretro-database contributors / original PSP cheat authors
+001A118C 00000002
+
+// Unlock All Club Modes
+Author = libretro-database contributors / original PSP cheat authors
+401A0BF0 00440001
+00000003 00000000
+
+// Unlock All Disc Collection
+Author = libretro-database contributors / original PSP cheat authors
+8019FCA4 00120001
+00000001 00000000
+
+// Unlock All Gears
+Author = libretro-database contributors / original PSP cheat authors
+401A0B58 00100001
+00000002 00000000
+
+// Unlock All Images
+Author = libretro-database contributors / original PSP cheat authors
+401A0D00 00C80001
+00000002 00000000
+
+// Unlock All Media
+Author = libretro-database contributors / original PSP cheat authors
+401A1020 000C0001
+00000002 00000000
+
+// Unlock All Notes
+Author = libretro-database contributors / original PSP cheat authors
+401A0B98 00160001
+00000002 00000000
+
+// Unlock All Songs
+Author = libretro-database contributors / original PSP cheat authors
+4019FCB8 00140011
+00000002 00000000
+401A024C 00210011
+
+// Unlock Ost. - Additional Disc
+Author = libretro-database contributors / original PSP cheat authors
+401A1134 00160001
+00000002 00000000
+
+// Unlock Ost. - L Disc
+Author = libretro-database contributors / original PSP cheat authors
+401A1050 001C0001
+00000002 00000000
+
+// Unlock Ost. - R Disc
+Author = libretro-database contributors / original PSP cheat authors
+401A10C0 001D0001
+00000002 00000000

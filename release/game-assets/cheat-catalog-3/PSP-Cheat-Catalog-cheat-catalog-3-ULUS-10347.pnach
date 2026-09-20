@@ -1,0 +1,184 @@
+# PSP cheat pack
+# Serial: ULUS-10347
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Auto Increase Light Gatling Gun
+Author = libretro-database contributors / original PSP cheat authors
+20020B24 0A2001C0
+20000700 3C0809A8
+20000704 8D090064
+20000708 240A01F4
+2000070C 152A0006
+20000714 3C0B090B
+20000718 8D6CE688
+2000071C 240D0020
+20000720 018D7020
+20000724 AD6EE688
+20000728 03E00008
+
+// Back Breaker
+Author = libretro-database contributors / original PSP cheat authors
+20102C54 3C074000
+20102CB4 3C074000
+2010D898 3C074000
+
+// Flash
+Author = libretro-database contributors / original PSP cheat authors
+20024F88 40000000
+
+// Flash (Press Select For Flash)
+Author = libretro-database contributors / original PSP cheat authors
+2000004C 0A200240
+20000900 3C080883
+20000904 3C0909A8
+20000908 8D2A0064
+2000090C 340B0001
+20000910 3C0D3F80
+20000914 AD0D0000
+20000918 154B0004
+20000920 3C0D4000
+20000928 AD0D4F88
+2000092C 03E00008
+
+// Giant Explosions
+Author = libretro-database contributors / original PSP cheat authors
+2035DFB8 3C074000
+2035E324 3C074000
+
+// Giant Ironman
+Author = libretro-database contributors / original PSP cheat authors
+201015F8 3C073FA0
+2010175C 3C073FA0
+
+// Infinite Ammo-Light Gatling Gun
+Author = libretro-database contributors / original PSP cheat authors
+00881338 000001D7
+008BE698 000001D7
+
+// Infinite Ballistic Ammo (Fight Back)
+Author = libretro-database contributors / original PSP cheat authors
+0082BC88 000001F4
+
+// Infinite Ballistic Ammo (Maggia Compound)
+Author = libretro-database contributors / original PSP cheat authors
+008D1FC8 000001F4
+
+// Infinite Ballistic Ammo (Weapons Transport)
+Author = libretro-database contributors / original PSP cheat authors
+0082D1B8 000001F4
+
+// Infinite Rockets (Fight Back)
+Author = libretro-database contributors / original PSP cheat authors
+008BD8A8 00000064
+
+// Infinite Rockets (Maggia Compound)
+Author = libretro-database contributors / original PSP cheat authors
+008D1118 00000064
+
+// Infinite Rockets (Weapons Transport)
+Author = libretro-database contributors / original PSP cheat authors
+0084C518 00000064
+
+// Levitation (L+Dpad Up = Up/L+Dpad Down = Down)
+Author = libretro-database contributors / original PSP cheat authors
+20000024 0A200400
+20001000 3C0809A8
+20001004 3C0908B7
+20001008 850A0064
+2000100C 240B0110
+20001010 154B0007
+20001014 8D2C6000
+2000101C 240D0020
+20001020 018D7020
+20001024 AD2E6000
+20001028 10000009
+20001030 240C0140
+20001034 154C0006
+2000103C 8D2D6000
+20001040 240E0020
+20001044 01AE7822
+20001048 AD2F6000
+20001050 03E00008
+
+// Mark & Recall (DPad Left=Mark/L+Dpad Left=Recall)
+Author = libretro-database contributors / original PSP cheat authors
+201002E4 0A20017E
+200005F8 6C726157
+200005FC 006B636F
+20000600 3C0809A8
+20000604 85090064
+20000608 3C0A08D8
+2000060C 8D4B361C
+20000610 240C0080
+20000614 152C0009
+2000061C 3C0D08D8
+20000620 8D6E0074
+20000624 ADAEFFC0
+20000628 8D6E0078
+2000062C ADAEFFC4
+20000630 8D6E0070
+20000634 ADAEFFC8
+20000640 10000009
+20000668 240C0180
+2000066C 152C0009
+20000674 3C0D08D8
+20000678 8DAEFFC0
+2000067C AD6E0074
+20000680 8DAEFFC4
+20000684 AD6E0078
+20000688 8DAEFFC8
+2000068C AD6E0070
+20000698 10000009
+200006C0 03E00008
+
+// Midget Ironman
+Author = libretro-database contributors / original PSP cheat authors
+201015F8 3C073F50
+2010175C 3C073F50
+
+// Ninja
+Author = libretro-database contributors / original PSP cheat authors
+2010DA1C 3C064000
+2013A274 3C064000
+201D9E20 3C064000
+
+// Pretzel
+Author = libretro-database contributors / original PSP cheat authors
+201D99B0 3C054000
+201DAA00 3C054000
+201DAA5C 3C054000
+
+// Rapid Rockets (Fight Back)
+Author = libretro-database contributors / original PSP cheat authors
+008BD8E0 00000000
+
+// Rapid Rockets (Maggia Compound)
+Author = libretro-database contributors / original PSP cheat authors
+008D1150 00000000
+
+// Rapid Rockets (Weapons Transport)
+Author = libretro-database contributors / original PSP cheat authors
+0084C550 00000000
+
+// Size Mod: Giant Character
+Author = libretro-database contributors / original PSP cheat authors
+201015F8 3C073F90
+2010175C 3C073F90
+
+// Size Mod: Normal Character
+Author = libretro-database contributors / original PSP cheat authors
+201015F8 3C073F80
+2010175C 3C073F80
+
+// Size Mod: Small Character
+Author = libretro-database contributors / original PSP cheat authors
+201015F8 3C073F50
+2010175C 3C073F50
+
+// Speed Mod: Faster
+Author = libretro-database contributors / original PSP cheat authors
+20024F88 40800000
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20024F88 3F800000

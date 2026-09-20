@@ -1,0 +1,161 @@
+# PSP cheat pack
+# Serial: ULUS-10110
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Right Analog Support v1
+Author = libretro-database contributors / original PSP cheat authors
+E00C000B 00004C70
+20004C70 44857800
+20004C78 0E200DC1
+20004C7C 922F000A
+20004CA8 10000003
+20003704 448F6800
+20003708 46806B60
+2000370C 460F6B41
+20003710 922E000B
+20003714 448E7000
+20003718 468073A0
+2000371C 03E00008
+20003720 460F7381
+
+// Right Analog Support v1 [Off/Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0047800 00004C70
+20004C70 1080000B
+20004C78 C60D0004
+20004C7C C60E0008
+20004CA8 14800003
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+2013AC54 ACC013B0
+
+// Bolivia 100% Complete
+Author = libretro-database contributors / original PSP cheat authors
+105349E4 0000050A
+005349E6 00000001
+
+// Croft Manor 100% Complete
+Author = libretro-database contributors / original PSP cheat authors
+205349FC 01010A10
+
+// England 100% Complete
+Author = libretro-database contributors / original PSP cheat authors
+10534AA4 00000509
+00534AA6 00000001
+
+// Game Speed Mod
+Author = libretro-database contributors / original PSP cheat authors
+202931EC 3C04
+
+// Get Items From Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+2028D1A0 00000000
+
+// Ghana 100% Complete
+Author = libretro-database contributors / original PSP cheat authors
+10534A5C 00000405
+00534A5E 00000001
+
+// Infinite Ammo & No Reload
+Author = libretro-database contributors / original PSP cheat authors
+202207A0 24840000
+
+// Infinite Grenades
+Author = libretro-database contributors / original PSP cheat authors
+201F0B1C 24040005
+201F0B20 A6E40054
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20247A90 0A200800
+20247A94 3C02461C
+20002000 ACA205B0
+20002004 C4AC05B0
+20002008 0A291EA6
+2000200C 4614603E
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+20247A90 0A200800
+20247A94 00000000
+20002000 3C02461C
+20002004 ACA205B0
+20002008 C4AC05B0
+2000200C 0A291EA6
+20002010 4614603E
+
+// Infinite Health Packs
+Author = libretro-database contributors / original PSP cheat authors
+201F1C3C 24840000
+
+// Infinite Item Usage
+Author = libretro-database contributors / original PSP cheat authors
+201F1C3C 24840000
+
+// Infinite Oxygen
+Author = libretro-database contributors / original PSP cheat authors
+20299230 00000000
+
+// Infinite PLS Battery
+Author = libretro-database contributors / original PSP cheat authors
+201F012C E66E0070
+
+// Infinite Time Tomb Trials
+Author = libretro-database contributors / original PSP cheat authors
+2035AB48 00000000
+
+// Infinite Time Tomb Trials v2
+Author = libretro-database contributors / original PSP cheat authors
+2035AB48 45610000
+
+// Infinite Time Trial Time
+Author = libretro-database contributors / original PSP cheat authors
+2035A340 45610000
+
+// Japan 100% Complete
+Author = libretro-database contributors / original PSP cheat authors
+10534A24 00000406
+00534A26 00000001
+
+// Kazakhstan 100% Complete
+Author = libretro-database contributors / original PSP cheat authors
+10534A8C 00000305
+00534A8E 00000001
+
+// Moon Jump
+Author = libretro-database contributors / original PSP cheat authors
+20097D74 8CC90008
+20097F98 8FA70088
+20257110 8E460008
+2025733C 8C870008
+202954B0 8FA60088
+D0000004 10004000
+20097D74 3C094248
+20097F98 3C074248
+20257110 3C064248
+2025733C 3C074248
+202954B0 3C064248
+
+// Nepal 100% Complete
+Author = libretro-database contributors / original PSP cheat authors
+10534AD4 00000609
+00534AD6 00000001
+
+// Peru 100% Complete
+Author = libretro-database contributors / original PSP cheat authors
+10534A14 00000208
+00534A16 00000001
+
+// Walk Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000300
+2007FA98 24050010
+2007FA9C A28500C6
+2007FAA4 0A21FEAF
+2007FAA8 00000000
+D0000003 10004000
+2007FA98 3C050010
+2007FA9C 24A51000
+2007FAA4 14800005
+2007FAA8 A28000C6
