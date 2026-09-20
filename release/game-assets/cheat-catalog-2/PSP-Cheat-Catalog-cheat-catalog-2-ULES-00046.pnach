@@ -1,0 +1,42 @@
+# PSP cheat pack
+# Serial: ULES-00046
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Fast Level Up
+Author = libretro-database contributors / original PSP cheat authors
+203A8420 47000000
+
+// Inf. AP For Level Up
+Author = libretro-database contributors / original PSP cheat authors
+003826B4 00000063
+
+// Inf. Attribute Points
+Author = libretro-database contributors / original PSP cheat authors
+0037DE48 00000010
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+203A806C 0098967F
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+203A5D50 47000000
+
+// Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+203A5D54 47000000
+
+// Immune To Stun
+Author = libretro-database contributors / original PSP cheat authors
+203A5D70 00000000
+
+// Insane Speed
+Author = libretro-database contributors / original PSP cheat authors
+203A837E 00004080
+
+// Max Beginning Stats
+Author = libretro-database contributors / original PSP cheat authors
+2037DE50 00007530
+2037DE54 00007530
+2037DE58 00007530
+2037DE5C 00007530

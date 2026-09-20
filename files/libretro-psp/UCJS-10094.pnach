@@ -1,0 +1,282 @@
+# PSP cheat pack
+# Serial: UCJS-10094
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (M) Must Code
+Author = libretro-database contributors / original PSP cheat authors
+2017E5C8 0000004C
+20002074 0A25F975
+20002078 8C440028
+2017E5CC 0A200810
+2017E5D0 8EA2004C
+D2000000 00000000
+
+// All Weapons Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+2017E5C8 0000004C
+20002058 24040002
+2000205C AC440220
+20002060 AC440224
+20002064 AC440228
+20002068 AC44022C
+D2000000 00000000
+
+// Coin 60
+Author = libretro-database contributors / original PSP cheat authors
+0014F5C8 0000003C
+
+// Fast Combo Gain (Vegetable Cutting)
+Author = libretro-database contributors / original PSP cheat authors
+20165F78 00000AEC
+200020B0 00A52821
+200020B4 0A2597DF
+200020B8 AE050AEC
+20165F74 0A20082C
+20165F78 24A50001
+D2000000 00000000
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2017E5C8 0000004C
+20002048 24040064
+2000204C AC440240
+20002050 AC440244
+20002054 AC440248
+D2000000 00000000
+
+// Infinite Balls (Striker)
+Author = libretro-database contributors / original PSP cheat authors
+20197B48 0000089C
+20197B4C 24050005
+20197B50 AC65D1F8
+20197B54 8C83023C
+D2000000 00000000
+
+// Infinite Battery (Robot)
+Author = libretro-database contributors / original PSP cheat authors
+2017E5C8 0000004C
+2000206C 240403E8
+20002070 AC440210
+D2000000 00000000
+
+// Infinite Coins (Cleaning)
+Author = libretro-database contributors / original PSP cheat authors
+200A71A4 0000088F
+20002000 24050063
+20002004 0A229C6C
+20002008 AC450004
+200A71A8 0A200800
+200A71AC 8C422764
+D2000000 00000000
+
+// Infinite Health (Cleaning)
+Author = libretro-database contributors / original PSP cheat authors
+2018B530 00005008
+20002010 AC410064
+20002014 0A262D4F
+20002018 0281082A
+2018B534 0A200804
+2018B538 24010003
+D2000000 00000000
+
+// Infinite Health (Diorama Tactics)
+Author = libretro-database contributors / original PSP cheat authors
+2017E5C8 0000004C
+20002040 8C440024
+20002044 AC440028
+D2000000 00000000
+
+// Infinite Health (Vegetable Cutting)
+Author = libretro-database contributors / original PSP cheat authors
+20176360 00000040
+20176364 24040006
+2017636C AC44055C
+D2000000 00000000
+
+// Infinite Power Swings (Homerun)
+Author = libretro-database contributors / original PSP cheat authors
+2017B06C 00000250
+20002080 2402000A
+20002084 0A25EC1E
+20002088 AE0204D8
+2017B070 0A200820
+D2000000 00000000
+
+// Infinite PowerUp Usage (Cleaning)
+Author = libretro-database contributors / original PSP cheat authors
+2018A23C 0000089C
+2018A240 24120003
+2018A24C AC520068
+D2000000 00000000
+
+// Score Multiplier: x2 (Cleaning)
+Author = libretro-database contributors / original PSP cheat authors
+201AB7F4 000037C2
+201AB7F8 00129040
+201AB7FC 00B22821
+201AB800 AE65011C
+201AB808 8C83EDC8
+D2000000 00000000
+
+// Score Multiplier: x2 (Karate)
+Author = libretro-database contributors / original PSP cheat authors
+2016C018 0000E8B0
+20002090 00052840
+20002094 0A25B009
+20002098 00651821
+2016C01C 0A200824
+D2000000 00000000
+
+// Score Multiplier: x2 (Pie Throwing)
+Author = libretro-database contributors / original PSP cheat authors
+2016E930 00000038
+2016E934 00021040
+2016E938 00622821
+2016E93C 3C030897
+2016E940 8C647848
+D2000000 00000000
+
+// Score Multiplier: x2 (Robot)
+Author = libretro-database contributors / original PSP cheat authors
+201892B0 00000048
+201892B4 8C63A870
+201892B8 00108040
+D2000000 00000000
+
+// Score Multiplier: x2 (Striker)
+Author = libretro-database contributors / original PSP cheat authors
+20173D14 0000089C
+200020A0 00108040
+200020A4 0A25CF48
+200020A8 00902021
+20173D18 0A200828
+D2000000 00000000
+
+// Score Multiplier: x4 (Cleaning)
+Author = libretro-database contributors / original PSP cheat authors
+201AB7F4 000037C2
+201AB7F8 00129080
+201AB7FC 00B22821
+201AB800 AE65011C
+201AB808 8C83EDC8
+D2000000 00000000
+
+// Score Multiplier: x4 (Karate)
+Author = libretro-database contributors / original PSP cheat authors
+2016C018 0000E8B0
+20002090 00052880
+20002094 0A25B009
+20002098 00651821
+2016C01C 0A200824
+D2000000 00000000
+
+// Score Multiplier: x4 (Pie Throwing)
+Author = libretro-database contributors / original PSP cheat authors
+2016E930 00000038
+2016E934 00021080
+2016E938 00622821
+2016E93C 3C030897
+2016E940 8C647848
+D2000000 00000000
+
+// Score Multiplier: x4 (Robot)
+Author = libretro-database contributors / original PSP cheat authors
+201892B0 00000048
+201892B4 8C63A870
+201892B8 00108080
+D2000000 00000000
+
+// Score Multiplier: x4 (Striker)
+Author = libretro-database contributors / original PSP cheat authors
+20173D14 0000089C
+200020A0 00108080
+200020A4 0A25CF48
+200020A8 00902021
+20173D18 0A200828
+D2000000 00000000
+
+// Score Multiplier: x8 (Cleaning)
+Author = libretro-database contributors / original PSP cheat authors
+201AB7F4 000037C2
+201AB7F8 001290C0
+201AB7FC 00B22821
+201AB800 AE65011C
+201AB808 8C83EDC8
+D2000000 00000000
+
+// Score Multiplier: x8 (Karate)
+Author = libretro-database contributors / original PSP cheat authors
+2016C018 0000E8B0
+20002090 000528C0
+20002094 0A25B009
+20002098 00651821
+2016C01C 0A200824
+D2000000 00000000
+
+// Score Multiplier: x8 (Pie Throwing)
+Author = libretro-database contributors / original PSP cheat authors
+2016E930 00000038
+2016E934 000210C0
+2016E938 00622821
+2016E93C 3C030897
+2016E940 8C647848
+D2000000 00000000
+
+// Score Multiplier: x8 (Robot)
+Author = libretro-database contributors / original PSP cheat authors
+201892B0 00000048
+201892B4 8C63A870
+201892B8 001080C0
+D2000000 00000000
+
+// Score Multiplier: x8 (Striker)
+Author = libretro-database contributors / original PSP cheat authors
+20173D14 0000089C
+200020A0 001080C0
+200020A4 0A25CF48
+200020A8 00902021
+20173D18 0A200828
+D2000000 00000000
+
+// Score Multiplier: x16 (Cleaning)
+Author = libretro-database contributors / original PSP cheat authors
+201AB7F4 000037C2
+201AB7F8 00129100
+201AB7FC 00B22821
+201AB800 AE65011C
+201AB808 8C83EDC8
+D2000000 00000000
+
+// Score Multiplier: x16 (Karate)
+Author = libretro-database contributors / original PSP cheat authors
+2016C018 0000E8B0
+20002090 00052900
+20002094 0A25B009
+20002098 00651821
+2016C01C 0A200824
+D2000000 00000000
+
+// Score Multiplier: x16 (Pie Throwing)
+Author = libretro-database contributors / original PSP cheat authors
+2016E930 00000038
+2016E934 00021100
+2016E938 00622821
+2016E93C 3C030897
+2016E940 8C647848
+D2000000 00000000
+
+// Score Multiplier: x16 (Robot)
+Author = libretro-database contributors / original PSP cheat authors
+201892B0 00000048
+201892B4 8C63A870
+201892B8 00108100
+D2000000 00000000
+
+// Score Multiplier: x16 (Striker)
+Author = libretro-database contributors / original PSP cheat authors
+20173D14 0000089C
+200020A0 00108100
+200020A4 0A25CF48
+200020A8 00902021
+20173D18 0A200828
+D2000000 00000000

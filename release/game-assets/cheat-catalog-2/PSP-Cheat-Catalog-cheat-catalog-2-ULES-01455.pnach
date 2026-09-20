@@ -1,0 +1,28 @@
+# PSP cheat pack
+# Serial: ULES-01455
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Press L Max Condition Home Team
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000100
+408F7EB4 0016006D
+461C4000 00000000
+408FA0C4 0016006D
+C2C80000 00000000
+
+// Press R Max Condition Away Team
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000200
+408F7EB4 0016006D
+C2C80000 00000000
+408FA0C4 0016006D
+461C4000 00000000
+
+// Transfer Budget/Max Wage
+Author = libretro-database contributors / original PSP cheat authors
+200BC2B8 0E200400
+20001000 3C013000
+20001004 AC810000
+20001008 3C0103E0
+2000100C AC810008
+20001010 00A2B423

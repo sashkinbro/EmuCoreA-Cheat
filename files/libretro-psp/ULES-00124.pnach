@@ -1,0 +1,185 @@
+# PSP cheat pack
+# Serial: ULES-00124
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 20 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+2007A000 00031C03
+20294F80 00000003
+
+// 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2007A000 34030002
+20294F80 00000002
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2007A000 34030001
+20294F80 00000001
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2004A0F4 00000000
+2004A0DC 00000000
+20126748 00000000
+
+// Infinite Ammo v2
+Author = libretro-database contributors / original PSP cheat authors
+013F4124 000003E7
+013F4130 000003E7
+013F413C 000003E7
+013F4138 000003E7
+013F4134 000003E7
+013F3A34 000003E7
+013F4140 000003E7
+013F4144 000003E7
+013F4160 000003E7
+00B3FF52 000003E7
+013F4164 000003E7
+013F4168 000003E7
+
+// Infinite Ammo v3
+Author = libretro-database contributors / original PSP cheat authors
+113F4124 000003E7
+113F4128 000003E7
+113F412C 000003E7
+113F4130 000003E7
+113F4134 000003E7
+113F4138 000003E7
+113F413C 000003E7
+113F4140 000003E7
+113F4144 000003E7
+113F4148 000003E7
+
+// Infinite Ammo v4
+Author = libretro-database contributors / original PSP cheat authors
+113F4150 000003E7
+113F4154 000003E7
+113F4158 000003E7
+113F415C 000003E7
+113F4160 000003E7
+113F4164 000003E7
+113F4168 000003E7
+113F416C 000003E7
+113F4170 000003E7
+113F4174 000003E7
+
+// Infinite Ammo: Assult Rifle
+Author = libretro-database contributors / original PSP cheat authors
+113F4134 000003E7
+
+// Infinite Ammo: BoltGun
+Author = libretro-database contributors / original PSP cheat authors
+113F4130 000003E7
+
+// Infinite Ammo: Copperhead
+Author = libretro-database contributors / original PSP cheat authors
+113F4164 000003E7
+
+// Infinite Ammo: Frag Grenade
+Author = libretro-database contributors / original PSP cheat authors
+113F3A34 00000063
+
+// Infinite Ammo: Grenade Launcher
+Author = libretro-database contributors / original PSP cheat authors
+113F4144 000003E7
+
+// Infinite Ammo: Handgun
+Author = libretro-database contributors / original PSP cheat authors
+113F4124 000003E7
+
+// Infinite Ammo: Photon MG
+Author = libretro-database contributors / original PSP cheat authors
+113F4168 000003E7
+
+// Infinite Ammo Pt. 1
+Author = libretro-database contributors / original PSP cheat authors
+113F4124 000003E7
+113F4128 000003E7
+113F412C 000003E7
+113F4130 000003E7
+113F4134 000003E7
+113F4138 000003E7
+113F413C 000003E7
+113F4140 000003E7
+113F4144 000003E7
+113F4148 000003E7
+113F414C 000003E7
+
+// Infinite Ammo Pt. 2
+Author = libretro-database contributors / original PSP cheat authors
+113F4150 000003E7
+113F4154 000003E7
+113F4158 000003E7
+113F415C 000003E7
+113F4160 000003E7
+113F4164 000003E7
+113F4168 000003E7
+113F416C 000003E7
+113F4170 000003E7
+113F4174 000003E7
+113F4178 000003E7
+113F417C 000003E7
+
+// Infinite Ammo: Pulse Rifle
+Author = libretro-database contributors / original PSP cheat authors
+113F4140 000003E7
+
+// Infinite Ammo: Shotgun
+Author = libretro-database contributors / original PSP cheat authors
+113F413C 000003E7
+
+// Infinite Ammo: Sniper Rifle
+Author = libretro-database contributors / original PSP cheat authors
+113F4138 000003E7
+
+// Infinite Ammo: Vulcan
+Author = libretro-database contributors / original PSP cheat authors
+113F4160 000003E7
+10B3FF52 000003E7
+
+// Infinite Grenades
+Author = libretro-database contributors / original PSP cheat authors
+013F3A34 00000064
+013F3A35 00000064
+013F3A36 00000064
+013F3A37 00000064
+013F3A39 00000064
+013F3A3A 00000064
+013F3A3B 00000064
+013F3A3C 00000064
+013F3A3D 00000064
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2009C984 3C0142C8
+2009C994 AEA10188
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+E001003D 0009CC58
+2009CC58 E6A10188
+
+// Infinite Health [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2009CC58 4601003D
+
+// Quick Level
+Author = libretro-database contributors / original PSP cheat authors
+113F39B6 00000200
+113F39B8 00000200
+113F39BA 00000200
+113F39BC 00000200
+113F39BE 00000200
+113F39C0 00000200
+113F39C2 00000200
+113F39C4 00000200
+113F39C6 00000200
+113F39CA 00000200
+113F39CC 00000200
+113F39D0 00000200
+113F39D8 00000200
+113F39DA 00000200
+113F39DC 00000200
+113F39E0 00000200
+113F39E4 00000200

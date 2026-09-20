@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: UCES-00206
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Away Goal Mod
+Author = libretro-database contributors / original PSP cheat authors
+015984E5 00000063
+
+// Home Goal Mod
+Author = libretro-database contributors / original PSP cheat authors
+015984E4 00000063

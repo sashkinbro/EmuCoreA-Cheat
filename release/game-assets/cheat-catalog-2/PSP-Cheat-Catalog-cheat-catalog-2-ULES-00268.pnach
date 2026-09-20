@@ -1,0 +1,128 @@
+# PSP cheat pack
+# Serial: ULES-00268
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Camera Mod [Crazy Cam]
+Author = libretro-database contributors / original PSP cheat authors
+6038ECDC 43985359
+00000001 0000002C
+
+// Camera Mod [High Can Only Move]
+Author = libretro-database contributors / original PSP cheat authors
+6038ECDC 43985359
+00000001 0000003C
+
+// Camera Mod [Only Move. Up & Down]
+Author = libretro-database contributors / original PSP cheat authors
+6038ECDC 43985359
+00000001 00000038
+
+// Inf. Air Strike
+Author = libretro-database contributors / original PSP cheat authors
+60355788 0105D7C0
+00000001 00000068
+
+// Inf. Health All PlayerS All Maps
+Author = libretro-database contributors / original PSP cheat authors
+6043FEE8 0114A424
+00000001 0000005C
+
+// Inf. Health Player 2
+Author = libretro-database contributors / original PSP cheat authors
+6043FF00 0114A424
+00000001 0000005C
+
+// Inf. Health Player 3
+Author = libretro-database contributors / original PSP cheat authors
+6043FEF0 0114A424
+00000001 0000005C
+
+// Inf. Health Player 4
+Author = libretro-database contributors / original PSP cheat authors
+6043FEF8 0114A424
+00000001 0000005C
+
+// Inf. Turn Time 60 Seconds
+Author = libretro-database contributors / original PSP cheat authors
+60355830 0000E920
+00000001 00000048
+
+// Infinite Game Time (Use In Game)
+Author = libretro-database contributors / original PSP cheat authors
+60355830 00000000
+B0355830 00000000
+0000003C 4900E000
+D2000000 00000000
+
+// Infinite Game Time (Use In Game) v2
+Author = libretro-database contributors / original PSP cheat authors
+20355830 4900E000
+00020000 0000003C
+
+// Infinite Game Time (Use In Game) v3
+Author = libretro-database contributors / original PSP cheat authors
+20355830 4900E000
+00020001 0000003C
+
+// Press Select+Down For 1 Second Move Time
+Author = libretro-database contributors / original PSP cheat authors
+203A56B0 00000041
+20355830 00000000
+00000048 00000200
+D2000000 00000000
+
+// Press Select+Down For 1 Second Move Time v2
+Author = libretro-database contributors / original PSP cheat authors
+203A56B0 00000041
+20355830 00000200
+00020000 00000048
+
+// Press Select+Down For 1 Second Move Time v3
+Author = libretro-database contributors / original PSP cheat authors
+203A56B0 00000041
+20355830 00000200
+00020001 00000048
+
+// Press Select+Up For 59 Secs Move Time
+Author = libretro-database contributors / original PSP cheat authors
+203A56B0 00000011
+20355830 00000000
+00000048 0000E000
+D2000000 00000000
+
+// Press Select+Up For 59 Secs Move Time v2
+Author = libretro-database contributors / original PSP cheat authors
+203A56B0 00000011
+20355830 0000E000
+00020000 00000048
+
+// Press Select+Up For 59 Secs Move Time v3
+Author = libretro-database contributors / original PSP cheat authors
+203A56B0 00000011
+20355830 0000E000
+00020001 00000048
+
+// Skywalker [1] Player
+Author = libretro-database contributors / original PSP cheat authors
+6043FEE8 43985359
+00000001 00000018
+
+// Skywalker [2nd] Player
+Author = libretro-database contributors / original PSP cheat authors
+6043FEF0 43985359
+00000001 00000018
+
+// Skywalker [3rd] Player
+Author = libretro-database contributors / original PSP cheat authors
+6043FEF8 43985359
+00000001 00000018
+
+// Skywalker [4th] Player
+Author = libretro-database contributors / original PSP cheat authors
+6043FF00 43985359
+00000001 00000018
+
+// Your Team Cant Play At All
+Author = libretro-database contributors / original PSP cheat authors
+00970A60 00000005
+009BDE4C 00000005

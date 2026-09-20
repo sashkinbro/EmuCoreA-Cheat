@@ -1,0 +1,45 @@
+# PSP cheat pack
+# Serial: ULJM-05165
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+200F1F54 00000000
+200F2708 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0F42C8
+20002004 AC8F0028
+20002008 0A224FD9
+2000200C C4800028
+20093F5C 0A200800
+20093F60 02272021
+
+// Instant Hack
+Author = libretro-database contributors / original PSP cheat authors
+20002030 0A231373
+20002034 A4AE0470
+200C4DC4 0A20080C
+200C4DC8 94AE0474
+
+// Instant Hack [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200C4DC4 94AE0470
+200C4DC8 A48E001C
+
+// Max Cash/No Debt On View Menu
+Author = libretro-database contributors / original PSP cheat authors
+20002010 2442E0FF
+20002014 AC820000
+20002018 03E00008
+2000201C AC800004
+2000D894 0A200804
+2000D898 3C0205F6
+
+// Max Drugs In Bag On View Despository
+Author = libretro-database contributors / original PSP cheat authors
+20002020 03E00008
+20002024 ACA20008
+2000D57C 0A200808
+2000D580 24020063

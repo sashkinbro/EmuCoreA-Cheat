@@ -1,0 +1,32 @@
+# PSP cheat pack
+# Serial: UCAS-40025
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// C-26A
+Author = libretro-database contributors / original PSP cheat authors
+10956534 000003E7
+
+// G69-A1
+Author = libretro-database contributors / original PSP cheat authors
+109568D4 000003E7
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+10CF8090 000003E7
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20191BAC 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 14400003
+20002004 240403E7
+20002008 0A21B57A
+2000200C AC640090
+20002010 0A21B581
+2006D5E0 0A200800
+
+// M-5
+Author = libretro-database contributors / original PSP cheat authors
+109569E4 000003E7

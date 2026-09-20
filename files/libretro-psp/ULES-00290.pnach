@@ -1,0 +1,77 @@
+# PSP cheat pack
+# Serial: ULES-00290
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+00EC42A8 00000063
+00EC798C 00000063
+00EC3DAC 00000063
+00EC77CC 00000063
+00EC3DB4 00000063
+00EC74C7 00000063
+00EC74C6 00000063
+
+// Infinite Health: Green Level 1-1
+Author = libretro-database contributors / original PSP cheat authors
+20ECCF8E 000042C8
+
+// Infinite Health: Green Level 1-2
+Author = libretro-database contributors / original PSP cheat authors
+20F27E5E 000042C8
+
+// Infinite Health: Green Level 1-3
+Author = libretro-database contributors / original PSP cheat authors
+20E25C7E 000042C8
+
+// Infinite Health: Green Level 2-1
+Author = libretro-database contributors / original PSP cheat authors
+21316BEE 000042C8
+
+// Inifinity Ammo (Kronen SMG)
+Author = libretro-database contributors / original PSP cheat authors
+20EC3DB4 00000063
+
+// Inifinity Ammo (Silenced PP7)
+Author = libretro-database contributors / original PSP cheat authors
+20EC3DAC 00000063
+
+// Max Ammo: Armor Piercing Rifle
+Author = libretro-database contributors / original PSP cheat authors
+00E587B8 000003E7
+
+// Max Ammo: Assault Rifle
+Author = libretro-database contributors / original PSP cheat authors
+00E587AC 000003E7
+
+// Max Ammo: Bazooka
+Author = libretro-database contributors / original PSP cheat authors
+00E587B0 000003E7
+
+// Max Ammo: Kronen SMG
+Author = libretro-database contributors / original PSP cheat authors
+00E587A4 000003E7
+
+// Max Ammo: Leopard Sniper Rifle
+Author = libretro-database contributors / original PSP cheat authors
+00E587B4 000003E7
+
+// Max Ammo: Serum Gun
+Author = libretro-database contributors / original PSP cheat authors
+00E587BC 000003E7
+
+// Max Ammo: Silenced PP7
+Author = libretro-database contributors / original PSP cheat authors
+00E5879C 000003E7
+
+// Max Ammo: Wright Magnum
+Author = libretro-database contributors / original PSP cheat authors
+00E587A0 000003E7
+
+// No Reload (Kronen SMG)
+Author = libretro-database contributors / original PSP cheat authors
+20EC77CC 00000063
+
+// No Reload (Silenced PP7)
+Author = libretro-database contributors / original PSP cheat authors
+20EC798C 00000063

@@ -1,0 +1,376 @@
+# PSP cheat pack
+# Serial: SLUS-00748
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Always 0x Item In Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+210D4A3D 00000000
+
+// Always 0x Item In Slot 1 v2
+Author = libretro-database contributors / original PSP cheat authors
+210A225F 00000000
+
+// Always 0x Item In Slot 2
+Author = libretro-database contributors / original PSP cheat authors
+210D49F9 00000000
+
+// Always 0x Item In Slot 2 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A41 00000000
+
+// Always 0x Item In Slot 3
+Author = libretro-database contributors / original PSP cheat authors
+210D49FD 00000000
+
+// Always 0x Item In Slot 3 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A45 00000000
+
+// Always 0x Item In Slot 4
+Author = libretro-database contributors / original PSP cheat authors
+210D4A01 00000000
+
+// Always 0x Item In Slot 4 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A49 00000000
+
+// Always 0x Item In Slot 5
+Author = libretro-database contributors / original PSP cheat authors
+210D4A05 00000000
+
+// Always 0x Item In Slot 5 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A4D 00000000
+
+// Always 0x Item In Slot 6
+Author = libretro-database contributors / original PSP cheat authors
+210D4A09 00000000
+
+// Always 0x Item In Slot 6 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A51 00000000
+
+// Always 0x Item In Slot 7
+Author = libretro-database contributors / original PSP cheat authors
+210D4A0D 00000000
+
+// Always 0x Item In Slot 7 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A55 00000000
+
+// Always 0x Item In Slot 8
+Author = libretro-database contributors / original PSP cheat authors
+210D4A11 00000000
+
+// Always 0x Item In Slot 8 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A59 00000000
+
+// Always 0x Item In Slot 9
+Author = libretro-database contributors / original PSP cheat authors
+210D4A15 00000000
+
+// Always 0x Item In Slot 9 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A5D 00000000
+
+// Always 0x Item In Slot 10
+Author = libretro-database contributors / original PSP cheat authors
+210D4A19 00000000
+
+// Always 0x Item In Slot 10 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A61 00000000
+
+// Always 1x Item In Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+210A225F 00000001
+
+// Always 1x Item In Slot 1 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A3D 00000001
+
+// Always 1x Item In Slot 2
+Author = libretro-database contributors / original PSP cheat authors
+210D49F9 00000001
+
+// Always 1x Item In Slot 2 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A41 00000001
+
+// Always 1x Item In Slot 3
+Author = libretro-database contributors / original PSP cheat authors
+210D49FD 00000001
+
+// Always 1x Item In Slot 3 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A45 00000001
+
+// Always 1x Item In Slot 4
+Author = libretro-database contributors / original PSP cheat authors
+210D4A01 00000001
+
+// Always 1x Item In Slot 4 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A49 00000001
+
+// Always 1x Item In Slot 5
+Author = libretro-database contributors / original PSP cheat authors
+210D4A05 00000001
+
+// Always 1x Item In Slot 5 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A4D 00000001
+
+// Always 1x Item In Slot 6
+Author = libretro-database contributors / original PSP cheat authors
+210D4A09 00000001
+
+// Always 1x Item In Slot 6 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A51 00000001
+
+// Always 1x Item In Slot 7
+Author = libretro-database contributors / original PSP cheat authors
+210D4A0D 00000001
+
+// Always 1x Item In Slot 7 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A55 00000001
+
+// Always 1x Item In Slot 8
+Author = libretro-database contributors / original PSP cheat authors
+210D4A11 00000001
+
+// Always 1x Item In Slot 8 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A59 00000001
+
+// Always 1x Item In Slot 9
+Author = libretro-database contributors / original PSP cheat authors
+210D4A15 00000001
+
+// Always 1x Item In Slot 9 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A5D 00000001
+
+// Always 1x Item In Slot 10
+Author = libretro-database contributors / original PSP cheat authors
+210D4A19 00000001
+
+// Always 1x Item In Slot 10 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A61 00000001
+
+// Always 99x Item In Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+210A225F 00000063
+
+// Always 99x Item In Slot 1 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A3D 00000063
+
+// Always 99x Item In Slot 2
+Author = libretro-database contributors / original PSP cheat authors
+210D49F9 00000063
+
+// Always 99x Item In Slot 2 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A41 00000063
+
+// Always 99x Item In Slot 3
+Author = libretro-database contributors / original PSP cheat authors
+210D49FD 00000063
+
+// Always 99x Item In Slot 3 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A45 00000063
+
+// Always 99x Item In Slot 4
+Author = libretro-database contributors / original PSP cheat authors
+210D4A01 00000063
+
+// Always 99x Item In Slot 4 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A49 00000063
+
+// Always 99x Item In Slot 5
+Author = libretro-database contributors / original PSP cheat authors
+210D4A05 00000063
+
+// Always 99x Item In Slot 5 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A4D 00000063
+
+// Always 99x Item In Slot 6
+Author = libretro-database contributors / original PSP cheat authors
+210D4A09 00000063
+
+// Always 99x Item In Slot 6 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A51 00000063
+
+// Always 99x Item In Slot 7
+Author = libretro-database contributors / original PSP cheat authors
+210D4A0D 00000063
+
+// Always 99x Item In Slot 7 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A55 00000063
+
+// Always 99x Item In Slot 8
+Author = libretro-database contributors / original PSP cheat authors
+210D4A11 00000063
+
+// Always 99x Item In Slot 8 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A59 00000063
+
+// Always 99x Item In Slot 9
+Author = libretro-database contributors / original PSP cheat authors
+210D4A15 00000063
+
+// Always 99x Item In Slot 9 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A5D 00000063
+
+// Always 99x Item In Slot 10
+Author = libretro-database contributors / original PSP cheat authors
+210D4A19 00000063
+
+// Always 99x Item In Slot 10 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A61 00000063
+
+// Always Infinite Item In Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+210A225F 000000FF
+
+// Always Infinite Item In Slot 1 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A3D 000000FF
+
+// Always Infinite Item In Slot 2
+Author = libretro-database contributors / original PSP cheat authors
+210D49F9 000000FF
+
+// Always Infinite Item In Slot 2 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A41 000000FF
+
+// Always Infinite Item In Slot 3
+Author = libretro-database contributors / original PSP cheat authors
+210D49FD 000000FF
+
+// Always Infinite Item In Slot 3 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A45 000000FF
+
+// Always Infinite Item In Slot 4
+Author = libretro-database contributors / original PSP cheat authors
+210D4A01 000000FF
+
+// Always Infinite Item In Slot 4 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A49 000000FF
+
+// Always Infinite Item In Slot 5
+Author = libretro-database contributors / original PSP cheat authors
+210D4A05 000000FF
+
+// Always Infinite Item In Slot 5 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A4D 000000FF
+
+// Always Infinite Item In Slot 6
+Author = libretro-database contributors / original PSP cheat authors
+210D4A09 000000FF
+
+// Always Infinite Item In Slot 6 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A51 000000FF
+
+// Always Infinite Item In Slot 7
+Author = libretro-database contributors / original PSP cheat authors
+210D4A0D 000000FF
+
+// Always Infinite Item In Slot 7 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A55 000000FF
+
+// Always Infinite Item In Slot 8
+Author = libretro-database contributors / original PSP cheat authors
+210D4A11 000000FF
+
+// Always Infinite Item In Slot 8 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A59 000000FF
+
+// Always Infinite Item In Slot 9
+Author = libretro-database contributors / original PSP cheat authors
+210D4A15 000000FF
+
+// Always Infinite Item In Slot 9 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A5D 000000FF
+
+// Always Infinite Item In Slot 10
+Author = libretro-database contributors / original PSP cheat authors
+210D4A19 000000FF
+
+// Always Infinite Item In Slot 10 v2
+Author = libretro-database contributors / original PSP cheat authors
+210D4A61 000000FF
+
+// Backpack Always Equipped
+Author = libretro-database contributors / original PSP cheat authors
+210D4878 00000001
+
+// Backpack Always Equipped v2
+Author = libretro-database contributors / original PSP cheat authors
+210D48C0 00000001
+
+// Infinite Chest Ammo
+Author = libretro-database contributors / original PSP cheat authors
+202BAE58 42C80000
+202BAE5C 42C80000
+
+// Infinite Elixer
+Author = libretro-database contributors / original PSP cheat authors
+202BB088 0001869F
+
+// Infinite Head Ammo
+Author = libretro-database contributors / original PSP cheat authors
+202BAEE0 42C80000
+202D4C04 42C80000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+210CFD06 000000C8
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+210CFD4E 000000C8
+
+// Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+102BB070 00000708
+
+// Infinite Left Arm Ammo
+Author = libretro-database contributors / original PSP cheat authors
+202BAFF0 42C80000
+202D4C0C 42C80000
+
+// Infinite Leg Ammo
+Author = libretro-database contributors / original PSP cheat authors
+202BADD0 42C80000
+202D4C5C 42C80000
+
+// Infinite Right Arm Ammo
+Author = libretro-database contributors / original PSP cheat authors
+202BAF68 42C80000
+202D4C14 42C80000
+
+// Status Always Fine
+Author = libretro-database contributors / original PSP cheat authors
+210CFE10 00000000

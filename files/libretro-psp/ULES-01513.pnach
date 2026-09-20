@@ -1,0 +1,348 @@
+# PSP cheat pack
+# Serial: ULES-01513
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+200158F8 1480FFFA
+2041AD64 3F800000
+
+// 60 FPS v1 [Enable After Mission Start]
+Author = libretro-database contributors / original PSP cheat authors
+E0020002 0147140C
+2041AD64 3F000000
+200158F8 00000000
+E0020002 1147140C
+200158F8 1480FFFA
+2041AD64 3F800000
+
+// 1.5x Movement Speed
+Author = libretro-database contributors / original PSP cheat authors
+E0020A00 114A1218
+614A1C18 3FC00000
+00020001 00000344
+
+// 2x Movement Speed
+Author = libretro-database contributors / original PSP cheat authors
+E0020A00 114A1218
+614A1C18 40000000
+00020001 00000344
+
+// All Achievements Clear
+Author = libretro-database contributors / original PSP cheat authors
+21489598 FFFFFFFF
+0148959C 0000003F
+
+// All Weapons Have Auto-Aim
+Author = libretro-database contributors / original PSP cheat authors
+014A1F28 00000000
+214A1FB0 00000000
+214A0BF4 00000000
+214A1F6C 00000000
+
+// Always Overdrive
+Author = libretro-database contributors / original PSP cheat authors
+2016DE00 24C60000
+
+// Board #1 Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+014A0D40 00000000
+
+// Board #1 Slot 2
+Author = libretro-database contributors / original PSP cheat authors
+014A0D5C 00000000
+
+// Board #1 Slot 3
+Author = libretro-database contributors / original PSP cheat authors
+014A0D78 00000000
+
+// Board #1 Slot 4
+Author = libretro-database contributors / original PSP cheat authors
+014A0D94 00000000
+
+// Board #1 Slot 5
+Author = libretro-database contributors / original PSP cheat authors
+014A0DB0 00000000
+
+// Board #1 Slot 6
+Author = libretro-database contributors / original PSP cheat authors
+014A0DCC 00000000
+
+// Board #1 Slot 7
+Author = libretro-database contributors / original PSP cheat authors
+014A0DE8 00000000
+
+// Board #1 Slot 8
+Author = libretro-database contributors / original PSP cheat authors
+014A0E04 00000000
+
+// Board #1 Slot 9
+Author = libretro-database contributors / original PSP cheat authors
+014A0E20 00000000
+
+// Board #2 Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+014A0AD0 00000000
+
+// Board #2 Slot 2
+Author = libretro-database contributors / original PSP cheat authors
+014A0AEC 00000000
+
+// Board #2 Slot 3
+Author = libretro-database contributors / original PSP cheat authors
+014A0B08 00000000
+
+// Board #2 Slot 4
+Author = libretro-database contributors / original PSP cheat authors
+014A0B24 00000000
+
+// Board #2 Slot 5
+Author = libretro-database contributors / original PSP cheat authors
+014A0B40 00000000
+
+// Board #2 Slot 6
+Author = libretro-database contributors / original PSP cheat authors
+014A0B5C 00000000
+
+// Board #2 Slot 7
+Author = libretro-database contributors / original PSP cheat authors
+014A0B78 00000000
+
+// Board #2 Slot 8
+Author = libretro-database contributors / original PSP cheat authors
+014A0B94 00000000
+
+// Board #2 Slot 9
+Author = libretro-database contributors / original PSP cheat authors
+014A0BB0 00000000
+
+// Bombas Inf.
+Author = libretro-database contributors / original PSP cheat authors
+114A20BC 00000009
+
+// Deaths 0 [You & Soldiers]
+Author = libretro-database contributors / original PSP cheat authors
+2144E1B4 00000000
+2144E1B0 00000000
+
+// DNA Board x99 All [1st Slot]
+Author = libretro-database contributors / original PSP cheat authors
+114A0D48 00000063
+114A0D64 00000063
+114A0D80 00000063
+114A0D9C 00000063
+114A0DB8 00000063
+114A0DD4 00000063
+114A0DF0 00000063
+114A0E0C 00000063
+114A0E28 00000063
+
+// DNA Board x99 All [2nd Slot]
+Author = libretro-database contributors / original PSP cheat authors
+214A0B80 00000063
+214A0AD8 00000063
+214A0AF4 00000063
+214A0B10 00000063
+214A0B64 00000063
+214A0BB8 00000063
+214A0B48 00000063
+214A0B9C 00000063
+214A0B2C 00000063
+
+// Exp. [Needs Adjusting]
+Author = libretro-database contributors / original PSP cheat authors
+2144F63C 00000001
+
+// Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+214AB900 001A3EC0
+
+// Health v.1 (Use Only One Code)
+Author = libretro-database contributors / original PSP cheat authors
+61496AB0 461C4000
+00020002 0000036C
+20000008 00000000
+
+// Health v.2 (Use Only One Code)
+Author = libretro-database contributors / original PSP cheat authors
+61496AB4 461C4000
+00020002 0000036C
+20000008 00000000
+
+// Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+214A1F38 0000270F
+214A1F7C 0000270F
+214A2004 0000270F
+214A1FC0 0000270F
+
+// Inf. Ammo & Grenades
+Author = libretro-database contributors / original PSP cheat authors
+114A1F7C 00000063
+114A20BC 00000009
+114A2004 00000063
+114A1F38 00000063
+114A1FC0 00000063
+
+// Inf. Ammo Reserve
+Author = libretro-database contributors / original PSP cheat authors
+214A1F70 FFFFFFFF
+214A1F78 FFFFFFFF
+214A1FF8 FFFFFFFF
+214A2000 FFFFFFFF
+214A1FB4 FFFFFFFF
+214A1FBC FFFFFFFF
+
+// Inf. BP
+Author = libretro-database contributors / original PSP cheat authors
+214AB904 000F423F
+
+// Inf. Grenades
+Author = libretro-database contributors / original PSP cheat authors
+214A20BC 0000270F
+
+// Inf. Liberation
+Author = libretro-database contributors / original PSP cheat authors
+6133BA1C 000002BD
+00020001 00002EE0
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20170884 00000000
+
+// Infinite Grenades
+Author = libretro-database contributors / original PSP cheat authors
+20170CC8 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2016D6A4 C48E0370
+2016D6A8 E48E036C
+
+// Infinite Liberation
+Author = libretro-database contributors / original PSP cheat authors
+214AAB0C 447A0000
+
+// Infinite Liberation v2
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0F447A
+20002004 0A276028
+20002008 AC8F8C0C
+201D8098 0A200800
+201D809C 460CA03E
+
+// Infinite Liberation v2 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201D7BBC 460CA03E
+201D7BC0 00000000
+
+// Liberation Max
+Author = libretro-database contributors / original PSP cheat authors
+014AAB0C 00000000
+014AAB0D 00000000
+014AAB0E 0000007F
+014AAB0F 00000044
+
+// Max BP
+Author = libretro-database contributors / original PSP cheat authors
+214AB904 000F423F
+
+// Max Clothing Damage
+Author = libretro-database contributors / original PSP cheat authors
+014AB940 00000002
+014AB948 00000002
+014AB950 00000002
+014AB958 00000002
+014AB960 00000002
+014AB968 00000002
+014AB970 00000002
+014AB978 00000002
+014AB980 00000002
+014AB988 00000002
+014AB990 00000002
+
+// Never Overdrive
+Author = libretro-database contributors / original PSP cheat authors
+2016DE00 24C6FFFF
+
+// No Damage
+Author = libretro-database contributors / original PSP cheat authors
+2016D6A4 C48E0370
+2016D6B0 E48E036C
+
+// Not Clothing Damage
+Author = libretro-database contributors / original PSP cheat authors
+014AB940 00000000
+014AB948 00000000
+014AB950 00000000
+014AB958 00000000
+014AB960 00000000
+014AB968 00000000
+014AB970 00000000
+014AB978 00000000
+014AB980 00000000
+014AB988 00000000
+014AB990 00000000
+
+// Protective Gear: Extremely Torn
+Author = libretro-database contributors / original PSP cheat authors
+814AB940 000B0008
+00000002 00000000
+
+// Protective Gear: Torn
+Author = libretro-database contributors / original PSP cheat authors
+814AB940 000B0008
+00000001 00000000
+
+// Protective Gear: Undamaged
+Author = libretro-database contributors / original PSP cheat authors
+814AB940 000B0008
+
+// Rapidfire
+Author = libretro-database contributors / original PSP cheat authors
+20EAE7C4 00000000
+
+// Super 92M Handgun
+Author = libretro-database contributors / original PSP cheat authors
+11499E22 000003E7
+21499D64 47000000
+21499D68 49000000
+21499DD4 47000000
+
+// Torn Knight Armor
+Author = libretro-database contributors / original PSP cheat authors
+014AB990 00000002
+
+// Torn Swim Wear
+Author = libretro-database contributors / original PSP cheat authors
+014AB960 00000002
+
+// Unlock All Costumes
+Author = libretro-database contributors / original PSP cheat authors
+114AC15C 000007FF
+
+// Unlock All Protective Gear + Blaze Edge
+Author = libretro-database contributors / original PSP cheat authors
+114AC15C 000007FF
+
+// Unlock All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+814A2868 0032008A
+10000101 00000000
+
+// Weapon In Circle Inf.
+Author = libretro-database contributors / original PSP cheat authors
+114A1FC0 00000063
+
+// Weapon In Square Inf.
+Author = libretro-database contributors / original PSP cheat authors
+114A1F7C 00000063
+
+// Weapon In x Inf.
+Author = libretro-database contributors / original PSP cheat authors
+114A2004 00000063
+
+// Weapons Level 9
+Author = libretro-database contributors / original PSP cheat authors
+814AB908 00060004
+00000009 00000000

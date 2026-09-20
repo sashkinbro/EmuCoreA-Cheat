@@ -1,0 +1,30 @@
+# PSP cheat pack
+# Serial: ULES-01284
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20212EC0 44846000
+20212EC4 46806320
+20212EC8 E4EC0004
+20212ECC 4600B506
+
+// Infinite Points
+Author = libretro-database contributors / original PSP cheat authors
+20213670 3C1105F5
+20213674 3631E0FF
+20213678 AC51057C
+2021367C AE1101F8
+20213680 1000000D
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+20002000 24040001
+20002004 240E0023
+20002008 ADE40D68
+2000200C 25EF0008
+20002010 15C0FFFD
+20002014 25CEFFFF
+20002018 0A262CD8
+2018B358 0A200800
+2018B35C 02647821

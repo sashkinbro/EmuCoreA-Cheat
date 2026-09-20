@@ -1,0 +1,36 @@
+# PSP cheat pack
+# Serial: NPUZ-00238
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Volume Workaround
+Author = libretro-database contributors / original PSP cheat authors
+E0010018 0007380C
+2007380C 34048000
+
+// Volume Workaround [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0018000 0007380C
+2007380C 8FA40018
+
+// All Levels Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+200185A8 8CCF0000
+200185AC 01E57825
+200185B0 ACCF0000
+200185B4 24060000
+
+// Flip Counter
+Author = libretro-database contributors / original PSP cheat authors
+20023EE4 24840001
+
+// Flip Counter [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20023EE4 00000000
+
+// Timer
+Author = libretro-database contributors / original PSP cheat authors
+2000DC44 24860001
+
+// Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2000DC44 24860000

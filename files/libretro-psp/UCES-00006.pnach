@@ -1,0 +1,161 @@
+# PSP cheat pack
+# Serial: UCES-00006
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Arbalest Ammo
+Author = libretro-database contributors / original PSP cheat authors
+01672F12 000000C8
+
+// Bullet Clipping (Offline)
+Author = libretro-database contributors / original PSP cheat authors
+201CB6D4 03E00008
+
+// Infinite Drumsticks
+Author = libretro-database contributors / original PSP cheat authors
+01672F24 0000001E
+
+// Infinite Health (Activate In Game)
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 00000000
+00000358 447A0000
+D2000000 00000000
+
+// Infinite Health (Activate In Game) v2
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 447A0000
+00020000 00000358
+
+// Infinite Health (Activate In Game) v3
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 447A0000
+00020001 00000358
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+19E72F94 0000270F
+
+// Max Gold v2
+Author = libretro-database contributors / original PSP cheat authors
+21672F94 0000270F
+
+// Max Gold v3
+Author = libretro-database contributors / original PSP cheat authors
+11672F94 00007530
+
+// Max Spears
+Author = libretro-database contributors / original PSP cheat authors
+01672F1E 0000001E
+
+// Max Throwing Knives
+Author = libretro-database contributors / original PSP cheat authors
+01672F10 000000FA
+
+// Max/Infinite Ammo Flaming Long Bow
+Author = libretro-database contributors / original PSP cheat authors
+01672F18 00000064
+
+// Max/Infinite Ammo Hero's Crossbow
+Author = libretro-database contributors / original PSP cheat authors
+01672F14 000000C8
+
+// Max/Infinite Ammo Long Bow
+Author = libretro-database contributors / original PSP cheat authors
+01672F16 000000C8
+
+// Max/Infinite Ammo Magic Longbow
+Author = libretro-database contributors / original PSP cheat authors
+01672F1A 00000032
+
+// Sir Dan Speed Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 00000000
+000002A8 40000000
+D2000000 00000000
+
+// Sir Dan Speed Mod: Insane v2
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 40000000
+00020000 000002A8
+
+// Sir Dan Speed Mod: Insane v3
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 40000000
+00020001 000002A8
+
+// Sir Dan Speed Mod: Much Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 00000000
+000002A8 3FC00000
+D2000000 00000000
+
+// Sir Dan Speed Mod: Much Quicker v2
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 3FC00000
+00020000 000002A8
+
+// Sir Dan Speed Mod: Much Quicker v3
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 3FC00000
+00020001 000002A8
+
+// Sir Dan Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 00000000
+000002A8 3F800000
+D2000000 00000000
+
+// Sir Dan Speed Mod: Normal v2
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 3F800000
+00020000 000002A8
+
+// Sir Dan Speed Mod: Normal v3
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 3F800000
+00020001 000002A8
+
+// Sir Dan Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 00000000
+000002A8 3FA00000
+D2000000 00000000
+
+// Sir Dan Speed Mod: Quicker v2
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 3FA00000
+00020000 000002A8
+
+// Sir Dan Speed Mod: Quicker v3
+Author = libretro-database contributors / original PSP cheat authors
+2013FF78 08900000
+2013FF78 09FFFF00
+2013FF78 3FA00000
+00020001 000002A8

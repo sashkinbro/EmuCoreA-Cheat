@@ -1,0 +1,55 @@
+# PSP cheat pack
+# Serial: ULES-00993
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Acceleration Mod: Faster
+Author = libretro-database contributors / original PSP cheat authors
+2009B768 3C044100
+
+// Acceleration Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2009B768 3C044180
+
+// Acceleration Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+2009B768 3C0442C8
+
+// Acceleration Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2009B768 3C043F80
+
+// Acceleration Mod: Slow
+Author = libretro-database contributors / original PSP cheat authors
+2009B768 3C043E00
+
+// Acceleration Mod: Super Slow
+Author = libretro-database contributors / original PSP cheat authors
+2009B768 3C043D80
+
+// Character [Invisible]
+Author = libretro-database contributors / original PSP cheat authors
+201B6DC8 3C050000
+
+// Character [Visible]
+Author = libretro-database contributors / original PSP cheat authors
+201B6DC8 3C053F80
+
+// Size Mod: Bigger
+Author = libretro-database contributors / original PSP cheat authors
+2011EC84 3C043F90
+
+// Size Mod: Even Bigger
+Author = libretro-database contributors / original PSP cheat authors
+2011EC84 3C043FA0
+
+// Size Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2011EC84 3C043F80
+
+// Size Mod: Small
+Author = libretro-database contributors / original PSP cheat authors
+2011EC84 3C043F00
+
+// Size Mod: Super Small
+Author = libretro-database contributors / original PSP cheat authors
+2011EC84 3C043E80

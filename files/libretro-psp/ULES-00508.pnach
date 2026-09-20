@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: ULES-00508
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C037FFF
+20002004 0A24E74E
+20002008 AC4308A4
+20139D30 0A200800
+20139D34 8E24009C

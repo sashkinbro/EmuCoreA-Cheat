@@ -1,0 +1,17 @@
+# PSP cheat pack
+# Serial: ULES-00043
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Time Attack: Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+20309D98 00000001
+D3000000 00309D98
+20309D94 00000004
+D2000000 00000000
+
+// Time Attack: Time Is Over (Press L+R)
+Author = libretro-database contributors / original PSP cheat authors
+2177FDF4 00000300
+20309D98 00000001
+20309D94 00000000
+D2000000 00000000

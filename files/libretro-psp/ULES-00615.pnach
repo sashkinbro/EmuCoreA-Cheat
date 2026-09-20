@@ -1,0 +1,37 @@
+# PSP cheat pack
+# Serial: ULES-00615
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Graphical Glitches Partial Fix
+Author = libretro-database contributors / original PSP cheat authors
+E0018C84 000AB7BA
+200AB7B8 34040000
+
+// Graphical Glitches No-Fix [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0013404 000AB7BA
+200AB7B8 8C840000
+
+// 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2015F0BC 00000000
+
+// 40 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+2015F0BC 10800003
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2015F0BC 0A257C33
+
+// 1st + Lap
+Author = libretro-database contributors / original PSP cheat authors
+20223C8C 00000003
+
+// Inf. Points
+Author = libretro-database contributors / original PSP cheat authors
+209EA5BC 00000063
+
+// Time
+Author = libretro-database contributors / original PSP cheat authors
+209EED18 43634D4B

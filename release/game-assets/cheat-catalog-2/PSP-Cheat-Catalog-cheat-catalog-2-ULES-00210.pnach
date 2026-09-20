@@ -1,0 +1,39 @@
+# PSP cheat pack
+# Serial: ULES-00210
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 34000 Beans For Harry
+Author = libretro-database contributors / original PSP cheat authors
+10DD08F0 000186A0
+10F62D60 000186A0
+1122D01C 000186A0
+1122D054 000186A0
+
+// 34000 Beans For Heimili
+Author = libretro-database contributors / original PSP cheat authors
+10DD08F8 000186A0
+10FD1490 000186A0
+1128BD5C 000186A0
+1128BD94 000186A0
+
+// 34000 Beans For Ron
+Author = libretro-database contributors / original PSP cheat authors
+10DD08F4 000186A0
+10F934F0 000186A0
+1128B8BC 000186A0
+1128B8F4 000186A0
+
+// Max Beans
+Author = libretro-database contributors / original PSP cheat authors
+20DD08F0 0000270F
+20F62D60 0000270F
+2122D01C 0000270F
+2122D054 0000270F
+20DD08F8 0000270F
+20FD1490 0000270F
+2128BD5C 0000270F
+2128BD94 0000270F
+20DD08F4 0000270F
+20F934F0 0000270F
+2128B8BC 0000270F
+2128B8F4 0000270F

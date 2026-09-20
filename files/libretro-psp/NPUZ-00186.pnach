@@ -1,0 +1,13 @@
+# PSP cheat pack
+# Serial: NPUZ-00186
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Cash And Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20002000 240703E7
+20002004 AC870000
+20002008 3C0805F6
+2000200C 2508E0FF
+20002010 0A20A664
+20002014 AC880000
+20029988 0A200800

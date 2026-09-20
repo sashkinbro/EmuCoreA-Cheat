@@ -1,0 +1,14 @@
+# PSP cheat pack
+# Serial: ULJM-05120
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// RB 999km, LB 0km, R 80km, L 45km
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000200
+10305766 00004479
+D0000000 10000100
+10305766 00000000
+D0000000 10000020
+10305766 000042A0
+D0000000 10000080
+10305766 00004235

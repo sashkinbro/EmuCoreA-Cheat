@@ -1,0 +1,193 @@
+# PSP cheat pack
+# Serial: ULES-01176
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Away Goals = 99
+Author = libretro-database contributors / original PSP cheat authors
+20948504 000000FF
+
+// Away Team Scores 0
+Author = libretro-database contributors / original PSP cheat authors
+2026B740 FEFF0000
+20948504 00000000
+D0000000 00000000
+
+// Away Team Scores 0 v2
+Author = libretro-database contributors / original PSP cheat authors
+209484FC 00000000
+20948504 00000000
+
+// Away Team Scores 99
+Author = libretro-database contributors / original PSP cheat authors
+2026B740 FEFF0000
+20948504 00000063
+D0000000 00000000
+
+// Away Team Scores 99 v2
+Author = libretro-database contributors / original PSP cheat authors
+209484FC 00000063
+20948504 00000063
+
+// Be A Legeng Skill Points
+Author = libretro-database contributors / original PSP cheat authors
+0064E738 00000014
+
+// Camera Zoom Modifier
+Author = libretro-database contributors / original PSP cheat authors
+2003A74C 00000000
+2003A750 00000000
+2003BBD0 00000000
+2003BBD4 00000000
+
+// Camera Zoom Modifier v2
+Author = libretro-database contributors / original PSP cheat authors
+2003A74C 00000000
+2003A750 00000000
+2003BBD0 00000000
+2003BBD4 00000000
+217FF644 00000010
+D9000000 00230338
+D4000000 0000C000
+D6000000 00230338
+D2000000 00000000
+217FF644 00000040
+D4000000 FFFF3FFF
+
+// Camera Zoom Modifier [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2003A74C E4400338
+2003A750 E4410338
+2003BBD0 E4600338
+2003BBD4 E46C0338
+
+// Force Camera: Bird's Eye-View
+Author = libretro-database contributors / original PSP cheat authors
+2026C0D3 00000004
+
+// Force Camera: Broadcasting 1
+Author = libretro-database contributors / original PSP cheat authors
+2026C0D3 00000005
+
+// Force Camera: Broadcasting 2
+Author = libretro-database contributors / original PSP cheat authors
+2026C0D3 00000006
+
+// Force Camera: Broadcasting 3
+Author = libretro-database contributors / original PSP cheat authors
+2026C0D3 00000007
+
+// Force Camera: Normal Close
+Author = libretro-database contributors / original PSP cheat authors
+2028B9C3 00000000
+
+// Force Camera: Normal Long
+Author = libretro-database contributors / original PSP cheat authors
+2026C0D3 00000002
+
+// Force Camera: Normal Medium
+Author = libretro-database contributors / original PSP cheat authors
+2026C0D3 00000001
+
+// Force Camera: Player
+Author = libretro-database contributors / original PSP cheat authors
+2026C0D3 0000000C
+
+// Force Camera: Vertical Close
+Author = libretro-database contributors / original PSP cheat authors
+2026C0D3 00000009
+
+// Force Camera: Vertical Long
+Author = libretro-database contributors / original PSP cheat authors
+2026C0D3 0000000B
+
+// Force Camera: Vertical Medium
+Author = libretro-database contributors / original PSP cheat authors
+2026C0D3 0000000A
+
+// Force Camera: Wide
+Author = libretro-database contributors / original PSP cheat authors
+2026C0D3 00000003
+
+// Force Camera: Zoom
+Author = libretro-database contributors / original PSP cheat authors
+2026C0D3 00000008
+
+// Half Timer [Instant]
+Author = libretro-database contributors / original PSP cheat authors
+2026B794 00000000
+2026C3B8 00000000
+
+// Half Timer [Restart]
+Author = libretro-database contributors / original PSP cheat authors
+2026B794 000022DB
+2026C3B8 0010C088
+
+// Home Goals = 99
+Author = libretro-database contributors / original PSP cheat authors
+20948210 000000FF
+
+// Home Team Scores 0
+Author = libretro-database contributors / original PSP cheat authors
+2026B740 FEFF0000
+20948210 00000000
+D0000000 00000000
+
+// Home Team Scores 0 v2
+Author = libretro-database contributors / original PSP cheat authors
+20948208 00000000
+20948210 00000000
+
+// Home Team Scores 99
+Author = libretro-database contributors / original PSP cheat authors
+2026B740 FEFF0000
+20948210 00000063
+D0000000 00000000
+
+// Home Team Scores 99 v2
+Author = libretro-database contributors / original PSP cheat authors
+20948208 00000063
+20948210 00000063
+
+// Inf. Exp. In Become A Legend
+Author = libretro-database contributors / original PSP cheat authors
+0064E738 00000014
+
+// Inf. ML Points
+Author = libretro-database contributors / original PSP cheat authors
+204AD6C0 0005B1CA
+
+// Inf. PES Points
+Author = libretro-database contributors / original PSP cheat authors
+010B4A6C 0000270F
+
+// Inf. PES Points v2
+Author = libretro-database contributors / original PSP cheat authors
+210B4A6C 0001869F
+
+// Inf. Stats Points
+Author = libretro-database contributors / original PSP cheat authors
+2064E738 00000013
+
+// Master League: Max Points
+Author = libretro-database contributors / original PSP cheat authors
+204D6384 05F00000
+
+// Master League: Max Points v2
+Author = libretro-database contributors / original PSP cheat authors
+204D6384 05F5E0FF
+
+// Max Ability Points
+Author = libretro-database contributors / original PSP cheat authors
+2064E738 00000014
+
+// Max Ability Stars
+Author = libretro-database contributors / original PSP cheat authors
+2064E744 00000019
+
+// Max PES
+Author = libretro-database contributors / original PSP cheat authors
+210B4A6C 000F423F
+
+// Max PES v2
+Author = libretro-database contributors / original PSP cheat authors
+010B4A6C 7F800000

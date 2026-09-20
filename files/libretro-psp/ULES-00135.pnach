@@ -1,0 +1,285 @@
+# PSP cheat pack
+# Serial: ULES-00135
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS v1
+Author = libretro-database contributors / original PSP cheat authors
+202B3F2C 3F800000
+
+// 60 FPS v1 [Off]
+Author = libretro-database contributors / original PSP cheat authors
+202B3F2C 40000000
+
+// 60 FPS v2
+Author = libretro-database contributors / original PSP cheat authors
+E0040001 00159448
+20159448 24420004
+2015A3A4 4614A503
+2004B898 46010840
+2004B730 46021080
+
+// 60 FPS v2 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0040004 00159448
+20159448 24420001
+2015A3A4 00000000
+2004B898 4600A503
+2004B730 460018C3
+
+// Right Analog Aim
+Author = libretro-database contributors / original PSP cheat authors
+E03D08AF 001593F4
+20001010 340A0020
+20001024 3C083C20
+201593F4 0E200400
+20001000 3C0E4040
+20001004 3C0F08AD
+20001008 3C090880
+2000100C 0120C021
+20001014 340B0080
+20001018 016A6021
+2000101C 258C0001
+20001020 016A5823
+20001028 4488F000
+2000102C 448ED800
+20001030 91E808CE
+20001034 010B682A
+20001038 A12D0FFC
+2000103C 0188682A
+20001040 A12D0FFD
+20001044 2508FF80
+20001048 00086FC3
+2000104C 010D4026
+20001050 010A4023
+20001054 4488F800
+20001058 4680FFE0
+2000105C 461EFFC2
+20001060 E53F0FF4
+20001064 461BFFC3
+20001068 E53F0FEC
+2000106C 91E808CF
+20001070 1309FFF0
+20001074 2529FFFC
+20001078 03E00008
+2000107C 3C0208AF
+200C393C 3C180880
+200C3940 93020FFC
+200C3950 93020FFD
+200C3990 93020FFC
+200C39A0 93020FFC
+200C39A4 1040000D
+200C39F8 93020FF8
+200C3A08 93020FF8
+200C3A0C 5040008C
+200C3A2C 93020FF8
+200C3B84 93020FF9
+200C3964 C7040FF4
+200C39B4 C7040FF4
+200C3A40 C7040FF0
+200C3B98 C7040FF0
+2009CD9C 3C180880
+2009CDA0 93020FF8
+2009CE90 93020FFC
+2009D530 93020FFD
+2009D688 93020FF9
+2009CE0C 00000000
+2009CE84 C7000FE8
+2009CF00 00000000
+2009CF78 C7010FEC
+2009D5A4 00000000
+2009D61C C7010FEC
+2009D6F8 00000000
+2009D770 C7000FE8
+
+// Right Analog Aim [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E01D0400 001593F4
+201593F4 3C0208AF
+200C393C 8E23005C
+200C3940 02031024
+200C3950 02021024
+200C3990 02031024
+200C39A0 02021024
+200C39A4 1440000D
+200C39F8 02031024
+200C3A08 02021024
+200C3A0C 5440008C
+200C3A2C 02031024
+200C3B84 02021024
+200C3964 C6240030
+200C39B4 C6240030
+200C3A40 C6240030
+200C3B98 C6240030
+2009CD9C 8E820050
+2009CDA0 02A21024
+2009CE90 02A21024
+2009D530 02A21024
+2009D688 02A21024
+2009CE0C 45020020
+2009CE84 C68000F4
+2009CF00 45000022
+2009CF78 C68100F0
+2009D5A4 4500FE79
+2009D61C C68100F0
+2009D6F8 4502FDE5
+2009D770 C68000F4
+
+// 250 Health Area 1
+Author = libretro-database contributors / original PSP cheat authors
+00CF6990 000000FA
+
+// Freeze Timer
+Author = libretro-database contributors / original PSP cheat authors
+E0010000 101AFC4C
+201AFC4C 00000000
+
+// Freeze Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201AFC4C 46000840
+
+// God Mode
+Author = libretro-database contributors / original PSP cheat authors
+E00C0800 100A8BE0
+200A8BE0 0A200800
+200A8BE4 8E020090
+20002000 8E1B00D0
+20002004 57600001
+20002008 00511023
+2000200C 0A22A2FA
+200A9168 0A200805
+200A916C 8E020090
+20002014 8E1B00D0
+20002018 57600001
+2000201C 00511023
+20002020 0A22A45C
+
+// God Mode [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200A8BE0 8E020090
+200A8BE4 00511023
+200A9168 8E020090
+200A916C 00511023
+
+// HG80 Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+00954FD0 00000004
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+00D04D60 000000FA
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+E0021021 10191654
+20191654 00A01021
+20192F10 00401821
+
+// Infinite Ammo v2
+Author = libretro-database contributors / original PSP cheat authors
+20191C58 00000000
+
+// Infinite Ammo [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20191654 24A2FFFF
+20192F10 2443FFFF
+
+// Infinite Ammo (Minigame)
+Author = libretro-database contributors / original PSP cheat authors
+E0012021 1021141C
+2021141C 00402021
+
+// Infinite Ammo (Minigame) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2021141C 2444FFFE
+
+// Infinite Bombs (Minigame)
+Author = libretro-database contributors / original PSP cheat authors
+E0010000 10210D04
+20210D04 00000000
+
+// Infinite Bombs (Minigame) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20210D04 24A5FFFF
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 14400003
+20002004 240403E7
+20002008 0A21B5A2
+2000200C AC640090
+20002010 0A21B5A9
+2006D680 0A200800
+
+// Infinite HP (Minigame)
+Author = libretro-database contributors / original PSP cheat authors
+E0010000 102110F8
+202110F8 00000000
+
+// Infinite HP (Minigame) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+202110F8 460C0001
+
+// Infinite Lives (Minigame)
+Author = libretro-database contributors / original PSP cheat authors
+E0012821 10210EA8
+20210EA8 00402821
+
+// Infinite Lives (Minigame) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20210EA8 2445FFFF
+
+// Infinite Repair (Minigame)
+Author = libretro-database contributors / original PSP cheat authors
+E0011021 10210C1C
+20210C1C 00601021
+
+// Infinite Repair (Minigame) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20210C1C 2462FFFF
+
+// No Weapon Overheat
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 10191582
+20191580 00000000
+20197CF0 46000001
+
+// No Weapon Overheat [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20191580 46010000
+20197CF0 46140001
+
+// P-27 GP Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+00958624 0000001E
+
+// P-7 GP
+Author = libretro-database contributors / original PSP cheat authors
+009577A4 00000040
+
+// Permanent Weapon Unlock
+Author = libretro-database contributors / original PSP cheat authors
+20033E0C ACA20208
+
+// Unbreakable Armor
+Author = libretro-database contributors / original PSP cheat authors
+E0040000 10046C5A
+20046C58 00000000
+20046C74 00000000
+20046C20 00000000
+20046C3C 00000000
+
+// Unbreakable Armor [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20046C58 46010000
+20046C74 46010000
+20046C20 46010000
+20046C3C 46010000
+
+// Unlock All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 10033E04
+20033E04 34030001
+
+// Unlock All Weapons [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20033E04 0004182A

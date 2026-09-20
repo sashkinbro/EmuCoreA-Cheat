@@ -1,0 +1,83 @@
+# PSP cheat pack
+# Serial: ULJM-05348
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 999999 Red Orb
+Author = libretro-database contributors / original PSP cheat authors
+2163AF47 000F423F
+
+// Infinite Double Jumps
+Author = libretro-database contributors / original PSP cheat authors
+603471C8 00000001
+00020003 000002C8
+200000A8 2000008C
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+20366384 00000000
+
+// Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+2036638C 00000000
+
+// Mahou 100
+Author = libretro-database contributors / original PSP cheat authors
+603471C8 42C80000
+00020002 000000D8
+200000A8 00000000
+
+// Moonjump x0.5
+Author = libretro-database contributors / original PSP cheat authors
+1019575C 00003F00
+
+// Moonjump x1
+Author = libretro-database contributors / original PSP cheat authors
+1019575C 00003F80
+
+// Moonjump x2
+Author = libretro-database contributors / original PSP cheat authors
+1019575C 00004000
+
+// Moonjump x4
+Author = libretro-database contributors / original PSP cheat authors
+1019575C 00004080
+
+// Moonjump x8
+Author = libretro-database contributors / original PSP cheat authors
+1019575C 00004100
+
+// One Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+20366388 461C3C00
+
+// Orb 65535
+Author = libretro-database contributors / original PSP cheat authors
+603471C8 0000FFFF
+00020002 000000D4
+200000A8 00000000
+
+// Orb Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20366380 40800000
+
+// Orb Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+20366380 41800000
+
+// Orb Multiplier x64
+Author = libretro-database contributors / original PSP cheat authors
+20366380 42800000
+
+// Orb Multiplier x128
+Author = libretro-database contributors / original PSP cheat authors
+20366380 43000000
+
+// Orb Multiplier Codes [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20366380 3F800000
+
+// Tairyoku 100
+Author = libretro-database contributors / original PSP cheat authors
+603471C8 42C80000
+00020003 00000064
+200000A8 20000068

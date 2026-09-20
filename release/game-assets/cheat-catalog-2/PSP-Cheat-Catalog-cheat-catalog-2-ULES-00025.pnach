@@ -1,0 +1,130 @@
+# PSP cheat pack
+# Serial: ULES-00025
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// DisableAnalogStick
+Author = libretro-database contributors / original PSP cheat authors
+002F6000 00000001
+
+// SkipFE
+Author = libretro-database contributors / original PSP cheat authors
+002F5F28 00000001
+
+// SkipFENumLaps
+Author = libretro-database contributors / original PSP cheat authors
+002F5F38 00000001
+
+// SkipIntros
+Author = libretro-database contributors / original PSP cheat authors
+002F6070 00000001
+
+// UnlockEverything
+Author = libretro-database contributors / original PSP cheat authors
+002F5FD4 00000001
+
+// UseTGSCar
+Author = libretro-database contributors / original PSP cheat authors
+002F5FF8 00000001
+
+// 20 FPS
+Author = libretro-database contributors / original PSP cheat authors
+205B8F9C 00000003
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+205B8F9C 00000002
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+205B8F9C 00000001
+
+// 2000.000.000 Points
+Author = libretro-database contributors / original PSP cheat authors
+203913D0 3B9ACA00
+20A803FC C4653600
+
+// AI Disabled
+Author = libretro-database contributors / original PSP cheat authors
+1015C37C 00000000
+
+// AI Enabled
+Author = libretro-database contributors / original PSP cheat authors
+1015C37C 00000001
+
+// Disables Camera's Flickering At High Speed
+Author = libretro-database contributors / original PSP cheat authors
+202EE3A4 00000000
+
+// FOV Plus
+Author = libretro-database contributors / original PSP cheat authors
+205D2FC8 3F000000
+205D2FCC 3F000000
+
+// FOV Plus [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+205D2FC8 3F800000
+205D2FCC 3F800000
+
+// Graphical Quality/Texture Dimensions [Default]
+Author = libretro-database contributors / original PSP cheat authors
+202F91CC 3F800000
+
+// Graphical Quality/Texture Dimensions [Large Texture]
+Author = libretro-database contributors / original PSP cheat authors
+202F91CC 40000000
+
+// Graphical Quality/Texture Dimensions [No Texture]
+Author = libretro-database contributors / original PSP cheat authors
+202F91CC 00000000
+
+// Infinite Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+200FBB0C 00000000
+
+// Infinite Nitrous v2
+Author = libretro-database contributors / original PSP cheat authors
+200FBB3C 00000000
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+203913D0 05F5E0FF
+20A803FC 00000000
+
+// Max Drift Points
+Author = libretro-database contributors / original PSP cheat authors
+602FAB8C 0001869F
+00020001 00002260
+
+// Mod Total Lap: 1 Lap
+Author = libretro-database contributors / original PSP cheat authors
+2033B428 00000001
+
+// Mod Total Lap: 2 Laps
+Author = libretro-database contributors / original PSP cheat authors
+2033B428 00000002
+
+// Mod Total Lap: 3 Laps
+Author = libretro-database contributors / original PSP cheat authors
+2033B428 00000003
+
+// Mod Total Lap: 9 Laps
+Author = libretro-database contributors / original PSP cheat authors
+2033B428 00000009
+
+// Points Don't Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200AF35C 0A22BCFC
+200AF364 0A22BCFC
+200AF36C 0A22BCFC
+
+// Road's Light (Default)
+Author = libretro-database contributors / original PSP cheat authors
+202F8AF0 3F800000
+
+// Road's Light (Mod 1)
+Author = libretro-database contributors / original PSP cheat authors
+202F8AF0 4479C000
+
+// Road's Light (Mod 2)
+Author = libretro-database contributors / original PSP cheat authors
+202F8AF0 41100000

@@ -1,0 +1,22 @@
+# PSP cheat pack
+# Serial: UCUS-98699
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 231 Points away Game
+Author = libretro-database contributors / original PSP cheat authors
+006088F4 000003E7
+0077D8C4 000003E7
+0093B348 000003E7
+00CA0E78 000003E7
+00D53028 000003E7
+00D537E0 000003E7
+01245B94 000003E7
+
+// 231 Points Home Game
+Author = libretro-database contributors / original PSP cheat authors
+006088F0 000003E7
+0077D8C0 000003E7
+0093B1D8 000003E7
+00CA0E74 000003E7
+00D53024 000003E7
+00D537DC 000003E7

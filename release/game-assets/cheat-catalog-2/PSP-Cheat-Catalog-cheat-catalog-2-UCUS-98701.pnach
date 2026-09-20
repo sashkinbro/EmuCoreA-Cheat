@@ -1,0 +1,107 @@
+# PSP cheat pack
+# Serial: UCUS-98701
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 999999 Store Points
+Author = libretro-database contributors / original PSP cheat authors
+2095C670 000F423F
+
+// Ball Size
+Author = libretro-database contributors / original PSP cheat authors
+002D679E 000000D2
+
+// Cam1
+Author = libretro-database contributors / original PSP cheat authors
+002D88CA 000000B0
+
+// Cam1 v2
+Author = libretro-database contributors / original PSP cheat authors
+002D88CE 000000AC
+
+// Cam1 v3
+Author = libretro-database contributors / original PSP cheat authors
+002D88CB 00000040
+
+// Cam2
+Author = libretro-database contributors / original PSP cheat authors
+002D884A 00000006
+
+// Cam2 v2
+Author = libretro-database contributors / original PSP cheat authors
+002D884B 00000040
+
+// Cam2 v3
+Author = libretro-database contributors / original PSP cheat authors
+002D8852 00000076
+
+// Cam2 v4
+Author = libretro-database contributors / original PSP cheat authors
+002D886A 00000046
+
+// Curl
+Author = libretro-database contributors / original PSP cheat authors
+0034537E 000000AF
+
+// Curl v2
+Author = libretro-database contributors / original PSP cheat authors
+0034537F 00000045
+
+// Energy
+Author = libretro-database contributors / original PSP cheat authors
+003451F3 00000047
+
+// Energy v2
+Author = libretro-database contributors / original PSP cheat authors
+003451EB 00000047
+
+// Energy v3
+Author = libretro-database contributors / original PSP cheat authors
+00345323 00000047
+
+// Energy v4
+Author = libretro-database contributors / original PSP cheat authors
+002D858B 00000048
+
+// Extreme
+Author = libretro-database contributors / original PSP cheat authors
+002D871E 000000FF
+
+// Lob
+Author = libretro-database contributors / original PSP cheat authors
+00345227 00000043
+
+// Lob v2
+Author = libretro-database contributors / original PSP cheat authors
+00345226 00000000
+
+// PowerServe
+Author = libretro-database contributors / original PSP cheat authors
+0034537A 0000001C
+
+// PowerServe v2
+Author = libretro-database contributors / original PSP cheat authors
+0034537B 00000043
+
+// Run
+Author = libretro-database contributors / original PSP cheat authors
+003451CA 00000090
+
+// Run v2
+Author = libretro-database contributors / original PSP cheat authors
+003451CB 00000043
+
+// Shop
+Author = libretro-database contributors / original PSP cheat authors
+0095C672 000000B0
+
+// Slice
+Author = libretro-database contributors / original PSP cheat authors
+00345136 000000AF
+
+// Smash
+Author = libretro-database contributors / original PSP cheat authors
+003451BB 00000043
+
+// Spin
+Author = libretro-database contributors / original PSP cheat authors
+00345126 000000EB

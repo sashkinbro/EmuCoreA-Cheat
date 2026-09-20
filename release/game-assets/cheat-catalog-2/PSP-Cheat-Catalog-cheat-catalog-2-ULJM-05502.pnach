@@ -1,0 +1,187 @@
+# PSP cheat pack
+# Serial: ULJM-05502
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Char. Status
+Author = libretro-database contributors / original PSP cheat authors
+8044B266 0075000C
+10002710 00000000
+8044B268 0075000C
+8044B26F 00750018
+00000063 00000000
+4044B270 00750006
+64636363 00000000
+
+// Damage Mult. 2x
+Author = libretro-database contributors / original PSP cheat authors
+2009E13C 00108040
+2009E140 10800009
+
+// Damage Mult. 4x
+Author = libretro-database contributors / original PSP cheat authors
+2009E13C 00108080
+2009E140 10800009
+
+// Damage Mult. 8x
+Author = libretro-database contributors / original PSP cheat authors
+2009E13C 001080C0
+2009E140 10800009
+
+// Damage Mult. 16x
+Author = libretro-database contributors / original PSP cheat authors
+2009E13C 00108100
+2009E140 10800009
+
+// Damage Mult. [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+2009E13C 30850001
+2009E140 10A00009
+
+// Death Stroke
+Author = libretro-database contributors / original PSP cheat authors
+2009AF5C 00003021
+
+// Death Stroke [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+2009AF5C 00A4302B
+
+// Destroy Objects
+Author = libretro-database contributors / original PSP cheat authors
+200F74C8 14800023
+D0000000 10000110
+200F74C8 00000000
+
+// Exp. Mult. 2x
+Author = libretro-database contributors / original PSP cheat authors
+2009CD24 00042840
+
+// Exp. Mult. 4x
+Author = libretro-database contributors / original PSP cheat authors
+2009CD24 00042880
+
+// Exp. Mult. 8x
+Author = libretro-database contributors / original PSP cheat authors
+2009CD24 000428C0
+
+// Exp. Mult. 16x
+Author = libretro-database contributors / original PSP cheat authors
+2009CD24 00042900
+
+// Exp. Mult. [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+2009CD24 00802825
+
+// Fixed Time
+Author = libretro-database contributors / original PSP cheat authors
+2013A270 03E00008
+2013A274 00000000
+20138080 00000000
+20138088 00000000
+
+// Fixed Time [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+2013A270 27BDFFD0
+2013A274 AFB00000
+20138080 A6640030
+20138088 A6650028
+
+// Free Smith
+Author = libretro-database contributors / original PSP cheat authors
+200E9458 00000000
+200E948C 00000000
+
+// Free Smith [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+200E9458 A4A8000E
+200E948C A4A40000
+
+// Immortal
+Author = libretro-database contributors / original PSP cheat authors
+201155CC 00402021
+
+// Immortal [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+201155CC 00502023
+
+// Inf. Exp.
+Author = libretro-database contributors / original PSP cheat authors
+2043D0C8 2028B09A
+
+// KeikencHi 9999999 (Exp. 9999999)
+Author = libretro-database contributors / original PSP cheat authors
+2043D0C8 0098967F
+
+// Key Item All
+Author = libretro-database contributors / original PSP cheat authors
+4044BF00 00D60001
+000C80A9 00000001
+2044C530 000000D6
+0044C534 000000D6
+
+// Kyouka Sozai 99
+Author = libretro-database contributors / original PSP cheat authors
+8044CD88 000D0002
+00000063 00000000
+
+// Last Map
+Author = libretro-database contributors / original PSP cheat authors
+0043D116 00000030
+
+// Law Start (To blue Scene)
+Author = libretro-database contributors / original PSP cheat authors
+0043D0DB 00000001
+
+// Leveling Map All
+Author = libretro-database contributors / original PSP cheat authors
+0043D0DA 00000030
+
+// Max All Materials
+Author = libretro-database contributors / original PSP cheat authors
+8044CD88 000D0001
+100003E7 00000000
+
+// Monster HP = 1
+Author = libretro-database contributors / original PSP cheat authors
+E0020001 3044D734
+4044D734 001E0008
+00000001 00000000
+
+// MP Max
+Author = libretro-database contributors / original PSP cheat authors
+1044D3F8 000003E7
+
+// Open Chests
+Author = libretro-database contributors / original PSP cheat authors
+200F75A4 00A4202B
+D0000000 10002100
+200F75A4 00002021
+
+// Rigid Weapons
+Author = libretro-database contributors / original PSP cheat authors
+200E95B0 00000000
+200E72D8 00000000
+
+// Rigid Weapons [Restore]
+Author = libretro-database contributors / original PSP cheat authors
+200E95B0 ACA40000
+200E72D8 ACA40000
+
+// Unit All (Always Cheat On Please)
+Author = libretro-database contributors / original PSP cheat authors
+8044B264 00780018
+00000021 00000000
+8044BEF0 00780001
+00000000 00000001
+1044BF76 00007878
+
+// Vit. 99.99
+Author = libretro-database contributors / original PSP cheat authors
+8044B30E 00
+1000270F 00000000
+
+// Weapon All
+Author = libretro-database contributors / original PSP cheat authors
+4044BF00 00A80001
+000C7201 00000001
+2044C530 00A800A8
+0044C534 00000000

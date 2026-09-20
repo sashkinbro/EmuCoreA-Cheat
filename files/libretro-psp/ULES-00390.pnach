@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: ULES-00390
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Cash
+Author = libretro-database contributors / original PSP cheat authors
+205ED688 3B9AC9FF
+
+// Infinite Crash v2
+Author = libretro-database contributors / original PSP cheat authors
+210DE710 3B9AC9FF
+
+// Infinite Crash v3
+Author = libretro-database contributors / original PSP cheat authors
+205ED96C 05F5E100
+
+// Infinite Dev. Points
+Author = libretro-database contributors / original PSP cheat authors
+205ED68C 3B9AC9FF
+
+// Infinite Rewards Points
+Author = libretro-database contributors / original PSP cheat authors
+1058C570 100003E7

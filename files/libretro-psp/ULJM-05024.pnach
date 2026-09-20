@@ -1,0 +1,44 @@
+# PSP cheat pack
+# Serial: ULJM-05024
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Ammo Max 255
+Author = libretro-database contributors / original PSP cheat authors
+413E7324 00170001
+000000FF 00000000
+
+// Apm Battery
+Author = libretro-database contributors / original PSP cheat authors
+2004A0E8 00000000
+
+// Apm Magazine
+Author = libretro-database contributors / original PSP cheat authors
+2004A0E4 00000000
+
+// Gre Battery
+Author = libretro-database contributors / original PSP cheat authors
+20125EB8 00000000
+
+// Gre Magazine
+Author = libretro-database contributors / original PSP cheat authors
+2004A104 00000000
+
+// Grenade 50
+Author = libretro-database contributors / original PSP cheat authors
+813E6C34 000A0001
+00000032 00000000
+
+// HP 9999
+Author = libretro-database contributors / original PSP cheat authors
+213E283C 0000270F
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2004A0F8 00000000
+2004A0E0 00000000
+20125EAC 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2009C7E4 3C0142C8
+2009C7F4 AEA10188

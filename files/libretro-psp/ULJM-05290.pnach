@@ -1,0 +1,54 @@
+# PSP cheat pack
+# Serial: ULJM-05290
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Character Skill Point Max
+Author = libretro-database contributors / original PSP cheat authors
+80CA611A 0008006E
+100003E7 00000000
+
+// Battle Count Max
+Author = libretro-database contributors / original PSP cheat authors
+20CA5C94 000F423F
+
+// Encount Off [L+R]
+Author = libretro-database contributors / original PSP cheat authors
+2012F128 10000C9C
+2012F140 10000C96
+2012F150 10000C92
+D0000002 10000300
+2012F128 00000000
+2012F140 00000000
+2012F150 00000000
+
+// Fol 99999999
+Author = libretro-database contributors / original PSP cheat authors
+20CA5C98 05F5E0FF
+
+// Fol 99999999 (v2)
+Author = libretro-database contributors / original PSP cheat authors
+B0000000 00000200
+6022D114 3B9AC9FF
+00020001 00000018
+
+// Item Up To Max
+Author = libretro-database contributors / original PSP cheat authors
+20021F88 24130014
+2002207C 24020014
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+20CA5C98 05F5E0FF
+
+// Save Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+1020C798 00000001
+
+// Skill Point 1,2
+Author = libretro-database contributors / original PSP cheat authors
+10CA611A 000003E7
+10CA61F6 000003E7
+
+// SP Doesn't Go Down
+Author = libretro-database contributors / original PSP cheat authors
+20104B34 00C02023

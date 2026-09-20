@@ -1,0 +1,16 @@
+# PSP cheat pack
+# Serial: ULJM-05582
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CG Open
+Author = libretro-database contributors / original PSP cheat authors
+80441C14 000B0001
+000000FF 00000000
+
+// Meisei 999
+Author = libretro-database contributors / original PSP cheat authors
+20441C64 000003E7
+
+// Money 9999999
+Author = libretro-database contributors / original PSP cheat authors
+20441C6C 0098967F

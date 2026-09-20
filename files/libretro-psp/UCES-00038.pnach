@@ -1,0 +1,47 @@
+# PSP cheat pack
+# Serial: UCES-00038
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite AK47 Ammo
+Author = libretro-database contributors / original PSP cheat authors
+0138C920 00000099
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+013374F4 00000063
+
+// Infinite F90 Ammo
+Author = libretro-database contributors / original PSP cheat authors
+0139892C 00000099
+
+// Infinite Grenades Slot 1
+Author = libretro-database contributors / original PSP cheat authors
+01337560 00000063
+
+// Infinite Grenades Slot 2
+Author = libretro-database contributors / original PSP cheat authors
+01337FD0 00000063
+
+// Infinite HK Ammo
+Author = libretro-database contributors / original PSP cheat authors
+0133724C 00000099
+
+// Infinite M4A1 Ammo
+Author = libretro-database contributors / original PSP cheat authors
+013374F4 00000099
+
+// Infinite M67 Grenades
+Author = libretro-database contributors / original PSP cheat authors
+01337680 00000099
+
+// Infinite Mark 141 Grenades
+Author = libretro-database contributors / original PSP cheat authors
+013380F0 00000099
+
+// Infinite Primary Ammo
+Author = libretro-database contributors / original PSP cheat authors
+013373E4 00000063
+
+// Infinite Secondary Ammo
+Author = libretro-database contributors / original PSP cheat authors
+0133718C 00000063

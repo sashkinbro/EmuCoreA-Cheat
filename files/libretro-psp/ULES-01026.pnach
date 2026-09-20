@@ -1,0 +1,68 @@
+# PSP cheat pack
+# Serial: ULES-01026
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Episodes Completed
+Author = libretro-database contributors / original PSP cheat authors
+2008C3D8 02020202
+2008C3DC 02020202
+2008C3E0 02020202
+2008C3E4 02020202
+2008C3E8 02020202
+2008C3EC 02020202
+2008C3F0 02020202
+2008C3F4 02020202
+2008C3F8 02020202
+2008C3FC 02020202
+2008C400 02020202
+2008C404 02020202
+2008C408 02020202
+
+// All Episodes Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+2008C3D8 01010101
+2008C3DC 01010101
+2008C3E0 01010101
+2008C3E4 01010101
+2008C3E8 01010101
+2008C3EC 01010101
+2008C3F0 01010101
+2008C3F4 01010101
+2008C3F8 01010101
+2008C3FC 01010101
+2008C400 01010101
+2008C404 01010101
+2008C408 01010101
+
+// Disable Mines
+Author = libretro-database contributors / original PSP cheat authors
+20010728 00000000
+
+// Hold L To Slow Falls
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000100
+6022E578 BEE6CEBE
+00020001 0000003C
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+20292658 3B9ACA00
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+2022F510 000F423F
+
+// Moon Jump
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10004000
+6022E578 4016716E
+00020001 0000003C
+
+// Unlock All Unlockables
+Author = libretro-database contributors / original PSP cheat authors
+2022F554 00FFFFFF
+
+// Unlock Door (Activate In Game)
+Author = libretro-database contributors / original PSP cheat authors
+60679D80 00050005
+00020001 00000090

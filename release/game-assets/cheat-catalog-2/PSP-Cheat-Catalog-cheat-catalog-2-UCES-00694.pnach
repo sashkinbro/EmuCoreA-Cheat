@@ -1,0 +1,68 @@
+# PSP cheat pack
+# Serial: UCES-00694
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+201FBB70 1620FFFC
+201E3EC4 3C043F80
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+201FBB70 00000000
+201E3EC4 3C043F00
+
+// 99 Coins In Story Mode
+Author = libretro-database contributors / original PSP cheat authors
+005BA5F8 00000063
+
+// Disable In-Built Cheat Codes
+Author = libretro-database contributors / original PSP cheat authors
+205BA5EC 00000000
+205BA5ED 00000000
+205BA5EE 00000000
+
+// Gun Never Overheats
+Author = libretro-database contributors / original PSP cheat authors
+201D7354 E60C0118
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+201D8338 00000000
+
+// Infinite Car Health
+Author = libretro-database contributors / original PSP cheat authors
+2017BE50 3C013F80
+20157780 ACA10050
+20157788 AE01002C
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2017BE50 3C013F80
+20157734 AE41018C
+2015773C AE010028
+
+// Infinite Justice
+Author = libretro-database contributors / original PSP cheat authors
+20175848 E4980000
+
+// Infinite Purchase Stars
+Author = libretro-database contributors / original PSP cheat authors
+205BA4F8 00000063
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+2016E370 00000000
+2016E384 00000000
+
+// Purchases In Shop Cost 0
+Author = libretro-database contributors / original PSP cheat authors
+200ECC14 24050000
+
+// Unlimited Ammo - Gun
+Author = libretro-database contributors / original PSP cheat authors
+00EA532C 00000012
+
+// Unlimited Stars In Shop
+Author = libretro-database contributors / original PSP cheat authors
+205BA4F8 00000063

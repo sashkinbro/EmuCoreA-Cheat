@@ -1,0 +1,30 @@
+# PSP cheat pack
+# Serial: ULES-00496
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99.999.999 $
+Author = libretro-database contributors / original PSP cheat authors
+205B8970 05F5E0FF
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20577F2C 447A0000
+20552590 447A0000
+20552560 447A0000
+
+// Inf. Stone Power
+Author = libretro-database contributors / original PSP cheat authors
+2057BC00 429A8DDE
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+205B8970 3B9AC9FF
+
+// PS1 - Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20473C84 00F000F0
+2078115C 00F000F0
+
+// PS1 - Inf. Stone Power (Need Stones Fist)
+Author = libretro-database contributors / original PSP cheat authors
+2078117C 000008AC

@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: UCKS-45034
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Man (Row) At 999
+Author = libretro-database contributors / original PSP cheat authors
+206BDD94 000003E7
+
+// Money Cheat
+Author = libretro-database contributors / original PSP cheat authors
+206C07E0 3B9ACA00

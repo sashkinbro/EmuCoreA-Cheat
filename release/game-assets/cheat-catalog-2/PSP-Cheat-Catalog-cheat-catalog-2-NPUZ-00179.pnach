@@ -1,0 +1,103 @@
+# PSP cheat pack
+# Serial: NPUZ-00179
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Set FoV [Float]
+Author = libretro-database contributors / original PSP cheat authors
+2035CFD4 3F99999A
+2035CFD8 3F99999A
+2035CFE4 3F99999A
+
+// Set FoV [Float, Default]
+Author = libretro-database contributors / original PSP cheat authors
+2035CFD4 3F800000
+2035CFD8 3F800000
+2035CFE4 3F800000
+
+// 20 FPS v3 [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0070019 1016A620
+2016A620 24020019
+2016A624 10A20008
+2016C81C 0E2CD8DE
+20138CA0 C441A4F4
+20138CAC 468008A0
+205C0B24 00000019
+200B9D80 02D71821
+
+// 30 FPS v3
+Author = libretro-database contributors / original PSP cheat authors
+E0100023 1016A620
+2016A620 24050023
+2016A624 00000000
+2016C81C 00000000
+20138CA0 3C0140D5
+20138CAC 44811000
+205C0B24 00000023
+200B9D80 0A200E41
+20003904 4480A800
+20003908 46150032
+2000390C 00000000
+20003910 45010003
+20003914 02D71821
+20003918 0A22E762
+2000391C 00000000
+20003920 0A22E763
+20003924 00000000
+
+// 60 FPS v3
+Author = libretro-database contributors / original PSP cheat authors
+E0100041 1016A620
+2016A620 24050041
+2016A624 00000000
+2016C81C 00000000
+20138CA0 3C014055
+20138CAC 44811000
+205C0B24 00000041
+200B9D80 0A200E41
+20003904 4480A800
+20003908 46150032
+2000390C 00000000
+20003910 45010003
+20003914 02D71821
+20003918 0A22E762
+2000391C 00000000
+20003920 0A22E763
+20003924 00000000
+
+// Up/Down Camera Limit In Degrees
+Author = libretro-database contributors / original PSP cheat authors
+2033A4F8 0000004B
+
+// Up/Down Camera Limit In Degrees [Default]
+Author = libretro-database contributors / original PSP cheat authors
+2033A4F8 0000002D
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20002010 AC920084
+20002014 2412FFFF
+20002018 AC920094
+2000201C 0A2197CD
+20002020 C4800084
+20065F2C 0A200804
+20065F30 3C1242C6
+
+// Infinite Grenades
+Author = libretro-database contributors / original PSP cheat authors
+20002030 8C66001C
+20002034 24040009
+20002038 0A219B55
+2000203C ACC40094
+20066D4C 0A20080C
+20066D50 8C430008
+
+// Infinite Shield (HP)
+Author = libretro-database contributors / original PSP cheat authors
+201382E0 3C0F4310
+201382E8 AC8F005C
+201382F0 448F0800
+
+// Maxgazine Ammo (900)
+Author = libretro-database contributors / original PSP cheat authors
+20E10A04 00000384

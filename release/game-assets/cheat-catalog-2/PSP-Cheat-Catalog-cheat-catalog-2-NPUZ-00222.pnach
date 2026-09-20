@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: NPUZ-00222
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Water
+Author = libretro-database contributors / original PSP cheat authors
+20035110 00000000
+
+// Infinite Water [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20035110 00852023
+
+// Timer
+Author = libretro-database contributors / original PSP cheat authors
+20042D04 460C6B00
+
+// Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20042D04 C60C000C

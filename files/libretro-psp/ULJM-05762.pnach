@@ -1,0 +1,49 @@
+# PSP cheat pack
+# Serial: ULJM-05762
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Memories / MV / Music Open
+Author = libretro-database contributors / original PSP cheat authors
+00194301 0000003E
+80194308 00050001
+000000FF 00000000
+
+// Full Album Open
+Author = libretro-database contributors / original PSP cheat authors
+00194381 0000003F
+80194382 00200001
+000000FF 00000000
+001943A2 0000007F
+
+// Full Wiki
+Author = libretro-database contributors / original PSP cheat authors
+801944C0 00110001
+00000055 00000000
+
+// Game Time 0
+Author = libretro-database contributors / original PSP cheat authors
+213B92DC 00000000
+
+// Replace Char. (Far Peak Ri Ri Su)
+Author = libretro-database contributors / original PSP cheat authors
+001942C0 00000001
+
+// Replace Char. (Hakozaki Chi Yarn)
+Author = libretro-database contributors / original PSP cheat authors
+001942C0 00000002
+
+// Replace Char. (Ka Chuan God)
+Author = libretro-database contributors / original PSP cheat authors
+001942C0 00000003
+
+// Replace Char. (RingtOne On Behalf Of Lebanon)
+Author = libretro-database contributors / original PSP cheat authors
+001942C0 00000005
+
+// Replace Char. (Spring Results)
+Author = libretro-database contributors / original PSP cheat authors
+001942C0 00000004
+
+// Total Game Time
+Author = libretro-database contributors / original PSP cheat authors
+201941C4 00000000

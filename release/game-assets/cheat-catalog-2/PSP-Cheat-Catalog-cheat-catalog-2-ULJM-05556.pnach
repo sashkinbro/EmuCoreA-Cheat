@@ -1,0 +1,38 @@
+# PSP cheat pack
+# Serial: ULJM-05556
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1P Point
+Author = libretro-database contributors / original PSP cheat authors
+203EEC08 000F423F
+
+// Gallery
+Author = libretro-database contributors / original PSP cheat authors
+003D3C14 00000001
+203D455C 00FFFFFF
+203D4560 FFFFFFFF
+403D4564 00B60001
+00000001 00000000
+403D4848 00170001
+
+// Player: Max Score
+Author = libretro-database contributors / original PSP cheat authors
+203EEC08 0098967F
+
+// Opponent: Reset Score
+Author = libretro-database contributors / original PSP cheat authors
+203EED1C 00000000
+203EEE30 00000000
+203EEF44 00000000
+
+// Unlock All CG
+Author = libretro-database contributors / original PSP cheat authors
+203D3C14 00000001
+203D455C 00FFFFFF
+203D4560 FFFFFFFF
+C0000000 000000B5
+203D4564 00000001
+DC000000 00000004
+D2000000 00000000
+C0000000 00000016
+203D4848 00000001

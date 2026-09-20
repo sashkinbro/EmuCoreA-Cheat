@@ -1,0 +1,215 @@
+# PSP cheat pack
+# Serial: UCUS-98634
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+09AFAECC 42480000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+212FAECC 42480000
+
+// Low Time Played
+Author = libretro-database contributors / original PSP cheat authors
+200EE7A4 00000000
+
+// Max Aeropan Fighters Destroyed
+Author = libretro-database contributors / original PSP cheat authors
+200EE7E4 4E6E6B28
+
+// Max Blaster Shots Fired
+Author = libretro-database contributors / original PSP cheat authors
+200EE7B4 4E6E6B28
+
+// Max Blaster Shots Hit
+Author = libretro-database contributors / original PSP cheat authors
+200EE7B8 4E6E6B28
+
+// Max Bombers Destroyed
+Author = libretro-database contributors / original PSP cheat authors
+200EE7EC 4E6E6B28
+
+// Max Danger Course Pt.1 Score
+Author = libretro-database contributors / original PSP cheat authors
+200EE7FC 4E6E6B28
+
+// Max Danger Course Pt.2 Score
+Author = libretro-database contributors / original PSP cheat authors
+200EE800 4E6E6B28
+
+// Max Danger Course Pt.3 Score
+Author = libretro-database contributors / original PSP cheat authors
+200EE804 4E6E6B28
+
+// Max Dark Bolts Fired
+Author = libretro-database contributors / original PSP cheat authors
+200EE774 4E6E6B28
+
+// Max Dark Bolts Hit
+Author = libretro-database contributors / original PSP cheat authors
+200EE778 4E6E6B28
+
+// Max Dark Eco Collected
+Author = libretro-database contributors / original PSP cheat authors
+200EE76C 4E6E6B28
+
+// Max Dark Eco Spent
+Author = libretro-database contributors / original PSP cheat authors
+200EE770 4E6E6B28
+
+// Max Dark Eco: Daxter
+Author = libretro-database contributors / original PSP cheat authors
+211CA0B8 000000C8
+
+// Max Dark Eco: Jak
+Author = libretro-database contributors / original PSP cheat authors
+200EE74C 000003E7
+
+// Max Daxterjack Attempts
+Author = libretro-database contributors / original PSP cheat authors
+200EE788 4E6E6B28
+
+// Max Distance Flown
+Author = libretro-database contributors / original PSP cheat authors
+200EE758 4E6E6B28
+
+// Max Distance Frenzied
+Author = libretro-database contributors / original PSP cheat authors
+200EE75C 4E6E6B28
+
+// Max Distance Walked
+Author = libretro-database contributors / original PSP cheat authors
+200EE754 4E6E6B28
+
+// Max Enemies Killed
+Author = libretro-database contributors / original PSP cheat authors
+200EE768 4E6E6B28
+
+// Max Ghost Pirates Destroyed
+Author = libretro-database contributors / original PSP cheat authors
+200EE7F0 4E6E6B28
+
+// Max Gunships Destroyed
+Author = libretro-database contributors / original PSP cheat authors
+200EE7F4 4E6E6B28
+
+// Max Health
+Author = libretro-database contributors / original PSP cheat authors
+09AFAED0 41A00000
+
+// Max Health v2
+Author = libretro-database contributors / original PSP cheat authors
+212FAED0 41A00000
+
+// Max Heavy Fighters Destroyeed
+Author = libretro-database contributors / original PSP cheat authors
+200EE7E8 4E6E6B28
+
+// Max Lobber Shots Fired
+Author = libretro-database contributors / original PSP cheat authors
+200EE7C4 4E6E6B28
+
+// Max Lobber Shots Hit
+Author = libretro-database contributors / original PSP cheat authors
+200EE7C8 4E6E6B28
+
+// Max Objects Pounded
+Author = libretro-database contributors / original PSP cheat authors
+200EE784 4E6E6B28
+
+// Max Objects Thrown
+Author = libretro-database contributors / original PSP cheat authors
+200EE77C 4E6E6B28
+
+// Max Pirate Fighters Destroyed
+Author = libretro-database contributors / original PSP cheat authors
+200EE7E0 4E6E6B28
+
+// Max Precursor Orbs
+Author = libretro-database contributors / original PSP cheat authors
+200EE748 0000270F
+
+// Max Precursor Orbs Collected
+Author = libretro-database contributors / original PSP cheat authors
+200EE794 4E6E6B28
+
+// Max Scatter Gun Shots Fired
+Author = libretro-database contributors / original PSP cheat authors
+200EE7AC 4E6E6B28
+
+// Max Scatter Gun Shots Hit
+Author = libretro-database contributors / original PSP cheat authors
+200EE7B0 4E6E6B28
+
+// Max Scrap Collected
+Author = libretro-database contributors / original PSP cheat authors
+200EE7CC 4E6E6B28
+
+// Max Scrap Metal
+Author = libretro-database contributors / original PSP cheat authors
+200EE750 0000270F
+
+// Max Scrap Spent
+Author = libretro-database contributors / original PSP cheat authors
+200EE7D0 4E6E6B28
+
+// Max Scrap Stolen
+Author = libretro-database contributors / original PSP cheat authors
+200EE790 4E6E6B28
+
+// Max Shots Fired
+Author = libretro-database contributors / original PSP cheat authors
+200EE7A8 4E6E6B28
+
+// Max Side Missions Attempted
+Author = libretro-database contributors / original PSP cheat authors
+200EE7D4 4E6E6B28
+
+// Max Successful Daxterjacks
+Author = libretro-database contributors / original PSP cheat authors
+200EE78C 4E6E6B28
+
+// Max Thrown Object Hits
+Author = libretro-database contributors / original PSP cheat authors
+200EE780 4E6E6B28
+
+// Max Turrets Destroyed
+Author = libretro-database contributors / original PSP cheat authors
+200EE7F8 4E6E6B28
+
+// Max Vulcan Fury Shots Fired
+Author = libretro-database contributors / original PSP cheat authors
+200EE7BC 4E6E6B28
+
+// Max Vulcan Fury Shots Hit
+Author = libretro-database contributors / original PSP cheat authors
+200EE7C0 4E6E6B28
+
+// No Damage Healed
+Author = libretro-database contributors / original PSP cheat authors
+200EE7A0 00000000
+
+// No Damage Taken
+Author = libretro-database contributors / original PSP cheat authors
+200EE79C 00000000
+
+// No Deaths
+Author = libretro-database contributors / original PSP cheat authors
+200EE760 00000000
+
+// No Plane Damage Healed
+Author = libretro-database contributors / original PSP cheat authors
+200EE7DC 00000000
+
+// No Plane Damage Taken
+Author = libretro-database contributors / original PSP cheat authors
+200EE7D8 00000000
+
+// Super Max Health
+Author = libretro-database contributors / original PSP cheat authors
+09AFAED0 42480000
+
+// Super Max Health v2
+Author = libretro-database contributors / original PSP cheat authors
+212FAED0 42480000

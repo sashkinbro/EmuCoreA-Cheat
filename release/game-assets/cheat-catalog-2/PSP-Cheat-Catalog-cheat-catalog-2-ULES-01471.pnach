@@ -1,0 +1,46 @@
+# PSP cheat pack
+# Serial: ULES-01471
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Fully Upgrade Aliens
+Author = libretro-database contributors / original PSP cheat authors
+213FF3C4 65083000
+
+// Infinite Score Upgrade Forms
+Author = libretro-database contributors / original PSP cheat authors
+20005308 0A200400
+20001000 3C0809CA
+20001004 8D08F14C
+20001008 3C0944EB
+2000100C 35297000
+20001010 AD096094
+20001014 03E00008
+
+// Prevented To Walk
+Author = libretro-database contributors / original PSP cheat authors
+20005308 0A200400
+20001000 3C0809F3
+20001004 8D08CB10
+20001008 3C090000
+2000100C 35290000
+20001010 AD095E3F
+20001014 03E00008
+
+// Speed Hack
+Author = libretro-database contributors / original PSP cheat authors
+20005308 0A200400
+20001000 3C08098F
+20001004 8D08B5AC
+20001008 3C092B66
+2000100C 35295F88
+20001010 AD094EE6
+20001014 03E00008
+
+// Skywalker
+Author = libretro-database contributors / original PSP cheat authors
+20005308 0A200400
+20001000 3C080909
+20001004 3C093F80
+20001008 25290000
+2000100C AD09F174
+20001010 03E00008

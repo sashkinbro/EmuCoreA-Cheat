@@ -1,0 +1,36 @@
+# PSP cheat pack
+# Serial: UCJM-95401
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Always First Hit
+Author = libretro-database contributors / original PSP cheat authors
+004997F0 00000001
+00499840 00000001
+00499890 00000001
+004998E0 00000001
+00499930 00000001
+00499980 00000001
+004999D0 00000001
+00499A20 00000001
+00499A70 00000001
+00499AC0 00000001
+00499B10 00000001
+00499B60 00000001
+00499BB0 00000001
+00499C00 00000001
+00499C50 00000001
+00499CA0 00000001
+00499CF0 00000001
+00499D40 00000001
+
+// Challenge Score 9900
+Author = libretro-database contributors / original PSP cheat authors
+1049970C 000026AC
+
+// Pad Golf 450
+Author = libretro-database contributors / original PSP cheat authors
+104997BC 000001C2
+
+// Powershot 10
+Author = libretro-database contributors / original PSP cheat authors
+0049976C 0000000A

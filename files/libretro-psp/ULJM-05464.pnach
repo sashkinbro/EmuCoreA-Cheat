@@ -1,0 +1,22 @@
+# PSP cheat pack
+# Serial: ULJM-05464
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CG Mode
+Author = libretro-database contributors / original PSP cheat authors
+004B3A68 00000001
+104BEB64 00000001
+B7800000 00000025
+004BFB0F 000000FF
+D3800000 00000001
+
+// Debts Paid
+Author = libretro-database contributors / original PSP cheat authors
+20212F18 00000001
+
+// Scene Mode
+Author = libretro-database contributors / original PSP cheat authors
+004B3A68 00000001
+B7800000 00000006
+104BEB64 00000001
+D3800000 00000002

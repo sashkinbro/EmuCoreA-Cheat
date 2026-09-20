@@ -1,0 +1,14 @@
+# PSP cheat pack
+# Serial: UCAS-40239
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Material 99
+Author = libretro-database contributors / original PSP cheat authors
+80518DEF 00330006
+00000001 00000000
+80518DE4 00330006
+0000005A 00000000
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+2051A298 0000FFFF

@@ -1,0 +1,57 @@
+# PSP cheat pack
+# Serial: ULJM-05544
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Evaluation 99999
+Author = libretro-database contributors / original PSP cheat authors
+4029C8B8 000F0001
+0001869F 00000000
+
+// AP Infinity
+Author = libretro-database contributors / original PSP cheat authors
+20172600 00601023
+
+// AP LimitOff
+Author = libretro-database contributors / original PSP cheat authors
+201725BC 00000000
+201725D8 00000000
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+200603BC 00802021
+
+// Inf. At Points [Can Be Changed]
+Author = libretro-database contributors / original PSP cheat authors
+1029C03C 000003E7
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+202AC1CC 000F4240
+
+// LiberAted After 1 Day ends
+Author = libretro-database contributors / original PSP cheat authors
+2029C880 00000001
+
+// Money 9999999
+Author = libretro-database contributors / original PSP cheat authors
+2029ED8C 0098967F
+
+// Money Max When Buy
+Author = libretro-database contributors / original PSP cheat authors
+2013F3A8 AC860000
+
+// Retry 99
+Author = libretro-database contributors / original PSP cheat authors
+0029C950 00000063
+
+// SP Infinity
+Author = libretro-database contributors / original PSP cheat authors
+2016B0BC 00000000
+
+// SpectAtors Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+200617F0 E6230040
+
+// Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+2008D3AC 00000000

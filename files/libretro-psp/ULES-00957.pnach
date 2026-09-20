@@ -1,0 +1,39 @@
+# PSP cheat pack
+# Serial: ULES-00957
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Game Speed: Fast
+Author = libretro-database contributors / original PSP cheat authors
+0031CD08 00004080
+
+// Game Speed: Normal
+Author = libretro-database contributors / original PSP cheat authors
+0031CD08 00003F80
+
+// Game Speed: Slow
+Author = libretro-database contributors / original PSP cheat authors
+0031CD08 00003E80
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+00453860 000F423F
+
+// Moon Jump
+Author = libretro-database contributors / original PSP cheat authors
+00A258FB 00000000
+
+// Noisey Board
+Author = libretro-database contributors / original PSP cheat authors
+0031D224 00004080
+
+// Player Flash: Fast
+Author = libretro-database contributors / original PSP cheat authors
+0033B3F0 00004080
+
+// Player Flash: Normal
+Author = libretro-database contributors / original PSP cheat authors
+0033B3F0 00003F80
+
+// Player Flash: Slow
+Author = libretro-database contributors / original PSP cheat authors
+0033B3F0 00003E80

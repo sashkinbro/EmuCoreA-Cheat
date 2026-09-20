@@ -1,0 +1,32 @@
+# PSP cheat pack
+# Serial: UCAS-40142
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Ability Points Left
+Author = libretro-database contributors / original PSP cheat authors
+103D0D10 000003C8
+
+// PLayer Size Mod
+Author = libretro-database contributors / original PSP cheat authors
+200E7D14 40000000
+
+// Slot 4 100
+Author = libretro-database contributors / original PSP cheat authors
+003D4058 00000065
+
+// Slot 5 100
+Author = libretro-database contributors / original PSP cheat authors
+003D408C 00000065
+
+// Slot 6 100
+Author = libretro-database contributors / original PSP cheat authors
+003D40C0 00000065
+
+// Slot 7 100
+Author = libretro-database contributors / original PSP cheat authors
+003D40F4 00000065
+
+// Texture Size (Smaller = Better GFX)
+Author = libretro-database contributors / original PSP cheat authors
+200E7D58 40000000
+200E7D5C 40000000

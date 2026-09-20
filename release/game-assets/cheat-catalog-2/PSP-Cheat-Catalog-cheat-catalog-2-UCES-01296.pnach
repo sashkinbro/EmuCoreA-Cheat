@@ -1,0 +1,38 @@
+# PSP cheat pack
+# Serial: UCES-01296
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Question: Always Correct Codes [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200337FC 9224039D
+
+// Question: Option 1 Always Correct
+Author = libretro-database contributors / original PSP cheat authors
+200337FC 24040000
+
+// Question: Option 2 Always Correct
+Author = libretro-database contributors / original PSP cheat authors
+200337FC 24040001
+
+// Question: Option 3 Always Correct
+Author = libretro-database contributors / original PSP cheat authors
+200337FC 24040002
+
+// Question: Option 4 Always Correct
+Author = libretro-database contributors / original PSP cheat authors
+200337FC 24040003
+
+// Unlock All Challenges
+Author = libretro-database contributors / original PSP cheat authors
+20002000 24020001
+20002004 03E00008
+20002008 AC820000
+20020CF8 0A200800
+
+// Timer
+Author = libretro-database contributors / original PSP cheat authors
+20011808 E60C0068
+
+// Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20011808 00000000

@@ -1,0 +1,36 @@
+# PSP cheat pack
+# Serial: ULJM-05414
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Credit Up
+Author = libretro-database contributors / original PSP cheat authors
+00650644 00000024
+00650648 00000021
+00650654 0000003F
+
+// Enemy 0 Goal
+Author = libretro-database contributors / original PSP cheat authors
+0094A284 00000000
+
+// Home 99 Goal
+Author = libretro-database contributors / original PSP cheat authors
+00949F90 00000063
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+204D7B84 3B9AC9FF
+
+// Team Skill Max
+Author = libretro-database contributors / original PSP cheat authors
+8093F5B2 001A0001
+00000063 00000000
+1093F5CC 0000FFFF
+
+// WE Shop All Item
+Author = libretro-database contributors / original PSP cheat authors
+810B2A2C 000D0001
+1000FFFF 00000000
+
+// WE Shop Money Max
+Author = libretro-database contributors / original PSP cheat authors
+110B2A6C 0000C350

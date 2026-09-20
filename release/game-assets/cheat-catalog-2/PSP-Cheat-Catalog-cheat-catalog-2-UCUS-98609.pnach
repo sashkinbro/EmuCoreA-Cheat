@@ -1,0 +1,33 @@
+# PSP cheat pack
+# Serial: UCUS-98609
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2000490C 00000000
+2021FA40 3F000000
+
+// 60 FPS [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2000490C 0220F809
+2021FA40 3F800000
+
+// Infinite Flash Ammo
+Author = libretro-database contributors / original PSP cheat authors
+014D3B6E 00000909
+014D57AE 00000909
+014D834E 00000909
+014DA5CE 00000909
+014D969E 00000909
+014D320E 00000909
+014D703E 00000909
+014D43AE 00000909
+014D5FFE 00000909
+014D89FE 00000909
+014D339E 00000909
+014DE91E 00000909
+014D399E 00000909
+014D845E 00000909
+014D5EEE 00000909
+014D3B4E 00000909
+014D843E 00000909

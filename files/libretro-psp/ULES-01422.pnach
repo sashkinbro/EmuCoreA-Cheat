@@ -1,0 +1,52 @@
+# PSP cheat pack
+# Serial: ULES-01422
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AP Rockets
+Author = libretro-database contributors / original PSP cheat authors
+607BEFC0 0000000A
+00020001 0000081B
+
+// Inf. Points
+Author = libretro-database contributors / original PSP cheat authors
+6061BAA0 0003F064
+00020001 00000404
+
+// Inf. Weapon Fire
+Author = libretro-database contributors / original PSP cheat authors
+607BE544 00000010
+00020001 00000494
+
+// Inf. Tech Upgrade Pts.
+Author = libretro-database contributors / original PSP cheat authors
+2061C050 00989680
+
+// Inf. Flying
+Author = libretro-database contributors / original PSP cheat authors
+007BB0CE 000042C8
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+007BB0DA 000044FA
+014259EC 00000015
+
+// Inf. Sec. Weapon
+Author = libretro-database contributors / original PSP cheat authors
+007BF114 0000000A
+014259F4 00000015
+
+// Infinite Energy
+Author = libretro-database contributors / original PSP cheat authors
+207BB0CC 42C80000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+207BB0D8 44FA0000
+
+// Infinite Secondary Weapon
+Author = libretro-database contributors / original PSP cheat authors
+207BF114 0000000A
+
+// Max Tech Points
+Author = libretro-database contributors / original PSP cheat authors
+2061C050 0098967F

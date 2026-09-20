@@ -1,0 +1,45 @@
+# PSP cheat pack
+# Serial: ULJM-05518
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max
+Author = libretro-database contributors / original PSP cheat authors
+20457328 0098967F
+2056E310 0098967F
+208556AC 0098967F
+208556B0 0098967F
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+205A32D0 05F5E0FF
+
+// Max Status While Edit
+Author = libretro-database contributors / original PSP cheat authors
+010B5198 63636363
+010B519C 63636363
+010B51A0 63636363
+010B51A4 63636363
+010B51A8 63636363
+010B51AC 63636363
+110B51B0 00006363
+110B51B2 00006363
+210B51C1 00000063
+110B51C2 00006363
+010B51C4 63636363
+010B51C8 63636363
+110B51CC 00006363
+210B51CE 00000063
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+201942E4 3B9AC9FF
+
+// Money Max v2
+Author = libretro-database contributors / original PSP cheat authors
+205A0550 05F5E0FF
+
+// Omake
+Author = libretro-database contributors / original PSP cheat authors
+1058214C 000F423F
+10F746E8 000F423F
+113F7824 000F423F

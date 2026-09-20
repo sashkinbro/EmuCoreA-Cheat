@@ -1,0 +1,28 @@
+# PSP cheat pack
+# Serial: ULJM-05679
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Accessories (x99)
+Author = libretro-database contributors / original PSP cheat authors
+20CF3018 00000063
+20CF2EE8 00000063
+20CF3002 00000063
+20CF301C 00000063
+20CF303C 00000063
+20CF3044 00000063
+20CF304C 00000063
+20CF3054 00000063
+20CF3060 00000063
+20CF306C 00000063
+
+// BP Max
+Author = libretro-database contributors / original PSP cheat authors
+20CF2C08 0001869F
+
+// Mona Shop Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+20CF2D54 002B2D84
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20CF2BF8 05F5E0FF

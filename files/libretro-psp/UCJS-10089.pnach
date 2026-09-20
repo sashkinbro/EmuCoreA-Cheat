@@ -1,0 +1,188 @@
+# PSP cheat pack
+# Serial: UCJS-10089
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Bones
+Author = libretro-database contributors / original PSP cheat authors
+80514E3E 00180006
+00000063 00000000
+
+// All Box
+Author = libretro-database contributors / original PSP cheat authors
+80514EB6 00180006
+00000063 00000000
+
+// All Egg
+Author = libretro-database contributors / original PSP cheat authors
+805160C2 001E0006
+00000001 00000000
+805160C7 001E0006
+
+// All Hero
+Author = libretro-database contributors / original PSP cheat authors
+8051619A 00190006
+00000001 00000000
+8051619F 00190006
+
+// All Hero Mask
+Author = libretro-database contributors / original PSP cheat authors
+805159DE 00640006
+00000001 00000000
+805159E3 00640006
+
+// All Item 99
+Author = libretro-database contributors / original PSP cheat authors
+80514CA6 03400006
+00000064 00000000
+
+// All Meat
+Author = libretro-database contributors / original PSP cheat authors
+80514DE4 00180006
+00000063 00000000
+
+// All Skins
+Author = libretro-database contributors / original PSP cheat authors
+80514E02 00180006
+00000063 00000000
+
+// All Stones
+Author = libretro-database contributors / original PSP cheat authors
+80514E5C 00180006
+00000063 00000000
+
+// All Talons
+Author = libretro-database contributors / original PSP cheat authors
+80514E20 00180006
+00000063 00000000
+
+// All Vegetables
+Author = libretro-database contributors / original PSP cheat authors
+80514E98 00180006
+00000063 00000000
+
+// All Weapon
+Author = libretro-database contributors / original PSP cheat authors
+80514F39 015C0006
+00000001 00000000
+80514F34 015C0006
+00000063 00000000
+
+// All Wood
+Author = libretro-database contributors / original PSP cheat authors
+80514E7A 00180006
+00000063 00000000
+
+// Ame Miracle
+Author = libretro-database contributors / original PSP cheat authors
+00514CBE 00000063
+00514CC3 00000001
+
+// Arashi Miracle
+Author = libretro-database contributors / original PSP cheat authors
+00514CCA 00000063
+00514CCF 00000001
+
+// Black Star Remove
+Author = libretro-database contributors / original PSP cheat authors
+00514D06 00000000
+00000001 00000000
+00514D0B 00000000
+
+// Bugu
+Author = libretro-database contributors / original PSP cheat authors
+80514F39 015C0006
+00000001 00000000
+80514F34 015C0006
+00000063 00000000
+
+// Charin 99999
+Author = libretro-database contributors / original PSP cheat authors
+20516298 0001869F
+
+// Don
+Author = libretro-database contributors / original PSP cheat authors
+00514CB8 00000063
+00514CBD 00000001
+
+// Fubuki Miracle
+Author = libretro-database contributors / original PSP cheat authors
+00514CD6 00000063
+00514CDB 00000001
+
+// Higher Voice Pitch
+Author = libretro-database contributors / original PSP cheat authors
+2028C6A8 45A00000
+
+// Infinite KacHings
+Author = libretro-database contributors / original PSP cheat authors
+10516298 0000270F
+
+// Kamen
+Author = libretro-database contributors / original PSP cheat authors
+805159E3 00640006
+00000001 00000000
+805159DE 00640006
+00000063 00000000
+
+// Kaze Miracle
+Author = libretro-database contributors / original PSP cheat authors
+00514CC4 00000063
+00514CC9 00000001
+
+// Mamori Miracle
+Author = libretro-database contributors / original PSP cheat authors
+00514CE2 00000063
+00514CE7 00000001
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20518298 0001869F
+
+// Pata
+Author = libretro-database contributors / original PSP cheat authors
+00514CAC 00000063
+00514CB1 00000001
+
+// Pon
+Author = libretro-database contributors / original PSP cheat authors
+00514CA6 00000063
+00514CAB 00000001
+
+// Seme Miracle
+Author = libretro-database contributors / original PSP cheat authors
+00514CDC 00000063
+00514CE1 00000001
+
+// Shichu
+Author = libretro-database contributors / original PSP cheat authors
+80514F1B 00050006
+00000001 00000000
+80514F16 00050006
+00000063 00000000
+
+// Sozai
+Author = libretro-database contributors / original PSP cheat authors
+80514DE9 00330006
+00000001 00000000
+80514DE4 00330006
+00000063 00000000
+
+// Tyaca
+Author = libretro-database contributors / original PSP cheat authors
+00514CB2 00000063
+00514CB7 00000001
+
+// Yari
+Author = libretro-database contributors / original PSP cheat authors
+00514F64 00000063
+00514F63 00000001
+
+// Yobi Miracle
+Author = libretro-database contributors / original PSP cheat authors
+00514CE8 00000063
+00514CED 00000001
+
+// Zishin Miracle
+Author = libretro-database contributors / original PSP cheat authors
+00514CD0 00000063
+00514CD5 00000001

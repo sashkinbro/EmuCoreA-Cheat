@@ -1,0 +1,54 @@
+# PSP cheat pack
+# Serial: UCES-00302
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Bananas
+Author = libretro-database contributors / original PSP cheat authors
+6891F498 00000000
+B891F498 00000000
+20000B9F 00000063
+D2000000 00000000
+
+// Infinite Bananas v2
+Author = libretro-database contributors / original PSP cheat authors
+2011F498 00000063
+00002000 20000B9F
+
+// Infinite Bananas v3
+Author = libretro-database contributors / original PSP cheat authors
+2011F498 00000063
+00002001 20000B9F
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+6891F498 00000000
+B891F498 00000000
+10000BA0 000003E7
+D2000000 00000000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+2011F498 000003E7
+00002000 10000BA0
+
+// Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+2011F498 000003E7
+00002001 10000BA0
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+68917518 00000000
+B8917518 00000000
+000002B0 0001869F
+D2000000 00000000
+
+// Max Cash v2
+Author = libretro-database contributors / original PSP cheat authors
+20117518 0001869F
+00002000 000002B0
+
+// Max Cash v3
+Author = libretro-database contributors / original PSP cheat authors
+60117518 0001869F
+00002001 000002B0

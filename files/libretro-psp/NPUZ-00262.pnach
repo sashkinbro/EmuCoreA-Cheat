@@ -1,0 +1,124 @@
+# PSP cheat pack
+# Serial: NPUZ-00262
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AI Disable
+Author = libretro-database contributors / original PSP cheat authors
+2003559C 00000000
+
+// AI Enable
+Author = libretro-database contributors / original PSP cheat authors
+2003559C 0E20D15A
+
+// Can't Fall Off Ledge
+Author = libretro-database contributors / original PSP cheat authors
+20030968 00000000
+
+// Freeze Enemies
+Author = libretro-database contributors / original PSP cheat authors
+20033CE8 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20028F88 ACA00058
+
+// Infinite Shield Usage
+Author = libretro-database contributors / original PSP cheat authors
+20031AB0 44806800
+
+// Instant Sword Charge
+Author = libretro-database contributors / original PSP cheat authors
+2002E468 AC850190
+2002E470 34040000
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2002DA10 100000B4
+
+// Max Apples On PickUp
+Author = libretro-database contributors / original PSP cheat authors
+2002D9D0 24040063
+
+// Max Bugs Killed On Kill
+Author = libretro-database contributors / original PSP cheat authors
+2002E188 24050063
+
+// Max Goals Scored On Score Goal
+Author = libretro-database contributors / original PSP cheat authors
+200369A8 24050063
+
+// Player Speed: Faster
+Author = libretro-database contributors / original PSP cheat authors
+2002F1C0 3C0640A0
+
+// Player Speed: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2002F1C0 3C064120
+
+// Player Speed: Insane
+Author = libretro-database contributors / original PSP cheat authors
+2002F1C0 3C064170
+
+// Player Speed: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2002F1C0 3C064019
+
+// Player Speed: Slow
+Author = libretro-database contributors / original PSP cheat authors
+2002F1C0 3C064000
+
+// Player Speed: Super Slow
+Author = libretro-database contributors / original PSP cheat authors
+2002F1C0 3C063F80
+
+// Score Multiplier x1
+Author = libretro-database contributors / original PSP cheat authors
+2002DF98 24020001
+
+// Score Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+2002DF98 24020002
+
+// Score Multiplier x3
+Author = libretro-database contributors / original PSP cheat authors
+2002DF98 24020003
+
+// Score Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+2002DF98 24020004
+
+// Score Multiplier x5
+Author = libretro-database contributors / original PSP cheat authors
+2002DF98 24020005
+
+// Score Multiplier x6
+Author = libretro-database contributors / original PSP cheat authors
+2002DF98 24020006
+
+// Score Multiplier x7
+Author = libretro-database contributors / original PSP cheat authors
+2002DF98 24020007
+
+// Score Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+2002DF98 24020008
+
+// Score Multiplier x9
+Author = libretro-database contributors / original PSP cheat authors
+2002DF98 24020009
+
+// Score Multiplier x10
+Author = libretro-database contributors / original PSP cheat authors
+2002DF98 2402000A
+
+// Timer
+Author = libretro-database contributors / original PSP cheat authors
+2001A524 0E206890
+
+// Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2001A524 00000000
+
+// Walk Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+200256E8 100000C5

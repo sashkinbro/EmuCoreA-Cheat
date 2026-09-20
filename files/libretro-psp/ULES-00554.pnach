@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: ULES-00554
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Extreme Motor Sound
+Author = libretro-database contributors / original PSP cheat authors
+001E0E84 40800000
+
+// Movie/CinemAtic Camera
+Author = libretro-database contributors / original PSP cheat authors
+001EEBF0 40800000

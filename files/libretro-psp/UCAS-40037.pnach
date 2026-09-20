@@ -1,0 +1,42 @@
+# PSP cheat pack
+# Serial: UCAS-40037
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Credits
+Author = libretro-database contributors / original PSP cheat authors
+204D837C 3B9AC9FF
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+104D8B34 000003E7
+104D8B2C 000003E7
+
+// Infinite Force
+Author = libretro-database contributors / original PSP cheat authors
+204DA290 0001869F
+204DA2A4 0001869F
+206ECCC8 0001869F
+206ECCCC 0001869F
+
+// Infinite Life
+Author = libretro-database contributors / original PSP cheat authors
+204DA28C 0001869F
+204DA2A0 0001869F
+206ECCBC 0001869F
+206ECCC0 0001869F
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+204D837C 000F423F
+
+// Quick Level Up
+Author = libretro-database contributors / original PSP cheat authors
+204D8380 00000000
+
+// Skill Points
+Author = libretro-database contributors / original PSP cheat authors
+204D8374 0001869F
+
+// Status Points
+Author = libretro-database contributors / original PSP cheat authors
+204D8378 0001869F

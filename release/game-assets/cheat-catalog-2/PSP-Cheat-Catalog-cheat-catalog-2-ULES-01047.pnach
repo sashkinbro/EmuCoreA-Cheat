@@ -1,0 +1,309 @@
+# PSP cheat pack
+# Serial: ULES-01047
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 6 Materia Slots Available
+Author = libretro-database contributors / original PSP cheat authors
+20223AD5 00000006
+
+// All Human D.M.W Available
+Author = libretro-database contributors / original PSP cheat authors
+20046F3C 24020001
+
+// Battle Motion Speed Mod: Enemies Are Faster
+Author = libretro-database contributors / original PSP cheat authors
+20001014 10110005
+20001018 3C013FC0
+2000101C AE01044C
+2000102C 0A25A4E7
+2015D12C 0E200400
+
+// Battle Motion Speed Mod: Enemies Are Much Faster
+Author = libretro-database contributors / original PSP cheat authors
+20001014 10110005
+20001018 3C014000
+2000101C AE01044C
+2000102C 0A25A4E7
+2015D12C 0E200400
+
+// Battle Motion Speed Mod: Enemies Are Much Slower
+Author = libretro-database contributors / original PSP cheat authors
+20001014 10110005
+20001018 3C013E80
+2000101C AE01044C
+2000102C 0A25A4E7
+2015D12C 0E200400
+
+// Battle Motion Speed Mod: Enemies Are Slower
+Author = libretro-database contributors / original PSP cheat authors
+20001014 10110005
+20001018 3C013F00
+2000101C AE01044C
+2000102C 0A25A4E7
+2015D12C 0E200400
+
+// Battle Motion Speed Mod: Zack Is Faster
+Author = libretro-database contributors / original PSP cheat authors
+20001000 14110004
+20001004 3C013FC0
+20001008 AE01044C
+2000100C 3C013F40
+20001010 AE010064
+2000102C 0A25A4E7
+2015D12C 0E200400
+
+// Battle Motion Speed Mod: Zack Is Much Faster
+Author = libretro-database contributors / original PSP cheat authors
+20001000 14110004
+20001004 3C013FC0
+20001008 AE01044C
+2000100C 3C013F00
+20001010 AE010064
+2000102C 0A25A4E7
+2015D12C 0E200400
+
+// Battle Motion Speed Mod Codes [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2015D12C 0E25A4E7
+
+// Choose Mission Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+001AB3E7 00000001
+
+// Difficulty Mod: Hard
+Author = libretro-database contributors / original PSP cheat authors
+20163428 24100001
+
+// Difficulty Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20163428 24100000
+
+// D.M.W Debug Menu (Press L+R)
+Author = libretro-database contributors / original PSP cheat authors
+20222E3C 00000300
+2023FE20 00000001
+D2000000 00000000
+
+// Dupe From Slot 1 To Slot 2
+Author = libretro-database contributors / original PSP cheat authors
+20232E3C 00000001
+20243644 00000000
+D9000000 08A43638
+D6000000 08A43644
+D2000000 00000000
+
+// Dupe From Slot 1 To Slot 3
+Author = libretro-database contributors / original PSP cheat authors
+20232E3C 00000001
+20243650 00000000
+D9000000 08A43638
+D6000000 08A43650
+D2000000 00000000
+
+// Dupe From Slot 1 To Slot 4
+Author = libretro-database contributors / original PSP cheat authors
+20232E3C 00000001
+2024365C 00000000
+D9000000 08A43638
+D6000000 08A4365C
+D2000000 00000000
+
+// Dupe From Slot 1 To Slot 5
+Author = libretro-database contributors / original PSP cheat authors
+20232E3C 00000001
+20243668 00000000
+D9000000 08A43638
+D6000000 08A43668
+D2000000 00000000
+
+// Dupe From Slot 1 To Slot 6
+Author = libretro-database contributors / original PSP cheat authors
+20232E3C 00000001
+20243674 00000000
+D9000000 08A43638
+D6000000 08A43674
+D2000000 00000000
+
+// Dupe From Slot 1 To Slot 7
+Author = libretro-database contributors / original PSP cheat authors
+20232E3C 00000001
+20243680 00000000
+D9000000 08A43638
+D6000000 08A43680
+D2000000 00000000
+
+// Dupe From Slot 1 To Slot 8
+Author = libretro-database contributors / original PSP cheat authors
+20232E3C 00000001
+2024368C 00000000
+D9000000 08A43638
+D6000000 08A4368C
+D2000000 00000000
+
+// Dupe From Slot 1 To Slot 9
+Author = libretro-database contributors / original PSP cheat authors
+20232E3C 00000001
+2024369C 00000000
+D9000000 08A43638
+D6000000 08A43698
+D2000000 00000000
+
+// Dupe From Slot 1 To Slot 10
+Author = libretro-database contributors / original PSP cheat authors
+20232E3C 00000001
+202436A4 00000000
+D9000000 08A43638
+D6000000 08A436A4
+D2000000 00000000
+
+// Enable Mission Command
+Author = libretro-database contributors / original PSP cheat authors
+201AB9F3 00000001
+
+// Finish All Missions
+Author = libretro-database contributors / original PSP cheat authors
+80222260 012C0003
+00000001 00000000
+80222261 012C0003
+
+// Game Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20006670 00000004
+
+// Game Speed Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+20006670 00000006
+
+// Game Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20006670 00000002
+
+// Have All Accessaries
+Author = libretro-database contributors / original PSP cheat authors
+40242258 006C0001
+00635000 00000001
+
+// Have All D.M.W Items
+Author = libretro-database contributors / original PSP cheat authors
+40242474 000B0001
+0001301B 00000001
+
+// Have All Enhancing Items
+Author = libretro-database contributors / original PSP cheat authors
+402424DC 00030001
+00013035 00000001
+
+// Have All Items
+Author = libretro-database contributors / original PSP cheat authors
+D5000000 00322000
+C0000000 00000007
+D6000000 08A43238
+D4000000 00000001
+D1000000 00000000
+D5000000 00323000
+C0000000 00000059
+D5000000 00325000
+C0000000 0000006B
+D2000000 00000000
+
+// Have All Items
+Author = libretro-database contributors / original PSP cheat authors
+40242238 00080001
+00632000 00000001
+40242258 006C0001
+00635000 00000001
+40242408 00180001
+00633000 00000001
+
+// Have All Materias
+Author = libretro-database contributors / original PSP cheat authors
+40242638 005B0003
+00014000 00000001
+4024263C 005B0003
+FF057005 00000001
+40242A7C 00120003
+0001407D 00000001
+20242A80 FF057069
+20242A8C FF05706E
+40242A98 00070003
+FF05707D 00000005
+20242AEC FF0570A5
+20242AF8 FF0570AA
+20242B04 FF0570A0
+20242B10 FF0570AF
+40242B1C 00030003
+0001407D 00000005
+20242B40 FF0570C8
+20242A8C FF0570CD
+
+// Have All Synthesis Items
+Author = libretro-database contributors / original PSP cheat authors
+40242408 001B0001
+00633000 00000001
+
+// Have All Valuables
+Author = libretro-database contributors / original PSP cheat authors
+402424E8 00220001
+00013038 00000001
+
+// Infinite AP
+Author = libretro-database contributors / original PSP cheat authors
+20245118 000003E7
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20245108 0000270F
+
+// Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+20245110 000003E7
+
+// Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+20245120 3B9AC9FF
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+00244176 0000007F
+
+// Items Available At Infinite
+Author = libretro-database contributors / original PSP cheat authors
+D3000000 08A43236
+C0000000 000000FF
+DC000000 00000004
+A0000000 FF000000
+20000000 0000005A
+D2000000 00000000
+
+// Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+20244E6F 000000FA
+
+// Max Dif.
+Author = libretro-database contributors / original PSP cheat authors
+20244E70 000000FA
+
+// Max For.
+Author = libretro-database contributors / original PSP cheat authors
+20244E73 000000FA
+
+// Max Guil
+Author = libretro-database contributors / original PSP cheat authors
+20244EE8 05F5E0FF
+
+// Max Level After A Few Battles (Cannot Be Turned Off)
+Author = libretro-database contributors / original PSP cheat authors
+20162174 00000000
+
+// Max Mag.
+Author = libretro-database contributors / original PSP cheat authors
+20244E71 000000FA
+
+// Max Spi.
+Author = libretro-database contributors / original PSP cheat authors
+20244E72 000000FA
+
+// Unlock All Shop Address
+Author = libretro-database contributors / original PSP cheat authors
+402424A0 000F0001
+00013026 00000001

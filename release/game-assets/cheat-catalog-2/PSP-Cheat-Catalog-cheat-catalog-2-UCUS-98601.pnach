@@ -1,0 +1,357 @@
+# PSP cheat pack
+# Serial: UCUS-98601
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+201A9AC0 00000000
+200E2204 3404003C
+201A9A80 2885001E
+
+// 60 FPS v2
+Author = libretro-database contributors / original PSP cheat authors
+201A9A80 2885001E
+
+// All Cheats Active
+Author = libretro-database contributors / original PSP cheat authors
+21601856 000000F2
+
+// All Weapons & Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+01602BD8 00000005
+01600820 00000004
+016010E4 00000004
+016007B4 00000004
+0160088C 00000004
+01600BE4 00000004
+016008F8 00000004
+01600964 00000004
+01600C74 00000004
+016009C0 00000004
+01602BD4 00000004
+016061B4 00000004
+016058F0 00000004
+01605A90 00000004
+01605884 00000004
+01605CB4 00000004
+0160595C 00000004
+016026D4 00000004
+00365E3D 00000004
+01602310 00000004
+016022A4 00000004
+0160237C 00000004
+016023E8 00000004
+01602764 00000004
+01602454 00000004
+016024B0 00000004
+015EB454 00000004
+015EB8C4 00000004
+015EB000 00000004
+015EAF94 00000004
+015EB3C4 00000004
+015EB0D8 00000004
+015EB1A0 00000004
+015EB06C 00000004
+015EB144 00000004
+01609794 00000004
+01609798 00000004
+
+// All Weapons & Unlimited Ammo
+Author = libretro-database contributors / original PSP cheat authors
+01600844 00000004
+016008B0 00000004
+01600C74 00000004
+01600A50 00000004
+0160091C 00000004
+01600988 00000004
+01600D04 00000004
+01601174 00000005
+
+// Boucy Walls
+Author = libretro-database contributors / original PSP cheat authors
+2022A6CA 00004200
+
+// Car Clipping
+Author = libretro-database contributors / original PSP cheat authors
+2000F03C 03E00008
+
+// Creating Game
+Author = libretro-database contributors / original PSP cheat authors
+20233CC0 00000001
+
+// Disable All Cheats
+Author = libretro-database contributors / original PSP cheat authors
+21601856 00000002
+
+// Drunk Driving
+Author = libretro-database contributors / original PSP cheat authors
+200385C8 10A00006
+
+// Flash
+Author = libretro-database contributors / original PSP cheat authors
+2003B198 3C063D88
+
+// Freeze Cars
+Author = libretro-database contributors / original PSP cheat authors
+2003B2E8 1080002A
+
+// Freeze Cars v2
+Author = libretro-database contributors / original PSP cheat authors
+2003B2CC 50C50006
+
+// Freeze Cars v3
+Author = libretro-database contributors / original PSP cheat authors
+20021474 03E00008
+
+// Freeze Yourself
+Author = libretro-database contributors / original PSP cheat authors
+2003B198 3C063988
+
+// Funky Color Cars
+Author = libretro-database contributors / original PSP cheat authors
+2018EE20 00004100
+
+// Hyperdrive
+Author = libretro-database contributors / original PSP cheat authors
+202291CC 3F816000
+
+// Imposter
+Author = libretro-database contributors / original PSP cheat authors
+003D1F34 00000013
+003D1F35 0000000E
+003D1F36 00000003
+003D1F37 00000010
+003D1F38 00000014
+003D1F39 00000011
+003D1F3A 00000036
+003D1F3B 00000039
+003D1F3C 00000011
+003D1F3D 00000015
+003D1F3E 0000000F
+003D1F3F 00000003
+003D1F40 0000000E
+003D1F41 00000013
+003D1F42 00000000
+
+// Imposter 2
+Author = libretro-database contributors / original PSP cheat authors
+003D1F34 0000000E
+003D1F35 0000000A
+003D1F36 00000010
+003D1F37 0000000A
+003D1F38 00000011
+003D1F39 0000000A
+003D1F3A 00000036
+003D1F3C 00000039
+003D1F3D 0000000A
+003D1F3E 00000011
+003D1F3F 0000000A
+003D1F40 00000010
+003D1F41 0000000A
+003D1F42 0000000E
+003D1F3B 0000000A
+
+// Inf. Special Weapon
+Author = libretro-database contributors / original PSP cheat authors
+11601174 00000002
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+016005B2 000000C8
+0160328A 000000C8
+01601794 000000C8
+00160179 00000088
+016012B0 000000C8
+016012B2 000000C8
+016005B0 000000C8
+01605682 000000C8
+01606866 000000C8
+0160686A 000000C8
+016020A2 000000C8
+016020A0 000000C8
+01602DA2 000000C8
+01602DA0 000000C8
+016026D6 000000C8
+003793D6 000000C8
+003793C8 000000C8
+003939C2 000000C8
+003793CA 000000C8
+015EAD92 000000C8
+015EBF78 000000C8
+01608C62 000000C8
+
+// Inf. Life
+Author = libretro-database contributors / original PSP cheat authors
+108AFA10 00000002
+10950B18 00000002
+
+// Inf. Stamina
+Author = libretro-database contributors / original PSP cheat authors
+2160179A 00000096
+
+// Inf. Turbo
+Author = libretro-database contributors / original PSP cheat authors
+21601796 00000096
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+21601856 00000012
+
+// Infinite Health & Mega Guns
+Author = libretro-database contributors / original PSP cheat authors
+21601856 00000092
+
+// Infinite Health & Weapons
+Author = libretro-database contributors / original PSP cheat authors
+21601856 00000052
+
+// Infinite Weapons
+Author = libretro-database contributors / original PSP cheat authors
+21601856 00000042
+
+// Instant Start
+Author = libretro-database contributors / original PSP cheat authors
+2165B5E0 00000000
+
+// Killer Weapons
+Author = libretro-database contributors / original PSP cheat authors
+21601856 00000022
+
+// Lock Your Action
+Author = libretro-database contributors / original PSP cheat authors
+200C18E4 03E00008
+
+// Mega Guns
+Author = libretro-database contributors / original PSP cheat authors
+21601856 00000082
+
+// Mega Guns, Killer Weapons, Inf. Weapons & Ammo
+Author = libretro-database contributors / original PSP cheat authors
+21601856 000000E2
+
+// Party Bus
+Author = libretro-database contributors / original PSP cheat authors
+2022A738 46400000
+
+// Rapid Tornado
+Author = libretro-database contributors / original PSP cheat authors
+202291D0 40520000
+
+// Remove Ground
+Author = libretro-database contributors / original PSP cheat authors
+2038AB5A 00004000
+
+// Room Name
+Author = libretro-database contributors / original PSP cheat authors
+0165DCC8 00000046
+0165DCC9 00000055
+0166ECCA 00000087
+0165DCCB 0000004B
+0165DCCC 00000020
+0165DCCD 00000041
+0165DCCE 0000004C
+0165DCCF 0000004C
+0165DCD0 00000020
+0165DCD1 0000004E
+0165DCD2 0000004F
+0165DCD3 0000004E
+0165DCD4 00000020
+0165DCD4 00000048
+0165DCD5 00000041
+0165DCD6 00000043
+0165DCD7 0000004B
+0165DCD8 00000045
+0165DCD9 00000052
+0165DCDA 00000020
+0165DCDC 00000054
+0165DCDD 00000048
+0165DCDE 00000045
+0165DCDF 00000049
+0165DCE0 00000052
+0165DCE1 00000020
+0165DCE2 0000004A
+0165DCE3 00000045
+0165DCE4 00000041
+0165DCE5 0000004C
+0165DCE6 0000004F
+0165DCE7 00000055
+0165DCE8 00000053
+0165DCE9 00000000
+0165DCEA 00000000
+0165DCEB 00000000
+0165DCEC 00000000
+0165DCED 00000000
+0165DCEE 00000000
+
+// Sky Driver
+Author = libretro-database contributors / original PSP cheat authors
+215FFFDB 00000000
+21601ACB 00000000
+
+// Smoke Letters/Symbols
+Author = libretro-database contributors / original PSP cheat authors
+2023D22C 000000CF
+
+// Smoke Out
+Author = libretro-database contributors / original PSP cheat authors
+2022A790 42000000
+
+// Sparkler
+Author = libretro-database contributors / original PSP cheat authors
+2022A6E4 3D200000
+2022A6E8 3D200000
+
+// Super Jump (Keep Taping X)
+Author = libretro-database contributors / original PSP cheat authors
+216003B8 00000000
+
+// Text Mod
+Author = libretro-database contributors / original PSP cheat authors
+0165B52E 00000050
+0165B530 0000004C
+0165B532 00000041
+0165B534 00000059
+0165B536 00000045
+0165B538 00000052
+0165B53A 00000020
+0165B53C 00000049
+0165B53E 00000053
+0165B540 00000047
+0165B542 00000034
+0165B544 00000059
+0165B546 00000041
+0165B548 00000041
+0165B54A 00000041
+0165B54C 00000041
+0165B54E 0000000A
+0165B550 00000041
+0165B552 00000041
+0165B554 00000041
+0165B558 00000041
+0165B55A 00000041
+0165B55C 00000041
+0165B55E 0000000A
+0165B560 00000041
+
+// Text Size (Big)
+Author = libretro-database contributors / original PSP cheat authors
+20349236 00003FDD
+20349232 00003FDD
+
+// Text Size (Small)
+Author = libretro-database contributors / original PSP cheat authors
+20349236 00003EDD
+20349232 00003EDD
+
+// Tornado
+Author = libretro-database contributors / original PSP cheat authors
+202291D0 40100000
+
+// Weird Block Mode
+Author = libretro-database contributors / original PSP cheat authors
+2020ED14 99999999
+
+// Weird Block Mode v2
+Author = libretro-database contributors / original PSP cheat authors
+2020ED14 99999999
+2020ED10 99999999

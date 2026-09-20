@@ -1,0 +1,80 @@
+# PSP cheat pack
+# Serial: ULJM-05077
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Boll Speed
+Author = libretro-database contributors / original PSP cheat authors
+016D702C 000000A5
+
+// Control
+Author = libretro-database contributors / original PSP cheat authors
+016D702E 000000B6
+
+// Error Kaihi
+Author = libretro-database contributors / original PSP cheat authors
+016D700C 0000000F
+
+// Gatya Inf.
+Author = libretro-database contributors / original PSP cheat authors
+216D7B70 00000014
+
+// Hidari
+Author = libretro-database contributors / original PSP cheat authors
+016D7030 00000007
+
+// Hidarishita
+Author = libretro-database contributors / original PSP cheat authors
+016D7031 00000007
+
+// Jibun Tensu 99
+Author = libretro-database contributors / original PSP cheat authors
+00178413 00000063
+
+// Kenryoku
+Author = libretro-database contributors / original PSP cheat authors
+016D7009 0000000F
+
+// Migi
+Author = libretro-database contributors / original PSP cheat authors
+016D7034 00000007
+
+// Migishita
+Author = libretro-database contributors / original PSP cheat authors
+016D7033 00000007
+
+// MI-To
+Author = libretro-database contributors / original PSP cheat authors
+016D7007 00000007
+
+// Power
+Author = libretro-database contributors / original PSP cheat authors
+016D7008 000000B4
+
+// Shita
+Author = libretro-database contributors / original PSP cheat authors
+016D7032 00000007
+
+// Shibiryoku
+Author = libretro-database contributors / original PSP cheat authors
+016D700B 0000000F
+
+// Slot Inf.
+Author = libretro-database contributors / original PSP cheat authors
+2161F7C0 00000000
+216D7B28 00000000
+216D7B6C 00000000
+216D7B74 00000000
+216D7B78 00000000
+
+// Souryoku
+Author = libretro-database contributors / original PSP cheat authors
+016D700A 0000000F
+
+// Stamina
+Author = libretro-database contributors / original PSP cheat authors
+016D702F 0000009D
+
+// Tokushu Nouryoku 1
+Author = libretro-database contributors / original PSP cheat authors
+016D704C 000000C1
+01673624 00000014

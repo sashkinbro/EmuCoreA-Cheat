@@ -1,0 +1,40 @@
+# PSP cheat pack
+# Serial: ULES-00865
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99x All Scrolls
+Author = libretro-database contributors / original PSP cheat authors
+00720BFC 00000063
+00720BF8 00000063
+00720BF4 00000063
+00720BF0 00000063
+00720BEC 00000063
+
+// Inf. Chakra (Max)
+Author = libretro-database contributors / original PSP cheat authors
+0072076D 00000000
+
+// Infinite Points For All Characters
+Author = libretro-database contributors / original PSP cheat authors
+10720870 0000FFFF
+107207C6 0000FFFF
+10720866 0000FFFF
+10720780 0000FFFF
+1072078A 0000FFFF
+107207BC 0000FFFF
+10720794 0000FFFF
+107207B2 0000FFFF
+107207F8 0000FFFF
+107207A8 0000FFFF
+107207EE 0000FFFF
+10720802 0000FFFF
+1072080C 0000FFFF
+10720816 0000FFFF
+10720820 0000FFFF
+1072079E 0000FFFF
+107207D0 0000FFFF
+1072085C 0000FFFF
+
+// Time=0 (Instant End Of Battle)
+Author = libretro-database contributors / original PSP cheat authors
+00B80F0B 00000000

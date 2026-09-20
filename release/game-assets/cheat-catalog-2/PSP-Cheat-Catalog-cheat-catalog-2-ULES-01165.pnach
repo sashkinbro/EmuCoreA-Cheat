@@ -1,0 +1,60 @@
+# PSP cheat pack
+# Serial: ULES-01165
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Characters Available
+Author = libretro-database contributors / original PSP cheat authors
+201787A8 24020001
+201787AC 24020001
+
+// All Characters Available v2
+Author = libretro-database contributors / original PSP cheat authors
+20218CBC 24020001
+
+// Career: Max Stats
+Author = libretro-database contributors / original PSP cheat authors
+203543BC 3C016363
+203543C0 34216363
+203543C4 AC410000
+203543C8 AC410004
+
+// Career: Max Stats v2
+Author = libretro-database contributors / original PSP cheat authors
+202133DC 3C016363
+202133E0 34216363
+202133E4 AC410000
+202133E8 AC410004
+
+// Disable AI
+Author = libretro-database contributors / original PSP cheat authors
+20591D30 24020000
+
+// Disable AI v2
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 3C420001
+205F7520 24020000
+
+// Enable AI
+Author = libretro-database contributors / original PSP cheat authors
+20591D30 2C420001
+
+// Enable AI v2
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 34020000
+205F7520 2C420001
+
+// Max Career Stats
+Author = libretro-database contributors / original PSP cheat authors
+203543BC 3C016363
+203543C0 34216363
+203543C4 AC410000
+203543C8 AC410004
+
+// Player 1 Has Finisher
+Author = libretro-database contributors / original PSP cheat authors
+20000FFC 24020000
+20001000 14530002
+20001004 3C013F80
+20001008 AC810088
+20001020 0A34FBE8
+2027C6FC 0E2003FF

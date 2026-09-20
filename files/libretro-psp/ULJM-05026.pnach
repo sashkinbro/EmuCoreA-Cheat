@@ -1,0 +1,55 @@
+# PSP cheat pack
+# Serial: ULJM-05026
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 4 Shields
+Author = libretro-database contributors / original PSP cheat authors
+203A5CB8 00040000
+
+// 99/Inf. Lives
+Author = libretro-database contributors / original PSP cheat authors
+103A5CA8 00000063
+
+// Max Power For Main Shot
+Author = libretro-database contributors / original PSP cheat authors
+003A5CC0 00000004
+
+// Start At Final Stage
+Author = libretro-database contributors / original PSP cheat authors
+0012940C 0000000A
+
+// Start At Stage 1
+Author = libretro-database contributors / original PSP cheat authors
+0012940C 00000001
+
+// Start At Stage 2
+Author = libretro-database contributors / original PSP cheat authors
+0012940C 00000002
+
+// Start At Stage 3
+Author = libretro-database contributors / original PSP cheat authors
+0012940C 00000003
+
+// Start At Stage 4
+Author = libretro-database contributors / original PSP cheat authors
+0012940C 00000004
+
+// Start At Stage 5
+Author = libretro-database contributors / original PSP cheat authors
+0012940C 00000005
+
+// Start At Stage 6
+Author = libretro-database contributors / original PSP cheat authors
+0012940C 00000006
+
+// Start At Stage 7
+Author = libretro-database contributors / original PSP cheat authors
+0012940C 00000007
+
+// Start At Stage 8
+Author = libretro-database contributors / original PSP cheat authors
+0012940C 00000008
+
+// Start At Stage 9
+Author = libretro-database contributors / original PSP cheat authors
+0012940C 00000009

@@ -1,0 +1,65 @@
+# PSP cheat pack
+# Serial: ULJM-05554
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Card Select 5 Times
+Author = libretro-database contributors / original PSP cheat authors
+00375D90 00000005
+
+// Chuuren-Nine Gates
+Author = libretro-database contributors / original PSP cheat authors
+10373560 00000000
+10373564 00000000
+10373568 00000000
+1037356C 00000001
+10373570 00000002
+10373574 00000003
+10373578 00000004
+1037357C 00000005
+10373580 00000006
+10373584 00000007
+10373588 00000008
+1037358C 00000008
+10373590 00000008
+10373594 00000008
+1037358C 00000305
+10373590 00000306
+10373594 00000000
+
+// Enemy Score 100
+Author = libretro-database contributors / original PSP cheat authors
+1037375C 00000001
+
+// Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+1037382C 00000492
+
+// Kokusi
+Author = libretro-database contributors / original PSP cheat authors
+10373560 00000000
+10373564 00000008
+10373568 00000100
+1037356C 00000108
+10373570 00000200
+10373574 00000208
+10373578 00000300
+1037357C 00000301
+10373580 00000302
+10373584 00000303
+10373588 00000304
+
+// Player Score 100000
+Author = libretro-database contributors / original PSP cheat authors
+10373758 000003E8
+
+// Reach At One Blow 9
+Author = libretro-database contributors / original PSP cheat authors
+00373820 00000009
+
+// Ron Mukou 9
+Author = libretro-database contributors / original PSP cheat authors
+00373824 00000009
+
+// Tsumikomi 9
+Author = libretro-database contributors / original PSP cheat authors
+00373828 00000009

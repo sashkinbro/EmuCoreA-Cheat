@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: ULJM-05013
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Action Frequency 9
+Author = libretro-database contributors / original PSP cheat authors
+00298610 00000009
+
+// Battle HP Max
+Author = libretro-database contributors / original PSP cheat authors
+10C058DC 0000270F
+
+// Enemy Action Frequency 0
+Author = libretro-database contributors / original PSP cheat authors
+007D8D80 00000000
+
+// Gold 999000
+Author = libretro-database contributors / original PSP cheat authors
+207AA37C 000F3E58
+
+// SP Max
+Author = libretro-database contributors / original PSP cheat authors
+0014BE2C 00000063

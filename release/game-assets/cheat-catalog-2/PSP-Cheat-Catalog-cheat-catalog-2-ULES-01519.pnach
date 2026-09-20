@@ -1,0 +1,192 @@
+# PSP cheat pack
+# Serial: ULES-01519
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+20330130 3B9AC9FF
+
+// Infinite Predation
+Author = libretro-database contributors / original PSP cheat authors
+D013B680 000001B0
+2013B680 34060000
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+5032CDB0 00000004
+0032CDBC 00000000
+
+// Max OP
+Author = libretro-database contributors / original PSP cheat authors
+5032CDB4 00000004
+0032CDC0 00000000
+
+// Max ST
+Author = libretro-database contributors / original PSP cheat authors
+5032CDB8 00000004
+0032CDC4 00000000
+
+// Gun Stats Max
+Author = libretro-database contributors / original PSP cheat authors
+8032D8BC 00060001
+10007530 00000000
+
+// Shield Stats Max
+Author = libretro-database contributors / original PSP cheat authors
+8032D906 00070001
+100001F4 00000000
+
+// Sword Stats Max
+Author = libretro-database contributors / original PSP cheat authors
+8032D86E 00070001
+100001F4 00000000
+
+// 30 Minutes Of Task Time
+Author = libretro-database contributors / original PSP cheat authors
+1035B9C8 00000708
+
+// Anti-Added
+Author = libretro-database contributors / original PSP cheat authors
+103CDBDE 000003E8
+
+// Anti-Drop
+Author = libretro-database contributors / original PSP cheat authors
+103CDBD4 000003E8
+
+// Anti-Gaga
+Author = libretro-database contributors / original PSP cheat authors
+103CDBE0 000003E8
+
+// Aragami Bullets (Work)
+Author = libretro-database contributors / original PSP cheat authors
+E0011023 000A5FD0
+200A5FD0 00000000
+
+// Aragami Bullets (Work) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200A5FD0 00451023
+
+// Attack Gaga
+Author = libretro-database contributors / original PSP cheat authors
+103CDBDC 000003E8
+
+// Blind
+Author = libretro-database contributors / original PSP cheat authors
+103CDBD0 000003E8
+
+// Buy 1 Thing For Money (Work)
+Author = libretro-database contributors / original PSP cheat authors
+E00233F0 000AFBE0
+200AFBE0 3C040008
+200AFBE8 2482A120
+
+// Buy 1 Thing For Money (Work) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200AFBE0 8C8433F0
+200AFBE8 00861021
+
+// Chong
+Author = libretro-database contributors / original PSP cheat authors
+103CDBE4 000003E8
+
+// Damage Multiplier x2 (Work)
+Author = libretro-database contributors / original PSP cheat authors
+E00F46FF 000A16CC
+200A16CC 0E200800
+200A16D0 3C0146FF
+20002000 3C1B088E
+20002004 277BBC94
+20002008 173B0008
+2000200C 3C1B4000
+20002010 449B0000
+20002014 4600A502
+20002018 4600AD42
+2000201C 4600B582
+20002020 4600BDC2
+20002024 4600C602
+20002028 4600CE42
+2000202C 03E00008
+20002030 3421FE00
+
+// Damage Multiplier (Work) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200A16CC 3C0146FF
+200A16D0 3421FE00
+
+// DP Diminished
+Author = libretro-database contributors / original PSP cheat authors
+5030DFB4 00000004
+0030DFC0 00000000
+
+// Drop Attack
+Author = libretro-database contributors / original PSP cheat authors
+103CDBD2 000003E8
+
+// Few Props Body
+Author = libretro-database contributors / original PSP cheat authors
+8030DFDE 0020004C
+0000001E 00000000
+
+// God Mode (Work)
+Author = libretro-database contributors / original PSP cheat authors
+E0030840 000B01E0
+200B01E0 00000000
+200AFB88 46000086
+200B027C 00000000
+
+// God Mode (Work) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200B01E0 46140840
+200AFB88 460C0080
+200B027C 46140840
+
+// Halo
+Author = libretro-database contributors / original PSP cheat authors
+103CDBD6 000003E8
+
+// HP Unabated
+Author = libretro-database contributors / original PSP cheat authors
+5030DFB0 00000004
+0030DFBC 00000000
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+203156BE 000042C9
+
+// Infinite OP
+Author = libretro-database contributors / original PSP cheat authors
+203156C2 000000C9
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+10311330 0000270F
+
+// Numerical Limit Of Three Full [HP, DT, ST]
+Author = libretro-database contributors / original PSP cheat authors
+2030DFB0 43160000
+
+// Plus Attack
+Author = libretro-database contributors / original PSP cheat authors
+103CDBDA 000003E8
+
+// Props A Few Boxes
+Author = libretro-database contributors / original PSP cheat authors
+8031AFC4 01F40026
+100003E7 00000000
+
+// Said Charles
+Author = libretro-database contributors / original PSP cheat authors
+103CDBD8 000003E8
+
+// ST Diminished
+Author = libretro-database contributors / original PSP cheat authors
+5030DFB8 00000004
+0030DFC4 00000000
+
+// ST Points
+Author = libretro-database contributors / original PSP cheat authors
+103CDBE2 000003E8
+
+// Time Of 60 Seconds To Return
+Author = libretro-database contributors / original PSP cheat authors
+0035C3F8 0000003C

@@ -1,0 +1,64 @@
+# PSP cheat pack
+# Serial: ULES-00108
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Head Mod: Blue Bubble
+Author = libretro-database contributors / original PSP cheat authors
+203EA05C 00000000
+
+// Head Mod: Bunny
+Author = libretro-database contributors / original PSP cheat authors
+203EA05C 00000002
+
+// Head Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+203EA05C FFFFFFFF
+
+// Head Mod: Pumpkin
+Author = libretro-database contributors / original PSP cheat authors
+203EA05C 00000001
+
+// Head Mod: Skull
+Author = libretro-database contributors / original PSP cheat authors
+203EA05C 00000003
+
+// Head Mod: Snowman
+Author = libretro-database contributors / original PSP cheat authors
+203EA05C 00000004
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+2049EAF0 77359400
+
+// Infinite Car Health
+Author = libretro-database contributors / original PSP cheat authors
+203E8FB0 00000001
+
+// Infinite Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+20174AC4 00000000
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+2049EAF0 3B9AC9FF
+
+// Max Cash v2
+Author = libretro-database contributors / original PSP cheat authors
+2049EAF0 05F5E0FF
+2049EAF4 05F5E0FF
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+203E6044 3D4CCCCD
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+203E6044 3C8CCCCD
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+203E6044 3C0CCCCD
+
+// Unlock All Cities
+Author = libretro-database contributors / original PSP cheat authors
+203E9B3D 00000001

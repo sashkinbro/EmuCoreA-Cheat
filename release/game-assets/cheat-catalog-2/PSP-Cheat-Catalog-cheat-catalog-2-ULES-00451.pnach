@@ -1,0 +1,42 @@
+# PSP cheat pack
+# Serial: ULES-00451
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+00004908 0A200400
+00001000 3C08090E
+00001004 3C0942C8
+00001008 25290000
+0000100C AD09C754
+00001010 03E00008
+
+// Inf. Health v2
+Author = libretro-database contributors / original PSP cheat authors
+208DC754 44160000
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+008DC6D8 000021C2
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+208DE138 000003E7
+208DE144 000003E7
+208DE150 000003E7
+
+// Infinite Body Armor
+Author = libretro-database contributors / original PSP cheat authors
+208DC684 43960000
+
+// Infinite Cash
+Author = libretro-database contributors / original PSP cheat authors
+208DC6D8 3B9AC9FF
+
+// Infinite Painkillers
+Author = libretro-database contributors / original PSP cheat authors
+208DC7EC 00000063
+
+// Infinite Stamina
+Author = libretro-database contributors / original PSP cheat authors
+208DC71C 43960000

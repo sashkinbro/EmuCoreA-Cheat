@@ -1,0 +1,12 @@
+# PSP cheat pack
+# Serial: ULJM-05742
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Special Open
+Author = libretro-database contributors / original PSP cheat authors
+803F5060 007C0002
+00000001 00000000
+803FEECC 00600001
+003F505A 00000001
+003F505C 00000001
+003F505E 00000000

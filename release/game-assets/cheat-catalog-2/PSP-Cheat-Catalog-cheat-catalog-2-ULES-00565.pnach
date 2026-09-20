@@ -1,0 +1,17 @@
+# PSP cheat pack
+# Serial: ULES-00565
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Always 3 Rockets In DogFight
+Author = libretro-database contributors / original PSP cheat authors
+6027D1E8 00000003
+00000001 0013ED90
+
+// Inf. Machpower
+Author = libretro-database contributors / original PSP cheat authors
+6027D1EC 0000003F
+00000001 00000703
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+20538A08 0001869F

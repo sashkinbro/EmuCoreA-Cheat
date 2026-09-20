@@ -1,0 +1,49 @@
+# PSP cheat pack
+# Serial: ULES-01215
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 100 AP Per Fight
+Author = libretro-database contributors / original PSP cheat authors
+201483B8 24150064
+
+// 500 AP Per Fight
+Author = libretro-database contributors / original PSP cheat authors
+201483B8 241501F4
+
+// 1000 AP Per Fight
+Author = libretro-database contributors / original PSP cheat authors
+201483B8 241503E8
+
+// 10000 AP Per Fight
+Author = libretro-database contributors / original PSP cheat authors
+201483B8 24152710
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20175070 0E200400
+20001000 8C810034
+20001004 AC81002C
+20001010 0A245C91
+
+// Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+20175070 0E200400
+20001008 8C810038
+2000100C AC810030
+20001010 0A245C91
+
+// Max AP After A Fight
+Author = libretro-database contributors / original PSP cheat authors
+201483B8 3C15000F
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+206AB928 0098967F
+
+// Max Items (After Buying/Harvesting/Etc.)
+Author = libretro-database contributors / original PSP cheat authors
+2009FB68 2402004F
+
+// Max Items [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2009FB68 80620000

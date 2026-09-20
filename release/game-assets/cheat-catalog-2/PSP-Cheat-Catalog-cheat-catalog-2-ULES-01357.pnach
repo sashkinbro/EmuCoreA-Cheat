@@ -1,0 +1,62 @@
+# PSP cheat pack
+# Serial: ULES-01357
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+201B0FD4 0E200800
+20002000 3C0641F0
+20002004 ACA60628
+20002008 03E00008
+2000200C 8C860000
+
+// Infinite Way Of Hunter Camo
+Author = libretro-database contributors / original PSP cheat authors
+200D73D4 24060064
+2009CE78 00000000
+2009DB10 E4940000
+
+// Enemies Can't See You
+Author = libretro-database contributors / original PSP cheat authors
+2015BC30 AC800000
+
+// Enemies Can't See You [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2015BC30 E48C0000
+
+// Max Eywa Spirit On Get
+Author = libretro-database contributors / original PSP cheat authors
+20091D48 2405270F
+20091B0C 2405270F
+
+// Speed Mod: Bit Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2055D5B8 3FA00000
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2055D5B8 40000000
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2055D5B8 3F800000
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2055D5B8 3FC00000
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2055D5B8 3F000000
+
+// Unlock All Stages
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000A
+2052255C 00000001
+DC000000 00000004
+D2000000 00000000
+
+// Unlock All Stages v2
+Author = libretro-database contributors / original PSP cheat authors
+2052255C 00000004
+00000001 00000000

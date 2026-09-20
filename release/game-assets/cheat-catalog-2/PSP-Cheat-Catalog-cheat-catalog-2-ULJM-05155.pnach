@@ -1,0 +1,160 @@
+# PSP cheat pack
+# Serial: ULJM-05155
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Accessory Holder (x5)
+Author = libretro-database contributors / original PSP cheat authors
+201776F4 00000005
+
+// Emel 999999
+Author = libretro-database contributors / original PSP cheat authors
+20177714 000F423F
+
+// Gold & Emel
+Author = libretro-database contributors / original PSP cheat authors
+20177530 000F423F
+20177714 000F423F
+
+// Gold 999999
+Author = libretro-database contributors / original PSP cheat authors
+20177530 000F423F
+
+// Item - Ao No Hiyaku x9
+Author = libretro-database contributors / original PSP cheat authors
+201775B8 00000009
+
+// Item - Chikara No Tane x9
+Author = libretro-database contributors / original PSP cheat authors
+201775C4 00000009
+
+// Item - Chito No Mi x9
+Author = libretro-database contributors / original PSP cheat authors
+201775A8 00000009
+
+// Item - Hachimitsu x9
+Author = libretro-database contributors / original PSP cheat authors
+201775AC 00000009
+
+// Item - Honetsuki Niku x9
+Author = libretro-database contributors / original PSP cheat authors
+201775B4 00000009
+
+// Item - Inochi No Tane x9
+Author = libretro-database contributors / original PSP cheat authors
+201775C0 00000009
+
+// Item - Kamio No Hana x9
+Author = libretro-database contributors / original PSP cheat authors
+201775CC 00000009
+
+// Item - Kapura No Kisui x9
+Author = libretro-database contributors / original PSP cheat authors
+201775BC 00000009
+
+// Item - Mamori No Tane x9
+Author = libretro-database contributors / original PSP cheat authors
+201775C8 00000009
+
+// Item - Oroi No Mi x9
+Author = libretro-database contributors / original PSP cheat authors
+201775D0 00000009
+
+// Item - Rimuria Dake x9
+Author = libretro-database contributors / original PSP cheat authors
+201775D4 00000009
+
+// Item - Yakusou x9
+Author = libretro-database contributors / original PSP cheat authors
+201775B0 00000009
+
+// Max Emel
+Author = libretro-database contributors / original PSP cheat authors
+20177714 000F423F
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+20177530 000F423F
+
+// Max Level Emeral Sword: Blue Form
+Author = libretro-database contributors / original PSP cheat authors
+201774D4 0000000B
+20177B68 453B9000
+
+// Max Level Emeral Sword: Gold Form
+Author = libretro-database contributors / original PSP cheat authors
+201774F4 0000000B
+20177B68 453B9000
+
+// Max Level Emeral Sword: Red Form
+Author = libretro-database contributors / original PSP cheat authors
+201774E4 0000000B
+20177B68 453B9000
+
+// Unlock All Accessories
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000013
+201775D8 00000001
+DC000000 00000004
+D2000000 00000000
+
+// Unlock All Accessories v2
+Author = libretro-database contributors / original PSP cheat authors
+201775D8 00000001
+
+// Unlock All Accessories v3
+Author = libretro-database contributors / original PSP cheat authors
+201775D8 00000004
+00000001 00000000
+
+// Unlock All Equipment
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000C
+20177574 00000001
+DC000000 00000004
+D2000000 00000000
+
+// Unlock All Equipment v2
+Author = libretro-database contributors / original PSP cheat authors
+20177574 00000001
+
+// Unlock All Equipment v3
+Author = libretro-database contributors / original PSP cheat authors
+20177574 00000004
+00000001 00000000
+
+// Unlock Emerasu Sword (Might Affect Storyline)
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000002
+20177568 00000001
+DC000000 00000004
+D2000000 00000000
+
+// Unlock Emerasu Sword (Might Affect Storyline) v2
+Author = libretro-database contributors / original PSP cheat authors
+20177568 00000001
+
+// Unlock Emerasu Sword (Might Affect Storyline) v3
+Author = libretro-database contributors / original PSP cheat authors
+20177568 00000004
+00000001 00000000
+
+// Unlock All Tools
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000B
+201775A8 00000009
+DC000000 00000004
+D2000000 00000000
+
+// Unlock All Tools v2
+Author = libretro-database contributors / original PSP cheat authors
+201775A8 00000009
+
+// Unlock All Tools v3
+Author = libretro-database contributors / original PSP cheat authors
+201775A8 00000004
+00000009 00000000
+
+// Use Item All 9
+Author = libretro-database contributors / original PSP cheat authors
+801775A8 000C0004
+00000009 00000000

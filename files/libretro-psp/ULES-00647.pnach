@@ -1,0 +1,32 @@
+# PSP cheat pack
+# Serial: ULES-00647
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Puzzle Fighter - Mode X - 9999999 Score
+Author = libretro-database contributors / original PSP cheat authors
+202EDC94 0098967F
+
+// Puzzle Fighter - Mode X - Drop 99 On Opponent
+Author = libretro-database contributors / original PSP cheat authors
+002EEB9C 00000063
+
+// Puzzle Fighter - Mode Y - Drop 99 On Opponent
+Author = libretro-database contributors / original PSP cheat authors
+00F17F6C 00000063
+
+// Puzzle Fighter - Mode Y/Z - 9999999 Score
+Author = libretro-database contributors / original PSP cheat authors
+20F17064 0098967F
+
+// Super Buster - Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20285B34 00000004
+
+// Super Buster - Level 99 Panic Mode
+Author = libretro-database contributors / original PSP cheat authors
+10285ADA 00000063
+
+// Super Buster - Max Points
+Author = libretro-database contributors / original PSP cheat authors
+20285084 05F5E0FF
+20285A1C 05F5E0FF

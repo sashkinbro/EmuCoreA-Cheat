@@ -1,0 +1,139 @@
+# PSP cheat pack
+# Serial: ULJM-05254
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Attack x5
+Author = libretro-database contributors / original PSP cheat authors
+20224BF0 00000000
+
+// Battle Now HP 99999
+Author = libretro-database contributors / original PSP cheat authors
+1023EE18 0000869F
+1023EE1A 00000001
+
+// Custom Point 99
+Author = libretro-database contributors / original PSP cheat authors
+0021E174 00000063
+
+// D.M.W Limit Heavenly
+Author = libretro-database contributors / original PSP cheat authors
+2023EBC2 00000004
+
+// Gil Max
+Author = libretro-database contributors / original PSP cheat authors
+2023EBF8 3B9AC9FF
+
+// Gil Modifier
+Author = libretro-database contributors / original PSP cheat authors
+1023EB58 0000FFFF
+
+// Heavenry
+Author = libretro-database contributors / original PSP cheat authors
+0023EBC2 00000004
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+1023EE18 00009CF9
+
+// Inf. MP
+Author = libretro-database contributors / original PSP cheat authors
+1023EE20 0000FFFF
+
+// Infinite AP
+Author = libretro-database contributors / original PSP cheat authors
+2023EE28 000003E7
+
+// Infinite Gil
+Author = libretro-database contributors / original PSP cheat authors
+2023EBF8 05F5E0FF
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+2023EE18 000003E7
+
+// Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+2023EE20 000003E7
+
+// Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+2023EB54 3B9AC9FF
+
+// Item All 99
+Author = libretro-database contributors / original PSP cheat authors
+8023CF4A 00500004
+00000063 00000000
+
+// Kanarazu 777
+Author = libretro-database contributors / original PSP cheat authors
+20160600 10000003
+2016061C 00000000
+
+// Kanarazu 777 [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2023EB4C 00000000
+
+// Level 99
+Author = libretro-database contributors / original PSP cheat authors
+2023EB7E 00000063
+
+// Max AP 999
+Author = libretro-database contributors / original PSP cheat authors
+2023EB74 000003E7
+
+// Max Points
+Author = libretro-database contributors / original PSP cheat authors
+2021E174 00000063
+
+// Mission All
+Author = libretro-database contributors / original PSP cheat authors
+8021D6A0 00960003
+10000101 00000000
+8021D6A2 00960003
+10000100 00000000
+8021D6A4 00960003
+10000001 00000000
+
+// Now AP 999
+Author = libretro-database contributors / original PSP cheat authors
+0023EB70 000003E7
+
+// Now HP 999
+Author = libretro-database contributors / original PSP cheat authors
+2023EB5C 0000270F
+
+// Now MP 999
+Author = libretro-database contributors / original PSP cheat authors
+2023EB68 000003E7
+
+// Stats: Max AP
+Author = libretro-database contributors / original PSP cheat authors
+2023EB74 000003E7
+
+// Stats: Max Atk.
+Author = libretro-database contributors / original PSP cheat authors
+2023EB7F 000000FA
+
+// Stats: Max HP
+Author = libretro-database contributors / original PSP cheat authors
+2023EB5C 000003E7
+
+// Stats: Max Luk.
+Author = libretro-database contributors / original PSP cheat authors
+2023EB83 000000FA
+
+// Stats: Max Mag.
+Author = libretro-database contributors / original PSP cheat authors
+2023EB81 000000FA
+
+// Stats: Max MP
+Author = libretro-database contributors / original PSP cheat authors
+2023EB68 000003E7
+
+// Stats: Max Spr.
+Author = libretro-database contributors / original PSP cheat authors
+2023EB82 000000FA
+
+// Stats: Max Vit.
+Author = libretro-database contributors / original PSP cheat authors
+2023EB80 000000FA

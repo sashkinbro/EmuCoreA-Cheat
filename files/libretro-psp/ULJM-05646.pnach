@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: ULJM-05646
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Character Creation Points
+Author = libretro-database contributors / original PSP cheat authors
+2126B4A4 00100000
+
+// Max Captain Mode Points
+Author = libretro-database contributors / original PSP cheat authors
+2071D798 00100000

@@ -1,0 +1,132 @@
+# PSP cheat pack
+# Serial: ULES-00541
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 65535 Agi. (Felis)
+Author = libretro-database contributors / original PSP cheat authors
+206C6D70 0000FFFF
+
+// 65535 Agi. (Gozen)
+Author = libretro-database contributors / original PSP cheat authors
+206C6CA0 0000FFFF
+
+// 65535 Agi. (Lance)
+Author = libretro-database contributors / original PSP cheat authors
+206C6B00 0000FFFF
+
+// 65535 Agi. (Tess)
+Author = libretro-database contributors / original PSP cheat authors
+206C6BD0 0000FFFF
+
+// 65535 Dex. (Felis)
+Author = libretro-database contributors / original PSP cheat authors
+206C6D6C 0000FFFF
+
+// 65535 Dex. (Gozen)
+Author = libretro-database contributors / original PSP cheat authors
+206C6C9C 0000FFFF
+
+// 65535 Dex. (Tess)
+Author = libretro-database contributors / original PSP cheat authors
+206C6BCC 0000FFFF
+
+// 65535 Enr. (Felis)
+Author = libretro-database contributors / original PSP cheat authors
+206C6D68 0000FFFF
+
+// 65535 Enr. (Gozen)
+Author = libretro-database contributors / original PSP cheat authors
+206C6C98 0000FFFF
+
+// 65535 Enr. (Lance)
+Author = libretro-database contributors / original PSP cheat authors
+206C6AF8 0000FFFF
+
+// 65535 Enr. (Tess)
+Author = libretro-database contributors / original PSP cheat authors
+206C6BC8 0000FFFF
+
+// 65535 Int. (Felis)
+Author = libretro-database contributors / original PSP cheat authors
+206C6D74 0000FFFF
+
+// 65535 Int. (Gozen)
+Author = libretro-database contributors / original PSP cheat authors
+206C6CA4 0000FFFF
+
+// 65535 Int. (Lance)
+Author = libretro-database contributors / original PSP cheat authors
+206C6B04 0000FFFF
+
+// 65535 Int. (Tess)
+Author = libretro-database contributors / original PSP cheat authors
+206C6BD4 0000FFFF
+
+// 65535 Lgc. (Felis)
+Author = libretro-database contributors / original PSP cheat authors
+206C6D7C 0000FFFF
+
+// 65535 Lgc. (Gozen)
+Author = libretro-database contributors / original PSP cheat authors
+206C6CAC 0000FFFF
+
+// 65535 Lgc. (Lance)
+Author = libretro-database contributors / original PSP cheat authors
+206C6B0C 0000FFFF
+
+// 65535 Lgc. (Tess)
+Author = libretro-database contributors / original PSP cheat authors
+206C6BDC 0000FFFF
+
+// 65535 Psy. (Felis)
+Author = libretro-database contributors / original PSP cheat authors
+206C6D78 0000FFFF
+
+// 65535 Psy. (Gozen)
+Author = libretro-database contributors / original PSP cheat authors
+206C6CA8 0000FFFF
+
+// 65535 Psy. (Tess)
+Author = libretro-database contributors / original PSP cheat authors
+206C6BD8 0000FFFF
+
+// 65535 Pwr. (Felis)
+Author = libretro-database contributors / original PSP cheat authors
+206C6D64 0000FFFF
+
+// 65535 Pwr. (Gozen)
+Author = libretro-database contributors / original PSP cheat authors
+206C6C94 0000FFFF
+
+// 65535 Pwr. (Lance)
+Author = libretro-database contributors / original PSP cheat authors
+206C6AF4 0000FFFF
+
+// 65535 Pwr. (Tess)
+Author = libretro-database contributors / original PSP cheat authors
+206C6BC4 0000FFFF
+
+// 9,999,999 Money
+Author = libretro-database contributors / original PSP cheat authors
+206C49A4 0098967F
+
+// Quick Level Up (Felis)
+Author = libretro-database contributors / original PSP cheat authors
+206C5740 000249F0
+
+// Quick Level Up (Gozen)
+Author = libretro-database contributors / original PSP cheat authors
+206C57E0 000249F0
+
+// Quick Level Up (Lance)
+Author = libretro-database contributors / original PSP cheat authors
+206C56A0 000249F0
+
+// Quick Level Up (Tess)
+Author = libretro-database contributors / original PSP cheat authors
+206C5880 000249F0
+
+// Quick Level Up (Tess) v2
+Author = libretro-database contributors / original PSP cheat authors
+20105828 000F423F
+206C5740 000F423F

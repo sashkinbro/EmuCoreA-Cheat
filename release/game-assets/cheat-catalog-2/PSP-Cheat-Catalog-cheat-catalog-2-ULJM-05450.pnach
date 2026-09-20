@@ -1,0 +1,42 @@
+# PSP cheat pack
+# Serial: ULJM-05450
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Characters Use Is Possible
+Author = libretro-database contributors / original PSP cheat authors
+40270908 00040001
+FFFFFFFF 00000000
+
+// Blue Key Cancellation
+Author = libretro-database contributors / original PSP cheat authors
+00271A00 00000002
+
+// Inf. Green Orb
+Author = libretro-database contributors / original PSP cheat authors
+20271A04 0000270F
+
+// Key Unlock & Ponit Max
+Author = libretro-database contributors / original PSP cheat authors
+002719FC 00000016
+00271A00 00000008
+20271A04 0001869F
+
+// Num Of Orb Change
+Author = libretro-database contributors / original PSP cheat authors
+10271A04 00009999
+
+// Num Of Orb Change 9999
+Author = libretro-database contributors / original PSP cheat authors
+10271A04 0000270F
+
+// Red Key Cancellation
+Author = libretro-database contributors / original PSP cheat authors
+002719FC 00000010
+
+// Waza Shuutoku
+Author = libretro-database contributors / original PSP cheat authors
+10271A04 00009999
+
+// Waza Shuutoku 9999
+Author = libretro-database contributors / original PSP cheat authors
+10271A04 0000270F

@@ -1,0 +1,95 @@
+# PSP cheat pack
+# Serial: UCES-00423
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 100.000.000 $
+Author = libretro-database contributors / original PSP cheat authors
+20280E38 05F5E100
+
+// All Planes, Items
+Author = libretro-database contributors / original PSP cheat authors
+80280E80 002B0002
+00000073 00000000
+80280E81 002B0002
+00000043 00000000
+80280EF9 003C0001
+00000003 00000000
+
+// Imposter
+Author = libretro-database contributors / original PSP cheat authors
+00282EE0 00000000
+00282EE4 00000000
+00282EE8 00000000
+00282EEC 00000000
+00282EF0 00000000
+00282EF4 00000000
+00282EF8 00000000
+00282EFC 00000000
+00282F00 00000000
+
+// Inf. Credits (99999999)
+Author = libretro-database contributors / original PSP cheat authors
+00280E78 05F5E0FF
+
+// Inf. Mission Points
+Author = libretro-database contributors / original PSP cheat authors
+00280C4C 6FFFFFFF
+
+// Machine Gun (999)
+Author = libretro-database contributors / original PSP cheat authors
+1028BC24 000003E7
+
+// Missiles (99)
+Author = libretro-database contributors / original PSP cheat authors
+0028BA12 00000063
+
+// Money (999999)
+Author = libretro-database contributors / original PSP cheat authors
+20280E78 000F423F
+
+// Money (999999) v2
+Author = libretro-database contributors / original PSP cheat authors
+00280E78 0000003F
+
+// Rapid Missile Fire
+Author = libretro-database contributors / original PSP cheat authors
+E0020FFF 2028BA14
+D028BA14 00300005
+1028BA14 00000002
+E0020FFF 2028BA16
+D028BA16 00300005
+1028BA16 00000002
+E0020FFF 2028BA18
+D028BA18 00300005
+1028BA18 00000002
+E0020FFF 2028BA1A
+D028BA1A 00300005
+1028BA1A 00000002
+
+// Rapid Special Weapon Fire
+Author = libretro-database contributors / original PSP cheat authors
+E0020FFF 2028BA1C
+D028BA1C 00300005
+1028BA1C 00000002
+E0020FFF 2028BA1E
+D028BA1E 00300005
+1028BA1E 00000002
+E0020FFF 2028BA20
+2028BA20 00300005
+2028BA20 00000002
+E0020FFF 2028BA22
+D028BA22 00300005
+1028BA22 00000002
+
+// Special Weapon (99)
+Author = libretro-database contributors / original PSP cheat authors
+0028BA13 00000063
+
+// Special Weapon (99) v2
+Author = libretro-database contributors / original PSP cheat authors
+2028BA10 00000063
+
+// Turbo Boost
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10004200
+1028BAB6 00004100

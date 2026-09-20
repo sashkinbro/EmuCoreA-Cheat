@@ -1,0 +1,89 @@
+# PSP cheat pack
+# Serial: ULES-00375
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Don't Have Freddie's Info
+Author = libretro-database contributors / original PSP cheat authors
+20737698 00000000
+2073769C 00000000
+207376A0 00000000
+207376A4 00000000
+207376A8 00000000
+207376AC 00000000
+207376B0 00000000
+207376B4 00000000
+207376B8 00000000
+207376BC 00000000
+207376C0 00000000
+207376C4 00000000
+207376C8 00000000
+207376CC 00000000
+207376D0 00000000
+
+// Have All Freddie's Info
+Author = libretro-database contributors / original PSP cheat authors
+20737698 01010101
+2073769C 01010101
+207376A0 01010101
+207376A4 01010101
+207376A8 01010101
+207376AC 01010101
+207376B0 01010101
+207376B4 01010101
+207376B8 01010101
+207376BC 01010101
+207376C0 01010101
+207376C4 01010101
+207376C8 01010101
+207376CC 01010101
+207376D0 01010101
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+200F7618 00000000
+200F7DCC 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0F42C8
+20002004 AC8F0028
+20002008 0A22550F
+2000200C C4800028
+20095434 0A200800
+20095438 02272021
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+20738AC0 3B9AC9FF
+
+// Instant Hack
+Author = libretro-database contributors / original PSP cheat authors
+20002030 0A2323BE
+20002034 A4AE0470
+200C8EF0 0A20080C
+200C8EF4 94AE0474
+
+// Instant Hack [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200C8EF0 94AE0470
+200C8EF4 A48E001C
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+207375F0 05F5E0FF
+
+// Max Cash/No Debt On View Menu
+Author = libretro-database contributors / original PSP cheat authors
+20002010 2442E0FF
+20002014 AC820000
+20002018 03E00008
+2000201C AC800004
+2000D784 0A200804
+2000D788 3C0205F6
+
+// Max Drugs In Bag On View Despository
+Author = libretro-database contributors / original PSP cheat authors
+20002020 03E00008
+20002024 ACA20008
+2000D46C 0A200808
+2000D470 24020063

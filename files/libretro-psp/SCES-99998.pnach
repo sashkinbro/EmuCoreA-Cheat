@@ -1,0 +1,1104 @@
+# PSP cheat pack
+# Serial: SCES-99998
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 10000 XP Per Kill
+Author = libretro-database contributors / original PSP cheat authors
+20050E2C 8E060004
+20001020 24022700
+20001024 8E060004
+20001028 0A21438C
+2014D538 FFFFFFFF
+20050E2C 0A200408
+D2000000 00000000
+
+// 125000 XP Per Kill
+Author = libretro-database contributors / original PSP cheat authors
+20050E2C 8E060004
+20001020 3C020002
+20001024 8E060004
+20001028 0A21438C
+2014D538 FFFFFFFF
+20050E2C 0A200408
+D2000000 00000000
+
+// 989855744 XP Per Kill
+Author = libretro-database contributors / original PSP cheat authors
+20050E2C 8E060004
+20001020 3C023B00
+20001024 8E060004
+20001028 0A21438C
+2014D538 FFFFFFFF
+20050E2C 0A200408
+D2000000 00000000
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+20050E2C 8E060004
+20001020 00021040
+20001024 8E060004
+20001028 0A21438C
+2014D538 FFFFFFFF
+20050E2C 0A200408
+D2000000 00000000
+
+// Exp. x4
+Author = libretro-database contributors / original PSP cheat authors
+20050E2C 8E060004
+20001020 00021080
+20001024 8E060004
+20001028 0A21438C
+2014D538 FFFFFFFF
+20050E2C 0A200408
+D2000000 00000000
+
+// Exp. x8
+Author = libretro-database contributors / original PSP cheat authors
+20050E2C 8E060004
+20001020 000210C0
+20001024 8E060004
+20001028 0A21438C
+2014D538 FFFFFFFF
+20050E2C 0A200408
+D2000000 00000000
+
+// Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+20050E2C 8E060004
+20001020 00021100
+20001024 8E060004
+20001028 0A21438C
+2014D538 FFFFFFFF
+20050E2C 0A200408
+D2000000 00000000
+
+// Exp. x32
+Author = libretro-database contributors / original PSP cheat authors
+20050E2C 8E060004
+20001020 00021140
+20001024 8E060004
+20001028 0A21438C
+2014D538 FFFFFFFF
+20050E2C 0A200408
+D2000000 00000000
+
+// Exp. x64
+Author = libretro-database contributors / original PSP cheat authors
+20050E2C 8E060004
+20001020 00021180
+20001024 8E060004
+20001028 0A21438C
+2014D538 FFFFFFFF
+20050E2C 0A200408
+D2000000 00000000
+
+// Exp. x128
+Author = libretro-database contributors / original PSP cheat authors
+20050E2C 8E060004
+20001020 000211C0
+20001024 8E060004
+20001028 0A21438C
+2014D538 FFFFFFFF
+20050E2C 0A200408
+D2000000 00000000
+
+// Exp. x256
+Author = libretro-database contributors / original PSP cheat authors
+20050E2C 8E060004
+20001020 00021200
+20001024 8E060004
+20001028 0A21438C
+2014D538 FFFFFFFF
+20050E2C 0A200408
+D2000000 00000000
+
+// Exp. x512
+Author = libretro-database contributors / original PSP cheat authors
+20050E2C 8E060004
+20001020 00021240
+20001024 8E060004
+20001028 0A21438C
+2014D538 FFFFFFFF
+20050E2C 0A200408
+D2000000 00000000
+
+// Infinite SP
+Author = libretro-database contributors / original PSP cheat authors
+20026D78 50200003
+2014D534 00000001
+20026D78 00000000
+D2000000 00000000
+
+// Max Cash After Selling/Buying Something
+Author = libretro-database contributors / original PSP cheat authors
+200856F8 00000000
+200856D8 00000000
+20084C70 3C044E72
+20084C78 24030918
+
+// Max Level After A Kill
+Author = libretro-database contributors / original PSP cheat authors
+20050E2C 8E060004
+20001020 24020014
+20001024 AE020008
+20001028 0A21438C
+2000102C 8E060004
+2014D538 FFFFFFFF
+20050E2C 0A200408
+D2000000 00000000
+
+// Max Mana After A Kill
+Author = libretro-database contributors / original PSP cheat authors
+20050C38 00000000
+
+// Weapon Mastery: Max Level After A Hit
+Author = libretro-database contributors / original PSP cheat authors
+2004C5AC 54200009
+2004C5B8 54200005
+2014D538 FFFFFFFF
+2004C5AC 00000000
+2004C5B8 00000000
+D2000000 00000000
+
+// Weapon Skills: Max Level After A Turn
+Author = libretro-database contributors / original PSP cheat authors
+20025150 54400006
+2014D538 FFFFFFFF
+20025150 00000000
+D2000000 00000000
+
+// Ace Archer
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050446
+
+// Adept Ninja
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050425
+
+// Agathion
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507FA
+
+// Alp
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507FB
+
+// Alt. Overlord
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050974
+
+// Angel
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050488
+
+// Angel (Flonne)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050003
+
+// Angel Cadet
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050489
+
+// Angel Soldier
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405048A
+
+// Archdemon
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050856
+
+// Archer
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050442
+
+// Argus
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050839
+
+// Avenger
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405048C
+
+// Avenger v2
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050805
+
+// Azhi Dahaka
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050841
+
+// Bahamut
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050843
+
+// Balrog
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050819
+
+// Bandit
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050494
+
+// Bastet
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405087F
+
+// Battler
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050407
+
+// Battler (Female)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050411
+
+// Behemoth
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050857
+
+// Bishop
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050462
+
+// Bishop (Fem)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405046C
+
+// Black Belt
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240503F5
+
+// Black Belt (Fem)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240503FF
+
+// Blademaster
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050432
+
+// Blue Mage
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050458
+
+// Blue Skull
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405044E
+
+// Boggart
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507DB
+
+// Brawler
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240503F2
+
+// Brawler (Fem)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240503FC
+
+// Brownie
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507D2
+
+// Brute
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050852
+
+// Bushi
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050430
+
+// Cait Sith
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405087B
+
+// Carmilla
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050873
+
+// Centurion
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050408
+
+// Centurion (Female)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050412
+
+// Champion
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050409
+
+// Champion (Female)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050413
+
+// Chaos Knight
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405043B
+
+// Chernobog
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050823
+
+// Chimera
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050869
+
+// Cleric
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050460
+
+// Cleric (Fem)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405046A
+
+// Corpse
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405084A
+
+// Cosmic Hero
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405040B
+
+// Cosmic Hero (Female)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050415
+
+// Cpt Prinny
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240508A3
+
+// Crusader
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405048B
+
+// Cyborg
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050480
+
+// Cyclops
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050834
+
+// Daemon
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507FD
+
+// Dark Knight
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050803
+
+// Death
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050824
+
+// Death Boar
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050853
+
+// Decoy
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405080D
+
+// Defender (Gordon)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050004
+
+// Demon Prince (Laharl)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050001
+
+// Demon Prince (Laharl) v2
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050006
+
+// Demon Slayer
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405096A
+
+// Demonic Suit
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050806
+
+// Divine Majin
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405041F
+
+// Djinn
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507E7
+
+// Dragon
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405083E
+
+// Dullahan
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050804
+
+// Efreet
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405088E
+
+// Ekim
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507E6
+
+// ElBacky
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405087E
+
+// Elite Ninja
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050426
+
+// Empusa
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050870
+
+// Erl King
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507F2
+
+// Eternal Fist
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240503F7
+
+// Eternal Fist (Fem)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050401
+
+// Executioner
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050807
+
+// Fafnir
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405083F
+
+// Fiend
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507DE
+
+// Fighter
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240503F4
+
+// Fighter (Fem)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240503FE
+
+// Flamberg
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050891
+
+// Freischutz
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050447
+
+// Galaxy Mage
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405045B
+
+// Galaxy Skull
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050451
+
+// Gargoyle
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050816
+
+// Gen Prinny
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240508A4
+
+// Geo Master
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050478
+
+// Ghast
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405084B
+
+// Ghost
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507DA
+
+// Ghoul
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050849
+
+// Giga Majin
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405041C
+
+// Gogmagog
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507E9
+
+// Golem
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507E4
+
+// Green Mage
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050457
+
+// Green Skull
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405044D
+
+// Gremlin
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507F9
+
+// Guardian
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050817
+
+// Halloween
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050811
+
+// Hecate
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050874
+
+// Hero
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405040A
+
+// Hero (Female)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050414
+
+// High Knight
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405043C
+
+// Hobbit
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507D0
+
+// Humbaba
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050855
+
+// Imp
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507F8
+
+// Incubus
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507FC
+
+// Jack
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050810
+
+// Kagutsuchi
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050893
+
+// Kengo
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050431
+
+// Killer Armor
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050802
+
+// Knight
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050438
+
+// Koropokkuru
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507D3
+
+// Leviathan
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405082E
+
+// Lich
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050822
+
+// Lilim
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050871
+
+// Lilith
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050875
+
+// Lilliput
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507D4
+
+// Lord
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050479
+
+// Majin
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405041A
+
+// Man Drake
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405080E
+
+// Man-Eater
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507EE
+
+// Manticore
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050866
+
+// Marid
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050890
+
+// Master Ninja
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050428
+
+// Mega Majin
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405041B
+
+// Midgardsorm
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405082F
+
+// Minotaur
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050854
+
+// Mizuchi
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405082B
+
+// Mother Prinny
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240508A7
+
+// Myrmecoleo
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050868
+
+// Nataku
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050836
+
+// Nebiros
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050818
+
+// Nekomata
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405087A
+
+// Neuntoter
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050886
+
+// Nidhogg
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050840
+
+// Nightmare
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050820
+
+// Ninja
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050424
+
+// Nosferatu
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050888
+
+// Nue
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050867
+
+// Oakrot
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507EF
+
+// Officer
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405047F
+
+// Omega Majin
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405041D
+
+// Paladin
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405048D
+
+// Pazuzu
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405081B
+
+// Phantom
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507DF
+
+// Phooka
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507D5
+
+// Priest
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050461
+
+// Priest (Fem)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405046B
+
+// Prinny God
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240508A6
+
+// Prinny King
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240508A5
+
+// Prism Mage
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405045A
+
+// Prism Skull
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050450
+
+// Prophet
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050464
+
+// Prophet (Fem)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405046E
+
+// Prowler
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050495
+
+// Prvt Prinny
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240508A2
+
+// Psi-Soldier
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050481
+
+// Puck
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507D1
+
+// Pugilist
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240503F3
+
+// Pugilist (Fem)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240503FD
+
+// Pumpkin
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405080C
+
+// Rahab
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405082D
+
+// Raider
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050496
+
+// Ranger
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050476
+
+// Ravana
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050838
+
+// Recruit
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405047E
+
+// Red Mage
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050456
+
+// Red Skull
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405044C
+
+// Rich Demon
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050960
+
+// Rival
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240508A8
+
+// Rogue
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050492
+
+// Ronin
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405042E
+
+// Rune Knight
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405043A
+
+// Sage
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050463
+
+// Sage (Fem)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405046D
+
+// Samurai
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405042F
+
+// Savior
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050464
+
+// Savior (Fem)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405046F
+
+// Scarecrow
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405080F
+
+// Scout
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050474
+
+// Sea Dragon
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405082C
+
+// Sentinel
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050835
+
+// Serpent
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405082A
+
+// Seth
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405081A
+
+// Shade
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050821
+
+// Shadow Ninja
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050427
+
+// Shaitan
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405088F
+
+// Shinobi
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050429
+
+// Shogun
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050433
+
+// Sidekick (Jennifer)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050005
+
+// Sniper
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050443
+
+// Space Knight
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405043D
+
+// Space Marine
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050483
+
+// Space Pirate
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050497
+
+// Space Police
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050482
+
+// Specter
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507DC
+
+// Sphinx
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405086B
+
+// Spriggan
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507E5
+
+// Star Mage
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050459
+
+// Star Skull
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405044F
+
+// Strider
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050477
+
+// Strigoi
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050885
+
+// Striker
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050444
+
+// Succubus
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050872
+
+// Super Robot
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050898
+
+// Surt
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050892
+
+// Surveyor
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050475
+
+// Tailring
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405087D
+
+// Talos
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050837
+
+// Tao Tieh
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405086A
+
+// Tera Majin
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405041E
+
+// Thanatos
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050825
+
+// Thief
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050493
+
+// Tiamat
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050842
+
+// Treant
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507F0
+
+// Ubber Prinny (Baal)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405097E
+
+// Ullikummi
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507E8
+
+// Unholy King
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050889
+
+// Valkyrie
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050445
+
+// Vampire
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050884
+
+// Vanquisher
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050439
+
+// Varcolaci
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050887
+
+// Vassal (Etna)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050002
+
+// Warrior
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050406
+
+// Warrior (Female)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050410
+
+// Werecat
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405087C
+
+// Wight
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405084C
+
+// Wraith
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507DD
+
+// Wushu Master
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240503F6
+
+// Wushu Master (Fem)
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050400
+
+// Yggdrasil
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507F3
+
+// Zakkum
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 240507F1
+
+// Zombie
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 24050848
+
+// Zombie King
+Author = libretro-database contributors / original PSP cheat authors
+200777F0 2405084D

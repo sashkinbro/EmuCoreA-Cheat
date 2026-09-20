@@ -1,0 +1,102 @@
+# PSP cheat pack
+# Serial: UCES-00002
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Car Max Level Of Detail
+Author = libretro-database contributors / original PSP cheat authors
+200CF028 34030001
+
+// Improved Object Draw Distance
+Author = libretro-database contributors / original PSP cheat authors
+200D45C8 00000000
+
+// Rear View Mirror Max Draw Distance
+Author = libretro-database contributors / original PSP cheat authors
+201B11E0 461C0000
+
+// Screen: Handheld (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+201A6444 3FC00000
+201A9258 3FC00000
+
+// Screen: PSP (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+201A6444 3FE1E1E2
+201A9258 3FE1E1E2
+
+// Screen: UltraWide (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+201A6444 4017B426
+201A9258 4017B426
+
+// Screen: SuperWide (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+201A6444 40638E39
+201A9258 40638E39
+
+// Black
+Author = libretro-database contributors / original PSP cheat authors
+001A5D07 0000003D
+001A5CFB 00000040
+001A5BD3 00000045
+
+// Car Size
+Author = libretro-database contributors / original PSP cheat authors
+001A5916 00000063
+001A591A 00000063
+001A591E 00000063
+
+// Drift
+Author = libretro-database contributors / original PSP cheat authors
+001B09CA 0000000B
+001B09CE 000000E3
+001B09EB 0000003E
+
+// Infinite Turbo
+Author = libretro-database contributors / original PSP cheat authors
+689F247C 00000000
+B89F247C 00000000
+00003B30 43960000
+D2000000 00000000
+
+// Infinite Turbo v2
+Author = libretro-database contributors / original PSP cheat authors
+201F247C 43960000
+00020000 00003B30
+
+// Infinite Turbo v3
+Author = libretro-database contributors / original PSP cheat authors
+201F247C 43960000
+00020001 00003B30
+
+// Nitro
+Author = libretro-database contributors / original PSP cheat authors
+001B0966 00000018
+001B0A67 00000040
+
+// No Jumps
+Author = libretro-database contributors / original PSP cheat authors
+001B09C7 00000040
+001B09C6 000000FF
+001B09BA 000000BF
+
+// Opponents Speed
+Author = libretro-database contributors / original PSP cheat authors
+001A66FE 000000CF
+
+// Sparks
+Author = libretro-database contributors / original PSP cheat authors
+001B0A3B 00000046
+
+// Unlimited Lives In The Rally X Mini Game
+Author = libretro-database contributors / original PSP cheat authors
+001D5A9C 00000003
+
+// Your Accel
+Author = libretro-database contributors / original PSP cheat authors
+001B0B6E 00000090
+001B0B6F 00000040
+
+// Your Speed
+Author = libretro-database contributors / original PSP cheat authors
+001B0BC6 0000001C

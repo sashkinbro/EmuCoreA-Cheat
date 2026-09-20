@@ -1,0 +1,58 @@
+# PSP cheat pack
+# Serial: ULJM-05527
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Unlock All Album
+Author = libretro-database contributors / original PSP cheat authors
+101A4DBC 0000FFFF
+B7800000 00000008
+101A4E3C 0000FFFF
+D3800000 00000002
+
+// Unlock All Album v2
+Author = libretro-database contributors / original PSP cheat authors
+201A4DBC 0000FFFF
+C0000000 00000008
+201A4E3C 0000FFFF
+DC000000 00000002
+D2000000 00000000
+
+// Unlock All Encyclopedia
+Author = libretro-database contributors / original PSP cheat authors
+101A4DBC 0000FFFF
+B7800000 00000004
+201A4F7C FFFFFFFF
+D3800000 00000004
+
+// Unlock All Encyclopaedia v2
+Author = libretro-database contributors / original PSP cheat authors
+201A4DBC 0000FFFF
+C0000000 00000004
+201A4F7C FFFFFFFF
+DC000000 00000004
+D2000000 00000000
+
+// Unlock All Movie
+Author = libretro-database contributors / original PSP cheat authors
+101A4DBC 0000FFFF
+001A4DC5 000000FF
+
+// Unlock All Movies v2
+Author = libretro-database contributors / original PSP cheat authors
+201A4DBC 0000FFFF
+201A4DC5 000000FF
+
+// Unlock All Music
+Author = libretro-database contributors / original PSP cheat authors
+101A4DBC 0000FFFF
+B7800000 00000006
+001A4DCA 000000FF
+D3800000 00000001
+
+// Unlock All Music v2
+Author = libretro-database contributors / original PSP cheat authors
+201A4DBC 0000FFFF
+C0000000 00000006
+201A4DCA 000000FF
+DC000000 00000001
+D2000000 00000000

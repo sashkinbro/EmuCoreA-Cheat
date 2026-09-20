@@ -1,0 +1,50 @@
+# PSP cheat pack
+# Serial: NPUZ-00206
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Primary Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20052E68 20C40000
+20052E84 20A40000
+
+// Infinite Secondary Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20052C48 20A60000
+
+// Instant Weapon Charge
+Author = libretro-database contributors / original PSP cheat authors
+20057F2C 3C0442C8
+
+// Max Soldiers Killed
+Author = libretro-database contributors / original PSP cheat authors
+20002000 A4820018
+20002004 03E00008
+20002008 94820018
+2004461C 0A200800
+20044620 2402270F
+
+// No Soldiers Missed
+Author = libretro-database contributors / original PSP cheat authors
+20002010 03E00008
+20002014 94820018
+20044628 0A200804
+2004462C A4800018
+
+// Timer (Faster)
+Author = libretro-database contributors / original PSP cheat authors
+20002020 3C0F4325
+20002024 448FA000
+20002028 0A21184D
+2000202C C64C0044
+2004612C 0A200808
+20046134 46146301
+
+// Timer (Frozen)
+Author = libretro-database contributors / original PSP cheat authors
+2004612C C64C0044
+20046134 00000000
+
+// Timer (Normal)
+Author = libretro-database contributors / original PSP cheat authors
+2004612C C64C0044
+20046134 46146301

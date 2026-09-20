@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: ULES-00755
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+221B0058 5F5E0FFF
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+201B04D8 05F5E0FF

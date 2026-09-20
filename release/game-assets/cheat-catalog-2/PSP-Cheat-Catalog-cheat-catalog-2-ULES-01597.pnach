@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULES-01597
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// UltraWide Screen Hack [21:9]
+Author = libretro-database contributors / original PSP cheat authors
+202E0074 0000027B
+
+// Infinite Money CM
+Author = libretro-database contributors / original PSP cheat authors
+10593410 3B9AC9FF
+
+// Infinite Money Weight
+Author = libretro-database contributors / original PSP cheat authors
+210C4714 0098967F
+
+// Registration For Club Fans Max
+Author = libretro-database contributors / original PSP cheat authors
+2058B8B8 05F5E0FF

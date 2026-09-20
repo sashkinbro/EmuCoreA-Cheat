@@ -1,0 +1,233 @@
+# PSP cheat pack
+# Serial: UCES-00279
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Chapter 1: Target Practice Run Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777A80 00000003
+D2000000 00000000
+
+// Chapter 1: Base Defend Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777AA0 00000003
+D2000000 00000000
+
+// Chapter 1: C4 Course Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777A88 00000003
+D2000000 00000000
+
+// Chapter 1: Object Course  Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777A98 00000003
+D2000000 00000000
+
+// Chapter 1: Spider Mines Catch Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777A90 00000003
+D2000000 00000000
+
+// Chapter 1: Target Practice Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777A78 00000003
+D2000000 00000000
+
+// Chapter 2: Base Defend Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777AB0 00000003
+D2000000 00000000
+
+// Chapter 2: C4 Course Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777AC8 00000003
+D2000000 00000000
+
+// Chapter 2: Object Course Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777AA8 00000003
+D2000000 00000000
+
+// Chapter 2: Spider Mines Catch Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777AC0 00000003
+D2000000 00000000
+
+// Chapter 2: Target Practice Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777AD0 00000003
+D2000000 00000000
+
+// Chapter 2: Target Practice Run Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777AB8 00000003
+D2000000 00000000
+
+// Chapter 3: Base Defend Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777B00 00000003
+D2000000 00000000
+
+// Chapter 3: C4 Course Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777AE0 00000003
+D2000000 00000000
+
+// Chapter 3: Object Course Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777AE8 00000003
+D2000000 00000000
+
+// Chapter 3: Spider Mines Catch Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777AF0 00000003
+D2000000 00000000
+
+// Chapter 3: Target Practice Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777AD8 00000003
+D2000000 00000000
+
+// Chapter 3: Target Practice Run Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777AF8 00000003
+D2000000 00000000
+
+// Chapter 4: Base Defend Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777B28 00000003
+D2000000 00000000
+
+// Chapter 4: C4 Course Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777B10 00000003
+D2000000 00000000
+
+// Chapter 4: Object Course Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777B18 00000003
+D2000000 00000000
+
+// Chapter 4: Spider Mines Catch Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777B20 00000003
+D2000000 00000000
+
+// Chapter 4: Target Practice Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777B30 00000003
+D2000000 00000000
+
+// Chapter 4: Target Practice Run Gold
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777B08 00000003
+D2000000 00000000
+
+// God Mode
+Author = libretro-database contributors / original PSP cheat authors
+20777910 00000002
+
+// Have All Gold Medals
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+C0000000 00000017
+20777A78 00000003
+DC000000 00000008
+D2000000 00000000
+
+// Have All Gold Medals v2
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777A78 00000008
+00000003 00000000
+
+// Helghast C. Gun Never Overheat
+Author = libretro-database contributors / original PSP cheat authors
+200FF200 00000000
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+200E6110 00000000
+200FE708 24A50000
+
+// Infinite Box Supplies
+Author = libretro-database contributors / original PSP cheat authors
+200AF68C 00000000
+200AFC0C E6ED0004
+
+// Infinite Grenades
+Author = libretro-database contributors / original PSP cheat authors
+200EB144 24840000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+200B57AC 0A200800
+200B57B0 3C0F088B
+20002000 35EF57A8
+20002004 11FF0004
+2000200C 3C0F4800
+20002010 AE0F00F0
+20002014 AE0F00F4
+20002018 82040174
+2000201C 0A22D5ED
+20002020 30840002
+
+// Infinite Jetpack
+Author = libretro-database contributors / original PSP cheat authors
+200EEE74 00000000
+
+// Infinite Life
+Author = libretro-database contributors / original PSP cheat authors
+001D6420 03E00008
+001D6424 00000000
+
+// Infinite Syringes
+Author = libretro-database contributors / original PSP cheat authors
+200ED3A4 24820000
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+202B0190 00000000
+
+// Infinite Time [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+202B0190 E4AC0010
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+20777910 00000001
+
+// Restore Health For Max
+Author = libretro-database contributors / original PSP cheat authors
+200897A8 3C0F4800
+200897AC 448F6800
+200897B0 E60D00F4
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+20777918 00000001
+20777A68 00000010
+D2000000 00000000

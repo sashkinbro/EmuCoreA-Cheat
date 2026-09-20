@@ -1,0 +1,56 @@
+# PSP cheat pack
+# Serial: ULES-01494
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20108FE4 8E040014
+20108FE8 AE040010
+20108FEC 28840001
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+2011F8E0 E60F0010
+2011F8F8 460E7343
+
+// Infinite Turbo
+Author = libretro-database contributors / original PSP cheat authors
+200EB8C0 AE000278
+
+// Light Cycle Mode: Inf. Turbo
+Author = libretro-database contributors / original PSP cheat authors
+6044DD38 00000000
+00020002 00000278
+2000000C 00000000
+
+// Maze Mode: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8E040014
+20002004 AE040010
+20002008 0A2423FA
+20108FE4 0A200800
+
+// Maze Mode: Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+202F70D4 E4AC0000
+D0000000 10004000
+202F70D4 00000000
+
+// Recognizer Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002010 C60F0014
+20002014 E60F0010
+20002018 0A247E39
+2011F8E0 0A200804
+
+// Recognizer Weapon Never Overheats
+Author = libretro-database contributors / original PSP cheat authors
+2011FAE0 00000000
+
+// Tank Mode: Idiot AI
+Author = libretro-database contributors / original PSP cheat authors
+201040F0 00000000
+
+// Tank Mode: Normal AI
+Author = libretro-database contributors / original PSP cheat authors
+201040F0 C6AC0010

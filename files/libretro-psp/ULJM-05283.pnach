@@ -1,0 +1,55 @@
+# PSP cheat pack
+# Serial: ULJM-05283
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Battle Score 65500
+Author = libretro-database contributors / original PSP cheat authors
+112E25E4 0000FFDC
+
+// Rage Rate Min 0 [Max]
+Author = libretro-database contributors / original PSP cheat authors
+112E2500 00000064
+
+// Rage Rate Min 0 [Normal]
+Author = libretro-database contributors / original PSP cheat authors
+112E2500 0000003B
+
+// Rage Rate Min 0 [Normal] v2
+Author = libretro-database contributors / original PSP cheat authors
+112E2500 00000000
+
+// Rage Rate Min 0 [Rage]
+Author = libretro-database contributors / original PSP cheat authors
+112E2500 00000063
+
+// Rage Rate Min 0 [Rage] v2
+Author = libretro-database contributors / original PSP cheat authors
+112E2500 0000003C
+
+// Rage Rate Now 0 [Max]
+Author = libretro-database contributors / original PSP cheat authors
+112E24FC 00000064
+
+// Rage Rate Now 0 [Normal]
+Author = libretro-database contributors / original PSP cheat authors
+112E24FC 0000003B
+
+// Rage Rate Now 0 [Normal] v2
+Author = libretro-database contributors / original PSP cheat authors
+112E24FC 00000000
+
+// Rage Rate Now 0 [Rage]
+Author = libretro-database contributors / original PSP cheat authors
+112E24FC 00000063
+
+// Rage Rate Now 0 [Rage] v2
+Author = libretro-database contributors / original PSP cheat authors
+112E24FC 0000003C
+
+// Turn 1
+Author = libretro-database contributors / original PSP cheat authors
+1126C32A 00000000
+
+// Use Item Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+20081AF4 26E30000

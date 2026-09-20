@@ -1,0 +1,193 @@
+# PSP cheat pack
+# Serial: UCAS-40212
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Alarm Clock
+Author = libretro-database contributors / original PSP cheat authors
+00433164 00000063
+
+// Angels Arrow
+Author = libretro-database contributors / original PSP cheat authors
+00433168 00000063
+
+// Biscuit
+Author = libretro-database contributors / original PSP cheat authors
+00433158 00000063
+
+// Emergency Potion
+Author = libretro-database contributors / original PSP cheat authors
+00433162 00000063
+
+// Have All Items
+Author = libretro-database contributors / original PSP cheat authors
+80433158 00650001
+00000005 00000000
+
+// Healing Potion (Major)
+Author = libretro-database contributors / original PSP cheat authors
+0043315B 00000063
+
+// Healing Potion (Medium)
+Author = libretro-database contributors / original PSP cheat authors
+0043315A 00000063
+
+// Healing Potion (Minor)
+Author = libretro-database contributors / original PSP cheat authors
+00433159 00000063
+
+// Healing Potion (Ultimate)
+Author = libretro-database contributors / original PSP cheat authors
+0043315C 00000063
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+00443658 05F5E0FF
+
+// Mana Potion (Major)
+Author = libretro-database contributors / original PSP cheat authors
+0043315F 00000063
+
+// Mana Potion (Medium)
+Author = libretro-database contributors / original PSP cheat authors
+0043315E 00000063
+
+// Mana Potion (Minor)
+Author = libretro-database contributors / original PSP cheat authors
+0043315D 00000063
+
+// Mana Potion (Ultimate)
+Author = libretro-database contributors / original PSP cheat authors
+00433160 00000063
+
+// Max Gelder
+Author = libretro-database contributors / original PSP cheat authors
+20443658 0098967F
+
+// Max SP
+Author = libretro-database contributors / original PSP cheat authors
+2044365C 00007530
+
+// Pill Of Clear Mind
+Author = libretro-database contributors / original PSP cheat authors
+00433165 00000063
+
+// Remedy
+Author = libretro-database contributors / original PSP cheat authors
+00433163 00000063
+
+// The Almighty Vaccine
+Author = libretro-database contributors / original PSP cheat authors
+00433166 00000063
+
+// Ultra Potion
+Author = libretro-database contributors / original PSP cheat authors
+00433161 00000063
+
+// Water Of Miracle
+Author = libretro-database contributors / original PSP cheat authors
+00433167 00000063
+
+// Inf. SP [Gelts]
+Author = libretro-database contributors / original PSP cheat authors
+0044365C 05F5E0FF
+
+// Inf. SP [Henson]
+Author = libretro-database contributors / original PSP cheat authors
+0044365C 05F5E0FF
+
+// Inf. SP [Krillian]
+Author = libretro-database contributors / original PSP cheat authors
+0044365C 05F5E0FF
+
+// Inf. SP [Spinel]
+Author = libretro-database contributors / original PSP cheat authors
+0044365C 05F5E0FF
+
+// Max Exp. [Gelts]
+Author = libretro-database contributors / original PSP cheat authors
+004321BC 05F5E0FF
+
+// Max Exp. [Henson]
+Author = libretro-database contributors / original PSP cheat authors
+00431A74 05F5E0FF
+
+// Max Exp. [Krillian]
+Author = libretro-database contributors / original PSP cheat authors
+00430BE4 05F5E0FF
+
+// Max Exp. [Spinel]
+Author = libretro-database contributors / original PSP cheat authors
+0043132C 05F5E0FF
+
+// Max HP [Gelts]
+Author = libretro-database contributors / original PSP cheat authors
+0043218C 0000270F
+00431C10 0000270F
+
+// Max HP [Henson]
+Author = libretro-database contributors / original PSP cheat authors
+00431A44 0000270F
+004314C8 0000270F
+
+// Max HP [Krillian]
+Author = libretro-database contributors / original PSP cheat authors
+10430638 0000270F
+10450BA4 0000270F
+10430BB4 0000270F
+
+// Max HP [Krillian] v2
+Author = libretro-database contributors / original PSP cheat authors
+00430BB4 0000270F
+00430638 0000270F
+
+// Max HP [Spinel]
+Author = libretro-database contributors / original PSP cheat authors
+004312FC 0000270F
+00430D80 0000270F
+
+// Max MP [Gelts]
+Author = libretro-database contributors / original PSP cheat authors
+00432190 0000270F
+00431C14 0000270F
+
+// Max MP [Henson]
+Author = libretro-database contributors / original PSP cheat authors
+00431A48 0000270F
+004314CC 0000270F
+
+// Max MP [Krillian]
+Author = libretro-database contributors / original PSP cheat authors
+1043063C 000003E7
+10430BB8 000003E7
+10450294 000003E7
+
+// Max MP [Krillian] v2
+Author = libretro-database contributors / original PSP cheat authors
+00430BB8 0000270F
+0043063C 0000270F
+
+// Max MP [Spinel]
+Author = libretro-database contributors / original PSP cheat authors
+00431300 0000270F
+00430D84 0000270F
+
+// Max SP [Krillian]
+Author = libretro-database contributors / original PSP cheat authors
+2044365C 00007530
+20443658 0098967F
+
+// Max SP [Krillian] v2
+Author = libretro-database contributors / original PSP cheat authors
+2044365C 00007530
+
+// 99 All Medallion
+Author = libretro-database contributors / original PSP cheat authors
+00433199 00000063
+0043319A 00000063
+0043319B 00000063
+0043319C 00000063
+
+// Max SP
+Author = libretro-database contributors / original PSP cheat authors
+2044365C 00007530
+20443658 0098967F

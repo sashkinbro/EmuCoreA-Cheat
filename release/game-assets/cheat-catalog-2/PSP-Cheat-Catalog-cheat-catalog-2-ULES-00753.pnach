@@ -1,0 +1,39 @@
+# PSP cheat pack
+# Serial: ULES-00753
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Afterburner
+Author = libretro-database contributors / original PSP cheat authors
+20DC4780 40000000
+
+// Infinite Cannon Rounds
+Author = libretro-database contributors / original PSP cheat authors
+20DC4890 3F800000
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+00DC4990 00000009
+
+// Infinite Missiles
+Author = libretro-database contributors / original PSP cheat authors
+00DC4A90 00000063
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+20DB2AD0 0098967F
+
+// Infinite Primary Missiles
+Author = libretro-database contributors / original PSP cheat authors
+20DC4A90 00000063
+
+// Infinite Secondary Missiles
+Author = libretro-database contributors / original PSP cheat authors
+20DC4B00 00000063
+
+// Infinite Rockets
+Author = libretro-database contributors / original PSP cheat authors
+00DC4B00 00000063
+
+// Unlock 4-Star Planes Weapons
+Author = libretro-database contributors / original PSP cheat authors
+20DB2A60 000493E0

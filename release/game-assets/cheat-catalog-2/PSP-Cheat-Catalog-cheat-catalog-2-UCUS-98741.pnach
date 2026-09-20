@@ -1,0 +1,73 @@
+# PSP cheat pack
+# Serial: UCUS-98741
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+201B4D94 14C0001E
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E001001E 001B4D94
+201B4D94 00000000
+
+// AI Thrust
+Author = libretro-database contributors / original PSP cheat authors
+20048218 E6940050
+2004822C E6940068
+
+// AI Thrust [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20048218 AE800050
+2004822C AE800068
+
+// Infinite Boost
+Author = libretro-database contributors / original PSP cheat authors
+00035B43 00000014
+
+// Infinite Boost v2
+Author = libretro-database contributors / original PSP cheat authors
+20035B40 1480000A
+
+// Infinite Boost [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+00035B43 00000010
+
+// Speed Mod: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20005010 00000000
+20005018 3C043D48
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20005010 00000000
+20005018 3C043D88
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20005010 10800005
+20005018 3C043D08
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20005010 00000000
+20005018 3C043D28
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20005010 00000000
+20005018 3C043C88
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20005010 00000000
+20005018 3C043C48
+
+// Unlock All Tracks
+Author = libretro-database contributors / original PSP cheat authors
+605EEB60 000006F5
+00000001 00000000
+605EEB60 00000001
+00020001 00028BAC
+605EEB60 00000018
+00000001 0C000000

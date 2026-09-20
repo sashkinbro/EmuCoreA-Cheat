@@ -1,0 +1,49 @@
+# PSP cheat pack
+# Serial: ULAS-42073
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Remove Memory Leak
+Author = libretro-database contributors / original PSP cheat authors
+E0090000 003165B8
+203165B8 0A200540
+20001500 949BFFE6
+20001504 17600004
+20001508 949BFFF0
+2000150C 34020110
+20001510 57620001
+20001514 00001821
+20001518 0A2C5970
+2000151C AC830000
+
+// Remove Memory Leak [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010540 003165B8
+203165B8 AC830000
+
+// 60 FPS (Kai)
+Author = libretro-database contributors / original PSP cheat authors
+2045EC20 42700000
+2045EC28 00000001
+2045EC2C 3C888889
+
+// 60 FPS (Original Mode)
+Author = libretro-database contributors / original PSP cheat authors
+2045A460 42700000
+2045A468 00000001
+2045A46C 3C888889
+
+// Infinite Armor
+Author = libretro-database contributors / original PSP cheat authors
+10796588 00000006
+1079658C 00000006
+10C0B478 00000006
+
+// Infinite Jump
+Author = libretro-database contributors / original PSP cheat authors
+00C0B468 000000FF
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+00796678 00000007
+0079667C 00000007
+00C0DA40 00000007

@@ -1,0 +1,78 @@
+# PSP cheat pack
+# Serial: ULES-00008
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99 Chronicle Packs
+Author = libretro-database contributors / original PSP cheat authors
+001D6E8B 00000063
+
+// 99 MS2 Packs
+Author = libretro-database contributors / original PSP cheat authors
+001D6E89 00000063
+
+// 99 MGS1 Packs
+Author = libretro-database contributors / original PSP cheat authors
+001D6E88 00000063
+
+// 99999 Money/Points
+Author = libretro-database contributors / original PSP cheat authors
+201D72F8 0000270F
+
+// AI Doesn't Shoot
+Author = libretro-database contributors / original PSP cheat authors
+200BD5CC 24020000
+200BD5C4 24020000
+
+// Gives 99 MSG3 Packs
+Author = libretro-database contributors / original PSP cheat authors
+001D6E8A 00000063
+
+// HP Mod
+Author = libretro-database contributors / original PSP cheat authors
+20019140 0A200400
+20001000 10000003
+20001004 8646004C
+2000100C A646004C
+20001010 0A206451
+2177FD94 00008000
+20001000 00000000
+20001008 24C60001
+D0000000 00000000
+2177FD94 00002000
+20001008 24C6FFFF
+
+// Infinite Health (Don't Use With HP Mod Code)
+Author = libretro-database contributors / original PSP cheat authors
+201AFEF8 00000000
+0000004C 00C800C8
+D2000000 00000000
+
+// Infinite Health (Don't Use With HP Mod Code) v2
+Author = libretro-database contributors / original PSP cheat authors
+201AFEF8 00C800C8
+00020000 0000004C
+
+// Infinite Health (Don't Use With HP Mod Code) v3
+Author = libretro-database contributors / original PSP cheat authors
+201AFEF8 00C800C8
+00020001 0000004C
+
+// Infinite Skill Points
+Author = libretro-database contributors / original PSP cheat authors
+201C1728 00000000
+00000084 00630063
+D2000000 00000000
+
+// Infinite Skill Points v2
+Author = libretro-database contributors / original PSP cheat authors
+201C1728 00630063
+00020000 00000084
+
+// Infinite Skill Points v3
+Author = libretro-database contributors / original PSP cheat authors
+201C1728 00630063
+00020001 00000084
+
+// Max Points
+Author = libretro-database contributors / original PSP cheat authors
+201D72F8 0098967F

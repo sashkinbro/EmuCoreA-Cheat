@@ -1,0 +1,16 @@
+# PSP cheat pack
+# Serial: ULES-00211
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Simoleon After Using Some (Press L+R)
+Author = libretro-database contributors / original PSP cheat authors
+217FF44C 00000300
+20E64938 08800000
+20E64938 09F00000
+20E64938 00000000
+DC000000 00000014
+40000000 08800000
+30000000 09F00000
+B0000000 00000000
+00000034 47C34F80
+D2000000 00000000

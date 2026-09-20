@@ -1,0 +1,57 @@
+# PSP cheat pack
+# Serial: ULES-00704
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Game Speed: Docks
+Author = libretro-database contributors / original PSP cheat authors
+20705E9C 40000000
+
+// Game Speed: Home
+Author = libretro-database contributors / original PSP cheat authors
+20705E9C 40000000
+
+// Inf. Health: Mills
+Author = libretro-database contributors / original PSP cheat authors
+208462BC 3F800000
+
+// Inf. Health: Wharehouse
+Author = libretro-database contributors / original PSP cheat authors
+208309BC 3F800000
+
+// Inf. Health+Sprint: Docks
+Author = libretro-database contributors / original PSP cheat authors
+208355BC 3F800000
+208355C0 3F800000
+
+// Inf. Health+Sprint: Flats
+Author = libretro-database contributors / original PSP cheat authors
+2083FFBC 3F800000
+2083FFC0 3F800000
+
+// Inf. Health+Sprint: Frieghter
+Author = libretro-database contributors / original PSP cheat authors
+2083FABC 3F800000
+2083FAC0 3F800000
+
+// Inf. Health+Sprint: Home
+Author = libretro-database contributors / original PSP cheat authors
+2083A2BC 3F800000
+2083A2C0 3F800000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+6080F3C8 3F800000
+00020001 0000177C
+
+// Infinite Sprint
+Author = libretro-database contributors / original PSP cheat authors
+6080F3C8 3F800000
+00020001 00001780
+
+// Invisable Player
+Author = libretro-database contributors / original PSP cheat authors
+20833EBC 00000000
+
+// Player Speed: Home
+Author = libretro-database contributors / original PSP cheat authors
+20849288 40000000

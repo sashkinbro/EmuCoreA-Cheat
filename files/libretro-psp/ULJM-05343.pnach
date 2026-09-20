@@ -1,0 +1,121 @@
+# PSP cheat pack
+# Serial: ULJM-05343
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Debug Menu (Show) [Press Triangle]
+Author = libretro-database contributors / original PSP cheat authors
+100DBE90 00000000
+100DBEA4 00000000
+
+// Exchange Menu Items (Start + Select + D-Pad Or R) [1]
+Author = libretro-database contributors / original PSP cheat authors
+D0000007 10000089
+201A2A50 00000000
+201A2A54 00000001
+201A2A58 00000002
+201A2A5C 00000003
+201A2A60 00000004
+201A2A64 00000005
+201A2A68 00000006
+201A2A6C 00000007
+
+// Exchange Menu Items (Start + Select + D-Pad Or R) [2]
+Author = libretro-database contributors / original PSP cheat authors
+D0000007 10000029
+201A2A50 00000008
+201A2A54 00000009
+201A2A58 0000000A
+201A2A5C 0000000B
+201A2A60 0000000C
+201A2A64 0000000D
+201A2A68 0000000E
+201A2A6C 0000000F
+
+// Exchange Menu Items (Start + Select + D-Pad Or R) [3]
+Author = libretro-database contributors / original PSP cheat authors
+D0000007 10000019
+201A2A50 00000010
+201A2A54 00000011
+201A2A58 00000012
+201A2A5C 00000013
+201A2A60 00000014
+201A2A64 00000015
+201A2A68 00000016
+201A2A6C 00000017
+
+// Exchange Menu Items (Start + Select + D-Pad Or R) [4]
+Author = libretro-database contributors / original PSP cheat authors
+D0000007 10000049
+201A2A50 00000018
+201A2A54 00000019
+201A2A58 0000001A
+201A2A5C 0000001B
+201A2A60 0000001C
+201A2A64 0000001D
+201A2A68 0000001E
+201A2A6C 0000001F
+
+// Exchange Menu Items (Start + Select + D-Pad Or R) [5]
+Author = libretro-database contributors / original PSP cheat authors
+D0000007 10000209
+201A2A50 00000020
+201A2A54 00000021
+201A2A58 00000022
+201A2A5C 00000023
+
+// Page 6 (Select+Left Memory Manager Menu)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000081
+213F7B08 00000006
+
+// Page 7 (Select+Right Sound Test)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000021
+213F7B08 00000007
+
+// Page 10 (Select+R+Left Event Test)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000281
+213F7B08 00000010
+
+// Page 15 (Select+R+Right Road Settings)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000221
+213F7B08 00000015
+
+// Page 17 (Select+R+Up Color Setting)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000211
+213F7B08 00000017
+
+// Page 18 (Select+R+Down Stone Counter)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000241
+213F7B08 00000018
+
+// Page 19 (Select+Down City Level)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000041
+213F7B08 00000019
+
+// Page F (Select+Start Some Cheat Menu)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000009
+21000000 0000000F
+
+// 1st Player Has Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+201D5A28 05F5E0FF
+
+// 1st Player Has Max Exp.
+Author = libretro-database contributors / original PSP cheat authors
+201D5A2C 05F5E0FF
+
+// 1st Player Has Max HP
+Author = libretro-database contributors / original PSP cheat authors
+201D5A1E 0000270F
+201D5A20 0000270F
+
+// Max Bonus Points
+Author = libretro-database contributors / original PSP cheat authors
+20528D0C 000000FF

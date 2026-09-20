@@ -1,0 +1,29 @@
+# PSP cheat pack
+# Serial: ULES-00144
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+2019D6F4 1000FFF6
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2019D6F4 00000000
+
+// 99 Souls
+Author = libretro-database contributors / original PSP cheat authors
+0032D2A4 00000063
+
+// 99 Souls v2
+Author = libretro-database contributors / original PSP cheat authors
+20000000 0032D2A4
+20000060 00000000
+
+// 99 Weapon Bonus
+Author = libretro-database contributors / original PSP cheat authors
+0032D2C5 00000063
+
+// 99 Weapon Bonus v2
+Author = libretro-database contributors / original PSP cheat authors
+20000000 0032D2C5
+20000060 00000000

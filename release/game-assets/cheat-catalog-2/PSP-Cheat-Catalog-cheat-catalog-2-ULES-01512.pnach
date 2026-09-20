@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: ULES-01512
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Combo Multiplier
+Author = libretro-database contributors / original PSP cheat authors
+2002BB48 2446FFFF
+
+// Show Time Bar Increases On Error
+Author = libretro-database contributors / original PSP cheat authors
+2002C470 460C0000

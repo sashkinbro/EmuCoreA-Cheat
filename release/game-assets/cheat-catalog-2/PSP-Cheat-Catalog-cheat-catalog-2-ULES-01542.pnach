@@ -1,0 +1,35 @@
+# PSP cheat pack
+# Serial: ULES-01542
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Goals Local 0
+Author = libretro-database contributors / original PSP cheat authors
+20AB2360 00000000
+
+// Goals Local 99
+Author = libretro-database contributors / original PSP cheat authors
+20AB2360 00000063
+
+// Goals Visiter 0
+Author = libretro-database contributors / original PSP cheat authors
+20AB2654 00000000
+
+// Goals Visiter 99
+Author = libretro-database contributors / original PSP cheat authors
+20AB2654 00000063
+
+// Max Habilidad Points
+Author = libretro-database contributors / original PSP cheat authors
+007DFFF8 00000063
+
+// Max Habilidad Special
+Author = libretro-database contributors / original PSP cheat authors
+007E0005 00000001
+
+// Max Pes Points
+Author = libretro-database contributors / original PSP cheat authors
+21141714 0001869F
+
+// PresUpuesto Liga Master
+Author = libretro-database contributors / original PSP cheat authors
+205C690C 3B9AC9FF

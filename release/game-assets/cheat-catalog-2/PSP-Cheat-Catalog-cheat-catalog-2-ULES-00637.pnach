@@ -1,0 +1,150 @@
+# PSP cheat pack
+# Serial: ULES-00637
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Remove Stupid GBA-Like Pixelisation
+Author = libretro-database contributors / original PSP cheat authors
+E0020406 002DC288
+202DC288 00003021
+202DC28C 00000000
+
+// Remove Stupid GBA-Like Pixelisation [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+202DC288 3C060406
+202DC28C 34C60002
+
+// 20 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+200674E0 24100002
+200674E4 24100003
+2012F9EC 3C033F80
+20537E90 3F800000
+
+// 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+200674E0 24100002
+200674E4 24100002
+2012F9EC 3C033F80
+20537E90 3F800000
+
+// 60 FPS [Fixed Gamespeed]
+Author = libretro-database contributors / original PSP cheat authors
+200674E0 24100001
+200674E4 24100001
+2012F9EC 3C033F00
+20537E90 3F000000
+
+// Performance/Rendering Resolution Fix
+Author = libretro-database contributors / original PSP cheat authors
+E0090000 00003702
+20067520 0A200DC1
+20003704 3C030418
+20003708 AC60DB98
+2000370C AC60DBA4
+20003710 AC60DBB0
+20003714 3C030880
+20003718 AC633700
+2000371C 0A219D4A
+20003720 3C0308D0
+E0020880 00003702
+20003700 FFFF0000
+20067520 3C0308D0
+
+// All Cars Available To Purchase Without Condition
+Author = libretro-database contributors / original PSP cheat authors
+20310D14 00000000
+
+// All Cars Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+20310D14 00000000
+
+// Disable Police
+Author = libretro-database contributors / original PSP cheat authors
+2059B5F1 00000001
+
+// Disable Racer AI (Activate Before Race Starts)
+Author = libretro-database contributors / original PSP cheat authors
+201EED20 03E00008
+201EED24 00000000
+
+// Disable Traffic
+Author = libretro-database contributors / original PSP cheat authors
+0059B594 00000000
+
+// Drive Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+005690D3 00000000
+
+// Drive Through Walls [Off]
+Author = libretro-database contributors / original PSP cheat authors
+005690D3 00000001
+
+// Enable Police
+Author = libretro-database contributors / original PSP cheat authors
+0059B5F1 00000000
+
+// Enable Racer AI
+Author = libretro-database contributors / original PSP cheat authors
+201EED20 27BDFFF0
+201EED24 AFBF000C
+
+// Enable Racer AI (Activate Before Race Starts)
+Author = libretro-database contributors / original PSP cheat authors
+201EED20 27BDFFF0
+201EED24 AFBF000C
+
+// Enable Traffic
+Author = libretro-database contributors / original PSP cheat authors
+0059B594 00000005
+
+// Infinite Master Points
+Author = libretro-database contributors / original PSP cheat authors
+21683F50 05F5E100
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+21670EC8 05F5E100
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+21670EC8 05F00000
+
+// Paint In Secret Colour
+Author = libretro-database contributors / original PSP cheat authors
+E0020011 00154B10
+E00110A3 00154B12
+20154B10 2405FFFE
+
+// Paint In Secret Colour [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E002FFFE 00154B10
+E0012405 00154B12
+20154B10 10A30011
+
+// Speed Modifer: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20537E90 3FE00000
+
+// Speed Modifer: Mega
+Author = libretro-database contributors / original PSP cheat authors
+20537E90 40000000
+
+// Speed Modifer: Much Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20537E90 3FC00000
+
+// Speed Modifer: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20537E90 3F800000
+
+// Speed Modifer: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20537E90 3FA00000
+
+// Speed Modifer: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20537E90 3F400000
+
+// Speed Modifer: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20537E90 3F000000

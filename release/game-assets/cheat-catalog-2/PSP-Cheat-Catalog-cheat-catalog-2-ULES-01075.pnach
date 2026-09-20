@@ -1,0 +1,49 @@
+# PSP cheat pack
+# Serial: ULES-01075
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// [M] Must Codes
+Author = libretro-database contributors / original PSP cheat authors
+2000201C 0A2B359A
+20002020 C60C0004
+202CD660 0A200800
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0F3F80
+20002004 AE0F06EC
+
+// Infinite Laser Usage
+Author = libretro-database contributors / original PSP cheat authors
+20002008 3C0F41A0
+2000200C AE0F06FC
+
+// Infinite Red Tubes
+Author = libretro-database contributors / original PSP cheat authors
+20002010 240F0063
+20002018 AE0F06F0
+
+// Infinite Tubes
+Author = libretro-database contributors / original PSP cheat authors
+20002010 240F0063
+20002014 AE0F06F8
+
+// Unlock All Cheats
+Author = libretro-database contributors / original PSP cheat authors
+201081DC 24020000
+201081E0 A2220001
+
+// Unlock All Extra Materials
+Author = libretro-database contributors / original PSP cheat authors
+201074FC 24020000
+20107500 A2220001
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+20002030 3C1808A1
+20002034 371892F4
+20002038 171F0003
+20002040 24020001
+20002044 AC820000
+20002058 03E00008
+2021CC4C 0A20080C

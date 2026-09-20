@@ -1,0 +1,93 @@
+# PSP cheat pack
+# Serial: ULES-00264
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 20 Away Goals Score
+Author = libretro-database contributors / original PSP cheat authors
+003716DC 00000014
+
+// 20 Home Goals Score
+Author = libretro-database contributors / original PSP cheat authors
+00037168 00000014
+
+// 99999999 Trick Score
+Author = libretro-database contributors / original PSP cheat authors
+00371688 05F5E0FF
+
+// 999999999 SB
+Author = libretro-database contributors / original PSP cheat authors
+007EB898 3B9AC9FF
+
+// Away Team Scores 0
+Author = libretro-database contributors / original PSP cheat authors
+203716DC 00000000
+
+// Away Team Scores 9
+Author = libretro-database contributors / original PSP cheat authors
+203716DC 00000009
+
+// Goal Score 5
+Author = libretro-database contributors / original PSP cheat authors
+00371680 00000005
+
+// Home Team Scores 0
+Author = libretro-database contributors / original PSP cheat authors
+20371680 00000000
+
+// Home Team Scores 9
+Author = libretro-database contributors / original PSP cheat authors
+20371680 00000009
+
+// Inf. Game Breaker
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 0034A320
+00000018 3F895EC0
+
+// Inf. Game Breaker v2
+Author = libretro-database contributors / original PSP cheat authors
+6034A320 3F895EC0
+00020001 00000018
+
+// Infinite CT
+Author = libretro-database contributors / original PSP cheat authors
+207E99A0 3B9AC9FF
+
+// Infinite Rep. Point Eraned
+Author = libretro-database contributors / original PSP cheat authors
+207E991C 3B9AC9FF
+
+// Max Points In Match
+Author = libretro-database contributors / original PSP cheat authors
+20371688 3B9AC9FF
+
+// Max Skill Bill
+Author = libretro-database contributors / original PSP cheat authors
+207E99A0 0098967F
+
+// Max Skill Bill v2
+Author = libretro-database contributors / original PSP cheat authors
+207E99A0 0000FFFF
+
+// Opponents Score
+Author = libretro-database contributors / original PSP cheat authors
+203716DC 00000000
+
+// Other Teams Points
+Author = libretro-database contributors / original PSP cheat authors
+216D9510 00000000
+
+// Very Fast Game
+Author = libretro-database contributors / original PSP cheat authors
+0034F8C8 00000002
+
+// Your Points
+Author = libretro-database contributors / original PSP cheat authors
+216D950C 00000000
+
+// Your Score
+Author = libretro-database contributors / original PSP cheat authors
+20371680 00000000
+
+// Your Trick Bar
+Author = libretro-database contributors / original PSP cheat authors
+208E7928 000000FF

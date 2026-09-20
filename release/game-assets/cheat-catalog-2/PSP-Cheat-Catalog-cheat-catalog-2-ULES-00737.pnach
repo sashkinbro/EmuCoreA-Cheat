@@ -1,0 +1,21 @@
+# PSP cheat pack
+# Serial: ULES-00737
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+2001706C 3C063D08
+20017074 34C6AB86
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2001706C 3C063C88
+20017074 34C6AB86
+
+// 1000 Cheeses
+Author = libretro-database contributors / original PSP cheat authors
+104E10B4 000003E8
+
+// 50 Keys
+Author = libretro-database contributors / original PSP cheat authors
+104E10CC 00000032

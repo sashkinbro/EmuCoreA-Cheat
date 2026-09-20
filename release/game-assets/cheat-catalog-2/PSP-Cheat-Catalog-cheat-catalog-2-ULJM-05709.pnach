@@ -1,0 +1,69 @@
+# PSP cheat pack
+# Serial: ULJM-05709
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CG All
+Author = libretro-database contributors / original PSP cheat authors
+408B0B28 00030001
+FFFFFFFF 00000000
+208B0B34 0FFFFFFF
+
+// Collection All
+Author = libretro-database contributors / original PSP cheat authors
+808B0AA4 00090001
+000000FF 00000000
+408B0B38 000C0001
+FFFFFFFF 00000000
+108B0B6A 0000FFFF
+408B0B6C 00030001
+208B0B78 FFFFFFFF
+
+// Combo 999
+Author = libretro-database contributors / original PSP cheat authors
+108AEE54 000003E7
+
+// Event All
+Author = libretro-database contributors / original PSP cheat authors
+808B0B8C 00080001
+000000FF 00000000
+
+// Enable Debug Event Select Menu
+Author = libretro-database contributors / original PSP cheat authors
+008C3AEB 00000001
+
+// Item 99 For Music Play
+Author = libretro-database contributors / original PSP cheat authors
+808B0A99 00080001
+10000063 00000000
+
+// Item All
+Author = libretro-database contributors / original PSP cheat authors
+808B0A99 00080001
+00000063 00000000
+
+// Option All
+Author = libretro-database contributors / original PSP cheat authors
+108B0B68 000001FF
+
+// Song All
+Author = libretro-database contributors / original PSP cheat authors
+208B0AB0 000FFFFF
+
+// Sound All
+Author = libretro-database contributors / original PSP cheat authors
+208B0ABC 000FFFFF
+208B0AC4 000FFFFF
+
+// Tension Max
+Author = libretro-database contributors / original PSP cheat authors
+208AEE48 00000147
+
+// Total Score 9999999
+Author = libretro-database contributors / original PSP cheat authors
+208AEE40 0098967F
+
+// Voice All
+Author = libretro-database contributors / original PSP cheat authors
+408B0AC8 000B0001
+FFFFFFFF 00000000
+108B0AF4 000001FF

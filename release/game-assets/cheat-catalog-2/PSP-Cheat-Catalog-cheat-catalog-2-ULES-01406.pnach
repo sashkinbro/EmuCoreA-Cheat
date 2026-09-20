@@ -1,0 +1,152 @@
+# PSP cheat pack
+# Serial: ULES-01406
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+202E7934 1080FFFB
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+202E7934 00000000
+
+// Max Coins
+Author = libretro-database contributors / original PSP cheat authors
+205D4C30 0000270F
+
+// Moon Jump
+Author = libretro-database contributors / original PSP cheat authors
+2086A710 FF0000FF
+20554B5C 00000000
+00000074 3F800000
+D2000000 00000000
+
+// Moon Jump v2
+Author = libretro-database contributors / original PSP cheat authors
+2086A710 FF0000FF
+20554B5C 3F800000
+00002000 00000074
+
+// Moon Jump v3
+Author = libretro-database contributors / original PSP cheat authors
+2086A710 FF0000FF
+20554B5C 3F800000
+00002001 00000074
+
+// Speed Mod: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20040B84 3C044100
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20040B84 3C044180
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20040B84 3C043F80
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20040B84 3C044080
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20040B84 3C043E80
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20040B84 3C043D80
+
+// Unlock 3D Glasses Cheat
+Author = libretro-database contributors / original PSP cheat authors
+209312C0 00000000
+
+// Unlock Bandit Woody Cheat
+Author = libretro-database contributors / original PSP cheat authors
+20949F70 00000000
+
+// Unlock Buzz Laser Cheat
+Author = libretro-database contributors / original PSP cheat authors
+2094DA20 00000000
+
+// Unlock Comedy Cheat
+Author = libretro-database contributors / original PSP cheat authors
+2094A030 00000000
+
+// Unlock Family Minded
+Author = libretro-database contributors / original PSP cheat authors
+20938078 00000001
+2093807A 00000001
+
+// Unlock Goodbye Woody
+Author = libretro-database contributors / original PSP cheat authors
+20938A38 00000001
+20938A3A 00000001
+
+// Unlock High Speed Cheat
+Author = libretro-database contributors / original PSP cheat authors
+2094A0F0 00000000
+
+// Unlock Hold-Up!
+Author = libretro-database contributors / original PSP cheat authors
+208A0DE8 00000001
+
+// Unlock Invincible Cheat
+Author = libretro-database contributors / original PSP cheat authors
+2094C180 00000000
+
+// Unlock Keep Cool!
+Author = libretro-database contributors / original PSP cheat authors
+20937B98 00000001
+20937B9A 00000001
+
+// Unlock Maiden Cheat
+Author = libretro-database contributors / original PSP cheat authors
+2094C090 00000000
+
+// Unlock Old Movie Effects Cheat
+Author = libretro-database contributors / original PSP cheat authors
+2094DA80 00000000
+
+// Unlock Operation Phone Call
+Author = libretro-database contributors / original PSP cheat authors
+209376B8 00000001
+209376BA 00000001
+
+// Unlock Save The Lady
+Author = libretro-database contributors / original PSP cheat authors
+208A17A8 00000001
+
+// Unlock Secret Base Of Zurg
+Author = libretro-database contributors / original PSP cheat authors
+208A3008 00000001
+
+// Unlock Snakes Cheat
+Author = libretro-database contributors / original PSP cheat authors
+20949FD0 00000000
+
+// Unlock Space Rocket Threat
+Author = libretro-database contributors / original PSP cheat authors
+208A2B28 00000001
+
+// Unlock Switchman
+Author = libretro-database contributors / original PSP cheat authors
+208A12C8 00000001
+
+// Unlock The Big Shake
+Author = libretro-database contributors / original PSP cheat authors
+208A2648 00000001
+
+// Unlock Trouble In The Caterpillar Room
+Author = libretro-database contributors / original PSP cheat authors
+20938558 00000001
+2093855A 00000001
+
+// Unlock Western Playtime
+Author = libretro-database contributors / original PSP cheat authors
+209358A8 00000001
+209358AA 00000001
+
+// Unlock Zurg Mask Cheat
+Author = libretro-database contributors / original PSP cheat authors
+2094A090 00000000

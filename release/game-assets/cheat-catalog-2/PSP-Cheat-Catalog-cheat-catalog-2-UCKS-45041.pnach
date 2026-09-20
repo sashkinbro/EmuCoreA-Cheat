@@ -1,0 +1,56 @@
+# PSP cheat pack
+# Serial: UCKS-45041
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Helghast C. Gun Never Overheat
+Author = libretro-database contributors / original PSP cheat authors
+200FF304 00000000
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+200E6214 00000000
+200FE80C 24A50000
+
+// Infinite Box Supplies
+Author = libretro-database contributors / original PSP cheat authors
+200AF790 00000000
+200AFD10 E6ED0004
+
+// Infinite Grenades
+Author = libretro-database contributors / original PSP cheat authors
+200EB248 24840000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+200B58B0 0A200800
+200B58B4 3C0F088B
+20002000 35EF58AC
+20002004 11FF0004
+2000200C 3C0F4800
+20002010 AE0F00F0
+20002014 AE0F00F4
+20002018 82040174
+2000201C 0A22D62E
+20002020 30840002
+
+// Infinite Jetpack
+Author = libretro-database contributors / original PSP cheat authors
+200EEF78 00000000
+
+// Infinite Syringes
+Author = libretro-database contributors / original PSP cheat authors
+200ED4A8 24820000
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+202B02A0 00000000
+
+// Infinite Time [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+202B02A0 E4AC0010
+
+// Restore Health For Max
+Author = libretro-database contributors / original PSP cheat authors
+200898AC 3C0F4800
+200898B0 448F6800
+200898B4 E60D00F4

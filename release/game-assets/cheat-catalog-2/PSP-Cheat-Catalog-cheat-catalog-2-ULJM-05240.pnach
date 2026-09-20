@@ -1,0 +1,22 @@
+# PSP cheat pack
+# Serial: ULJM-05240
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1Rime Tokugi All
+Author = libretro-database contributors / original PSP cheat authors
+205D1BC0 FFFFFFFF
+205D1BC4 DDDDDDDD
+205D1BC8 0DDDDDDD
+
+// Many Golden Eggs
+Author = libretro-database contributors / original PSP cheat authors
+002748D4 00000005
+
+// Shinbusyou Nouryoku 100
+Author = libretro-database contributors / original PSP cheat authors
+017E9960 00000064
+017E9964 00000064
+017E9968 00000064
+017E996C 00000064
+017E9970 00000064
+017E9974 00000064

@@ -1,0 +1,16 @@
+# PSP cheat pack
+# Serial: ULJM-05037
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// ??? Max
+Author = libretro-database contributors / original PSP cheat authors
+008579A0 000000A0
+008579A2 000000A0
+
+// ???? Max
+Author = libretro-database contributors / original PSP cheat authors
+205ADD24 0098967F
+
+// Ending Credits Roll
+Author = libretro-database contributors / original PSP cheat authors
+0085F1F0 00000057

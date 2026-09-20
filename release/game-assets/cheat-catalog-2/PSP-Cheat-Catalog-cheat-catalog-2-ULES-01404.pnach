@@ -1,0 +1,31 @@
+# PSP cheat pack
+# Serial: ULES-01404
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Coins
+Author = libretro-database contributors / original PSP cheat authors
+205D4A30 0000270F
+
+// Speed Modifier: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C044100
+
+// Speed Modifier: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C044180
+
+// Speed Modifier: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C043F80
+
+// Speed Modifier: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C044080
+
+// Speed Modifier: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C043E80
+
+// Speed Modifier: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C043D80

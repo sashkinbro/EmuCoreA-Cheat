@@ -1,0 +1,104 @@
+# PSP cheat pack
+# Serial: UCES-01229
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Characters Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+20443B58 FFFFFFFF
+00443B5C 000000FF
+
+// AI Idiot
+Author = libretro-database contributors / original PSP cheat authors
+2005D6F8 1000001D
+
+// AI Normal
+Author = libretro-database contributors / original PSP cheat authors
+2005D6F8 1040001D
+
+// Infinite Dynasty Points
+Author = libretro-database contributors / original PSP cheat authors
+201BA33C 00000000
+201BA348 00000000
+
+// Max Gil
+Author = libretro-database contributors / original PSP cheat authors
+204279F0 05F5E0FF
+
+// Max PP
+Author = libretro-database contributors / original PSP cheat authors
+20432110 3B9AC9FF
+
+// Player 1: Full EX Gauge
+Author = libretro-database contributors / original PSP cheat authors
+2005D9AC 0E200400
+20001000 84C6000E
+20001004 3C01461D
+20001008 ACE10014
+20001020 03E00008
+
+// Player 1: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2005D9A4 A4E00002
+
+// Player 1: Max Damage
+Author = libretro-database contributors / original PSP cheat authors
+2005D9AC 0E200400
+20001000 84C6000E
+20001014 2401270F
+20001018 A4E10010
+2000101C A4E1000E
+20001020 03E00008
+
+// Player 1: Max Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2005D9A0 2405270F
+2005D9A4 A4E50008
+2005D9A8 A4E00002
+
+// Player 1: Max Level
+Author = libretro-database contributors / original PSP cheat authors
+2005D9AC 0E200400
+20001000 84C6000E
+2000100C 24010063
+20001010 A0E10000
+20001020 03E00008
+
+// Player 2: 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+2005D740 24060001
+2005D750 A4860008
+
+// Player 2: Instant Win
+Author = libretro-database contributors / original PSP cheat authors
+2005D740 24062710
+2005D750 A4860002
+
+// Player 2: Instant Win/1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+2005D740 84860008
+2005D750 04E00009
+
+// Speed Mod: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+200EEA1C 3C014040
+200EEA24 AE016AD4
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+200EEA1C 3C014080
+200EEA24 AE016AD4
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+200EEA1C C48C0018
+200EEA24 E60C6AD4
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+200EEA1C 3C014020
+200EEA24 AE016AD4
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+200EEA1C 3C013F40
+200EEA24 AE016AD4

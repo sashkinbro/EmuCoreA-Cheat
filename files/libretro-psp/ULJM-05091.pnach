@@ -1,0 +1,119 @@
+# PSP cheat pack
+# Serial: ULJM-05091
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Gradius 3: Gage
+Author = libretro-database contributors / original PSP cheat authors
+10A5A61A 00000006
+
+// Gradius 3: Gage Double
+Author = libretro-database contributors / original PSP cheat authors
+10A5A61A 00000001
+
+// Gradius 3: Gage Laser
+Author = libretro-database contributors / original PSP cheat authors
+10A5A61A 00000000
+
+// Gradius 3: Gage Missile
+Author = libretro-database contributors / original PSP cheat authors
+10A5A61A 00000002
+
+// Gradius 3: Gage OPT
+Author = libretro-database contributors / original PSP cheat authors
+10A5A61A 00000005
+
+// Gradius 3: Gage Speed
+Author = libretro-database contributors / original PSP cheat authors
+10A5A61A 00000001
+
+// Gradius 4: Gage
+Author = libretro-database contributors / original PSP cheat authors
+102ADCFA 00000006
+
+// Gradius 4: Gage Double
+Author = libretro-database contributors / original PSP cheat authors
+102ADCFA 00000003
+
+// Gradius 4: Gage Laser
+Author = libretro-database contributors / original PSP cheat authors
+102ADCFA 00000004
+
+// Gradius 4: Gage Missile
+Author = libretro-database contributors / original PSP cheat authors
+102ADCFA 00000002
+
+// Gradius 4: Gage OPT
+Author = libretro-database contributors / original PSP cheat authors
+102ADCFA 00000005
+
+// Gradius 4: Gage Speed
+Author = libretro-database contributors / original PSP cheat authors
+102ADCFA 00000001
+
+// Gradius G: Gage ?
+Author = libretro-database contributors / original PSP cheat authors
+1066608A 00000006
+
+// Gradius G: Gage Double
+Author = libretro-database contributors / original PSP cheat authors
+1066608A 00000003
+
+// Gradius G: Gage Laser
+Author = libretro-database contributors / original PSP cheat authors
+1066608A 00000004
+
+// Gradius G: Gage Missile
+Author = libretro-database contributors / original PSP cheat authors
+1066608A 00000002
+
+// Gradius G: Gage OPT
+Author = libretro-database contributors / original PSP cheat authors
+1066608A 00000005
+
+// Gradius G: Gage Speed
+Author = libretro-database contributors / original PSP cheat authors
+1066608A 00000001
+
+// Inf. Shield - Gradius 1
+Author = libretro-database contributors / original PSP cheat authors
+203032C8 00051C02
+
+// Infinite Credits (Gradius Gaiden)
+Author = libretro-database contributors / original PSP cheat authors
+0066648A 00000005
+
+// Infinite Lives (Gradius)
+Author = libretro-database contributors / original PSP cheat authors
+00303372 00000007
+
+// Infinite Lives (Gradius Gaiden)
+Author = libretro-database contributors / original PSP cheat authors
+00666080 00000007
+
+// Infinite Lives (Gradius II)
+Author = libretro-database contributors / original PSP cheat authors
+005AB9A0 00000007
+
+// Infinite Lives (Gradius III)
+Author = libretro-database contributors / original PSP cheat authors
+00801050 00000007
+
+// Infinite Lives (Gradius IV)
+Author = libretro-database contributors / original PSP cheat authors
+005596C8 00000006
+
+// Infinite Lives Gradius 1
+Author = libretro-database contributors / original PSP cheat authors
+00303372 00000007
+
+// Infinite Lives Gradius 3
+Author = libretro-database contributors / original PSP cheat authors
+00801050 00000007
+
+// Infinite Lives Gradius 4
+Author = libretro-database contributors / original PSP cheat authors
+005596C8 00000007
+
+// Infinite Lives Gradius G
+Author = libretro-database contributors / original PSP cheat authors
+00666080 00000007

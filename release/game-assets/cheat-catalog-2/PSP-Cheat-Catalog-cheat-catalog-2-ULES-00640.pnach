@@ -1,0 +1,33 @@
+# PSP cheat pack
+# Serial: ULES-00640
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Graphic Workaround
+Author = libretro-database contributors / original PSP cheat authors
+E001FFFF 00010334
+20010334 0000C821
+
+// Freeze Workaround
+Author = libretro-database contributors / original PSP cheat authors
+E0060001 0000F9EC
+2000F9EC 00005821
+2000FC5C 00002821
+2000F968 00000000
+2000FBB4 00000000
+2000FAE4 00000000
+2000FAC8 00000000
+
+// Pitfall - Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+00782A5C FFFFFFFF
+
+// Pitfall - Infinite Points
+Author = libretro-database contributors / original PSP cheat authors
+00782AB1 00000099
+00782AB2 00000099
+00782AB3 00000099
+
+// Pitfall - Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+00782AB4 00000099
+00782AB5 00000099

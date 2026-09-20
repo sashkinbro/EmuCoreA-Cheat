@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: ULJM-05154
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+20002000 C48D03F8
+20002004 0A22645F
+20002008 460C6B03
+20099174 0A200800
+20099178 E48C03F8
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+20D59354 05F5E0FF

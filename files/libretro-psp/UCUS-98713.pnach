@@ -1,0 +1,57 @@
+# PSP cheat pack
+# Serial: UCUS-98713
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2037BD14 41A00000
+00020000 00000044
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+2037BD14 41A00000
+00020001 00000044
+
+// Size Mod: Bigger Size
+Author = libretro-database contributors / original PSP cheat authors
+201CD1E0 3C043F90
+
+// Size Mod: Even Bigger Size
+Author = libretro-database contributors / original PSP cheat authors
+201CD1E0 3C043FA0
+
+// Size Mod: Normal Size
+Author = libretro-database contributors / original PSP cheat authors
+201CD1E0 3C043F80
+
+// Size Mod: Small Size
+Author = libretro-database contributors / original PSP cheat authors
+201CD1E0 3C043F00
+
+// Size Mod: Super Small Size
+Author = libretro-database contributors / original PSP cheat authors
+201CD1E0 3C043E80
+
+// Speed Mod: Hyper Mode
+Author = libretro-database contributors / original PSP cheat authors
+2029B3C8 000006E8
+
+// Speed Mod: Insane Speed
+Author = libretro-database contributors / original PSP cheat authors
+2029B3C8 000009E8
+
+// Speed Mod: Normal Speed
+Author = libretro-database contributors / original PSP cheat authors
+2029B3C8 000003E8
+
+// Speed Mod: Quicker Game
+Author = libretro-database contributors / original PSP cheat authors
+2029B3C8 000004E8
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2029B3C8 00000280
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2029B3C8 00000140

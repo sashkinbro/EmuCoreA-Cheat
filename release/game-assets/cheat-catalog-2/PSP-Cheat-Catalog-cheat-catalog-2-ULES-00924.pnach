@@ -1,0 +1,22 @@
+# PSP cheat pack
+# Serial: ULES-00924
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Ability Points
+Author = libretro-database contributors / original PSP cheat authors
+00EC4460 000000FF
+00ECAD3C 000000FF
+
+// Ability Points v2
+Author = libretro-database contributors / original PSP cheat authors
+003E0010 000000FF
+00EC4460 000000FF
+00ECAD3C 000000FF
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+103E0064 000003E7
+
+// Max WP
+Author = libretro-database contributors / original PSP cheat authors
+103E006C 000003E7

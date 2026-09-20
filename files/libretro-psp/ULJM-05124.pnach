@@ -1,0 +1,20 @@
+# PSP cheat pack
+# Serial: ULJM-05124
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// BP
+Author = libretro-database contributors / original PSP cheat authors
+212811F8 00000009
+
+// Exp.
+Author = libretro-database contributors / original PSP cheat authors
+202B9940 0001869F
+
+// Heishu
+Author = libretro-database contributors / original PSP cheat authors
+8134C1EB 000D0001
+00000063 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+2036DFD4 000F423F

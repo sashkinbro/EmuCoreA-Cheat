@@ -1,0 +1,116 @@
+# PSP cheat pack
+# Serial: ULJM-05503
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 9999 HP (Gulcasa)
+Author = libretro-database contributors / original PSP cheat authors
+1034D8D6 0000270F
+1034D8D8 0000270F
+
+// 9999 Morale (Aegina)
+Author = libretro-database contributors / original PSP cheat authors
+1034DA02 0000270F
+1034DA04 0000270F
+
+// 9999 Morale (Book Mage)
+Author = libretro-database contributors / original PSP cheat authors
+1034DAF2 0000270F
+1034DAF4 0000270F
+
+// 9999 Morale (Garlot)
+Author = libretro-database contributors / original PSP cheat authors
+1034D89A 0000270F
+1034D89C 0000270F
+
+// 9999 Morale (Jenon)
+Author = libretro-database contributors / original PSP cheat authors
+1034D94E 0000270F
+1034D950 0000270F
+
+// 9999 Morale (Knight)
+Author = libretro-database contributors / original PSP cheat authors
+1034DA7A 0000270F
+1034DA7C 0000270F
+
+// 9999 Morale (Medoutel)
+Author = libretro-database contributors / original PSP cheat authors
+1034D98C 0000270F
+1034D98A 0000270F
+
+// 9999 Morale (Siskier)
+Author = libretro-database contributors / original PSP cheat authors
+1034D912 0000270F
+1034D914 0000270F
+
+// 9999 Morale (Tiger Man)
+Author = libretro-database contributors / original PSP cheat authors
+1034DC1E 0000270F
+1034DC20 0000270F
+
+// Always Lvl. 1 (Aegina)
+Author = libretro-database contributors / original PSP cheat authors
+0034D9F8 00000001
+
+// Always Lvl. 1 (Garlot)
+Author = libretro-database contributors / original PSP cheat authors
+0034D890 00000001
+
+// Always Lvl. 1 (Gulcasa)
+Author = libretro-database contributors / original PSP cheat authors
+0034D908 00000001
+
+// Always Lvl. 1 (Jenon)
+Author = libretro-database contributors / original PSP cheat authors
+0034D944 00000001
+
+// Always Lvl. 1 (Medoute)
+Author = libretro-database contributors / original PSP cheat authors
+0034D980 00000001
+
+// Always Lvl. 1 (Siskier)
+Author = libretro-database contributors / original PSP cheat authors
+0034D908 00000001
+
+// Always Turn 1
+Author = libretro-database contributors / original PSP cheat authors
+202C40B8 00000001
+
+// Enable Card Use At Beginning
+Author = libretro-database contributors / original PSP cheat authors
+2000DB14 34A60000
+
+// Level Up After Battle
+Author = libretro-database contributors / original PSP cheat authors
+2004A1AC 00000000
+
+// Max Level When Level Up
+Author = libretro-database contributors / original PSP cheat authors
+200E6CC4 00000000
+
+// Mov. 20 Times
+Author = libretro-database contributors / original PSP cheat authors
+202C40BA 00000020
+
+// Some Cards 5000 Pow.
+Author = libretro-database contributors / original PSP cheat authors
+10342B04 00001388
+10342AFE 00001388
+10342AE2 00001388
+10342AE8 00001388
+10342AF0 00001388
+10342AF6 00001388
+10342B22 00001388
+10342AF8 00001388
+10342AE4 00001388
+10342B0E 00001388
+10342B10 00001388
+10342AFC 00001388
+10342AD8 00001388
+10342B08 00001388
+10342AE6 00001388
+10342B1E 00001388
+10342AEC 00001388
+10342B06 00001388
+10342B00 00001388
+10342B12 00001388
+10342B18 00001388

@@ -1,0 +1,63 @@
+# PSP cheat pack
+# Serial: ULJM-05104
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Coins
+Author = libretro-database contributors / original PSP cheat authors
+20A51C10 3B9AC9FF
+
+// Coins v2
+Author = libretro-database contributors / original PSP cheat authors
+20251C10 3B9AC9FF
+
+// P1: Color
+Author = libretro-database contributors / original PSP cheat authors
+009F234E 0000000
+
+// P1: Easy Moves - Chun-Li - Hyakuretsu Kyaku
+Author = libretro-database contributors / original PSP cheat authors
+E1030005 009F2329
+009F22B4 00000004
+009F22B6 00000004
+009F22B8 00000004
+
+// P1: Easy Moves - Chun-Li - Kikou Ken
+Author = libretro-database contributors / original PSP cheat authors
+D09F2329 20000005
+109F22CC 00000605
+
+// P1: Easy Moves - Chun-Li - Spinning Bird Kick
+Author = libretro-database contributors / original PSP cheat authors
+E1020005 009F2329
+009F2298 00000004
+009F229B 00000001
+
+// P1: Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+209F20C8 00900090
+
+// P2: Color
+Author = libretro-database contributors / original PSP cheat authors
+009F2656 0000000
+
+// P2: Easy Moves - Chun-Li - Hyakuretsu Kyaku
+Author = libretro-database contributors / original PSP cheat authors
+E1030005 009F2631
+009F25BC 00000004
+009F25BE 00000004
+009F25C0 00000004
+
+// P2: Easy Moves - Chun-Li - Kikou Ken
+Author = libretro-database contributors / original PSP cheat authors
+D09F2631 20000005
+109F25D4 00000605
+
+// P2: Easy Moves - Chun-Li - Spinning Bird Kick
+Author = libretro-database contributors / original PSP cheat authors
+E1020005 009F2631
+009F25A0 00000004
+009F25A3 00000001
+
+// P2: Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+209F23D0 00900090

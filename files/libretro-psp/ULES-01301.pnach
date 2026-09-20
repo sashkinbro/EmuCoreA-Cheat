@@ -1,0 +1,53 @@
+# PSP cheat pack
+# Serial: ULES-01301
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AI Dumb
+Author = libretro-database contributors / original PSP cheat authors
+200A95CC 3C044080
+
+// AI Frozen
+Author = libretro-database contributors / original PSP cheat authors
+2009BA9C 3C043000
+
+// AI Normal
+Author = libretro-database contributors / original PSP cheat authors
+2009BA9C 3C043F80
+
+// AI Slow
+Author = libretro-database contributors / original PSP cheat authors
+2009BA9C 3C043F00
+
+// Car Size Mod
+Author = libretro-database contributors / original PSP cheat authors
+20046848 3C044080
+
+// Drive Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+203C73F0 40800000
+
+// Imposter
+Author = libretro-database contributors / original PSP cheat authors
+003B2D9C 00000000
+003B2DA0 00000000
+003B2DA4 00000000
+
+// Invisible Track
+Author = libretro-database contributors / original PSP cheat authors
+203BB520 40800000
+
+// No Boundaries
+Author = libretro-database contributors / original PSP cheat authors
+200A920C 03E00008
+000A9210 00000000
+
+// No Hud
+Author = libretro-database contributors / original PSP cheat authors
+2005B418 3C044580
+2005B60C 3C044580
+
+// Uni One Lap
+Author = libretro-database contributors / original PSP cheat authors
+601C02D4 00000003
+00000001 00000008
+00000010 00000003

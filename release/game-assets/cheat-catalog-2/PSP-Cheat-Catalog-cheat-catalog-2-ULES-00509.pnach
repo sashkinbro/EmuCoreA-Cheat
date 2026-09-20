@@ -1,0 +1,40 @@
+# PSP cheat pack
+# Serial: ULES-00509
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Level
+Author = libretro-database contributors / original PSP cheat authors
+206B7530 05F5E0FF
+
+// Maximum Training Weeks (6)
+Author = libretro-database contributors / original PSP cheat authors
+2024D850 00000006
+
+// Player 1 Has Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20126354 00000000
+0000013C 44010C00
+00000140 433C0000
+00000144 43160000
+00000148 44260C00
+0000014C 46260C00
+00000150 43EC0000
+00000154 42B00000
+D2000000 00000000
+
+// Player 1 Has Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+20126354 44010C00
+00020001 0000013C
+20126354 433C0000
+00020001 00000140
+20126354 43160000
+00020001 00000144
+20126354 44260C00
+00020001 00000148
+20126354 46260C00
+00020001 0000014C
+20126354 43EC0000
+00020001 00000150
+20126354 42B00000
+00020001 00000154

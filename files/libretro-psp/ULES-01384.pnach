@@ -1,0 +1,204 @@
+# PSP cheat pack
+# Serial: ULES-01384
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 0% Bloom Strength
+Author = libretro-database contributors / original PSP cheat authors
+20026EAC 00000000
+
+// 25% Bloom Strength
+Author = libretro-database contributors / original PSP cheat authors
+20026EAC 3E800000
+
+// 50% Bloom Strength
+Author = libretro-database contributors / original PSP cheat authors
+20026EAC 3F000000
+
+// 100% Bloom Strength
+Author = libretro-database contributors / original PSP cheat authors
+20026EAC 3F800000
+
+// Darker Less Light Effect (Experiment)
+Author = libretro-database contributors / original PSP cheat authors
+20026EAC 3FB33333
+
+// 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E0030064 001C239C
+E002001E 103E4B40
+203E4B40 0000001E
+20022EE4 3D088889
+
+// 40 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0030064 001C239C
+E0020028 103E4B40
+203E4B40 00000028
+20022EE4 3CCCCCCD
+
+// 60+ FPS
+Author = libretro-database contributors / original PSP cheat authors
+E0030064 001C239C
+E002004B 103E4B40
+203E4B40 0000004B
+20022EE4 3C5A740E
+
+// NormalWide Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+2081E6A8 3F000000
+
+// Standard Screen (4:3)
+Author = libretro-database contributors / original PSP cheat authors
+2081E6A8 3EE66666
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+2081E6A8 3F99999A
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+2081E6A8 3F4CCCCD
+
+// [@] Must Be On!!!
+Author = libretro-database contributors / original PSP cheat authors
+1020BF88 00003F80
+10166570 00003F80
+10101850 00003F80
+100A6CFE 00003F80
+100A68AE 00003F80
+100A47E2 00003F80
+10022EEA 00003F80
+
+// 1 Silver Coin For Max
+Author = libretro-database contributors / original PSP cheat authors
+20AE9FBC 2402001E
+
+// Camera Angle Mod
+Author = libretro-database contributors / original PSP cheat authors
+1020BF88 00003F50
+
+// Combo Never Ends
+Author = libretro-database contributors / original PSP cheat authors
+20B401B8 00000000
+
+// Demon Mode
+Author = libretro-database contributors / original PSP cheat authors
+100A6CFE 00003EC0
+100A68AE 00003F70
+100A47E2 00003ED0
+
+// Demon Mode v2
+Author = libretro-database contributors / original PSP cheat authors
+10166570 00003EE0
+1020D378 00003F80
+
+// Faster Gameplay Speed
+Author = libretro-database contributors / original PSP cheat authors
+10022EEA 00004020
+
+// Flash Walk Motion Only
+Author = libretro-database contributors / original PSP cheat authors
+100A47E2 00004000
+
+// Free Upgrades
+Author = libretro-database contributors / original PSP cheat authors
+20A78A84 24020000
+
+// Game Speed Mod
+Author = libretro-database contributors / original PSP cheat authors
+10022EEA 00003F80
+
+// Holy Exp. Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20AEA13C 00058080
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+20ACB288 3C1142C8
+20ACB290 AC51015C
+20ACB298 0A4B2CD2
+
+// Inf. Souls
+Author = libretro-database contributors / original PSP cheat authors
+607AE724 000F423F
+00020001 00000450
+
+// Inf. SP
+Author = libretro-database contributors / original PSP cheat authors
+607AE724 42C80000
+00020001 000004E4
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20ACB288 3C114334
+20ACB290 AC51015C
+20ACB298 0A4B2CD2
+
+// Infinite Magic
+Author = libretro-database contributors / original PSP cheat authors
+20AEA104 3C1742C8
+20AEA108 44970000
+
+// Infinite Magic v2
+Author = libretro-database contributors / original PSP cheat authors
+20AEA104 3C174348
+20AEA108 44970000
+
+// Invincible Scythe
+Author = libretro-database contributors / original PSP cheat authors
+100A68AE 00003000
+
+// Max Holy Exp. After 1 Kill
+Author = libretro-database contributors / original PSP cheat authors
+20AEA154 00000000
+
+// Max Holy Level
+Author = libretro-database contributors / original PSP cheat authors
+607AE724 00002328
+00020001 00000434
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+607AE724 42C80000
+00020001 0000015C
+
+// Max SP
+Author = libretro-database contributors / original PSP cheat authors
+20AEA108 46000000
+
+// Max Unholy Level
+Author = libretro-database contributors / original PSP cheat authors
+607AE724 00002328
+00020001 00000438
+
+// Max Souls After 1 Kill
+Author = libretro-database contributors / original PSP cheat authors
+20AEA5D8 00000000
+20AEA5E0 00000000
+
+// Shadow Mode Aka Ghost Dante
+Author = libretro-database contributors / original PSP cheat authors
+100A6CFE 00003E00
+
+// Size Mod All
+Author = libretro-database contributors / original PSP cheat authors
+10101850 00003FA0
+
+// Slower Gameplay Speed
+Author = libretro-database contributors / original PSP cheat authors
+10022EEA 00003E00
+
+// Slower Walk Motion Only
+Author = libretro-database contributors / original PSP cheat authors
+100A47E2 00003ED0
+
+// Soul Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20AEA5C8 0A200800
+20002000 8C830450
+20002004 0A4BA974
+20002008 00052880
+
+// Unholy Exp. Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20AEA264 00058080

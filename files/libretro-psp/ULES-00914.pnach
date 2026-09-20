@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: ULES-00914
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Always Hole In One
+Author = libretro-database contributors / original PSP cheat authors
+1039EEB0 00000001
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+1039DE88 0000FFFF

@@ -1,0 +1,250 @@
+# PSP cheat pack
+# Serial: ULJM-05357
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Encount Off
+Author = libretro-database contributors / original PSP cheat authors
+00CD756A 000000FF
+
+// FK: Kabuki Ougi
+Author = libretro-database contributors / original PSP cheat authors
+00CD6FF8 000000FF
+
+// FK: Kabuki Tai Genzai
+Author = libretro-database contributors / original PSP cheat authors
+00CD6F58 000000E7
+00CD6F5C 00000003
+
+// FK: Kabuki Toku
+Author = libretro-database contributors / original PSP cheat authors
+00CD6F48 0000007F
+00CD6F4C 00000096
+00CD6F50 00000098
+
+// FK: Kabuki Waza Genzai
+Author = libretro-database contributors / original PSP cheat authors
+00CD6F60 000000E7
+00CD6F64 00000003
+
+// FK: Money
+Author = libretro-database contributors / original PSP cheat authors
+00CD7013 0000007F
+10CD7014 00009896
+
+// FK: Okuni Ougi
+Author = libretro-database contributors / original PSP cheat authors
+00CD6FFA 000000FF
+
+// FK: Okuni Tai Genzai
+Author = libretro-database contributors / original PSP cheat authors
+00CD6F5A 000000E7
+00CD6F5E 00000003
+
+// FK: Okuni Toku
+Author = libretro-database contributors / original PSP cheat authors
+00CD6F4A 0000007F
+00CD6F4E 00000096
+00CD6F52 00000098
+
+// FK: Okuni Waza Genzai
+Author = libretro-database contributors / original PSP cheat authors
+00CD6F62 000000E7
+00CD6F66 00000003
+
+// FK: Push Fujiyama Ougi
+Author = libretro-database contributors / original PSP cheat authors
+00CD6FFB 000000FF
+
+// FK: Push Fujiyama Tai Genzai
+Author = libretro-database contributors / original PSP cheat authors
+00CD6F5B 000000E7
+00CD6F5F 00000003
+
+// FK: Push Fujiyama Toku
+Author = libretro-database contributors / original PSP cheat authors
+00CD6F4B 0000007F
+00CD6F4F 00000096
+00CD6F53 00000098
+
+// FK: Push Fujiyama Waza Genzai
+Author = libretro-database contributors / original PSP cheat authors
+00CD6F63 000000E7
+00CD6F67 00000003
+
+// FK: Zeami Ougi
+Author = libretro-database contributors / original PSP cheat authors
+00CD6FF9 000000FF
+
+// FK: Zeami Tai Genzai
+Author = libretro-database contributors / original PSP cheat authors
+00CD6F59 000000E7
+00CD6F5D 00000003
+
+// FK: Zeami Toku
+Author = libretro-database contributors / original PSP cheat authors
+00CD6F49 0000007F
+00CD6F4D 00000096
+00CD6F51 00000098
+
+// FK: Zeami Waza Genzai
+Author = libretro-database contributors / original PSP cheat authors
+00CD6F61 000000E7
+00CD6F65 00000003
+
+// Ki: Enemy Life
+Author = libretro-database contributors / original PSP cheat authors
+80CD70B2 00040004
+
+// Ki: Life max
+Author = libretro-database contributors / original PSP cheat authors
+80CD70B0 00040004
+0000006A 00000000
+
+// T1: Money
+Author = libretro-database contributors / original PSP cheat authors
+10CD7510 0000FFFF
+
+// T1: Orochimaru Dan
+Author = libretro-database contributors / original PSP cheat authors
+00CD74E0 00000063
+
+// T1: Orochimaru Tai Genzai
+Author = libretro-database contributors / original PSP cheat authors
+10CD74D8 000001E1
+
+// T1: Orochimaru Toku
+Author = libretro-database contributors / original PSP cheat authors
+00CD74E1 0000007F
+10CD74E2 00009896
+
+// T1: Orochimaru Waza Genzai
+Author = libretro-database contributors / original PSP cheat authors
+10CD74DA 000001FB
+
+// T1: Tsunade Dan
+Author = libretro-database contributors / original PSP cheat authors
+00CD74FC 00000063
+
+// T1: Tai Waza In Battle
+Author = libretro-database contributors / original PSP cheat authors
+00CD826E 000000FF
+00CD828A 000000FF
+00CD8270 000000FF
+00CD828C 000000FF
+00CD8272 000000FF
+00CD828E 000000FF
+
+// T1: Tsunade Waza Genzai
+Author = libretro-database contributors / original PSP cheat authors
+10CD74F6 00000
+
+// T1: Tsunade Tai Genzai
+Author = libretro-database contributors / original PSP cheat authors
+10CD74F4 000001F2
+
+// T1: Tsunade Toku
+Author = libretro-database contributors / original PSP cheat authors
+00CD74FD 0000007F
+10CD74FE 00009896
+
+// T1: Ziria Dan
+Author = libretro-database contributors / original PSP cheat authors
+00CD74C4 00000063
+
+// T1: Ziria Tai Genzai
+Author = libretro-database contributors / original PSP cheat authors
+10CD74BC 00000241
+
+// T1: Ziria Toku
+Author = libretro-database contributors / original PSP cheat authors
+00CD74C5 0000007F
+10CD74C6 00009896
+
+// T1: Ziria Waza Genzai
+Author = libretro-database contributors / original PSP cheat authors
+10CD74BE 000001FF
+
+// T2: Gokuraku Ougi
+Author = libretro-database contributors / original PSP cheat authors
+0164A24B 000000FF
+
+// T2: Gokuraku Tai Genzai
+Author = libretro-database contributors / original PSP cheat authors
+0164A158 000000E7
+0164A15C 00000003
+
+// T2: Gokuraku Toku
+Author = libretro-database contributors / original PSP cheat authors
+0164A134 0000007F
+0164A138 00000096
+0164A13C 00000098
+
+// T2: Gokuraku Waza Genzai
+Author = libretro-database contributors / original PSP cheat authors
+0164A168 000000E7
+0164A16C 00000003
+
+// T2: Kabuki Ougi
+Author = libretro-database contributors / original PSP cheat authors
+0164A24A 000000FF
+
+// T2: Kabuki Tai Genzai
+Author = libretro-database contributors / original PSP cheat authors
+0164A157 000000E7
+0164A15B 00000003
+
+// T2: Kabuki Toku
+Author = libretro-database contributors / original PSP cheat authors
+0164A133 0000007F
+0164A137 00000096
+0164A13B 00000098
+
+// T2: Kabuki Waza Genzai
+Author = libretro-database contributors / original PSP cheat authors
+0164A167 000000E7
+0164A16B 00000003
+
+// T2: Kinu Ougi
+Author = libretro-database contributors / original PSP cheat authors
+0164A24C 000000FF
+
+// T2: Kinu Tai Genzai
+Author = libretro-database contributors / original PSP cheat authors
+0164A159 000000E7
+0164A15D 00000003
+
+// T2: Kinu Toku
+Author = libretro-database contributors / original PSP cheat authors
+0164A135 0000007F
+0164A139 00000096
+0164A13D 00000098
+
+// T2: Kinu Waza Genzai
+Author = libretro-database contributors / original PSP cheat authors
+0164A169 000000E7
+0164A16D 00000003
+
+// T2: Manji Maru Ougi
+Author = libretro-database contributors / original PSP cheat authors
+0164A249 000000FF
+
+// T2: Manji Maru Tai Genzai
+Author = libretro-database contributors / original PSP cheat authors
+0164A156 000000E7
+0164A15A 00000003
+
+// T2: Manji Maru Toku
+Author = libretro-database contributors / original PSP cheat authors
+0164A132 0000007F
+0164A136 00000096
+0164A13A 00000098
+
+// T2: Manji Maru Waza Genzai
+Author = libretro-database contributors / original PSP cheat authors
+0164A166 000000E7
+0164A16A 00000003
+
+// T2: Money
+Author = libretro-database contributors / original PSP cheat authors
+1164A1C6 0000423F
+0164A1C8 0000000F

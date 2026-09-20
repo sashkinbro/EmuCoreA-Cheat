@@ -1,0 +1,41 @@
+# PSP cheat pack
+# Serial: UCES-01225
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Plane Mods
+Author = libretro-database contributors / original PSP cheat authors
+B7800000 00000022
+2003C3FC 02020202
+D3800000 00000004
+
+// Max Dark Eco
+Author = libretro-database contributors / original PSP cheat authors
+1003C628 0000270F
+
+// Max Health 50
+Author = libretro-database contributors / original PSP cheat authors
+2003C3F4 42480000
+
+// Max Health 100
+Author = libretro-database contributors / original PSP cheat authors
+2003C3F4 42C80000
+
+// Max Health 500
+Author = libretro-database contributors / original PSP cheat authors
+2003C3F4 43FA0000
+
+// Max Health 1000
+Author = libretro-database contributors / original PSP cheat authors
+2003C3F4 447A0000
+
+// Max Health 1000000000+
+Author = libretro-database contributors / original PSP cheat authors
+2003C3F4 4F000000
+
+// Max Precursor Orbs
+Author = libretro-database contributors / original PSP cheat authors
+1003C620 000003E7
+
+// Max Scrap Metal
+Author = libretro-database contributors / original PSP cheat authors
+1003C624 0000270F

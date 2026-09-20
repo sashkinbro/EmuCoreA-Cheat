@@ -1,0 +1,48 @@
+# PSP cheat pack
+# Serial: ULAS-42202
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Effect Props x2
+Author = libretro-database contributors / original PSP cheat authors
+2016B864 3C034000
+
+// Increased Musou Slot Maximum
+Author = libretro-database contributors / original PSP cheat authors
+2019BBE0 00000000
+2019C12C 24070008
+201BA720 00000000
+
+// Max Attack
+Author = libretro-database contributors / original PSP cheat authors
+20024E78 00000000
+
+// Max Defense
+Author = libretro-database contributors / original PSP cheat authors
+20024E98 00000000
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+2019391C C60103F8
+2019392C E60103FC
+
+// Musou Without Reduction
+Author = libretro-database contributors / original PSP cheat authors
+2019BBE0 00000000
+
+// Passing On
+Author = libretro-database contributors / original PSP cheat authors
+201C0154 00000000
+
+// Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+20127E10 24650000
+
+// Unabated Physical Strength
+Author = libretro-database contributors / original PSP cheat authors
+20192B64 C60103F8
+20192B74 E60103FC
+
+// Unparalleled
+Author = libretro-database contributors / original PSP cheat authors
+20192B7C C6010404
+20192B80 E6010408

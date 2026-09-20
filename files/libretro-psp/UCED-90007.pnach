@@ -1,0 +1,44 @@
+# PSP cheat pack
+# Serial: UCED-90007
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Allow Full Screen Rotation
+Author = libretro-database contributors / original PSP cheat authors
+20074580 10000003
+200745A4 10000003
+
+// Jump Mod: Bigger Jumps
+Author = libretro-database contributors / original PSP cheat authors
+208FFDE4 40480000
+
+// Jump Mod: Insane Jumps
+Author = libretro-database contributors / original PSP cheat authors
+208FFDE4 40C00000
+
+// Jump Mod: Massive Jumps
+Author = libretro-database contributors / original PSP cheat authors
+208FFDE4 40800000
+
+// Jump Mod: Normal Jumps
+Author = libretro-database contributors / original PSP cheat authors
+208FFDE4 402E9446
+
+// Jump Mod: Smaller Jumps
+Author = libretro-database contributors / original PSP cheat authors
+208FFDE4 3FCE9446
+
+// Reset Timer
+Author = libretro-database contributors / original PSP cheat authors
+208FFD18 00000000
+00000300 00000000
+D2000000 00000000
+
+// Reset Timer v2
+Author = libretro-database contributors / original PSP cheat authors
+208FFD18 00000000
+00020000 00000300
+
+// Reset Timer v3
+Author = libretro-database contributors / original PSP cheat authors
+208FFD18 00000000
+00020001 00000300

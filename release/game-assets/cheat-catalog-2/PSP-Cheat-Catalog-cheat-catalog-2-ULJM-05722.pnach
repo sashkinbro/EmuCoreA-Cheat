@@ -1,0 +1,99 @@
+# PSP cheat pack
+# Serial: ULJM-05722
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Items 9
+Author = libretro-database contributors / original PSP cheat authors
+80377A20 00040004
+00000009 00000000
+
+// Big Three
+Author = libretro-database contributors / original PSP cheat authors
+80387E58 00030002
+10000304 00000000
+80387E64 00030002
+10000305 00000000
+80387E70 00030002
+10000306 00000000
+80387E7C 00030002
+10000000 00000001
+80387E88 00020002
+10000301 00000000
+
+// Choice By R 9
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000200
+0038AF4C 00000009
+
+// Da Sixi
+Author = libretro-database contributors / original PSP cheat authors
+80387E58 00030002
+10000300 00000000
+80387E64 00030002
+10000301 00000000
+80387E70 00030002
+10000302 00000000
+80387E7C 00030002
+10000303 00000000
+80387E88 00020002
+10000304 00000000
+
+// Four Dark passenger
+Author = libretro-database contributors / original PSP cheat authors
+80387E58 00030002
+10000000 00000000
+80387E64 00030002
+10000100 00000000
+80387E70 00030002
+10000200 00000000
+80387E7C 00030002
+10000300 00000000
+80387E88 00020003
+10000201 00000000
+
+// G 99
+Author = libretro-database contributors / original PSP cheat authors
+00377A30 00000063
+
+// Ikasama x9
+Author = libretro-database contributors / original PSP cheat authors
+00377A20 00000009
+00377A24 00000009
+00377A28 00000009
+00377A2C 00000009
+
+// Jiu Lian Bao Light
+Author = libretro-database contributors / original PSP cheat authors
+80387E58 00090002
+10000000 00000001
+80387E7C 00030002
+10000008 00000000
+80387E88 00020002
+10000000 00000000
+
+// Kunio Warriors
+Author = libretro-database contributors / original PSP cheat authors
+80387E58 00030004
+10000000 00000100
+80387E5C 00030004
+10000008 00000100
+80387E70 00060002
+10000300 00000001
+10387E88 00000306
+10387E8C 00000306
+
+// Panel
+Author = libretro-database contributors / original PSP cheat authors
+0038AF4C 00000007
+
+// Panel Match x9
+Author = libretro-database contributors / original PSP cheat authors
+0038AF4C 0000000A
+
+// Player Point 6,000,000
+Author = libretro-database contributors / original PSP cheat authors
+10388050 0000EA60
+
+// Point 99G
+Author = libretro-database contributors / original PSP cheat authors
+00377A30 00000063

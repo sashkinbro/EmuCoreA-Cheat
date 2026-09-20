@@ -1,0 +1,140 @@
+# PSP cheat pack
+# Serial: ULES-00479
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Insufficient Free Space Fix
+Author = libretro-database contributors / original PSP cheat authors
+E0060030 0000D358
+2000D358 34040200
+2000D35C 34050040
+2000D360 34067999
+20050CE8 34040200
+20050CEC 34050040
+20050D00 34047999
+
+// Insufficient Free Space No-Fix [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0060200 0000D358
+2000D358 8FA40030
+2000D35C 8FA50034
+2000D360 8FA60028
+20050CE8 8FA40030
+20050CEC 8FA50034
+20050D00 8FA40028
+
+// Enable FPS Counter
+Author = libretro-database contributors / original PSP cheat authors
+202619A0 00000001
+
+// Gold
+Author = libretro-database contributors / original PSP cheat authors
+2037380C 05F5E0FF
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2024F5CE 00000001
+
+// Lego Size Mod: Gigantic
+Author = libretro-database contributors / original PSP cheat authors
+200FB9AC 3C044040
+
+// Lego Size Mod: Larger
+Author = libretro-database contributors / original PSP cheat authors
+200FB9AC 3C044000
+
+// Lego Size Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+200FB9AC 3C043F80
+
+// Lego Size Mod: Small
+Author = libretro-database contributors / original PSP cheat authors
+200FB9AC 3C043F40
+
+// Lego Size Mod: Tiny
+Author = libretro-database contributors / original PSP cheat authors
+200FB9AC 3C043F00
+
+// Max Studs
+Author = libretro-database contributors / original PSP cheat authors
+2037380C 3B9AC9FF
+202C401C 3B9AC9FF
+
+// Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+202F0968 FFBF0040
+2024E45C 00000000
+0000007C 3F400000
+D2000000 00000000
+
+// Moonjump v2
+Author = libretro-database contributors / original PSP cheat authors
+202F0968 FFBF0040
+2024E45C 3F400000
+00020000 0000007C
+
+// Moonjump v3
+Author = libretro-database contributors / original PSP cheat authors
+202F0968 FFBF0040
+2024E45C 3F400000
+00020001 0000007C
+
+// Quicker Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+202F0968 FFBF0040
+2024E45C 00000000
+0000007C 3F800000
+D2000000 00000000
+
+// Quicker Moonjump v2
+Author = libretro-database contributors / original PSP cheat authors
+202F0968 FFBF0040
+2024E45C 3F800000
+00020000 0000007C
+
+// Quicker Moonjump v3
+Author = libretro-database contributors / original PSP cheat authors
+202F0968 FFBF0040
+2024E45C 3F800000
+00020001 0000007C
+
+// Speed Mod: Fast
+Author = libretro-database contributors / original PSP cheat authors
+20260C68 3FA00000
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20260C68 40000000
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20260C68 3F800000
+
+// Speed Mod: Slow
+Author = libretro-database contributors / original PSP cheat authors
+20260C68 3E800000
+
+// Speed Mod: Super Slow
+Author = libretro-database contributors / original PSP cheat authors
+20260C68 3F000000
+
+// Take Studs Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+201D6270 0A275915
+
+// Unlock All Extras
+Author = libretro-database contributors / original PSP cheat authors
+203737A0 FFFFFFFF
+
+// Unlock All Hints
+Author = libretro-database contributors / original PSP cheat authors
+20373790 FFFFFFFF
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000017
+203735E0 01010101
+203735E4 01010A01
+203735E8 44160000
+DC000000 0000000C
+D2000000 00000000
+20373812 00000063

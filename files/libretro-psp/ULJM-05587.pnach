@@ -1,0 +1,37 @@
+# PSP cheat pack
+# Serial: ULJM-05587
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Gallery Open
+Author = libretro-database contributors / original PSP cheat authors
+81349B90 00900004
+00000001 00000000
+81349F90 00900004
+
+// Lag Max HP999
+Author = libretro-database contributors / original PSP cheat authors
+1018323C 000003E7
+
+// Lag Min HP999
+Author = libretro-database contributors / original PSP cheat authors
+1018321C 000003E7
+
+// Main Time Inf.
+Author = libretro-database contributors / original PSP cheat authors
+2018301C 00000000
+
+// Niche Max HP999
+Author = libretro-database contributors / original PSP cheat authors
+1018385C 000003E7
+
+// Niche Min HP999
+Author = libretro-database contributors / original PSP cheat authors
+1018383C 000003E7
+
+// Soul-Bullet Max 20
+Author = libretro-database contributors / original PSP cheat authors
+1018327C 00000014
+
+// Soul-Bullet Min 20
+Author = libretro-database contributors / original PSP cheat authors
+1018325C 00000014

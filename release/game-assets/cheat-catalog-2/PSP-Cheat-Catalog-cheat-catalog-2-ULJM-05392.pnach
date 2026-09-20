@@ -1,0 +1,146 @@
+# PSP cheat pack
+# Serial: ULJM-05392
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Item
+Author = libretro-database contributors / original PSP cheat authors
+40F89B50 00090001
+00630000 00000001
+40F89B74 00070001
+00630010 00000001
+40F89B90 00100001
+00630018 00000001
+40F89BD0 00050001
+00630029 00000001
+20F89BE4 00630030
+20F89BE8 00630031
+40F89BEC 00080001
+00630090 00000001
+40F89C0C 000E0001
+0063009C 00000001
+40F89C44 000B0001
+006300AF 00000001
+40F89C70 000A0001
+006300BF 00000001
+40F89C98 000C0001
+006300CE 00000001
+40F89CC8 001F0001
+006300DD 00000001
+40F89D44 00060001
+006300FD 00000001
+40F89D5C 00040001
+00630104 00000001
+20F89D6C 0063010C
+20F89D70 0063010D
+40F89D74 001D0001
+00630110 00000001
+40F89DE8 00200001
+00630130 00000001
+20F89E68 0063015F
+40F89E6C 000D0001
+00630163 00000001
+40F89EA0 00120001
+00630190 00000001
+40F89EE8 000C0001
+006301A4 00000001
+40F89F18 002C0001
+006301B1 00000001
+
+// Always Full Life
+Author = libretro-database contributors / original PSP cheat authors
+20035D24 ACC40000
+2003567C 00000000
+
+// Attack Max
+Author = libretro-database contributors / original PSP cheat authors
+20471738 0000270F
+
+// Buy Even Without Money
+Author = libretro-database contributors / original PSP cheat authors
+200F411C 10000031
+200D7914 1000FFAD
+
+// Character Book Open
+Author = libretro-database contributors / original PSP cheat authors
+80696A89 00230001
+000000FF 00000000
+
+// Defense Max
+Author = libretro-database contributors / original PSP cheat authors
+20471730 0000270F
+
+// Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+C00D6F28 00000000
+
+// Exp. Max v2
+Author = libretro-database contributors / original PSP cheat authors
+20471754 000FFFFF
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+5047172C 00000002
+00471728 00000000
+
+// HP Not Dec. v2
+Author = libretro-database contributors / original PSP cheat authors
+2047172C 000003E7
+0047172C 000003E7
+
+// Infinite Money In Storage
+Author = libretro-database contributors / original PSP cheat authors
+20471750 3B9AC9FF
+
+// Infinite Money On Hand
+Author = libretro-database contributors / original PSP cheat authors
+20471744 3B9AC9FF
+
+// Item Book Open
+Author = libretro-database contributors / original PSP cheat authors
+40696BC8 000F0001
+FFFFFFFF 00000000
+
+// Item Box All 99
+Author = libretro-database contributors / original PSP cheat authors
+40F89B50 00320001
+00630000 00000001
+40F89C18 00E00001
+00630090 00000001
+40F89F98 004D0001
+00630190 00000001
+40F8A0CC 00090001
+006301F0 00000001
+
+// Luck Max
+Author = libretro-database contributors / original PSP cheat authors
+20471734 0000270F
+
+// Max Spirit
+Author = libretro-database contributors / original PSP cheat authors
+00696DED 00000063
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20471744 00989680
+
+// Money Max v2
+Author = libretro-database contributors / original PSP cheat authors
+20471744 0000270F
+
+// Monster Book Open
+Author = libretro-database contributors / original PSP cheat authors
+40696AC8 002C0001
+FFFFFFFF 00000000
+
+// Savings Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20471750 3B9ACA00
+
+// Take Money For Max Quantity
+Author = libretro-database contributors / original PSP cheat authors
+200D4F40 00000000
+
+// Willpower Max
+Author = libretro-database contributors / original PSP cheat authors
+2047173C 00000000
+20471750 3B9ACA00

@@ -1,0 +1,166 @@
+# PSP cheat pack
+# Serial: UCUS-98712
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AG Systems Inf. Loyalty
+Author = libretro-database contributors / original PSP cheat authors
+2041BB0C 7FFFFFFF
+
+// Flash
+Author = libretro-database contributors / original PSP cheat authors
+2004C6C0 3C054280
+
+// Freeze Lap Timer
+Author = libretro-database contributors / original PSP cheat authors
+20042AB8 00000000
+20042ACC 00000000
+
+// Hovercraft
+Author = libretro-database contributors / original PSP cheat authors
+200499EC 3C044080
+
+// Hovercraft Joker [Up=On/Down=Off]
+Author = libretro-database contributors / original PSP cheat authors
+2006180C 0A2001C0
+20000750 3C0808B0
+20000754 850859F4
+20000758 3C090885
+2000075C 340A0010
+20000760 340B0040
+20000764 3C0C3C04
+20000768 358D4080
+2000076C 3C0E3C04
+20000770 35CE4080
+20000774 150A0002
+20000778 00000000
+2000077C AD2B99EC
+20000780 150B0003
+20000784 00000000
+2000078C AD2E99EC
+20000790 03E00008
+
+// Idiot AI
+Author = libretro-database contributors / original PSP cheat authors
+200365D0 4480A000
+
+// Infinite Auto Pilot
+Author = libretro-database contributors / original PSP cheat authors
+20044B28 24050006
+20044B2C ACC501BC
+
+// Infinite Bomb
+Author = libretro-database contributors / original PSP cheat authors
+20044B28 24050009
+20044B2C ACC501BC
+
+// Infinite Cannon
+Author = libretro-database contributors / original PSP cheat authors
+20044B28 24050003
+20044B2C ACC501BC
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 002B0DF8
+00000088 42D0F525
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+602B0DF8 42D0F525
+00020001 00000088
+
+// Infinite Health Subroutine
+Author = libretro-database contributors / original PSP cheat authors
+2006180C 0A2001C0
+20000700 3C0808AB
+20000704 8D080DF8
+20000708 19000002
+2000070C 3C0942D0
+20000710 3529F525
+20000714 AD090088
+20000718 03E00008
+
+// Infinite Plasma
+Author = libretro-database contributors / original PSP cheat authors
+20044B28 24050007
+20044B2C ACC501BC
+
+// Infinite Repulsor
+Author = libretro-database contributors / original PSP cheat authors
+20044B28 2405000B
+20044B2C ACC501BC
+
+// Infinite Rockets
+Author = libretro-database contributors / original PSP cheat authors
+20044B28 24050001
+20044B2C ACC501BC
+
+// Infinite Shield
+Author = libretro-database contributors / original PSP cheat authors
+20044B28 24050005
+20044B2C ACC501BC
+
+// Infinite Shields v2
+Author = libretro-database contributors / original PSP cheat authors
+2003C060 3C014308
+2003C068 AE010084
+
+// Infinite Shuriken
+Author = libretro-database contributors / original PSP cheat authors
+20044B28 2405000C
+20044B2C ACC501BC
+
+// Infinite Turbo
+Author = libretro-database contributors / original PSP cheat authors
+20044B28 24050004
+20044B2C ACC501BC
+
+// No HUD
+Author = libretro-database contributors / original PSP cheat authors
+2008C304 3C043E80
+
+// Piranha Inf. Loyalty
+Author = libretro-database contributors / original PSP cheat authors
+2041BD0C 7FFFFFFF
+
+// See Through Walls
+Author = libretro-database contributors / original PSP cheat authors
+201025DC 00004380
+
+// Speed Modifier: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20004A40 00000000
+20004A48 3C043D28
+
+// Speed Modifier: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20004A40 00000000
+20004A48 3C043D48
+
+// Speed Modifier: Insane
+Author = libretro-database contributors / original PSP cheat authors
+20004A40 00000000
+20004A48 3C043D68
+
+// Speed Modifier: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20004A40 10800004
+20004A48 3C043D08
+
+// Speed Modifier: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20004A40 00000000
+20004A48 3C043D18
+
+// Speed Modifier: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20004A40 00000000
+20004A48 3C043CC8
+
+// Speed Modifier: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20004A40 00000000
+20004A48 3C043C88
+
+// Triakis Inf. Loyalty
+Author = libretro-database contributors / original PSP cheat authors
+2041BC8C 7FFFFFFF

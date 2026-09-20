@@ -1,0 +1,184 @@
+# PSP cheat pack
+# Serial: UCJS-10075
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Hole Dasuu1 TUGI+60h
+Author = libretro-database contributors / original PSP cheat authors
+00362808 00000001
+
+// All Accessoary
+Author = libretro-database contributors / original PSP cheat authors
+8038B0DE 009A0001
+00000005 00000000
+
+// All Ball Item
+Author = libretro-database contributors / original PSP cheat authors
+8038B4DE 00810001
+00000005 00000000
+
+// All Body Item
+Author = libretro-database contributors / original PSP cheat authors
+8038AEDE 009A0001
+00000005 00000000
+
+// All Cady
+Author = libretro-database contributors / original PSP cheat authors
+8038B864 00050004
+00000005 00000000
+
+// All Character
+Author = libretro-database contributors / original PSP cheat authors
+8038ACB4 00160001
+00000005 00000000
+
+// All Club
+Author = libretro-database contributors / original PSP cheat authors
+8038B2DE 003A0001
+00000005 00000000
+
+// All Cource Get
+Author = libretro-database contributors / original PSP cheat authors
+4038B828 000C0001
+00000005 00000000
+8038B858 000C0001
+00000001 00000000
+
+// All Head Item
+Author = libretro-database contributors / original PSP cheat authors
+8038ACDE 00810001
+00000005 00000000
+
+// All Hole dasuu 1
+Author = libretro-database contributors / original PSP cheat authors
+80362808 00120060
+00000001 00000000
+
+// Challenge BlackRank
+Author = libretro-database contributors / original PSP cheat authors
+0038AC68 00000008
+
+// Dani Mr.Mingol
+Author = libretro-database contributors / original PSP cheat authors
+0038AC60 0000000E
+
+// Eazy Mode
+Author = libretro-database contributors / original PSP cheat authors
+0038B80C 00000005
+
+// Hadaka
+Author = libretro-database contributors / original PSP cheat authors
+8038B890 00150078
+0000009B 00000000
+
+// Item Control Lv.10
+Author = libretro-database contributors / original PSP cheat authors
+1038B804 000003E8
+
+// Item Power Lv.10
+Author = libretro-database contributors / original PSP cheat authors
+1038B806 000003E8
+
+// Item Spin Lv.10
+Author = libretro-database contributors / original PSP cheat authors
+1038B808 000003E8
+
+// Love Max
+Author = libretro-database contributors / original PSP cheat authors
+8038B6DE 00160001
+00000028 00000000
+
+// Max Power Mode
+Author = libretro-database contributors / original PSP cheat authors
+20362770 00000013
+
+// Mini Game All Cup
+Author = libretro-database contributors / original PSP cheat authors
+8039A848 00090004
+00000005 00000000
+
+// Point 9999
+Author = libretro-database contributors / original PSP cheat authors
+10362704 0000270F
+
+// Power 19
+Author = libretro-database contributors / original PSP cheat authors
+00362770 00000013
+
+// Wind 1 (127m)
+Author = libretro-database contributors / original PSP cheat authors
+D08C8CB8 00006433
+808C8C2D 00120001
+0000007F 00000000
+D099C6C8 00006433
+8099C63C 00120001
+D08455D8 00006433
+8084554D 00120001
+D0844DC8 00006433
+80844D3D 00120001
+D09CC228 00006433
+809CC19D 00120001
+D08C8918 00006433
+808C888D 00120001
+D07F11D8 00006433
+807F114D 00120001
+D08C8D68 00006433
+808C8CFD 00120001
+D0845388 00006433
+8084530D 00120001
+D0823088 00006433
+80822FFD 00120001
+
+// Wind 2
+Author = libretro-database contributors / original PSP cheat authors
+D08C8D68 00006433
+808C8CDD 00120001
+0000007F 00000000
+D08C8CE8 00006433
+808C8C5D 00120001
+D0A87D08 00006433
+80A87C7D 00120001
+D0DA9678 00006433
+80DA95ED 00120001
+D0845388 00006433
+808452FD 00120001
+D0844B08 00006433
+80844A7D 00120001
+D08C8DB8 00006433
+808C8D2D 00120001
+D0A50998 00006433
+80A50909 00120001
+D0845238 00006433
+808451AD 00120001
+D08452A8 00006433
+8084521D 00120001
+
+// Wind 3
+Author = libretro-database contributors / original PSP cheat authors
+D08C8C68 00006433
+808C8BDD 00120001
+0000007F 00000000
+D0844B78 00006433
+80844AED 00120001
+D0823078 00006433
+80822FED 00120001
+D08C8D38 00006433
+808C8CAD 00120001
+D08C9568 00006433
+808C94DD 00120001
+D08C8B98 00006433
+808C8B0D 00120001
+D0848B58 00006433
+80848ACD 00120001
+D0848CE8 00006433
+80848C5D 00120001
+D08334D8 00006433
+8083344D 00120001
+
+// Wind Control [R+Up/Down]
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10000210
+603641A4 00000000
+00000012 0000035D
+90000001 00000000
+D0000002 10000240
+603641A4 0000007F

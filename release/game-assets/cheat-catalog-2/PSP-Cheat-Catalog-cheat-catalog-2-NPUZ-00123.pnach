@@ -1,0 +1,25 @@
+# PSP cheat pack
+# Serial: NPUZ-00123
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Disable Goal Keeper
+Author = libretro-database contributors / original PSP cheat authors
+20002030 24058000
+20002034 AE25000C
+20002038 0A212633
+2000203C 4485E000
+200498C4 0A20080C
+
+// Infinite Balls
+Author = libretro-database contributors / original PSP cheat authors
+20002000 24040063
+20002004 AE040008
+20002008 0A211D18
+2000200C 8C4503C8
+20047458 0A200800
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+2000E8F8 00C77821
+2000E8FC 24060001
+2000E900 A1E60010

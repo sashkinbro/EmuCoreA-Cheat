@@ -1,0 +1,142 @@
+# PSP cheat pack
+# Serial: NPUZ-00231
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (M) Must Code
+Author = libretro-database contributors / original PSP cheat authors
+20002030 0A20AE96
+20002034 C60C0CF0
+2002BA50 0A200800
+
+// AI Idiot
+Author = libretro-database contributors / original PSP cheat authors
+20002008 AE000D94
+20002014 AE000D9C
+2000201C AE000D98
+20002020 AE000DA0
+20002024 AE000DA4
+
+// AI Normal
+Author = libretro-database contributors / original PSP cheat authors
+2000200C 3C06FF33
+20002008 AE060D94
+20002010 3C063F80
+20002014 AE060D9C
+20002018 3C063FC0
+2000201C AE060D98
+20002020 AE060DA0
+20002024 AE060DA4
+
+// All Levels Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+20002060 240F001F
+20002064 AC8F0014
+20002068 0A207CFA
+2000206C 25E40000
+2001F3E0 0A200818
+
+// Attacks CoolDown Instantly
+Author = libretro-database contributors / original PSP cheat authors
+20002000 AE000D10
+20002004 AE000D2C
+20002008 AE000D30
+
+// Monster Type: Full Monster Meter
+Author = libretro-database contributors / original PSP cheat authors
+20002040 24060113
+20002044 0A20ADAC
+20002048 AE06118C
+2002B6A8 0A200810
+
+// Monster Type: Level 1 Monster
+Author = libretro-database contributors / original PSP cheat authors
+20002040 24060000
+20002044 0A20ADAC
+20002048 AE06118C
+2002B6A8 0A200810
+
+// Monster Type: Level 2 Monster
+Author = libretro-database contributors / original PSP cheat authors
+20002040 2406001C
+20002044 0A20ADAC
+20002048 AE06118C
+2002B6A8 0A200810
+
+// Monster Type: Level 3 Monster
+Author = libretro-database contributors / original PSP cheat authors
+20002040 2406003C
+20002044 0A20ADAC
+20002048 AE06118C
+2002B6A8 0A200810
+
+// Monster Type: Level 4 Monster
+Author = libretro-database contributors / original PSP cheat authors
+20002040 24060064
+20002044 0A20ADAC
+20002048 AE06118C
+2002B6A8 0A200810
+
+// Monster Type: Level 5 Monster
+Author = libretro-database contributors / original PSP cheat authors
+20002040 240600C8
+20002044 0A20ADAC
+20002048 AE06118C
+2002B6A8 0A200810
+
+// Player Speed Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+20002028 3C064080
+2000202C AE060D90
+
+// Player Speed Mod: Faster
+Author = libretro-database contributors / original PSP cheat authors
+20002028 3C064020
+2000202C AE060D90
+
+// Player Speed Mod: Much Faster
+Author = libretro-database contributors / original PSP cheat authors
+20002028 3C064040
+2000202C AE060D90
+
+// Player Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20002028 3C063FD9
+2000202C AE060D90
+
+// Player Speed Mod: Slow
+Author = libretro-database contributors / original PSP cheat authors
+20002028 3C063FA0
+2000202C AE060D90
+
+// Player Speed Mod: Super Slow
+Author = libretro-database contributors / original PSP cheat authors
+20002028 3C063F40
+2000202C AE060D90
+
+// Score Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+2001C7FC 00053840
+
+// Score Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+2001C7FC 00053880
+
+// Score Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+2001C7FC 000538C0
+
+// Score Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+2001C7FC 00053900
+
+// Timer Normal
+Author = libretro-database contributors / original PSP cheat authors
+2001B2AC 460C7381
+
+// Timer Slow
+Author = libretro-database contributors / original PSP cheat authors
+20002050 3C0F3B00
+20002054 448F6000
+20002058 0A206CAD
+2000205C 460C7381
+2001B2AC 0A200814

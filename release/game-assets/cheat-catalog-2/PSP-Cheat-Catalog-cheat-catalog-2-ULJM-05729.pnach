@@ -1,0 +1,34 @@
+# PSP cheat pack
+# Serial: ULJM-05729
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Gallary Open
+Author = libretro-database contributors / original PSP cheat authors
+802217C8 00B90001
+00000001 00000000
+
+// Scene & Omake & Okawari Open
+Author = libretro-database contributors / original PSP cheat authors
+80C44DDA 001E0001
+00000001 00000000
+00C44DFF 00000001
+
+// Special Open
+Author = libretro-database contributors / original PSP cheat authors
+00C44DF8 00000001
+00C44DFC 00000001
+00C44DFE 00000001
+00C44DFF 00000001
+00C44E00 00000001
+00C44E02 00000001
+00C44E03 00000001
+00C44E06 00000001
+00C44E08 00000001
+00C44E0A 00000001
+00C44E0C 00000001
+00C44E0D 00000001
+00C44E0E 00000001
+00C44E13 00000001
+00C44E22 00000001
+00C44E23 00000001
+00C44E24 00000001

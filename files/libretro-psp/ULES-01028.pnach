@@ -1,0 +1,39 @@
+# PSP cheat pack
+# Serial: ULES-01028
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Badges
+Author = libretro-database contributors / original PSP cheat authors
+20427144 FFFFFFFF
+
+// Always Fire Ball
+Author = libretro-database contributors / original PSP cheat authors
+20431D60 0000000E
+
+// Always Lightning Ball
+Author = libretro-database contributors / original PSP cheat authors
+20431D60 0000000F
+
+// Always Needle Shot
+Author = libretro-database contributors / original PSP cheat authors
+20431D60 00000013
+
+// Always Wild Ball
+Author = libretro-database contributors / original PSP cheat authors
+20431D60 00000010
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20431114 00000063
+
+// Max Completion Meter
+Author = libretro-database contributors / original PSP cheat authors
+204310D4 3F800000
+
+// No Incorrect Color Matches
+Author = libretro-database contributors / original PSP cheat authors
+204310E8 00000000
+
+// No Misses
+Author = libretro-database contributors / original PSP cheat authors
+204310EC 00000000

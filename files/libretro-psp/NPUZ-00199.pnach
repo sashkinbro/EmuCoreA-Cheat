@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: NPUZ-00199
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Laser Usage
+Author = libretro-database contributors / original PSP cheat authors
+20002010 3C0742C6
+20002014 AE07026C
+20002018 0A24092D
+2000201C 8E070220
+201024AC 0A200804
+
+// Infinite Shields
+Author = libretro-database contributors / original PSP cheat authors
+20002000 3C0E0404
+20002004 ACAE0070
+20002008 0A2CFD41
+2000200C 8CA50000
+2033F4FC 0A200800

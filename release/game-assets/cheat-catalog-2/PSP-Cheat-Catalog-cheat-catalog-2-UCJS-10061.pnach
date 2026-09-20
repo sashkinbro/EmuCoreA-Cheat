@@ -1,0 +1,49 @@
+# PSP cheat pack
+# Serial: UCJS-10061
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 6 Min
+Author = libretro-database contributors / original PSP cheat authors
+205E9FD4 43B40000
+
+// Bougyoryoku
+Author = libretro-database contributors / original PSP cheat authors
+017EE3F8 000000FF
+
+// EncountOff
+Author = libretro-database contributors / original PSP cheat authors
+205E0CD4 00000000
+D053403C 00000300
+205E0CD4 50000000
+
+// Exp. Ippai
+Author = libretro-database contributors / original PSP cheat authors
+217E15FC 3B9AC9FF
+
+// Kizuna
+Author = libretro-database contributors / original PSP cheat authors
+217E43F0 42C80000
+
+// Kougekiryoku
+Author = libretro-database contributors / original PSP cheat authors
+117EE3F4 0000270F
+
+// Lots Of Experience After Battle
+Author = libretro-database contributors / original PSP cheat authors
+217E15FC 3B9AC9FF
+
+// Mahoubougyo
+Author = libretro-database contributors / original PSP cheat authors
+017EE3FC 000000FF
+
+// Maryoku
+Author = libretro-database contributors / original PSP cheat authors
+017EE3FA 000000FF
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+217EE3EC 05F5E0FF
+
+// Okane Max
+Author = libretro-database contributors / original PSP cheat authors
+217EE3EC 7FFFFFFF

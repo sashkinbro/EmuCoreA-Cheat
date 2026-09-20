@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: ULJM-05132
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// ML 999999
+Author = libretro-database contributors / original PSP cheat authors
+20479C40 000F423F
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+21075B7C 00015F90

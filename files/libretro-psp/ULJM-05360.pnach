@@ -1,0 +1,47 @@
+# PSP cheat pack
+# Serial: ULJM-05360
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (M) Must Codes
+Author = libretro-database contributors / original PSP cheat authors
+20002000 8C8202B8
+2000204C 03E00008
+20002050 C4400000
+200B4254 0E200800
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+20545400 70420000
+
+// HP Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20002004 E4540000
+
+// Max Boost
+Author = libretro-database contributors / original PSP cheat authors
+20002018 3C0142C8
+2000201C AC410038
+
+// Max Tiger Point
+Author = libretro-database contributors / original PSP cheat authors
+2006CBD4 00000000
+
+// MP
+Author = libretro-database contributors / original PSP cheat authors
+20545434 70420000
+
+// MP Never Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20002010 3C0142C8
+20002014 AC410034
+
+// Omake All
+Author = libretro-database contributors / original PSP cheat authors
+20111868 2401FFFF
+2011186C A0410000
+20111874 24020001
+2035AFC0 00000001
+
+// Tora Reiju 3
+Author = libretro-database contributors / original PSP cheat authors
+2054551C 00000003

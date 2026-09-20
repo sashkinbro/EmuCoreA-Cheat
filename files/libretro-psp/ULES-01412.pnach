@@ -1,0 +1,226 @@
+# PSP cheat pack
+# Serial: ULES-01412
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Away Team AI Normal
+Author = libretro-database contributors / original PSP cheat authors
+204AC5CC 0E35C107
+
+// Away Team AI Slo-Mo
+Author = libretro-database contributors / original PSP cheat authors
+204AC5CC 00000000
+
+// Away Team Scores 0
+Author = libretro-database contributors / original PSP cheat authors
+207320D4 00000000
+
+// Away Team Scores 99
+Author = libretro-database contributors / original PSP cheat authors
+207320D4 00000063
+
+// Camera: #All Camera Codes [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2006E820 10A00007
+2006E824 34110007
+2006E8E0 24040001
+
+// Camera: Action
+Author = libretro-database contributors / original PSP cheat authors
+2006E820 10000007
+2006E824 24110005
+2006E8E0 24040000
+
+// Camera: Bird's Eye View
+Author = libretro-database contributors / original PSP cheat authors
+2006E820 10000007
+2006E824 2411000C
+2006E8E0 24040000
+
+// Camera: Broadcast
+Author = libretro-database contributors / original PSP cheat authors
+2006E820 10000007
+2006E824 24110001
+2006E8E0 24040000
+
+// Camera: End To End
+Author = libretro-database contributors / original PSP cheat authors
+2006E820 10000007
+2006E824 24110002
+2006E8E0 24040000
+
+// Camera: Far Away
+Author = libretro-database contributors / original PSP cheat authors
+2006E820 10000007
+2006E824 24110003
+2006E8E0 24040000
+
+// Camera: From Above
+Author = libretro-database contributors / original PSP cheat authors
+2006E820 10000007
+2006E824 2411000B
+2006E8E0 24040000
+
+// Camera: Replay
+Author = libretro-database contributors / original PSP cheat authors
+2006E820 10000007
+2006E824 2411000F
+2006E8E0 24040000
+
+// Camera: Sideline
+Author = libretro-database contributors / original PSP cheat authors
+2006E820 10000007
+2006E824 24110007
+2006E8E0 24040000
+
+// Camera: Sideline 2
+Author = libretro-database contributors / original PSP cheat authors
+2006E820 10000007
+2006E824 2411000A
+2006E8E0 24040000
+
+// Camera: Tele
+Author = libretro-database contributors / original PSP cheat authors
+2006E820 10000007
+2006E824 24110008
+2006E8E0 24040000
+
+// Clock: Fast
+Author = libretro-database contributors / original PSP cheat authors
+204E4AB0 00000000
+
+// Clock: Frozen
+Author = libretro-database contributors / original PSP cheat authors
+204E4A54 24100000
+
+// Clock: Normal
+Author = libretro-database contributors / original PSP cheat authors
+204E4AB0 14530005
+204E4A54 00808025
+
+// Earn The XP x4
+Author = libretro-database contributors / original PSP cheat authors
+200D6918 24100004
+200D692C 24100004
+
+// Earn The XP x8
+Author = libretro-database contributors / original PSP cheat authors
+200D6918 24100008
+200D692C 24100008
+
+// Earn The XP x16
+Author = libretro-database contributors / original PSP cheat authors
+200D6918 24100010
+200D692C 24100010
+
+// Earn The XP x32
+Author = libretro-database contributors / original PSP cheat authors
+200D6918 24100020
+200D692C 24100020
+
+// Earn The XP x64
+Author = libretro-database contributors / original PSP cheat authors
+200D6918 24100040
+200D692C 24100040
+
+// Earn The XP x100
+Author = libretro-database contributors / original PSP cheat authors
+200D6918 24100064
+200D692C 24100064
+
+// Earn The XP x200
+Author = libretro-database contributors / original PSP cheat authors
+200D6918 241000C8
+200D692C 241000C8
+
+// Earn Twice As Much XP
+Author = libretro-database contributors / original PSP cheat authors
+200D6918 24100002
+200D692C 24100002
+
+// Fouls Off
+Author = libretro-database contributors / original PSP cheat authors
+204E5598 03E00008
+204E559C 00000000
+
+// Fouls On
+Author = libretro-database contributors / original PSP cheat authors
+204E5598 27BDFF80
+204E559C 3C063EAA
+
+// Gravity: Even Lower
+Author = libretro-database contributors / original PSP cheat authors
+206CC75C BD75C28F
+
+// Gravity: High
+Author = libretro-database contributors / original PSP cheat authors
+206CC75C BF75C28F
+
+// Gravity: Low
+Author = libretro-database contributors / original PSP cheat authors
+206CC75C BE05C28F
+
+// Gravity: Normal
+Author = libretro-database contributors / original PSP cheat authors
+206CC75C BE75C28F
+
+// Home Team AI Normal
+Author = libretro-database contributors / original PSP cheat authors
+204AC5C4 0E35C107
+
+// Home Team AI Slo-Mo Idiot
+Author = libretro-database contributors / original PSP cheat authors
+204AC5C4 00000000
+
+// Home Team Scores 0
+Author = libretro-database contributors / original PSP cheat authors
+20726D54 00000000
+
+// Home Team Scores 99
+Author = libretro-database contributors / original PSP cheat authors
+20726D54 00000063
+
+// Invisible Walls (Indoor Soccer)
+Author = libretro-database contributors / original PSP cheat authors
+20781A40 00000001
+
+// Invisible Walls (Indoor Soccer) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20781A40 00000000
+
+// Items Cost 0
+Author = libretro-database contributors / original PSP cheat authors
+200802A0 24060000
+
+// Play With Light Ball (Requires Match Reload)
+Author = libretro-database contributors / original PSP cheat authors
+204A9B6C 00000000
+
+// Play With Normal Ball (Requires Match Reload)
+Author = libretro-database contributors / original PSP cheat authors
+204A9B6C 10400011
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20788B58 00000060
+
+// Speed Mod: Much Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20788B58 00000048
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20788B58 00000030
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20788B58 0000003C
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20788B58 00000020
+
+// Unlock Everything In Shop
+Author = libretro-database contributors / original PSP cheat authors
+B7800000 000000D6
+206DF138 00000001
+D3800000 00000008

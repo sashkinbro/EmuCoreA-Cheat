@@ -1,0 +1,17 @@
+# PSP cheat pack
+# Serial: UCJS-10030
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Unlock All Costumes
+Author = libretro-database contributors / original PSP cheat authors
+80316924 00200001
+00000009 00000000
+
+// Unlock All Stages
+Author = libretro-database contributors / original PSP cheat authors
+1031690E 0000001F
+20316910 001F001F
+20316914 001F001F
+20316918 03FF03FF
+2031691C 03FF03FF
+10316920 000003FF

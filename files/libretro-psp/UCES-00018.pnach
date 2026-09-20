@@ -1,0 +1,43 @@
+# PSP cheat pack
+# Serial: UCES-00018
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Cheats Active
+Author = libretro-database contributors / original PSP cheat authors
+21600556 000000F2
+
+// Disable All Cheats
+Author = libretro-database contributors / original PSP cheat authors
+21600556 00000002
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+21600556 00000012
+
+// Infinite Health & Mega Guns
+Author = libretro-database contributors / original PSP cheat authors
+21600556 00000092
+
+// Infinite Health & Weapons
+Author = libretro-database contributors / original PSP cheat authors
+21600556 00000052
+
+// Infinite Weapons
+Author = libretro-database contributors / original PSP cheat authors
+21600556 00000042
+
+// Killer Weapons
+Author = libretro-database contributors / original PSP cheat authors
+21600556 00000022
+
+// Mega Guns
+Author = libretro-database contributors / original PSP cheat authors
+21600556 00000082
+
+// Mega Guns, Killer Weapons, Infinite Weapons & Ammo
+Author = libretro-database contributors / original PSP cheat authors
+21600556 000000E2
+
+// Unlimited Homing Missle
+Author = libretro-database contributors / original PSP cheat authors
+015FF544 00000063

@@ -1,0 +1,192 @@
+# PSP cheat pack
+# Serial: UCES-00890
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+201FB528 1620FFFC
+201E387C 3C043F80
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+201FB528 00000000
+201E387C 3C043F00
+
+// Boom Headshot: Only Head Shot Kills
+Author = libretro-database contributors / original PSP cheat authors
+204D092C DFFF0000
+DB000000 004D092D
+D4000000 00000020
+D8000000 004D092D
+D2000000 00000000
+
+// Cool: First Person Guns Don't Overheat
+Author = libretro-database contributors / original PSP cheat authors
+204D092C FFF70000
+DB000000 004D092C
+D4000000 00000008
+D8000000 004D092C
+D2000000 00000000
+
+// Death Touch: 1 Ram Vehicle Destroy
+Author = libretro-database contributors / original PSP cheat authors
+204D092C FBFF0000
+DB000000 004D092D
+D4000000 00000004
+D8000000 004D092D
+D2000000 00000000
+
+// Disable In-Built Cheat Codes
+Author = libretro-database contributors / original PSP cheat authors
+204D092C 00000000
+204D092D 00000000
+204D092E 00000000
+
+// Easy Mode: No Traffic
+Author = libretro-database contributors / original PSP cheat authors
+204D092C FFFE0000
+DB000000 004D092C
+D4000000 00000001
+D8000000 004D092C
+D2000000 00000000
+
+// Grim Reaper: 1 Shot Kill
+Author = libretro-database contributors / original PSP cheat authors
+204D092C FDFF0000
+DB000000 004D092D
+D4000000 00000002
+D8000000 004D092D
+D2000000 00000000
+
+// Gun Never Overheats
+Author = libretro-database contributors / original PSP cheat authors
+201D6D94 E60C0118
+
+// I Feel Sick: Player Health Drains
+Author = libretro-database contributors / original PSP cheat authors
+204D092C BFFF0000
+DB000000 004D092D
+D4000000 00000040
+D8000000 004D092D
+D2000000 00000000
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+201D7D78 00000000
+
+// Infinite Car Health
+Author = libretro-database contributors / original PSP cheat authors
+2017B884 3C013F80
+2015713C ACA10050
+20157144 AE01002C
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2017B884 3C013F80
+201570F0 AE41018C
+201570F8 AE010028
+
+// Infinite Justice
+Author = libretro-database contributors / original PSP cheat authors
+2017527C E4980000
+
+// Infinite Purchase Stars
+Author = libretro-database contributors / original PSP cheat authors
+204D0838 00000063
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+2016DD4C 00000000
+2016DD60 00000000
+
+// Kangaroo: Increased Player Jump Range
+Author = libretro-database contributors / original PSP cheat authors
+204D092C FFEF0000
+DB000000 004D092C
+D4000000 00000010
+D8000000 004D092C
+D2000000 00000000
+
+// Law Lord: Infinite Justice
+Author = libretro-database contributors / original PSP cheat authors
+204D092C F7FF0000
+DB000000 004D092D
+D4000000 00000008
+D8000000 004D092D
+D2000000 00000000
+
+// Loaded: Player Has Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+204D092C FFBF0000
+DB000000 004D092C
+D4000000 00000040
+D8000000 004D092C
+D2000000 00000000
+
+// Nitro: Faster Player Vehicles
+Author = libretro-database contributors / original PSP cheat authors
+204D092C FEFF0000
+DB000000 004D092D
+D4000000 00000001
+D8000000 004D092D
+D2000000 00000000
+
+// On Steroids: Player Character Upgrades Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+204D092E FFFE0000
+DB000000 004D092E
+D4000000 00000001
+D8000000 004D092E
+D2000000 00000000
+
+// Pew Pew: Weapons Fire Laser Beams
+Author = libretro-database contributors / original PSP cheat authors
+204D092C FFFD0000
+DB000000 004D092C
+D4000000 00000002
+D8000000 004D092C
+D2000000 00000000
+
+// Purchases In Shop Cost 0
+Author = libretro-database contributors / original PSP cheat authors
+200ECA2C 24050000
+
+// Reflection: Mirror Mode
+Author = libretro-database contributors / original PSP cheat authors
+204D092E FFFD0000
+DB000000 004D092E
+D4000000 00000002
+D8000000 004D092E
+D2000000 00000000
+
+// Rock Hard: Invincible
+Author = libretro-database contributors / original PSP cheat authors
+204D092C 7FFF0000
+DB000000 004D092D
+D4000000 00000080
+D8000000 004D092D
+D2000000 00000000
+
+// Stay Focused: Hitting Any Vehicles Kills Player
+Author = libretro-database contributors / original PSP cheat authors
+204D092C FFFB0000
+DB000000 004D092C
+D4000000 00000004
+D8000000 004D092C
+D2000000 00000000
+
+// Stay On Target: Hitting Sections Of Environment Causes Mission Fail v2
+Author = libretro-database contributors / original PSP cheat authors
+204D092C FF7F0000
+DB000000 004D092C
+D4000000 00000080
+D8000000 004D092C
+D2000000 00000000
+
+// Weak: Player Can't Earn Justice v2
+Author = libretro-database contributors / original PSP cheat authors
+204D092C FFDF0000
+DB000000 004D092C
+D4000000 00000020
+D8000000 004D092C
+D2000000 00000000

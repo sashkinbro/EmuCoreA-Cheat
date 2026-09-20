@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: ULJM-05086
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Genso Suikoden: Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+208F9C9C 000F423F
+
+// Genso Suikoden 2: Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+2025EE88 000F423F
+
+// Jowy Quick Lv. Up
+Author = libretro-database contributors / original PSP cheat authors
+1025ED40 000003E7
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+208F9C9C 000F423F
+
+// S2 - Hero Lv. 99
+Author = libretro-database contributors / original PSP cheat authors
+0025E222 00000099

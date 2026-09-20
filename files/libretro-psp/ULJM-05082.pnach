@@ -1,0 +1,27 @@
+# PSP cheat pack
+# Serial: ULJM-05082
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Life
+Author = libretro-database contributors / original PSP cheat authors
+00AE3890 00000090
+
+// Life Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+10AE3890 00000090
+
+// Shin Vega
+Author = libretro-database contributors / original PSP cheat authors
+00AE39CE 00000001
+
+// SP Gerge
+Author = libretro-database contributors / original PSP cheat authors
+00AE398E 00000090
+
+// Super Combo Gauge Max
+Author = libretro-database contributors / original PSP cheat authors
+00AE398E 00000090
+
+// Time
+Author = libretro-database contributors / original PSP cheat authors
+00AE0BB1 00000063

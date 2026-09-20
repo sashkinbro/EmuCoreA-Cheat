@@ -1,0 +1,33 @@
+# PSP cheat pack
+# Serial: ULES-00903
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+2073A998 461C3C00
+
+// Infinite Money v2
+Author = libretro-database contributors / original PSP cheat authors
+2073A908 461C3C00
+
+// Infinite Worms To Upgrade Heads
+Author = libretro-database contributors / original PSP cheat authors
+2073A464 442EC000
+
+// Jump In Mid-Air
+Author = libretro-database contributors / original PSP cheat authors
+60CC7D0C 00000000
+00020001 00000194
+00020001 000001A4
+
+// Max And Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+60CC7D0C 469C4000
+00020001 000000B8
+00020001 000000BC
+
+// Max And Infinite Rage Power
+Author = libretro-database contributors / original PSP cheat authors
+60CC7D0C 40C00000
+00020001 000002AC
+00020001 000002BC

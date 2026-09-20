@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: UCJS-10080
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Cheuro 9999999
+Author = libretro-database contributors / original PSP cheat authors
+207F7BE4 0098967F
+
+// Gyo HP 0
+Author = libretro-database contributors / original PSP cheat authors
+21794638 00000000
+
+// Max Cheese
+Author = libretro-database contributors / original PSP cheat authors
+007FCF4F 0000001E
+
+// Max Cheese v2
+Author = libretro-database contributors / original PSP cheat authors
+207FCF4F 00000064
+
+// UFO HP Max
+Author = libretro-database contributors / original PSP cheat authors
+007FCF4E 00000010

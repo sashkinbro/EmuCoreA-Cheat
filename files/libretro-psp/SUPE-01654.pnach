@@ -1,0 +1,25 @@
+# PSP cheat pack
+# Serial: SUPE-01654
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Disable Fall Damage
+Author = libretro-database contributors / original PSP cheat authors
+201119C4 10000055
+
+// Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+2004569C 1000003A
+
+// Jump in Mid-Air
+Author = libretro-database contributors / original PSP cheat authors
+20001000 94820002
+20001004 30420002
+20001008 10400002
+2000100C 3C014228
+20001010 AC81004C
+20001014 0A222A45
+2008A8F4 0A200400
+
+// Skip Story Intro
+Author = libretro-database contributors / original PSP cheat authors
+201287A4 00000000

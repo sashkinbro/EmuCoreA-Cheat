@@ -1,0 +1,102 @@
+# PSP cheat pack
+# Serial: ULJM-05425
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Hit KnockDown
+Author = libretro-database contributors / original PSP cheat authors
+6041D558 00000000
+00010002 0000007C
+20000024 00000000
+
+// Black Shadow
+Author = libretro-database contributors / original PSP cheat authors
+00C0DBD0 00000000
+
+// Enemy Through
+Author = libretro-database contributors / original PSP cheat authors
+D0000002 10000310
+603D21D4 00000010
+00000002 00000A97
+20000054 00000000
+
+// Escape Inf.
+Author = libretro-database contributors / original PSP cheat authors
+00C0E7B4 00000005
+
+// Giant
+Author = libretro-database contributors / original PSP cheat authors
+20C0DCC0 3FA00000
+20C0DCD4 3FA00000
+20C0DCE8 3FA00000
+
+// Hold Up
+Author = libretro-database contributors / original PSP cheat authors
+20C0DCFC 40C00000
+
+// Hugger Sword
+Author = libretro-database contributors / original PSP cheat authors
+201C43D0 10000006
+
+// Infinite Escape
+Author = libretro-database contributors / original PSP cheat authors
+00C0E7B4 00000005
+
+// Item Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200D3370 00802023
+
+// Kawarimi
+Author = libretro-database contributors / original PSP cheat authors
+201C8B2C 00000000
+
+// Main Mission All Open
+Author = libretro-database contributors / original PSP cheat authors
+005BAF14 00000008
+
+// Manikin
+Author = libretro-database contributors / original PSP cheat authors
+20C0DCC0 3EFF0000
+20C0DCD4 3EFF0000
+20C0DCE8 3EFF0000
+
+// Risk Avert Ninjutsu Inf.
+Author = libretro-database contributors / original PSP cheat authors
+603D21D4 00000001
+00020002 00000D74
+20000054 00000000
+
+// Speed Up 1
+Author = libretro-database contributors / original PSP cheat authors
+20C0E2E4 40B00000
+
+// Speed Up 1 v2
+Author = libretro-database contributors / original PSP cheat authors
+80C0F8F4 0016000C
+0000000A 00000000
+
+// Speed Up 2
+Author = libretro-database contributors / original PSP cheat authors
+20C0E2E8 40700000
+
+// Speed Up 3
+Author = libretro-database contributors / original PSP cheat authors
+20C0E2EC 40900000
+
+// Sub Mission All Open
+Author = libretro-database contributors / original PSP cheat authors
+005BAA7E 00000032
+
+// Tenchu Gauge Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+6041D558 000042D0
+00010002 00000056
+20000024 00000000
+
+// Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+201A947C 00000000
+
+// Tool Max
+Author = libretro-database contributors / original PSP cheat authors
+80C0F8F4 0016000C
+0000000A 00000000

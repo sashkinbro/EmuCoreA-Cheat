@@ -1,0 +1,243 @@
+# PSP cheat pack
+# Serial: ULES-01505
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Remove Bloom
+Author = libretro-database contributors / original PSP cheat authors
+E00A0004 001A17DC
+201A17DC 0A200427
+2000109C 34040000
+200010A0 00A4202A
+200010A4 10800005
+200010A8 AF0C0004
+200010AC 240FFFFC
+200010B0 2410FFFC
+200010B4 2403FFFC
+200010B8 240EFFFC
+200010BC 0A2685F9
+
+// Remove Bloom [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201A17DC AF0C0004
+
+// Handheld Screen (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+2041158C 3FC00000
+212E8D3C 3FC00000
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+2041158C 3FE1E1E2
+212E8D3C 3FE1E1E2
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+2041158C 40638E39
+212E8D3C 40638E39
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+2041158C 4017B426
+212E8D3C 4017B426
+
+// 20 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20413AA4 00000003
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+20413AA4 00000002
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20413AA4 00000001
+
+// 250 KP
+Author = libretro-database contributors / original PSP cheat authors
+003EE31C 000000FA
+
+// 9,999 Bravery
+Author = libretro-database contributors / original PSP cheat authors
+603633B0 0000270F
+00050001 00000E4C
+2000052C 00000000
+
+// 20,000 PP
+Author = libretro-database contributors / original PSP cheat authors
+20EB2DC0 00004E20
+
+// 1,000,000 Gil (When Selling)
+Author = libretro-database contributors / original PSP cheat authors
+207F93F4 000F4240
+207FB2D0 000F4240
+
+// 1,000,000 KP
+Author = libretro-database contributors / original PSP cheat authors
+203EE31C 000F4240
+20E92D14 000F4240
+
+// All Accessories x99
+Author = libretro-database contributors / original PSP cheat authors
+803BEEC6 02A00004
+00000063 00000000
+803BE4EE 02A00004
+
+// AP 1,000 After Battle
+Author = libretro-database contributors / original PSP cheat authors
+212EA568 000003E8
+
+// AP Max After Battle
+Author = libretro-database contributors / original PSP cheat authors
+212EA568 00000457
+
+// Enemy Bravery 0
+Author = libretro-database contributors / original PSP cheat authors
+603633B0 00000000
+00050001 0000002C
+603633E0 00000000
+
+// Enemy Bravery 0 v2
+Author = libretro-database contributors / original PSP cheat authors
+603633B0 00000000
+00040001 0000002C
+2000054C 00000000
+
+// Enemy Bravery 0 v3
+Author = libretro-database contributors / original PSP cheat authors
+603633B0 00000000
+00050001 0000002C
+2000052C 00000000
+
+// Enemy Kill [Select]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000001
+603633B0 000F423F
+00050001 00000038
+2000052C 00000000
+
+// Enemy Max HP 100
+Author = libretro-database contributors / original PSP cheat authors
+603633B0 00000064
+00050001 00000034
+2000052C 00000000
+
+// Enemy No Assist
+Author = libretro-database contributors / original PSP cheat authors
+603633B0 00000000
+00050001 00000024
+2000052C 00000000
+
+// Enemy No EX
+Author = libretro-database contributors / original PSP cheat authors
+603633B0 00000000
+00050001 00000028
+2000052C 00000000
+
+// Gil Max
+Author = libretro-database contributors / original PSP cheat authors
+203BFA00 3B9AC9FF
+
+// Have All Accessories x99
+Author = libretro-database contributors / original PSP cheat authors
+803BEEC6 024D0004
+00000063 00000000
+
+// Have All Equipments x99
+Author = libretro-database contributors / original PSP cheat authors
+803BE41A 02A50004
+00000063 00000000
+
+// Infinite Assist
+Author = libretro-database contributors / original PSP cheat authors
+603633B0 461C4000
+00050001 00000E44
+2000052C 00000000
+
+// Infinite Bravery
+Author = libretro-database contributors / original PSP cheat authors
+603633B0 0000270F
+00050001 00000E4C
+2000052C 00000000
+
+// Infinite CP
+Author = libretro-database contributors / original PSP cheat authors
+107F9518 000003E7
+107F954C 000003E7
+108B0030 000003E7
+
+// Infinite EX
+Author = libretro-database contributors / original PSP cheat authors
+603633B0 461C4000
+00050001 00000E48
+2000052C 00000000
+
+// Level Up To 100
+Author = libretro-database contributors / original PSP cheat authors
+603633B0 00000064
+00050001 00000E60
+603633E0 00000064
+
+// Mala Bestia Pack
+Author = libretro-database contributors / original PSP cheat authors
+003BF762 00000063
+003BF7AA 00000063
+003BF122 00000063
+003BF7D6 00000063
+003BF11A 00000063
+003BF116 00000063
+003BF112 00000063
+003BF196 00000063
+003BF0DE 00000063
+
+// Max OO
+Author = libretro-database contributors / original PSP cheat authors
+20EB2DC0 05F5E0FF
+
+// Max Gil
+Author = libretro-database contributors / original PSP cheat authors
+203BFA00 05F5E0FF
+
+// Max KP
+Author = libretro-database contributors / original PSP cheat authors
+203EE31C 05F5E0FF
+
+// Max PP
+Author = libretro-database contributors / original PSP cheat authors
+20EB2DC0 000F423F
+
+// No CP Limit
+Author = libretro-database contributors / original PSP cheat authors
+202F3B4C 84820010
+202F3B38 34020000
+202F3B4C 34020000
+
+// Player Bravery 9999
+Author = libretro-database contributors / original PSP cheat authors
+603633B0 0000270F
+00050001 00000E4C
+603633E0 0000270F
+
+// Player Bravery 9999 v2
+Author = libretro-database contributors / original PSP cheat authors
+603633B0 0000270F
+00040001 00000E4C
+2000054C 00000000
+
+// Unlock All Equipment x99
+Author = libretro-database contributors / original PSP cheat authors
+803BE41A 02A00004
+00000063 00000000
+
+// Unlock All Invocations x10
+Author = libretro-database contributors / original PSP cheat authors
+803BF8BF 003D0004
+00000003 00000000
+803BF8BD 003D0004
+0000000A 00000000
+
+// Unlock All Summons x10 (Risky)
+Author = libretro-database contributors / original PSP cheat authors
+803BF8BF 003D0004
+00000003 00000000
+803BF8BD 003D0004
+0000000A 00000000

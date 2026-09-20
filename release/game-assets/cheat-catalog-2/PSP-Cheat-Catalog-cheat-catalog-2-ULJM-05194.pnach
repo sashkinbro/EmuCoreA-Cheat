@@ -1,0 +1,240 @@
+# PSP cheat pack
+# Serial: ULJM-05194
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Ability Limit Release
+Author = libretro-database contributors / original PSP cheat authors
+200D44BC 50400009
+2018F218 5000000D
+201900DC 24020001
+
+// All Item 50
+Author = libretro-database contributors / original PSP cheat authors
+2018DB2C 240A0032
+
+// Brave
+Author = libretro-database contributors / original PSP cheat authors
+00ABC053 00000000
+
+// Equip Anything On any Job
+Author = libretro-database contributors / original PSP cheat authors
+200C41C8 240300FF
+200C41D0 A0830052
+200C41D4 A0830053
+200C41D8 A0830054
+200C41DC A0830055
+200C41E0 A0830056
+2018EAC8 10000003
+
+// Experience Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+200B696C 24050064
+200B694C 53E00004
+200B6954 00051840
+
+// Experience Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+200B696C 24050064
+200B694C 53E00004
+200B6954 00051880
+
+// Experience Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+200B696C 24050064
+200B694C 53E00004
+200B6954 000518C0
+
+// Experience Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+200B696C 24050064
+200B694C 53E00004
+200B6954 00051900
+
+// Experience Multiplier x32
+Author = libretro-database contributors / original PSP cheat authors
+200B696C 24050064
+200B694C 53E00004
+200B6954 00051940
+
+// Experience Multiplier x64
+Author = libretro-database contributors / original PSP cheat authors
+200B696C 24050064
+200B694C 53E00004
+200B6954 00051980
+
+// Experience Multiplier x128
+Author = libretro-database contributors / original PSP cheat authors
+200B696C 24050064
+200B694C 53E00004
+200B6954 000519C0
+
+// Experience Multiplier x256
+Author = libretro-database contributors / original PSP cheat authors
+200B696C 24050064
+200B694C 53E00004
+200B6954 00051A00
+
+// Experience Multiplier x512
+Author = libretro-database contributors / original PSP cheat authors
+200B696C 24050064
+200B694C 53E00004
+200B6954 00051A40
+
+// Faith
+Author = libretro-database contributors / original PSP cheat authors
+00ABC055 00000000
+
+// Infinite Gil
+Author = libretro-database contributors / original PSP cheat authors
+20B21D60 05F5E0FF
+20C1C498 05F5E0FF
+
+// Gil 99999900
+Author = libretro-database contributors / original PSP cheat authors
+20C1C498 05F5E09C
+
+// Gil Max
+Author = libretro-database contributors / original PSP cheat authors
+20B21D60 05F5E0FF
+20C1C498 05F5E0FF
+
+// Job Lv. & Jp. Max
+Author = libretro-database contributors / original PSP cheat authors
+2018AF60 54000003
+2018AF74 54000003
+
+// JP Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+200D460C 10000007
+200D4610 00129040
+
+// JP Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+200D460C 10000007
+200D4610 00129080
+
+// JP Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+200D460C 10000007
+200D4610 001290C0
+
+// JP Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+200D460C 10000007
+200D4610 00129100
+
+// JP Multiplier x32
+Author = libretro-database contributors / original PSP cheat authors
+200D460C 10000007
+200D4610 00129140
+
+// JP Multiplier x64
+Author = libretro-database contributors / original PSP cheat authors
+200D460C 10000007
+200D4610 00129180
+
+// JP Multiplier x128
+Author = libretro-database contributors / original PSP cheat authors
+200D460C 10000007
+200D4610 001291C0
+
+// JP Multiplier x256
+Author = libretro-database contributors / original PSP cheat authors
+200D460C 10000007
+200D4610 00129200
+
+// JP Multiplier x512
+Author = libretro-database contributors / original PSP cheat authors
+200D460C 10000007
+200D4610 00129240
+
+// Learning
+Author = libretro-database contributors / original PSP cheat authors
+200B822C 17E00003
+200B8344 24050064
+
+// Level Up 1-5
+Author = libretro-database contributors / original PSP cheat authors
+80ABC051 000501E8
+00000001 00000000
+
+// Limit Without Materia Blade
+Author = libretro-database contributors / original PSP cheat authors
+200C441C 54000005
+
+// Kill 99
+Author = libretro-database contributors / original PSP cheat authors
+80ABF2C1 000F0100
+00000063 00000000
+
+// Magic Atk.
+Author = libretro-database contributors / original PSP cheat authors
+00ABC067 00000063
+
+// Maintenance Disable
+Author = libretro-database contributors / original PSP cheat authors
+200AD318 1000000B
+200AD454 1000000B
+200AE228 1000000B
+
+// Maintenance Enable
+Author = libretro-database contributors / original PSP cheat authors
+200AD318 13E0000B
+200AD454 13E0000B
+200AE228 13E0000B
+
+// Maintenance Normal
+Author = libretro-database contributors / original PSP cheat authors
+200AD318 1060000B
+200AD454 1060000B
+200AE228 1060000B
+
+// Max Job Level And JP
+Author = libretro-database contributors / original PSP cheat authors
+2018AF60 54000003
+2018AF74 54000003
+
+// Max Poaching Shop
+Author = libretro-database contributors / original PSP cheat authors
+2018DBF0 54000003
+
+// No Charging On Abilities
+Author = libretro-database contributors / original PSP cheat authors
+200D0CD0 24030000
+
+// Quest
+Author = libretro-database contributors / original PSP cheat authors
+00E79798 00000001
+
+// Ribbon EX
+Author = libretro-database contributors / original PSP cheat authors
+0030F836 000000FF
+0030F837 000000FF
+003102DB 0000000F
+003102DC 0000000F
+003102DD 00000006
+003102DE 00000006
+003102DF 00000006
+003102E2 00000060
+003102E3 00000078
+003102EF 000000FF
+003102F3 000000FF
+
+// Speed
+Author = libretro-database contributors / original PSP cheat authors
+00ABC068 00000063
+
+// Sword Master Ramza
+Author = libretro-database contributors / original PSP cheat authors
+20275549 0000004A
+2027557A 0000004A
+202755AB 0000004A
+
+// Ultima And Zodiac
+Author = libretro-database contributors / original PSP cheat authors
+202732A8 615A07D0
+20273520 616403E8
+
+// War Funds
+Author = libretro-database contributors / original PSP cheat authors
+20C1C498 05F5E0FF

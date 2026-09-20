@@ -1,0 +1,135 @@
+# PSP cheat pack
+# Serial: ULES-00955
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+2001B4D8 AC8000B8
+
+// Base Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+20655EA4 00000001
+
+// Base Unlocked v2
+Author = libretro-database contributors / original PSP cheat authors
+20655B34 00000001
+
+// Base Unlocked v3
+Author = libretro-database contributors / original PSP cheat authors
+206557C4 00000001
+
+// City Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+20655DF4 00000001
+
+// City Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+20655A84 00000001
+
+// City Unlocked v2
+Author = libretro-database contributors / original PSP cheat authors
+20655714 00000001
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2042C7B4 00000000
+00000444 42C80000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+206286DC 00000000
+000004C4 43960000
+
+// Infinite Run
+Author = libretro-database contributors / original PSP cheat authors
+206286DC 00000000
+00002168 42C80000
+
+// Infinite WP
+Author = libretro-database contributors / original PSP cheat authors
+2042C7B4 00000000
+00000448 42C80000
+
+// Max Skill Points
+Author = libretro-database contributors / original PSP cheat authors
+2042C7B4 00000000
+100003B0 000003E7
+
+// Monastery Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+20655E4C 00000001
+
+// Monastery Unlocked v2
+Author = libretro-database contributors / original PSP cheat authors
+20655ADC 00000001
+
+// Monastery Unlocked v3
+Author = libretro-database contributors / original PSP cheat authors
+2065576C 00000001
+
+// Much Quicker Character
+Author = libretro-database contributors / original PSP cheat authors
+2016F778 3C044059
+2016F788 3C044059
+2016F798 3C044059
+2016F7A8 3C044059
+
+// Much Quicker Exp. Gain
+Author = libretro-database contributors / original PSP cheat authors
+2042C7B4 00000000
+10000334 0000FFFF
+
+// Normal Speed
+Author = libretro-database contributors / original PSP cheat authors
+2016F778 3C043F59
+2016F788 3C043F59
+2016F798 3C043F59
+2016F7A8 3C043F59
+
+// Port Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+20655DC8 00000001
+
+// Port Unlocked v2
+Author = libretro-database contributors / original PSP cheat authors
+20655A58 00000001
+
+// Port Unlocked v3
+Author = libretro-database contributors / original PSP cheat authors
+206556E8 00000001
+
+// Quick Exp. Gain
+Author = libretro-database contributors / original PSP cheat authors
+2042C7B4 00000000
+20000334 000000FF
+
+// Quicker Character
+Author = libretro-database contributors / original PSP cheat authors
+2016F778 3C043FC9
+2016F788 3C043FC9
+2016F798 3C043FC9
+2016F7A8 3C043FC9
+
+// Sewers Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+20655E20 00000001
+
+// Sewers Unlocked v2
+Author = libretro-database contributors / original PSP cheat authors
+20655AB0 00000001
+
+// Sewers Unlocked v3
+Author = libretro-database contributors / original PSP cheat authors
+20655740 00000001
+
+// Village Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+20655E78 00000001
+
+// Village Unlocked v2
+Author = libretro-database contributors / original PSP cheat authors
+20655B08 00000001
+
+// Village Unlocked v3
+Author = libretro-database contributors / original PSP cheat authors
+20655798 00000001

@@ -1,0 +1,142 @@
+# PSP cheat pack
+# Serial: ULJM-05151
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99999999 DP
+Author = libretro-database contributors / original PSP cheat authors
+2025732C 05F5E0FF
+2116F248 05F5E0FF
+2116F24C 05F5E0FF
+
+// Aite Ga Nanimoshinai
+Author = libretro-database contributors / original PSP cheat authors
+0175C5A4 00000000
+
+// All Lose 0
+Author = libretro-database contributors / original PSP cheat authors
+402581AC 008C0002
+
+// All Win 100
+Author = libretro-database contributors / original PSP cheat authors
+402581A8 008C0002
+00000064 00000000
+
+// Attack
+Author = libretro-database contributors / original PSP cheat authors
+0175A1D2 000000FF
+
+// Ayersrock Sunrise 99
+Author = libretro-database contributors / original PSP cheat authors
+00259929 00000063
+
+// Card 99
+Author = libretro-database contributors / original PSP cheat authors
+40258834 09AF0001
+00036304 00000000
+
+// Day
+Author = libretro-database contributors / original PSP cheat authors
+00266378 00000000
+
+// DP Max
+Author = libretro-database contributors / original PSP cheat authors
+2025732C 3B9AC9FF
+
+// Enemy Deck 0
+Author = libretro-database contributors / original PSP cheat authors
+0175C5A8 00000000
+
+// Enemy Life 0
+Author = libretro-database contributors / original PSP cheat authors
+11641FB0 00000000
+2175C598 00000000
+
+// English Lang
+Author = libretro-database contributors / original PSP cheat authors
+00276050 00000001
+
+// English Lang v2
+Author = libretro-database contributors / original PSP cheat authors
+20257334 00000001
+
+// Gennma No Tobira 99
+Author = libretro-database contributors / original PSP cheat authors
+00259905 00000063
+
+// Genzai No Rensyousuu
+Author = libretro-database contributors / original PSP cheat authors
+00258188 00000000
+
+// GX Medal 99
+Author = libretro-database contributors / original PSP cheat authors
+0026623C 00000063
+
+// GX Medal 100
+Author = libretro-database contributors / original PSP cheat authors
+0026623C 00000064
+
+// Infinite Life Points
+Author = libretro-database contributors / original PSP cheat authors
+21641FA4 00002710
+21641FAC 00002710
+2175B5EC 00002710
+
+// Kachi
+Author = libretro-database contributors / original PSP cheat authors
+0025817C 00000000
+
+// Kennjyano Isi Sabatieru 99
+Author = libretro-database contributors / original PSP cheat authors
+00259925 00000063
+
+// Makesuu
+Author = libretro-database contributors / original PSP cheat authors
+00258180 00000000
+
+// Max DP
+Author = libretro-database contributors / original PSP cheat authors
+2025732C 05F5E0FF
+
+// Max Rensyou
+Author = libretro-database contributors / original PSP cheat authors
+0025818C 00000000
+
+// Ougon No Tamago Pan
+Author = libretro-database contributors / original PSP cheat authors
+00266360 0000000A
+
+// Toute Les Cartes x7
+Author = libretro-database contributors / original PSP cheat authors
+80266978 03FD0002
+10000704 00000000
+80267970 00250002
+80267A08 00B90002
+80267CF8 004E0002
+80267E40 00530002
+80267F94 00340002
+80268070 002F0002
+80268130 002D0002
+
+// Toutes Les Cartes 7x v2
+Author = libretro-database contributors / original PSP cheat authors
+802681F0 00A70002
+10000704 00000000
+80268494 00C40002
+802687B0 007B0002
+802689A4 009C0002
+80268C18 004D0002
+80268D50 00290002
+80268DFC 008E0002
+102687A8 00000704
+
+// Win Match Now
+Author = libretro-database contributors / original PSP cheat authors
+202767C4 00000000
+21641FA8 00000000
+21641FB0 00000000
+21641FB4 00000000
+2175C598 00000000
+
+// Zutto Ore No Turn!
+Author = libretro-database contributors / original PSP cheat authors
+2175ED60 00000000

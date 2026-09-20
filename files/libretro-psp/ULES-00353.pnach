@@ -1,0 +1,108 @@
+# PSP cheat pack
+# Serial: ULES-00353
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (M) Must Be On!!!
+Author = libretro-database contributors / original PSP cheat authors
+102297B0 00003F80
+1011F020 00003F80
+1004B8C4 00003F80
+101FF1F8 00003F80
+1029EB28 00003F00
+
+// Big Size Mod
+Author = libretro-database contributors / original PSP cheat authors
+1011F020 00003FA0
+
+// Faster Gameplay Speed
+Author = libretro-database contributors / original PSP cheat authors
+101E04AC 00003FF0
+
+// GBA Quality
+Author = libretro-database contributors / original PSP cheat authors
+102297B0 00003FC0
+
+// Gold Koins 65535
+Author = libretro-database contributors / original PSP cheat authors
+105992A4 0000FFFF
+1059D724 0000FFFF
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 C62D00B4
+20002004 0A2055CD
+20002008 E62D00B0
+2001572C 0A200800
+
+// Jade Koins 65535
+Author = libretro-database contributors / original PSP cheat authors
+1059929C 0000FFFF
+
+// Max Koins On Enter The Krypt
+Author = libretro-database contributors / original PSP cheat authors
+20002010 02202025
+20002014 240E270F
+20002018 0A22E831
+2000201C ACAE0038
+200BA0BC 0A200804
+
+// MKSM Camera Mode
+Author = libretro-database contributors / original PSP cheat authors
+10044A9C 00004010
+10044900 00004000
+1004B8C4 00003F80
+10314DF2 00003F7C
+
+// P1: Inf. Health All
+Author = libretro-database contributors / original PSP cheat authors
+20343870 3F800000
+205953B8 3F800000
+2059575C 3F614700
+
+// P2: Damage Mod
+Author = libretro-database contributors / original PSP cheat authors
+101908C8 00003EC0
+
+// P2: No Wins In Puzzle
+Author = libretro-database contributors / original PSP cheat authors
+002FA870 00000000
+003025A8 00000000
+00595460 00000000
+00599780 00000000
+
+// Platinum Koins 65535
+Author = libretro-database contributors / original PSP cheat authors
+10599290 0000FFFF
+
+// Puzzle Mode
+Author = libretro-database contributors / original PSP cheat authors
+1011F020 00003F37
+
+// Ruby Koins 65535
+Author = libretro-database contributors / original PSP cheat authors
+105992A0 0000FFFF
+1059D720 0000FFFF
+
+// Sapphire Koins 65535
+Author = libretro-database contributors / original PSP cheat authors
+10599298 0000FFFF
+
+// Silver Koins 65535
+Author = libretro-database contributors / original PSP cheat authors
+10599294 0000FFFF
+
+// Slow Gameplay Speed
+Author = libretro-database contributors / original PSP cheat authors
+101E04AC 00003F70
+
+// Timer Disable
+Author = libretro-database contributors / original PSP cheat authors
+20081920 00000000
+
+// Timer Enable
+Author = libretro-database contributors / original PSP cheat authors
+20081920 AE0401E8
+
+// Upside-Down Screen
+Author = libretro-database contributors / original PSP cheat authors
+1029EB28 00003F80

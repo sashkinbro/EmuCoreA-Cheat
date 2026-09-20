@@ -1,0 +1,66 @@
+# PSP cheat pack
+# Serial: ULES-01439
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+00630BAC 00000002
+20663034 41F00000
+20663038 0000001E
+2066303C 40000000
+20663040 00000002
+20663044 3F800000
+20663048 3D088889
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+00630BAC 00000001
+20663034 42700000
+20663038 0000003C
+2066303C 3F800000
+20663040 00000001
+20663044 3F000000
+20663048 3C888889
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+0052286B 00000040
+00522873 0000005F
+
+// Big Sale
+Author = libretro-database contributors / original PSP cheat authors
+0052286B 00000047
+
+// CHEAP Buy
+Author = libretro-database contributors / original PSP cheat authors
+0052286B 0000003C
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2001DAA8 8CC20004
+2001DAB8 ACC20000
+
+// Infinite PP
+Author = libretro-database contributors / original PSP cheat authors
+201F9E3C 8C880000
+201F9E40 AC880008
+
+// Invicible
+Author = libretro-database contributors / original PSP cheat authors
+002220A8 00000024
+002220A9 00000002
+002220AA 00000000
+002220AB 00000000
+
+// Maximum Stats
+Author = libretro-database contributors / original PSP cheat authors
+60A2F3B4 270F270F
+00020001 0000069C
+00020001 000006A0
+00020001 000006A4
+00020001 000006A8
+
+// Triangle
+Author = libretro-database contributors / original PSP cheat authors
+0055BBF7 00000000
+0055BBF6 00000000

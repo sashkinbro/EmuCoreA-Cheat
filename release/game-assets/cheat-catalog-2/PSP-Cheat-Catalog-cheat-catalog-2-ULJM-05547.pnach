@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: ULJM-05547
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 999 Soil Attribute Points
+Author = libretro-database contributors / original PSP cheat authors
+015C0C00 000003E7
+
+// 999 Water Attribute Points
+Author = libretro-database contributors / original PSP cheat authors
+015C0C04 000003E7
+
+// Fire 999 Attribute Points
+Author = libretro-database contributors / original PSP cheat authors
+015C0BFE 000003E7
+
+// Metallic 999 Points
+Author = libretro-database contributors / original PSP cheat authors
+015C0BFC 000003E7
+
+// Wood Properties 999 Points
+Author = libretro-database contributors / original PSP cheat authors
+015C0C02 000003E7

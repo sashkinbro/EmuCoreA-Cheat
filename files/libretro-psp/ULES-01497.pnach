@@ -1,0 +1,64 @@
+# PSP cheat pack
+# Serial: ULES-01497
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1P Inf. HP (In Left)
+Author = libretro-database contributors / original PSP cheat authors
+6040B80C 00000004
+00000002 0000079C
+10000798 00000000
+
+// 1P Inf. HP (In Right)
+Author = libretro-database contributors / original PSP cheat authors
+6040B810 00000004
+00000002 0000079C
+10000798 00000000
+
+// 1P Power Max (In Left)
+Author = libretro-database contributors / original PSP cheat authors
+6040B80C 00002710
+00010001 00002214
+
+// 1P Power Max (In Right)
+Author = libretro-database contributors / original PSP cheat authors
+6040B810 00002710
+00010001 00002214
+
+// 1P Score 99999999999999
+Author = libretro-database contributors / original PSP cheat authors
+20407C10 107A3FFF
+20407C14 00005AF3
+
+// 2P HP Little (In Left)
+Author = libretro-database contributors / original PSP cheat authors
+6040B80C 00000001
+00020001 00000798
+
+// 2P HP Little (In Right)
+Author = libretro-database contributors / original PSP cheat authors
+6040B810 00000001
+00020001 00000798
+
+// 2P No Power (In Left)
+Author = libretro-database contributors / original PSP cheat authors
+6040B80C 00000000
+00020001 00002214
+
+// 2P No Power (In Right)
+Author = libretro-database contributors / original PSP cheat authors
+6040B810 00000000
+00020001 00002214
+
+// All CG
+Author = libretro-database contributors / original PSP cheat authors
+803D3AE8 00B10001
+00000002 00000000
+
+// All Products Open
+Author = libretro-database contributors / original PSP cheat authors
+803FF1A0 004A0001
+00000001 00000000
+
+// Shop PD 99999999
+Author = libretro-database contributors / original PSP cheat authors
+203FF194 05F5E0FF

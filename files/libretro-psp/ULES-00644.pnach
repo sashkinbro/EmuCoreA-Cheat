@@ -1,0 +1,106 @@
+# PSP cheat pack
+# Serial: ULES-00644
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Animation Names
+Author = libretro-database contributors / original PSP cheat authors
+00637F80 00000001
+
+// Behavior Count
+Author = libretro-database contributors / original PSP cheat authors
+00638060 00000001
+
+// Disable HUD (1)
+Author = libretro-database contributors / original PSP cheat authors
+006381E8 00000001
+
+// Disable HUD (2)
+Author = libretro-database contributors / original PSP cheat authors
+00638290 00000001
+
+// Dynamic Nodegraph Count
+Author = libretro-database contributors / original PSP cheat authors
+0063807C 00000001
+
+// Fast Gameplay
+Author = libretro-database contributors / original PSP cheat authors
+00638220 00000001
+
+// Framerate
+Author = libretro-database contributors / original PSP cheat authors
+00638028 00000001
+
+// Health Info
+Author = libretro-database contributors / original PSP cheat authors
+00637B3C 00000001
+
+// LUA Memory
+Author = libretro-database contributors / original PSP cheat authors
+0063800C 00000001
+
+// Memory Usage
+Author = libretro-database contributors / original PSP cheat authors
+00637FF0 00000001
+
+// Object Count
+Author = libretro-database contributors / original PSP cheat authors
+00638044 00000001
+
+// Performance Graph
+Author = libretro-database contributors / original PSP cheat authors
+006386D4 00000001
+
+// Show Last 30 Frames
+Author = libretro-database contributors / original PSP cheat authors
+006386F0 00000001
+
+// Slow Gameplay
+Author = libretro-database contributors / original PSP cheat authors
+0063823C 00000001
+
+// Small Crosshair
+Author = libretro-database contributors / original PSP cheat authors
+00637B58 00000001
+
+// Characters Are Invisible
+Author = libretro-database contributors / original PSP cheat authors
+20270738 03E00008
+2027073C 00000000
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20031A40 ACA70134
+
+// Infinite Health & Grenades
+Author = libretro-database contributors / original PSP cheat authors
+200AA27C 0A200800
+20002000 3C0447C4
+20002004 AE0403E4
+20002008 24040063
+2000200C AE04020C
+20002010 0A22A8A0
+20002014 C60D03E4
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20029B18 3C054280
+
+// Speed Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+200249B4 3C054180
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+200249B4 3C053F80
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+200249B4 3C054080
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+200249B4 3C053E80
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+200249B4 3C053D80

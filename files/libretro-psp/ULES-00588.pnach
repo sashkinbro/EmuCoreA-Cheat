@@ -1,0 +1,13 @@
+# PSP cheat pack
+# Serial: ULES-00588
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Remove Glitchy Effect
+Author = libretro-database contributors / original PSP cheat authors
+E0010002 00014234
+20014234 0000C021
+
+// Remove Glitchy Effect [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E001C021 00014234
+20014234 37380002

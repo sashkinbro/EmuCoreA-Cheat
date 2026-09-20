@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULJM-05453
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Unlock All Challenge Mode Stages
+Author = libretro-database contributors / original PSP cheat authors
+2018239C 00000006
+C0000000 00000005
+201823A0 000000FA
+DC000000 00000004
+D2000000 00000000
+
+// Unlock All Operation Mode Stages
+Author = libretro-database contributors / original PSP cheat authors
+20182364 00000006
+
+// Unlock Special Settings
+Author = libretro-database contributors / original PSP cheat authors
+201823FC 0000000A

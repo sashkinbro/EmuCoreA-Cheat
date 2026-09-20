@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: ULJM-05336
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// ?????? ?????
+Author = libretro-database contributors / original PSP cheat authors
+B7800000 00000002
+20192844 FFFFFFFF
+D3800000 00000004
+
+// Unlock All Galleries
+Author = libretro-database contributors / original PSP cheat authors
+20192844 FFFFFFFF
+20192848 FFFFFFFF
+2019284C FFFFFFFF

@@ -1,0 +1,40 @@
+# PSP cheat pack
+# Serial: NPUZ-00258
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Disable Timer
+Author = libretro-database contributors / original PSP cheat authors
+200FF1F4 00000000
+
+// Infinite Fuel
+Author = libretro-database contributors / original PSP cheat authors
+200FA88C 00000000
+
+// Infinite Lives (Lunar Parking)
+Author = libretro-database contributors / original PSP cheat authors
+200F5934 24020005
+200F5938 AE420054
+
+// Infinite Lives (Scolopendra)
+Author = libretro-database contributors / original PSP cheat authors
+200DE380 24050005
+200DE384 AE250054
+
+// Infinite Lives (Smashout)
+Author = libretro-database contributors / original PSP cheat authors
+200E9EAC 24080005
+200E9EDC AE680050
+
+// Infinite Lives (Toadder)
+Author = libretro-database contributors / original PSP cheat authors
+200FF1E0 24020005
+200FF1E4 AE220058
+
+// Infinite Lives (Vulcanoids)
+Author = libretro-database contributors / original PSP cheat authors
+200D2AF0 24020005
+200D2AF4 AE22005C
+
+// Infinite Shield
+Author = libretro-database contributors / original PSP cheat authors
+20068A14 1000000F

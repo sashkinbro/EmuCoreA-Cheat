@@ -1,0 +1,143 @@
+# PSP cheat pack
+# Serial: ULES-01174
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Auto Increment Black Rep
+Author = libretro-database contributors / original PSP cheat authors
+2006206C 0A00200D
+20000834 3C0908CD
+20000838 8D090539
+2000083C 240A7FFF
+20000840 012A5820
+20000844 AD0B0804
+20000848 03E00008
+
+// Auto Increment Red Rep
+Author = libretro-database contributors / original PSP cheat authors
+2006206C 0A00200D
+20000834 3C0908CD
+20000838 8D090539
+2000083C 240A7FFF
+20000840 012A5820
+20000844 AD0B0539
+20000848 03E00008
+
+// Auto Increment Skills
+Author = libretro-database contributors / original PSP cheat authors
+2006206C 0A00200D
+20000834 3C0908CD
+20000838 8D090539
+2000083C 240A7FFF
+20000840 012A5820
+20000844 AD0B8784
+20000848 03E00008
+
+// Auto Decrement Black Rep
+Author = libretro-database contributors / original PSP cheat authors
+2006206C 0A00200D
+20000834 3C0908CD
+20000838 8D090539
+2000083C 240AFFFF
+20000840 012A5820
+20000844 AD0B0804
+20000848 03E00008
+
+// Auto Decrement Red Rep
+Author = libretro-database contributors / original PSP cheat authors
+2006206C 0A00200D
+20000834 3C0908CD
+20000838 8D090539
+2000083C 240AFFFF
+20000840 012A5820
+20000844 AD0B0539
+20000848 03E00008
+
+// Auto Decrement Skills
+Author = libretro-database contributors / original PSP cheat authors
+2006206C 0A00200D
+20000834 3C0908CD
+20000838 8D090539
+2000083C 240AFFFF
+20000840 012A5820
+20000844 AD0B8784
+20000848 03E00008
+
+// God Stats
+Author = libretro-database contributors / original PSP cheat authors
+2006206C 0A200200
+20000800 3C0808CD
+20000804 3C090000
+20000808 25290539
+2000080C AD098800
+20000810 3C0808CD
+20000814 3C090000
+20000818 25290539
+2000081C AD098804
+20000820 3C0808CD
+20000824 3C090000
+20000828 25290539
+2000082C AD098784
+20000830 03E00008
+
+// Infinite Black Points
+Author = libretro-database contributors / original PSP cheat authors
+204C7E04 0000270F
+
+// Infinite Black Rep
+Author = libretro-database contributors / original PSP cheat authors
+204C8804 7FFFFFFF
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+204AF8A8 00000000
+D9000000 0000049C
+D6000000 00000498
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+204AF8A8 0000049C
+00020000 00000498
+
+// Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+204AF8A8 0000049C
+00020001 00000498
+
+// Infinite Health Subroutine
+Author = libretro-database contributors / original PSP cheat authors
+2006206C 0A2001C0
+20000700 3C0808CB
+20000704 8D0802A8
+20000708 19000002
+2000070C 3C09443F
+20000710 3529970D
+20000714 AD090498
+20000718 03E00008
+
+// Infinite Red Points
+Author = libretro-database contributors / original PSP cheat authors
+204C7E00 0000270F
+
+// Infinite Red Rep
+Author = libretro-database contributors / original PSP cheat authors
+204C8800 7FFFFFFF
+
+// Infinite Skill
+Author = libretro-database contributors / original PSP cheat authors
+204C8784 7FFFFFFF
+
+// Infinite Skill Points
+Author = libretro-database contributors / original PSP cheat authors
+204C7D84 0000270F
+
+// Max Black Reputation
+Author = libretro-database contributors / original PSP cheat authors
+204C7E04 0000270F
+
+// Max Red Reputation
+Author = libretro-database contributors / original PSP cheat authors
+204C7E00 0000270F
+
+// Max Skill Points
+Author = libretro-database contributors / original PSP cheat authors
+204C7D84 0000270F

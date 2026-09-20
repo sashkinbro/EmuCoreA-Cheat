@@ -1,0 +1,22 @@
+# PSP cheat pack
+# Serial: OPEN-00629
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Hit Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+20034708 0E200400
+20001000 12200002
+20001008 23FF0044
+2000100C 03E00008
+20001010 8FAC0064
+
+// Untitled cheat 1
+Author = libretro-database contributors / original PSP cheat authors
+20012228 0E200405
+20001014 8EE75120
+20001018 8CE70000
+2000101C 00E63823
+20001020 10E00002
+20001028 ACC00058
+2000102C 03E00008
+20001030 8E070074

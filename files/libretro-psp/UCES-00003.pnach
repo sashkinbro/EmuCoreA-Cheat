@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: UCES-00003
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 9900 Challenge Points
+Author = libretro-database contributors / original PSP cheat authors
+008E29D0 000026AC
+00B3B2A0 000026AC
+0152036C 000026AC
+
+// Challenge - Pass to add 500
+Author = libretro-database contributors / original PSP cheat authors
+E0011388 090E29D0
+D0000000 00008000
+303001F4 090E29D0
+
+// Freeze Timer
+Author = libretro-database contributors / original PSP cheat authors
+2085E9D4 00000000
+
+// Max Tokens
+Author = libretro-database contributors / original PSP cheat authors
+214BF134 000F423F

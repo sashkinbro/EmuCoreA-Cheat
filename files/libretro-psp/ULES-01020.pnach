@@ -1,0 +1,117 @@
+# PSP cheat pack
+# Serial: ULES-01020
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AI [Disabled]
+Author = libretro-database contributors / original PSP cheat authors
+20244C44 00000000
+
+// AI [Enabled]
+Author = libretro-database contributors / original PSP cheat authors
+20244C44 00000001
+
+// All Cars Purchased
+Author = libretro-database contributors / original PSP cheat authors
+209F68C0 FFFFFFFF
+209F68C4 0003FFFF
+
+// Assassinate Other Cars
+Author = libretro-database contributors / original PSP cheat authors
+2042CCD4 4AAAAAAA
+
+// Camera
+Author = libretro-database contributors / original PSP cheat authors
+003D6C8F 00000040
+
+// Fast Lvl. Up
+Author = libretro-database contributors / original PSP cheat authors
+209F8AE0 0000270F
+
+// Faster Acceleration/Top Speed
+Author = libretro-database contributors / original PSP cheat authors
+203E6638 40800000
+
+// Inf. Drive Line
+Author = libretro-database contributors / original PSP cheat authors
+2044B3F8 43E6B64A
+
+// Infinite Driving Assist
+Author = libretro-database contributors / original PSP cheat authors
+2044B3F8 43960000
+2044B3FC 43960000
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+209FB08C 3B9AC9FF
+
+// Inf. Money v2
+Author = libretro-database contributors / original PSP cheat authors
+209FB08C 05F5E100
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+209FB00C 0000A000
+
+// Infinite Money v2
+Author = libretro-database contributors / original PSP cheat authors
+209FB08C 05F5E0FF
+
+// Infinite Nos (Need Hz. 15/1000)
+Author = libretro-database contributors / original PSP cheat authors
+201CFCD8 0A2000A4
+20000290 3C0808C5
+20000294 8D09B40C
+20000298 3C0A0000
+2000029C 354A4A38
+200002A0 AD2A0468
+200002A8 03E00008
+
+// Max Driver Points
+Author = libretro-database contributors / original PSP cheat authors
+209FB09C 05F5E0FF
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+203E5410 3D488889
+203E5414 3DCCCCCD
+
+// Speed Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+203E5410 3D888889
+203E5414 3DCCCCCD
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+203E5410 3C888889
+203E5414 3DCCCCCD
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+203E5410 3D088889
+203E5414 3DCCCCCD
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+203E5410 3C888889
+203E5414 3CCCCCCD
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+203E5410 3C888889
+203E5414 3ACCCCCD
+
+// Total Lap Mod: 1 Lap
+Author = libretro-database contributors / original PSP cheat authors
+204414CC 00000001
+
+// Total Lap Mod: 2 Laps
+Author = libretro-database contributors / original PSP cheat authors
+204414CC 00000002
+
+// Total Lap Mod: 3 Laps
+Author = libretro-database contributors / original PSP cheat authors
+204414CC 00000003
+
+// Total Lap Mod:9 Laps
+Author = libretro-database contributors / original PSP cheat authors
+204414CC 00000009

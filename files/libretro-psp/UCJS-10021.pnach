@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: UCJS-10021
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Luna Gaje
+Author = libretro-database contributors / original PSP cheat authors
+00B0D934 00000000
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+206C4EE4 0098967F

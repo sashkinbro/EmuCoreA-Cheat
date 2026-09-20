@@ -1,0 +1,63 @@
+# PSP cheat pack
+# Serial: ULES-01360
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+2035DDBC 00000009
+00020000 00000004
+
+// Infinite Lives v2
+Author = libretro-database contributors / original PSP cheat authors
+2035DDBC 00000009
+00020001 00000004
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+20356144 0098967F
+
+// Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+2005D004 BFFF4000
+20356138 00000000
+00000054 3E000000
+D2000000 00000000
+
+// Moonjump v2
+Author = libretro-database contributors / original PSP cheat authors
+2005D004 BFFF4000
+20356138 3E000000
+00020000 00000054
+
+// Moonjump v3
+Author = libretro-database contributors / original PSP cheat authors
+2005D004 BFFF4000
+20356138 3E000000
+00020001 00000054
+
+// Slow Falls (Hold R)
+Author = libretro-database contributors / original PSP cheat authors
+2005D004 FDFF0200
+20356138 00000000
+00000054 00000000
+D2000000 00000000
+
+// Slow Falls (Hold R) v2
+Author = libretro-database contributors / original PSP cheat authors
+2005D004 FDFF0200
+20356138 00000000
+00020000 00000054
+
+// Slow Falls (Hold R) v3
+Author = libretro-database contributors / original PSP cheat authors
+2005D004 FDFF0200
+20356138 00000000
+00020001 00000054
+
+// Timer Disable
+Author = libretro-database contributors / original PSP cheat authors
+201A85C4 00000000
+
+// Timer Enable
+Author = libretro-database contributors / original PSP cheat authors
+201A85C4 ACC4000C

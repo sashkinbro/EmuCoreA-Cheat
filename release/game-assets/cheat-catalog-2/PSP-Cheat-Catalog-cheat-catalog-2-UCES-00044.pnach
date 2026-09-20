@@ -1,0 +1,248 @@
+# PSP cheat pack
+# Serial: UCES-00044
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Fix Analog Controls
+Author = libretro-database contributors / original PSP cheat authors
+E0053BA3 00229F18
+E0043C04 00229F1A
+E003D70A 00229F20
+E0023484 00229F22
+20229F18 3C043F80
+20229F20 00000000
+
+// Fix Analog Controls [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0043F80 00229F18
+E0033C04 00229F1A
+E0020000 00229F22
+20229F18 3C043BA3
+20229F20 3484D70A
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+200E04B4 AE4000A0
+200AFDA8 AC8000A0
+200D93B8 AE0000A0
+
+// 1 Precursor Orb Worth 999 Orbs
+Author = libretro-database contributors / original PSP cheat authors
+200F30F4 340503E7
+
+// 1 Skull Gem Worth 999 Gems
+Author = libretro-database contributors / original PSP cheat authors
+20196B7C 340503E7
+
+// God Mode
+Author = libretro-database contributors / original PSP cheat authors
+200E03F0 10000008
+200AFD8C 10000007
+200D93B0 24840000
+
+// God Mode (Disable)
+Author = libretro-database contributors / original PSP cheat authors
+200E03F0 14A00008
+200AFD8C 14C00007
+200D93B0 2484FFFF
+
+// God Mode At Mini-Games
+Author = libretro-database contributors / original PSP cheat authors
+201F91E0 10000007
+201F373C 00000000
+
+// Have All Bug Gems
+Author = libretro-database contributors / original PSP cheat authors
+203504AC 00000001
+203504B0 00000001
+203504D4 00000027
+203504D8 00000027
+203504FC 00000019
+20350500 00000019
+2035054C 00000023
+20350550 00000023
+20350574 0000001C
+20350578 0000001C
+203505EC 0000001E
+203505F0 0000001E
+20350664 00000031
+20350668 00000031
+203506B4 0000003E
+203506B8 0000003E
+203506DC 0000003C
+203506E0 0000003C
+2035072C 0000001B
+20350730 0000001B
+20350754 0000001E
+20350758 0000001E
+2035077C 00000051
+20350780 00000051
+203507F4 00000021
+203507F8 00000021
+2035081C 00000037
+20350820 00000037
+20350844 00000036
+20350848 00000036
+
+// Have All Precursor Orbs
+Author = libretro-database contributors / original PSP cheat authors
+203504B4 0000002D
+203504B8 0000002D
+203504DC 00000032
+203504E0 00000032
+20350504 00000028
+20350508 00000028
+2035052C 00000019
+20350530 00000019
+20350554 00000032
+20350558 00000032
+2035057C 0000003C
+20350580 0000003C
+203505F4 00000032
+203505F8 00000032
+2035066C 0000003C
+20350670 0000003C
+20350694 0000001E
+20350698 0000001E
+203506BC 0000003C
+203506C0 0000003C
+203506E4 0000003C
+203506E8 0000003C
+2035070C 00000032
+20350710 00000032
+20350734 0000003C
+20350738 0000003C
+2035075C 00000046
+20350760 00000046
+20350784 00000046
+20350788 00000046
+203507FC 00000046
+20350800 00000046
+20350824 0000004B
+20350828 0000004B
+2035084C 0000004B
+20350850 0000004B
+
+// Have All Secret Bonus
+Author = libretro-database contributors / original PSP cheat authors
+216AB114 00FFFFFF
+00350998 00000003
+003509F0 00000003
+00350A48 00000003
+0035096C 00000003
+003509C4 00000003
+00350A1C 00000003
+
+// Health Infinite (Mini Games)
+Author = libretro-database contributors / original PSP cheat authors
+006A0640 00000006
+00663BB8 00000006
+00653BF8 00000006
+00657518 00000006
+006679E8 00000006
+00677BD8 00000006
+
+// Infinite Insecticide (Spray Gun)
+Author = libretro-database contributors / original PSP cheat authors
+200B0BDC 00000000
+200AA33C 00000000
+
+// Infinite Life
+Author = libretro-database contributors / original PSP cheat authors
+0168470C 0000000A
+0034B678 0000000A
+016768C0 0000000A
+
+// Infinite Time - Fly With Hover Spray
+Author = libretro-database contributors / original PSP cheat authors
+200B0C58 00000000
+
+// Infinite Time - Missions With Vehicle
+Author = libretro-database contributors / original PSP cheat authors
+2012DCF0 E60F004C
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+200D6574 00000000
+
+// Jump In Mid-Air\Levitate When Flying With Spray Gun
+Author = libretro-database contributors / original PSP cheat authors
+200D6BE4 10000009
+
+// Max Bug Gem Count
+Author = libretro-database contributors / original PSP cheat authors
+203DAD1C 00000261
+
+// Max And Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+6034391C 00000008
+00000001 000000A0
+00000001 000002B4
+
+// Max Points Have Cup Gold
+Author = libretro-database contributors / original PSP cheat authors
+1069FE8C 000003E7
+10663BBC 000003E7
+10653BFC 000003E7
+1065751C 000003E7
+106679EC 000003E7
+10677BDC 000003E7
+
+// Max Precursor Orb Count
+Author = libretro-database contributors / original PSP cheat authors
+203DAD18 000003E8
+
+// No Need To Collect Eggs To Unlock Extras
+Author = libretro-database contributors / original PSP cheat authors
+2023FED8 8E650028
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20345B50 000003E8
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20345B50 000001F4
+
+// Unlock Hat Cheat
+Author = libretro-database contributors / original PSP cheat authors
+203509F0 00000003
+
+// Unlock Levels/Movies, Masks, Goggles & Jak X Vehicle
+Author = libretro-database contributors / original PSP cheat authors
+203DAFA8 00FFC00F
+D2000000 00000000
+
+// Unlock Levels/Movies, Masks, Goggles & Jak X Vehicle v2
+Author = libretro-database contributors / original PSP cheat authors
+203DAFA8 00FFC00F
+00020000 00FFC00F
+
+// Unlock Levels/Movies, Masks, Goggles & Jak X Vehicle v3
+Author = libretro-database contributors / original PSP cheat authors
+203DAFA8 00FFC00F
+00020001 00FFC00F
+
+// Unlock Pants Cheat
+Author = libretro-database contributors / original PSP cheat authors
+20350A48 00000003
+
+// Unlock Website Clue A
+Author = libretro-database contributors / original PSP cheat authors
+2035096C 00000003
+
+// Unlock Website Clue B
+Author = libretro-database contributors / original PSP cheat authors
+20350998 00000003
+
+// Unlock Website Clue C
+Author = libretro-database contributors / original PSP cheat authors
+203509C4 00000003
+
+// Unlock Website Clue D
+Author = libretro-database contributors / original PSP cheat authors
+20350A1C 00000003
+
+// Untouchable
+Author = libretro-database contributors / original PSP cheat authors
+200D656C 3C1B4270
+200D6574 449B6000

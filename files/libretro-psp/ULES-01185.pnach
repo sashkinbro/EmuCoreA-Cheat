@@ -1,0 +1,59 @@
+# PSP cheat pack
+# Serial: ULES-01185
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// (999) Crown Coins
+Author = libretro-database contributors / original PSP cheat authors
+107F3D38 000003E7
+
+// 99999 All Skills
+Author = libretro-database contributors / original PSP cheat authors
+20ED75FC 0001869F
+20ED7614 0001869F
+20ED760C 0001869F
+
+// Inf. Carve
+Author = libretro-database contributors / original PSP cheat authors
+20809B98 45000000
+
+// Inf. Slide
+Author = libretro-database contributors / original PSP cheat authors
+20809BA0 45000000
+
+// Inf. Speed
+Author = libretro-database contributors / original PSP cheat authors
+20809B6C 45000000
+
+// Inf. Trick
+Author = libretro-database contributors / original PSP cheat authors
+20809B80 45000000
+
+// Infinite Focus
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 007D1C88
+00000128 3F800000
+
+// Infinite Focus v2
+Author = libretro-database contributors / original PSP cheat authors
+607D1C88 3F800000
+00020001 00000128
+
+// The Alps Time
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 007F3D0C
+000039A4 00000000
+
+// The Alps Time v2
+Author = libretro-database contributors / original PSP cheat authors
+607F3D0C 00000000
+00020001 000039A4
+
+// USA Time
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 007F3D0C
+00000E64 00000000
+
+// USA Time v2
+Author = libretro-database contributors / original PSP cheat authors
+607F3D0C 00000000
+00020001 00000E64

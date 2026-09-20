@@ -1,0 +1,21 @@
+# PSP cheat pack
+# Serial: ULES-00319
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+20770B84 41F00000
+00000200 00000478
+
+// Unlock Everything
+Author = libretro-database contributors / original PSP cheat authors
+20771004 0000FFFE
+20771008 FFFFFFFF
+2077100C 00007FFE
+20771010 FFC3FFFE
+20771014 FFFFFFFF
+20771018 001FFFFF
+2077101C 00000FC0
+20771020 00028A00
+20771024 00FFFFC0
+207715E4 AAAAAA01

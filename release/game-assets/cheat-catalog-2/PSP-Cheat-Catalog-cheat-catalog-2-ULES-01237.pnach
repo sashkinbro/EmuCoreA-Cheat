@@ -1,0 +1,21 @@
+# PSP cheat pack
+# Serial: ULES-01237
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+200313D0 00000000
+203D20E4 0000003C
+
+// 60 FPS [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200313D0 14A0FFF1
+203D20E4 0000001E
+
+// Always In The Shadows
+Author = libretro-database contributors / original PSP cheat authors
+20042984 24020001
+
+// Always In The Shadows [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20042984 00001025

@@ -1,0 +1,114 @@
+# PSP cheat pack
+# Serial: ULES-01359
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 100 Speed
+Author = libretro-database contributors / original PSP cheat authors
+208A40C0 42C80000
+
+// 999 Speed
+Author = libretro-database contributors / original PSP cheat authors
+208A40C0 4479C000
+
+// Debug Menu (Highlight Options) [Hold Select+X]
+Author = libretro-database contributors / original PSP cheat authors
+200A0824 1020023F
+217FF5A4 00004001
+200A0824 24040004
+D2000000 00000000
+
+// Frozen
+Author = libretro-database contributors / original PSP cheat authors
+20034ED0 3C033085
+200B920C 3C033085
+20117B9C 3C033085
+200D4EEC 3C033085
+
+// Low Weight
+Author = libretro-database contributors / original PSP cheat authors
+208A4090 4479C000
+
+// Max Attack
+Author = libretro-database contributors / original PSP cheat authors
+208A4030 4479C000
+
+// Max Defense
+Author = libretro-database contributors / original PSP cheat authors
+208A4060 4479C000
+
+// Max Dodge
+Author = libretro-database contributors / original PSP cheat authors
+208A4120 4479C000
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+208A4180 47C34F80
+
+// Max Health
+Author = libretro-database contributors / original PSP cheat authors
+208A4000 4479C000
+
+// Max Hit
+Author = libretro-database contributors / original PSP cheat authors
+208A40F0 4479C000
+
+// Speed Timer Mod: Faster
+Author = libretro-database contributors / original PSP cheat authors
+20034ED0 3C0341C5
+200B920C 3C0341C5
+20117B9C 3C0341C5
+200D4EEC 3C0341C5
+
+// Speed Timer Mod: Much Faster
+Author = libretro-database contributors / original PSP cheat authors
+20034ED0 3C034205
+200B920C 3C034205
+20117B9C 3C034205
+200D4EEC 3C034205
+
+// Speed Timer Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20001000 00000000
+20001000 08804000
+D2000000 00000000
+20001002 000008A0
+C0000000 00001000
+50000000 3C033E85
+00000000 3C034185
+D0000000 00000000
+DC000000 00000004
+C6000000 08801000
+
+// Speed Timer Mod: Normal v2
+Author = libretro-database contributors / original PSP cheat authors
+20034ED0 3C034185
+200B920C 3C034185
+20117B9C 3C034185
+200D4EEC 3C034185
+
+// Speed Timer Mod: Slow
+Author = libretro-database contributors / original PSP cheat authors
+20034ED0 3C034085
+200B920C 3C034085
+20117B9C 3C034085
+200D4EEC 3C034085
+
+// Speed Timer Mod: Very Slow
+Author = libretro-database contributors / original PSP cheat authors
+20034ED0 3C033F85
+200B920C 3C033F85
+20117B9C 3C033F85
+200D4EEC 3C033F85
+
+// Speed Timer Mod: Very Slow Timer
+Author = libretro-database contributors / original PSP cheat authors
+20001000 00000000
+20001000 08804000
+D2000000 00000000
+20001002 000008A0
+C0000000 00001000
+50000000 3C034185
+00000000 3C033E85
+D0000000 00000000
+DC000000 00000004
+C6000000 08801000

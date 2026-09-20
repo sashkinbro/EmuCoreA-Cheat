@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULES-00973
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 600000 Money
+Author = libretro-database contributors / original PSP cheat authors
+203A5810 000927C0
+
+// Infinite Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+20002000 E48C008C
+20002004 0A209829
+20002008 8E0402A4
+2002609C 0A200800
+200260A0 C48C0090
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+203A5810 0098967F

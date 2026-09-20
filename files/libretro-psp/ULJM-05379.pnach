@@ -1,0 +1,230 @@
+# PSP cheat pack
+# Serial: ULJM-05379
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Album ?????
+Author = libretro-database contributors / original PSP cheat authors
+201DD7EC FFFFFFFF
+201DD7F0 FFFFFFFF
+
+// All Equipment
+Author = libretro-database contributors / original PSP cheat authors
+801E102C 01000002
+10006301 00000000
+
+// All Item 96
+Author = libretro-database contributors / original PSP cheat authors
+801E102C 00DC0002
+10006005 00000000
+801E13DC 00100002
+
+// All Valuables 96
+Author = libretro-database contributors / original PSP cheat authors
+801E141C 00060002
+10006005 00000000
+801E139C 00100002
+
+// Clan 1 Atk. Max
+Author = libretro-database contributors / original PSP cheat authors
+801E0D40 00060002
+100003E7 00000000
+801E0D8C 00060002
+
+// Clan 1 Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+201E0D34 3B9AC9FF
+
+// Clan 1 HP Limit Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0D20 0000270F
+
+// Clan 1 MP Limit Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0D2C 0000270F
+
+// Clan 1 Present MP Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0D28 0000270F
+
+// Clan 2 Atk. Max
+Author = libretro-database contributors / original PSP cheat authors
+801E0E08 00060002
+100003E7 00000000
+801E0E54 00060002
+
+// Clan 2 Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+201E0DFC 3B9AC9FF
+
+// Clan 2 HP Limit Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0DE8 0000270F
+
+// Clan 2 MP Limit Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0DF4 0000270F
+
+// Clan 2 Present HP Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0DE4 0000270F
+
+// Clan 2 Present MP Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0DF0 0000270F
+
+// Clan 3 Atk. Max
+Author = libretro-database contributors / original PSP cheat authors
+801E0ED0 00060002
+100003E7 00000000
+801E0F1C 00060002
+
+// Clan 3 Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+201E0EC4 3B9AC9FF
+
+// Clan 3 HP Limit Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0EB0 0000270F
+
+// Clan 3 MP Limit Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0EBC 0000270F
+
+// Clan 3 Present HP Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0EAC 0000270F
+
+// Clan 3 Present MP Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0EB8 0000270F
+
+// Escape Immediately
+Author = libretro-database contributors / original PSP cheat authors
+2005736C AE000010
+
+// Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+201E0ADC 0030037C
+
+// Exp. Max v2
+Author = libretro-database contributors / original PSP cheat authors
+201E0BA4 0030037C
+
+// Exp. Max v3
+Author = libretro-database contributors / original PSP cheat authors
+201E0C6C 0030037C
+
+// Exp. Max v4
+Author = libretro-database contributors / original PSP cheat authors
+201E0D34 0030037C
+
+// Exp. Max v5
+Author = libretro-database contributors / original PSP cheat authors
+201E0DFC 0030037C
+
+// Exp. Max v6
+Author = libretro-database contributors / original PSP cheat authors
+201E0EC4 0030037C
+
+// Hero Atk. Max
+Author = libretro-database contributors / original PSP cheat authors
+801E0AE8 00060002
+100003E7 00000000
+801E0B34 00060002
+101E0D1C 0000270F
+
+// Hero Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+201E0ADC 3B9AC9FF
+
+// Hero HP Limit Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0AC8 0000270F
+
+// Hero MP Limit Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0AD4 0000270F
+
+// Hero Present HP Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0AC4 0000270F
+
+// Hero Present MP Max
+Author = libretro-database contributors / original PSP cheat authors
+101E0AD0 0000270F
+
+// HP 9999/9999
+Author = libretro-database contributors / original PSP cheat authors
+101E0AC4 0000270F
+101E0AC8 0000270F
+
+// HP 9999/9999 v2
+Author = libretro-database contributors / original PSP cheat authors
+101E0B8C 0000270F
+101E0B90 0000270F
+
+// HP 9999/9999 v3
+Author = libretro-database contributors / original PSP cheat authors
+101E0C54 0000270F
+101E0C58 0000270F
+
+// HP 9999/9999 v4
+Author = libretro-database contributors / original PSP cheat authors
+101E0D1C 0000270F
+101E0D20 0000270F
+
+// HP 9999/9999 v5
+Author = libretro-database contributors / original PSP cheat authors
+101E0DE4 0000270F
+101E0DE8 0000270F
+
+// HP 9999/9999 v6
+Author = libretro-database contributors / original PSP cheat authors
+101E0EAC 0000270F
+101E0EB0 0000270F
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+201E0A8C 0098967F
+
+// MP 9999/999
+Author = libretro-database contributors / original PSP cheat authors
+101E0D28 0000270F
+101E0D2C 0000270F
+
+// MP 9999/999 v2
+Author = libretro-database contributors / original PSP cheat authors
+101E0DF0 0000270F
+101E0DF4 0000270F
+
+// MP 9999/999 v3
+Author = libretro-database contributors / original PSP cheat authors
+101E0EB8 0000270F
+101E0EBC 0000270F
+
+// MP 9999/9999 v4
+Author = libretro-database contributors / original PSP cheat authors
+101E0AD0 0000270F
+101E0AD4 0000270F
+
+// MP 9999/9999 v5
+Author = libretro-database contributors / original PSP cheat authors
+101E0B98 0000270F
+101E0B9C 0000270F
+
+// MP 9999/9999 v6
+Author = libretro-database contributors / original PSP cheat authors
+101E0C60 0000270F
+101E0C64 0000270F
+
+// MP Not Dec. DURInG Melee
+Author = libretro-database contributors / original PSP cheat authors
+20080734 AE100000
+
+// No Encount
+Author = libretro-database contributors / original PSP cheat authors
+201E2A54 00000000
+
+// Play Time Zero
+Author = libretro-database contributors / original PSP cheat authors
+201E0A90 00000000

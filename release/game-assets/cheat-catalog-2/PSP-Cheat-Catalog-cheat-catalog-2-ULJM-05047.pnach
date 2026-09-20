@@ -1,0 +1,28 @@
+# PSP cheat pack
+# Serial: ULJM-05047
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Card All 99
+Author = libretro-database contributors / original PSP cheat authors
+4029423C 008B0001
+10101010 00000000
+10294468 00001010
+0029446E 00000010
+40295658 008B0001
+63636363 00000000
+10295884 00006363
+0029588A 00000063
+
+// Clear 255 Time
+Author = libretro-database contributors / original PSP cheat authors
+002901D8 000000FF
+
+// Play Time 000:00:00
+Author = libretro-database contributors / original PSP cheat authors
+10285F4C 00000000
+00285F4E 00000000
+
+// PTS Max
+Author = libretro-database contributors / original PSP cheat authors
+20C9B168 0098967F
+20C9B16C 0098967F

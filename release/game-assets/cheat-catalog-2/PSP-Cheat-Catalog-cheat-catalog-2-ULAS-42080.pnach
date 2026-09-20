@@ -1,0 +1,75 @@
+# PSP cheat pack
+# Serial: ULAS-42080
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AI [Disabled]
+Author = libretro-database contributors / original PSP cheat authors
+20213E30 00000000
+
+// AI [Enabled]
+Author = libretro-database contributors / original PSP cheat authors
+20213E30 00000001
+
+// All Cars Purchased
+Author = libretro-database contributors / original PSP cheat authors
+009735E0 FFFFFFFF
+009735E4 000000FF
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+00978E18 05F5E0FF
+
+// Never Busted
+Author = libretro-database contributors / original PSP cheat authors
+200CD10C 44806800
+
+// One Hit Takedown
+Author = libretro-database contributors / original PSP cheat authors
+2031CEF0 3C05000D
+20201548 E48C0008
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+203E444C 3D488889
+203E4450 3DCCCCCD
+
+// Speed Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+203E444C 3D888889
+203E4450 3DCCCCCD
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+203E444C 3C888889
+203E4450 3DCCCCCD
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+203E444C 3D088889
+203E4450 3DCCCCCD
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+203E444C 3C888889
+203E4450 3CCCCCCD
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+203E444C 3C888889
+203E4450 3ACCCCCD
+
+// Total Lap Mod: 1 Lap
+Author = libretro-database contributors / original PSP cheat authors
+204376A4 00000001
+
+// Total Lap Mod: 2 Laps
+Author = libretro-database contributors / original PSP cheat authors
+204376A4 00000002
+
+// Total Lap Mod: 3 Laps
+Author = libretro-database contributors / original PSP cheat authors
+204376A4 00000003
+
+// Total Lap Mod: 9 Laps
+Author = libretro-database contributors / original PSP cheat authors
+204376A4 00000009

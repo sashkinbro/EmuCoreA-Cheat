@@ -1,0 +1,83 @@
+# PSP cheat pack
+# Serial: ULJM-05411
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All CG Open
+Author = libretro-database contributors / original PSP cheat authors
+80124300 00460001
+00000001 00000000
+
+// Atk.L
+Author = libretro-database contributors / original PSP cheat authors
+00433BCC 00000000
+
+// Atk.R
+Author = libretro-database contributors / original PSP cheat authors
+00433BE0 00000000
+
+// Cpw.
+Author = libretro-database contributors / original PSP cheat authors
+00433B54 00000000
+
+// Currently HP
+Author = libretro-database contributors / original PSP cheat authors
+00433B18 00000000
+
+// Def.
+Author = libretro-database contributors / original PSP cheat authors
+00433BB8 00000000
+
+// Dex.
+Author = libretro-database contributors / original PSP cheat authors
+00433B7C 00000000
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+50433B10 00000002
+00433B24 00000000
+
+// HP Not Dec. v2
+Author = libretro-database contributors / original PSP cheat authors
+50433B0C 00000002
+00433B20 00000000
+
+// HP Not Dec. v3
+Author = libretro-database contributors / original PSP cheat authors
+50433B08 00000002
+00433B1C 00000000
+
+// HP Not Dec. v4
+Author = libretro-database contributors / original PSP cheat authors
+50433B04 00000002
+00433B18 00000000
+
+// Int.
+Author = libretro-database contributors / original PSP cheat authors
+00433BA4 00000000
+
+// Lv. UP
+Author = libretro-database contributors / original PSP cheat authors
+0019CB0C 00000000
+
+// Maximum HP
+Author = libretro-database contributors / original PSP cheat authors
+00433B04 00000000
+
+// Move
+Author = libretro-database contributors / original PSP cheat authors
+00433B2C 00000000
+
+// Point R:100 L:0
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000200
+0019CB0C 00000064
+D0000001 10000100
+0019CB0C 00000000
+
+// Spd.
+Author = libretro-database contributors / original PSP cheat authors
+00433B40 00000000
+
+// Tomoyo Point Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+0019CB10 00000003

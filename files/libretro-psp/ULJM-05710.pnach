@@ -1,0 +1,113 @@
+# PSP cheat pack
+# Serial: ULJM-05710
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 01 All Cat
+Author = libretro-database contributors / original PSP cheat authors
+D032D4B8 50001704
+00000004 00000002
+40001714 00070004
+5032D4B8 00000004
+00001704 00000000
+40001708 00030004
+00001714 00000010
+60001704 00000004
+00100002 00000004
+10000060 00000000
+00100002 00000014
+10000050 00000000
+E0020000 00001744
+50001764 00000004
+00001744 00000000
+D0001744 50001764
+00000002 00000002
+E0030000 00001716
+00100002 00000008
+10000000 00000000
+E00E0000 30001764
+E00D0000 00001774
+D0001764 70001754
+0000000B 00000002
+60001714 00000004
+00100002 00000000
+60001724 00000004
+60001734 40000000
+00020003 0000005C
+90000001 00000000
+30300001 00001754
+30300004 00001714
+
+// Costume All
+Author = libretro-database contributors / original PSP cheat authors
+806C0500 004D0008
+10000001 00000000
+004D0008 806C04F8
+10000132 00000100
+
+// Fishing
+Author = libretro-database contributors / original PSP cheat authors
+106D98DA 000001F4
+
+// Hatake
+Author = libretro-database contributors / original PSP cheat authors
+106D8402 000001F4
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+200E9058 00000000
+
+// Item 99
+Author = libretro-database contributors / original PSP cheat authors
+806BE120 00140010
+00000063 00000000
+806BE270 00020010
+806BE2A0 00040010
+806BE2F0 00020010
+806BE320 00030010
+806BE360 00020010
+806BE390 00080010
+806BE420 00060010
+006BE4A0 00000063
+006BE4E0 00000063
+006BE510 00000063
+006BE530 00000063
+
+// Makiba
+Author = libretro-database contributors / original PSP cheat authors
+106DA27E 000003E8
+
+// Musitori
+Author = libretro-database contributors / original PSP cheat authors
+106DAE7E 000003E8
+
+// PP 999999
+Author = libretro-database contributors / original PSP cheat authors
+206C0AF4 000F423F
+
+// Saikutsu
+Author = libretro-database contributors / original PSP cheat authors
+106D8F36 000003E8
+
+// Saikutu 255
+Author = libretro-database contributors / original PSP cheat authors
+006D8F1E 000000FF
+
+// SP Max
+Author = libretro-database contributors / original PSP cheat authors
+206C286C 000F423F
+
+// Taiyou Time
+Author = libretro-database contributors / original PSP cheat authors
+206E07F4 001B7740
+
+// Taiyou Time [Off]
+Author = libretro-database contributors / original PSP cheat authors
+206E07F4 00000000
+
+// Yaruki
+Author = libretro-database contributors / original PSP cheat authors
+200E8FD0 00000000
+
+// Yaruki [Off]
+Author = libretro-database contributors / original PSP cheat authors
+200E8FD0 00902021

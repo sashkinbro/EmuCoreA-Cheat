@@ -1,0 +1,180 @@
+# PSP cheat pack
+# Serial: ULES-00125
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS v3 [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0030000 000555D0
+200555D0 14A00003
+2024A7FC 3C043F80
+2000F380 14800003
+
+// 60 FPS v3
+Author = libretro-database contributors / original PSP cheat authors
+E0020003 000555D0
+200555D0 00000000
+2024A7FC 3C043F00
+E0010100 10441740
+2000F380 14800003
+E0010100 00441740
+2000F380 16200003
+
+// Car LOD Hack
+Author = libretro-database contributors / original PSP cheat authors
+2004095C 00000000
+
+// 2 Million Crash Points
+Author = libretro-database contributors / original PSP cheat authors
+205F2F68 001E8480
+
+// 2 Million Burnout Points
+Author = libretro-database contributors / original PSP cheat authors
+205F2F64 001E8480
+
+// 20 Takedowns
+Author = libretro-database contributors / original PSP cheat authors
+103727FC 00000014
+1055C418 00000014
+1055C41C 00000014
+1055C478 00000014
+105F39EC 00000014
+
+// 200 Takedowns
+Author = libretro-database contributors / original PSP cheat authors
+103727FC 000000C8
+1055C418 000000C8
+1055C41C 000000C8
+1055C478 000000C8
+105F39EC 000000C8
+
+// 3,000 Total Takedowns
+Author = libretro-database contributors / original PSP cheat authors
+203BFF90 00000BB8
+
+// 999,999,999 Cars Totaled
+Author = libretro-database contributors / original PSP cheat authors
+0055CA38 3B9AC9FF
+
+// 999,999,999 Crash Points
+Author = libretro-database contributors / original PSP cheat authors
+0055CA48 3B9AC9FF
+
+// 999,999,999 Points
+Author = libretro-database contributors / original PSP cheat authors
+0055C3FC 3B9AC9FF
+
+// 999,999,999 Takedowns
+Author = libretro-database contributors / original PSP cheat authors
+0055C418 3B9AC9FF
+
+// Always 00000 In Crash Mode
+Author = libretro-database contributors / original PSP cheat authors
+2055CA48 0007A120
+
+// Always First
+Author = libretro-database contributors / original PSP cheat authors
+00370EE4 00000007
+
+// AI Speed: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20177E4C C60F1444
+
+// AI Speed: Normal (Platinum Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+20178274 C60F1444
+
+// AI Speed: Slow
+Author = libretro-database contributors / original PSP cheat authors
+20177E4C 0A200800
+20002000 3C0808B7
+20002004 8D0826D8
+20002008 11100005
+20002010 3C013F80
+20002014 AE010AB0
+20002020 0A25DF95
+20002024 C60F1444
+
+// AI Speed: Slow (Platinum Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+20178274 0A200800
+20002000 3C0808B7
+20002004 8D0864E8
+20002008 11100005
+20002010 3C013F80
+20002014 AE010AB0
+20002020 0A25E09F
+20002024 C60F1444
+
+// Disable Timer
+Author = libretro-database contributors / original PSP cheat authors
+2024A18C 00000000
+
+// Disable Timer (Platinum Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+2024A834 00000000
+
+// Enable Timer
+Author = libretro-database contributors / original PSP cheat authors
+2024A18C 24A50001
+
+// Enable Timer (Platinum Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+2024A834 24A50001
+
+// Freeze Time
+Author = libretro-database contributors / original PSP cheat authors
+003B3D50 000001E6
+
+// Freeze Time (At 41 Seconds)
+Author = libretro-database contributors / original PSP cheat authors
+203B3D50 00000BB8
+
+// Inf. Nitro
+Author = libretro-database contributors / original PSP cheat authors
+0055C4BC 44340000
+
+// Max Crash Damage
+Author = libretro-database contributors / original PSP cheat authors
+205D23AC 05F5E0FF
+
+// Max Crash Damage (Platinum Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+205E4ABC 05F5E0FF
+
+// Max Overall Burnout Points
+Author = libretro-database contributors / original PSP cheat authors
+205D23A8 05F5E0FF
+
+// Max Overall Burnout Points (Platinum Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+205E4AB8 05F5E0FF
+
+// Max Overall Takedowns
+Author = libretro-database contributors / original PSP cheat authors
+205D2520 05F5E0FF
+
+// Max Overall Takedowns (Platinum Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+205E4C30 05F5E0FF
+
+// No Car Damage
+Author = libretro-database contributors / original PSP cheat authors
+0055C9A4 3F800000
+
+// No Music
+Author = libretro-database contributors / original PSP cheat authors
+00A611CC B339FEDD
+
+// Reset Play Time
+Author = libretro-database contributors / original PSP cheat authors
+205D236C 00000000
+
+// Reset Play Time (Platinum Ver.)
+Author = libretro-database contributors / original PSP cheat authors
+205E4A7C 00000000
+
+// Turbo Bar x4
+Author = libretro-database contributors / original PSP cheat authors
+00372413 00000004
+0055C4B4 00000003
+003723E0 00000004

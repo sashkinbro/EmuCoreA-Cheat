@@ -1,0 +1,38 @@
+# PSP cheat pack
+# Serial: ULJM-05501
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Item 99
+Author = libretro-database contributors / original PSP cheat authors
+8034610A 01780008
+00000063 00000000
+
+// All Weapon
+Author = libretro-database contributors / original PSP cheat authors
+80345708 00440014
+00000000 00000001
+80345709 00440014
+00000011 00000000
+40345710 00440005
+63636363 00000000
+40345714 00440005
+03E76363 00000000
+80345718 0044000A
+00000063 00000000
+
+// Burst Max
+Author = libretro-database contributors / original PSP cheat authors
+10DDF398 0000012C
+
+// Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+10DDF39C 0000FFFF
+
+// FB Max
+Author = libretro-database contributors / original PSP cheat authors
+003453E0 0000012C
+
+// FP Max
+Author = libretro-database contributors / original PSP cheat authors
+103453D4 0000869F
+003453D6 00000001

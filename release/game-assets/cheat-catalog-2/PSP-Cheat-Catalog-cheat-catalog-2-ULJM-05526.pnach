@@ -1,0 +1,47 @@
+# PSP cheat pack
+# Serial: ULJM-05526
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Unlock All Actor's Voice
+Author = libretro-database contributors / original PSP cheat authors
+201A206C 0000FFFF
+201A2081 000000FF
+
+// Unlock All Album
+Author = libretro-database contributors / original PSP cheat authors
+201A206C 0000FFFF
+C0000000 0000001C
+201A20EC 000000FF
+DC000000 00000001
+D2000000 00000000
+
+// Unlock All Album v2
+Author = libretro-database contributors / original PSP cheat authors
+201A206C 0000FFFF
+201A20EC 00000001
+000000FF 00000000
+
+// Unlock All Encyclopaedia
+Author = libretro-database contributors / original PSP cheat authors
+201A206C 0000FFFF
+C0000000 00000018
+201A222C 000000FF
+DC000000 00000001
+D2000000 00000000
+
+// Unlock All Encyclopaedia v2
+Author = libretro-database contributors / original PSP cheat authors
+201A206C 0000FFFF
+201A222C 00000001
+000000FF 00000000
+
+// Unlock All Movies
+Author = libretro-database contributors / original PSP cheat authors
+201A206C 0000FFFF
+201A2074 0000FFFF
+
+// Unlock All Music
+Author = libretro-database contributors / original PSP cheat authors
+201A206C 0000FFFF
+201A207C FFFFFFFF
+201A2080 000000FF

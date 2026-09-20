@@ -1,0 +1,241 @@
+# PSP cheat pack
+# Serial: UCUS-98700
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E0011420 0000921E
+2000921C 1000000E
+
+// 60 FPS [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2000921C 1420000E
+
+// FPS Fix
+Author = libretro-database contributors / original PSP cheat authors
+20009250 00000000
+
+// (M) Must Code
+Author = libretro-database contributors / original PSP cheat authors
+20002010 240F03E7
+20002034 240F270F
+20002048 240F00FF
+20002050 0A21168D
+20002054 96100082
+20045A2C 0A200800
+
+// 250k Money
+Author = libretro-database contributors / original PSP cheat authors
+202BA4EC 0003D090
+
+// 99 Exp. Bartolomeo
+Author = libretro-database contributors / original PSP cheat authors
+002BB3F6 00000063
+
+// 99 Exp. Beatrix
+Author = libretro-database contributors / original PSP cheat authors
+002BBF36 00000063
+
+// 99 Exp. Bertrand
+Author = libretro-database contributors / original PSP cheat authors
+002BAC76 00000063
+
+// 99 Exp. Bonus
+Author = libretro-database contributors / original PSP cheat authors
+002C4CAA 00000006
+
+// 99 Exp. Colet
+Author = libretro-database contributors / original PSP cheat authors
+002BAEF6 00000063
+
+// 99 Exp. Gilles
+Author = libretro-database contributors / original PSP cheat authors
+002BB036 00000063
+
+// 99 Exp. Jean
+Author = libretro-database contributors / original PSP cheat authors
+002BAB36 00000063
+
+// 99 Exp. Jeanne
+Author = libretro-database contributors / original PSP cheat authors
+002BA776 00000063
+
+// 99 Exp. La Hire
+Author = libretro-database contributors / original PSP cheat authors
+002BB2B6 00000063
+
+// 99 Exp. Liane
+Author = libretro-database contributors / original PSP cheat authors
+002BA8B6 00000063
+
+// 99 Exp. Marcel
+Author = libretro-database contributors / original PSP cheat authors
+002BADB6 00000063
+
+// 99 Exp. Richard
+Author = libretro-database contributors / original PSP cheat authors
+002BB676 00000063
+
+// 99 Exp. Roger
+Author = libretro-database contributors / original PSP cheat authors
+002BA9F6 00000063
+
+// 99 Exp. Rose
+Author = libretro-database contributors / original PSP cheat authors
+002BB536 00000063
+
+// 99 Exp. Rufus
+Author = libretro-database contributors / original PSP cheat authors
+002BB176 00000063
+
+// All Items
+Author = libretro-database contributors / original PSP cheat authors
+802C46EE 0AEE0002
+00000063 00000000
+
+// Always 1 Turn
+Author = libretro-database contributors / original PSP cheat authors
+002BA500 0000000B
+
+// Debug Menu
+Author = libretro-database contributors / original PSP cheat authors
+00851918 00000003
+
+// Gold 9999999
+Author = libretro-database contributors / original PSP cheat authors
+202BA4EC 0098967F
+
+// Immortal Charles IV
+Author = libretro-database contributors / original PSP cheat authors
+002BB52E 000000E7
+
+// Inf. HP All Characters
+Author = libretro-database contributors / original PSP cheat authors
+002BA76E 000000E1
+002BC1AE 000000E1
+002BA8AE 000000E1
+002BC2EE 000000E1
+002BA9EE 000000E1
+002BC42E 000000E1
+002BAB2E 000000E1
+002BC56E 000000E1
+002BAC6E 000000E1
+002BC6AE 000000E1
+002BADAE 000000E1
+002BC7EE 000000E1
+002BAEEE 000000E1
+002BC92E 000000E1
+002BB02E 000000E1
+002BB16E 000000E1
+002BB2AE 000000E1
+002BCCEE 000000E1
+
+// Inf. MP All Characters
+Author = libretro-database contributors / original PSP cheat authors
+002BA770 000000E1
+002BC1B0 000000E1
+002BA8B0 000000E1
+002BC2F0 000000E1
+002BA9F0 000000E1
+002BC430 000000E1
+002BAB30 000000E1
+002BC570 000000E1
+002BAC70 000000E1
+002BADB0 000000E1
+002BC7F0 000000E1
+002BAEF0 000000E1
+002BC930 000000E1
+002BB030 000000E1
+002BB170 000000E1
+002BB2B0 000000E1
+002BCCF0 000000E1
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+20002000 960E002A
+20002004 A60E0082
+
+// Infinite MP
+Author = libretro-database contributors / original PSP cheat authors
+20002008 960E002C
+2000200C A60E0084
+
+// Jeanne HP/MP
+Author = libretro-database contributors / original PSP cheat authors
+002BA76E 000000E1
+002BA770 000000E1
+002BC1AE 000000E1
+002BC1B0 000000E1
+
+// Jeanne SP
+Author = libretro-database contributors / original PSP cheat authors
+002BA772 0000000A
+
+// Max Attack
+Author = libretro-database contributors / original PSP cheat authors
+20002038 A60F0030
+
+// Max Defense
+Author = libretro-database contributors / original PSP cheat authors
+2000203C A60F0034
+
+// Max Gold
+Author = libretro-database contributors / original PSP cheat authors
+20002060 3C0208AC
+20002064 3C0605F6
+20002068 0A21DBA0
+2000206C 24C6E0FF
+20076E78 0A200818
+20076E80 AC46A4EC
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+20002014 960E002A
+20002018 11CF0002
+2000201C A60F002A
+20002020 A60F0082
+
+// Max Magic Attack
+Author = libretro-database contributors / original PSP cheat authors
+20002040 A60F0032
+
+// Max Magic Defense
+Author = libretro-database contributors / original PSP cheat authors
+20002044 A60F0036
+
+// Max MP
+Author = libretro-database contributors / original PSP cheat authors
+20002024 960E002C
+20002028 11CF0002
+2000202C A60F002C
+20002030 A60F0084
+
+// Max Walk Moves
+Author = libretro-database contributors / original PSP cheat authors
+2000204C A20F0053
+
+// SP Max All Character
+Author = libretro-database contributors / original PSP cheat authors
+002BA772 0000000A
+002BA8B2 0000000A
+002BA9F2 0000000A
+002BB032 0000000A
+002BB672 0000000A
+
+// Stay Transformed
+Author = libretro-database contributors / original PSP cheat authors
+802BBBF4 00F00140
+00000002 00000000
+
+// Turn Count Increase
+Author = libretro-database contributors / original PSP cheat authors
+20080160 24430001
+
+// Turn Count Increase [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20080160 24430000
+
+// Unlock All Items/Skills
+Author = libretro-database contributors / original PSP cheat authors
+20082E40 A5040000
+20082E44 00851821

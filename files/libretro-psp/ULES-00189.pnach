@@ -1,0 +1,70 @@
+# PSP cheat pack
+# Serial: ULES-00189
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Experience Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+20002000 00108040
+20002004 0A23F27A
+20002008 00502821
+200FC9E0 0A200800
+
+// Experience Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20002000 00108080
+20002004 0A23F27A
+20002008 00502821
+200FC9E0 0A200800
+
+// Experience Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+20002000 001080C0
+20002004 0A23F27A
+20002008 00502821
+200FC9E0 0A200800
+
+// Experience Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+20002000 00108100
+20002004 0A23F27A
+20002008 00502821
+200FC9E0 0A200800
+
+// Infinite Energy
+Author = libretro-database contributors / original PSP cheat authors
+20434D5C E48C0284
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+202549B0 C48C0280
+202549BC E48C0278
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+202549B0 00000280
+202549B4 E4AC0278
+202549BC 24050000
+
+// Unlock All Characters
+Author = libretro-database contributors / original PSP cheat authors
+20606180 FFFFFFFF
+
+// Unlock All Cinematics
+Author = libretro-database contributors / original PSP cheat authors
+2062F624 FFFFFFFF
+
+// Unlock All Comics
+Author = libretro-database contributors / original PSP cheat authors
+2062F630 FFFFFFFF
+
+// Unlock All Concept Art
+Author = libretro-database contributors / original PSP cheat authors
+2062F63C FFFFFFFF
+2062F640 FFFFFFFF
+2062F644 FFFFFFFF
+
+// Unlock All Screens
+Author = libretro-database contributors / original PSP cheat authors
+2062F618 FFFFFFFF
+2062F61C FFFFFFFF
+2062F620 FFFFFFFF

@@ -1,0 +1,40 @@
+# PSP cheat pack
+# Serial: ULJM-05164
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Sozai Item x99
+Author = libretro-database contributors / original PSP cheat authors
+80639760 002E0001
+00000063 00000000
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+206397A0 0098967F
+
+// PC Job Arts S1
+Author = libretro-database contributors / original PSP cheat authors
+106397E0 0000FDE7
+
+// PC Weapon Arts S
+Author = libretro-database contributors / original PSP cheat authors
+406397A8 000E0001
+FFFFFFFF 00000000
+
+// Point 255
+Author = libretro-database contributors / original PSP cheat authors
+006397F8 000000FF
+
+// Sonobade Lv. Up
+Author = libretro-database contributors / original PSP cheat authors
+80639761 00700001
+00000063 00000000
+
+// Status Max
+Author = libretro-database contributors / original PSP cheat authors
+006394E8 000000FF
+006394ED 000000FF
+006394F2 000000FF
+006394FC 000000FF
+00639501 000000FF
+00639506 000000FF
+0063950B 000000FF

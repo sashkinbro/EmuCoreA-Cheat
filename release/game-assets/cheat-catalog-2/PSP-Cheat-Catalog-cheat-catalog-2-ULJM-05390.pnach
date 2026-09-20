@@ -1,0 +1,56 @@
+# PSP cheat pack
+# Serial: ULJM-05390
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+20043BB0 1000008A
+200406F4 1000001E
+
+// 9 Bombs Left
+Author = libretro-database contributors / original PSP cheat authors
+001E24A7 00000009
+
+// 9 Players Left
+Author = libretro-database contributors / original PSP cheat authors
+001E24A6 0000000A
+
+// Always Use Bombs
+Author = libretro-database contributors / original PSP cheat authors
+2003A18C 00000000
+2003AA3C 00000000
+
+// Background Chenge [Sel+L/Sel+R]
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000101
+001E2488 00000000
+D0000000 10000201
+001E2488 00000001
+
+// Bomb Strength
+Author = libretro-database contributors / original PSP cheat authors
+001E24A8 000000FF
+
+// Hit Enemies Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+2004433C 10000018
+2004442C 10000022
+200406D8 00000000
+200406E4 00000000
+
+// Muteki
+Author = libretro-database contributors / original PSP cheat authors
+0085646C 00000056
+
+// Power Always Full
+Author = libretro-database contributors / original PSP cheat authors
+101E24AA 00000258
+
+// Score
+Author = libretro-database contributors / original PSP cheat authors
+801E24B0 00060001
+00000010 00000000
+
+// Untouchable
+Author = libretro-database contributors / original PSP cheat authors
+200346D8 03E00008

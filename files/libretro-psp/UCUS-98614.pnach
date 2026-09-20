@@ -1,0 +1,66 @@
+# PSP cheat pack
+# Serial: UCUS-98614
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 15 Super Shots
+Author = libretro-database contributors / original PSP cheat authors
+00495FBC 0000000F
+
+// Always 1st Shot
+Author = libretro-database contributors / original PSP cheat authors
+00496044 00000001
+00496094 00000001
+004960E4 00000001
+00496134 00000001
+00496184 00000001
+004961D4 00000001
+00496224 00000001
+00496274 00000001
+004962C4 00000001
+00496314 00000001
+00496364 00000001
+004963B4 00000001
+00496404 00000001
+00496454 00000001
+004964A4 00000001
+00496544 00000001
+
+// Ball Goes In From Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+20074F60 0E200E50
+20003940 3C0408C9
+20003944 908443C2
+20003948 30840001
+2000394C 10040003
+20003954 AE220BD0
+20003958 4480A000
+2000395C 03E00008
+20003960 8E230BD0
+
+// Infinite Power Shots
+Author = libretro-database contributors / original PSP cheat authors
+20495FBC 00006363
+
+// Max P.P.
+Author = libretro-database contributors / original PSP cheat authors
+20496010 0000270F
+
+// Max Points (Stroke Play)
+Author = libretro-database contributors / original PSP cheat authors
+20495F5C 0000270F
+
+// Max Points Per Hole
+Author = libretro-database contributors / original PSP cheat authors
+20496060 00000063
+204960B0 00000063
+20496100 00000063
+20496150 00000063
+204961A0 00000063
+204961F0 00000063
+20496240 00000063
+20496290 00000063
+204962E0 00000063
+
+// Putting Game 999
+Author = libretro-database contributors / original PSP cheat authors
+00496011 00000009

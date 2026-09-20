@@ -1,0 +1,160 @@
+# PSP cheat pack
+# Serial: ULJM-05434
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Ability Other Than Attributes
+Author = libretro-database contributors / original PSP cheat authors
+8050A746 00080001
+000000FF 00000000
+
+// AP Inf.
+Author = libretro-database contributors / original PSP cheat authors
+1050A750 00002062
+
+// Box Item All
+Author = libretro-database contributors / original PSP cheat authors
+8051DBC8 00A5000C
+10000000 00000001
+8051EB40 0164000C
+100000AB 00000001
+80520CA0 0012000C
+10000210 00000001
+
+// Building Materials
+Author = libretro-database contributors / original PSP cheat authors
+4050B0DC 00060001
+03E703E7 00000000
+
+// Infinite + Road 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B0E2 00000064
+
+// Infinite 1D Room 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B0E4 00000064
+
+// Infinite 2D Room 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B0E6 00000064
+
+// Infinite 4D Room 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B0EA 00000064
+
+// Infinite Corner Room 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B0E8 00000064
+
+// Infinite Fruit Tree Kit 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B11A 00000064
+
+// Infinite Gil
+Author = libretro-database contributors / original PSP cheat authors
+2050B368 05F5E0FF
+20548DE8 05F5E0FF
+
+// Infinite Guest Room Kit 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B108 00000064
+
+// Infinite I Road 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B0DC 00000064
+
+// Infinite L Road 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B0DE 00000064
+
+// Infinite Stairst Kit 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B13A 00000064
+
+// Infinite Sun Room Kit 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B130 00000064
+
+// Infinite T Road 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B0E0 00000064
+
+// Infinite Water Drinking Field Kit 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B106 00000064
+
+// Infinite Wood Road Kit 1x1
+Author = libretro-database contributors / original PSP cheat authors
+0050B0F6 00000064
+
+// Kenzai
+Author = libretro-database contributors / original PSP cheat authors
+8050B0DC 00450001
+100003E7 00000000
+
+// Kenzai 99
+Author = libretro-database contributors / original PSP cheat authors
+80518A0C 00450001
+00000063 00000000
+
+// Magic All
+Author = libretro-database contributors / original PSP cheat authors
+1050A6E2 0000FFFF
+0050A6E4 0000000F
+
+// Max MP
+Author = libretro-database contributors / original PSP cheat authors
+1050A740 0000FFFF
+
+// Max HP v2
+Author = libretro-database contributors / original PSP cheat authors
+5050A734 00000004
+00524F40 00000000
+
+// Max MP
+Author = libretro-database contributors / original PSP cheat authors
+5050A738 00000004
+00524F44 00000000
+
+// Money 99999990G
+Author = libretro-database contributors / original PSP cheat authors
+2050B368 05F5E0F6
+20548DE8 05F5E0F6
+
+// Monster List
+Author = libretro-database contributors / original PSP cheat authors
+4052214C 01040004
+FFFFFF00 00000000
+40522150 01040004
+8000081F 00000000
+
+// Netsuke Kyouka
+Author = libretro-database contributors / original PSP cheat authors
+8050B16C 00500001
+100003E6 00000000
+
+// Skill All
+Author = libretro-database contributors / original PSP cheat authors
+4050A6D4 00030001
+FFFFFFFF 00000000
+1050A6E0 0000FFFF
+
+// Syokuzai
+Author = libretro-database contributors / original PSP cheat authors
+8050B274 00490001
+100003E6 00000000
+
+// Weapon Exp.
+Author = libretro-database contributors / original PSP cheat authors
+4050A754 00040004
+0000270F 00000000
+
+// Weapon List
+Author = libretro-database contributors / original PSP cheat authors
+805220D0 00200001
+1000FFFF 00000000
+10522110 00007FFF
+
+// Weapon Lv.
+Author = libretro-database contributors / original PSP cheat authors
+8050A774 00040001
+00000014 00000000

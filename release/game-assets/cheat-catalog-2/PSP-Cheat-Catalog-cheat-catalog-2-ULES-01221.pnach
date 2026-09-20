@@ -1,0 +1,284 @@
+# PSP cheat pack
+# Serial: ULES-01221
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 255 Dash & Jump Count
+Author = libretro-database contributors / original PSP cheat authors
+813095E0 00020002
+000000FF 00000000
+
+// 1000 Combo
+Author = libretro-database contributors / original PSP cheat authors
+004F5EA4 000003E8
+
+// 9999999 Money
+Author = libretro-database contributors / original PSP cheat authors
+21339820 0098967F
+
+// All City Upgrade Lvl. 5
+Author = libretro-database contributors / original PSP cheat authors
+813398B0 00060001
+00000005 00000000
+
+// Always Have Item Effect Up
+Author = libretro-database contributors / original PSP cheat authors
+8130812E 000F0001
+000000FF 00000000
+
+// Experience Multiplier (x2)
+Author = libretro-database contributors / original PSP cheat authors
+201BDA68 0A200400
+20001000 8FA20034
+20001004 00021040
+20001008 AFA20034
+2000100C 0A26F69B
+
+// Experience Multiplier (x4)
+Author = libretro-database contributors / original PSP cheat authors
+201BDA68 0A200400
+20001000 8FA20034
+20001004 00021080
+20001008 AFA20034
+2000100C 0A26F69B
+
+// Experience Multiplier (x8)
+Author = libretro-database contributors / original PSP cheat authors
+201BDA68 0A200400
+20001000 8FA20034
+20001004 000210C0
+20001008 AFA20034
+2000100C 0A26F69B
+
+// Experience Multiplier (x16)
+Author = libretro-database contributors / original PSP cheat authors
+201BDA68 0A200400
+20001000 8FA20034
+20001004 00021100
+20001008 AFA20034
+2000100C 0A26F69B
+
+// Experience Multiplier (x32)
+Author = libretro-database contributors / original PSP cheat authors
+201BDA68 0A200400
+20001000 8FA20034
+20001004 00021140
+20001008 AFA20034
+2000100C 0A26F69B
+
+// Experience Multiplier (x64)
+Author = libretro-database contributors / original PSP cheat authors
+201BDA68 0A200400
+20001000 8FA20034
+20001004 00021180
+20001008 AFA20034
+2000100C 0A26F69B
+
+// Experience Multiplier (x128)
+Author = libretro-database contributors / original PSP cheat authors
+201BDA68 0A200400
+20001000 8FA20034
+20001004 000211C0
+20001008 AFA20034
+2000100C 0A26F69B
+
+// Have 99 Materials
+Author = libretro-database contributors / original PSP cheat authors
+81338FDC 00C80001
+00000063 00000000
+813390A4 00C80001
+00000001 00000000
+8133916C 00C80001
+00000000 00000001
+
+// Inf. Dash & Jump
+Author = libretro-database contributors / original PSP cheat authors
+813095E1 00020002
+
+// Inf. Fury
+Author = libretro-database contributors / original PSP cheat authors
+213095D0 000003E8
+
+// Inf. Fury v2
+Author = libretro-database contributors / original PSP cheat authors
+213095D0 02B402B4
+
+// Inf. Gold
+Author = libretro-database contributors / original PSP cheat authors
+21339820 0098967F
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+113095CA 000003E8
+
+// Inf. Health v2
+Author = libretro-database contributors / original PSP cheat authors
+213095C8 02BD02BD
+
+// Inf. Health v3
+Author = libretro-database contributors / original PSP cheat authors
+213095C8 02BD02BD
+
+// Inf. Held Items
+Author = libretro-database contributors / original PSP cheat authors
+21363044 14120800
+21363048 6363631B
+2136304C 00006363
+
+// Inf. Held Items v2
+Author = libretro-database contributors / original PSP cheat authors
+01363049 0000000A
+2136304A 0A0A0A0A
+
+// Inf. Storage Item's & Material's
+Author = libretro-database contributors / original PSP cheat authors
+21338FDC 63636363
+21338FE0 63636363
+21338FE4 63636363
+21338FE8 63636363
+21338FEC 63636363
+21338FF0 63636363
+21338FF4 63636363
+21338FF8 63636363
+
+// Infinite Gold
+Author = libretro-database contributors / original PSP cheat authors
+21339820 000F423F
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+DA000000 09B095CA
+D7000000 09B095C8
+
+// Infinite Musou
+Author = libretro-database contributors / original PSP cheat authors
+DA000000 09B095CE
+D7000000 09B095D0
+
+// Massive Jumps
+Author = libretro-database contributors / original PSP cheat authors
+213095DA 00000180
+
+// Max Musou (Press Select)
+Author = libretro-database contributors / original PSP cheat authors
+2108401C FFFE0001
+DA000000 09B095CE
+D7000000 09B095D0
+D2000000 00000000
+
+// Max Points
+Author = libretro-database contributors / original PSP cheat authors
+11363056 0000C23F
+
+// Mission Timer: Freeze
+Author = libretro-database contributors / original PSP cheat authors
+2035F738 00000000
+
+// Mission Timer: Restart
+Author = libretro-database contributors / original PSP cheat authors
+2035F738 00000001
+
+// Name Imposters: Blank
+Author = libretro-database contributors / original PSP cheat authors
+2133F8C0 20202020
+2133F8C4 20202020
+2133F8C8 20202020
+2133F8CC 20202020
+
+// Quick Exp. Gain 100 XP Per Mission
+Author = libretro-database contributors / original PSP cheat authors
+201BDA68 0A200400
+20001000 8FA20034
+20001004 24020064
+20001008 AFA20034
+2000100C 0A26F69B
+
+// Quick Exp. Gain 500 XP Per Mission
+Author = libretro-database contributors / original PSP cheat authors
+201BDA68 0A200400
+20001000 8FA20034
+20001004 240201F4
+20001008 AFA20034
+2000100C 0A26F69B
+
+// Quick Exp. Gain 1000 XP Per Mission
+Author = libretro-database contributors / original PSP cheat authors
+201BDA68 0A200400
+20001000 8FA20034
+20001004 240203E8
+20001008 AFA20034
+2000100C 0A26F69B
+
+// Quick Exp. Gain 10000 XP Per Mission
+Author = libretro-database contributors / original PSP cheat authors
+201BDA68 0A200400
+20001000 8FA20034
+20001004 24022710
+20001008 AFA20034
+2000100C 0A26F69B
+
+// Run Speed Mod: Fast
+Author = libretro-database contributors / original PSP cheat authors
+213095DC 000000C0
+
+// Run Speed Mod: Super Fast
+Author = libretro-database contributors / original PSP cheat authors
+213095DC 00000100
+
+// Size Mod: 2D
+Author = libretro-database contributors / original PSP cheat authors
+21309668 30000000
+2130966C 3F800000
+21309670 3F800000
+
+// Size Mod: Big
+Author = libretro-database contributors / original PSP cheat authors
+21309668 3FC00000
+2130966C 3FC00000
+21309670 3FC00000
+
+// Size Mod: Massive
+Author = libretro-database contributors / original PSP cheat authors
+21309668 40000000
+2130966C 40000000
+21309670 40000000
+
+// Size Mod: Mini
+Author = libretro-database contributors / original PSP cheat authors
+21309668 3F000000
+2130966C 3F000000
+21309670 3F000000
+
+// Size Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+21309668 3F800000
+2130966C 3F800000
+21309670 3F800000
+
+// Stat Max
+Author = libretro-database contributors / original PSP cheat authors
+11362EC0 000003E8
+11362EC2 000003E8
+11362EC4 000003E8
+11362EC6 000003E8
+11362EC8 000003E8
+11362ECA 000003E8
+
+// Unlock Storage Item's & Material's
+Author = libretro-database contributors / original PSP cheat authors
+21338E4C 04030201
+21338E50 0B090705
+21338E54 0D0C0A00
+21338E58 0012100E
+21338E5C 17141208
+21338E60 1B1A1918
+21338E64 2E2B2825
+21338E68 FFFF433A
+
+// Weapon Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+11362EB4 000003E8
+11362EB6 000003E8
+11362EB8 000003E8
+11362EBA 000003E8
+11362EBC 000003E8
+11362EBE 000003E8

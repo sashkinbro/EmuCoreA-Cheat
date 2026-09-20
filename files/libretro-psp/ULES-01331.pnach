@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: ULES-01331
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 52 Attribute Points
+Author = libretro-database contributors / original PSP cheat authors
+00762C04 00000034
+
+// 99 Attribute Points
+Author = libretro-database contributors / original PSP cheat authors
+00762C04 00000063
+
+// Flashing Ball
+Author = libretro-database contributors / original PSP cheat authors
+207476F0 422C45C2
+20761C74 43D51360
+
+// Powerful Shot
+Author = libretro-database contributors / original PSP cheat authors
+20780604 43D51360
+20780608 454F9A72
+2078060C 447B2507
+20780610 453035D1

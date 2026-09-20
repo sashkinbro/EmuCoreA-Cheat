@@ -1,0 +1,270 @@
+# PSP cheat pack
+# Serial: ULJM-05245
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// After Battle, Recover HP
+Author = libretro-database contributors / original PSP cheat authors
+2013683C 9603001A
+20136844 9603001C
+
+// Always Drop Item
+Author = libretro-database contributors / original PSP cheat authors
+20111F30 1000001F
+
+// Always Encounter
+Author = libretro-database contributors / original PSP cheat authors
+20092B70 53E0003E
+
+// Evasion Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+013971CA 00000063
+013971CB 0000000F
+01397248 00000063
+01397249 0000000F
+013972C6 00000063
+013972C7 0000000F
+01397344 00000063
+01397345 0000000F
+
+// Frioniel Magic No.16 Lv.16
+Author = libretro-database contributors / original PSP cheat authors
+013971C9 00000010
+
+// Full Bestiary
+Author = libretro-database contributors / original PSP cheat authors
+813976E0 00AB0001
+10008001 00000000
+
+// Have All Items
+Author = libretro-database contributors / original PSP cheat authors
+81397358 001F0001
+00000010 00000001
+81397377 009D0001
+00000032 00000001
+81397427 00BC0001
+00000050 00000000
+
+// HP Max Firion
+Author = libretro-database contributors / original PSP cheat authors
+11397164 0000270F
+
+// HP Max Guy
+Author = libretro-database contributors / original PSP cheat authors
+11397260 0000270F
+
+// HP Max Leon
+Author = libretro-database contributors / original PSP cheat authors
+113972DE 0000270F
+
+// HP Max Maria
+Author = libretro-database contributors / original PSP cheat authors
+113971E2 0000270F
+
+// HP Now Firion
+Author = libretro-database contributors / original PSP cheat authors
+11397162 0000270F
+
+// HP Now Guy
+Author = libretro-database contributors / original PSP cheat authors
+1139725E 0000270F
+
+// HP Now Leon
+Author = libretro-database contributors / original PSP cheat authors
+113972DC 0000270F
+
+// HP Now Maria
+Author = libretro-database contributors / original PSP cheat authors
+113971E0 0000270F
+
+// Item 1st 99
+Author = libretro-database contributors / original PSP cheat authors
+01397427 00000063
+
+// Magic Def. Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+013971CC 00000063
+013971CD 0000000F
+0139724A 00000063
+0139724B 0000000F
+013972C8 00000063
+013972C9 0000000F
+01397346 00000063
+01397347 0000000F
+
+// Max All Weapon & Magic Levels
+Author = libretro-database contributors / original PSP cheat authors
+81397315 00180002
+00000010 00000000
+
+// Max All Weapon & Magic Levels v2
+Author = libretro-database contributors / original PSP cheat authors
+81397297 00180002
+00000010 00000000
+
+// Max All Weapon & Magic Levels v3
+Author = libretro-database contributors / original PSP cheat authors
+8139719B 00180002
+00000010 00000000
+
+// Max All Weapon & Magic Levels v4
+Author = libretro-database contributors / original PSP cheat authors
+81397219 00180002
+00000010 00000000
+
+// Max All Weapon & Magic Levels v5
+Author = libretro-database contributors / original PSP cheat authors
+8139719B 00000010
+
+// Max All Weapon & Magic Levels v6
+Author = libretro-database contributors / original PSP cheat authors
+8139719B 00180002
+00000010 00000000
+
+// Max Gil
+Author = libretro-database contributors / original PSP cheat authors
+2139734C 0098967F
+
+// Max Number Of Steps
+Author = libretro-database contributors / original PSP cheat authors
+21397348 0098967F
+
+// Max Status Firion
+Author = libretro-database contributors / original PSP cheat authors
+8139716A 00030001
+10006363 00000000
+
+// Max Status Guy
+Author = libretro-database contributors / original PSP cheat authors
+81397266 00030001
+10006363 00000000
+
+// Max Status Leon
+Author = libretro-database contributors / original PSP cheat authors
+813972E4 00030001
+10006363 00000000
+
+// Max Status Maria
+Author = libretro-database contributors / original PSP cheat authors
+813971E8 00030001
+10006363 00000000
+
+// Monster Picture Book All
+Author = libretro-database contributors / original PSP cheat authors
+413976E0 00550001
+03E703E7 00000000
+11397834 000003E7
+
+// MP Max Firion
+Author = libretro-database contributors / original PSP cheat authors
+11397168 000003E7
+
+// MP Max Guy
+Author = libretro-database contributors / original PSP cheat authors
+11397264 000003E7
+
+// MP Max Leon
+Author = libretro-database contributors / original PSP cheat authors
+113972E2 000003E7
+
+// MP Max Maria
+Author = libretro-database contributors / original PSP cheat authors
+113971E6 000003E7
+
+// MP Now Firion
+Author = libretro-database contributors / original PSP cheat authors
+11397166 000003E7
+
+// MP Now Guy
+Author = libretro-database contributors / original PSP cheat authors
+11397262 000003E7
+
+// MP Now Leon
+Author = libretro-database contributors / original PSP cheat authors
+113972E0 000003E7
+
+// MP Now Maria
+Author = libretro-database contributors / original PSP cheat authors
+113971E4 000003E7
+
+// Music Player
+Author = libretro-database contributors / original PSP cheat authors
+013D0D8B 00000002
+013D0D94 00000002
+
+// No Encounters
+Author = libretro-database contributors / original PSP cheat authors
+20092B70 5000003E
+
+// No Encounters v2
+Author = libretro-database contributors / original PSP cheat authors
+20092B70 5000003E
+D0000000 10000300
+20092B70 00000000
+
+// Normal Encounter Rate
+Author = libretro-database contributors / original PSP cheat authors
+20092B70 5020003E
+
+// Th All Status 1 Max
+Author = libretro-database contributors / original PSP cheat authors
+11397162 0000270F
+11397164 0000270F
+11397166 000003E7
+11397168 000003E7
+0139716A 00000063
+0139716B 00000063
+0139716C 00000063
+0139716D 00000063
+0139716E 00000063
+0139716F 00000063
+8139719A 00080001
+10001000 00000000
+813971AA 00100001
+
+// Th All Status 2 Max
+Author = libretro-database contributors / original PSP cheat authors
+113971E0 0000270F
+113971E2 0000270F
+113971E4 000003E7
+113971E6 000003E7
+013971E8 00000063
+013971E9 00000063
+013971EA 00000063
+013971EB 00000063
+013971EC 00000063
+013971ED 00000063
+81397218 00080001
+10001000 00000000
+81397228 00100001
+
+// Th All Status 3 Max
+Author = libretro-database contributors / original PSP cheat authors
+1139725E 0000270F
+11397260 0000270F
+11397262 000003E7
+11397264 000003E7
+01397266 00000063
+01397267 00000063
+01397268 00000063
+01397269 00000063
+0139726A 00000063
+0139726B 00000063
+81397296 00080001
+10001000 00000000
+813972A6 00100001
+
+// Th All Status 4 Max
+Author = libretro-database contributors / original PSP cheat authors
+113972DC 0000270F
+113972DE 0000270F
+113972E0 000003E7
+113972E2 000003E7
+013972E4 00000063
+013972E5 00000063
+013972E6 00000063
+013972E7 00000063
+013972E8 00000063
+013972E9 00000063
+81397314 00080001
+10001000 00000000
+81397324 00100001

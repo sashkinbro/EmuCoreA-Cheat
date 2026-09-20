@@ -1,0 +1,117 @@
+# PSP cheat pack
+# Serial: ULES-00977
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Can Play Locked Episodes
+Author = libretro-database contributors / original PSP cheat authors
+202510D8 24060000
+
+// Disable Timer
+Author = libretro-database contributors / original PSP cheat authors
+2008DD7C 00000000
+
+// Enable Timer
+Author = libretro-database contributors / original PSP cheat authors
+2008DD7C E4A00024
+
+// Fly Anywhere (Use Camera To Go Up/Down)
+Author = libretro-database contributors / original PSP cheat authors
+2040475D 00000001
+
+// Fly Anywhere [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2040475D 00000000
+
+// Fly Camera
+Author = libretro-database contributors / original PSP cheat authors
+2040475A 00000001
+
+// Fly Camera [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2040475A 00000000
+
+// Fly Without Collision
+Author = libretro-database contributors / original PSP cheat authors
+2040475C 00000001
+
+// Fly Without Collision [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2040475C 00000000
+
+// Full Power
+Author = libretro-database contributors / original PSP cheat authors
+20404930 00000001
+
+// Immune To Damage
+Author = libretro-database contributors / original PSP cheat authors
+20404931 00000001
+
+// Immune To Damage [Off]
+Author = libretro-database contributors / original PSP cheat authors
+20404931 00000000
+
+// Infinite Double Jumps
+Author = libretro-database contributors / original PSP cheat authors
+200C5B78 00000000
+
+// Infinite Double Jumps [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200C5B78 A06C7471
+
+// Infinite Helium Homer Power
+Author = libretro-database contributors / original PSP cheat authors
+201CCD20 00000000
+201CC8DC 00000000
+
+// Infinite Homer Ball Power
+Author = libretro-database contributors / original PSP cheat authors
+201CB068 00000000
+
+// Infinite Slingshot Ammo
+Author = libretro-database contributors / original PSP cheat authors
+201BD8CC 00000000
+
+// Instant Health Recharge
+Author = libretro-database contributors / original PSP cheat authors
+202D9740 00000000
+
+// Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+200C6590 0E238C29
+200C650C 0E238C29
+200C63FC 0E238C29
+200C5ED4 0E238C29
+202E4CE0 00FFFF00
+200C6590 44800000
+200C650C 44800000
+200C63FC 44800000
+200C5ED4 44800000
+D2000000 00000000
+
+// Speed Mod: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+202E480C 3FC00000
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+202E480C 40000000
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+202E480C 3F800000
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+202E480C 3FA00000
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+202E480C 3F000000
+
+// Unlock All Movies
+Author = libretro-database contributors / original PSP cheat authors
+20405BF4 00000001
+
+// Unlock All Cliches
+Author = libretro-database contributors / original PSP cheat authors
+20405BF5 00000001

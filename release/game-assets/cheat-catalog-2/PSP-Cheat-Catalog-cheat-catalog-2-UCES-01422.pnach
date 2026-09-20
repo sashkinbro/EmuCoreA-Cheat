@@ -1,0 +1,28 @@
+# PSP cheat pack
+# Serial: UCES-01422
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Items
+Author = libretro-database contributors / original PSP cheat authors
+40539A0C 00120001
+00010101 00000000
+40539A74 00080001
+0001015A 00000000
+40539A98 00100001
+40539AD8 00060001
+40539B48 000A0001
+40539B74 00110001
+40539BC0 00090001
+40539BE8 00080001
+40539C10 00080001
+40539C38 00080001
+40539C60 00080001
+40539C88 00090001
+20539CC4 0001015A
+20539CE8 0001015A
+20539CEC 0001015A
+20539CF0 0001015A
+
+// Infinite Ka-Ching
+Author = libretro-database contributors / original PSP cheat authors
+20539E0C 0001869F

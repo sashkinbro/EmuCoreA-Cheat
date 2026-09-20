@@ -1,0 +1,95 @@
+# PSP cheat pack
+# Serial: ULES-00277
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Amulett
+Author = libretro-database contributors / original PSP cheat authors
+008CC1E0 00000063
+
+// Carry More Than 15 Items
+Author = libretro-database contributors / original PSP cheat authors
+008CC17C 00000000
+
+// Grenades
+Author = libretro-database contributors / original PSP cheat authors
+008CC1C8 00000063
+
+// Inf. Clothes
+Author = libretro-database contributors / original PSP cheat authors
+008CC1A4 00000063
+
+// Inf. Colored Rice
+Author = libretro-database contributors / original PSP cheat authors
+008CC194 00000063
+
+// Inf. Exploding Star
+Author = libretro-database contributors / original PSP cheat authors
+008CC1D8 00000063
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+006FE496 000000C8
+
+// Inf. Health Drinks
+Author = libretro-database contributors / original PSP cheat authors
+008CC18C 00000063
+
+// Inf. Kunai
+Author = libretro-database contributors / original PSP cheat authors
+008CC190 00000063
+
+// Inf. Mine
+Author = libretro-database contributors / original PSP cheat authors
+008CC1D4 00000063
+
+// Inf. Other Health Drink
+Author = libretro-database contributors / original PSP cheat authors
+008CC194 00000063
+
+// Inf. Pipe
+Author = libretro-database contributors / original PSP cheat authors
+008CC1A8 00000063
+
+// Inf. Poisened Rice
+Author = libretro-database contributors / original PSP cheat authors
+008CC19C 00000063
+
+// Inf. Revive
+Author = libretro-database contributors / original PSP cheat authors
+008CC1D0 00000063
+
+// Inf. Super Kunai
+Author = libretro-database contributors / original PSP cheat authors
+008CC1A0 00000063
+
+// Poisen Pipe
+Author = libretro-database contributors / original PSP cheat authors
+008CC1DC 00000063
+
+// Power
+Author = libretro-database contributors / original PSP cheat authors
+008CC1CC 00000063
+
+// Slot1 99
+Author = libretro-database contributors / original PSP cheat authors
+008CC168 00000063
+
+// Slot2 99
+Author = libretro-database contributors / original PSP cheat authors
+008CC16C 00000063
+
+// Slot3 99
+Author = libretro-database contributors / original PSP cheat authors
+008CC170 00000063
+
+// Slot4 99
+Author = libretro-database contributors / original PSP cheat authors
+008CC174 00000063
+
+// Slot5 99
+Author = libretro-database contributors / original PSP cheat authors
+008CC178 00000063
+
+// Smoke Grenade
+Author = libretro-database contributors / original PSP cheat authors
+008CC1C4 00000063

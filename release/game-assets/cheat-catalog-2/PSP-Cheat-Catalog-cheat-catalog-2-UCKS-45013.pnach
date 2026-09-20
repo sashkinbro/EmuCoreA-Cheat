@@ -1,0 +1,23 @@
+# PSP cheat pack
+# Serial: UCKS-45013
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AI Disabled
+Author = libretro-database contributors / original PSP cheat authors
+2006D720 24A50148
+
+// AI Enabled
+Author = libretro-database contributors / original PSP cheat authors
+2006D720 24A50140
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 AE6400E8
+20002004 0A232889
+20002008 0004202A
+200CA21C 0A200800
+200CA220 240401F4
+
+// Infinite Missiles
+Author = libretro-database contributors / original PSP cheat authors
+200BBB50 00000000

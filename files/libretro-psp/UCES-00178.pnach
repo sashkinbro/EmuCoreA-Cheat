@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: UCES-00178
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 2 Billion In The Bank
+Author = libretro-database contributors / original PSP cheat authors
+2147A6F8 7FFFFFFD
+
+// Inf. (60K) Steel Orb
+Author = libretro-database contributors / original PSP cheat authors
+207C3628 0000EA5F
+
+// Inf. (90K) Mony Outside
+Author = libretro-database contributors / original PSP cheat authors
+207C3620 00015F90
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+207C3B20 00015F90

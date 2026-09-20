@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULES-00248
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Condition Away Team [Press R]
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000200
+408F9004 0016006D
+C2C80000 00000000
+408FB214 0016006D
+461C4000 00000000
+
+// Max Condition Home Team [Press L]
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000100
+408F9004 0016006D
+461C4000 00000000
+408FB214 0016006D
+C2C80000 00000000

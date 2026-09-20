@@ -1,0 +1,114 @@
+# PSP cheat pack
+# Serial: UCUS-98696
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 0 Balls
+Author = libretro-database contributors / original PSP cheat authors
+0021D644 00000000
+
+// 0 Outs
+Author = libretro-database contributors / original PSP cheat authors
+0021D648 00000000
+
+// 0 Outs In Home Run Durby
+Author = libretro-database contributors / original PSP cheat authors
+01519B20 00000000
+01276E5C 00000000
+01259920 00000000
+00262C2C 00000000
+
+// 0 Strikes
+Author = libretro-database contributors / original PSP cheat authors
+0021D64C 00000000
+0023C884 00000000
+00DCB914 00000000
+00DCB91C 00000000
+01356924 00000000
+0135694C 00000000
+0139D510 00000000
+015FBF3C 00000000
+015FBF64 00000000
+
+// 2 Strikes Thrown
+Author = libretro-database contributors / original PSP cheat authors
+0021D64C 00000002
+
+// 200 Home Runs In Home Run Durby
+Author = libretro-database contributors / original PSP cheat authors
+01276E4C 000000C8
+
+// 255 Training Points WORKS!!
+Author = libretro-database contributors / original PSP cheat authors
+01796B90 3B9AC9FF
+
+// 9999 Training Point
+Author = libretro-database contributors / original PSP cheat authors
+1179AB90 0000270F
+
+// 50000 Training Points
+Author = libretro-database contributors / original PSP cheat authors
+2179AB90 0000C350
+
+// Always Throw The Ball At 999 Mph.
+Author = libretro-database contributors / original PSP cheat authors
+0135BB94 000003E7
+
+// Balls Go Higher
+Author = libretro-database contributors / original PSP cheat authors
+00AEA1D4 FDE0780E
+00BE25A0 F93FFE93
+
+// Fouls Are Home Runs
+Author = libretro-database contributors / original PSP cheat authors
+01295A4C 454D4F48
+01295A50 004E5552
+
+// Inf. Energy Pitcher Away
+Author = libretro-database contributors / original PSP cheat authors
+000F6260 000000FF
+
+// Inf. Energy Pitcher Home
+Author = libretro-database contributors / original PSP cheat authors
+000F7200 000000FF
+
+// Other Team Has No Chance Of Winning
+Author = libretro-database contributors / original PSP cheat authors
+0021D64C 00000002
+0021D648 00000001
+0023C884 00000002
+00DCB914 00000002
+00DCB91C 00000002
+01356924 00000002
+0135694C 00000002
+0139D510 00000002
+015FBF3C 00000002
+015FBF64 00000002
+0021D644 00000004
+
+// Throw The Ball At -1 mph
+Author = libretro-database contributors / original PSP cheat authors
+0135BB94 FFFFFFFF
+
+// Your Team Always Has 999 Runs
+Author = libretro-database contributors / original PSP cheat authors
+000F8ED4 000003E7
+0021D650 000003E7
+0023C878 000003E7
+004883B0 000003E7
+004883E4 000003E7
+00DCBAB0 000003E7
+00DCBAE8 000003E7
+013447DC 000003E7
+01356908 000003E7
+01356910 000003E7
+01356918 000003E7
+0139CEBC 000003E7
+0139D4BC 000003E7
+0139E14C 000003E7
+015FBF20 000003E7
+015FBF28 000003E7
+015FBF30 000003E7
+
+// Zero Balls Thrown
+Author = libretro-database contributors / original PSP cheat authors
+0021D648 00000000

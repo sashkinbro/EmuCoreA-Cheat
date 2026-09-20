@@ -1,0 +1,28 @@
+# PSP cheat pack
+# Serial: ULES-00705
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+20113128 10A0000A
+215E29B4 41F00000
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20113128 0A244C55
+
+// 12 Ghosts Eaten
+Author = libretro-database contributors / original PSP cheat authors
+00181D6C 0000000C
+
+// Instant Pac-Mobile
+Author = libretro-database contributors / original PSP cheat authors
+00181E9C 00000001
+
+// Max Circuit Score
+Author = libretro-database contributors / original PSP cheat authors
+00181EDC 00000028
+
+// Max Circuit Score (Rally)
+Author = libretro-database contributors / original PSP cheat authors
+00181EDC 000000A0

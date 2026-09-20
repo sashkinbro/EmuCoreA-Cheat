@@ -1,0 +1,87 @@
+# PSP cheat pack
+# Serial: ULJM-05031
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// ??? ? ???? ????? 99/99
+Author = libretro-database contributors / original PSP cheat authors
+113E0BC0 0000270F
+
+// ??? ????? ? ???? ????? 99/99
+Author = libretro-database contributors / original PSP cheat authors
+B7800000 0000000B
+113E0BC0 1000270F
+D3800000 00000002
+
+// ????????? ?? ????? 99
+Author = libretro-database contributors / original PSP cheat authors
+B7800000 000000D8
+013E31CA 00000063
+D3800000 00000002
+
+// ????????????On
+Author = libretro-database contributors / original PSP cheat authors
+B7800000 0000000B
+013DE6EA 00000001
+D3800000 00000002
+
+// Does Not Reduce - Off [Press ↓+△]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10001040
+000F603C 46010001
+
+// Does Not Reduce - On [Press ↑+△]
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10001010
+000F603C 00000000
+
+// Item Max
+Author = libretro-database contributors / original PSP cheat authors
+813E0E31 000C0001
+00000063 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+213E11C4 0001869F
+
+// Money Max v2
+Author = libretro-database contributors / original PSP cheat authors
+113E11C4 0001869F
+
+// Physical Strength Not Reduced [Long Press L]
+Author = libretro-database contributors / original PSP cheat authors
+000CC410 E6800048
+D1397A68 00000100
+000CC410 00000000
+
+// Sengyoku Max
+Author = libretro-database contributors / original PSP cheat authors
+813E0E41 014A0001
+00000063 00000000
+
+// Unlimited Action - Off [Press R+□]
+Author = libretro-database contributors / original PSP cheat authors
+D0000005 10008200
+000FFC14 A10303E8
+001024F4 A10503E8
+00102514 A0E403E8
+00102530 A0C303E8
+00102570 A0A203E8
+
+// Unlimited Action - On [Press L+□]
+Author = libretro-database contributors / original PSP cheat authors
+D0000005 10008100
+000FFC14 00000000
+001024F4 00000000
+00102514 00000000
+00102530 00000000
+00102570 00000000
+
+// Weapon All
+Author = libretro-database contributors / original PSP cheat authors
+813E0FC1 00D90001
+00000001 00000000
+
+// Weapon All v2
+Author = libretro-database contributors / original PSP cheat authors
+813E0FC2 005F0001
+00000001 00000000

@@ -1,0 +1,299 @@
+# PSP cheat pack
+# Serial: ULES-00658
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1337 Farming Equipment
+Author = libretro-database contributors / original PSP cheat authors
+2023542C 00003D81
+20235430 5101A70F
+20235434 64810000
+20235438 6281A70F
+2023543C 57010000
+20235440 55810000
+20235444 52810000
+20235448 54010000
+2023544C 61010000
+20235450 3E01A70F
+20235454 62010000
+20235458 63010000
+2023545C 61810000
+
+// 999999 G
+Author = libretro-database contributors / original PSP cheat authors
+20234868 000F423F
+
+// 999999 G v2
+Author = libretro-database contributors / original PSP cheat authors
+10234C30 000000C8
+
+// All Size Mod
+Author = libretro-database contributors / original PSP cheat authors
+20099332 00003F00
+
+// Buggy Finder Off (Press Up)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000010
+0017EFD0 00000000
+
+// Buggy Finder On (Press Down)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000040
+0017EFD0 00000001
+
+// Buggy Size Mod
+Author = libretro-database contributors / original PSP cheat authors
+200B4FFA 00003F80
+200B4FFE 00003F80
+200B5002 00003F80
+
+// Buy 100 Seeds In Shop Instead Of 9
+Author = libretro-database contributors / original PSP cheat authors
+0023419C 10000064
+
+// Gioielli
+Author = libretro-database contributors / original PSP cheat authors
+00237122 000000FF
+
+// Gioielli Arancioni
+Author = libretro-database contributors / original PSP cheat authors
+002370F6 000000FF
+
+// Gioielli Blu
+Author = libretro-database contributors / original PSP cheat authors
+002370E2 000000FF
+
+// Gioielli Rossi
+Author = libretro-database contributors / original PSP cheat authors
+202370EA 002370EA
+
+// Gioielli Verdi
+Author = libretro-database contributors / original PSP cheat authors
+002370F2 000000FF
+
+// Gioielli Viola
+Author = libretro-database contributors / original PSP cheat authors
+002370EE 000000FF
+
+// Happy Chickens
+Author = libretro-database contributors / original PSP cheat authors
+00234984 0FFFFFFF
+00234964 0FFFFFFF
+00234944 0FFFFFFF
+00234924 0FFFFFFF
+00234904 0FFFFFFF
+
+// Happy Cows
+Author = libretro-database contributors / original PSP cheat authors
+002349E8 F00000FF
+00234A08 F00000FF
+00234A28 F00000FF
+00234A48 F00000FF
+00234A68 F00000FF
+
+// Happy Sheeps
+Author = libretro-database contributors / original PSP cheat authors
+00234A84 0FFFFFFF
+00234AA4 0FFFFFFF
+00234AC4 0FFFFFFF
+00234AE4 0FFFFFFF
+00234B04 0FFFFFFF
+
+// Inf. Items
+Author = libretro-database contributors / original PSP cheat authors
+0023542C 00000064
+00235430 00000064
+00235434 00000064
+00235438 00000064
+0023543C 00000064
+00235440 00000064
+00235444 00000064
+00235446 00000064
+00235448 00000064
+0023544C 00000064
+00235450 00000064
+00235454 00000064
+00235458 00000064
+0023546C 00000064
+00235470 00000064
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+20234868 0098967F
+
+// Inf. Money v2
+Author = libretro-database contributors / original PSP cheat authors
+20234868 773593FF
+
+// Inf. PP
+Author = libretro-database contributors / original PSP cheat authors
+00234C30 000000C8
+
+// Infinite Massami's Watering Can Level 2
+Author = libretro-database contributors / original PSP cheat authors
+00235440 00000064
+
+// Infinite Watering Can
+Author = libretro-database contributors / original PSP cheat authors
+00235434 00000019
+
+// Infinite Water In Whatering Can Lv.1
+Author = libretro-database contributors / original PSP cheat authors
+00235434 00000019
+
+// Life Jesus Walk
+Author = libretro-database contributors / original PSP cheat authors
+20798F2E 00000000
+
+// Life Size
+Author = libretro-database contributors / original PSP cheat authors
+200B4E4A 00003F80
+200B4E4E 00003F80
+200B4E52 00003F80
+
+// Low Quality & Detail
+Author = libretro-database contributors / original PSP cheat authors
+2009CE6A 00003F00
+
+// Mark And Recall (Press Down/Up)
+Author = libretro-database contributors / original PSP cheat authors
+20000700 3C0808E8
+20000704 8D084118
+20000708 3C09089A
+2000070C 8D294864
+20000710 240A0040
+20000714 152A000A
+2000071C 3C0B0880
+20000720 8D0C0048
+20000724 AD6C0800
+20000728 AD6C004C
+2000072C AD6D0804
+20000730 8D0E0050
+20000734 AD6E0808
+20000738 1000000B
+20000740 240A0010
+20000744 152A0008
+2000074C 3C0B0880
+20000750 8D6C0800
+20000754 AD0C0048
+20000758 8D6D0804
+2000075C AD0D004C
+20000760 8D6E0808
+20000764 AD0E0050
+20000768 10000001
+20000770 03E00008
+200272DC 0A2001C0
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+2022F310 3B9ACA00
+
+// Max Cash v2
+Author = libretro-database contributors / original PSP cheat authors
+20234868 000F423F
+
+// Max Human Levels
+Author = libretro-database contributors / original PSP cheat authors
+20234C34 00640064
+20234C38 00640064
+20234C3C 00640064
+
+// Max PP
+Author = libretro-database contributors / original PSP cheat authors
+20234C30 01900190
+
+// Max Stats/Human Level
+Author = libretro-database contributors / original PSP cheat authors
+20234C34 00630063
+20234C38 00630063
+20234C3C 00630063
+20234CA4 01000000
+20234CC0 01000000
+20234C6C 01000000
+20234C88 01000000
+20234CDC 01000000
+20234CF8 01000000
+
+// Max Tool Levels
+Author = libretro-database contributors / original PSP cheat authors
+20234C6C 019E847E
+20234C88 019E847E
+20234CA4 019E847E
+20234CC0 019E847E
+20234CDC 019E847E
+20234CF8 019E847E
+
+// Modificatore Minutes
+Author = libretro-database contributors / original PSP cheat authors
+0017F0EC 0000001E
+
+// Modificatore Ore
+Author = libretro-database contributors / original PSP cheat authors
+0017F0E8 0000000A
+
+// No Rain Effects
+Author = libretro-database contributors / original PSP cheat authors
+0009A99C FFFFFFFF
+0009A9B4 FFFFFFFF
+
+// Quest Items
+Author = libretro-database contributors / original PSP cheat authors
+20235460 5C010000
+20235464 5D010000
+20235468 60010000
+2023546C 5C810000
+20235470 60810000
+20235474 64010000
+20235478 63810000
+
+// Rise Of All Human States
+Author = libretro-database contributors / original PSP cheat authors
+00234C34 00000064
+00234C36 00000064
+00234C38 00000064
+00234C3A 00000064
+00234C3C 00000064
+00234C3E 00000064
+00234C32 000000C8
+
+// Sabbia Potente
+Author = libretro-database contributors / original PSP cheat authors
+002370FE 000000FF
+
+// Sacchi Per Semi
+Author = libretro-database contributors / original PSP cheat authors
+002371CA 000000FF
+
+// Season Mod: Autumn
+Author = libretro-database contributors / original PSP cheat authors
+2017F0E0 00000002
+
+// Season Mod: Spring
+Author = libretro-database contributors / original PSP cheat authors
+2017F0E0 00000000
+
+// Season Mod: Summer
+Author = libretro-database contributors / original PSP cheat authors
+2017F0E0 00000001
+
+// Season Mod: Winter
+Author = libretro-database contributors / original PSP cheat authors
+2017F0E0 00000003
+
+// Storage Black Jewel
+Author = libretro-database contributors / original PSP cheat authors
+010237EF 00000064
+
+// Time Modifier
+Author = libretro-database contributors / original PSP cheat authors
+2017F0E4 00000000
+2017F0E8 00000000
+2017F0EC 00000000
+
+// Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+0017F0E8 00000007
+
+// Walk Or Drive Through Walls (VC)
+Author = libretro-database contributors / original PSP cheat authors
+200992FA 3F000000
+200B4E36 00000000

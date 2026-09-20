@@ -1,0 +1,80 @@
+# PSP cheat pack
+# Serial: ULJM-05739
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Club Ranch Facilities Max
+Author = libretro-database contributors / original PSP cheat authors
+709366E1 000000C0
+709366E2 000000AC
+709366E2 000200AE
+009366E3 0000006E
+709366E7 000200FB
+709366E7 00000003
+709366EB 000200DB
+709366EB 0000001B
+
+// Guard Break 99
+Author = libretro-database contributors / original PSP cheat authors
+2071A730 63636363
+
+// Horse Owners Are Friendly & 100 Degrees
+Author = libretro-database contributors / original PSP cheat authors
+8091F993 00290064
+00000064 00000000
+009202F3 000000E4
+009201C7 000000E4
+009200FF 000000E4
+0091FCB3 000000E4
+
+// Max AmeriCan Ranch Facilities
+Author = libretro-database contributors / original PSP cheat authors
+70936711 000000C0
+70936712 000000AC
+70936712 000200AE
+00936713 0000006E
+70936717 000200FB
+70936717 00000003
+7093671B 000200DB
+7093671B 0000001B
+
+// Max Europe Ranch Facilities
+Author = libretro-database contributors / original PSP cheat authors
+70936741 000000C0
+70936742 000000AC
+70936742 000200AE
+00936743 0000006E
+70936747 000200FB
+70936747 00000003
+7093674B 000200DB
+7093674B 0000001B
+
+// Max Japan Ranch Facilities
+Author = libretro-database contributors / original PSP cheat authors
+709366B1 000000C0
+709366B2 000000AC
+709366B2 000200AE
+009366B3 0000006E
+709366B7 000200FB
+709366B7 00000003
+709366BB 000200DB
+709366BB 0000001B
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+20718D40 3B9ACFFF
+
+// Out Of 7 Genes (More Sand)
+Author = libretro-database contributors / original PSP cheat authors
+4071A380 00640001
+00003FFF 00000000
+4071A510 00640001
+
+// Reputation Max (50000)
+Author = libretro-database contributors / original PSP cheat authors
+10920988 0000C350
+
+// The 6 Gene
+Author = libretro-database contributors / original PSP cheat authors
+4071A380 00640001
+00000FFF 00000000
+4071A510 00640001

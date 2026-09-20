@@ -1,0 +1,31 @@
+# PSP cheat pack
+# Serial: ULES-00909
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AI Casts Spells
+Author = libretro-database contributors / original PSP cheat authors
+200BD7DC 10440031
+
+// AI Does Not Cast Spells
+Author = libretro-database contributors / original PSP cheat authors
+200BD7DC 00000000
+
+// Allow Illegal Moves
+Author = libretro-database contributors / original PSP cheat authors
+200B6CE4 00000000
+
+// Disallow Illegal Moves
+Author = libretro-database contributors / original PSP cheat authors
+200B6CE4 1040006C
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+20C6074C 0000270F
+
+// Max Cash After A Battle
+Author = libretro-database contributors / original PSP cheat authors
+20063A9C 00000000
+
+// Max Experience After A Battle
+Author = libretro-database contributors / original PSP cheat authors
+20063B1C 00000000

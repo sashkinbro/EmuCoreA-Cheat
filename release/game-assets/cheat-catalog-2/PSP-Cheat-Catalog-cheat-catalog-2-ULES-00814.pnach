@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULES-00814
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Fix FPS
+Author = libretro-database contributors / original PSP cheat authors
+E0075EAA 00169DAC
+20169DAC 0A200400
+20001000 0E295EAA
+20001004 00000000
+20001008 0E295EAA
+2000100C 00000000
+20001010 0A25A76D
+20001014 00000000
+
+// Fix FPS [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010400 00169DAC
+20169DAC 0E295EAA

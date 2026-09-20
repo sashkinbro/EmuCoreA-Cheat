@@ -1,0 +1,75 @@
+# PSP cheat pack
+# Serial: ULES-01003
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 20 FPS [In-Game Default]
+Author = libretro-database contributors / original PSP cheat authors
+2017E71C 00000003
+2017E4D4 0000000F
+2017E4E4 00000002
+2017E4E8 3EAAAAAB
+2017E4EC 40400000
+2017E4F0 42C40000
+
+// 30 FPS v2
+Author = libretro-database contributors / original PSP cheat authors
+E0060003 0017E71C
+2017E71C 00000002
+2017E4D4 0000000A
+2017E4E4 00000001
+2017E4E8 3F000000
+2017E4EC 40000000
+2017E4F0 422E38E4
+
+// 60 FPS v2 [In-Game Only]
+Author = libretro-database contributors / original PSP cheat authors
+E0060003 0017E71C
+2017E71C 00000001
+2017E4D4 00000005
+2017E4E4 00000000
+2017E4E8 3F800000
+2017E4EC 3F800000
+2017E4F0 40AE38E4
+
+// Force 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2017E71C 00000001
+
+// UltraWide Screen (21:9) + FOV
+Author = libretro-database contributors / original PSP cheat authors
+0016E753 3F000000
+0016EA76 0000C000
+
+// All S3 Recruit
+Author = libretro-database contributors / original PSP cheat authors
+001AF768 05050505
+001AF76C 05050505
+001AF770 05050505
+001AF774 05050505
+001AF778 05050505
+001AF77C 05050505
+
+// Bug Alert !!!
+Author = libretro-database contributors / original PSP cheat authors
+001E0324 11111111
+
+// Health Of Recruit
+Author = libretro-database contributors / original PSP cheat authors
+001AF750 000001F4
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2009D4E0 00000000
+2009D4CC 00000000
+
+// Infinite Ration/Medikit Use
+Author = libretro-database contributors / original PSP cheat authors
+2009E1AC 24110000
+
+// No Alert Mode
+Author = libretro-database contributors / original PSP cheat authors
+001E0324 00000000
+
+// Position Lock
+Author = libretro-database contributors / original PSP cheat authors
+001752AE 00004080

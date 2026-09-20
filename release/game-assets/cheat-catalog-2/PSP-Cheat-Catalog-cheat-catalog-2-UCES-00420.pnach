@@ -1,0 +1,175 @@
+# PSP cheat pack
+# Serial: UCES-00420
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Bolt Titan
+Author = libretro-database contributors / original PSP cheat authors
+000C1CC9 00000064
+
+// Challax Max/Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20C82AA4 42960000
+20C82AA8 42960000
+
+// Challax Max/Inf. Health v2
+Author = libretro-database contributors / original PSP cheat authors
+20482AA4 42960000
+20482AA8 42960000
+
+// Dayni Moon Max/Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20CB7764 42960000
+20CB7768 42960000
+
+// Dayni Moon Max/Inf. Health v2
+Author = libretro-database contributors / original PSP cheat authors
+204B7764 42960000
+204B7768 42960000
+
+// DreamTime Max/Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20C680E8 42960000
+20C680E4 42960000
+
+// DreamTime Max/Inf. Health v2
+Author = libretro-database contributors / original PSP cheat authors
+204680E8 42960000
+204680E4 42960000
+
+// Giant Clank Inf. Health/Missile
+Author = libretro-database contributors / original PSP cheat authors
+20D35FE4 42C80000
+20D361B4 00000015
+
+// Giant Clank Inf. Health/Missile v2
+Author = libretro-database contributors / original PSP cheat authors
+20535FE4 42C80000
+205361B4 00000015
+
+// Have All Armours
+Author = libretro-database contributors / original PSP cheat authors
+200C1BFA 0000FFFF
+200C1BFC 0000FFFF
+200C1BFE 0000FFFF
+200C1C00 000000FF
+200C1CC2 0000FFFF
+
+// Inside Clank Max/Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20C5A9E4 42960000
+20C5A9E8 42960000
+
+// Inside Clank Max/Inf. Health v2
+Author = libretro-database contributors / original PSP cheat authors
+2045A9E4 42960000
+2045A9E8 42960000
+
+// Kalidon Max/Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+00BFCF8C 0000005A
+00BFCCCC 00000078
+00BFCD7C 00000008
+00BFCD24 00000019
+00BFCDD4 0000000A
+00BFCE2C 0000000C
+00BFCF34 00000008
+00BFCEDC 00000018
+00BFCE84 00000005
+10BFCFE4 0000012C
+10BFD144 00000032
+
+// Kalidon Max/Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20C880E4 42960000
+20C880E8 42960000
+
+// Kalidon Skyboard Max/Inf. Boost
+Author = libretro-database contributors / original PSP cheat authors
+20C0CDC8 44160000
+
+// Max Bolts
+Author = libretro-database contributors / original PSP cheat authors
+200C2FE8 0098967F
+
+// Max Titanium Bolts
+Author = libretro-database contributors / original PSP cheat authors
+200C1CC9 000000FF
+
+// Max/Inf. Bolts
+Author = libretro-database contributors / original PSP cheat authors
+200C2FE8 0098967F
+
+// Metalis Max/Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20C85DA4 42960000
+20C85DA8 42960000
+
+// OutPost Omega Inf. Time
+Author = libretro-database contributors / original PSP cheat authors
+20F96CD0 4375FF00
+
+// OutPost Omega Max/Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20C60224 42960000
+20C60228 42960000
+
+// OutPost Omega Skyboard Max/Inf.
+Author = libretro-database contributors / original PSP cheat authors
+20C75408 44160000
+
+// Pokitaru Max/Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+00BE874C 00000078
+00BF6530 00000078
+00BE87FC 00000008
+00BE87A4 00000019
+00BE8854 0000000A
+00BF6530 00000008
+00BE89B4 00000008
+00BE88AC 0000000C
+00BE8A0C 0000005A
+20BE895C 00000018
+20BE8BC4 00000032
+00BE8904 00000005
+10BE8A64 0000012C
+
+// Pokitaru Max/Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20C71FA4 42960000
+20C71FA8 42960000
+
+// Quadrona Giant Clank Max/Inf. Missiles
+Author = libretro-database contributors / original PSP cheat authors
+215B9200 00000064
+
+// Quadrona Max/Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20C797E4 42C80000
+20C797E8 42C80000
+
+// Quadrona Skip Elite Clone Fight
+Author = libretro-database contributors / original PSP cheat authors
+20F655E0 00000000
+
+// Ryllus Max/Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+00BFF6CC 00000078
+00BFF7D4 0000000A
+00BFF724 00000019
+00BFF77C 00000008
+00BFF98C 0000005A
+00BFF934 00000008
+00BFF82C 0000000C
+00BFF8DC 00000018
+00BFF884 00000005
+10BFF9E4 0000012C
+10BFFB44 00000032
+
+// Ryllus Max/Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20C8B0A4 42960000
+20C8B0A8 42960000
+
+// Unlock All Cheats
+Author = libretro-database contributors / original PSP cheat authors
+200C1CB8 FFFFFFFF

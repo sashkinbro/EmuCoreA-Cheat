@@ -1,0 +1,88 @@
+# PSP cheat pack
+# Serial: ULES-01029
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 5 Credits
+Author = libretro-database contributors / original PSP cheat authors
+003137D4 00000005
+
+// 15 Lives
+Author = libretro-database contributors / original PSP cheat authors
+003137E0 0000000F
+
+// High Score
+Author = libretro-database contributors / original PSP cheat authors
+203137D8 10000172
+20634650 10000172
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+003137E0 00000009
+
+// Infinite Special Weapon Time
+Author = libretro-database contributors / original PSP cheat authors
+003137EE 0000420B
+
+// Infinite Special Weapon Usage
+Author = libretro-database contributors / original PSP cheat authors
+202D32EC 00000000
+
+// Max Credits
+Author = libretro-database contributors / original PSP cheat authors
+202D32D4 00000009
+
+// Max Lives
+Author = libretro-database contributors / original PSP cheat authors
+202D32E0 00000063
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+202D32D8 0098967F
+
+// Weapon 2x Phaser (Standard)
+Author = libretro-database contributors / original PSP cheat authors
+003137F4 00000004
+
+// Weapon 2x Phaser (Standard) v2
+Author = libretro-database contributors / original PSP cheat authors
+202D32F4 00000004
+
+// Weapon 2x Phaser Fast
+Author = libretro-database contributors / original PSP cheat authors
+003137F4 00000005
+
+// Weapon 2x Phaser Fast v2
+Author = libretro-database contributors / original PSP cheat authors
+202D32F4 00000005
+
+// Weapon 4x Phaser
+Author = libretro-database contributors / original PSP cheat authors
+003137F4 00000006
+
+// Weapon 4x Phaser v2
+Author = libretro-database contributors / original PSP cheat authors
+202D32F4 00000006
+
+// Weapon Laser
+Author = libretro-database contributors / original PSP cheat authors
+003137F4 0000000C
+
+// Weapon Laser v2
+Author = libretro-database contributors / original PSP cheat authors
+202D32F4 0000000C
+
+// Weapon Rockets
+Author = libretro-database contributors / original PSP cheat authors
+003137F4 0000000A
+
+// Weapon Rockets v2
+Author = libretro-database contributors / original PSP cheat authors
+202D32F4 0000000A
+
+// Weapon Shockwave
+Author = libretro-database contributors / original PSP cheat authors
+003137F4 00000009
+
+// Weapon Shockwave v2
+Author = libretro-database contributors / original PSP cheat authors
+202D32F4 00000009

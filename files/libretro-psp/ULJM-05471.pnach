@@ -1,0 +1,27 @@
+# PSP cheat pack
+# Serial: ULJM-05471
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+20038210 14A0FFF1
+20425D74 0000001E
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+20038210 00000000
+20425D74 0000003C
+
+// Infinite Exp. Points [For Multiplayer]
+Author = libretro-database contributors / original PSP cheat authors
+109DF2E8 0000270F
+
+// Max Draw Distance
+Author = libretro-database contributors / original PSP cheat authors
+206B1790 442F0000
+206B1798 43960000
+206B179C 442F0000
+
+// Time S Rank (Timer Freeze)
+Author = libretro-database contributors / original PSP cheat authors
+201CE9AC 00000000

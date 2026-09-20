@@ -1,0 +1,75 @@
+# PSP cheat pack
+# Serial: ULJM-05195
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Control
+Author = libretro-database contributors / original PSP cheat authors
+01672EF2 000000FF
+
+// Dandou
+Author = libretro-database contributors / original PSP cheat authors
+01672EDE 00000003
+
+// Error Kaihi
+Author = libretro-database contributors / original PSP cheat authors
+01672ED2 0000000F
+
+// Gacha Inf.
+Author = libretro-database contributors / original PSP cheat authors
+01673624 00000014
+
+// Henkakyu Hidari
+Author = libretro-database contributors / original PSP cheat authors
+01672EF4 00000007
+
+// Henkakyu Hidarishita
+Author = libretro-database contributors / original PSP cheat authors
+01672EF5 00000007
+
+// Henkakyu Migi
+Author = libretro-database contributors / original PSP cheat authors
+01672EF8 00000007
+
+// Henkakyu Migishita
+Author = libretro-database contributors / original PSP cheat authors
+01672EF7 00000007
+
+// Henkakyu Shita
+Author = libretro-database contributors / original PSP cheat authors
+01672EF6 00000007
+
+// Kata
+Author = libretro-database contributors / original PSP cheat authors
+01672ECF 0000000F
+
+// Kyusoku 165km
+Author = libretro-database contributors / original PSP cheat authors
+01672EF0 000000A5
+
+// Meet
+Author = libretro-database contributors / original PSP cheat authors
+01672ECD 0000000F
+
+// Power
+Author = libretro-database contributors / original PSP cheat authors
+01672ECE 000000FF
+
+// Shubi
+Author = libretro-database contributors / original PSP cheat authors
+01672ED1 0000000F
+
+// Slot Inf.
+Author = libretro-database contributors / original PSP cheat authors
+015BB274 00000000
+016735DC 00000000
+01673620 00000000
+01673628 00000000
+0167362C 00000000
+
+// Souryoku
+Author = libretro-database contributors / original PSP cheat authors
+01672ED0 0000000F
+
+// Stamina
+Author = libretro-database contributors / original PSP cheat authors
+01672EF3 000000FF

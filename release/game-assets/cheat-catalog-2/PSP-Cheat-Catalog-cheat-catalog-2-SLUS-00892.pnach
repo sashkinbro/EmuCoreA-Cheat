@@ -1,0 +1,400 @@
+# PSP cheat pack
+# Serial: SLUS-00892
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Enable Edea
+Author = libretro-database contributors / original PSP cheat authors
+21077CC4 00000001
+
+// Enable Irvine
+Author = libretro-database contributors / original PSP cheat authors
+210779CC 00000001
+
+// Enable Quistis
+Author = libretro-database contributors / original PSP cheat authors
+21077A64 00000001
+
+// Enable Rinoa
+Author = libretro-database contributors / original PSP cheat authors
+21077AFC 00000001
+
+// Enable Seifer
+Author = libretro-database contributors / original PSP cheat authors
+21077C2C 00000001
+
+// Enable Selphie
+Author = libretro-database contributors / original PSP cheat authors
+21077B94 00000001
+
+// Enable Squall & Laguna
+Author = libretro-database contributors / original PSP cheat authors
+2107789C 00000001
+
+// Enable Zell
+Author = libretro-database contributors / original PSP cheat authors
+21077934 00000001
+
+// Experience Gain: Fast
+Author = libretro-database contributors / original PSP cheat authors
+21077C34 000000FF
+
+// Experience Gain: Fast (P2)
+Author = libretro-database contributors / original PSP cheat authors
+21077B9C 000000FF
+
+// Experience Gain: Fast (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077B04 000000FF
+
+// Experience Gain: Fast (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077A6C 000000FF
+
+// Experience Gain: Fast (P5)
+Author = libretro-database contributors / original PSP cheat authors
+210779D4 000000FF
+
+// Experience Gain: Fast (P6)
+Author = libretro-database contributors / original PSP cheat authors
+2107793C 000000FF
+
+// Experience Gain: Fast (P7)
+Author = libretro-database contributors / original PSP cheat authors
+210778A4 000000FF
+
+// Experience Gain: Fast (P8)
+Author = libretro-database contributors / original PSP cheat authors
+2107780C 000000FF
+
+// Experience Gain: Max
+Author = libretro-database contributors / original PSP cheat authors
+21077C34 05F5E0FF
+
+// Experience Gain: Max (P2)
+Author = libretro-database contributors / original PSP cheat authors
+21077B9C 05F5E0FF
+
+// Experience Gain: Max (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077B04 05F5E0FF
+
+// Experience Gain: Max (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077A6C 05F5E0FF
+
+// Experience Gain: Max (P5)
+Author = libretro-database contributors / original PSP cheat authors
+210779D4 05F5E0FF
+
+// Experience Gain: Max (P6)
+Author = libretro-database contributors / original PSP cheat authors
+2107793C 05F5E0FF
+
+// Experience Gain: Max (P7)
+Author = libretro-database contributors / original PSP cheat authors
+210778A4 05F5E0FF
+
+// Experience Gain: Max (P8)
+Author = libretro-database contributors / original PSP cheat authors
+2107780C 05F5E0FF
+
+// Experience Gain: Super Fast
+Author = libretro-database contributors / original PSP cheat authors
+21077C34 0000FFFF
+
+// Experience Gain: Super Fast (P2)
+Author = libretro-database contributors / original PSP cheat authors
+21077B9C 0000FFFF
+
+// Experience Gain: Super Fast (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077B04 0000FFFF
+
+// Experience Gain: Super Fast (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077A6C 0000FFFF
+
+// Experience Gain: Super Fast (P5)
+Author = libretro-database contributors / original PSP cheat authors
+210779D4 0000FFFF
+
+// Experience Gain: Super Fast (P6)
+Author = libretro-database contributors / original PSP cheat authors
+2107793C 0000FFFF
+
+// Experience Gain: Super Fast (P7)
+Author = libretro-database contributors / original PSP cheat authors
+210778A4 0000FFFF
+
+// Experience Gain: Super Fast (P8)
+Author = libretro-database contributors / original PSP cheat authors
+2107780C 0000FFFF
+
+// Infinite Gil
+Author = libretro-database contributors / original PSP cheat authors
+21077E84 0098967F
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+21077C30 0000270F
+
+// Infinite HP (P2)
+Author = libretro-database contributors / original PSP cheat authors
+21077B98 0000270F
+
+// Infinite HP (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077B00 0000270F
+
+// Infinite HP (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077A68 0000270F
+
+// Infinite HP (P5)
+Author = libretro-database contributors / original PSP cheat authors
+210779D0 0000270F
+
+// Infinite HP (P6)
+Author = libretro-database contributors / original PSP cheat authors
+21077938 0000270F
+
+// Infinite HP (P7)
+Author = libretro-database contributors / original PSP cheat authors
+210778A0 0000270F
+
+// Infinite HP (P8)
+Author = libretro-database contributors / original PSP cheat authors
+21077808 0000270F
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+21077C32 0000270F
+
+// Max HP (P2)
+Author = libretro-database contributors / original PSP cheat authors
+21077B9A 0000270F
+
+// Max HP (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077B02 0000270F
+
+// Max HP (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077A6A 0000270F
+
+// Max HP (P5)
+Author = libretro-database contributors / original PSP cheat authors
+210779D2 0000270F
+
+// Max HP (P6)
+Author = libretro-database contributors / original PSP cheat authors
+2107793A 0000270F
+
+// Max HP (P7)
+Author = libretro-database contributors / original PSP cheat authors
+210778A2 0000270F
+
+// Max HP (P8)
+Author = libretro-database contributors / original PSP cheat authors
+2107780A 0000270F
+
+// Max Luck
+Author = libretro-database contributors / original PSP cheat authors
+21077C3F 000000FF
+
+// Max Luck (P2)
+Author = libretro-database contributors / original PSP cheat authors
+21077BA7 000000FF
+
+// Max Luck (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077B0F 000000FF
+
+// Max Luck (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077A77 000000FF
+
+// Max Luck (P5)
+Author = libretro-database contributors / original PSP cheat authors
+210779DF 000000FF
+
+// Max Luck (P6)
+Author = libretro-database contributors / original PSP cheat authors
+21077947 000000FF
+
+// Max Luck (P7)
+Author = libretro-database contributors / original PSP cheat authors
+210778AF 000000FF
+
+// Max Luck (P8)
+Author = libretro-database contributors / original PSP cheat authors
+21077817 000000FF
+
+// Max Mag.
+Author = libretro-database contributors / original PSP cheat authors
+21077C3C 000000FF
+
+// Max Mag. (P2)
+Author = libretro-database contributors / original PSP cheat authors
+21077BA4 000000FF
+
+// Max Mag. (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077B0C 000000FF
+
+// Max Mag. (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077A74 000000FF
+
+// Max Mag. (P5)
+Author = libretro-database contributors / original PSP cheat authors
+210779DC 000000FF
+
+// Max Mag. (P6)
+Author = libretro-database contributors / original PSP cheat authors
+21077944 000000FF
+
+// Max Mag. (P7)
+Author = libretro-database contributors / original PSP cheat authors
+210778AC 000000FF
+
+// Max Mag. (P8)
+Author = libretro-database contributors / original PSP cheat authors
+21077814 000000FF
+
+// Max Spd.
+Author = libretro-database contributors / original PSP cheat authors
+21077C3E 000000FF
+
+// Max Spd. (P2)
+Author = libretro-database contributors / original PSP cheat authors
+21077BA6 000000FF
+
+// Max Spd. (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077B0E 000000FF
+
+// Max Spd. (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077A76 000000FF
+
+// Max Spd. (P5)
+Author = libretro-database contributors / original PSP cheat authors
+210779DE 000000FF
+
+// Max Spd. (P6)
+Author = libretro-database contributors / original PSP cheat authors
+21077946 000000FF
+
+// Max Spd. (P7)
+Author = libretro-database contributors / original PSP cheat authors
+210778AE 000000FF
+
+// Max Spd. (P8)
+Author = libretro-database contributors / original PSP cheat authors
+21077816 000000FF
+
+// Max Spr.
+Author = libretro-database contributors / original PSP cheat authors
+21077C3D 000000FF
+
+// Max Spr. (P2)
+Author = libretro-database contributors / original PSP cheat authors
+21077BA5 000000FF
+
+// Max Spr. (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077B0D 000000FF
+
+// Max Spr. (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077A75 000000FF
+
+// Max Spr. (P5)
+Author = libretro-database contributors / original PSP cheat authors
+210779DD 000000FF
+
+// Max Spr. (P6)
+Author = libretro-database contributors / original PSP cheat authors
+21077945 000000FF
+
+// Max Spr. (P7)
+Author = libretro-database contributors / original PSP cheat authors
+210778AD 000000FF
+
+// Max Spr. (P8)
+Author = libretro-database contributors / original PSP cheat authors
+21077815 000000FF
+
+// Max Str.
+Author = libretro-database contributors / original PSP cheat authors
+21077C3A 000000FF
+
+// Max Str. (P2)
+Author = libretro-database contributors / original PSP cheat authors
+21077BA2 000000FF
+
+// Max Str. (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077B0A 000000FF
+
+// Max Str. (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077A72 000000FF
+
+// Max Str. (P5)
+Author = libretro-database contributors / original PSP cheat authors
+210779DA 000000FF
+
+// Max Str. (P6)
+Author = libretro-database contributors / original PSP cheat authors
+21077942 000000FF
+
+// Max Str. (P7)
+Author = libretro-database contributors / original PSP cheat authors
+210778AA 000000FF
+
+// Max Str. (P8)
+Author = libretro-database contributors / original PSP cheat authors
+21077812 000000FF
+
+// Max Vit.
+Author = libretro-database contributors / original PSP cheat authors
+21077C3B 000000FF
+
+// Max Vit. (P2)
+Author = libretro-database contributors / original PSP cheat authors
+21077BA3 000000FF
+
+// Max Vit. (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077B0B 000000FF
+
+// Max Vit. (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077A73 000000FF
+
+// Max Vit. (P5)
+Author = libretro-database contributors / original PSP cheat authors
+210779DB 000000FF
+
+// Max Vit. (P6)
+Author = libretro-database contributors / original PSP cheat authors
+21077943 000000FF
+
+// Max Vit. (P7)
+Author = libretro-database contributors / original PSP cheat authors
+210778AB 000000FF
+
+// Max Vit. (P8)
+Author = libretro-database contributors / original PSP cheat authors
+21077813 000000FF
+
+// No Random Battles
+Author = libretro-database contributors / original PSP cheat authors
+21078DF8 0000000C
+
+// Save Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+21070652 00000100
+210911B6 00000001

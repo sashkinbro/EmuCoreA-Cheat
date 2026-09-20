@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: ULJM-05220
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Live
+Author = libretro-database contributors / original PSP cheat authors
+003BE5D4 000000A0
+
+// Infinite Parodius
+Author = libretro-database contributors / original PSP cheat authors
+0081D5E0 000000A0
+
+// Infinite Sexy
+Author = libretro-database contributors / original PSP cheat authors
+00F9845A 000000A0

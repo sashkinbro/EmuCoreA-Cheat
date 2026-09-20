@@ -1,0 +1,91 @@
+# PSP cheat pack
+# Serial: ULES-01541
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// @Master Code [Must Be On]
+Author = libretro-database contributors / original PSP cheat authors
+C17FFE20 FFFFFFFF
+217FFE20 08B5001C
+217FFE24 00000001
+217FFE28 098000FC
+217FFE2C 00000001
+
+// Chararacter Points
+Author = libretro-database contributors / original PSP cheat authors
+C17FFE24 00000001
+617FFE20 00000014
+00000001 0048FFDC
+
+// Freeze Home Team [L Trigger]
+Author = libretro-database contributors / original PSP cheat authors
+C17FFE24 00000001
+D0000002 10000100
+617FFE24 00000000
+0001000B 00001580
+90000120 00000000
+
+// Freeze Outside Team [L Trigger]
+Author = libretro-database contributors / original PSP cheat authors
+C17FFE24 00000001
+D0000002 10000100
+617FFE24 00000000
+0004000B 00000340
+90000120 00000000
+
+// Freeze Timer
+Author = libretro-database contributors / original PSP cheat authors
+C17FFE24 00000001
+617FFE20 00002325
+00000001 000032B0
+
+// Master League Money
+Author = libretro-database contributors / original PSP cheat authors
+C17FFE24 00000001
+617FFE20 000F423F
+00020001 002961B8
+
+// Move Home Team [L Trigger]
+Author = libretro-database contributors / original PSP cheat authors
+C17FFE24 00000001
+D0000001 10000100
+617FFE24 00005000
+0001000B 00001580
+90000120 00000000
+
+// Move Outside Team [L Trigger]
+Author = libretro-database contributors / original PSP cheat authors
+C17FFE24 00000001
+D0000002 10000100
+617FFE24 00005000
+0004000B 00000340
+90000120 00000000
+
+// PES Points 9999
+Author = libretro-database contributors / original PSP cheat authors
+C17FFE2C 00000001
+617FFE28 0000270F
+00010001 00141618
+
+// Score Home 10
+Author = libretro-database contributors / original PSP cheat authors
+C17FFE2C 00000001
+617FFE28 0000000A
+00030001 0054DD9C
+
+// Score Outside 10
+Author = libretro-database contributors / original PSP cheat authors
+C17FFE2C 00000001
+617FFE28 0000000A
+00030001 0054DAA8
+
+// Skip To Extra Time
+Author = libretro-database contributors / original PSP cheat authors
+C17FFE24 00000001
+617FFE20 00000000
+00000001 000032B0
+
+// Special Ability Point
+Author = libretro-database contributors / original PSP cheat authors
+C17FFE24 00000001
+617FFE20 00000000
+00000001 0048FFE4

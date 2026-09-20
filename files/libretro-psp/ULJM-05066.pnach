@@ -1,0 +1,218 @@
+# PSP cheat pack
+# Serial: ULJM-05066
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Input Drop Fix
+Author = libretro-database contributors / original PSP cheat authors
+D10DB8CE 00001460
+110DB8CE 00001060
+
+// ??? ???
+Author = libretro-database contributors / original PSP cheat authors
+0077896B 0000007F
+
+// ??? Max
+Author = libretro-database contributors / original PSP cheat authors
+210532DC 0098967F
+
+// ???? ????? Max
+Author = libretro-database contributors / original PSP cheat authors
+2105774C 0098967F
+
+// ???? ????? Max
+Author = libretro-database contributors / original PSP cheat authors
+210532D8 05F5E0FF
+
+// ???? 1
+Author = libretro-database contributors / original PSP cheat authors
+00778B6C 00000063
+
+// ???? 10
+Author = libretro-database contributors / original PSP cheat authors
+00778B90 00000063
+
+// ???? 11
+Author = libretro-database contributors / original PSP cheat authors
+00778B94 00000063
+
+// ???? 12
+Author = libretro-database contributors / original PSP cheat authors
+00778B98 00000063
+
+// ???? 13
+Author = libretro-database contributors / original PSP cheat authors
+00778B9C 00000063
+
+// ???? 14
+Author = libretro-database contributors / original PSP cheat authors
+00778BA0 00000063
+
+// ???? 15
+Author = libretro-database contributors / original PSP cheat authors
+00778BA4 00000063
+
+// ???? 16
+Author = libretro-database contributors / original PSP cheat authors
+00778BA8 00000063
+
+// ???? 17
+Author = libretro-database contributors / original PSP cheat authors
+00778BAC 00000063
+
+// ???? 18
+Author = libretro-database contributors / original PSP cheat authors
+00778BB0 00000063
+
+// ???? 19
+Author = libretro-database contributors / original PSP cheat authors
+00778BB4 00000063
+
+// ???? 2
+Author = libretro-database contributors / original PSP cheat authors
+00778B70 00000063
+
+// ???? 20
+Author = libretro-database contributors / original PSP cheat authors
+00778BB8 00000063
+
+// ???? 3
+Author = libretro-database contributors / original PSP cheat authors
+00778B74 00000063
+
+// ???? 4
+Author = libretro-database contributors / original PSP cheat authors
+00778B78 00000063
+
+// ???? 5
+Author = libretro-database contributors / original PSP cheat authors
+00778B7C 00000063
+
+// ???? 6
+Author = libretro-database contributors / original PSP cheat authors
+00778B80 00000063
+
+// ???? 7
+Author = libretro-database contributors / original PSP cheat authors
+00778B84 00000063
+
+// ???? 8
+Author = libretro-database contributors / original PSP cheat authors
+00778B88 00000063
+
+// ???? 9
+Author = libretro-database contributors / original PSP cheat authors
+00778B8C 00000063
+
+// ???? Max
+Author = libretro-database contributors / original PSP cheat authors
+10778AFA 000001C2
+10778BD6 000001C2
+
+// ????? ???
+Author = libretro-database contributors / original PSP cheat authors
+0077896A 0000007F
+
+// Box Item All 99
+Author = libretro-database contributors / original PSP cheat authors
+81053A2A 012C0004
+00000063 00000000
+
+// Buki Toumei
+Author = libretro-database contributors / original PSP cheat authors
+10778BBC 00000B88
+
+// God 2 Swords
+Author = libretro-database contributors / original PSP cheat authors
+10778ACA 0000FD0C
+11053062 0000FD0C
+110532B6 0000FD0C
+
+// God Big Sword
+Author = libretro-database contributors / original PSP cheat authors
+10778ACA 0000FC61
+11053062 0000FC61
+110532B6 0000FC61
+
+// HP Max
+Author = libretro-database contributors / original PSP cheat authors
+007788D2 00000063
+
+// HP Max v2
+Author = libretro-database contributors / original PSP cheat authors
+107788D2 00000096
+107789FC 00000096
+
+// Item 1
+Author = libretro-database contributors / original PSP cheat authors
+00778B6C 00000063
+
+// Item Max
+Author = libretro-database contributors / original PSP cheat authors
+00778B6C 00000063
+00778B70 00000063
+00778B74 00000063
+00778B78 00000063
+00778B7C 00000063
+00778B80 00000063
+00778B84 00000063
+00778B88 00000063
+00778B8C 00000063
+00778B90 00000063
+00778B94 00000063
+00778B98 00000063
+00778B9C 00000063
+00778BA0 00000063
+00778BA4 00000063
+00778BAC 00000063
+00778BB4 00000063
+00778BB8 00000063
+
+// Kireaji Maxchi
+Author = libretro-database contributors / original PSP cheat authors
+007796B7 0000007F
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+007788D2 00000063
+
+// Money 99999999
+Author = libretro-database contributors / original PSP cheat authors
+210532DC 05F5E0FF
+
+// Moon Jump
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000300
+10778836 00004200
+
+// Rensha
+Author = libretro-database contributors / original PSP cheat authors
+E0022200 00179E94
+D07787B4 00000200
+107787B4 00000000
+
+// Senrigan
+Author = libretro-database contributors / original PSP cheat authors
+00778BD2 0000000A
+
+// Souten2
+Author = libretro-database contributors / original PSP cheat authors
+00778C2B 00000002
+
+// Stamina
+Author = libretro-database contributors / original PSP cheat authors
+10778BD6 0000012C
+10778AFA 0000012C
+
+// Stamina Fill
+Author = libretro-database contributors / original PSP cheat authors
+007789FC 00000063
+
+// X Coordinate
+Author = libretro-database contributors / original PSP cheat authors
+207811D0 46337533
+207813C0 46337533
+207813D0 46337533
+20781AE0 46337533
+20781B20 46337533
+20781CE0 46337533
+20781D20 46337533

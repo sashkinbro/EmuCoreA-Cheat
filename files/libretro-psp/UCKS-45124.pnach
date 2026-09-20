@@ -1,0 +1,157 @@
+# PSP cheat pack
+# Serial: UCKS-45124
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Lap Races
+Author = libretro-database contributors / original PSP cheat authors
+20275CCC 00000001
+
+// AI Disabled
+Author = libretro-database contributors / original PSP cheat authors
+20004A14 24040001
+
+// AI No Opponent's
+Author = libretro-database contributors / original PSP cheat authors
+200BE7A8 24110000
+200BE7B0 24110000
+
+// AI Normal
+Author = libretro-database contributors / original PSP cheat authors
+20004A14 8CC401A8
+
+// AI Normal Amount Of Opponents
+Author = libretro-database contributors / original PSP cheat authors
+200BE7A8 8E310000
+200BE7B0 8E310000
+
+// AI Only 1 Opponent
+Author = libretro-database contributors / original PSP cheat authors
+200BE7A8 24110001
+200BE7B0 24110001
+
+// AI Only 5 Opponent
+Author = libretro-database contributors / original PSP cheat authors
+200BE7A8 24110005
+200BE7B0 24110005
+
+// AI Races For You
+Author = libretro-database contributors / original PSP cheat authors
+20004A14 24040004
+
+// Disable Crash Camera
+Author = libretro-database contributors / original PSP cheat authors
+200FD344 03E00008
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+200BAB10 44806800
+
+// Infinite Time [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200BAB10 C4ADE85C
+
+// Infinite Turbo
+Author = libretro-database contributors / original PSP cheat authors
+200EDA04 46166581
+
+// Infinite Turbo [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200EDA04 46166580
+
+// Instant Turbo Charge
+Author = libretro-database contributors / original PSP cheat authors
+20276E34 00000000
+20275A54 00000000
+00000008 000A0002
+00000068 00B4000A
+000003FC 00320000
+D2000000 00000000
+
+// Instant Turbo Charge v2
+Author = libretro-database contributors / original PSP cheat authors
+20276E34 00000000
+20275A54 000A0002
+00020001 00000008
+20275A54 00B4000A
+00020001 00000068
+20275A54 00320000
+00020001 000003FC
+
+// Instant Win
+Author = libretro-database contributors / original PSP cheat authors
+200B65BC 0080B820
+200B65CC 00A02020
+200B65D4 AEE40028
+
+// Speed Mod: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2029D3B8 3D48AB86
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2029D3B8 3D88AB86
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2029D3B8 3D28AB86
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2029D3B8 3D08AB86
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2029D3B8 3CC8AB86
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2029D3B8 3C88AB86
+
+// Weather Mod: Clear
+Author = libretro-database contributors / original PSP cheat authors
+20277328 00000000
+20277334 00000000
+2027733C 00000000
+20277748 00000000
+202A045C 00000000
+
+// Weather Mod: Heavy Rainy
+Author = libretro-database contributors / original PSP cheat authors
+20277328 00000060
+20277334 40400000
+2027733C 3F000000
+20277748 3F000000
+202A045C 00000002
+
+// Weather Mod: Heavy Snowy
+Author = libretro-database contributors / original PSP cheat authors
+20277328 00000060
+20277334 40400000
+2027733C 3F000000
+20277748 3F000000
+202A045C 00000003
+
+// Weather Mod: Rainy
+Author = libretro-database contributors / original PSP cheat authors
+20277328 00000060
+20277334 3FC00000
+2027733C 3F000000
+20277748 3F000000
+202A045C 00000002
+
+// Weather Mod: Snowy
+Author = libretro-database contributors / original PSP cheat authors
+20277328 00000060
+20277334 3DCCCCCD
+2027733C 3F000000
+20277748 3F000000
+202A045C 00000003
+
+// Unlock All Drivers
+Author = libretro-database contributors / original PSP cheat authors
+2007412C 24020001
+
+// Unlock Collector's Edition Content
+Author = libretro-database contributors / original PSP cheat authors
+200C0C0C 24020001
+200C0C10 10000006

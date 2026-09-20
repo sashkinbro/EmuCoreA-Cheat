@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULES-00233
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 999999999 Points
+Author = libretro-database contributors / original PSP cheat authors
+200ABF24 3B9AC9FF
+
+// Always Enable Pointer
+Author = libretro-database contributors / original PSP cheat authors
+000A51B8 00000001
+
+// Always Get 500.000 Time Bonus
+Author = libretro-database contributors / original PSP cheat authors
+000AC18C 00000000
+
+// Last Level (Block PSP In Vs. Mode!)
+Author = libretro-database contributors / original PSP cheat authors
+000AC184 000000FF

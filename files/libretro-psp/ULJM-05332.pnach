@@ -1,0 +1,89 @@
+# PSP cheat pack
+# Serial: ULJM-05332
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Action Bonus All
+Author = libretro-database contributors / original PSP cheat authors
+10242650 000003E8
+10242654 00004E20
+10242658 000003E8
+1024265C 000001F4
+10242668 000001F4
+
+// Battle Evaluation All S
+Author = libretro-database contributors / original PSP cheat authors
+402425D4 001D0001
+102425D2 00000000
+10242648 00000000
+
+// Battle Evaluation P Max
+Author = libretro-database contributors / original PSP cheat authors
+40242590 00040001
+00002710 00000000
+
+// Bonus Total Flag All
+Author = libretro-database contributors / original PSP cheat authors
+702425A0 00000033
+1024264A 00006464
+1024264C 00007530
+
+// Clear History All
+Author = libretro-database contributors / original PSP cheat authors
+202425A4 0FFFFFFF
+202425A8 0FFFFFFF
+
+// Defeating Bonus All
+Author = libretro-database contributors / original PSP cheat authors
+10242748 000001F4
+10242760 000001F4
+1024276C 000001F4
+10242780 000001F4
+
+// Magic All
+Author = libretro-database contributors / original PSP cheat authors
+4024112C 00060001
+0000000A 00000001
+00241128 00000006
+
+// Master HP 99
+Author = libretro-database contributors / original PSP cheat authors
+1019CEC0 00000063
+
+// Master MP 999
+Author = libretro-database contributors / original PSP cheat authors
+102411B0 000003E7
+10241A78 000003E7
+
+// Master Oa 0
+Author = libretro-database contributors / original PSP cheat authors
+1019CEDC 00000000
+
+// Max Battle Evaluation Point
+Author = libretro-database contributors / original PSP cheat authors
+40242590 00040001
+00002710 00000000
+
+// Natial All
+Author = libretro-database contributors / original PSP cheat authors
+40241148 00180001
+00000001 00000001
+00241144 00000018
+
+// Overthrow Total All
+Author = libretro-database contributors / original PSP cheat authors
+402425AC 00090001
+63636363 00000000
+102425D0 00006363
+
+// Sat Up To Lv. Max
+Author = libretro-database contributors / original PSP cheat authors
+200A7A94 14400001
+
+// Secret Master All
+Author = libretro-database contributors / original PSP cheat authors
+702425A0 0000000F
+
+// Summons All
+Author = libretro-database contributors / original PSP cheat authors
+40242678 00180001
+00000064 00000000

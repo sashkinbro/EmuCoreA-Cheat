@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: ULJM-05497
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Sand Clock 99
+Author = libretro-database contributors / original PSP cheat authors
+0010011D 00000063
+
+// Small Bottle Max
+Author = libretro-database contributors / original PSP cheat authors
+0010011F 000000C8
+
+// Small Bottle Zero
+Author = libretro-database contributors / original PSP cheat authors
+0010011F 00000000

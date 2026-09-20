@@ -1,0 +1,33 @@
+# PSP cheat pack
+# Serial: SLUS-00708
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Portals Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+210D198A 00000009
+210D1A0A 00000009
+210D1A4A 00000009
+
+// Have All Glyph Abilities
+Author = libretro-database contributors / original PSP cheat authors
+210CFDBC 0000FFFF
+
+// Have All Glyphs
+Author = libretro-database contributors / original PSP cheat authors
+210CFDC6 000003FF
+
+// Infinite Glyph Power
+Author = libretro-database contributors / original PSP cheat authors
+210D5688 00630063
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+210D56B0 00000001
+210D5674 0007A120
+D2000000 00000000
+210D56B0 00000002
+210D5674 000186A0
+
+// Max Stamina
+Author = libretro-database contributors / original PSP cheat authors
+210D5670 00000004

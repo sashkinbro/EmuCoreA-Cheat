@@ -1,0 +1,181 @@
+# PSP cheat pack
+# Serial: ULJM-05337
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Million Yen
+Author = libretro-database contributors / original PSP cheat authors
+214E67A4 000F4240
+2158F468 000F4240
+
+// Aijou
+Author = libretro-database contributors / original PSP cheat authors
+214E5EA8 000009C4
+
+// Bust
+Author = libretro-database contributors / original PSP cheat authors
+214E5DD8 00001F40
+214EA6C8 00001F40
+
+// Doutokusin
+Author = libretro-database contributors / original PSP cheat authors
+214E5EAC 00002710
+
+// Hip
+Author = libretro-database contributors / original PSP cheat authors
+214E5DE0 00001C1F
+214EA6D0 00001F40
+
+// Item 99
+Author = libretro-database contributors / original PSP cheat authors
+814EAB78 00320008
+00000063 00000000
+
+// Karisuma
+Author = libretro-database contributors / original PSP cheat authors
+214E5E10 0001869F
+
+// Kihin
+Author = libretro-database contributors / original PSP cheat authors
+214E5E14 0001869F
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+214E67A4 05F5E0FF
+
+// Max Skill
+Author = libretro-database contributors / original PSP cheat authors
+B7800000 0000000D
+114E5FE4 0000000A
+D3800000 0000000C
+
+// Max Status
+Author = libretro-database contributors / original PSP cheat authors
+B7800000 00000006
+214E5E00 0001869F
+D3800000 00000004
+C8800000 00000000
+CA800000 00000000
+214E5E1C 00000000
+
+// Miryoku
+Author = libretro-database contributors / original PSP cheat authors
+214E5E18 0001869F
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+217FF3F8 000F4240
+214E67A4 000F4240
+
+// Sensaisa
+Author = libretro-database contributors / original PSP cheat authors
+214E5EB0 000009C4
+
+// Seisinryoku
+Author = libretro-database contributors / original PSP cheat authors
+214E5E04 0001869F
+
+// Sintyou
+Author = libretro-database contributors / original PSP cheat authors
+214E5DD0 000036B0
+
+// Siryoku
+Author = libretro-database contributors / original PSP cheat authors
+214E5DE4 000000C8
+
+// Skill: Bunseki
+Author = libretro-database contributors / original PSP cheat authors
+014E6020 0000000A
+
+// Skill: Buyou
+Author = libretro-database contributors / original PSP cheat authors
+014E6038 0000000A
+
+// Skill: Engi
+Author = libretro-database contributors / original PSP cheat authors
+014E6044 0000000A
+
+// Skill: Kaiga
+Author = libretro-database contributors / original PSP cheat authors
+014E6050 0000000A
+
+// Skill: Kakutou
+Author = libretro-database contributors / original PSP cheat authors
+014E5FF0 0000000A
+
+// Skill: Kenjutu
+Author = libretro-database contributors / original PSP cheat authors
+014E5FE4 0000000A
+
+// Skill: Kotodama
+Author = libretro-database contributors / original PSP cheat authors
+014E6014 0000000A
+
+// Skill: Mahou
+Author = libretro-database contributors / original PSP cheat authors
+014E6008 0000000A
+
+// Skill: Musiba
+Author = libretro-database contributors / original PSP cheat authors
+214E5E24 00000000
+
+// Skill: Ongaku
+Author = libretro-database contributors / original PSP cheat authors
+014E602C 0000000A
+
+// Skill: Oshare
+Author = libretro-database contributors / original PSP cheat authors
+014E6068 0000000A
+
+// Skill: Otaku
+Author = libretro-database contributors / original PSP cheat authors
+014E6074 0000000A
+
+// Skill: Ryouri
+Author = libretro-database contributors / original PSP cheat authors
+014E605C 0000000A
+
+// Skill: Shoubai
+Author = libretro-database contributors / original PSP cheat authors
+014E6080 0000000A
+
+// Skill: Suiei
+Author = libretro-database contributors / original PSP cheat authors
+014E5FFC 0000000A
+
+// Stop Time [10am]
+Author = libretro-database contributors / original PSP cheat authors
+014CB574 0000000A
+01555670 0000000A
+01555674 0000000A
+
+// Stress
+Author = libretro-database contributors / original PSP cheat authors
+214E5E1C 00000000
+
+// Taijuu
+Author = libretro-database contributors / original PSP cheat authors
+214E5DD4 00000CE4
+
+// Tairyoku
+Author = libretro-database contributors / original PSP cheat authors
+214E5E00 0001869F
+
+// Tiryoku
+Author = libretro-database contributors / original PSP cheat authors
+214E5E0C 0001869F
+
+// Undounouryoku
+Author = libretro-database contributors / original PSP cheat authors
+214E5E08 0001869F
+
+// Unlock All Galleries
+Author = libretro-database contributors / original PSP cheat authors
+014A6468 000000FF
+B7800000 00000021
+214CAAE0 01010101
+D3800000 00000004
+
+// Waist
+Author = libretro-database contributors / original PSP cheat authors
+214E5DDC 00001518
+214EA6CC 00001F40

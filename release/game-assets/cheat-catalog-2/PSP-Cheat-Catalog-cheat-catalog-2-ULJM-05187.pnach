@@ -1,0 +1,42 @@
+# PSP cheat pack
+# Serial: ULJM-05187
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Danyaku
+Author = libretro-database contributors / original PSP cheat authors
+10C8F174 000003E7
+105688E4 000003E7
+10563934 000003E7
+10571714 000003E7
+
+// Grenade Launcher 4
+Author = libretro-database contributors / original PSP cheat authors
+00563974 00000004
+
+// HG-60
+Author = libretro-database contributors / original PSP cheat authors
+00568924 0000003C
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+200869AC 00000000
+
+// Infinite Boost
+Author = libretro-database contributors / original PSP cheat authors
+20077DD0 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20002000 ACE60440
+20002004 0A20C2EC
+20002008 8CE20440
+20030BA8 0A200800
+20030BAC 8D070DD4
+
+// Point 99999
+Author = libretro-database contributors / original PSP cheat authors
+201F0A50 0001869F
+
+// SMG-150
+Author = libretro-database contributors / original PSP cheat authors
+00C8FBF4 00000096

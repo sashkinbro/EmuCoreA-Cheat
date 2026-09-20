@@ -1,0 +1,29 @@
+# PSP cheat pack
+# Serial: ULES-00325
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+20771244 41F00000
+00002001 00000478
+
+// Opponents Don't Drive
+Author = libretro-database contributors / original PSP cheat authors
+288DD6C8 10000786
+
+// Turbo Always Full
+Author = libretro-database contributors / original PSP cheat authors
+28829480 00000000
+
+// Unlock Everything
+Author = libretro-database contributors / original PSP cheat authors
+207716C4 0000FFFE
+207716C8 FFFFFFFF
+207716CC 00007FFE
+207716D0 FFC3FFFE
+207716D4 FFFFFFFF
+207716D8 001FFFFF
+207716DC 00000FC0
+207716E0 00028A00
+207716E4 00FFFFC0
+20771CA4 AAAAAA01

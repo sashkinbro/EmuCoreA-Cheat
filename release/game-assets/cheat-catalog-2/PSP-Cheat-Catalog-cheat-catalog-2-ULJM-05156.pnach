@@ -1,0 +1,674 @@
+# PSP cheat pack
+# Serial: ULJM-05156
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AK47
+Author = libretro-database contributors / original PSP cheat authors
+D029B0EC 00002200
+107E8254 00000003
+
+// All Bottle
+Author = libretro-database contributors / original PSP cheat authors
+200C0BD8 2402FFFF
+
+// Atk. x1
+Author = libretro-database contributors / original PSP cheat authors
+200C1DB4 00000000
+200C1DBC 00031800
+
+// Atk. x2
+Author = libretro-database contributors / original PSP cheat authors
+200C1DB4 00000000
+200C1DBC 00031840
+
+// Atk. x4
+Author = libretro-database contributors / original PSP cheat authors
+200C1DB4 00000000
+200C1DBC 00031880
+
+// Atk. x8
+Author = libretro-database contributors / original PSP cheat authors
+200C1DB4 00000000
+200C1DBC 000318C0
+
+// Atk. x16
+Author = libretro-database contributors / original PSP cheat authors
+200C1DB4 00000000
+200C1DBC 00031900
+
+// Atk. x32
+Author = libretro-database contributors / original PSP cheat authors
+200C1DB4 00000000
+200C1DBC 00031940
+
+// Atk. x64
+Author = libretro-database contributors / original PSP cheat authors
+200C1DB4 00000000
+200C1DBC 00031980
+
+// Atk. x128
+Author = libretro-database contributors / original PSP cheat authors
+200C1DB4 00000000
+200C1DBC 000319C0
+
+// Attack x2
+Author = libretro-database contributors / original PSP cheat authors
+200C1DB4 00000000
+200C1DBC 00031840
+
+// Battle Support (Inf. HP, Stamina, Ammo, Sharpness)
+Author = libretro-database contributors / original PSP cheat authors
+007E8362 00000096
+007E849E 00000096
+107E85D6 000001C2
+107E8692 000001C2
+007E86DB 000000FF
+D07E90F2 00200064
+107E90F2 00000190
+107E9138 00007FFF
+
+// Big Monster
+Author = libretro-database contributors / original PSP cheat authors
+E007F809 0116423C
+2116422C 0E260E4F
+20183938 00000000
+20183940 AE020220
+20183944 AE020224
+20183948 0A216AAD
+2018394C AE020228
+2018393C 3C024100
+
+// Bomb
+Author = libretro-database contributors / original PSP cheat authors
+010C2D44 00000000
+
+// Boss 1 Hit Die
+Author = libretro-database contributors / original PSP cheat authors
+107F2D42 00000001
+
+// Bowgun Reloadless Magazine
+Author = libretro-database contributors / original PSP cheat authors
+007E86DC 00000009
+007E86DB 00000009
+
+// Box 1 ot 20
+Author = libretro-database contributors / original PSP cheat authors
+010C5486 00000063
+010C548A 00000063
+010C548E 00000063
+010C5492 00000063
+010C5496 00000063
+010C549A 00000063
+010C549E 00000063
+010C54A2 00000063
+010C54A6 00000063
+010C54AA 00000063
+010C54AE 00000063
+010C54B2 00000063
+010C54B6 00000063
+010C54BA 00000063
+010C54BE 00000063
+010C54C6 00000063
+010C54CE 00000063
+010C54D2 00000063
+
+// Box Item 99
+Author = libretro-database contributors / original PSP cheat authors
+810C5486 02580004
+00000063 00000000
+
+// Box99 1-500
+Author = libretro-database contributors / original PSP cheat authors
+810C5486 01F40004
+00000063 00000000
+
+// Buki Toumei
+Author = libretro-database contributors / original PSP cheat authors
+E0012200 010C1E54
+107E8678 000009A4
+
+// Carry Item Multiplier
+Author = libretro-database contributors / original PSP cheat authors
+810D6E14 00180002
+10000063 00000000
+
+// Change Pig To Sheep
+Author = libretro-database contributors / original PSP cheat authors
+010D6883 00000004
+
+// Char. Code Part 0
+Author = libretro-database contributors / original PSP cheat authors
+110C2EA8 00000068
+110D6058 00000068
+110C2EAA 00000069
+110D605A 00000069
+
+// Char. Code Part 0 v2
+Author = libretro-database contributors / original PSP cheat authors
+210C2EC0 0098967F
+
+// Char. Code Part 0 v3
+Author = libretro-database contributors / original PSP cheat authors
+210D6598 210C41B8
+210C41BC 210C41C0
+110C6240 207E8568
+210C2A7C 210C2E60
+
+// Char. Code Part 0 v4
+Author = libretro-database contributors / original PSP cheat authors
+110C2EA8 00000068
+110D6058 00000068
+110C2EAA 00000069
+110D605A 00000069
+
+// Char. Code Part 0 v5
+Author = libretro-database contributors / original PSP cheat authors
+210C2EC0 0098967F
+
+// Char. Code Part 0 v6
+Author = libretro-database contributors / original PSP cheat authors
+210D6598 210C41B8
+210C41BC 210C41C0
+110C6240 207E8568
+210C2A7C 210C2E60
+
+// Char. Code Part 3 v7
+Author = libretro-database contributors / original PSP cheat authors
+110C6242 0000018A
+207E8574 01130001
+210C2A88 01130001
+210C2E6C 01130001
+
+// Char. Code Part 3 v8
+Author = libretro-database contributors / original PSP cheat authors
+110C6242 0000018A
+207E8574 01130001
+210C2A88 01130001
+210C2E6C 01130001
+
+// Def. x1
+Author = libretro-database contributors / original PSP cheat authors
+200C2044 14440027
+200C2048 00108000
+
+// Def. x2
+Author = libretro-database contributors / original PSP cheat authors
+200C2044 14440027
+200C2048 00108040
+
+// Def. x4
+Author = libretro-database contributors / original PSP cheat authors
+200C2044 14440027
+200C2048 00108080
+
+// Def. x8
+Author = libretro-database contributors / original PSP cheat authors
+200C2044 14440027
+200C2048 001080C0
+
+// Def. x16
+Author = libretro-database contributors / original PSP cheat authors
+200C2044 14440027
+200C2048 00108100
+
+// Def. x32
+Author = libretro-database contributors / original PSP cheat authors
+200C2044 14440027
+200C2048 00108140
+
+// Def. x64
+Author = libretro-database contributors / original PSP cheat authors
+200C2044 14440027
+200C2048 00108180
+
+// Def. x128
+Author = libretro-database contributors / original PSP cheat authors
+200C2044 14440027
+200C2048 001081C0
+
+// Defense x2
+Author = libretro-database contributors / original PSP cheat authors
+200C2044 14440027
+200C2048 00108040
+
+// Dokodemo Sikyuu
+Author = libretro-database contributors / original PSP cheat authors
+E0012200 0029B0EC
+107E8318 00005700
+
+// Doku Mukouka
+Author = libretro-database contributors / original PSP cheat authors
+007E8408 00000000
+
+// Game Speed
+Author = libretro-database contributors / original PSP cheat authors
+201DC738 00000001
+
+// Gold Max
+Author = libretro-database contributors / original PSP cheat authors
+210C2EC0 0098967F
+
+// GP Max
+Author = libretro-database contributors / original PSP cheat authors
+210C2EBC 0098967F
+
+// Guild Point Max
+Author = libretro-database contributors / original PSP cheat authors
+210C2EBC 0098967F
+
+// Gun Spear Reikyaku
+Author = libretro-database contributors / original PSP cheat authors
+107E86D2 00000000
+
+// Hands 1 ot 20
+Author = libretro-database contributors / original PSP cheat authors
+010C6106 00000063
+010C610A 00000063
+010C610E 00000063
+010C6112 00000063
+010C6116 00000063
+010C611A 00000063
+010C611E 00000063
+010C6122 00000063
+010C6126 00000063
+010C612A 00000063
+010C612E 00000063
+010C6132 00000063
+010C6136 00000063
+010C613A 00000063
+010C613E 00000063
+010C6146 00000063
+010C614E 00000063
+010C6152 00000063
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+107E8362 00000096
+107E849E 00000096
+
+// HP Not Dec. (c)Angstrom
+Author = libretro-database contributors / original PSP cheat authors
+007E8362 00000096
+007E849E 00000096
+
+// HP Max
+Author = libretro-database contributors / original PSP cheat authors
+007E8362 00000096
+007E849E 00000096
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+007E8362 00000096
+007E849E 00000096
+
+// Infinite Quest Time
+Author = libretro-database contributors / original PSP cheat authors
+210D809C 6B49CB15
+
+// Instance Quest Clear
+Author = libretro-database contributors / original PSP cheat authors
+010D867C 00000031
+
+// Item 99
+Author = libretro-database contributors / original PSP cheat authors
+810D6E14 00180004
+00000063 00000000
+
+// Item Box All 99
+Author = libretro-database contributors / original PSP cheat authors
+810C5484 00180002
+10000063 00000000
+
+// Item Code Part 0
+Author = libretro-database contributors / original PSP cheat authors
+110C5C90 000002A4
+110C5C92 00000063
+110C5C94 000002A3
+110C5C96 00000063
+110C5C98 000002A2
+110C5C9A 00000063
+110C5C9C 000002A1
+110C5C9E 00000063
+110C5CA0 000002A0
+110C5CA2 00000063
+
+// Itudemo Soku Clear [L+O+X]
+Author = libretro-database contributors / original PSP cheat authors
+E0016100 010C1E54
+110D867C 00000231
+
+// Itudemo Soku Clear [R+O]
+Author = libretro-database contributors / original PSP cheat authors
+E0022200 0029B0EC
+110D867C 00000231
+
+// Kaitou
+Author = libretro-database contributors / original PSP cheat authors
+007E913F 00000000
+
+// Kamehameha
+Author = libretro-database contributors / original PSP cheat authors
+E0012200 010C1E54
+107E8678 000009A4
+107E8318 00000301
+
+// Keiyaku Henkou
+Author = libretro-database contributors / original PSP cheat authors
+211A61AC 00000000
+
+// Kijinnyaku
+Author = libretro-database contributors / original PSP cheat authors
+007E840A 0000007F
+
+// Kireaji
+Author = libretro-database contributors / original PSP cheat authors
+107E8672 00007FFF
+107E90F2 00007FFF
+
+// Koukayaku
+Author = libretro-database contributors / original PSP cheat authors
+007E840B 0000007F
+
+// Kunnsyo Max
+Author = libretro-database contributors / original PSP cheat authors
+210D610C 00FFFFFF
+
+// Kyanpuni Modoru
+Author = libretro-database contributors / original PSP cheat authors
+E0012200 0029B0EC
+107E8318 00007200
+
+// MaHi Mukouka
+Author = libretro-database contributors / original PSP cheat authors
+007E9134 00000000
+
+// Max HP
+Author = libretro-database contributors / original PSP cheat authors
+210C2EC0 0098967F
+
+// Max Item 3/3
+Author = libretro-database contributors / original PSP cheat authors
+010C6156 00000063
+010C615A 00000063
+010C6162 00000063
+010C6166 00000063
+010C616A 00000063
+010C616E 00000063
+010C6172 00000063
+010C6176 00000063
+010C617A 00000063
+010C617E 00000063
+
+// Max Money, GP, PP
+Author = libretro-database contributors / original PSP cheat authors
+210C2EBC 3B9AC9FF
+210C2EC0 3B9AC9FF
+210D6598 3B9AC9FF
+
+// Mixture Success Rate 100%
+Author = libretro-database contributors / original PSP cheat authors
+2005288C 10000068
+
+// Money 9999999
+Author = libretro-database contributors / original PSP cheat authors
+010C2EC0 0098967F
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+007E8362 00000096
+007E849E 00000096
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+210C2EC0 0098967F
+
+// Monster HP Display 1.2 1/2
+Author = libretro-database contributors / original PSP cheat authors
+D029B0EC 00000101
+
+// Moon Jump
+Author = libretro-database contributors / original PSP cheat authors
+E0020300 0029B0EC
+107E8318 00004400
+107E82C6 00004200
+
+// NERU [L＋○＋×]
+Author = libretro-database contributors / original PSP cheat authors
+E0016100 010C1E54
+107E8318 00003300
+
+// Niku
+Author = libretro-database contributors / original PSP cheat authors
+010C2D45 00000000
+
+// Nikuyaki
+Author = libretro-database contributors / original PSP cheat authors
+E0012200 010C1E54
+107E8318 00004C00
+
+// Pokke Point Max
+Author = libretro-database contributors / original PSP cheat authors
+210D6598 0048967F
+
+// PP Max
+Author = libretro-database contributors / original PSP cheat authors
+210D6598 0098967F
+
+// Rare Treasure Max
+Author = libretro-database contributors / original PSP cheat authors
+210D60F0 FFFFFFFF
+
+// Renkige-ji
+Author = libretro-database contributors / original PSP cheat authors
+107E9138 00000065
+
+// Rensya
+Author = libretro-database contributors / original PSP cheat authors
+E0022200 0029B0EC
+D07E8254 00000200
+107E8254 00000000
+
+// Run
+Author = libretro-database contributors / original PSP cheat authors
+205F91F6 000000FF
+
+// Sennrigan
+Author = libretro-database contributors / original PSP cheat authors
+007E868E 000000AA
+
+// Sikyuu Item 99
+Author = libretro-database contributors / original PSP cheat authors
+810C2D4A 00200004
+00000063 00000000
+
+// Sikyuu nankaimo morau
+Author = libretro-database contributors / original PSP cheat authors
+010C2DC8 00000000
+
+// Simple Monster HP Display
+Author = libretro-database contributors / original PSP cheat authors
+E00DA3F2 000434E8
+200434F0 24070000
+200434FC 0E260E33
+20043514 24070004
+20043518 0E260E33
+201838CC 3C0209A8
+201838D0 00471021
+201838D4 8C428E70
+201838D8 10400002
+201838DC 24070000
+201838E0 844702E2
+201838E4 0A207210
+201838E8 00000000
+101838CA 00000000
+
+// Size Change Of Monster x0.5
+Author = libretro-database contributors / original PSP cheat authors
+E007F809 0116423C
+2116422C 0E260E4F
+20183938 00000000
+20183940 AE020220
+20183944 AE020224
+20183948 0A216AAD
+2018394C AE020228
+2018393C 3C023E00
+
+// Size Change Of Monster x0.75
+Author = libretro-database contributors / original PSP cheat authors
+E007F809 0116423C
+2116422C 0E260E4F
+20183938 00000000
+20183940 AE020220
+20183944 AE020224
+20183948 0A216AAD
+2018394C AE020228
+2018393C 3C023F50
+
+// Size Change Of Monster x1.0
+Author = libretro-database contributors / original PSP cheat authors
+E007F809 0116423C
+2116422C 0E260E4F
+20183938 00000000
+20183940 AE020220
+20183944 AE020224
+20183948 0A216AAD
+2018394C AE020228
+2018393C 3C024000
+
+// Size Change Of Monster x1.5
+Author = libretro-database contributors / original PSP cheat authors
+E007F809 0116423C
+2116422C 0E260E4F
+20183938 00000000
+20183940 AE020220
+20183944 AE020224
+20183948 0A216AAD
+2018394C AE020228
+2018393C 3C024050
+
+// Size Change Of Monster x2.0
+Author = libretro-database contributors / original PSP cheat authors
+E007F809 0116423C
+2116422C 0E260E4F
+20183938 00000000
+20183940 AE020220
+20183944 AE020224
+20183948 0A216AAD
+2018394C AE020228
+2018393C 3C024100
+
+// Size Change Of Player x0.5
+Author = libretro-database contributors / original PSP cheat authors
+207E82A0 3F000000
+207E82A4 3F000000
+207E82A8 3F000000
+
+// Size Change Of Player x0.75
+Author = libretro-database contributors / original PSP cheat authors
+207E82A0 3F400000
+207E82A4 3F400000
+207E82A8 3F400000
+
+// Size Change Of Player x1
+Author = libretro-database contributors / original PSP cheat authors
+207E82A0 3F800000
+207E82A4 3F800000
+207E82A8 3F800000
+
+// Size Change Of Player x2
+Author = libretro-database contributors / original PSP cheat authors
+207E82A0 40000000
+207E82A4 40000000
+207E82A8 40000000
+
+// Size Change Of Player x3
+Author = libretro-database contributors / original PSP cheat authors
+207E82A0 40400000
+207E82A4 40400000
+207E82A8 40400000
+
+// Size Change Of Player x4
+Author = libretro-database contributors / original PSP cheat authors
+207E82A0 40800000
+207E82A4 40800000
+207E82A8 40800000
+
+// Soutenn
+Author = libretro-database contributors / original PSP cheat authors
+007E86DB 00000005
+
+// Spot Boss Location
+Author = libretro-database contributors / original PSP cheat authors
+107E868E 0000FFFF
+
+// Stamina Max
+Author = libretro-database contributors / original PSP cheat authors
+107E85D6 000001C2
+107E8692 000001C2
+
+// Super Armor
+Author = libretro-database contributors / original PSP cheat authors
+007E83DE 00000002
+
+// Sutamina
+Author = libretro-database contributors / original PSP cheat authors
+107E85D6 000001C2
+107E8692 000001C2
+
+// Trap
+Author = libretro-database contributors / original PSP cheat authors
+010C2D46 00000000
+
+// Treasure High Score
+Author = libretro-database contributors / original PSP cheat authors
+210D60F4 000F423F
+210D60F8 000F423F
+210D60FC 000F423F
+210D6100 000F423F
+210D6104 000F423F
+210D6108 000F423F
+
+// Weapon Code Part 0
+Author = libretro-database contributors / original PSP cheat authors
+0012376A 00000007
+00123770 00000007
+00123771 00000005
+10123772 00007FFF
+00123774 000000FF
+00123775 0000007F
+0012377A 00000003
+
+// Weapon Code Part 1
+Author = libretro-database contributors / original PSP cheat authors
+00126BA2 00000007
+10126BA8 00007FFF
+00126BAA 000000FF
+00126BAB 00000006
+00126BAC 00000003
+00126BAD 0000007F
+00126BB2 00000006
+00126BB4 FFFFFFFF
+
+// Weapon Code Part 2
+Author = libretro-database contributors / original PSP cheat authors
+00125B52 00000007
+00125B58 00000007
+00125B59 00000005
+10125B5A 00007FFF
+00125B5C 000000FF
+00125B5D 0000007F
+00125B5E 00000004
+00125B5F 000000FF
+00125B60 00000001
+00125B61 000000FF
+
+// Weapon Code Part 3
+Author = libretro-database contributors / original PSP cheat authors
+001261FA 00000007
+10126200 00007FFF
+00126202 000000FF
+00126203 00000006
+00126204 00000003
+00126205 0000007F
+0012620A 00000006
+0012620C FFFFFFFF

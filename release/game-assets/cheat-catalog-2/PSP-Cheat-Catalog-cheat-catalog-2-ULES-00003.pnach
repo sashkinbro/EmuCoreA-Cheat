@@ -1,0 +1,42 @@
+# PSP cheat pack
+# Serial: ULES-00003
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Teams/Stadiums Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000044
+214BF018 01010101
+DC000000 00000004
+
+// Away Team Scores 0
+Author = libretro-database contributors / original PSP cheat authors
+214C735D 00000000
+
+// Away Team Scores 99
+Author = libretro-database contributors / original PSP cheat authors
+214C735D 00000063
+
+// Freeze Timer
+Author = libretro-database contributors / original PSP cheat authors
+2085E9D4 00000000
+
+// Home Team Scores 0
+Author = libretro-database contributors / original PSP cheat authors
+214C735C 00000000
+
+// Home Team Scores 99
+Author = libretro-database contributors / original PSP cheat authors
+214C735C 00000063
+
+// Instant Half
+Author = libretro-database contributors / original PSP cheat authors
+2085E9D4 0000FFFF
+2085E9D6 000000FF
+
+// Max Tokens
+Author = libretro-database contributors / original PSP cheat authors
+214BF134 000F423F
+
+// Quicker Timer
+Author = libretro-database contributors / original PSP cheat authors
+2085E9D4 0000FFFF

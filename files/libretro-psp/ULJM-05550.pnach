@@ -1,0 +1,55 @@
+# PSP cheat pack
+# Serial: ULJM-05550
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Accessory 99
+Author = libretro-database contributors / original PSP cheat authors
+8043AFBE 023D0004
+10000063 00000000
+
+// All Chara. Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+8042CF0C 001604B6
+1000FFFF 00000000
+
+// All Summon
+Author = libretro-database contributors / original PSP cheat authors
+8043B8C0 00330008
+10000003 00000000
+
+// AP Max After Battle
+Author = libretro-database contributors / original PSP cheat authors
+201F3878 00000000
+
+// CPU Invisible
+Author = libretro-database contributors / original PSP cheat authors
+603FED3C 00000000
+00020001 00000040
+603FED4C 00000000
+603FED5C 00000000
+
+// Gil Max
+Author = libretro-database contributors / original PSP cheat authors
+2043BB20 05F5E0FF
+
+// Invisible
+Author = libretro-database contributors / original PSP cheat authors
+603FEAD4 00000000
+00020001 00000040
+603FEAE4 00000000
+603FEAF4 00000000
+
+// PP Max
+Author = libretro-database contributors / original PSP cheat authors
+20446240 05F5E0FF
+
+// Unlock All Characters
+Author = libretro-database contributors / original PSP cheat authors
+20457C88 000000FF
+20457C89 000000FF
+20457C8A 000000FF
+
+// Weapon & Armor 99
+Author = libretro-database contributors / original PSP cheat authors
+8043A7BE 01DB0004
+10000063 00000000

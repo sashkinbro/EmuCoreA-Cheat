@@ -1,0 +1,16 @@
+# PSP cheat pack
+# Serial: ULJM-05270
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Ml Points
+Author = libretro-database contributors / original PSP cheat authors
+204AD6C0 0005B1CA
+
+// Max Wen
+Author = libretro-database contributors / original PSP cheat authors
+2108392C 0000270F
+
+// Unlimited wen
+Author = libretro-database contributors / original PSP cheat authors
+2108392C 00010000
+21082AA0 00010000

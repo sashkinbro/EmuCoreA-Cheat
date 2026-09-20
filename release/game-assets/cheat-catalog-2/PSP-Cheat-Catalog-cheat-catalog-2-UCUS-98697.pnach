@@ -1,0 +1,108 @@
+# PSP cheat pack
+# Serial: UCUS-98697
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Debug Menu
+Author = libretro-database contributors / original PSP cheat authors
+20AE50E4 00000000
+
+// Level Selector (Press Triangle Twice)
+Author = libretro-database contributors / original PSP cheat authors
+20AE50E4 00000011
+20AE50EC 0000001C
+
+// Asyanica Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+213CA158 423A35C7
+
+// Boltaire Museum Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+214A5A28 423A35C7
+
+// Casino Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+211BD828 423A35C7
+
+// Fort Sprocket Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+21474188 423A35C7
+
+// Gamespeed
+Author = libretro-database contributors / original PSP cheat authors
+61529BB8 A31A5C14
+00020001 00004FFC
+
+// Hydrano Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+214ACF88 423A35C7
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+60BBDD2C 42C80000
+00020001 00000967
+
+// Inf. Holo Knuckle Ammo v1
+Author = libretro-database contributors / original PSP cheat authors
+208AE7C0 00000028
+
+// Inf. LacerAtor Ammo v1
+Author = libretro-database contributors / original PSP cheat authors
+208DAAD0 00000050
+
+// Inf. Pen Ammo
+Author = libretro-database contributors / original PSP cheat authors
+208AE91C 00000008
+
+// Inf. Points
+Author = libretro-database contributors / original PSP cheat authors
+617FF550 000009B6
+00020001 000037E8
+
+// Infinite Blackout Pen Ammo
+Author = libretro-database contributors / original PSP cheat authors
+008AE91C 00000008
+
+// Infinite Energy (Enable In Game)
+Author = libretro-database contributors / original PSP cheat authors
+09CA5A28 41700000
+
+// Infinite Energy (Enable In Game) v2
+Author = libretro-database contributors / original PSP cheat authors
+214A5A28 41700000
+
+// Killing Klunk Clank Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+20FC1728 423A35C7
+
+// Leap Slow
+Author = libretro-database contributors / original PSP cheat authors
+614C3F28 00000001
+00020001 00003D6C
+
+// Max Bolts
+Author = libretro-database contributors / original PSP cheat authors
+200EDE68 3B9AC9FF
+
+// Max Bolts v2
+Author = libretro-database contributors / original PSP cheat authors
+200EDE68 05F5E0FF
+
+// Ratchet Health Frozen At 20
+Author = libretro-database contributors / original PSP cheat authors
+213F1714 41A00000
+
+// Rionosis Gandola Ascent Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+213579E8 423A35C7
+
+// Spaceship Graveyard Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+2149B2B8 423A35C7
+
+// Unlimited Energy (Enable In-Game)
+Author = libretro-database contributors / original PSP cheat authors
+214A5A28 41700000
+
+// Venantonio Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+21445658 423A35C7

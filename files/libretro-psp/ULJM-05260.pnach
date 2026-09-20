@@ -1,0 +1,59 @@
+# PSP cheat pack
+# Serial: ULJM-05260
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All 10
+Author = libretro-database contributors / original PSP cheat authors
+2006AA1C 0A7E9400
+2006AA20 24040A04
+217A5000 A4440000
+217A500C 90420001
+217A5010 0A21AA89
+217A5014 3042007F
+
+// Card +3
+Author = libretro-database contributors / original PSP cheat authors
+2006AB54 24630003
+
+// DP Max
+Author = libretro-database contributors / original PSP cheat authors
+200696E4 00000000
+
+// Enemy's Deck0
+Author = libretro-database contributors / original PSP cheat authors
+21746CDC 00000000
+
+// GTP D
+Author = libretro-database contributors / original PSP cheat authors
+D0792494 00008FB0
+20792490 24040032
+
+// LP: 20000
+Author = libretro-database contributors / original PSP cheat authors
+112081A0 00004E21
+1121F998 00004E21
+1121F9A0 00004E21
+1121F9B0 00004E21
+11745D20 00004E21
+
+// Lv.99 Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+202BD938 3B9AC9FF
+
+// Teki LP 0 (Enemy)
+Author = libretro-database contributors / original PSP cheat authors
+1121F99C 00000000
+1121F9A4 00000000
+1121F9B4 00000000
+11746CCC 00000000
+
+// Tika Teki LP 0 (Enemy)
+Author = libretro-database contributors / original PSP cheat authors
+11245C9C 00000000
+11245CA4 00000000
+11245CB4 00000000
+1176CFCC 00000000
+
+// Unlimited DP
+Author = libretro-database contributors / original PSP cheat authors
+2025732C 3B9AC9FF

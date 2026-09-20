@@ -1,0 +1,33 @@
+# PSP cheat pack
+# Serial: ULJM-05412
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+40AF72AC 00040002
+0098967F 00000000
+
+// Skill Lv.5
+Author = libretro-database contributors / original PSP cheat authors
+80AF72A8 00040008
+00000004 00000000
+
+// Speed
+Author = libretro-database contributors / original PSP cheat authors
+10B4EE5C 0000FFFF
+
+// Speed v2
+Author = libretro-database contributors / original PSP cheat authors
+10B4EE4C 0000FFFF
+
+// Time Max
+Author = libretro-database contributors / original PSP cheat authors
+109088D6 00000000
+
+// Trick
+Author = libretro-database contributors / original PSP cheat authors
+10B4EE64 0000FFFF
+
+// Trick v2
+Author = libretro-database contributors / original PSP cheat authors
+10B4EE54 0000FFFF

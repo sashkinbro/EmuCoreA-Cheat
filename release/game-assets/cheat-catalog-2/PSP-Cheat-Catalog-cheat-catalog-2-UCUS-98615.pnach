@@ -1,0 +1,226 @@
+# PSP cheat pack
+# Serial: UCUS-98615
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 People In Game
+Author = libretro-database contributors / original PSP cheat authors
+0083C494 0000001E
+
+// 4x Throwing Distance
+Author = libretro-database contributors / original PSP cheat authors
+2056C698 451C0000
+2056C69C 451C0000
+2056C6A0 3DCCCCCC
+
+// After Shot For Sniper L96AW
+Author = libretro-database contributors / original PSP cheat authors
+2092AAF0 00000004
+
+// Fall Down From Jump Up
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 00000040
+2056C3F0 423C0000
+
+// Fall Through Maps/ Skywalker
+Author = libretro-database contributors / original PSP cheat authors
+2020CD60 03E00008
+2020CD64 00000000
+
+// Flash
+Author = libretro-database contributors / original PSP cheat authors
+2055A534 40000000
+
+// Float In The Air (Press R)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000200
+2056C3F0 C1A00000
+
+// Float In The Air [Disable] (Press L)
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000100
+2056C3F0 423C0000
+
+// Full Screen Scope
+Author = libretro-database contributors / original PSP cheat authors
+20137704 00000000
+
+// Head Shots
+Author = libretro-database contributors / original PSP cheat authors
+004452E1 00000000
+
+// Inf. Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20273A64 24060064
+20273A68 ACA60000
+
+// Inf. CE
+Author = libretro-database contributors / original PSP cheat authors
+00517C3C 000F423F
+
+// Inf. CE v2
+Author = libretro-database contributors / original PSP cheat authors
+004FE334 000186A0
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+2020BAC0 03E00008
+2020BAC4 00000000
+2020BA40 03E00008
+2020BA44 00000000
+
+// Infinite Ammo v2
+Author = libretro-database contributors / original PSP cheat authors
+20273A64 24060064
+
+// Infinite Ammo v3
+Author = libretro-database contributors / original PSP cheat authors
+20273A64 20273A68
+
+// Infinite Ammo (No Reload)
+Author = libretro-database contributors / original PSP cheat authors
+2088F40C 05390539
+2088F7EC 05390539
+2088FC14 05390539
+2088FFF4 05390539
+208903B0 05390539
+208906C0 05390539
+20890A04 05390539
+20890D28 05390539
+20891098 05390539
+2089140C 05390539
+208917C4 05390539
+20891B38 05390539
+20891E64 05390539
+
+// Instant Respawn
+Author = libretro-database contributors / original PSP cheat authors
+200919C8 03E00008
+200919CC 00000000
+
+// Invisible
+Author = libretro-database contributors / original PSP cheat authors
+2056C3F0 423C0000
+2056C698 451C0000
+2056C69C 451C0000
+2056C6A0 3DCCCCCC
+200CF908 00000000
+
+// Invisible [Online]
+Author = libretro-database contributors / original PSP cheat authors
+77844686 44213153
+68687694 35216465
+13000000 24934353
+
+// Jump Up
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 00000010
+2056C3F0 C1A00000
+
+// Low Gravity
+Author = libretro-database contributors / original PSP cheat authors
+20056C3F 00000000
+
+// Low Gravity v2
+Author = libretro-database contributors / original PSP cheat authors
+2056C3F0 423C0000
+
+// Mic Always On
+Author = libretro-database contributors / original PSP cheat authors
+012B1D0C 00000001
+012B1D0E 00000001
+
+// No Fall Damage
+Author = libretro-database contributors / original PSP cheat authors
+2056C420 447A0000
+
+// No Shock
+Author = libretro-database contributors / original PSP cheat authors
+2056C3F4 00000000
+
+// No Vote
+Author = libretro-database contributors / original PSP cheat authors
+200CF908 00000000
+
+// Oh noes!
+Author = libretro-database contributors / original PSP cheat authors
+20285F54 03E00008
+
+// Perfect No Shock
+Author = libretro-database contributors / original PSP cheat authors
+2088EE98 000003E8
+2088EEF8 00001388
+2088EF28 000007D0
+2088EF58 00000BB8
+2088EF88 00001388
+2088EFB8 00001388
+2088EFE8 000003E8
+2088F018 000001F4
+2088F048 000002BC
+2088F078 00002710
+2088F0A8 000003E8
+2088F0D8 000003E8
+
+// Perfect Target Lock [Online]
+Author = libretro-database contributors / original PSP cheat authors
+2056C744 2056C76C
+2056C748 2056C770
+2056C74C 2056C774
+2056C750 2056C778
+2056C754 2056C77C
+2056C758 2056C780
+2056C75C 2056C784
+2056C760 2056C788
+2056C764 2056C798
+2056C768 2056C79C
+2056C7A0 00000000
+2056C7A4 00000000
+2056C7BC 00000000
+
+// Rapid Fire
+Author = libretro-database contributors / original PSP cheat authors
+5072C3F0 413C0100
+5056C398 451C0000
+5056D69C 451C0000
+
+// Remove headSet icon
+Author = libretro-database contributors / original PSP cheat authors
+204020F4 00000001
+
+// See Yourself While Sniping
+Author = libretro-database contributors / original PSP cheat authors
+003F06A0 00000000
+
+// Stay Dead In Game
+Author = libretro-database contributors / original PSP cheat authors
+209287C0 000003E8
+20928838 00001388
+20928874 000007D0
+209288B0 00000BB8
+209288EC 00001388
+20928928 00001388
+20928964 000003E8
+209289A0 000001F4
+209289DC 000002BC
+20928A18 00002710
+20928A54 000003E8
+20928A90 000003EB
+
+// Talk When Dead
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10000300
+2056C3F0 C4610000
+
+// Working No Shock
+Author = libretro-database contributors / original PSP cheat authors
+209287C0 000003E8
+20928838 00001388
+20928874 000007D0
+209288B0 00000BB8
+209288EC 00001388
+20928928 00001388
+20928964 000003E8
+209289A0 000001F4
+209289DC 000002BC
+20928A18 00002710
+20928A54 000003E8
+20928A90 000003E8

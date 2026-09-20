@@ -1,0 +1,177 @@
+# PSP cheat pack
+# Serial: ULJM-05537
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Ability Of Teammate's Pitcher Maximum
+Author = libretro-database contributors / original PSP cheat authors
+0123A4A0 00000007
+0123A4A4 00000007
+0123A4A8 00000007
+0123A4AC 00000007
+0123A4B0 00000007
+0123A490 000000FF
+0123A492 000000A5
+0123A4CC 000000FF
+0123A51C 00000007
+0123A520 00000007
+0123A524 00000007
+0123A528 00000007
+0123A52C 00000007
+0123A50C 000000FF
+0123A50E 000000A5
+0123A548 000000FF
+
+// Ball Speed
+Author = libretro-database contributors / original PSP cheat authors
+011CFBE0 0000009B
+
+// Captain Rating
+Author = libretro-database contributors / original PSP cheat authors
+011CFC9C 000000FF
+
+// Curve
+Author = libretro-database contributors / original PSP cheat authors
+011CFCA8 00000007
+
+// Fork
+Author = libretro-database contributors / original PSP cheat authors
+011CFCAC 00000007
+
+// Love Sickness
+Author = libretro-database contributors / original PSP cheat authors
+011CFD58 00000000
+
+// Make Auto And Powerful Defense & Pitch
+Author = libretro-database contributors / original PSP cheat authors
+00269BA1 00000001
+00269BA2 00000004
+00269BA3 00000001
+00269BA4 00000004
+
+// Mental Points
+Author = libretro-database contributors / original PSP cheat authors
+0122A9A0 000000FF
+
+// Motivation
+Author = libretro-database contributors / original PSP cheat authors
+011CFBC4 00000004
+
+// Physical Fitness
+Author = libretro-database contributors / original PSP cheat authors
+011CFBBC 00000064
+
+// Pitcher's Control Max
+Author = libretro-database contributors / original PSP cheat authors
+011CFBE4 000000FF
+
+// Point Max
+Author = libretro-database contributors / original PSP cheat authors
+0122A994 000000FF
+0122A998 000000FF
+0122A99C 000000FF
+0122A9A0 000000FF
+
+// Possession Money
+Author = libretro-database contributors / original PSP cheat authors
+111CFBF4 0000270F
+
+// Scholastic Ability
+Author = libretro-database contributors / original PSP cheat authors
+011CFBE8 000000FF
+
+// Shoot
+Author = libretro-database contributors / original PSP cheat authors
+011CFCB4 00000007
+
+// Sinker
+Author = libretro-database contributors / original PSP cheat authors
+011CFCB0 00000007
+
+// Slider
+Author = libretro-database contributors / original PSP cheat authors
+011CFCA4 00000007
+
+// Strike
+Author = libretro-database contributors / original PSP cheat authors
+002B15B0 00000000
+
+// Teammate's Fielder's Ability Up To 1
+Author = libretro-database contributors / original PSP cheat authors
+01239E2E 000000FF
+01239E32 0000000F
+01239E34 0000000F
+01239E36 0000000F
+01239E38 0000000F
+01239EAA 000000FF
+01239EAE 0000000F
+01239EB0 0000000F
+01239EB2 0000000F
+01239EB4 0000000F
+01239F26 000000FF
+01239F2A 0000000F
+01239F2C 0000000F
+01239F2E 0000000F
+01239F30 0000000F
+
+// Teammate's Fielder's Ability Up To 2
+Author = libretro-database contributors / original PSP cheat authors
+01239FA2 000000FF
+01239FA6 0000000F
+01239FA8 0000000F
+01239FAA 0000000F
+01239FAC 0000000F
+0123A01E 000000FF
+0123A022 0000000F
+0123A024 0000000F
+0123A026 0000000F
+0123A028 0000000F
+
+// Teammate's Fielder's Ability Up To 3
+Author = libretro-database contributors / original PSP cheat authors
+0123A09A 000000FF
+0123A09E 0000000F
+0123A0A0 0000000F
+0123A0A2 0000000F
+0123A0A4 0000000F
+0123A116 000000FF
+0123A11A 0000000F
+0123A11C 0000000F
+0123A11E 0000000F
+0123A120 0000000F
+0123A192 000000FF
+0123A196 0000000F
+0123A198 0000000F
+0123A19A 0000000F
+0123A19C 0000000F
+0123A20E 000000FF
+0123A212 0000000F
+0123A214 0000000F
+0123A216 0000000F
+0123A218 0000000F
+
+// Teammate Fielder's Ability Up To 4
+Author = libretro-database contributors / original PSP cheat authors
+0123A28A 000000FF
+0123A28E 0000000F
+0123A290 0000000F
+0123A292 0000000F
+0123A294 0000000F
+0123A306 000000FF
+0123A30A 0000000F
+0123A30C 0000000F
+0123A30E 0000000F
+0123A310 0000000F
+0123A382 000000FF
+0123A386 0000000F
+0123A388 0000000F
+0123A38A 0000000F
+0123A38C 0000000F
+0123A3FE 000000FF
+0123A402 0000000F
+0123A404 0000000F
+0123A406 0000000F
+0123A408 0000000F
+
+// Tough
+Author = libretro-database contributors / original PSP cheat authors
+011CFBC0 00000064

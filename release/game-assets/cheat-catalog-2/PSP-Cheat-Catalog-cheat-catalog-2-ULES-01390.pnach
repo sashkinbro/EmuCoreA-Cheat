@@ -1,0 +1,68 @@
+# PSP cheat pack
+# Serial: ULES-01390
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Kill For Max
+Author = libretro-database contributors / original PSP cheat authors
+20061758 24062710
+
+// Easy Revenge Titles
+Author = libretro-database contributors / original PSP cheat authors
+20076138 24052710
+
+// Infinite HP & Armor
+Author = libretro-database contributors / original PSP cheat authors
+201473DC 0A200800
+20002000 248EC2A4
+20002004 85CF0030
+20002008 24186C50
+2000200C 15F80004
+20002014 8C8F0004
+20002018 AC8F0000
+2000201C AC8F0008
+20002020 03E00008
+20002024 C4800000
+
+// Infinite Wrath
+Author = libretro-database contributors / original PSP cheat authors
+20071130 0E20080E
+20002038 3C1942C8
+2000203C AE194070
+20002040 03E00008
+20002044 C60C4070
+
+// Instant Capture
+Author = libretro-database contributors / original PSP cheat authors
+2006C574 0A20080A
+20002028 3C05447A
+2000202C AC450098
+20002030 0A21B15E
+20002034 C44C0098
+
+// Kill Count Never Ends
+Author = libretro-database contributors / original PSP cheat authors
+2006E78C 00000000
+
+// TimeScale: Even Faster
+Author = libretro-database contributors / original PSP cheat authors
+2018D494 3FC00000
+
+// TimeScale: Faster
+Author = libretro-database contributors / original PSP cheat authors
+2018D494 3FA00000
+
+// TimeScale: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2018D494 40000000
+
+// TimeScale: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2018D494 3F800000
+
+// TimeScale: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2018D494 3F400000
+
+// TimeScale: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2018D494 3F000000

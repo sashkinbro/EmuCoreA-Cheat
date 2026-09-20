@@ -1,0 +1,162 @@
+# PSP cheat pack
+# Serial: ULJM-05530
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// ?????? ?????
+Author = libretro-database contributors / original PSP cheat authors
+2018A89C 014C0000
+1018B224 00000BB8
+1018B228 00000BB8
+1018B22C 000001F4
+1018B230 000001F4
+0018B234 00000064
+0018B238 00000032
+0018B23C 00000032
+0018B240 00000032
+1018B244 000003E8
+0018B248 0000001E
+0018B24C 00000001
+0018B250 00000032
+0018B254 000000C8
+0018B258 000000C8
+0018B25C 00000064
+1018B260 000001F4
+0018B264 00000001
+0018B268 00000001
+0018B26C 00000001
+0018B270 00000001
+0018B274 00000001
+0018B278 00000001
+0018B27C 00000001
+0018B280 00000001
+0018B284 00000001
+0018B288 00000001
+0018B28C 00000064
+0018B290 00000001
+1018B294 0000012C
+0018B298 00000064
+0018B29C 00000001
+0018B2A0 00000001
+0018B2A4 00000001
+
+// ???????? 0
+Author = libretro-database contributors / original PSP cheat authors
+0018A898 00000000
+
+// ???????????
+Author = libretro-database contributors / original PSP cheat authors
+B7800000 00000004
+2018B33C 01010101
+D3800000 00000004
+
+// 1 Kill For Max
+Author = libretro-database contributors / original PSP cheat authors
+2006156C 24062710
+
+// Dark Energy Max
+Author = libretro-database contributors / original PSP cheat authors
+2018A8D8 000F423F
+
+// Enable For Use Player Code
+Author = libretro-database contributors / original PSP cheat authors
+2006DF18 0E200400
+20001008 8E080030
+2000100C 3C097961
+20001010 35296C50
+20001014 1509003A
+2000101C 3C014080
+20001028 3C014180
+20001034 8E013D60
+2000104C 24010001
+20001058 3C0142C8
+20001100 03E00008
+20001104 C48C0000
+
+// Easy Revenge Titles
+Author = libretro-database contributors / original PSP cheat authors
+20075EE4 24052710
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+107E8362 00000096
+
+// Infinite HP & Armor
+Author = libretro-database contributors / original PSP cheat authors
+20146EA4 0A200800
+20002000 248EC2A4
+20002004 85CF0030
+20002008 24186C50
+2000200C 15F80004
+20002014 8C8F0004
+20002018 AC8F0000
+2000201C AC8F0008
+20002020 03E00008
+20002024 C4800000
+
+// Infinite Wrath
+Author = libretro-database contributors / original PSP cheat authors
+20070EDC 0E20080E
+20002038 3C1942C8
+2000203C AE194070
+20002040 03E00008
+20002044 C60C4070
+
+// Instant Capture
+Author = libretro-database contributors / original PSP cheat authors
+2006C364 0A20080A
+20002028 3C05447A
+2000202C AC450098
+20002030 0A21B0DA
+20002034 C44C0098
+
+// Kill Count Never Ends
+Author = libretro-database contributors / original PSP cheat authors
+2006E57C 00000000
+
+// Money 90000
+Author = libretro-database contributors / original PSP cheat authors
+2018A8D8 00015F90
+
+// Player Armor Max
+Author = libretro-database contributors / original PSP cheat authors
+20001044 AE013D64
+
+// Player Genocide Burst Max
+Author = libretro-database contributors / original PSP cheat authors
+2000105C AE014070
+
+// Player Health Max
+Author = libretro-database contributors / original PSP cheat authors
+20001038 AE013D5C
+
+// Player High Jump
+Author = libretro-database contributors / original PSP cheat authors
+20001020 AE010230
+
+// Player High Speed
+Author = libretro-database contributors / original PSP cheat authors
+2000102C AE010234
+
+// TimeScale: Even Faster
+Author = libretro-database contributors / original PSP cheat authors
+2018CE94 3FC00000
+
+// TimeScale: Faster
+Author = libretro-database contributors / original PSP cheat authors
+2018CE94 3FA00000
+
+// TimeScale: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2018CE94 40000000
+
+// TimeScale: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2018CE94 3F800000
+
+// TimeScale: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2018CE94 3F400000
+
+// TimeScale: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2018CE94 3F000000

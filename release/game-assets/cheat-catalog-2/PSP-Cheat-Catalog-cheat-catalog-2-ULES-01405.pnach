@@ -1,0 +1,52 @@
+# PSP cheat pack
+# Serial: ULES-01405
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Go Through Objects And Walls
+Author = libretro-database contributors / original PSP cheat authors
+20216480 03E00008
+20216484 00000000
+D0000001 10004000
+20216480 27BDBF90
+20216484 C4CC0000
+
+// Jumping And Walking In Mid-Air
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 10004200
+20270EC8 00000000
+D0000000 10001000
+20270EC8 AC89006C
+D0000000 10008000
+
+// Max Coins
+Author = libretro-database contributors / original PSP cheat authors
+205D4B70 0000270F
+
+// Speed Modifier: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C044100
+
+// Speed Modifier: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C044180
+
+// Speed Modifier: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C043F80
+
+// Speed Modifier: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C044080
+
+// Speed Modifier: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C043E80
+
+// Speed Modifier: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20040B74 3C043D80
+
+// Unlock Content With Any Amount Money
+Author = libretro-database contributors / original PSP cheat authors
+201990A8 00000000
+2008CBB4 00000000

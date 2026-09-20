@@ -1,0 +1,47 @@
+# PSP cheat pack
+# Serial: ULJM-05315
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99 Lives
+Author = libretro-database contributors / original PSP cheat authors
+0020A334 00000006
+
+// Fast Score Gain
+Author = libretro-database contributors / original PSP cheat authors
+1020A2C8 0000FFFF
+
+// Faster Aliens
+Author = libretro-database contributors / original PSP cheat authors
+200F0C18 40000000
+
+// Immune To Bullets
+Author = libretro-database contributors / original PSP cheat authors
+0020A33C 0000004B
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+0020A334 0000000A
+
+// Infinite Weapon Use
+Author = libretro-database contributors / original PSP cheat authors
+1020A384 00000100
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+2020A2C8 773593FF
+
+// Much Faster Aliens
+Author = libretro-database contributors / original PSP cheat authors
+200F0C18 40800000
+
+// Much Slower Aliens
+Author = libretro-database contributors / original PSP cheat authors
+200F0C18 3E800000
+
+// Normal Aliens
+Author = libretro-database contributors / original PSP cheat authors
+200F0C18 40000000
+
+// Slower Aliens
+Author = libretro-database contributors / original PSP cheat authors
+200F0C18 3F000000

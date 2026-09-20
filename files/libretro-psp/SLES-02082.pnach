@@ -1,0 +1,215 @@
+# PSP cheat pack
+# Serial: SLES-02082
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 100 AP
+Author = libretro-database contributors / original PSP cheat authors
+210791F0 00640064
+
+// 100 XP
+Author = libretro-database contributors / original PSP cheat authors
+210791A4 00000064
+210791A8 00000064
+210791AC 00000064
+
+// 1000 XP
+Author = libretro-database contributors / original PSP cheat authors
+210791A4 000003E8
+210791A8 000003E8
+210791AC 000003E8
+
+// 250 AP
+Author = libretro-database contributors / original PSP cheat authors
+210791F0 00FA00FA
+
+// 500 XP
+Author = libretro-database contributors / original PSP cheat authors
+210791A4 000001F4
+210791A8 000001F4
+210791AC 000001F4
+
+// 9999 XP
+Author = libretro-database contributors / original PSP cheat authors
+210791A4 0000270F
+210791A8 0000270F
+210791AC 0000270F
+
+// All Characters Available
+Author = libretro-database contributors / original PSP cheat authors
+21077EDC 00000001
+21077DAC 00000001
+21077E44 00000001
+21077F74 00000001
+2107800C 00000001
+210780A4 00000001
+2107813C 00000001
+210781D4 00000001
+
+// All GFs Available
+Author = libretro-database contributors / original PSP cheat authors
+210778E9 00000001
+2107792D 00000001
+21077971 00000001
+210779B5 00000001
+210779F9 00000001
+21077A3D 00000001
+21077A81 00000001
+21077AC5 00000001
+21077B09 00000001
+21077B4D 00000001
+21077B91 00000001
+21077BD5 00000001
+21077C19 00000001
+21077C5D 00000001
+21077CA1 00000001
+21077CE5 00000001
+
+// All Items
+Author = libretro-database contributors / original PSP cheat authors
+D5000000 00006301
+C0000000 000000C6
+D7000000 010783CC
+D4000000 00000001
+D2000000 00000000
+
+// Debug Room (Press Select)
+Author = libretro-database contributors / original PSP cheat authors
+21070B08 00000100
+210709B8 00490001
+D2000000 00000000
+
+// Irvine
+Author = libretro-database contributors / original PSP cheat authors
+D5000000 00006301
+C0000000 00000020
+D7000000 01077E58
+D4000000 00000001
+D2000000 00000000
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+21078394 05F5E0FF
+
+// Max Mag.
+Author = libretro-database contributors / original PSP cheat authors
+210780B4 000000F0
+
+// Max Mag. (P2)
+Author = libretro-database contributors / original PSP cheat authors
+2107801C 000000F0
+
+// Max Mag. (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077DBC 000000F0
+
+// Max Mag. (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077EEC 000000F0
+
+// Max Mag. (P5)
+Author = libretro-database contributors / original PSP cheat authors
+21077D24 000000F0
+
+// Max Spr.
+Author = libretro-database contributors / original PSP cheat authors
+210780B5 000000F0
+
+// Max Spr. (P2)
+Author = libretro-database contributors / original PSP cheat authors
+2107801D 000000F0
+
+// Max Spr. (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077DBD 000000F0
+
+// Max Spr. (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077EED 000000F0
+
+// Max Spr. (P5)
+Author = libretro-database contributors / original PSP cheat authors
+21077D25 000000F0
+
+// Max Str.
+Author = libretro-database contributors / original PSP cheat authors
+210780B2 000000F0
+
+// Max Str. (P2)
+Author = libretro-database contributors / original PSP cheat authors
+2107801A 000000F0
+
+// Max Str. (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077DBA 000000F0
+
+// Max Str. (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077EEA 000000F0
+
+// Max Str. (P5)
+Author = libretro-database contributors / original PSP cheat authors
+21077D22 000000F0
+
+// Max Vit.
+Author = libretro-database contributors / original PSP cheat authors
+210780B3 000000F0
+
+// Max Vit. (P2)
+Author = libretro-database contributors / original PSP cheat authors
+2107801B 000000F0
+
+// Max Vit. (P3)
+Author = libretro-database contributors / original PSP cheat authors
+21077DBB 000000F0
+
+// Max Vit. (P4)
+Author = libretro-database contributors / original PSP cheat authors
+21077EEB 000000F0
+
+// Max Vit. (P5)
+Author = libretro-database contributors / original PSP cheat authors
+21077D23 000000F0
+
+// Quistis
+Author = libretro-database contributors / original PSP cheat authors
+D5000000 00006301
+C0000000 00000020
+D7000000 01077EF0
+D4000000 00000001
+D2000000 00000000
+
+// Rinoa
+Author = libretro-database contributors / original PSP cheat authors
+D5000000 00006301
+C0000000 00000020
+D7000000 01077F88
+D4000000 00000001
+D2000000 00000000
+
+// Save Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+21070B62 00000100
+
+// Selphie
+Author = libretro-database contributors / original PSP cheat authors
+D5000000 00006301
+C0000000 00000020
+D7000000 01078020
+D4000000 00000001
+D2000000 00000000
+
+// Squall
+Author = libretro-database contributors / original PSP cheat authors
+D5000000 00006301
+C0000000 00000020
+D7000000 01077D28
+D4000000 00000001
+D2000000 00000000
+
+// Zell
+Author = libretro-database contributors / original PSP cheat authors
+D5000000 00006301
+C0000000 00000020
+D7000000 01077DC0
+D4000000 00000001
+D2000000 00000000

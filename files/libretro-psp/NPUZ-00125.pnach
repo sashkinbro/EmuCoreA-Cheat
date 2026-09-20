@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: NPUZ-00125
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Can Always Eat Ghosts
+Author = libretro-database contributors / original PSP cheat authors
+200122CC 1000001B
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+2000D6E8 00000000

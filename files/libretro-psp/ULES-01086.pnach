@@ -1,0 +1,150 @@
+# PSP cheat pack
+# Serial: ULES-01086
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AI Size Mod: Gigantic
+Author = libretro-database contributors / original PSP cheat authors
+200356D0 3C044040
+
+// AI Size Mod: Larger
+Author = libretro-database contributors / original PSP cheat authors
+200356D0 3C044000
+
+// AI Size Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+200356D0 3C043F80
+
+// AI Size Mod: Small
+Author = libretro-database contributors / original PSP cheat authors
+200356D0 3C043F40
+
+// AI Size Mod: Tiny
+Author = libretro-database contributors / original PSP cheat authors
+200356D0 3C043F00
+
+// Always 10 Treasures
+Author = libretro-database contributors / original PSP cheat authors
+203C5C14 0000000A
+203C5C18 0000000A
+203C5C1C 0000000A
+
+// Always 999.999 Gold
+Author = libretro-database contributors / original PSP cheat authors
+203C5F18 000F423F
+
+// Infinite Studs (In Level)
+Author = libretro-database contributors / original PSP cheat authors
+203C5F18 000F423F
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+2030F6EC FFFE0000
+DB000000 0030F6EC
+D4000000 00000001
+D8000000 0030F6EC
+D2000000 00000000
+
+// Invincible v2
+Author = libretro-database contributors / original PSP cheat authors
+2030F6EC 00000001
+
+// Max Studs (In Museum)
+Author = libretro-database contributors / original PSP cheat authors
+203C5880 EE6B2800
+
+// Max Studs v2
+Author = libretro-database contributors / original PSP cheat authors
+203C5880 05F5E0FF
+203C5F18 05F5E0FF
+
+// Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+217FF106 00000000
+217FF104 BFFF4000
+2009D4CC 00000000
+2032F8E4 00000000
+0000006C 3F000000
+D2000000 00000000
+
+// Moonjump v2
+Author = libretro-database contributors / original PSP cheat authors
+217FF106 00000000
+217FF104 BFFF4000
+2009D4CC 00000000
+2032F8E4 3F000000
+00020000 0000006C
+
+// Moonjump v3
+Author = libretro-database contributors / original PSP cheat authors
+217FF106 00000000
+217FF104 BFFF4000
+2009D4CC 00000000
+2032F8E4 3F000000
+00020001 0000006C
+
+// Moonjump (Quicker)
+Author = libretro-database contributors / original PSP cheat authors
+217FF106 00000000
+217FF104 BFFF4000
+2009D4CC 00000000
+2032F8E4 00000000
+0000006C 3F400000
+D2000000 00000000
+
+// Moonjump (Quicker) v2
+Author = libretro-database contributors / original PSP cheat authors
+217FF106 00000000
+217FF104 BFFF4000
+2009D4CC 00000000
+2032F8E4 3F400000
+00020000 0000006C
+
+// Moonjump (Quicker) v3
+Author = libretro-database contributors / original PSP cheat authors
+217FF106 00000000
+217FF104 BFFF4000
+2009D4CC 00000000
+2032F8E4 3F400000
+00020001 0000006C
+
+// Player Size Mod: Gigantic
+Author = libretro-database contributors / original PSP cheat authors
+200359B4 3C044040
+
+// Player Size Mod: Larger
+Author = libretro-database contributors / original PSP cheat authors
+200359B4 3C044000
+
+// Player Size Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+200359B4 3C043F80
+
+// Player Size Mod: Small
+Author = libretro-database contributors / original PSP cheat authors
+200359B4 3C043F40
+
+// Player Size Mod: Tiny
+Author = libretro-database contributors / original PSP cheat authors
+200359B4 3C043F00
+
+// Take Studs Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+202A7AD0 0A8AA7D2
+
+// Unlock All Cheats
+Author = libretro-database contributors / original PSP cheat authors
+203C586C FFFFFFFF
+
+// Unlock All Extras
+Author = libretro-database contributors / original PSP cheat authors
+203C586C FFFFFFFF
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000013
+203C5384 01010101
+203C5388 01010AFF
+203C538C 00000001
+203C5390 44160000
+DC000000 00000010
+D2000000 00000000

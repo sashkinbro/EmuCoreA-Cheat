@@ -1,0 +1,174 @@
+# PSP cheat pack
+# Serial: ULES-00940
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Graphic Workaround
+Author = libretro-database contributors / original PSP cheat authors
+E003FFFF 00169084
+20169084 0000C821
+20169088 2442FF88
+2000BCD0 00005021
+
+// 20 FPS
+Author = libretro-database contributors / original PSP cheat authors
+201A4BFC 00000003
+
+// 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+201A4BFC 00000002
+
+// 30 FPS (ASM) v2
+Author = libretro-database contributors / original PSP cheat authors
+201500A0 24050002
+
+// 60 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+201A4BFC 00000001
+
+// 60 FPS (ASM) v2
+Author = libretro-database contributors / original PSP cheat authors
+201500A0 24050001
+
+// Character Modifier: Giant Character
+Author = libretro-database contributors / original PSP cheat authors
+208CD5F0 40000000
+
+// Character Modifier: Normal
+Author = libretro-database contributors / original PSP cheat authors
+208CD5F0 3F800000
+
+// Character Modifier: Small
+Author = libretro-database contributors / original PSP cheat authors
+208CD5F0 3F000000
+
+// Power-Up: Bomb
+Author = libretro-database contributors / original PSP cheat authors
+208CDEAC 00000004
+
+// Power-Up: Fire
+Author = libretro-database contributors / original PSP cheat authors
+208CDEAC 00000001
+
+// Power-Up: Ice
+Author = libretro-database contributors / original PSP cheat authors
+208CDEAC 00000002
+
+// Power-Up: Illusion
+Author = libretro-database contributors / original PSP cheat authors
+208CDEAC 00000005
+
+// Power-Up: Lightning
+Author = libretro-database contributors / original PSP cheat authors
+208CDEAC 00000003
+
+// Power-Up: Ring Magnet
+Author = libretro-database contributors / original PSP cheat authors
+208CDEAC 00000007
+
+// Power-Up: Ring Shot
+Author = libretro-database contributors / original PSP cheat authors
+208CDEAC 0000000B
+
+// Power-Up: Sludge
+Author = libretro-database contributors / original PSP cheat authors
+208CDEAC 00000009
+
+// Power-Up: Sticky Feet
+Author = libretro-database contributors / original PSP cheat authors
+208CDEAC 0000000A
+
+// Power-Up: Unique Attack
+Author = libretro-database contributors / original PSP cheat authors
+208CDEAC 00000008
+
+// Power-Up: Window
+Author = libretro-database contributors / original PSP cheat authors
+208CDEAC 00000006
+
+// Low Time
+Author = libretro-database contributors / original PSP cheat authors
+20282220 3F800000
+
+// Max Rings
+Author = libretro-database contributors / original PSP cheat authors
+208CDD0C 0098967F
+
+// Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+201A8024 BFFF4000
+208CDA70 3F800000
+
+// Moonjump [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201A8024 00000000
+208CDA70 00000000
+
+// Signature Meter Always Full
+Author = libretro-database contributors / original PSP cheat authors
+208CE2F4 3F800000
+
+// Slow Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+201A8024 BFFF4000
+208CDA70 3E800000
+
+// Slow Moonjump [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201A8024 00000000
+208CDA70 00000000
+
+// Time Always 0:01.00
+Author = libretro-database contributors / original PSP cheat authors
+20282220 3F800000
+
+// Unlock All Cards
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000095
+20280E64 00000001
+DC000000 00000010
+D2000000 00000000
+
+// Unlock All Cards v2
+Author = libretro-database contributors / original PSP cheat authors
+20280E64 00000001
+
+// Unlock All Cards v3
+Author = libretro-database contributors / original PSP cheat authors
+20280E64 00000010
+00000001 00000000
+
+// Unlock All Costumes
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000001F
+20281B68 00000001
+DC000000 00000001
+D2000000 00000000
+
+// Unlock All Costumes v2
+Author = libretro-database contributors / original PSP cheat authors
+20281B68 00000001
+00000001 00000000
+
+// Unlock All Cup Circuit
+Author = libretro-database contributors / original PSP cheat authors
+20281B8F 00000001
+
+// Unlock All Outfits
+Author = libretro-database contributors / original PSP cheat authors
+20281B68 00000001
+
+// Unlock All Story
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000007
+20281B18 000000FF
+DC000000 00000004
+D2000000 00000000
+
+// Unlock All Story v2
+Author = libretro-database contributors / original PSP cheat authors
+20281B18 000000FF
+
+// Unlock All Story v3
+Author = libretro-database contributors / original PSP cheat authors
+20281B18 00000004
+000000FF 00000000

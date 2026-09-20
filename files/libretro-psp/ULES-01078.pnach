@@ -1,0 +1,183 @@
+# PSP cheat pack
+# Serial: ULES-01078
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Endless Mode Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213E84 00000002
+D2000000 00000000
+
+// Fast Score Gain
+Author = libretro-database contributors / original PSP cheat authors
+20215FD8 00000000
+20215FD8 0000FFFF
+D2000000 00000000
+
+// Fast Score Gain v2
+Author = libretro-database contributors / original PSP cheat authors
+20215FD8 0000FFFF
+00020000 00000000
+
+// Fast Score Gain v3
+Author = libretro-database contributors / original PSP cheat authors
+20215FD8 0000FFFF
+00020001 00000000
+
+// Immune To Bullets
+Author = libretro-database contributors / original PSP cheat authors
+2021604C 0000004B
+
+// Infinite Fever
+Author = libretro-database contributors / original PSP cheat authors
+20216010 00000000
+20216010 00000100
+D2000000 00000000
+
+// Infinite Fever v2
+Author = libretro-database contributors / original PSP cheat authors
+20216010 00000100
+00020000 00000000
+
+// Infinite Fever v3
+Author = libretro-database contributors / original PSP cheat authors
+20216010 00000100
+00020001 00000000
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20216044 0000000A
+
+// Infinite Weapon Use
+Author = libretro-database contributors / original PSP cheat authors
+20216094 00000000
+20216094 00000100
+D2000000 00000000
+
+// Infinite Weapon Use v2
+Author = libretro-database contributors / original PSP cheat authors
+20216094 00000100
+00020000 00000000
+
+// Infinite Weapon Use v3
+Author = libretro-database contributors / original PSP cheat authors
+20216094 00000100
+00020001 00000000
+
+// Max Score
+Author = libretro-database contributors / original PSP cheat authors
+20215FD8 00000000
+20215FD8 773593FF
+D2000000 00000000
+
+// Max Score v2
+Author = libretro-database contributors / original PSP cheat authors
+20215FD8 773593FF
+00020000 00000000
+
+// Max Score v3
+Author = libretro-database contributors / original PSP cheat authors
+20215FD8 773593FF
+00020001 00000000
+
+// Speed Mod: Faster
+Author = libretro-database contributors / original PSP cheat authors
+200FC928 40000000
+
+// Speed Mod: Much Faster
+Author = libretro-database contributors / original PSP cheat authors
+200FC928 40800000
+
+// Speed Mod: Much Slower
+Author = libretro-database contributors / original PSP cheat authors
+200FC928 3E800000
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+200FC928 40000000
+
+// Speed Mod: Slower
+Author = libretro-database contributors / original PSP cheat authors
+200FC928 3F000000
+
+// Stage Mode Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213E80 00000002
+D2000000 00000000
+
+// Stage Mode: Stage 1 Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213E98 00000001
+D2000000 00000000
+
+// Stage Mode: Stage 2 Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213E9C 00000001
+D2000000 00000000
+
+// Stage Mode: Stage 3-A Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213EA0 00000001
+D2000000 00000000
+
+// Stage Mode: Stage 3-B Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213EAC 00000001
+D2000000 00000000
+
+// Stage Mode: Stage 4-A Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213EA4 00000001
+D2000000 00000000
+
+// Stage Mode: Stage 4-B Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213EB0 00000001
+D2000000 00000000
+
+// Stage Mode: Stage 4-C Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213EB8 00000001
+D2000000 00000000
+
+// Stage Mode: Stage 5-A Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213EA8 00000001
+D2000000 00000000
+
+// Stage Mode: Stage 5-B Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213EB4 00000001
+D2000000 00000000
+
+// Stage Mode: Stage 5-C Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213EBC 00000001
+D2000000 00000000
+
+// Stage Mode: Stage 5-D Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213EC0 00000001
+D2000000 00000000
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+217FF594 FFFE0001
+20213E80 00000002
+20213E84 00000002
+C0000000 0000000A
+20213E98 00000001
+DC000000 00000004
+D2000000 00000000

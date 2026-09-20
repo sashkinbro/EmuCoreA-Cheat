@@ -1,0 +1,92 @@
+# PSP cheat pack
+# Serial: UCJS-10114
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Skins Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+200F69F4 10000007
+200F6A5C 10000008
+
+// Healthy Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+20453B7C 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20453B7C 00000000
+
+// Infinite Magic
+Author = libretro-database contributors / original PSP cheat authors
+20453B84 00000000
+
+// One Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+20453B80 461C3C00
+
+// Orb Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20453B78 40800000
+
+// Orb Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+20453B78 41800000
+
+// Orb Multiplier x64
+Author = libretro-database contributors / original PSP cheat authors
+20453B78 42800000
+
+// Orb Multiplier x128
+Author = libretro-database contributors / original PSP cheat authors
+20453B78 43000000
+
+// Orb Multiplier Codes [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20453B78 3F800000
+
+// Red Orb Max
+Author = libretro-database contributors / original PSP cheat authors
+201D37FC 35240000
+
+// Size Mod: Bigger
+Author = libretro-database contributors / original PSP cheat authors
+20303F5C 3C043F90
+
+// Size Mod: Even Bigger
+Author = libretro-database contributors / original PSP cheat authors
+20303F5C 3C043FA0
+
+// Size Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20303F5C 3C043F80
+
+// Size Mod: Small
+Author = libretro-database contributors / original PSP cheat authors
+20303F5C 3C043F00
+
+// Size Mod: Super Small
+Author = libretro-database contributors / original PSP cheat authors
+20303F5C 3C043E80
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+203FB658 000006E8
+
+// Speed Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+203FB658 000009E8
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+203FB658 000003E8
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+203FB658 000004E8
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+203FB658 00000280
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+203FB658 00000140

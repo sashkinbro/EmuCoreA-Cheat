@@ -1,0 +1,127 @@
+# PSP cheat pack
+# Serial: UCAS-40265
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// AI Disable
+Author = libretro-database contributors / original PSP cheat authors
+2014E480 24110003
+2014E4D0 00000000
+
+// AI Enable
+Author = libretro-database contributors / original PSP cheat authors
+2014E480 00008821
+2014E4D0 1440FFED
+
+// Camera: Debug Camera
+Author = libretro-database contributors / original PSP cheat authors
+201281F4 24100002
+20128200 24050002
+
+// Camera: Replay Camera
+Author = libretro-database contributors / original PSP cheat authors
+201281F4 24100001
+20128200 24050001
+
+// Camera: Reset Camera (Do Not Use On SmnorthPS2)
+Author = libretro-database contributors / original PSP cheat authors
+201281D8 00A08021
+20128200 10A00016
+2012752C 8E020004
+20127534 AE221FAC
+204DD954 00000000
+204DD95C 0000001A
+
+// Cars Cost Nothing
+Author = libretro-database contributors / original PSP cheat authors
+20130E18 24020000
+
+// Circle60PS2
+Author = libretro-database contributors / original PSP cheat authors
+20810440 0000003F
+
+// GymkanaPS2 (Time Trial)
+Author = libretro-database contributors / original PSP cheat authors
+20810440 00000087
+
+// HUD: Enable Full HUD
+Author = libretro-database contributors / original PSP cheat authors
+21529BC0 00000000
+
+// HUD: Enable Lower HUD
+Author = libretro-database contributors / original PSP cheat authors
+21529BC0 00000002
+
+// HUD: Disable HUD
+Author = libretro-database contributors / original PSP cheat authors
+21529BC0 00000001
+
+// Max Credits
+Author = libretro-database contributors / original PSP cheat authors
+2080FA00 05E69EC0
+
+// Racing Line
+Author = libretro-database contributors / original PSP cheat authors
+204DD08C 00000001
+
+// Racing Line [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+204DD08C 00000000
+
+// Rank S After One Race
+Author = libretro-database contributors / original PSP cheat authors
+200064B8 00000000
+200064C8 00000000
+
+// SmnorthPS2 (External Cam)
+Author = libretro-database contributors / original PSP cheat authors
+20810440 00000030
+204DD954 00000001
+204DD95C 00000001
+
+// Speed Mod: A Bit Quicker
+Author = libretro-database contributors / original PSP cheat authors
+200ABCAC 3C013FC0
+
+// Speed Mod: Even Slower
+Author = libretro-database contributors / original PSP cheat authors
+200ABCAC 3C013F00
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+200ABCAC 3C014080
+
+// Speed Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+200ABCAC 3C014100
+
+// Speed Mod: Much Quicker
+Author = libretro-database contributors / original PSP cheat authors
+200ABCAC 3C014000
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+200ABCAC 3C013F80
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+200ABCAC 3C013FA0
+
+// Speed Mod: Slower
+Author = libretro-database contributors / original PSP cheat authors
+200ABCAC 3C013F40
+
+// Timer: Frozen
+Author = libretro-database contributors / original PSP cheat authors
+200E1EBC 24050000
+
+// Timer: Normal
+Author = libretro-database contributors / original PSP cheat authors
+200E1EBC 02202821
+
+// Timer: Slow
+Author = libretro-database contributors / original PSP cheat authors
+200E1EBC 24050019
+
+// Timer: Ultra Slow
+Author = libretro-database contributors / original PSP cheat authors
+200E1EBC 24050001

@@ -1,0 +1,75 @@
+# PSP cheat pack
+# Serial: UCUS-98731
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99 For All Collectables
+Author = libretro-database contributors / original PSP cheat authors
+803B8359 00370001
+00000063 00000000
+
+// 9999 Pickories
+Author = libretro-database contributors / original PSP cheat authors
+203B82D4 0000270F
+
+// Acceleration Mod: Extreme
+Author = libretro-database contributors / original PSP cheat authors
+203B8268 4179999A
+
+// Acceleration Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+203B8268 3F79999A
+
+// Acceleration Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+203B8268 4079999A
+
+// Acceleration Mod: Slow
+Author = libretro-database contributors / original PSP cheat authors
+203B8268 3F59999A
+
+// Allow Full Screen Rotation
+Author = libretro-database contributors / original PSP cheat authors
+2032DAF0 00000000
+
+// Jump Mod: Bigger Jumps
+Author = libretro-database contributors / original PSP cheat authors
+203B827C 40480000
+
+// Jump Mod: Even Bigger Jumps
+Author = libretro-database contributors / original PSP cheat authors
+203B827C 40800000
+
+// Jump Mod: Insane Jumps
+Author = libretro-database contributors / original PSP cheat authors
+203B827C 41000000
+
+// Jump Mod: Massive Jumps
+Author = libretro-database contributors / original PSP cheat authors
+203B827C 40C00000
+
+// Jump Mod: Normal Jumps
+Author = libretro-database contributors / original PSP cheat authors
+203B827C 402E9446
+
+// Jump Mod: Smaller Jumps
+Author = libretro-database contributors / original PSP cheat authors
+203B827C 3FCE9446
+
+// Reset Timer (Press L+R To Activate)
+Author = libretro-database contributors / original PSP cheat authors
+2032D7C8 00000300
+203B8260 00000000
+00000080 00000000
+D2000000 00000000
+
+// Reset Timer (Press L+R To Activate) v2
+Author = libretro-database contributors / original PSP cheat authors
+2032D7C8 00000300
+203B8260 00000000
+00020000 00000080
+
+// Reset Timer (Press L+R To Activate) v3
+Author = libretro-database contributors / original PSP cheat authors
+2032D7C8 00000300
+203B8260 00000000
+00020001 00000080

@@ -1,0 +1,29 @@
+# PSP cheat pack
+# Serial: UCES-01334
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99 Mana
+Author = libretro-database contributors / original PSP cheat authors
+60F8E440 00000063
+00020002 0000006C
+200000B4 00000000
+
+// Card Alle
+Author = libretro-database contributors / original PSP cheat authors
+80615074 01780001
+00000050 00000000
+
+// Card Alle (Not tested)
+Author = libretro-database contributors / original PSP cheat authors
+80615074 01780001
+00000050 00000000
+
+// Enemy No Mana
+Author = libretro-database contributors / original PSP cheat authors
+60F8E440 00000000
+00020002 00000154
+200000B4 00000000
+
+// Money Max (Working)
+Author = libretro-database contributors / original PSP cheat authors
+206151F4 05F5E0FF

@@ -1,0 +1,53 @@
+# PSP cheat pack
+# Serial: UCJS-10041
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Allow Full Screen Rotation
+Author = libretro-database contributors / original PSP cheat authors
+20084E80 10000003
+20084EA4 10000003
+
+// Gamespeed Up
+Author = libretro-database contributors / original PSP cheat authors
+102D7B1C 00000001
+
+// Jump Mod: Smaller Jumps
+Author = libretro-database contributors / original PSP cheat authors
+208E9600 3FCE9446
+
+// Jump Mod: Normal Jumps
+Author = libretro-database contributors / original PSP cheat authors
+208E9600 402E9446
+
+// Jump Mod: Bigger Jumps
+Author = libretro-database contributors / original PSP cheat authors
+208E9600 40480000
+
+// Jump Mod: Massive Jumps
+Author = libretro-database contributors / original PSP cheat authors
+208E9600 40800000
+
+// Jump Mod: Insane Jumps
+Author = libretro-database contributors / original PSP cheat authors
+208E9600 40C00000
+
+// LocohoUse Parts
+Author = libretro-database contributors / original PSP cheat authors
+8062BDDF 00900001
+00000014 00000000
+
+// Reset Timer
+Author = libretro-database contributors / original PSP cheat authors
+208E94F0 00000000
+00000300 00000000
+D2000000 00000000
+
+// Reset Timer v2
+Author = libretro-database contributors / original PSP cheat authors
+208E94F0 00000000
+00020000 00000300
+
+// Reset Timer v3
+Author = libretro-database contributors / original PSP cheat authors
+208E94F0 00000000
+00020001 00000300

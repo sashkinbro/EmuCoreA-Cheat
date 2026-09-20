@@ -1,0 +1,68 @@
+# PSP cheat pack
+# Serial: UCES-01503
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Levels Solved/Unlocked On Win Challenge (Arctic Adventures)
+Author = libretro-database contributors / original PSP cheat authors
+200C10B8 00007973
+20068E30 24020000
+20068E48 AC820000
+D2000000 00000000
+
+// Infinite Lives (Coconut Dodge)
+Author = libretro-database contributors / original PSP cheat authors
+2002DAF0 00007453
+20008C7C 24A50000
+D2000000 00000000
+
+// Max Score (Red Bull X-Fighters)
+Author = libretro-database contributors / original PSP cheat authors
+201E6CAC 00005350
+20002000 2442E0FF
+20002004 03E00008
+20002008 AC82014C
+200552C0 0A200800
+200552C4 3C0205F6
+D2000000 00000000
+
+// Moves Counter (Arctic Adventures)
+Author = libretro-database contributors / original PSP cheat authors
+200C10B8 00007973
+2002F774 00000000
+D2000000 00000000
+
+// Moves Counter (Arctic Adventures) [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+200C10B8 00007973
+2002F774 AC850000
+D2000000 00000000
+
+// One Hit Ball Pop (Coconut Dodge)
+Author = libretro-database contributors / original PSP cheat authors
+2002DAF0 00007453
+20009B3C 24040000
+D2000000 00000000
+
+// Timer Disable (Arctic Adventures)
+Author = libretro-database contributors / original PSP cheat authors
+200C10B8 00007973
+20051750 00000000
+D2000000 00000000
+
+// Timer Disable (Red Bull X-Fighters)
+Author = libretro-database contributors / original PSP cheat authors
+201E6CAC 00005350
+20059720 00000000
+D2000000 00000000
+
+// Timer Enable (Arctic Adventures)
+Author = libretro-database contributors / original PSP cheat authors
+200C10B8 00007973
+20051750 E60D0008
+D2000000 00000000
+
+// Timer Enable (Red Bull X-Fighters)
+Author = libretro-database contributors / original PSP cheat authors
+201E6CAC 00005350
+20059720 24840001
+D2000000 00000000

@@ -1,0 +1,104 @@
+# PSP cheat pack
+# Serial: ULES-00901
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Tokens
+Author = libretro-database contributors / original PSP cheat authors
+107E0C44 0000270F
+
+// P1: - Infinite Energy
+Author = libretro-database contributors / original PSP cheat authors
+007E0D24 43140000
+607E0B6C 00000000
+B07E0B6C 00000000
+000005A0 43140000
+D2000000 00000000
+
+// P1: - Infinite Energy v2
+Author = libretro-database contributors / original PSP cheat authors
+207E0D24 43140000
+207E0B6C 43140000
+00020000 000005A0
+
+// P1: - Infinite Energy v3
+Author = libretro-database contributors / original PSP cheat authors
+207E0D24 43140000
+207E0B6C 43140000
+00020001 000005A0
+
+// P1: - Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+007E0D40 43140000
+607E0B6C 00000000
+B07E0B6C 00000000
+000000B8 43140000
+D2000000 00000000
+
+// P1: - Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+207E0D40 43140000
+207E0B6C 43140000
+00020000 000000B8
+
+// P1: - Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+207E0D40 43140000
+207E0B6C 43140000
+00020001 000000B8
+
+// P2: - Infinite Energy
+Author = libretro-database contributors / original PSP cheat authors
+007E0D24 43140000
+607E0B70 00000000
+B07E0B70 00000000
+000005A0 43140000
+D2000000 00000000
+
+// P2: - Infinite Energy v2
+Author = libretro-database contributors / original PSP cheat authors
+207E0D24 43140000
+207E0B70 43140000
+00020000 000005A0
+
+// P2: - Infinite Energy v3
+Author = libretro-database contributors / original PSP cheat authors
+207E0D24 43140000
+207E0B70 43140000
+00020001 000005A0
+
+// P2: - Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+007E0D40 43140000
+607E0B70 00000000
+B07E0B70 00000000
+000000B8 43140000
+D2000000 00000000
+
+// P2: - Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+207E0D40 43140000
+207E0B70 43140000
+00020000 000000B8
+
+// P2: - Infinite Health v3
+Author = libretro-database contributors / original PSP cheat authors
+207E0D40 43140000
+207E0B70 43140000
+00020001 000000B8
+
+// Unlock All Sidekicks
+Author = libretro-database contributors / original PSP cheat authors
+207E0BD4 0860726E
+
+// Unlock Entire Web Shop
+Author = libretro-database contributors / original PSP cheat authors
+207E0D94 00000005
+207E0DB0 00000005
+207E0DCC 00000003
+207E0DE8 00000003
+207E0E04 00000BFF
+207E0E20 00000BFF
+
+// Unlock Map Navigation
+Author = libretro-database contributors / original PSP cheat authors
+207E0C0C 00000001

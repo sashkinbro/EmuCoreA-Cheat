@@ -1,0 +1,58 @@
+# PSP cheat pack
+# Serial: ULJM-05465
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Appale L Button
+Author = libretro-database contributors / original PSP cheat authors
+20058C44 10A00051
+D0000000 10000100
+20058C44 10000008
+
+// Arts Power Max
+Author = libretro-database contributors / original PSP cheat authors
+1057DD9C 0000270F
+
+// Jyutu 9999
+Author = libretro-database contributors / original PSP cheat authors
+1057DB70 0000270F
+1057DD9C 0000270F
+
+// Result Bonus Max
+Author = libretro-database contributors / original PSP cheat authors
+40580028 00060001
+000186A0 00000000
+
+// Status Fu-ton Max
+Author = libretro-database contributors / original PSP cheat authors
+005811F4 00000002
+005811F8 00000001
+
+// Status Attack Max
+Author = libretro-database contributors / original PSP cheat authors
+005811CC 00000007
+
+// Status Bunshin Max
+Author = libretro-database contributors / original PSP cheat authors
+005811D8 00000007
+
+// Status Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+205811C4 3B9AC9FF
+
+// Status Katon Max
+Author = libretro-database contributors / original PSP cheat authors
+005811DC 00000002
+005811E0 00000001
+
+// Status Kawarimi Max
+Author = libretro-database contributors / original PSP cheat authors
+005811FC 00000002
+00581200 00000001
+
+// Status Speed Max
+Author = libretro-database contributors / original PSP cheat authors
+005811D4 00000007
+
+// Story Open
+Author = libretro-database contributors / original PSP cheat authors
+20580F90 FFFFFFFF

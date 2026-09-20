@@ -1,0 +1,267 @@
+# PSP cheat pack
+# Serial: ULJM-05188
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Battle Item No Use
+Author = libretro-database contributors / original PSP cheat authors
+20042E14 00601023
+
+// Chara. CG All
+Author = libretro-database contributors / original PSP cheat authors
+211A4A48 FFFFFFFF
+211A4A4C FFFFFFFF
+211A4A50 FFFFFFFF
+211A4A54 FFFFFFFF
+211A4A58 FFFFFFFF
+211A4A5C FFFFFFFF
+211A4A60 FFFFFFFF
+211A4A64 FFFFFFFF
+211A4A68 FFFFFFFF
+211A4A6C FFFFFFFF
+211A4A70 FFFFFFFF
+111A4A74 0000FFFF
+111A4C36 0000FFFF
+211A4C38 FFFFFFFF
+
+// Cierra HP Heal
+Author = libretro-database contributors / original PSP cheat authors
+011A3211 00000064
+
+// Cierra Status Max
+Author = libretro-database contributors / original PSP cheat authors
+111A3208 0000270F
+011A320A 00000064
+011A320C 000000FF
+011A320D 000000FF
+011A320F 000000FF
+
+// Ecthel HP Heal
+Author = libretro-database contributors / original PSP cheat authors
+011A3171 00000064
+
+// Ecthel Status Max
+Author = libretro-database contributors / original PSP cheat authors
+111A3168 0000270F
+011A316A 00000064
+011A316C 000000FF
+011A316D 000000FF
+011A316F 000000FF
+
+// Event CG All
+Author = libretro-database contributors / original PSP cheat authors
+111A4AE2 0000FFFF
+211A4AE4 FFFFFFFF
+211A4AE8 FFFFFFFF
+111A4AEC 0000FFFF
+
+// Extra Contents All
+Author = libretro-database contributors / original PSP cheat authors
+111A4A46 0000FFFF
+
+// Fiaa HP Heal
+Author = libretro-database contributors / original PSP cheat authors
+011A33F1 00000064
+
+// Fiaa Status Max
+Author = libretro-database contributors / original PSP cheat authors
+111A33E8 0000270F
+011A33EA 00000064
+011A33EC 000000FF
+011A33ED 000000FF
+011A33EF 000000FF
+
+// Item 1
+Author = libretro-database contributors / original PSP cheat authors
+111A352A 00006416
+
+// Item 99
+Author = libretro-database contributors / original PSP cheat authors
+011A352B 00000063
+011A352F 00000063
+011A3533 00000063
+011A3537 00000063
+011A353B 00000063
+011A353F 00000063
+011A3543 00000063
+011A3547 00000063
+011A354B 00000063
+011A354F 00000063
+011A3553 00000063
+011A3557 00000063
+011A355B 00000063
+011A355F 00000063
+011A3563 00000063
+
+// Item Picturebook All
+Author = libretro-database contributors / original PSP cheat authors
+111A4AA6 0000FFFF
+211A4AA8 FFFFFFFF
+211A4AAC FFFFFFFF
+211A4AB0 FFFFFFFF
+211A4AB4 FFFFFFFF
+211A4AB8 FFFFFFFF
+211A4ABC FFFFFFFF
+211A4AC0 FFFFFFFF
+411A5260 001E0001
+FFFFFFFF 00000000
+
+// Ledah HP Heal
+Author = libretro-database contributors / original PSP cheat authors
+011A3491 00000064
+
+// Ledah Status Max
+Author = libretro-database contributors / original PSP cheat authors
+111A3488 0000270F
+011A348A 00000064
+011A348C 000000FF
+011A348D 000000FF
+011A348F 000000FF
+
+// Lyuri HP Heal
+Author = libretro-database contributors / original PSP cheat authors
+011A3351 00000064
+
+// Lyuri Status Max
+Author = libretro-database contributors / original PSP cheat authors
+111A3348 0000270F
+011A334A 00000064
+011A334C 000000FF
+011A334D 000000FF
+011A334F 000000FF
+
+// No.1
+Author = libretro-database contributors / original PSP cheat authors
+011A352B 00000064
+
+// No.2
+Author = libretro-database contributors / original PSP cheat authors
+011A352F 00000064
+
+// No.3
+Author = libretro-database contributors / original PSP cheat authors
+011A3533 00000064
+
+// No.4
+Author = libretro-database contributors / original PSP cheat authors
+011A3537 00000064
+
+// No.5
+Author = libretro-database contributors / original PSP cheat authors
+011A353B 00000064
+
+// No.6
+Author = libretro-database contributors / original PSP cheat authors
+011A353F 00000064
+
+// No.7
+Author = libretro-database contributors / original PSP cheat authors
+011A3543 00000064
+
+// No.8
+Author = libretro-database contributors / original PSP cheat authors
+011A3547 00000064
+
+// No.9
+Author = libretro-database contributors / original PSP cheat authors
+011A354B 00000064
+
+// No.10
+Author = libretro-database contributors / original PSP cheat authors
+011A354F 00000064
+
+// No.11
+Author = libretro-database contributors / original PSP cheat authors
+011A3553 00000064
+
+// No.12
+Author = libretro-database contributors / original PSP cheat authors
+011A3557 00000064
+
+// No.13
+Author = libretro-database contributors / original PSP cheat authors
+011A355B 00000064
+
+// No.14
+Author = libretro-database contributors / original PSP cheat authors
+011A355F 00000064
+
+// No.15
+Author = libretro-database contributors / original PSP cheat authors
+011A3563 00000064
+
+// OS All Cierra
+Author = libretro-database contributors / original PSP cheat authors
+411A3224 00200001
+FFFFFFFF 00000000
+
+// OS All Ecthel
+Author = libretro-database contributors / original PSP cheat authors
+411A3184 00200001
+FFFFFFFF 00000000
+
+// OS All Fiaa
+Author = libretro-database contributors / original PSP cheat authors
+411A3404 00200001
+FFFFFFFF 00000000
+
+// OS All Lyuri
+Author = libretro-database contributors / original PSP cheat authors
+411A3364 00200001
+FFFFFFFF 00000000
+
+// OS All Serene
+Author = libretro-database contributors / original PSP cheat authors
+411A32C4 00200001
+FFFFFFFF 00000000
+
+// Reliability Cierra
+Author = libretro-database contributors / original PSP cheat authors
+011A46E8 00000064
+011A46EC 00000064
+
+// Reliability Fiaa
+Author = libretro-database contributors / original PSP cheat authors
+011A46EB 00000064
+011A46EF 00000064
+
+// Reliability Lyuri
+Author = libretro-database contributors / original PSP cheat authors
+011A46EA 00000064
+011A46EE 00000064
+
+// Reliability Max
+Author = libretro-database contributors / original PSP cheat authors
+011A46EC 00000064
+011A46ED 00000064
+011A46EE 00000064
+011A46EF 00000064
+
+// Reliability Serene
+Author = libretro-database contributors / original PSP cheat authors
+011A46E9 00000064
+011A46ED 00000064
+
+// Serene HP Heal
+Author = libretro-database contributors / original PSP cheat authors
+011A32B1 00000064
+
+// Serene Status Max
+Author = libretro-database contributors / original PSP cheat authors
+111A32A8 0000270F
+011A32AA 00000064
+011A32AC 000000FF
+011A32AD 000000FF
+011A32AF 000000FF
+
+// Sound Mode All
+Author = libretro-database contributors / original PSP cheat authors
+111A4C3E 0000FFFF
+211A4C40 FFFFFFFF
+
+// TP Max
+Author = libretro-database contributors / original PSP cheat authors
+011A4715 00000010
+
+// Use Item Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+2007E4C4 26E30000

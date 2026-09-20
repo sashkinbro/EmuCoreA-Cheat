@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULES-00358
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Moves Counter Disable
+Author = libretro-database contributors / original PSP cheat authors
+20035CC0 00000000
+
+// Moves Counter Enable
+Author = libretro-database contributors / original PSP cheat authors
+20035CC0 AC434568
+
+// Timer Disable
+Author = libretro-database contributors / original PSP cheat authors
+2008E444 00000000
+
+// Timer Enable
+Author = libretro-database contributors / original PSP cheat authors
+2008E444 AE030014

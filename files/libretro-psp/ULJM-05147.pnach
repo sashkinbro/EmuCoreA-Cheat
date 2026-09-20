@@ -1,0 +1,41 @@
+# PSP cheat pack
+# Serial: ULJM-05147
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Buki
+Author = libretro-database contributors / original PSP cheat authors
+00C0B480 00000005
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+00796678 00000007
+0079667C 00000007
+00C0DA40 00000007
+
+// Jump x FF
+Author = libretro-database contributors / original PSP cheat authors
+00C0B468 000000FF
+
+// Kougeki Up
+Author = libretro-database contributors / original PSP cheat authors
+00C0B3C6 000000D0
+
+// Maryoku
+Author = libretro-database contributors / original PSP cheat authors
+00C0B47C 00000014
+
+// Muteki Mahou
+Author = libretro-database contributors / original PSP cheat authors
+00C0B3C5 00000001
+
+// Score 9999999
+Author = libretro-database contributors / original PSP cheat authors
+207965E4 0098967F
+
+// Tokuten 0
+Author = libretro-database contributors / original PSP cheat authors
+207965E4 00000000
+
+// Tokuten 9999999
+Author = libretro-database contributors / original PSP cheat authors
+207965E4 0098967F

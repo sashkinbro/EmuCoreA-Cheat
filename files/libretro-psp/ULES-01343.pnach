@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULES-01343
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 20 FPS v2 [Default]
+Author = libretro-database contributors / original PSP cheat authors
+20407A8C 34080014
+20408964 3C043D07
+
+// 30 FPS v2
+Author = libretro-database contributors / original PSP cheat authors
+20407A8C 3408001E
+20408964 3C043D07
+
+// 60 FPS v2
+Author = libretro-database contributors / original PSP cheat authors
+20407A8C 3408003C
+20408964 3C043C80
+20690C20 3C800000

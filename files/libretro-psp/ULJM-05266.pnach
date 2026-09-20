@@ -1,0 +1,22 @@
+# PSP cheat pack
+# Serial: ULJM-05266
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Dash
+Author = libretro-database contributors / original PSP cheat authors
+2040CE22 000042C8
+2085DDA2 000042C8
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+2040CCBE 000042C8
+2085B19E 000042C8
+
+// MP
+Author = libretro-database contributors / original PSP cheat authors
+2040CCEE 000042C8
+2085B1A2 000042C8
+
+// Time Point
+Author = libretro-database contributors / original PSP cheat authors
+2040DAB8 000000FF

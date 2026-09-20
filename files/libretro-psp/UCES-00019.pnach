@@ -1,0 +1,31 @@
+# PSP cheat pack
+# Serial: UCES-00019
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS v2 [Default]
+Author = libretro-database contributors / original PSP cheat authors
+20188038 10800008
+2016F308 3C043F80
+2016F388 3C0441F0
+
+// 60 FPS v2
+Author = libretro-database contributors / original PSP cheat authors
+20188038 0A262017
+2016F308 3C043F00
+2016F388 3C044270
+
+// Infinite Health (Activate In Game)
+Author = libretro-database contributors / original PSP cheat authors
+20216368 00000000
+00000064 3F800000
+D2000000 00000000
+
+// Infinite Health (Activate In Game) v2
+Author = libretro-database contributors / original PSP cheat authors
+20216368 3F800000
+00020000 00000064
+
+// Infinite Health (Activate In Game) v3
+Author = libretro-database contributors / original PSP cheat authors
+20216368 3F800000
+00020001 00000064

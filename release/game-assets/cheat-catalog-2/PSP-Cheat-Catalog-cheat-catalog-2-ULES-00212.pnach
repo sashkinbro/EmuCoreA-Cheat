@@ -1,0 +1,35 @@
+# PSP cheat pack
+# Serial: ULES-00212
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 9.999.999 Score
+Author = libretro-database contributors / original PSP cheat authors
+201068B4 0098967F
+
+// 99 Retry
+Author = libretro-database contributors / original PSP cheat authors
+0010680C 00000063
+
+// Infinite Credits
+Author = libretro-database contributors / original PSP cheat authors
+20109870 00000063
+
+// Number Of Balls: 1 (Requires Table Reload)
+Author = libretro-database contributors / original PSP cheat authors
+20106894 00000001
+
+// Number Of Balls: 2 (Requires Table Reload)
+Author = libretro-database contributors / original PSP cheat authors
+20106894 00000002
+
+// Number Of Balls: 5 (Requires Table Reload)
+Author = libretro-database contributors / original PSP cheat authors
+20106894 00000005
+
+// Number Of Balls: 7 (Requires Table Reload)
+Author = libretro-database contributors / original PSP cheat authors
+20106894 00000007
+
+// Number Of Balls: 9 (Requires Table Reload)
+Author = libretro-database contributors / original PSP cheat authors
+20106894 00000009

@@ -1,0 +1,27 @@
+# PSP cheat pack
+# Serial: UCAS-40064
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99.999.999 Money
+Author = libretro-database contributors / original PSP cheat authors
+200D5304 05F5E0FF
+
+// 9999 HP - Blade
+Author = libretro-database contributors / original PSP cheat authors
+200D5FFC 0000270F
+207C7808 0000270F
+
+// 9999 HP - Felis
+Author = libretro-database contributors / original PSP cheat authors
+200D609C 0000270F
+207C7AD8 0000270F
+
+// 9999 HP - Gozen
+Author = libretro-database contributors / original PSP cheat authors
+200D613C 0000270F
+207C7970 0000270F
+
+// 9999 HP - Tess
+Author = libretro-database contributors / original PSP cheat authors
+200D61DC 0000270F
+207C7C40 0000270F

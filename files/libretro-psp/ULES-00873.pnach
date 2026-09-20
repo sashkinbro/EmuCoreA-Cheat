@@ -1,0 +1,31 @@
+# PSP cheat pack
+# Serial: ULES-00873
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Levels Open
+Author = libretro-database contributors / original PSP cheat authors
+20137CDC 2417000F
+
+// Cheat Ammo On (Requires Level Reload)
+Author = libretro-database contributors / original PSP cheat authors
+200E5B10 24020001
+
+// Cheat AP On (Requires Level Reload)
+Author = libretro-database contributors / original PSP cheat authors
+200E5A68 24020001
+
+// Cheat HP On (Requires Level Reload)
+Author = libretro-database contributors / original PSP cheat authors
+200E5ABC 24020001
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+200E5B10 24020001
+
+// Infinite AP
+Author = libretro-database contributors / original PSP cheat authors
+200E5A68 24020001
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+200E5ABC 24020001

@@ -1,0 +1,358 @@
+# PSP cheat pack
+# Serial: UCAS-40318
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Allow Saving Over Newer Save
+Author = libretro-database contributors / original PSP cheat authors
+20223814 1000000B
+
+// 60 FPS v2
+Author = libretro-database contributors / original PSP cheat authors
+2003E754 00000000
+2003D5CC 00000000
+2003D5D0 00000000
+2003D5DC 00000000
+2003D66C 00000000
+2003D670 00000000
+
+// 01 Atk.=800000~900000
+Author = libretro-database contributors / original PSP cheat authors
+60001820 49435000
+00020001 0000132C
+60001820 495BBA00
+00020001 00001330
+
+// 01 Def.=5000
+Author = libretro-database contributors / original PSP cheat authors
+60001820 459C4000
+00020001 00001398
+
+// 01 HP=1000000
+Author = libretro-database contributors / original PSP cheat authors
+60001824 000F4240
+00020001 00000000
+60001824 00000004
+00000002 00000000
+10000004 00000000
+
+// 01 Special Atk.=500%
+Author = libretro-database contributors / original PSP cheat authors
+60001820 40A00000
+00020007 00001348
+90000001 00000000
+
+// 01 Special Def.=500%
+Author = libretro-database contributors / original PSP cheat authors
+60001820 40A00000
+00020007 000013DC
+90000001 00000000
+
+// 02 Atk.=800000~9000000
+Author = libretro-database contributors / original PSP cheat authors
+60001830 49435000
+00020001 0000132C
+60001830 495BBA00
+00020001 00001330
+
+// 02 Def.=5000
+Author = libretro-database contributors / original PSP cheat authors
+60001830 459C4000
+00020001 00001398
+
+// 02 HP=1000000
+Author = libretro-database contributors / original PSP cheat authors
+60001834 000F4240
+00020001 00000000
+60001834 00000004
+00000002 00000000
+10000004 00000000
+
+// 02 Special Atk.=500%
+Author = libretro-database contributors / original PSP cheat authors
+60001830 40A00000
+00020007 00001348
+90000001 00000000
+
+// 02 Special Def.=500%
+Author = libretro-database contributors / original PSP cheat authors
+60001830 40A00000
+00020007 000013DC
+90000001 00000000
+
+// 03 Atk.=800000~900000
+Author = libretro-database contributors / original PSP cheat authors
+60001840 49435000
+00020001 0000132C
+60001840 495BBA00
+00020001 00001330
+
+// 03 Def.=5000
+Author = libretro-database contributors / original PSP cheat authors
+60001840 459C4000
+00020001 00001398
+
+// 03 HP=1000000
+Author = libretro-database contributors / original PSP cheat authors
+60001844 000F4240
+00020001 00000000
+60001844 00000004
+00000002 00000000
+10000004 00000000
+
+// 03 Special Atk.=500%
+Author = libretro-database contributors / original PSP cheat authors
+60001840 40A00000
+00020007 00001348
+90000001 00000000
+
+// 03 Special Def.=500%
+Author = libretro-database contributors / original PSP cheat authors
+60001840 40A00000
+00020007 000013DC
+90000001 00000000
+
+// 04 Atk.=800000~900000
+Author = libretro-database contributors / original PSP cheat authors
+60001850 49435000
+00020001 0000132C
+60001850 495BBA00
+00020001 00001330
+
+// 04 Def.=5000
+Author = libretro-database contributors / original PSP cheat authors
+60001850 459C4000
+00020001 00001398
+
+// 04 HP=1000000
+Author = libretro-database contributors / original PSP cheat authors
+60001854 000F4240
+00020001 00000000
+60001854 00000004
+00000002 00000000
+10000004 00000000
+
+// 04 Special Atk.=500%
+Author = libretro-database contributors / original PSP cheat authors
+60001850 40A00000
+00020007 00001348
+90000001 00000000
+
+// 04 Special Def.=500%
+Author = libretro-database contributors / original PSP cheat authors
+60001850 40A00000
+00020007 000013DC
+90000001 00000000
+
+// 05 Atk.=800000~900000
+Author = libretro-database contributors / original PSP cheat authors
+60001860 49435000
+00020001 0000132C
+60001860 495BBA00
+00020001 00001330
+
+// 05 Def.=5000
+Author = libretro-database contributors / original PSP cheat authors
+60001860 459C4000
+00020001 00001398
+
+// 05 HP=1000000
+Author = libretro-database contributors / original PSP cheat authors
+60001864 000F4240
+00020001 00000000
+60001864 00000004
+00000002 00000000
+10000004 00000000
+
+// 05 Special Atk.=500%
+Author = libretro-database contributors / original PSP cheat authors
+60001860 40A00000
+00020007 00001348
+90000001 00000000
+
+// 05 Special Def.=500%
+Author = libretro-database contributors / original PSP cheat authors
+60001860 40A00000
+00020007 000013DC
+90000001 00000000
+
+// 2 Music
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000001
+00000002 0000174F
+90000006 00000000
+
+// 8 Miracle Durm
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000001
+00000004 00000075
+90000006 00000000
+00000004 00000093
+
+// Accessories 5/5 Open
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000001
+00000043 000015A5
+90000006 00000000
+
+// Card List Open
+Author = libretro-database contributors / original PSP cheat authors
+60002004 FFFFFFFF
+00020004 0002B808
+90000001 00000000
+
+// Chin [Note 2]
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000001
+00020023 0000C170
+90000021 00000000
+60002004 00000028
+00020023 0000C17C
+60002004 40A00000
+00020023 0000C1C0
+
+// Dark Hero Open Lv. 40 [Note 4]
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000001
+00020007 0000A3A0
+90000021 00000000
+60002004 00000028
+00020007 0000A3AC
+60002004 40400000
+00020007 0000A3F0
+
+// Fever Max
+Author = libretro-database contributors / original PSP cheat authors
+602B8AE8 00000000
+00060000 00000010
+60000000 00000000
+00060000 00000028
+00060000 000000FC
+60000000 000003E8
+00020001 000006C8
+00020001 000006E8
+60000000 77359400
+00020001 00000098
+
+// Gold Star x66
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000042
+00000002 00001738
+90000005 000000FA
+
+// Hair Ticket 77
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000001
+00000003 0000175B
+90000006 00000000
+60002004 0000004D
+00010003 00001756
+90000003 0000000B
+
+// Hero Name Change [Note 3]
+Author = libretro-database contributors / original PSP cheat authors
+60002004 72699B54
+00020001 0002B708
+60002004 4EBA7375
+00020001 0002B70C
+60002004 00000000
+00020001 0002B710
+
+// Hero+Dark Hero [Note 2]
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000001
+00020023 00009530
+90000021 00000000
+60002004 00000028
+00020023 0000953C
+60002004 40A00000
+00020023 00009580
+00020003 0000A264
+90000001 00000000
+60002004 3F800000
+00020004 0000A270
+
+// Kan [Note 2]
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000001
+00020023 0000D790
+90000021 00000000
+60002004 00000028
+00020023 0000D79C
+60002004 40A00000
+00020023 0000D7E0
+00020003 0000E4C4
+90000001 00000000
+60002004 3F800000
+00020004 0000E4D0
+
+// Materials 3/5 Item Open
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000063
+00010033 00000178
+90000003 00000000
+60002004 00000001
+00000033 0000017D
+90000006 00000000
+
+// Must Code [Note 1]
+Author = libretro-database contributors / original PSP cheat authors
+502AB364 00000004
+00002000 00000000
+20002008 08802000
+60002000 00000004
+00200002 00000050
+10000004 00000000
+
+// Silver Star x55
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000037
+00000002 00001732
+90000005 000000FC
+
+// Summon Inf.
+Author = libretro-database contributors / original PSP cheat authors
+E0020000 003984A6
+E0010001 203984A4
+003984A4 00000001
+
+// Team Name Change
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000000
+00020001 0002180C
+
+// Time Recode 01:01
+Author = libretro-database contributors / original PSP cheat authors
+602B8AE8 00000000
+00060000 00000010
+60000000 00000000
+00060000 00000028
+00060000 0000001C
+00060000 00000064
+60000000 00046CD0
+00020001 00000200
+
+// Ton [Note 2]
+Author = libretro-database contributors / original PSP cheat authors
+60002004 00000001
+00020023 0000AB50
+90000021 00000000
+60002004 00000028
+00020023 0000AB5C
+60002004 40A00000
+00020023 0000ABA0
+
+// Troops Speed: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20191C3C 3C024080
+
+// Troops Speed: Maniac
+Author = libretro-database contributors / original PSP cheat authors
+20191C3C 3C024100
+
+// Troops Speed: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20191C3C 3C023FF0
+
+// Troops Speed: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20191C3C 3C024040

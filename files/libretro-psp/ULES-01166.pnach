@@ -1,0 +1,57 @@
+# PSP cheat pack
+# Serial: ULES-01166
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CAW 1 Max Attributes
+Author = libretro-database contributors / original PSP cheat authors
+2045FAB8 62626262
+2045FABC 62626262
+
+// CAW 2 Max Attributes
+Author = libretro-database contributors / original PSP cheat authors
+20461378 62626262
+2046137C 62626262
+
+// CAW 3 Max Attributes
+Author = libretro-database contributors / original PSP cheat authors
+20462C38 62626262
+20462C3C 62626262
+
+// CAW 4 Max Attributes
+Author = libretro-database contributors / original PSP cheat authors
+204644F8 62626262
+204644FC 62626262
+
+// CAW 5 Max Attributes
+Author = libretro-database contributors / original PSP cheat authors
+20465DB8 62626262
+20465DBC 62626262
+
+// Unlock Everything
+Author = libretro-database contributors / original PSP cheat authors
+204AF9D8 01010101
+204AF9B4 00000001
+204AF9B5 00000001
+204AF9B6 00000001
+204AF9B7 00000001
+204AF9B8 00000001
+204AF9B9 00000001
+204AF9BA 00000001
+204AF9BB 00000001
+204AF9BD 00000001
+204AF9BE 00000001
+204AF9C0 00000001
+204AF9C5 00000001
+204AF9C6 00000001
+204AF9C7 00000001
+204AF9C8 00000001
+204AF9C9 00000001
+204AF9CB 00000001
+204AF9CC 00000001
+204AF9CE 00000001
+204AF9CF 00000001
+204AF9D0 00000001
+
+// Unlock All Move Sets
+Author = libretro-database contributors / original PSP cheat authors
+204AF9D8 01010101

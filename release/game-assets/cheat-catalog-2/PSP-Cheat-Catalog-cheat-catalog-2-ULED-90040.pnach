@@ -1,0 +1,32 @@
+# PSP cheat pack
+# Serial: ULED-90040
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 20 FPS [In-Game Default]
+Author = libretro-database contributors / original PSP cheat authors
+2057D770 00000003
+2057D52C 0000000F
+2057D538 00000002
+2057D53C 3EAAAAAB
+2057D540 40400000
+2057D544 42C40000
+
+// 30 FPS v2
+Author = libretro-database contributors / original PSP cheat authors
+E0060003 0057D770
+2057D770 00000002
+2057D52C 0000000A
+2057D538 00000001
+2057D53C 3F000000
+2057D540 40000000
+2057D544 422E38E4
+
+// 60 FPS v2 [In-Game Only]
+Author = libretro-database contributors / original PSP cheat authors
+E0060003 0057D770
+2057D770 00000001
+2057D52C 00000005
+2057D538 00000000
+2057D53C 3F800000
+2057D540 3F800000
+2057D544 40AE38E4

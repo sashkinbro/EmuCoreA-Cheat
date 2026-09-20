@@ -1,0 +1,33 @@
+# PSP cheat pack
+# Serial: ULES-00627
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Hold Triangle To Walk On Air
+Author = libretro-database contributors / original PSP cheat authors
+217FECA4 EFFF1000
+203DAFA4 00000000
+D2000000 00000000
+
+// Infinite Double Jump
+Author = libretro-database contributors / original PSP cheat authors
+203DAFB4 00000001
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+DA000000 0055EA78
+D7000000 0055EA74
+D2000000 00000000
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+2055EA46 0000270F
+
+// Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+217FECA4 DFFF2000
+203DAFA4 C0800000
+D2000000 00000000
+
+// Transparent Parin
+Author = libretro-database contributors / original PSP cheat authors
+203DAEE4 3F000000

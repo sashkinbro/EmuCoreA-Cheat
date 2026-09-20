@@ -1,0 +1,40 @@
+# PSP cheat pack
+# Serial: ULES-00595
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Camera Information
+Author = libretro-database contributors / original PSP cheat authors
+003FCCCF 00000001
+
+// Framerate - CPU, VU, TV (FPS)
+Author = libretro-database contributors / original PSP cheat authors
+202D3EDC 34040001
+002A3B2E 00000000
+002D41FA 00000000
+002D427A 00000000
+
+// Latency - CPU, PEK, AVG (ms)
+Author = libretro-database contributors / original PSP cheat authors
+202D3EDC 34040001
+002A3B2E 00000000
+002D4103 00000010
+002D417A 00000000
+
+// FIRE CODE
+Author = libretro-database contributors / original PSP cheat authors
+20013924 6855B5C6
+
+// FIRE CODE [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20013924 00000000
+
+// Aspiration Points
+Author = libretro-database contributors / original PSP cheat authors
+2139E540 00005B9A
+213A3DB8 00005B9A
+
+// Money 99K (After Buy)
+Author = libretro-database contributors / original PSP cheat authors
+213A3EB0 000F1206
+2141BD98 000F1206
+2141BDEC 000F1206

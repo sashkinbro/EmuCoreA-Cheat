@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULES-00284
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Packs
+Author = libretro-database contributors / original PSP cheat authors
+002A036C 0000000A
+002A036D 0000000A
+002A036E 0000000A
+002A036F 0000000A
+
+// Money (Points) Cheat
+Author = libretro-database contributors / original PSP cheat authors
+202A0DE0 0098967F
+202AB06C 0098967F
+
+// Unlimited MGS3 Packs
+Author = libretro-database contributors / original PSP cheat authors
+002A036C 0000000A

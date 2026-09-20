@@ -1,0 +1,49 @@
+# PSP cheat pack
+# Serial: UCUS-98705
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1000 Foot Hit Extension
+Author = libretro-database contributors / original PSP cheat authors
+10103C14 00005000
+
+// Camera Mod
+Author = libretro-database contributors / original PSP cheat authors
+10012CF8 00003F60
+
+// Enemies Dont Attack
+Author = libretro-database contributors / original PSP cheat authors
+1003CBAC 00003F00
+
+// Fast Enemy Movement
+Author = libretro-database contributors / original PSP cheat authors
+10098324 00004040
+
+// Heavy Hit Camera
+Author = libretro-database contributors / original PSP cheat authors
+1008D940 00004040
+
+// Hit Enemies From Anywhere
+Author = libretro-database contributors / original PSP cheat authors
+00103BFC 000000FF
+
+// Hover Attack
+Author = libretro-database contributors / original PSP cheat authors
+100B5034 00003FC0
+
+// Kratos Animation Speed
+Author = libretro-database contributors / original PSP cheat authors
+10100038 00004040
+
+// Little Big World
+Author = libretro-database contributors / original PSP cheat authors
+10168998 00003F20
+
+// Super Speed
+Author = libretro-database contributors / original PSP cheat authors
+1122B97A 00004020
+
+// The Demo Of God Of War
+Author = libretro-database contributors / original PSP cheat authors
+100A85C8 000000FF
+100F4DC4 0000000F
+101028F8 00004180

@@ -1,0 +1,299 @@
+# PSP cheat pack
+# Serial: UCJS-10106
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Hang Workaround
+Author = libretro-database contributors / original PSP cheat authors
+E0010003 002A43D8
+202A43D8 34070001
+
+// Hang Workaround [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 002A43D8
+202A43D8 28A70003
+
+// 60 FPS (Alpha)
+Author = libretro-database contributors / original PSP cheat authors
+2001F46C 00000000
+
+// 0P
+Author = libretro-database contributors / original PSP cheat authors
+206AD5FC 00000000
+
+// 0P v2
+Author = libretro-database contributors / original PSP cheat authors
+206AD5F8 00000000
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+2004BB74 10400002
+
+// 5000000 P
+Author = libretro-database contributors / original PSP cheat authors
+206AD5F8 004C4B40
+
+// 10000000 P
+Author = libretro-database contributors / original PSP cheat authors
+206AD5FC 00989680
+
+// Combo Never Ends
+Author = libretro-database contributors / original PSP cheat authors
+201398AC 24840000
+
+// Combo Never Ends [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201398AC 2484FFFF
+
+// Exp. Max: Byakuya
+Author = libretro-database contributors / original PSP cheat authors
+206A8678 05F5E0FF
+
+// Exp. Max: Genryusai
+Author = libretro-database contributors / original PSP cheat authors
+206A8750 05F5E0FF
+
+// Exp. Max: Ichigo
+Author = libretro-database contributors / original PSP cheat authors
+206A8870 05F5E0FF
+
+// Exp. Max: Kenpachi
+Author = libretro-database contributors / original PSP cheat authors
+206A860C 05F5E0FF
+
+// Exp. Max: Kyouraku
+Author = libretro-database contributors / original PSP cheat authors
+206A87BC 05F5E0FF
+
+// Exp. Max: Renji
+Author = libretro-database contributors / original PSP cheat authors
+206A86E4 05F5E0FF
+
+// Exp. Max: T-Shirt
+Author = libretro-database contributors / original PSP cheat authors
+206A869C 05F5E0FF
+
+// Exp. Max: Yoruichi
+Author = libretro-database contributors / original PSP cheat authors
+206A85E8 05F5E0FF
+
+// Experience Multiplier x2
+Author = libretro-database contributors / original PSP cheat authors
+20065CCC 0E20080B
+20065CD0 24A5E0FF
+2000202C 02118023
+20002030 00118840
+20002034 02118021
+20002038 03E00008
+2000203C 00B0282B
+
+// Experience Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20065CCC 0E20080B
+20065CD0 24A5E0FF
+2000202C 02118023
+20002030 00118880
+20002034 02118021
+20002038 03E00008
+2000203C 00B0282B
+
+// Experience Multiplier x8
+Author = libretro-database contributors / original PSP cheat authors
+20065CCC 0E20080B
+20065CD0 24A5E0FF
+2000202C 02118023
+20002030 001188C0
+20002034 02118021
+20002038 03E00008
+2000203C 00B0282B
+
+// Experience Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+20065CCC 0E20080B
+20065CD0 24A5E0FF
+2000202C 02118023
+20002030 00118900
+20002034 02118021
+20002038 03E00008
+2000203C 00B0282B
+
+// Experience Multiplier x32
+Author = libretro-database contributors / original PSP cheat authors
+20065CCC 0E20080B
+20065CD0 24A5E0FF
+2000202C 02118023
+20002030 00118940
+20002034 02118021
+20002038 03E00008
+2000203C 00B0282B
+
+// Experience Multiplier x64
+Author = libretro-database contributors / original PSP cheat authors
+20065CCC 0E20080B
+20065CD0 24A5E0FF
+2000202C 02118023
+20002030 00118980
+20002034 02118021
+20002038 03E00008
+2000203C 00B0282B
+
+// Experience Multiplier x128
+Author = libretro-database contributors / original PSP cheat authors
+20065CCC 0E20080B
+20065CD0 24A5E0FF
+2000202C 02118023
+20002030 001189C0
+20002034 02118021
+20002038 03E00008
+2000203C 00B0282B
+
+// Experience Multiplier x256
+Author = libretro-database contributors / original PSP cheat authors
+20065CCC 0E20080B
+20065CD0 24A5E0FF
+2000202C 02118023
+20002030 00118A00
+20002034 02118021
+20002038 03E00008
+2000203C 00B0282B
+
+// Experience Multiplier x512
+Author = libretro-database contributors / original PSP cheat authors
+20065CCC 0E20080B
+20065CD0 24A5E0FF
+2000202C 02118023
+20002030 00118A40
+20002034 02118021
+20002038 03E00008
+2000203C 00B0282B
+
+// Experience Multiplier x1024
+Author = libretro-database contributors / original PSP cheat authors
+20065CCC 0E20080B
+20065CD0 24A5E0FF
+2000202C 02118023
+20002030 00118A80
+20002034 02118021
+20002038 03E00008
+2000203C 00B0282B
+
+// Experience Multiplier x2048
+Author = libretro-database contributors / original PSP cheat authors
+20065CCC 0E20080B
+20065CD0 24A5E0FF
+2000202C 02118023
+20002030 00118AC0
+20002034 02118021
+20002038 03E00008
+2000203C 00B0282B
+
+// Experience Multiplier x4096
+Author = libretro-database contributors / original PSP cheat authors
+20065CCC 0E20080B
+20065CD0 24A5E0FF
+2000202C 02118023
+20002030 00118B00
+20002034 02118021
+20002038 03E00008
+2000203C 00B0282B
+
+// Ichigo Lv.100
+Author = libretro-database contributors / original PSP cheat authors
+206A8870 000F4240
+
+// Increases Jump Power
+Author = libretro-database contributors / original PSP cheat authors
+C0048AE4 00000000
+
+// Inf. BP
+Author = libretro-database contributors / original PSP cheat authors
+60A08A2C 0000270F
+00010001 00000812
+
+// Inf. HP
+Author = libretro-database contributors / original PSP cheat authors
+60A08A2C 0000270F
+00010001 00000804
+
+// Inf. Money
+Author = libretro-database contributors / original PSP cheat authors
+206A8408 05F5E100
+
+// Inf. SP
+Author = libretro-database contributors / original PSP cheat authors
+60A08A2C 000003E7
+00010001 00000810
+
+// Inf. SP v2
+Author = libretro-database contributors / original PSP cheat authors
+006A8858 00000064
+
+// Infinite HP & Invincible
+Author = libretro-database contributors / original PSP cheat authors
+20137C08 0E200800
+20002000 3C060001
+20002004 34C6869F
+20002008 3C0F4180
+2000200C AE6F0994
+20002010 03E00008
+20002014 AE660848
+
+// Infinite SP & BP
+Author = libretro-database contributors / original PSP cheat authors
+20137C18 0E200806
+20002018 240603E7
+2000201C 240F02BC
+20002020 A66F0856
+20002024 03E00008
+20002028 A6660854
+
+// Infinite Support Characters
+Author = libretro-database contributors / original PSP cheat authors
+2004B2D8 00000000
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+201B3C08 26240000
+
+// Infinite Time [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201B3C08 2624FFFF
+
+// Jump Up
+Author = libretro-database contributors / original PSP cheat authors
+20048AE4 00000000
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+206A8408 05F5E0FF
+
+// Max Exp. After Kill
+Author = libretro-database contributors / original PSP cheat authors
+20065CD0 00A08025
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+C0060EF4 00000000
+
+// Max Slashes
+Author = libretro-database contributors / original PSP cheat authors
+2004B9C0 240403E7
+
+// Quick Lvl-100 (Ichigo)
+Author = libretro-database contributors / original PSP cheat authors
+206A8870 000F4240
+
+// Quick Weapon Level Gain
+Author = libretro-database contributors / original PSP cheat authors
+20065AFC 24F10010
+
+// Slash x99
+Author = libretro-database contributors / original PSP cheat authors
+105B9908 00000063
+105B9914 00000063
+105E4B04 00000063
+105E8004 00000063
+106AEBC4 00000063
+
+// Time Stop
+Author = libretro-database contributors / original PSP cheat authors
+20060F4C 00000000

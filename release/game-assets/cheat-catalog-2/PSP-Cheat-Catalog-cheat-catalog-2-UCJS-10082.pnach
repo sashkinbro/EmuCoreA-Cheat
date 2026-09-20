@@ -1,0 +1,34 @@
+# PSP cheat pack
+# Serial: UCJS-10082
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Special Bar (Single Player Mode)
+Author = libretro-database contributors / original PSP cheat authors
+0042C6C4 00000009
+
+// Inf. Special Bar (Story Mode)
+Author = libretro-database contributors / original PSP cheat authors
+0042B144 00000009
+
+// Max Reiso (Spirit) Gauge
+Author = libretro-database contributors / original PSP cheat authors
+0042B144 00000009
+0042C6C4 00000009
+
+// Max Tag Gauge (P1)
+Author = libretro-database contributors / original PSP cheat authors
+104290AE 000042C8
+
+// Player 1 Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2042C008 00000000
+2042AA88 00000000
+
+// Player 1 Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+20419E48 00000000
+20419E4C 00000000
+
+// Tag Partner Inf. Special
+Author = libretro-database contributors / original PSP cheat authors
+0042C6C4 00000009

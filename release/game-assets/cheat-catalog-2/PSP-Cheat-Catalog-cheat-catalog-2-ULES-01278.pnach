@@ -1,0 +1,51 @@
+# PSP cheat pack
+# Serial: ULES-01278
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Freeze Time
+Author = libretro-database contributors / original PSP cheat authors
+20046768 00C02823
+
+// Infinite Air-Jumping
+Author = libretro-database contributors / original PSP cheat authors
+20081738 24630000
+
+// Infinite Air-Jumping (Alt.)
+Author = libretro-database contributors / original PSP cheat authors
+00367CE8 00000000
+
+// Infinite Double Jumps
+Author = libretro-database contributors / original PSP cheat authors
+2036F268 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2036F1E0 000929DC
+
+// Infinite Health [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2036F1E0 000909FC
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20192FD6 000003E8
+
+// Infinite Time
+Author = libretro-database contributors / original PSP cheat authors
+2013C6E8 00007E80
+
+// Infinite Scarves
+Author = libretro-database contributors / original PSP cheat authors
+00367D00 00000004
+
+// Invulnerable
+Author = libretro-database contributors / original PSP cheat authors
+00367C60 000000DC
+
+// Lives Remaining
+Author = libretro-database contributors / original PSP cheat authors
+1018D942 000003E8
+
+// One-Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+2006F5EC AE400120

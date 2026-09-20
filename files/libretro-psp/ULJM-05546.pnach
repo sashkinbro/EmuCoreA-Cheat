@@ -1,0 +1,164 @@
+# PSP cheat pack
+# Serial: ULJM-05546
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Banushi Yukodo Max
+Author = libretro-database contributors / original PSP cheat authors
+80921313 002A0064
+00000064 00000000
+
+// Bokujo Yukodo Max
+Author = libretro-database contributors / original PSP cheat authors
+809375C1 00190030
+00000032 00000000
+
+// BookFull Off
+Author = libretro-database contributors / original PSP cheat authors
+80827B0F 03E80044
+
+// Compulsion Active Factor
+Author = libretro-database contributors / original PSP cheat authors
+40780CD0 00640001
+00000FFF 00000000
+
+// Fame Max Player
+Author = libretro-database contributors / original PSP cheat authors
+70937A71 000000C0
+70937A72 000000AC
+70937A72 000200AE
+00937A73 0000006E
+70937A77 000200FB
+70937A77 00000003
+70937A7B 000200DB
+
+// Farm Max Club
+Author = libretro-database contributors / original PSP cheat authors
+70937AA1 000000C0
+70937AA2 000000AC
+70937AA2 000200AE
+00937AA3 0000006E
+70937AA7 000200FB
+70937AA7 00000003
+70937AAB 000200DB
+70937AAB 0000001B
+
+// Farm Max Europe
+Author = libretro-database contributors / original PSP cheat authors
+70937B01 000000C0
+70937B02 000000AC
+70937B02 000200AE
+00937B03 0000006E
+70937B07 000200FB
+70937B07 00000003
+70937B0B 000200DB
+70937AD1 000000C0
+70937AD2 000000AC
+70937AD2 000200AE
+00937AD3 0000006E
+70937AD7 000200FB
+70937AD7 00000003
+70937ADB 000200DB
+70937ADB 0000001B
+
+// Feeling Horse Owner
+Author = libretro-database contributors / original PSP cheat authors
+80921313 002A0064
+00000064 00000000
+00921633 000000E4
+00921C73 000000E4
+00921A7F 000000E4
+00921B47 000000E4
+009220BF 000000E4
+
+// FUJISAWA Max
+Author = libretro-database contributors / original PSP cheat authors
+0093B315 00000092
+0093B316 00000001
+
+// HIROU Nashi
+Author = libretro-database contributors / original PSP cheat authors
+707AF7CA 0003F81F
+707AF7CA 00010640
+707AF7CC 00020080
+
+// MEISEI Max
+Author = libretro-database contributors / original PSP cheat authors
+20922308 0000C350
+
+// Money Max Club
+Author = libretro-database contributors / original PSP cheat authors
+2077F50C 05F5E100
+
+// Money Max Japan
+Author = libretro-database contributors / original PSP cheat authors
+2077F500 05F5E100
+
+// My RaceHorse Ability All Max
+Author = libretro-database contributors / original PSP cheat authors
+408964E4 006C0030
+FFFFC000 00000000
+408964E8 006C0030
+FFFFFFFF 00000000
+808964EC 006C0060
+1000FFFF 00000000
+
+// Omamori AKA 99
+Author = libretro-database contributors / original PSP cheat authors
+00780EEC 00000063
+
+// Omamori All 99
+Author = libretro-database contributors / original PSP cheat authors
+20780EEC 63636363
+
+// Omamori DOU 99
+Author = libretro-database contributors / original PSP cheat authors
+00780EED 00000063
+
+// Omamori GIn 99
+Author = libretro-database contributors / original PSP cheat authors
+00780EEE 00000063
+
+// Omamori KIn 99
+Author = libretro-database contributors / original PSP cheat authors
+00780EEF 00000063
+
+// Race Hi Speed
+Author = libretro-database contributors / original PSP cheat authors
+8046A9B0 00120001
+8046AA00 00120004
+8046AA98 00120001
+1000FFFF 00000000
+8046AABC 00120001
+
+// Rancher Ability Futaba Max
+Author = libretro-database contributors / original PSP cheat authors
+7093959B 000200A0
+7093959B 000000A0
+0093959C 000000AA
+7093959D 0002000A
+7093959D 0000000A
+709395A0 00017F80
+
+// Rancher Ability Wakaba Max
+Author = libretro-database contributors / original PSP cheat authors
+709394FB 000200A0
+709394FB 000000A0
+009394FC 000000AA
+709394FD 0002000A
+709394FD 0000000A
+70939500 00017F80
+
+// Rancher Change Club Futaba
+Author = libretro-database contributors / original PSP cheat authors
+00937AA0 00000007
+
+// Rancher Change Japan Futaba
+Author = libretro-database contributors / original PSP cheat authors
+00937A70 00000007
+
+// SOUMAGAN Riron Max
+Author = libretro-database contributors / original PSP cheat authors
+709446DA 00010AA0
+709446DA 0003FAAF
+709446DC 0000000A
+709446DC 000200FA

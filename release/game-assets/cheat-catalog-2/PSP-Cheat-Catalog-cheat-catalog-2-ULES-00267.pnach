@@ -1,0 +1,97 @@
+# PSP cheat pack
+# Serial: ULES-00267
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+20055A60 00000000
+
+// 999.999 Emel
+Author = libretro-database contributors / original PSP cheat authors
+20175064 000F423F
+20174E80 000F423F
+
+// 999.999 Gold
+Author = libretro-database contributors / original PSP cheat authors
+20174E80 000F423F
+
+// All Accessories (Working)
+Author = libretro-database contributors / original PSP cheat authors
+40174F28 00140001
+00000001 00000000
+
+// All Armors
+Author = libretro-database contributors / original PSP cheat authors
+40174EE0 00060001
+00000001 00000000
+
+// All Items Max
+Author = libretro-database contributors / original PSP cheat authors
+20170698 00000009
+20170BA8 00000009
+20170B84 00000009
+20170674 00000009
+20174EF8 00000009
+201707B8 00000009
+20170CC8 00000009
+20174F1C 00000009
+00170C38 00000009
+00174F0C 00000009
+20174EFC 00000009
+201706BC 00000009
+20170BCC 00000009
+20174F00 00000009
+201706E0 00000009
+20170BF0 00000009
+20174F04 00000009
+20170704 00000009
+20170C14 00000009
+20174F08 00000009
+201707DC 00000009
+20170CEC 00000009
+20174F20 00000009
+10170794 00000009
+10170CA4 00000009
+10174F18 00000009
+1017074C 00000009
+10170C5C 00000009
+10174F10 00000009
+10170770 00000009
+10170C80 00000009
+10174F14 00000009
+00170728 00000009
+
+// All Shields
+Author = libretro-database contributors / original PSP cheat authors
+40174EC8 00060001
+00000001 00000000
+
+// All Tools
+Author = libretro-database contributors / original PSP cheat authors
+40174EF8 000C0001
+00000009 00000000
+
+// Each Enemy Killed Makes Character Lv. up
+Author = libretro-database contributors / original PSP cheat authors
+20055C44 C53502A4
+
+// Exp. Level Boost
+Author = libretro-database contributors / original PSP cheat authors
+20174E6C 4B18967F
+
+// Inf. Sword Magic
+Author = libretro-database contributors / original PSP cheat authors
+401754B8 00030001
+453B8000 00000000
+
+// Invulnerable
+Author = libretro-database contributors / original PSP cheat authors
+20056A98 03E00008
+
+// Take Crystal Get Max Amount
+Author = libretro-database contributors / original PSP cheat authors
+20054040 00000000
+
+// Take Money Get Max Amount
+Author = libretro-database contributors / original PSP cheat authors
+2005408C 00000000

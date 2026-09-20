@@ -1,0 +1,67 @@
+# PSP cheat pack
+# Serial: ULJM-05102
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+2034AEF8 00000001
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2034AEF8 00000000
+
+// Big Head Enemies
+Author = libretro-database contributors / original PSP cheat authors
+2064FB50 00000001
+
+// Big Head Spider-Man
+Author = libretro-database contributors / original PSP cheat authors
+2064FB4F 00000001
+
+// Disable Infinite Webbing
+Author = libretro-database contributors / original PSP cheat authors
+2064FB4E 00000000
+
+// Enable Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2064FB4D 00000001
+
+// Enable Infinite Webbing
+Author = libretro-database contributors / original PSP cheat authors
+2064FB4E 00000001
+
+// Normal Head Enemies
+Author = libretro-database contributors / original PSP cheat authors
+2064FB50 00000000
+
+// Normal Head Spider-Man
+Author = libretro-database contributors / original PSP cheat authors
+2064FB4F 00000000
+
+// Normal Sized Spider-Man
+Author = libretro-database contributors / original PSP cheat authors
+2064FB51 00000000
+
+// Purchase All Movies
+Author = libretro-database contributors / original PSP cheat authors
+2064FB4C 00000001
+
+// Tiny Spider-Man
+Author = libretro-database contributors / original PSP cheat authors
+2064FB51 00000001
+
+// Unlock All Levels
+Author = libretro-database contributors / original PSP cheat authors
+2064FB48 00000001
+
+// Unlock All Movies
+Author = libretro-database contributors / original PSP cheat authors
+2064FB49 00000001
+
+// Unlock All Production Art
+Author = libretro-database contributors / original PSP cheat authors
+2064FB4A 00000001
+
+// Unlock Storyboard Viewer
+Author = libretro-database contributors / original PSP cheat authors
+2064FB4B 00000001

@@ -1,0 +1,325 @@
+# PSP cheat pack
+# Serial: ULJM-05735
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 99 Characters Add New Entry Points
+Author = libretro-database contributors / original PSP cheat authors
+1033E7EC 00006363
+
+// Acquisition Level x2
+Author = libretro-database contributors / original PSP cheat authors
+2000100C AFA200C0
+20001010 03E00008
+20001014 8EA43998
+2001CE00 0E200403
+2001CE04 00021040
+
+// Acquisition Level x4
+Author = libretro-database contributors / original PSP cheat authors
+2000100C AFA200C0
+20001010 03E00008
+20001014 8EA43998
+2001CE00 0E200403
+2001CE04 00021080
+
+// Acquisition Level x8
+Author = libretro-database contributors / original PSP cheat authors
+2000100C AFA200C0
+20001010 03E00008
+20001014 8EA43998
+2001CE00 0E200403
+2001CE04 000210C0
+
+// Acquisition Level x16
+Author = libretro-database contributors / original PSP cheat authors
+2000100C AFA200C0
+20001010 03E00008
+20001014 8EA43998
+2001CE00 0E200403
+2001CE04 00021100
+
+// Acquisition Level x32
+Author = libretro-database contributors / original PSP cheat authors
+2000100C AFA200C0
+20001010 03E00008
+20001014 8EA43998
+2001CE00 0E200403
+2001CE04 00021140
+
+// Acquisition Level x64
+Author = libretro-database contributors / original PSP cheat authors
+2000100C AFA200C0
+20001010 03E00008
+20001014 8EA43998
+2001CE00 0E200403
+2001CE04 00021180
+
+// Acquisition Level x128
+Author = libretro-database contributors / original PSP cheat authors
+2000100C AFA200C0
+20001010 03E00008
+20001014 8EA43998
+2001CE00 0E200403
+2001CE04 000211C0
+
+// All Character Attribute
+Author = libretro-database contributors / original PSP cheat authors
+401B88C8 0066013D
+63636363 00000000
+801B88C6 0066027A
+10006363 00000000
+
+// All Character Exp.
+Author = libretro-database contributors / original PSP cheat authors
+401B88E4 0066013D
+05F5E0FF 00000000
+
+// All Characters Dic
+Author = libretro-database contributors / original PSP cheat authors
+80212554 00160001
+00000011 00000000
+
+// All Items Sold (Draken School)
+Author = libretro-database contributors / original PSP cheat authors
+8029A864 04520108
+000000FF 00000000
+802E1DFC 01F30108
+
+// All Items Sold (Priciana Academy)
+Author = libretro-database contributors / original PSP cheat authors
+8029A865 04520108
+000000FF 00000000
+802E1DFD 01F30108
+
+// All Items Sold (Takachiho Gijuku)
+Author = libretro-database contributors / original PSP cheat authors
+8029A866 04520108
+000000FF 00000000
+802E1DFE 01F30108
+
+// All Map Starts
+Author = libretro-database contributors / original PSP cheat authors
+4020E1AC 0B630001
+FFFFFFFF 00000000
+10210F38 0000FFFF
+
+// All Monster Illustrations
+Author = libretro-database contributors / original PSP cheat authors
+4020DA00 00060001
+FFFFFFFF 00000000
+1020DA18 00003FFF
+4020DA40 00060001
+1020DA58 00003FFF
+8020DA65 00120001
+000000FF 00000000
+
+// All Props Collections
+Author = libretro-database contributors / original PSP cheat authors
+8020DA81 05A20001
+00000005 00000000
+
+// All Props To Strengthen +15
+Author = libretro-database contributors / original PSP cheat authors
+812392B0 00640014
+0000000F 00000000
+
+// All Type Monster Punitive Exp. Edition 9999
+Author = libretro-database contributors / original PSP cheat authors
+4020D9C4 000E0001
+0000270F 00000000
+
+// Bag Props x99
+Author = libretro-database contributors / original PSP cheat authors
+012392A0 00000064
+812392AB 00640014
+00000063 00000000
+
+// Battle Exp. Rate
+Author = libretro-database contributors / original PSP cheat authors
+20001000 AFA200BC
+20001004 03E00008
+20001008 8EA4399C
+2001CDF0 0E200400
+2001CDF4 00021100
+
+// Battle Risyuudo Rate
+Author = libretro-database contributors / original PSP cheat authors
+2000100C AFA200C0
+20001010 03E00008
+20001014 8EA43998
+2001CE00 0E200403
+2001CE04 00021100
+
+// BP No Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200B5018 00000000
+
+// Death Number Of Times
+Author = libretro-database contributors / original PSP cheat authors
+1020D998 00000000
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+20001000 AFA200BC
+20001004 03E00008
+20001008 8EA4399C
+2001CDF0 0E200400
+2001CDF4 00021040
+
+// Exp. x4
+Author = libretro-database contributors / original PSP cheat authors
+20001000 AFA200BC
+20001004 03E00008
+20001008 8EA4399C
+2001CDF0 0E200400
+2001CDF4 00021080
+
+// Exp. x8
+Author = libretro-database contributors / original PSP cheat authors
+20001000 AFA200BC
+20001004 03E00008
+20001008 8EA4399C
+2001CDF0 0E200400
+2001CDF4 000210C0
+
+// Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+20001000 AFA200BC
+20001004 03E00008
+20001008 8EA4399C
+2001CDF0 0E200400
+2001CDF4 00021100
+
+// Exp. x32
+Author = libretro-database contributors / original PSP cheat authors
+20001000 AFA200BC
+20001004 03E00008
+20001008 8EA4399C
+2001CDF0 0E200400
+2001CDF4 00021140
+
+// Exp. x64
+Author = libretro-database contributors / original PSP cheat authors
+20001000 AFA200BC
+20001004 03E00008
+20001008 8EA4399C
+2001CDF0 0E200400
+2001CDF4 00021180
+
+// Exp. x123
+Author = libretro-database contributors / original PSP cheat authors
+20001000 AFA200BC
+20001004 03E00008
+20001008 8EA4399C
+2001CDF0 0E200400
+2001CDF4 000211C0
+
+// First Member All Courses Taken
+Author = libretro-database contributors / original PSP cheat authors
+801B8B3C 002D0004
+00000064 00000000
+
+// First Member Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+401B8B3C 002D0001
+05F5E0FF 00000000
+
+// First Member Lv. 01
+Author = libretro-database contributors / original PSP cheat authors
+101B88D8 00000001
+201B88E4 00000000
+
+// First Member Lv. 99
+Author = libretro-database contributors / original PSP cheat authors
+101B88D8 00000063
+
+// First Member Max HP 9999
+Author = libretro-database contributors / original PSP cheat authors
+101B88CC 0000270F
+
+// First Member Max MP 9999
+Author = libretro-database contributors / original PSP cheat authors
+101B88D4 0000270F
+
+// First Member Now HP 9999
+Author = libretro-database contributors / original PSP cheat authors
+101B88D0 0000270F
+
+// First Member Now MP 9999
+Author = libretro-database contributors / original PSP cheat authors
+101B88D6 0000270F
+
+// Full Alchemy Method
+Author = libretro-database contributors / original PSP cheat authors
+8020E050 00800001
+1000FFFF 00000000
+
+// Full Title
+Author = libretro-database contributors / original PSP cheat authors
+2020D9BC FFFFFFFF
+2020D9C0 0003FFFF
+
+// Game Time Does Not Increase
+Author = libretro-database contributors / original PSP cheat authors
+1020D982 00000000
+1020D984 00000000
+
+// Gold Max
+Author = libretro-database contributors / original PSP cheat authors
+2121A16C 3ADE68B1
+
+// Item All Sale
+Author = libretro-database contributors / original PSP cheat authors
+20053040 240200FF
+
+// Map All Open
+Author = libretro-database contributors / original PSP cheat authors
+200EE914 2401FFFF
+200EE918 AC8107EC
+200EE928 24020001
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+2121A16C 05F5E0FF
+
+// Monster Kill Count Max
+Author = libretro-database contributors / original PSP cheat authors
+4020D9C4 000E0001
+FFFFFFFF 00000000
+
+// New Matriculation Chara. Pts. Promotion No Limited
+Author = libretro-database contributors / original PSP cheat authors
+801FA82A 00060001
+00000063 00000000
+
+// No Encount
+Author = libretro-database contributors / original PSP cheat authors
+0023C031 00000000
+
+// Totally Destroy Number Of Times
+Author = libretro-database contributors / original PSP cheat authors
+1020D99E 00000000
+
+// Treasure Box No Trap
+Author = libretro-database contributors / original PSP cheat authors
+21221F04 00000000
+
+// Unlock Item Picture Book
+Author = libretro-database contributors / original PSP cheat authors
+8020DA80 02BF0001
+1000FFFF 00000000
+
+// Unlock Monster Picture Book
+Author = libretro-database contributors / original PSP cheat authors
+8020DA00 00370001
+000000FF 00000000
+8020DA40 00370001
+
+// Valuable Box Obtaining Up
+Author = libretro-database contributors / original PSP cheat authors
+2020D994 0001869F
+
+// Whole Career Options
+Author = libretro-database contributors / original PSP cheat authors
+8021277A 002E0001
+00000001 00000000

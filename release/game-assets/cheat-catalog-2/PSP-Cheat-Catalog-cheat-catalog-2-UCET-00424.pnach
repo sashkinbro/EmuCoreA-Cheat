@@ -1,0 +1,37 @@
+# PSP cheat pack
+# Serial: UCET-00424
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 0 Defeat
+Author = libretro-database contributors / original PSP cheat authors
+00488A84 00000000
+0136815C 00000000
+0137404E 00000000
+01385F9C 00000000
+
+// 9999 Wins
+Author = libretro-database contributors / original PSP cheat authors
+20488A80 0000270F
+21385F98 0000270F
+21569118 0000270F
+
+// Lots Of Money
+Author = libretro-database contributors / original PSP cheat authors
+21368108 3B9AC9FF
+
+// P1 - Has Devil Jin Moves
+Author = libretro-database contributors / original PSP cheat authors
+1037696E 0000001A
+003765E2 0000001A
+003765E0 0000001A
+
+// Player 1 Always Wins
+Author = libretro-database contributors / original PSP cheat authors
+003769C0 00000002
+
+// Tekken Lord Rank
+Author = libretro-database contributors / original PSP cheat authors
+00488A94 00000020
+01368308 00000020
+01385FAC 00000020
+0156912C 00000020

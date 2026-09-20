@@ -1,0 +1,27 @@
+# PSP cheat pack
+# Serial: ULES-01260
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Max Accuracy Experience
+Author = libretro-database contributors / original PSP cheat authors
+2043A36C 000060C8
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+2059C1B4 000F423F
+
+// Max Concentration Experience
+Author = libretro-database contributors / original PSP cheat authors
+2043A378 000060C8
+
+// Max Power Experience
+Author = libretro-database contributors / original PSP cheat authors
+2043A368 000060C8
+
+// Max Putting Experience
+Author = libretro-database contributors / original PSP cheat authors
+2043A374 000060C8
+
+// Max Spin Experience
+Author = libretro-database contributors / original PSP cheat authors
+2043A370 000060C8

@@ -1,0 +1,60 @@
+# PSP cheat pack
+# Serial: ULJM-05008
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// DisableAnalogStick
+Author = libretro-database contributors / original PSP cheat authors
+002F6000 00000001
+
+// SkipFE
+Author = libretro-database contributors / original PSP cheat authors
+002F5F28 00000001
+
+// SkipFENumLaps
+Author = libretro-database contributors / original PSP cheat authors
+002F5F38 00000001
+
+// SkipIntros
+Author = libretro-database contributors / original PSP cheat authors
+002F6070 00000001
+
+// UnlockEverything
+Author = libretro-database contributors / original PSP cheat authors
+002F5FD4 00000001
+
+// UseTGSCar
+Author = libretro-database contributors / original PSP cheat authors
+002F5FF8 00000001
+
+// AI [Disabled]
+Author = libretro-database contributors / original PSP cheat authors
+2015C3B0 00000000
+
+// AI [Enabled]
+Author = libretro-database contributors / original PSP cheat authors
+2015C3B0 00000001
+
+// Infinite Nitrous
+Author = libretro-database contributors / original PSP cheat authors
+200FBB40 00000000
+
+// Max Cash
+Author = libretro-database contributors / original PSP cheat authors
+203912D4 05F5E0FF
+20A802FC 00000000
+
+// Mod Total Lap: 1 Lap
+Author = libretro-database contributors / original PSP cheat authors
+2033B3E8 00000001
+
+// Mod Total Lap: 2 Laps
+Author = libretro-database contributors / original PSP cheat authors
+2033B3E8 00000002
+
+// Mod Total Lap: 3 Laps
+Author = libretro-database contributors / original PSP cheat authors
+2033B3E8 00000003
+
+// Mod Total Lap: 9 Laps
+Author = libretro-database contributors / original PSP cheat authors
+2033B3E8 00000009

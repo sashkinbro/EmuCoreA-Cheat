@@ -1,0 +1,411 @@
+# PSP cheat pack
+# Serial: ULJM-05734
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// [R.OPC] Janken
+Author = libretro-database contributors / original PSP cheat authors
+20001080 34020100
+20001084 3C040963
+20001088 A482AB04
+
+// [R.PRG] Card Complete
+Author = libretro-database contributors / original PSP cheat authors
+20056C54 0E200280
+20056C58 00000000
+20000A0C 03E00008
+20000A10 90420001
+20000A00 3C010003
+20000A04 3421640F
+20000A08 AC410000
+
+// [R.PRG] Card Q. Answer
+Author = libretro-database contributors / original PSP cheat authors
+E0030018 00B29324
+20B29324 8C660014
+20B2932C AC660018
+20B29330 54000003
+
+// [R.PRG] DP Over
+Author = libretro-database contributors / original PSP cheat authors
+20054784 14000006
+20054790 3464CA00
+
+// [R.PRG] Edit Dec. Free
+Author = libretro-database contributors / original PSP cheat authors
+E0029222 0064FB72
+2064C768 24050000
+2064FB70 24020000
+2064E758 24020000
+
+// [R.PRG] Game Speed E STT
+Author = libretro-database contributors / original PSP cheat authors
+20000700 3C010880
+20000704 3C020896
+20000708 9442F3C4
+2000070C 38420008
+20000710 14020013
+20000714 8C220680
+20000718 24420001
+2000071C 28430003
+20000720 50030001
+20000724 24020000
+20000728 AC220680
+2000072C 3C040882
+20000730 3C030E21
+20000734 3463C931
+20000738 50020001
+2000073C AC833468
+20000740 50020001
+20000744 AC833480
+20000748 2442FFFF
+2000074C 50020001
+20000750 AC803468
+20000754 2442FFFF
+20000758 50020001
+2000075C AC803480
+
+// [R.PRG] Game Speed M STT
+Author = libretro-database contributors / original PSP cheat authors
+20000760 03E00008
+20000764 24020001
+201FF378 00430024
+201FF37C 00430032
+201FF380 0064006F
+201FF384 00640065
+201FF388 00790042
+201FF38C 00430024
+201FF390 00520034
+201FF394 0061002E
+201FF398 0059002E
+201FF39C 0000002E
+200234E8 0A2001C0
+
+// [R.PRG] Heart SEL^v
+Author = libretro-database contributors / original PSP cheat authors
+20058C14 00000000
+20058C18 0A2002C0
+20000B44 03E00008
+20000B48 94420016
+20000B00 3C010896
+20000B04 8C21F3C0
+20000B08 30230001
+20000B0C 1003000D
+20000B10 90430028
+20000B14 30210050
+20000B18 1001000A
+20000B1C 38210040
+20000B20 50010001
+20000B24 2463FFFF
+20000B28 240103E8
+20000B2C 00230018
+20000B30 00001812
+20000B34 28610FA0
+20000B38 50010001
+20000B3C 24030FA0
+20000B40 A4430016
+
+// [R.PRG] Load Dummy Card
+Author = libretro-database contributors / original PSP cheat authors
+20056C50 24020001
+
+// [R.PRG] Non Draw Fin. LR
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10000300
+E0018C63 01319D52
+21319D50 24030000
+
+// [R.PRG] Pad Burst Ro
+Author = libretro-database contributors / original PSP cheat authors
+20028B7C 0A200200
+20000818 03E00008
+20000800 8C830000
+20000804 38632200
+20000808 14030003
+2000080C 8C830004
+20000810 34632000
+20000814 AC830004
+
+// 2P 0LP
+Author = libretro-database contributors / original PSP cheat authors
+10FFB6A4 00000000
+1165AF9C 00000000
+
+// A. DSPL. Card No.
+Author = libretro-database contributors / original PSP cheat authors
+10679ADC 00001F2E
+
+// A. Edit Dec.
+Author = libretro-database contributors / original PSP cheat authors
+107C9490 00002005
+
+// All Card x 44727
+Author = libretro-database contributors / original PSP cheat authors
+6068098C 00000004
+000312BF 000053A0
+90000004 00000000
+000312BF 000053BF
+
+// All Cards Package Sale
+Author = libretro-database contributors / original PSP cheat authors
+D0B23C70 20000050
+40B23C6C 003C0003
+00006416 00000000
+
+// All Card X3
+Author = libretro-database contributors / original PSP cheat authors
+803341B8 12740004
+00000004 00000000
+803341B9 12740004
+00000003 00000000
+
+// Always Win In Rock Scisors Paper
+Author = libretro-database contributors / original PSP cheat authors
+10E2AB04 00000100
+
+// BGM
+Author = libretro-database contributors / original PSP cheat authors
+2033FE7C 0000003F
+
+// Card
+Author = libretro-database contributors / original PSP cheat authors
+803341B0 12BF0002
+1000040F 00000000
+
+// Card All x3
+Author = libretro-database contributors / original PSP cheat authors
+80334188 12BF0004
+00000004 00000000
+80334189 12BF0004
+00000003 00000000
+
+// Card All x5
+Author = libretro-database contributors / original PSP cheat authors
+80334188 12BF0004
+00000004 00000000
+80334189 12BF0004
+00000005 00000000
+
+// Card All x7
+Author = libretro-database contributors / original PSP cheat authors
+80334188 12BF0004
+00000004 00000000
+80334189 12BF0004
+00000007 00000000
+
+// Card All x99
+Author = libretro-database contributors / original PSP cheat authors
+80334188 12BF0004
+00000004 00000000
+80334189 12BF0004
+00000063 00000000
+
+// Card Max
+Author = libretro-database contributors / original PSP cheat authors
+40334170 14DF0001
+0003630C 00000000
+
+// Card Questions Answer Always Right
+Author = libretro-database contributors / original PSP cheat authors
+20B29324 8C660014
+20B2932C AC660018
+20B29330 54000003
+
+// Challenge To Reach A Rate Of 100%
+Author = libretro-database contributors / original PSP cheat authors
+6068098C 00000002
+000300EC 0000A4B9
+90000001 00000000
+
+// Characters
+Author = libretro-database contributors / original PSP cheat authors
+8033FCAA 00970001
+10000F0F 00000000
+
+// Deck Recipes
+Author = libretro-database contributors / original PSP cheat authors
+803331E0 00650004
+10000005 00000002
+803331E2 00650004
+803331E4 00650004
+803331E6 00650004
+
+// DP 999999999
+Author = libretro-database contributors / original PSP cheat authors
+20330D6C 3B9AC9FF
+
+// DP Max
+Author = libretro-database contributors / original PSP cheat authors
+6068098C 3B9AC9FF
+00050001 0000D2E4
+
+// DP Max v2
+Author = libretro-database contributors / original PSP cheat authors
+20331374 05F5E0FF
+
+// DP Max v3
+Author = libretro-database contributors / original PSP cheat authors
+20330D5C 05F022E8
+216775A8 05F022E8
+216775AC 05F022E8
+20330D78 05F5E0FF
+21257C04 05F5E0FF
+20330D58 05F5E0FF
+216775A8 05F5E0FF
+216775AC 05F5E0FF
+20330D3C 05F5E0FF
+20330D60 05F5E0FF
+
+// Edit Partner Decks No Limit
+Author = libretro-database contributors / original PSP cheat authors
+8007D1A2 008D0004
+00000003 00000000
+
+// Game Deck
+Author = libretro-database contributors / original PSP cheat authors
+80330E1C 00650020
+10000004 00000000
+80330E1E 00650020
+10000002 00000004
+80330E20 00650020
+10000003 00000004
+80330E22 00650020
+10000004 00000004
+80330E24 00650020
+10000005 00000004
+
+// Game Speed Up
+Author = libretro-database contributors / original PSP cheat authors
+20023460 10000003
+
+// HP Max (Kari)
+Author = libretro-database contributors / original PSP cheat authors
+00FFC698 00017130
+00FFC6A0 00017130
+00FFC6B0 00017130
+0165B460 00017130
+0165E72C 00017130
+0165E734 00017130
+
+// Instant Win
+Author = libretro-database contributors / original PSP cheat authors
+00FFC6A4 00000000
+0165BF9C 00000000
+
+// Love Lunch Address The First Item
+Author = libretro-database contributors / original PSP cheat authors
+00330D5C 00000099
+00330D5D 00000000
+
+// Master
+Author = libretro-database contributors / original PSP cheat authors
+2033FEB0 0000000A
+
+// Max LP
+Author = libretro-database contributors / original PSP cheat authors
+00FFC698 00017130
+00FFC6A0 00017130
+00FFC6B0 00017130
+0165B460 00017130
+0165E72C 00017130
+0165E734 00017130
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+20330D5C 00063696
+
+// Music
+Author = libretro-database contributors / original PSP cheat authors
+2033FE80 FFFFFFFF
+2033FE84 0000007F
+
+// No Ban List
+Author = libretro-database contributors / original PSP cheat authors
+8033418A 12BF0004
+00000003 00000000
+
+// No Banned Cards
+Author = libretro-database contributors / original PSP cheat authors
+8033418E 12BF0004
+00000003 00000000
+
+// NPC Play
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 016326E8
+016326E8 00000000
+
+// Opponent Life 0
+Author = libretro-database contributors / original PSP cheat authors
+D0000001 10008000
+10FFB6A4 00000000
+1165AF9C 00000000
+
+// Pack
+Author = libretro-database contributors / original PSP cheat authors
+8033A205 003C002A
+00000002 00000000
+
+// Prohibition Release
+Author = libretro-database contributors / original PSP cheat authors
+8033418E 12BF0004
+00000003 00000000
+
+// Really All Card 9
+Author = libretro-database contributors / original PSP cheat authors
+8033418C 12BF0004
+00000004 00000000
+8033418D 12BF0004
+00000009 00000000
+
+// Shikaku Teki 0
+Author = libretro-database contributors / original PSP cheat authors
+D0000006 10008000
+20FE98E0 00000000
+20FFB69C 00000000
+20FFB6A4 00000000
+20FFB6B4 00000000
+2165AF9C 00000000
+2165D730 00000000
+2165D738 00000000
+
+// Square Win
+Author = libretro-database contributors / original PSP cheat authors
+D0000006 10008000
+20FE98E0 00000000
+20FFB69C 00000000
+20FFB6A4 00000000
+20FFB6B4 00000000
+2165AF9C 00000000
+2165D730 00000000
+
+// UMD Linkage TF1
+Author = libretro-database contributors / original PSP cheat authors
+10655CCA 00003135
+10655CCC 00003135
+10655D36 00003735
+10655D38 00003433
+
+// UMD Linkage TF2
+Author = libretro-database contributors / original PSP cheat authors
+10655CCA 00003235
+10655CCC 00003036
+10655D12 00003735
+10655D14 00003433
+
+// UMD Linkage TF3
+Author = libretro-database contributors / original PSP cheat authors
+10655CCA 00003335
+10655CCC 00003337
+10655CFA 00003735
+10655CFC 00003433
+
+// UMD Linkage TF4
+Author = libretro-database contributors / original PSP cheat authors
+10655CCA 00003435
+10655CCC 00003937
+10655CD6 00003735
+10655CD8 00003433
+
+// UMD Linkage TF5
+Author = libretro-database contributors / original PSP cheat authors
+10655CCA 00003735
+10655CCC 00003433

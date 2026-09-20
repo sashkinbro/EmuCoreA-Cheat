@@ -1,0 +1,103 @@
+# PSP cheat pack
+# Serial: ULJM-05560
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Black Sky Fix
+Author = libretro-database contributors / original PSP cheat authors
+E004002D 004721C0
+204721C0 0A200580
+20001600 254AFFFF
+20001604 0A31C872
+20001608 98CB002D
+
+// Black Sky Fix [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010580 004721C0
+204721C0 98CB002D
+
+// AP Max
+Author = libretro-database contributors / original PSP cheat authors
+8087A836 00470080
+1000437A 00000000
+
+// Attack Inf.
+Author = libretro-database contributors / original PSP cheat authors
+8087A445 000C002C
+
+// Bullet Inf.
+Author = libretro-database contributors / original PSP cheat authors
+8087A86E 000C0100
+000000FF 00000000
+8087A86F 000C0100
+8087A870 000C0100
+
+// Charactor All
+Author = libretro-database contributors / original PSP cheat authors
+805357AC 004A002C
+00000001 00000000
+
+// Clear Flag
+Author = libretro-database contributors / original PSP cheat authors
+00535586 00000001
+
+// CP
+Author = libretro-database contributors / original PSP cheat authors
+0087A3FC 00000014
+
+// DCT Max
+Author = libretro-database contributors / original PSP cheat authors
+20537180 009896FF
+
+// Design All
+Author = libretro-database contributors / original PSP cheat authors
+80541F6C 00730001
+10000003 00000000
+
+// Difficulty Level Easy
+Author = libretro-database contributors / original PSP cheat authors
+00535580 00000000
+
+// Difficulty Level Normal
+Author = libretro-database contributors / original PSP cheat authors
+00535580 00000001
+
+// Exp.
+Author = libretro-database contributors / original PSP cheat authors
+20537184 0098967F
+
+// Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+20537184 05F5E0FF
+
+// Futatsuna All
+Author = libretro-database contributors / original PSP cheat authors
+405421F8 00140001
+FFFFFFFF 00000000
+1054223C 0000FFFF
+80542248 00070001
+1000FFFF 00000000
+00542256 0000007F
+
+// Material All
+Author = libretro-database contributors / original PSP cheat authors
+80541FDF 007E0001
+10000063 00000000
+80542093 00520001
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20537180 05F5E0FF
+
+// Moral Max
+Author = libretro-database contributors / original PSP cheat authors
+00885E10 00000064
+
+// News Paper All
+Author = libretro-database contributors / original PSP cheat authors
+40542270 00080001
+FFFFFFFF 00000000
+
+// Sekkeizu All
+Author = libretro-database contributors / original PSP cheat authors
+80541F6C 00730001
+00000003 00000000

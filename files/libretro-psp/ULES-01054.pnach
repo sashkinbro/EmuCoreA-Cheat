@@ -1,0 +1,100 @@
+# PSP cheat pack
+# Serial: ULES-01054
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 20 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E0070003 10003704
+20004F58 0A200DC0
+20003700 3C040001
+20003704 24050003
+20003708 AC850160
+2000370C 3C054040
+20003710 0A2013BD
+20003714 AC850164
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0070002 10003704
+20004F58 0A200DC0
+20003700 3C040001
+20003704 24050002
+20003708 AC850160
+2000370C 3C054000
+20003710 0A2013BD
+20003714 AC850164
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E0070001 10003704
+20004F58 0A200DC0
+20003700 3C040001
+20003704 24050001
+20003708 AC850160
+2000370C 3C053F80
+20003710 0A2013BD
+20003714 AC850164
+
+// All Characters
+Author = libretro-database contributors / original PSP cheat authors
+210A3E88 FFFFFFFF
+210A3E8C FFFFFFFF
+110A3E90 0000FFFF
+
+// Always Have 2x Damage Item Enabled
+Author = libretro-database contributors / original PSP cheat authors
+110A4514 000003E7
+110D50B6 000003E7
+
+// Always Have Ko. Count 9999
+Author = libretro-database contributors / original PSP cheat authors
+110A44A0 0000270F
+
+// Growth Points
+Author = libretro-database contributors / original PSP cheat authors
+110A418C 000087B2
+117FEFF4 000087B2
+117FF094 000087B2
+
+// Inf. Health
+Author = libretro-database contributors / original PSP cheat authors
+211726E0 0334C553
+
+// Inf. Musou
+Author = libretro-database contributors / original PSP cheat authors
+211726E8 01CC019A
+
+// Inf. Powerups
+Author = libretro-database contributors / original PSP cheat authors
+710A450C 00000002
+110A4514 0000FFFF
+710A450C 00000004
+110A4518 0000FFFF
+710A450C 00000008
+110A451C 0000FFFF
+710A450C 00000010
+110A4520 0000FFFF
+
+// Inf. Growth Pts.
+Author = libretro-database contributors / original PSP cheat authors
+110A418C 0000176F
+
+// Infinite Growth Points
+Author = libretro-database contributors / original PSP cheat authors
+20DC7B28 0001869F
+
+// Infinite Musou
+Author = libretro-database contributors / original PSP cheat authors
+211726E8 01900190
+
+// Infinite Musou Item Enabled
+Author = libretro-database contributors / original PSP cheat authors
+110A451C 000003E7
+
+// Infinite Speed Item Enabled
+Author = libretro-database contributors / original PSP cheat authors
+110A4520 000003E7
+
+// Max Ko. Count
+Author = libretro-database contributors / original PSP cheat authors
+210A44A0 0000270F

@@ -1,0 +1,36 @@
+# PSP cheat pack
+# Serial: UCES-00113
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Force 20 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2026F678 00000003
+
+// Force 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2026F678 00000002
+
+// Force 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2026F678 00000001
+
+// Car Damage
+Author = libretro-database contributors / original PSP cheat authors
+2027D3B8 BF800000
+
+// Car Damage [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+2027D3B8 00000000
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+602A4B24 00000063
+00000002 00000010
+200003FC 00000000
+00000002 0000003C
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+602A4B24 0000270F
+00020001 00000458
+00020001 0000045C

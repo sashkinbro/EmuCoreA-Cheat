@@ -1,0 +1,196 @@
+# PSP cheat pack
+# Serial: ULES-00826
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Right Analog Support v1 [On][USA/EUR]
+Author = libretro-database contributors / original PSP cheat authors
+E00D0007 00005068
+20005068 3C044300
+20005070 0E200DC1
+20005074 4484F000
+20005090 10000003
+20003704 926F000A
+20003708 448F6000
+2000370C 46806320
+20003710 461E6301
+20003714 926E000B
+20003718 448E6800
+2000371C 46806B60
+20003720 03E00008
+20003724 461E6B41
+
+// Right Analog Support v1 [Off/Default][USA/EUR]
+Author = libretro-database contributors / original PSP cheat authors
+E0044300 00005068
+20005068 10800007
+20005070 C64C0004
+20005074 C64D0008
+20005090 14800003
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+201352FC ACC014A0
+
+// All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+2035BD10 3F800000
+
+// Enemies Can't Use Rage Mode
+Author = libretro-database contributors / original PSP cheat authors
+20116A28 AE201AFC
+
+// Golden Shotgun
+Author = libretro-database contributors / original PSP cheat authors
+2035BD30 3F800000
+
+// Have All Weapons
+Author = libretro-database contributors / original PSP cheat authors
+2035BD10 3F800000
+
+// Infinite 50 Caliber Pistol Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2035BCF8 3F800000
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20201298 24840000
+
+// Infinite Breath
+Author = libretro-database contributors / original PSP cheat authors
+2035BD20 3F800000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2035BD18 3F800000
+
+// Infinite Health v2
+Author = libretro-database contributors / original PSP cheat authors
+2021C014 0A200800
+20002000 3C18461C
+20002004 ACB806D0
+20002008 0A287007
+2000200C C4AC06D0
+
+// Infinite Item Usage
+Author = libretro-database contributors / original PSP cheat authors
+201E1138 24840000
+
+// Infinite Mini SMG Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2035BD08 3F800000
+
+// Infinite Oxygen
+Author = libretro-database contributors / original PSP cheat authors
+20265064 00000000
+2026EFCC 00000000
+
+// Infinite Shotgun Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2035BD00 3F800000
+
+// Infinite Time-Trial Time
+Author = libretro-database contributors / original PSP cheat authors
+2035BFB8 45610000
+
+// Invincible
+Author = libretro-database contributors / original PSP cheat authors
+20249B38 24050000
+
+// Moonjump (Activate In Game)
+Author = libretro-database contributors / original PSP cheat authors
+20392504 BFFF4000
+2173B108 42400000
+D2000000 00000000
+
+// Moonjump (Activate In Game) v2
+Author = libretro-database contributors / original PSP cheat authors
+20252B00 8C870008
+20258994 1040000C
+20392504 BFFF4000
+20252B00 3C074240
+D2000000 00000000
+
+// No Clipping (Press L+R To Activate, X To Stop)
+Author = libretro-database contributors / original PSP cheat authors
+20392504 00000300
+216CA306 00000010
+D2000000 00000000
+20392504 BFFF4000
+216CA306 00000000
+
+// Silver Mini SMGs
+Author = libretro-database contributors / original PSP cheat authors
+2035BD28 3F800000
+
+// Sunglasses
+Author = libretro-database contributors / original PSP cheat authors
+2035BD38 3F800000
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+216CA37C 40000000
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+216CA37C 3F800000
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+216CA37C 3FC00000
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+216CA37C 3F000000
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+216CA37C 3E800000
+
+// Unlock Egypt 100% Complete
+Author = libretro-database contributors / original PSP cheat authors
+20566FE8 01020900
+20567101 00000003
+20567102 00000001
+20567119 00000004
+20567131 00000002
+20567132 00000001
+
+// Unlock Greece 100% Complete
+Author = libretro-database contributors / original PSP cheat authors
+20566FC8 01020A00
+205670B9 00000001
+205670D1 00000001
+205670D2 00000002
+205670E9 00000002
+205670A1 00000006
+
+// Unlock Lost Island 100% Complete
+Author = libretro-database contributors / original PSP cheat authors
+20567108 01020900
+20567149 00000004
+2056714A 00000001
+20567161 00000001
+20567162 00000001
+20567179 00000004
+
+// Unlock Peru 100% Complete
+Author = libretro-database contributors / original PSP cheat authors
+20566FA8 01080200
+20567041 00000003
+20567042 00000001
+20567059 00000001
+20567071 00000002
+20567072 00000001
+20567089 00000002
+
+// Unlock Time Trial Complete
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 0000000D
+20567044 00000001
+DC000000 00000018
+D2000000 00000000
+
+// Unlock Time Trial Complete v2
+Author = libretro-database contributors / original PSP cheat authors
+20567044 00000018
+00000001 00000000

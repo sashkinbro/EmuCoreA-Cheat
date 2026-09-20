@@ -1,0 +1,16 @@
+# PSP cheat pack
+# Serial: ULJM-05355
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Characters
+Author = libretro-database contributors / original PSP cheat authors
+404670CC 00080001
+FFFFFFFF 00000000
+
+// Infinite HP
+Author = libretro-database contributors / original PSP cheat authors
+2093D01E 000001A4
+
+// Infinite Tension
+Author = libretro-database contributors / original PSP cheat authors
+2046C0DC 00002710

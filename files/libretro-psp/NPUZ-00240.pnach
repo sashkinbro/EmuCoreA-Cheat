@@ -1,0 +1,25 @@
+# PSP cheat pack
+# Serial: NPUZ-00240
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Can Play Locked Worlds
+Author = libretro-database contributors / original PSP cheat authors
+20042730 34040008
+
+// Infinite Lives
+Author = libretro-database contributors / original PSP cheat authors
+20002000 AC900000
+20002004 0A20BD40
+20002008 0230202A
+2002F4F8 0A200800
+2002F4FC 24100003
+
+// Timer
+Author = libretro-database contributors / original PSP cheat authors
+20028AEC 46006506
+2002C100 44847000
+
+// Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20028AEC 4480A000
+2002C100 44807000

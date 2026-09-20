@@ -1,0 +1,15 @@
+# PSP cheat pack
+# Serial: ULJM-05344
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Aura All 999
+Author = libretro-database contributors / original PSP cheat authors
+10179494 000003E7
+10179498 000003E7
+1017949C 000003E7
+101794A0 000003E7
+101794A4 000003E7
+
+// MP Max
+Author = libretro-database contributors / original PSP cheat authors
+10179534 00000064

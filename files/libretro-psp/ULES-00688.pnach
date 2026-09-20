@@ -1,0 +1,35 @@
+# PSP cheat pack
+# Serial: ULES-00688
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 2250 Men
+Author = libretro-database contributors / original PSP cheat authors
+20239FA4 000008CA
+
+// Allways 40 Food
+Author = libretro-database contributors / original PSP cheat authors
+20239FB0 00000028
+
+// Infinite Gold
+Author = libretro-database contributors / original PSP cheat authors
+10239FA8 0503FE9A
+
+// No Sail Damage 1. Ship
+Author = libretro-database contributors / original PSP cheat authors
+202187F4 00000000
+
+// No Sail Damage 2. Ship
+Author = libretro-database contributors / original PSP cheat authors
+20218920 00000000
+
+// No Sail Damage 3. Ship
+Author = libretro-database contributors / original PSP cheat authors
+20218A48 00000000
+
+// No Sail Damage 4. Ship
+Author = libretro-database contributors / original PSP cheat authors
+20218B70 00000000
+
+// No Sail Damage 5. Ship
+Author = libretro-database contributors / original PSP cheat authors
+20218C98 00000000

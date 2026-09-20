@@ -16,10 +16,19 @@ from pathlib import Path
 
 ROOT = Path(__file__).parents[1]
 RELEASE_REPO = "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download"
+DOWNLOAD_MARKER = "/releases/download/"
 
 
 def digest(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest().upper()
+
+
+def release_of(entry: dict) -> str | None:
+    """Return the release tag an entry downloads from, if any."""
+    url = str(entry.get("downloadUrl", ""))
+    if DOWNLOAD_MARKER not in url:
+        return None
+    return url.split(DOWNLOAD_MARKER, 1)[1].split("/", 1)[0]
 
 
 def main() -> int:
@@ -37,8 +46,11 @@ def main() -> int:
     catalog = json.loads((ROOT / "cheats.json").read_text(encoding="utf-8"))
     out = ROOT / "release" / "game-assets" / version
     out.mkdir(parents=True, exist_ok=True)
+    entries = [entry for entry in catalog["entries"] if release_of(entry) == version]
+    if not entries:
+        raise SystemExit(f"no catalog entries point at release {version}")
     assets: list[dict[str, object]] = []
-    for entry in sorted(catalog["entries"], key=lambda item: item["serials"][0]):
+    for entry in sorted(entries, key=lambda item: item["serials"][0]):
         serial = entry["serials"][0]
         source = ROOT / entry["packPath"]
         pnach_name = f"PSP-Cheat-Catalog-{version}-{serial}.pnach"

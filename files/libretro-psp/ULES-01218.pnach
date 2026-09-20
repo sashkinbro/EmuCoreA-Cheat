@@ -1,0 +1,74 @@
+# PSP cheat pack
+# Serial: ULES-01218
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Disable V-sync
+Author = libretro-database contributors / original PSP cheat authors
+20543EEC 00000000
+
+// Display Infos
+Author = libretro-database contributors / original PSP cheat authors
+20580154 00000001
+20543EED 00000003
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+2001B848 00059840
+
+// Exp. x4
+Author = libretro-database contributors / original PSP cheat authors
+2001B848 00059880
+
+// Exp. x8
+Author = libretro-database contributors / original PSP cheat authors
+2001B848 000598C0
+
+// Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+2001B848 00059900
+
+// Exp. x32
+Author = libretro-database contributors / original PSP cheat authors
+2001B848 00059940
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+201538B0 8C820024
+201538B8 AC820020
+201538BC 00000000
+201538C0 00000000
+
+// Infinite PP
+Author = libretro-database contributors / original PSP cheat authors
+2000E178 8643000E
+
+// Instant Max Level Up
+Author = libretro-database contributors / original PSP cheat authors
+2001B848 3C133000
+
+// Items Increase Instead Of Decreasing When Dropping Some
+Author = libretro-database contributors / original PSP cheat authors
+2000DC18 00501021
+
+// Max Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+201538B0 2402270F
+201538B8 AC820020
+201538BC AC820024
+201538C0 00000000
+
+// Max Meseta After Picking Some Up
+Author = libretro-database contributors / original PSP cheat authors
+2001B5AC 3C053A00
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2020768C C44CEDC8
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2020768C C44CEDC4
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2020768C C44CEDCC

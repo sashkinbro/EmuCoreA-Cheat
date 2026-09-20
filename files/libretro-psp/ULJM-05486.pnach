@@ -1,0 +1,67 @@
+# PSP cheat pack
+# Serial: ULJM-05486
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// CG All
+Author = libretro-database contributors / original PSP cheat authors
+402CC704 00490001
+01010101 00000000
+102CC828 00000101
+002CC82A 00000001
+002CC845 00000001
+002CC847 00000001
+002CC864 00000001
+
+// Chara. All
+Author = libretro-database contributors / original PSP cheat authors
+202CA1CC 000700FF
+002CA1D6 00000008
+
+// HbH Muteki
+Author = libretro-database contributors / original PSP cheat authors
+200436B0 92430006
+200436B4 28620001
+
+// OM Bomb 8
+Author = libretro-database contributors / original PSP cheat authors
+0008DAF4 00000008
+2008E228 00000000
+101B60C6 00000008
+
+// OM Hi Score Max
+Author = libretro-database contributors / original PSP cheat authors
+201B60B8 3B9AC9FF
+
+// OM Hit999
+Author = libretro-database contributors / original PSP cheat authors
+101B60E8 000003E7
+
+// OM Max Hit999
+Author = libretro-database contributors / original PSP cheat authors
+101B60EA 000003E7
+
+// OM Muteki Mode
+Author = libretro-database contributors / original PSP cheat authors
+101B5E78 00000001
+
+// OM NS Bonus
+Author = libretro-database contributors / original PSP cheat authors
+101B5E7A 00000001
+
+// OM PW Gauge
+Author = libretro-database contributors / original PSP cheat authors
+1008E3C0 000003E8
+
+// OM Score Max
+Author = libretro-database contributors / original PSP cheat authors
+201B60BC 3B9AC9FF
+
+// OM Shot 5
+Author = libretro-database contributors / original PSP cheat authors
+2008DB20 00000000
+201B60CC 00040004
+101B60D0 00000004
+
+// Omake All
+Author = libretro-database contributors / original PSP cheat authors
+002CA1D8 000000FF

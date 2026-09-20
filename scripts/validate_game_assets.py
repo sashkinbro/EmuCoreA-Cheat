@@ -9,10 +9,18 @@ import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).parents[1]
+DOWNLOAD_MARKER = "/releases/download/"
 
 
 def sha(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest().upper()
+
+
+def release_of(entry: dict) -> str | None:
+    url = str(entry.get("downloadUrl", ""))
+    if DOWNLOAD_MARKER not in url:
+        return None
+    return url.split(DOWNLOAD_MARKER, 1)[1].split("/", 1)[0]
 
 
 def main() -> int:
@@ -21,12 +29,13 @@ def main() -> int:
     args = parser.parse_args()
     base = ROOT / "release" / "game-assets" / args.version
     catalog = json.loads((ROOT / "cheats.json").read_text(encoding="utf-8"))
+    entries = [entry for entry in catalog["entries"] if release_of(entry) == args.version]
     index = json.loads((base / "pack-assets.json").read_text(encoding="utf-8"))
-    if len(index["packs"]) != len(catalog["entries"]):
+    if len(index["packs"]) != len(entries):
         raise SystemExit("asset index/catalog count mismatch")
     by_serial = {item["serial"]: item for item in index["packs"]}
     bad: list[str] = []
-    for entry in catalog["entries"]:
+    for entry in entries:
         serial = entry["serials"][0]
         item = by_serial.get(serial)
         if item is None:
@@ -50,7 +59,7 @@ def main() -> int:
     if bad:
         raise SystemExit("; ".join(bad[:10]))
     has_zips = any("zipAsset" in item for item in index["packs"])
-    print(f"validated {len(catalog['entries'])} pnach assets" + (" and ZIP assets" if has_zips else ""))
+    print(f"validated {len(entries)} pnach assets" + (" and ZIP assets" if has_zips else ""))
     print(f"asset directory: {base}")
     return 0
 

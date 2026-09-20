@@ -1,0 +1,108 @@
+# PSP cheat pack
+# Serial: ULES-01277
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Characters Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000011
+204D6D98 00000002
+DC000000 00000002
+D2000000 00000000
+
+// All Characters Unlocked v2
+Author = libretro-database contributors / original PSP cheat authors
+204D6D98 00000002
+00000002 00000000
+
+// All Levels Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+C0000000 00000017
+204D6D68 00000004
+DC000000 00000002
+D2000000 00000000
+
+// All Levels Unlocked v2
+Author = libretro-database contributors / original PSP cheat authors
+204D6D68 00000002
+00000004 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20001000 3C013F80
+20001004 AE4100BC
+20001008 AE4100C0
+2000100C 8E440074
+20001010 30840004
+20001014 03E00008
+2003CC10 0E200400
+2003CC14 00000000
+
+// Max Battle Points
+Author = libretro-database contributors / original PSP cheat authors
+204D6E40 000003E7
+
+// Player 1: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2046317C 3F800000
+20463180 3F800000
+
+// Player 1: Infinite Special Weapon Use
+Author = libretro-database contributors / original PSP cheat authors
+20463194 00000003
+
+// Player 2: Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+2046328C 3F800000
+20463290 3F800000
+
+// Player 2: Infinite Special Weapon Use
+Author = libretro-database contributors / original PSP cheat authors
+204632A4 00000003
+
+// Speed Mod: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20143F2C 3C043FC0
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20143F2C 3C044000
+
+// Speed Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+20143F2C 3C044080
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20143F2C 3C043F80
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20143F2C 3C043FA0
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20143F2C 3C043F00
+
+// Timescale Mod: Even Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20143F2C 3C043FC0
+
+// Timescale Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+20143F2C 3C044000
+
+// Timescale Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+20143F2C 3C044080
+
+// Timescale Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20143F2C 3C043F80
+
+// Timescale Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+20143F2C 3C043FA0
+
+// Timescale Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+20143F2C 3C043F00

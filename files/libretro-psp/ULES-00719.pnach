@@ -1,0 +1,47 @@
+# PSP cheat pack
+# Serial: ULES-00719
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Infinite Money
+Author = libretro-database contributors / original PSP cheat authors
+2041F8D0 FFFF75EE
+2041F8D4 FFFF75EE
+
+// Infinite Nos.
+Author = libretro-database contributors / original PSP cheat authors
+2011ACCC 00000000
+2011ACFC 24040009
+
+// Lot Of Money
+Author = libretro-database contributors / original PSP cheat authors
+2041F8D4 3B9AC9FF
+
+// Opponents Don't Move
+Author = libretro-database contributors / original PSP cheat authors
+20120ED8 00000001
+
+// Opponents Don't Move v2
+Author = libretro-database contributors / original PSP cheat authors
+20120ED8 24030001
+
+// Super Speed (Player Only)
+Author = libretro-database contributors / original PSP cheat authors
+20115310 00000003
+20115314 000000C0
+20115320 00000020
+20115328 00000000
+201152A8 00000000
+201153E8 00000000
+20115494 00000000
+2011554C 00000000
+
+// Super Speed (Player Only) v2
+Author = libretro-database contributors / original PSP cheat authors
+20115310 16400003
+20115314 3C0140C0
+20115320 AE010020
+20115328 44810000
+201152A8 00000000
+201153E8 00000000
+20115494 00000000
+2011554C 00000000

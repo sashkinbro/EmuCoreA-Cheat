@@ -1,0 +1,76 @@
+# PSP cheat pack
+# Serial: ULJM-05375
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Opponents 0 Points
+Author = libretro-database contributors / original PSP cheat authors
+20079AE8 00000000
+20079AE4 00000000
+20079AE0 00000000
+
+// God Hand/Tenho
+Author = libretro-database contributors / original PSP cheat authors
+0007F346 0000001B
+00089730 00000031
+0007F3FE 0000001B
+00089731 00000031
+0007F4B6 0000001E
+00089732 00000034
+0007F56E 0000001E
+00089733 00000034
+0007F626 0000001E
+00089734 00000034
+0007F6DE 0000001F
+00089735 00000035
+0007F796 0000001F
+00089736 00000035
+0007F84E 0000001F
+00089732 00000035
+0007F906 00000020
+00089733 00000036
+0007F9BE 00000020
+00089739 00000036
+
+// Infinite Points For Shop
+Author = libretro-database contributors / original PSP cheat authors
+20079A94 0001869F
+
+// Infinite Tiles
+Author = libretro-database contributors / original PSP cheat authors
+0006B2BC 000000FF
+0006DA7C 000000FF
+
+// Max Number Of RicHi
+Author = libretro-database contributors / original PSP cheat authors
+0006B262 000000FF
+0006B263 000000FF
+0007EAA6 000000FF
+0006B345 000000FF
+0007EB02 000000FF
+
+// Max Shop Points
+Author = libretro-database contributors / original PSP cheat authors
+20079A94 000F423F
+
+// Nokori Hai
+Author = libretro-database contributors / original PSP cheat authors
+0006B3BC 00000044
+2030B384 000F423F
+
+// NPC Has No Points
+Author = libretro-database contributors / original PSP cheat authors
+20079AE0 00000000
+20079AE4 00000000
+20079AE8 00000000
+
+// Player Infinite Points In Play
+Author = libretro-database contributors / original PSP cheat authors
+20079AEC 000F423F
+
+// Player Score
+Author = libretro-database contributors / original PSP cheat authors
+20079AEC 000182B8
+
+// Point
+Author = libretro-database contributors / original PSP cheat authors
+20079A94 0000270F

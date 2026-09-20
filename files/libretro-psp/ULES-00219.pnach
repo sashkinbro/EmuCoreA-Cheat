@@ -1,0 +1,11 @@
+# PSP cheat pack
+# Serial: ULES-00219
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Unendlich Energie
+Author = libretro-database contributors / original PSP cheat authors
+0035C692 000000DC
+
+// Unendlich Ruestung
+Author = libretro-database contributors / original PSP cheat authors
+1035C684 00009C3C

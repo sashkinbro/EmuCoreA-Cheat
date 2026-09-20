@@ -1,0 +1,22 @@
+# PSP cheat pack
+# Serial: ULJM-05205
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Bullet
+Author = libretro-database contributors / original PSP cheat authors
+80D0A30B 00320020
+00000063 00000000
+
+// Exp.
+Author = libretro-database contributors / original PSP cheat authors
+80D0A310 00320020
+00000028 00000000
+
+// Fuel
+Author = libretro-database contributors / original PSP cheat authors
+80D0A308 00320020
+00000063 00000000
+
+// Turn Number
+Author = libretro-database contributors / original PSP cheat authors
+00240589 00000001

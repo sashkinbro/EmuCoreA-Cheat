@@ -1,0 +1,41 @@
+# PSP cheat pack
+# Serial: UCES-01198
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Option 1 Always Correct
+Author = libretro-database contributors / original PSP cheat authors
+20388B14 3F800000
+
+// Option 2 Always Correct
+Author = libretro-database contributors / original PSP cheat authors
+20388B14 40000000
+
+// Option 3 Always Correct
+Author = libretro-database contributors / original PSP cheat authors
+20388B14 40400000
+
+// Option 4 Always Correct
+Author = libretro-database contributors / original PSP cheat authors
+20388B14 40800000
+
+// Options 1, 2, 3, 4 Correct
+Author = libretro-database contributors / original PSP cheat authors
+203C7790 3F800000
+203C7798 40000000
+203C77A0 40400000
+203C77A8 40800000
+
+// Options 4, 3, 2, 1 Correct
+Author = libretro-database contributors / original PSP cheat authors
+203C7790 40800000
+203C7798 40400000
+203C77A0 40000000
+203C77A8 3F800000
+
+// Timer
+Author = libretro-database contributors / original PSP cheat authors
+20784158 00000000
+
+// Timer [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20784158 00000001

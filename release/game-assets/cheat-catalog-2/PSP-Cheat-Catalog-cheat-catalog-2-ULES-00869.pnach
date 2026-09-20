@@ -1,0 +1,109 @@
+# PSP cheat pack
+# Serial: ULES-00869
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+200369D4 00000000
+
+// All Maps Available
+Author = libretro-database contributors / original PSP cheat authors
+201EF1E8 00000000
+
+// Double Speed
+Author = libretro-database contributors / original PSP cheat authors
+20036A34 00000000
+
+// Endless First Aid Kit - (It Takes At Least One)
+Author = libretro-database contributors / original PSP cheat authors
+00250F28 00000009
+
+// Extra Options Unlocked
+Author = libretro-database contributors / original PSP cheat authors
+201EF1D0 00000000
+
+// Infinite Ammo (No Reload)
+Author = libretro-database contributors / original PSP cheat authors
+2003A280 00000000
+
+// Infinite Energy Drinks
+Author = libretro-database contributors / original PSP cheat authors
+20250E78 000003E7
+
+// Infinite Handgun Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20250FC8 000003E7
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20036A10 24040001
+
+// Infinite Healthy Drinks
+Author = libretro-database contributors / original PSP cheat authors
+20250EE8 000003E7
+
+// Infinite Precission Handgun Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20250BE4 00000006
+
+// Infinite Precision Pistol Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20253574 00000006
+
+// Infinite Shotgun Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20250F58 000003E7
+
+// Infinite Shotgun Ammo v2
+Author = libretro-database contributors / original PSP cheat authors
+20250F98 00000063
+
+// No Reload Shotgun
+Author = libretro-database contributors / original PSP cheat authors
+20251664 00000002
+
+// No Reload Handgun
+Author = libretro-database contributors / original PSP cheat authors
+20250BE4 00000006
+
+// Shotgun Ammunition
+Author = libretro-database contributors / original PSP cheat authors
+202B0078 00000099
+
+// Shotgun Never Charge
+Author = libretro-database contributors / original PSP cheat authors
+202535E4 00000002
+
+// Speed Modifier: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2002641C 3C014080
+20026438 AE8102A0
+
+// Speed Modifier: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2002641C 3C013F80
+20026438 AE8102A0
+
+// Speed Modifier: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2002641C 3C013FC0
+20026438 AE8102A0
+
+// Speed Modifier: Much Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2002641C 3C014000
+20026438 AE8102A0
+
+// Speed Modifier: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2002641C 3C013F00
+20026438 AE8102A0
+
+// Speed Modifier: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2002641C 3C013E80
+20026438 AE8102A0
+
+// Weapons Don't Break
+Author = libretro-database contributors / original PSP cheat authors
+20095480 00000000

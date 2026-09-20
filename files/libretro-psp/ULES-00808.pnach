@@ -1,0 +1,216 @@
+# PSP cheat pack
+# Serial: ULES-00808
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 1 Billion Gold
+Author = libretro-database contributors / original PSP cheat authors
+20F775DC 3B9ACA00
+
+// 2 Billion Stat Points
+Author = libretro-database contributors / original PSP cheat authors
+20FBD9B4 77359400
+
+// 100% Nature Points
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+000001B4 42C80000
+
+// 100% Nature Points v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 42C80000
+00020001 000001B4
+
+// 100% Tech Points
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+000001B4 C2C80000
+
+// 100% Tech Points v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 C2C80000
+00020001 000001B4
+
+// 65535 Csp. Earned
+Author = libretro-database contributors / original PSP cheat authors
+1149A108 000000FF
+
+// 65535 Exp. Earned
+Author = libretro-database contributors / original PSP cheat authors
+1149A104 000000FF
+
+// Animation Speed
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+00000044 40800000
+
+// Animation Speed v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 40800000
+00020001 00000044
+
+// Backpack Space
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+00000148 00989680
+
+// Backpack Space v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 00989680
+00020001 00000148
+
+// Current XP
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+00000120 00000000
+
+// Current XP v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 00000000
+00020001 00000120
+
+// Double Mark & Recall
+Author = libretro-database contributors / original PSP cheat authors
+00000098 0A200400
+00001000 3C0808B7
+00001004 8D08B9B4
+00001008 3C0908B1
+0000100C 8D298DB0
+00001010 1120002A
+00001018 3C0A0880
+0000101C 240B0110
+00001020 150B0007
+00001028 8D2B0018
+0000102C 8D2C001C
+00001030 8D2D0020
+00001034 AD4B2000
+00001038 AD4C2004
+0000103C AD4D2008
+00001040 240B0140
+00001044 150B0007
+0000104C 8D2B0018
+00001050 8D2C001C
+00001054 8D2D0020
+00001058 AD4B2010
+0000105C AD4C2014
+00001060 AD4D2018
+00001064 240B0210
+00001068 150B0009
+00001070 8D4B2000
+00001074 11600006
+0000107C 8D4C2004
+00001080 8D4D2008
+00001084 AD2B0018
+00001088 AD2C001C
+0000108C AD2D0020
+00001090 240B0240
+00001094 150B0009
+0000109C 8D4B2010
+000010A0 11600006
+000010A8 8D4C2014
+000010AC 8D4D2018
+000010B0 AD2B0018
+000010B4 AD2C001C
+000010B8 AD2D0020
+000010BC 03E00008
+
+// Flash
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+00000144 450C0000
+
+// Flash v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 450C0000
+00020001 00000144
+
+// Flash 2
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+0000003C 40A00000
+
+// Flash 2 v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 40A00000
+00020001 0000003C
+
+// Infinite Gella
+Author = libretro-database contributors / original PSP cheat authors
+2149A758 0000FFFF
+
+// Infinite Skill Points
+Author = libretro-database contributors / original PSP cheat authors
+10DF92F4 000000FF
+
+// Infinite Stat Points
+Author = libretro-database contributors / original PSP cheat authors
+10DF92B4 000000FF
+
+// Level
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+00000124 00000064
+
+// Level v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 00000064
+00020001 00000124
+
+// Level Up Points
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+00000154 000003E8
+
+// Level Up Points v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 000003E8
+00020001 00000154
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+0000012C 00989680
+
+// Money v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 00989680
+00020001 0000012C
+
+// Next Level XP
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+00000128 00000000
+
+// Next Level XP v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 00000000
+00020001 00000128
+
+// Player Size [Huge]
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+00000028 40800000
+
+// Player Size [Huge] v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 40800000
+00020001 00000028
+
+// Player Stance
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+00000080 00000004
+
+// Player Stance v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 00000004
+00020001 00000080
+
+// Skill Points
+Author = libretro-database contributors / original PSP cheat authors
+FFFFFFFF 00308DB0
+00000194 000003E8
+
+// Skill Points v2
+Author = libretro-database contributors / original PSP cheat authors
+60308DB0 000003E8
+00020001 00000194

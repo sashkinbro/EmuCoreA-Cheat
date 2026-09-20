@@ -1,0 +1,68 @@
+# PSP cheat pack
+# Serial: ULJM-05269
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 0 Fatigue 0
+Author = libretro-database contributors / original PSP cheat authors
+206581E8 00000001
+
+// Bad Health 0
+Author = libretro-database contributors / original PSP cheat authors
+206581FC 00000001
+
+// Date Fixed
+Author = libretro-database contributors / original PSP cheat authors
+006444D0 00000001
+006444E0 00000001
+00645F14 00000001
+00645F24 00000001
+
+// Gym Money
+Author = libretro-database contributors / original PSP cheat authors
+206561E8 3B9AC9FF
+
+// Heavy P Pow
+Author = libretro-database contributors / original PSP cheat authors
+20657AD0 0098967F
+2066F63C 0098967F
+
+// Light Weight
+Author = libretro-database contributors / original PSP cheat authors
+206583F0 005B8B8C
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+206561E0 3B9AC9FF
+
+// Muscle Max
+Author = libretro-database contributors / original PSP cheat authors
+20657630 0098967F
+20657644 0098967F
+20657658 0098967F
+2065766C 0098967F
+20657680 0098967F
+20657694 0098967F
+206576A8 0098967F
+206576BC 0098967F
+206576D0 0098967F
+206576E4 0098967F
+206576F8 0098967F
+2065770C 0098967F
+20657720 0098967F
+20657734 0098967F
+20657748 0098967F
+2065775C 0098967F
+20657770 0098967F
+20657784 0098967F
+20657798 0098967F
+206577AC 0098967F
+206577C0 0098967F
+206577D4 0098967F
+206577E8 0098967F
+206577FC 0098967F
+20657810 0098967F
+
+// Muscle Max v2
+Author = libretro-database contributors / original PSP cheat authors
+40657630 00370005
+0098967F 00000000

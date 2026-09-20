@@ -1,0 +1,38 @@
+# PSP cheat pack
+# Serial: ULES-00034
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Insufficient Free Space Fix
+Author = libretro-database contributors / original PSP cheat authors
+E00E2FB3 0013ED38
+2013ED38 0E200D41
+20003504 03E0D821
+20003508 0E292FB3
+2000350C 00000000
+20003510 27AF0034
+20003514 340E0040
+20003518 ADEEFFFC
+2000351C 340E0200
+20003520 ADEEFFF8
+20003524 340E7999
+20003528 ADEEFFF4
+2000352C ADEEFFF0
+20003530 03600008
+20003534 ADEEFFEC
+
+// Insufficient Free Space No-Fix [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0010D41 0013ED38
+2013ED38 0E292FB3
+
+// 30 FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0021000 0005F61A
+2005F618 10800017
+2000C190 1480FFEE
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+E0021080 0005F61A
+2005F618 10000017
+2000C190 00000000

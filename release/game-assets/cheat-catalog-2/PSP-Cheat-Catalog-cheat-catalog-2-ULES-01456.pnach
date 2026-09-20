@@ -1,0 +1,53 @@
+# PSP cheat pack
+# Serial: ULES-01456
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 100% Of The Whole Collection Of Props
+Author = libretro-database contributors / original PSP cheat authors
+6027F708 C4FDF000
+00020001 00000080
+6027F708 01010101
+00020018 00000084
+90000001 00000000
+6027F708 00000101
+00010001 000000E4
+6027F708 00000001
+00000001 000000ED
+00000023 00000105
+0000000F 0000012E
+
+// All Character
+Author = libretro-database contributors / original PSP cheat authors
+6027F708 FFFFFFFF
+00020001 00000184
+90000001 00000000
+6027F708 0000003F
+00000001 0000018C
+
+// All Items Sell Stores
+Author = libretro-database contributors / original PSP cheat authors
+6027F708 00000001
+0000005E 00004D4D
+90000001 00000000
+00000001 00004DB6
+00000023 00004DCE
+0000000F 00004DF7
+0000005E 00004E4D
+00000001 00004EB6
+00000023 00004ECE
+0000000F 00004EF7
+
+// D Point 9999999
+Author = libretro-database contributors / original PSP cheat authors
+20DB60C4 0098967F
+
+// D Point 9999999 v2
+Author = libretro-database contributors / original PSP cheat authors
+6027F708 F8B34C04
+00020001 00000080
+
+// Upgrading Skills Slot Maximum
+Author = libretro-database contributors / original PSP cheat authors
+6027F708 06060606
+0002000C 00004D0C
+90000001 00000000

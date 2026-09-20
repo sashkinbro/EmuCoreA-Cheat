@@ -1,0 +1,393 @@
+# PSP cheat pack
+# Serial: ULJM-05474
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Cash Multiplier x2 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001010 0A226335
+20001014 00052840
+200270C0 0E200404
+
+// Cash Multiplier x2 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001030 8E02001C
+20001034 0A214AC8
+20001038 00021040
+20052B18 0A20040C
+
+// Cash Multiplier x4 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001010 0A226335
+20001014 00052880
+200270C0 0E200404
+
+// Cash Multiplier x4 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001030 8E02001C
+20001034 0A214AC8
+20001038 00021080
+20052B18 0A20040C
+
+// Cash Multiplier x8 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001010 0A226335
+20001014 000528C0
+200270C0 0E200404
+
+// Cash Multiplier x8 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001030 8E02001C
+20001034 0A214AC8
+20001038 000210C0
+20052B18 0A20040C
+
+// Cash Multiplier x16 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001010 0A226335
+20001014 00052900
+200270C0 0E200404
+
+// Cash Multiplier x16 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001030 8E02001C
+20001034 0A214AC8
+20001038 00021100
+20052B18 0A20040C
+
+// Cash Multiplier x32 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001010 0A226335
+20001014 00052940
+200270C0 0E200404
+
+// Cash Multiplier x32 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001030 8E02001C
+20001034 0A214AC8
+20001038 00021140
+20052B18 0A20040C
+
+// Cash Multiplier x64 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001010 0A226335
+20001014 00052980
+200270C0 0E200404
+
+// Cash Multiplier x64 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001030 8E02001C
+20001034 0A214AC8
+20001038 00021180
+20052B18 0A20040C
+
+// Cash Multiplier x128 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001010 0A226335
+20001014 000529C0
+200270C0 0E200404
+
+// Cash Multiplier x128 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001030 8E02001C
+20001034 0A214AC8
+20001038 000211C0
+20052B18 0A20040C
+
+// Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+201768C4 0001869F
+
+// Exp. Max (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+2027A148 0001869F
+
+// Exp. x2
+Author = libretro-database contributors / original PSP cheat authors
+20001000 8E050014
+20001004 0A209C34
+20001008 00052840
+200270C8 0A200400
+
+// Exp. x2 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3466869F
+20001024 0A214AC1
+20001028 00042040
+20052AFC 0A200408
+20052B00 3C030001
+
+// Exp. x4
+Author = libretro-database contributors / original PSP cheat authors
+20001000 8E050014
+20001004 0A209C34
+20001008 00052880
+200270C8 0A200400
+
+// Exp. x4 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3466869F
+20001024 0A214AC1
+20001028 00042080
+20052AFC 0A200408
+20052B00 3C030001
+
+// Exp. x8
+Author = libretro-database contributors / original PSP cheat authors
+20001000 8E050014
+20001004 0A209C34
+20001008 000528C0
+200270C8 0A200400
+
+// Exp. x8 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3466869F
+20001024 0A214AC1
+20001028 000420C0
+20052AFC 0A200408
+20052B00 3C030001
+
+// Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+20001000 8E050014
+20001004 0A209C34
+20001008 00052900
+200270C8 0A200400
+
+// Exp. x16 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3466869F
+20001024 0A214AC1
+20001028 00042100
+20052AFC 0A200408
+20052B00 3C030001
+
+// Experience Multiplier x2 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 8E050014
+20001004 0A209C34
+20001008 00052840
+200270C8 0A200400
+
+// Experience Multiplier x2 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3466869F
+20001024 0A214AC1
+20001028 00042040
+20052AFC 0A200408
+20052B00 3C030001
+
+// Experience Multiplier x4 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 8E050014
+20001004 0A209C34
+20001008 00052880
+200270C8 0A200400
+
+// Experience Multiplier x4 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3466869F
+20001024 0A214AC1
+20001028 00042080
+20052AFC 0A200408
+20052B00 3C030001
+
+// Experience Multiplier x8 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 8E050014
+20001004 0A209C34
+20001008 000528C0
+200270C8 0A200400
+
+// Experience Multiplier x8 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3466869F
+20001024 0A214AC1
+20001028 000420C0
+20052AFC 0A200408
+20052B00 3C030001
+
+// Experience Multiplier x16 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 8E050014
+20001004 0A209C34
+20001008 00052900
+200270C8 0A200400
+
+// Experience Multiplier x16 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3466869F
+20001024 0A214AC1
+20001028 00042100
+20052AFC 0A200408
+20052B00 3C030001
+
+// Experience Multiplier x32 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 8E050014
+20001004 0A209C34
+20001008 00052940
+200270C8 0A200400
+
+// Experience Multiplier x32 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3466869F
+20001024 0A214AC1
+20001028 00042140
+20052AFC 0A200408
+20052B00 3C030001
+
+// Experience Multiplier x64 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 8E050014
+20001004 0A209C34
+20001008 00052980
+200270C8 0A200400
+
+// Experience Multiplier x64 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3466869F
+20001024 0A214AC1
+20001028 00042180
+20052AFC 0A200408
+20052B00 3C030001
+
+// Experience Multiplier x128 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001000 8E050014
+20001004 0A209C34
+20001008 000529C0
+200270C8 0A200400
+
+// Experience Multiplier x128 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001020 3466869F
+20001024 0A214AC1
+20001028 000421C0
+20052AFC 0A200408
+20052B00 3C030001
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+501768B4 00000004
+001768B0 00000000
+
+// HP Not Dec. (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+5027A12C 00000004
+0027A128 00000000
+
+// Hyper Mode (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+10074604 00000880
+10074608 00000880
+
+// Infinite HP (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+501768B4 00000004
+001768B0 00000000
+
+// Infinite HP (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+5027A12C 00000004
+0027A128 00000000
+
+// Infinite MP (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+5027A13C 00000004
+0027A138 00000000
+
+// Max Cash (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+201768C0 0001869F
+
+// Max Cash (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+2027A144 0001869F
+
+// Max Experience (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+201768C4 0001869F
+
+// Max Experience (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+2027A148 0001869F
+
+// Money Max (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+201768C0 0001869F
+
+// Money Max (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+2027A144 0001869F
+
+// Money x2 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001010 0A226335
+20001014 00052840
+200270C0 0E200404
+
+// Money x2 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001030 8E02001C
+20001034 0A214AC8
+20001038 00021040
+20052B18 0A20040C
+
+// Money x4 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001010 0A226335
+20001014 00052880
+200270C0 0E200404
+
+// Money x4 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001030 8E02001C
+20001034 0A214AC8
+20001038 00021080
+20052B18 0A20040C
+
+// Money x8 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001010 0A226335
+20001014 000528C0
+200270C0 0E200404
+
+// Money x8 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001030 8E02001C
+20001034 0A214AC8
+20001038 000210C0
+20052B18 0A20040C
+
+// Money x16 (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+20001010 0A226335
+20001014 00052900
+200270C0 0E200404
+
+// Money x16 (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+20001030 8E02001C
+20001034 0A214AC8
+20001038 00021100
+20052B18 0A20040C
+
+// MP Not Dec. (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+501768B4 00000004
+001768B0 00000000
+
+// MP Not Dec. (Ys II)
+Author = libretro-database contributors / original PSP cheat authors
+5027A13C 00000004
+0027A138 00000000
+
+// Normal Speed (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+10074604 00000480
+10074608 00000280
+
+// Quicker Game (Ys I)
+Author = libretro-database contributors / original PSP cheat authors
+10074604 00000680
+10074608 00000680

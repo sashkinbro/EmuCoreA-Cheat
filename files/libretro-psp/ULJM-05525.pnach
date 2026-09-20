@@ -1,0 +1,99 @@
+# PSP cheat pack
+# Serial: ULJM-05525
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// HP Max
+Author = libretro-database contributors / original PSP cheat authors
+00553C72 00000065
+
+// Kassen Huda
+Author = libretro-database contributors / original PSP cheat authors
+80571728 00070001
+000000FF 00000000
+
+// Kinko Max
+Author = libretro-database contributors / original PSP cheat authors
+20553C58 0098967F
+
+// Kityouhin 99
+Author = libretro-database contributors / original PSP cheat authors
+805ACA3E 015E0004
+00000063 00000000
+
+// Meisho Huda
+Author = libretro-database contributors / original PSP cheat authors
+80553E10 00030001
+000000FF 00000000
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+20553C54 000F4240
+
+// Shougou Huda
+Author = libretro-database contributors / original PSP cheat authors
+80581E8D 00190001
+000000FF 00000000
+
+// Shouseki Sumimaki 70
+Author = libretro-database contributors / original PSP cheat authors
+00553D18 00000046
+00553D20 00000046
+
+// Sinbusyou Gassenhuda All
+Author = libretro-database contributors / original PSP cheat authors
+405721E0 00280002
+FFFFFFFF 00000000
+405721E4 00280002
+
+// Sinbusyou Ginou All
+Author = libretro-database contributors / original PSP cheat authors
+4057BC08 0028000B
+00B6DB6D 00000000
+4057BC0C 0028000B
+
+// Sinbusyou Higi Syougouhuda All
+Author = libretro-database contributors / original PSP cheat authors
+4058400C 0028000B
+FFFFFFFF 00000000
+40584010 0028000B
+40584014 0028000B
+40584018 0028000B
+4058401C 0028000B
+40584020 0028000B
+80584024 0028002C
+000000FF 00000000
+40584025 0028000B
+40584029 0028000B
+4058402D 0028000B
+40584031 0028000B
+40584035 0028000B
+40584039 0028000B
+8058403D 0028002C
+
+// Sinbusyou Nouryoku All 100
+Author = libretro-database contributors / original PSP cheat authors
+4056A8AE 00280009
+64646464 00000000
+8056A8B2 00280024
+00000064 00000000
+
+// Sinmitu Max
+Author = libretro-database contributors / original PSP cheat authors
+80572846 0474002C
+00000064 00000000
+
+// Sonota Huda
+Author = libretro-database contributors / original PSP cheat authors
+80553E19 00070001
+000000FF 00000000
+
+// Toukitirou Ginou Max
+Author = libretro-database contributors / original PSP cheat authors
+20578114 00B6DB6D
+20578118 00B6DB6D
+
+// Toukitirou Nouryoku Max
+Author = libretro-database contributors / original PSP cheat authors
+10567872 00006464
+10567874 00006464
+00567876 00000064

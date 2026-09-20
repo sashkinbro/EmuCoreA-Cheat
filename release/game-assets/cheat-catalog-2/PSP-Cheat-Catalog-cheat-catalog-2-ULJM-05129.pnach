@@ -1,0 +1,27 @@
+# PSP cheat pack
+# Serial: ULJM-05129
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Armor
+Author = libretro-database contributors / original PSP cheat authors
+2014DAB4 00000000
+
+// Inf. Armor [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2014DAB4 E6400070
+
+// Inf. Life
+Author = libretro-database contributors / original PSP cheat authors
+2006FEB4 00000000
+
+// Inf. Life [Off]
+Author = libretro-database contributors / original PSP cheat authors
+2006FEB4 E48C0028
+
+// Infinite Bullet
+Author = libretro-database contributors / original PSP cheat authors
+201D7C00 00000000
+
+// Infinite Bullet [Off]
+Author = libretro-database contributors / original PSP cheat authors
+201D7C00 AE020010

@@ -1,0 +1,176 @@
+# PSP cheat pack
+# Serial: UCES-00842
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Dark Overlay HackFix
+Author = libretro-database contributors / original PSP cheat authors
+E00173D8 000198C0
+200198C0 00000000
+
+// Dark Overlay No-Fix [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0010000 000198C0
+200198C0 0E2073D8
+
+// 30 FPS [Fixed]
+Author = libretro-database contributors / original PSP cheat authors
+E00E001E 10003800
+E00D0200 0001A378
+10003800 0000001E
+20003804 10800003
+20003808 00000000
+2000380C 0E2C16F9
+20003810 00000000
+20003814 0E2C16F9
+20003818 00000000
+2000381C 8FBF0010
+20003820 03E00008
+20003824 27BD0020
+2001A388 0A200E01
+2001A38C 34040001
+2001A390 00000000
+
+// 60 FPS [Fixed]
+Author = libretro-database contributors / original PSP cheat authors
+E00E003C 10003800
+E00D0200 0001A378
+10003800 0000003C
+20003804 10800003
+20003808 00000000
+2000380C 0E2C16F9
+20003810 00000000
+20003814 0E2C16F9
+20003818 00000000
+2000381C 8FBF0010
+20003820 03E00008
+20003824 27BD0020
+2001A388 0A200E01
+2001A38C 34040000
+2001A390 00000000
+
+// Unlimited FPS [Default]
+Author = libretro-database contributors / original PSP cheat authors
+E0040E01 0001A388
+2001A388 8FBF0010
+2001A38C 03E00008
+2001A390 27BD0020
+10003800 00000000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+20365CC4 00000000
+
+// Infinite Magic
+Author = libretro-database contributors / original PSP cheat authors
+20365CCC 00000000
+
+// Moonjump
+Author = libretro-database contributors / original PSP cheat authors
+201957A8 3C053FF2
+
+// Moonjump [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+201957A8 3C053F80
+
+// One Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+20365CC8 461C3C00
+
+// Orb Multiplier x4
+Author = libretro-database contributors / original PSP cheat authors
+20365CC0 40800000
+
+// Orb Multiplier x16
+Author = libretro-database contributors / original PSP cheat authors
+20365CC0 41800000
+
+// Orb Multiplier x64
+Author = libretro-database contributors / original PSP cheat authors
+20365CC0 42800000
+
+// Orb Multiplier x128
+Author = libretro-database contributors / original PSP cheat authors
+20365CC0 43000000
+
+// Orb Multiplier Codes [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20365CC0 3F800000
+
+// Quick Orb Gain X4
+Author = libretro-database contributors / original PSP cheat authors
+20140DAC 3C014080
+20140DB0 44817000
+
+// Quick Orb Gain x16
+Author = libretro-database contributors / original PSP cheat authors
+20140DAC 3C014180
+20140DB0 44817000
+
+// Quick Orb Gain x64
+Author = libretro-database contributors / original PSP cheat authors
+20140DAC 3C014280
+20140DB0 44817000
+
+// Quick Orb Gain Codes [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+20140DAC 24C65CB8
+20140DB0 C4CE0008
+
+// Red Ball To Max Weapons
+Author = libretro-database contributors / original PSP cheat authors
+20140F38 00000000
+20140F58 00000000
+
+// Restore Health (For The Boss Death)
+Author = libretro-database contributors / original PSP cheat authors
+20365CC4 3F800000
+
+// Size Mod: Big
+Author = libretro-database contributors / original PSP cheat authors
+20230044 3C043FA2
+
+// Size Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+20230044 3C043F80
+
+// Speed Mod: Hyper
+Author = libretro-database contributors / original PSP cheat authors
+2032D908 000006E8
+
+// Speed Mod: Insane
+Author = libretro-database contributors / original PSP cheat authors
+2032D908 000009E8
+
+// Speed Mod: Normal
+Author = libretro-database contributors / original PSP cheat authors
+2032D908 000003E8
+
+// Speed Mod: Quicker
+Author = libretro-database contributors / original PSP cheat authors
+2032D908 000004E8
+
+// Speed Mod: Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2032D908 00000280
+
+// Speed Mod: Super Slow Motion
+Author = libretro-database contributors / original PSP cheat authors
+2032D908 00000140
+
+// Unlimited Health
+Author = libretro-database contributors / original PSP cheat authors
+20365CC4 00000000
+
+// Unlimited Magic
+Author = libretro-database contributors / original PSP cheat authors
+20365CCC 00000000
+
+// Unlimited Rote Orbs
+Author = libretro-database contributors / original PSP cheat authors
+216588A4 00000539
+
+// Upgrade Weapons Without Red Balls
+Author = libretro-database contributors / original PSP cheat authors
+2018B214 00000000
+2018B388 00000000
+20140EF0 00000000

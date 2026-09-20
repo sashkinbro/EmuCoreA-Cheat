@@ -1,0 +1,112 @@
+# PSP cheat pack
+# Serial: ULES-00484
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// 20 FPS [In-Game Default]
+Author = libretro-database contributors / original PSP cheat authors
+2031A2AC 41A00000
+2031A2B0 3D4CCCCD
+
+// 30 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2031A2AC 41F00000
+2031A2B0 3D088889
+
+// 40 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2031A2AC 42200000
+2031A2B0 3CCCCCCD
+
+// 45 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2031A2AC 42340000
+2031A2B0 3CB60B61
+
+// 60 FPS
+Author = libretro-database contributors / original PSP cheat authors
+2031A2AC 42700000
+2031A2B0 3C888889
+
+// Handheld Screen (3:2)
+Author = libretro-database contributors / original PSP cheat authors
+002BCE00 3FC00000
+
+// Normal Screen (4:3)
+Author = libretro-database contributors / original PSP cheat authors
+002BCE00 3F4CCCCD
+
+// PSP Screen (16:9)
+Author = libretro-database contributors / original PSP cheat authors
+002BCE00 3FE1E1E2
+
+// SuperWide Screen (32:9)
+Author = libretro-database contributors / original PSP cheat authors
+002BCE00 40638E39
+
+// UltraWide Screen (21:9)
+Author = libretro-database contributors / original PSP cheat authors
+002BCE00 4017B426
+
+// Wide Screen (18:9)
+Author = libretro-database contributors / original PSP cheat authors
+002BCE00 40000000
+
+// PSP FOV (3:2 value)
+Author = libretro-database contributors / original PSP cheat authors
+003045A0 3FC00000
+
+// PSP FOV (4:3 value)
+Author = libretro-database contributors / original PSP cheat authors
+003045A0 3F4CCCCD
+
+// PSP FOV (16:9 value)
+Author = libretro-database contributors / original PSP cheat authors
+003045A0 3FE1E1E2
+
+// PSP FOV (18:9 value)
+Author = libretro-database contributors / original PSP cheat authors
+003045A0 40000000
+
+// PSP FOV (21:9 value)
+Author = libretro-database contributors / original PSP cheat authors
+003045A0 4017B426
+
+// PSP FOV (32:9 value)
+Author = libretro-database contributors / original PSP cheat authors
+003045A0 40638E39
+
+// 1 Hit Kill
+Author = libretro-database contributors / original PSP cheat authors
+202BE4CC 4F000000
+
+// Dumb AI
+Author = libretro-database contributors / original PSP cheat authors
+202B047C 089367C4
+
+// Enemies Frozen In Quickdraw
+Author = libretro-database contributors / original PSP cheat authors
+202BE460 30000000
+
+// Infinite Ammo
+Author = libretro-database contributors / original PSP cheat authors
+20202FEC 24020000
+
+// Infinite Health
+Author = libretro-database contributors / original PSP cheat authors
+202BE470 7F000000
+
+// Infinite Pistol Ammo
+Author = libretro-database contributors / original PSP cheat authors
+2124EA24 00000005
+2147E868 00000005
+2148520C 00000005
+
+// Infinite Quickdraw
+Author = libretro-database contributors / original PSP cheat authors
+202BE458 4F000000
+
+// Unlimited Winchester
+Author = libretro-database contributors / original PSP cheat authors
+214823D8 00000064
+21482864 00000064
+21485AD0 00000064

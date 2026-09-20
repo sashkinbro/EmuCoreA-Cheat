@@ -1,0 +1,39 @@
+# PSP cheat pack
+# Serial: ULJM-05373
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// ??? LP 0 (L+R ????)
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000300
+110DD7BC 00000000
+110DD7C4 00000000
+110DD7D4 00000000
+11621E64 00000000
+
+// DP ????? ?? Max
+Author = libretro-database contributors / original PSP cheat authors
+20054BE0 00000000
+
+// x3
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000308
+B0196C80 00000000
+B7800000 00000DED
+1780DB8B 00000003
+D3800000 00000004
+
+// x9
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000308
+B0196C80 00000000
+B7800000 00000DED
+1780DB8B 00000009
+D3800000 00000004
+
+// x99
+Author = libretro-database contributors / original PSP cheat authors
+D0000003 10000308
+B0196C80 00000000
+B7800000 00000DED
+1780DB8B 00000063
+D3800000 00000004

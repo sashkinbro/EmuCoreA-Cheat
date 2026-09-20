@@ -1,0 +1,123 @@
+# PSP cheat pack
+# Serial: UCJS-10076
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Digging Power Unlimited (65535)
+Author = libretro-database contributors / original PSP cheat authors
+101C697C 0000FFFF
+
+// Dragon Level Is 1 (Green)
+Author = libretro-database contributors / original PSP cheat authors
+001C6964 00000000
+
+// Dragon Level Is 2 (Purple)
+Author = libretro-database contributors / original PSP cheat authors
+001C6964 00000001
+
+// Dragon Level Is 3 (Black)
+Author = libretro-database contributors / original PSP cheat authors
+001C6964 00000002
+
+// Dragon Level Is 4 (Pink)
+Author = libretro-database contributors / original PSP cheat authors
+001C6964 00000003
+
+// Dragon Level Is 5 (White)
+Author = libretro-database contributors / original PSP cheat authors
+001C6964 00000004
+
+// Edit Vs. Unlimited Points
+Author = libretro-database contributors / original PSP cheat authors
+001D24FC 00000190
+
+// Element Level Is 1 (Blue)
+Author = libretro-database contributors / original PSP cheat authors
+001C6954 00000000
+
+// Element Level Is 2 (Green)
+Author = libretro-database contributors / original PSP cheat authors
+001C6954 00000001
+
+// Element Level Is 3 (Red)
+Author = libretro-database contributors / original PSP cheat authors
+001C6954 00000002
+
+// Insect Level Is 1 (White)
+Author = libretro-database contributors / original PSP cheat authors
+001C6944 00000000
+
+// Insect Level Is 2 (Red)
+Author = libretro-database contributors / original PSP cheat authors
+001C6944 00000001
+
+// Insect Level Is 3 (Blue)
+Author = libretro-database contributors / original PSP cheat authors
+001C6944 00000002
+
+// Insect Level Is 4 (Green)
+Author = libretro-database contributors / original PSP cheat authors
+001C6944 00000003
+
+// Insect Level Is 5 (Gold)
+Author = libretro-database contributors / original PSP cheat authors
+001C6944 00000004
+
+// Lilith Level Is 1 (Pink)
+Author = libretro-database contributors / original PSP cheat authors
+001C695C 00000000
+
+// Lilith Level Is 2 (Purple)
+Author = libretro-database contributors / original PSP cheat authors
+001C695C 00000001
+
+// Lilith Level Is 3 (Red Hair)
+Author = libretro-database contributors / original PSP cheat authors
+001C695C 00000002
+
+// Lilith Level Is 4 (Blue)
+Author = libretro-database contributors / original PSP cheat authors
+001C695C 00000003
+
+// Lilith Level Is 5 (White)
+Author = libretro-database contributors / original PSP cheat authors
+001C695C 00000004
+
+// Lizardman Level Is 1 (Blue)
+Author = libretro-database contributors / original PSP cheat authors
+001C694C 00000000
+
+// Lizardman Level Is 2 (Green)
+Author = libretro-database contributors / original PSP cheat authors
+001C694C 00000001
+
+// Lizardman Level Is 3 (Purple)
+Author = libretro-database contributors / original PSP cheat authors
+001C694C 00000002
+
+// Lizardman Level Is 4 (Red)
+Author = libretro-database contributors / original PSP cheat authors
+001C694C 00000003
+
+// Lizardman Level Is 5 (White)
+Author = libretro-database contributors / original PSP cheat authors
+001C694C 00000004
+
+// Slime Level Is 1 (Green)
+Author = libretro-database contributors / original PSP cheat authors
+001C693C 00000000
+
+// Slime Level Is 2 (Orange)
+Author = libretro-database contributors / original PSP cheat authors
+001C693C 00000001
+
+// Slime Level Is 3 (Blue)
+Author = libretro-database contributors / original PSP cheat authors
+001C693C 00000002
+
+// Slime Level Is 4 (Black)
+Author = libretro-database contributors / original PSP cheat authors
+001C693C 00000003
+
+// Slime Level Is 5 (Pink)
+Author = libretro-database contributors / original PSP cheat authors
+001C693C 00000004

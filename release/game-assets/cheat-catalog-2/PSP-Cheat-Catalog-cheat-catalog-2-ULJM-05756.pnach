@@ -1,0 +1,239 @@
+# PSP cheat pack
+# Serial: ULJM-05756
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Status Max
+Author = libretro-database contributors / original PSP cheat authors
+8028D1C4 00040001
+1000270F 00000000
+8028D2B0 00040001
+
+// Buff
+Author = libretro-database contributors / original PSP cheat authors
+00252F28 00000064
+00252F2C 00000064
+00252F38 00000002
+00252F3C 00000003
+
+// Burst
+Author = libretro-database contributors / original PSP cheat authors
+5028D1B8 00000002
+0028D1B6 00000000
+
+// Burst Max
+Author = libretro-database contributors / original PSP cheat authors
+20072B70 00000000
+20079BEC 00000000
+2007AA8C 00000000
+2007AB74 1000FB42
+2008E4F0 00000000
+2008F044 00000000
+2009086C 1000F9F8
+20090A8C 00000000
+20090F2C 00000000
+20091258 00000000
+
+// Burst Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+5028D1B8 00000002
+0028D1B6 00000000
+
+// Capacity
+Author = libretro-database contributors / original PSP cheat authors
+8028D1C4 00040001
+1000270F 00000000
+8028D2B0 00040001
+
+// Capacity 99
+Author = libretro-database contributors / original PSP cheat authors
+200C1228 24030063
+200E2408 24060063
+200E2718 24060063
+
+// Charisma x16
+Author = libretro-database contributors / original PSP cheat authors
+20096FD8 0A200500
+20001400 96620000
+20001404 0A225BF8
+20001408 00031900
+
+// Class 99
+Author = libretro-database contributors / original PSP cheat authors
+0028D2A6 00000002
+
+// ComPosition All OK
+Author = libretro-database contributors / original PSP cheat authors
+200A2350 24027530
+200A7844 24030001
+
+// Encount Off
+Author = libretro-database contributors / original PSP cheat authors
+61599088 00000000
+00000001 00000A26
+D0000001 10004000
+61599088 000000FF
+
+// Encyclopedia All
+Author = libretro-database contributors / original PSP cheat authors
+0026B985 00000008
+4026B968 00070001
+FFFFFFFF 00000000
+
+// Exp. x16
+Author = libretro-database contributors / original PSP cheat authors
+2009BF1C 0A200480
+20001200 8E03011C
+20001204 00431823
+20001208 00031900
+2000120C 00431021
+20001210 3C0305F5
+20001214 0A226FC9
+20001218 3463E0FF
+
+// Fllower Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+20096EE4 3C0405F4
+
+// Gold Max
+Author = libretro-database contributors / original PSP cheat authors
+2028D0C8 0098961C
+
+// Heal After Battle
+Author = libretro-database contributors / original PSP cheat authors
+20074210 00000000
+200742D8 00000000
+
+// HP
+Author = libretro-database contributors / original PSP cheat authors
+5028D2AA 00000002
+0028D2A8 00000000
+5028D1BE 00000002
+0028D1BC 00000000
+
+// HP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+5028D2AA 00000002
+0028D2A8 00000000
+5028D1BE 00000002
+0028D1BC 00000000
+
+// Infinite Extraction
+Author = libretro-database contributors / original PSP cheat authors
+C004A9C4 00000000
+C004A9FC 00000000
+C00F6884 00000000
+
+// Item 50
+Author = libretro-database contributors / original PSP cheat authors
+8028D0E8 00320002
+10000032 00000000
+8028D0E6 00320002
+10000000 00000001
+
+// Item 99
+Author = libretro-database contributors / original PSP cheat authors
+8028D0E8 00320002
+10000063 00000000
+
+// Item Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+200D1214 00000000
+200C8CD0 00000000
+20078B88 00000000
+
+// Lv. 99
+Author = libretro-database contributors / original PSP cheat authors
+0028D2A6 00000063
+
+// Max Money
+Author = libretro-database contributors / original PSP cheat authors
+2028D0C8 05F5E0FF
+
+// Max SP For Gold Armor Monster
+Author = libretro-database contributors / original PSP cheat authors
+2028D914 000003E7
+
+// Max SP Main Chara.
+Author = libretro-database contributors / original PSP cheat authors
+2028D1B4 000003E7
+
+// Mining Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+2004A9C4 00000000
+2004A9FC 00000000
+200F6884 00000000
+
+// Money x16
+Author = libretro-database contributors / original PSP cheat authors
+20096D88 0A200400
+20001000 8EA50144
+20001004 0A225B64
+20001008 00052900
+
+// MP
+Author = libretro-database contributors / original PSP cheat authors
+5028D1C2 00000002
+0028D1C0 00000000
+5028D2AE 00000002
+0028D2AC 00000000
+
+// MP Not Dec.
+Author = libretro-database contributors / original PSP cheat authors
+5028D1C2 00000002
+0028D1C0 00000000
+5028D2AE 00000002
+0028D2AC 00000000
+
+// MP Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20078A58 00000000
+2007900C 00000000
+200D13D0 00000000
+
+// No Anima
+Author = libretro-database contributors / original PSP cheat authors
+80941F02 01500006
+1000FFFF 00000000
+80941F04 01500006
+80941F06 01500006
+80941F08 01500006
+80941F0A 01500006
+
+// No Darkness
+Author = libretro-database contributors / original PSP cheat authors
+2004CC98 00000000
+
+// Poison Count Not Increase
+Author = libretro-database contributors / original PSP cheat authors
+20054CE4 00000000
+
+// SP Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+20114AD0 00000000
+
+// SP Max
+Author = libretro-database contributors / original PSP cheat authors
+2028D1B4 0000270F
+
+// Storage Item All
+Author = libretro-database contributors / original PSP cheat authors
+40296AF0 029E0001
+00630000 00000001
+
+// Submergence Count Not Decrease
+Author = libretro-database contributors / original PSP cheat authors
+2004C1D0 00000000
+
+// Unchain Available
+Author = libretro-database contributors / original PSP cheat authors
+2008439C 57E00558
+20084048 17E0041E
+20084CD0 17E000FC
+2008365C 57E00021
+2008CA64 57E000A0
+200871D4 57E0002E
+20079DDC 00000000
+
+// Unchain Success
+Author = libretro-database contributors / original PSP cheat authors
+2008C698 10000017

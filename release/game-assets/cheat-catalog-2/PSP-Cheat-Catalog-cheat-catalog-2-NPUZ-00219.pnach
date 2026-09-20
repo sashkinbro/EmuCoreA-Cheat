@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: NPUZ-00219
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Jump (L+R Trigger)
+Author = libretro-database contributors / original PSP cheat authors
+112C62CE 00004300
+
+// Max Stars (99)
+Author = libretro-database contributors / original PSP cheat authors
+112C62FC 00000063
+
+// Max Stars (999)
+Author = libretro-database contributors / original PSP cheat authors
+112C62FC 000003E7
+
+// Max Stars (9999)
+Author = libretro-database contributors / original PSP cheat authors
+112C62FC 0000270F

@@ -1,0 +1,69 @@
+# PSP cheat pack
+# Serial: ULES-01353
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Away Team Scores 0
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 0FFE0000
+00A06B84 00000000
+
+// Away Team Scores 99
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 0FFE0000
+00A06B84 00000063
+
+// Ball Flees Of The Player's Feet
+Author = libretro-database contributors / original PSP cheat authors
+10299E70 00002467
+
+// Home Team Scores 0
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 0FFE0000
+00A06890 00000000
+
+// Home Team Scores 99
+Author = libretro-database contributors / original PSP cheat authors
+D0000000 0EFF0000
+00A06890 00000063
+
+// Infinite Master League Transfer Fund
+Author = libretro-database contributors / original PSP cheat authors
+1051AF2C 0001869F
+
+// Infinite PES Shop Cash
+Author = libretro-database contributors / original PSP cheat authors
+111B446C 0001869F
+
+// Infinite Stats Points
+Author = libretro-database contributors / original PSP cheat authors
+006F77C8 00000063
+
+// Max Ability Points
+Author = libretro-database contributors / original PSP cheat authors
+206F77C8 00000014
+
+// Max Ability Stars
+Author = libretro-database contributors / original PSP cheat authors
+206F77D4 00000019
+
+// Max Funds (Use In Master League Only)
+Author = libretro-database contributors / original PSP cheat authors
+2051AF2C 05F5E0FF
+
+// Max Goals
+Author = libretro-database contributors / original PSP cheat authors
+00A06890 00000063
+
+// Max PES
+Author = libretro-database contributors / original PSP cheat authors
+211B446C 000F423F
+
+// Timer: Instant Half
+Author = libretro-database contributors / original PSP cheat authors
+2028B084 00000000
+2028BCA8 00000000
+
+// Timer: Restart Half
+Author = libretro-database contributors / original PSP cheat authors
+2028B084 000022CA
+2028BCA8 005DC228

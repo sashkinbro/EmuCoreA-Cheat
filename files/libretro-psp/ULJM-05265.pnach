@@ -1,0 +1,19 @@
+# PSP cheat pack
+# Serial: ULJM-05265
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Inf. Jump
+Author = libretro-database contributors / original PSP cheat authors
+00C11EAC 000000FF
+
+// Invincibility
+Author = libretro-database contributors / original PSP cheat authors
+10C11E06 00000C68
+
+// Unlimited Life
+Author = libretro-database contributors / original PSP cheat authors
+00C144A0 00000064
+
+// Unlimited Magic
+Author = libretro-database contributors / original PSP cheat authors
+00C14B00 00000003

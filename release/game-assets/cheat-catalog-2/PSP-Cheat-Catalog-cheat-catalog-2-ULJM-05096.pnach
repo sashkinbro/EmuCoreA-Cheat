@@ -1,0 +1,135 @@
+# PSP cheat pack
+# Serial: ULJM-05096
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// All Item
+Author = libretro-database contributors / original PSP cheat authors
+802EBA29 00940014
+0000000C 00000000
+802EC6D1 000C0014
+802EC8D9 00180014
+
+// Aru: HP
+Author = libretro-database contributors / original PSP cheat authors
+102ECCD8 000003E7
+
+// Chistina: HP
+Author = libretro-database contributors / original PSP cheat authors
+102ECB98 000003E7
+
+// Hodomura: Fatigue
+Author = libretro-database contributors / original PSP cheat authors
+002E8615 00000000
+
+// Hodomura: Money
+Author = libretro-database contributors / original PSP cheat authors
+202F1668 3B9AC9FF
+
+// HP 999
+Author = libretro-database contributors / original PSP cheat authors
+102EE498 000003E7
+
+// Maria: Fatigue
+Author = libretro-database contributors / original PSP cheat authors
+002E871D 00000000
+
+// Maria: Influence 9999
+Author = libretro-database contributors / original PSP cheat authors
+102F16B8 0000270F
+102F16BA 0000270F
+102F16BC 0000270F
+102F16BE 0000270F
+102F16C0 0000270F
+102F16C2 0000270F
+102F16C4 0000270F
+
+// Maria: Money
+Author = libretro-database contributors / original PSP cheat authors
+202F16B4 3B9AC9FF
+
+// Money
+Author = libretro-database contributors / original PSP cheat authors
+202B472C 3B9AC9FF
+
+// Otoshiana
+Author = libretro-database contributors / original PSP cheat authors
+01053168 00000000
+
+// Raphael: Fatigue
+Author = libretro-database contributors / original PSP cheat authors
+002E8591 00000000
+
+// Raphael: Influence 9999
+Author = libretro-database contributors / original PSP cheat authors
+102F15D4 0000270F
+102F15D6 0000270F
+102F15D8 0000270F
+102F15DA 0000270F
+102F15DC 0000270F
+102F15DE 0000270F
+102F15E0 0000270F
+
+// Raphael: Money
+Author = libretro-database contributors / original PSP cheat authors
+202F15D0 3B9AC9FF
+
+// Riru: Fatigue
+Author = libretro-database contributors / original PSP cheat authors
+002E8699 00000000
+
+// Riru: Influence 9999
+Author = libretro-database contributors / original PSP cheat authors
+102F1620 0000270F
+102F1622 0000270F
+102F1624 0000270F
+102F1626 0000270F
+102F1628 0000270F
+102F162A 0000270F
+102F162C 0000270F
+
+// Riru: Money
+Author = libretro-database contributors / original PSP cheat authors
+202F161C 3B9AC9FF
+
+// Sailor 1000
+Author = libretro-database contributors / original PSP cheat authors
+102EA6C6 000003E8
+102EA6E6 000003E8
+102EA706 000003E8
+102EA726 000003E8
+102EA746 000003E8
+
+// Ship Durability 255
+Author = libretro-database contributors / original PSP cheat authors
+102EA6C4 000000FF
+102EA6E4 000000FF
+102EA704 000000FF
+102EA724 000000FF
+102EA744 000000FF
+
+// Ship Water&Meet 10000
+Author = libretro-database contributors / original PSP cheat authors
+102F262E 00002710
+102F2630 00002710
+102F285E 00002710
+102F2860 00002710
+102F2A02 00002710
+102F2A04 00002710
+102F2B1A 00002710
+102F2B1C 00002710
+102F28EA 00002710
+102F28EC 00002710
+102F2976 00002710
+102F2978 00002710
+102F2A8E 00002710
+102F2A90 00002710
+102F2DD6 00002710
+102F2DD8 00002710
+102F2E62 00002710
+102F2E64 00002710
+102F2EEE 00002710
+102F2EF0 00002710
+102F2F7A 00002710
+102F2F7C 00002710
+102F3006 00002710
+102F3008 00002710

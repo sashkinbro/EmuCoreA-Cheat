@@ -1,0 +1,155 @@
+# PSP cheat pack
+# Serial: UCAS-40297
+# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
+
+// Hang Workaround
+Author = libretro-database contributors / original PSP cheat authors
+E0010003 002A4AE4
+202A4AE4 34070001
+
+// Hang Workaround [Disable]
+Author = libretro-database contributors / original PSP cheat authors
+E0010001 002A4AE4
+202A4AE4 28A70003
+
+// A Blow To The Obstacle
+Author = libretro-database contributors / original PSP cheat authors
+C01AB9B4 A0800105
+
+// Aid 1 Infinite Call Out
+Author = libretro-database contributors / original PSP cheat authors
+C004B6E0 00000000
+
+// All The Characters
+Author = libretro-database contributors / original PSP cheat authors
+8037ECF3 00030001
+000000FF 00000000
+0037ECF6 00000011
+
+// Batter Is Not Limited
+Author = libretro-database contributors / original PSP cheat authors
+C0139CA8 00000000
+
+// BP No Decrease
+Author = libretro-database contributors / original PSP cheat authors
+C004BBB8 00000000
+
+// Exp. Max
+Author = libretro-database contributors / original PSP cheat authors
+C00660DC 00000000
+
+// Expereience Max
+Author = libretro-database contributors / original PSP cheat authors
+406A9534 001A0009
+05F5E0FF 00000000
+
+// Freeze Time
+Author = libretro-database contributors / original PSP cheat authors
+C0061354 00000000
+
+// Full Dolls
+Author = libretro-database contributors / original PSP cheat authors
+8037ED57 000F0001
+000000FF 00000000
+
+// Full Nirvana Lv.3
+Author = libretro-database contributors / original PSP cheat authors
+406A9520 001A0009
+02010002 00000000
+406A9524 001A0009
+02030002 00000000
+406A9528 001A0009
+02050002 00000000
+406A952C 001A0009
+02070002 00000000
+
+// Full Super Crown Items
+Author = libretro-database contributors / original PSP cheat authors
+D0000800 00000000
+20000804 08EA0000
+E0050098 20000800
+60000804 270F270F
+00020006 0000BD9C
+90000001 00000000
+30300001 00000800
+30300020 00000804
+D0000800 00300097
+10000800 00000000
+406ABD98 00980008
+00000001 00000001
+406ABDB4 00980008
+0005270F 00000000
+
+// Full Synthesis Table
+Author = libretro-database contributors / original PSP cheat authors
+1037EF76 0000FFFF
+1037EF78 0000FFFF
+406AD600 000D0001
+01010101 00000000
+
+// Gallary All
+Author = libretro-database contributors / original PSP cheat authors
+8037EE51 00090001
+000000FF 00000000
+
+// High Jump
+Author = libretro-database contributors / original PSP cheat authors
+C0048EEC 00000000
+
+// Hit The Enemy (Can Not Be Shared With HP)
+Author = libretro-database contributors / original PSP cheat authors
+C004BF7C 00000000
+
+// HP No Decrease
+Author = libretro-database contributors / original PSP cheat authors
+C004BF90 00000000
+C004BF9C 00008821
+
+// Level 255
+Author = libretro-database contributors / original PSP cheat authors
+406A9514 001A0009
+000000FF 00000000
+
+// Max Point
+Author = libretro-database contributors / original PSP cheat authors
+2037ED18 FFFFFFF0
+2037ED1C 0FECF8FF
+
+// Money Max
+Author = libretro-database contributors / original PSP cheat authors
+C00612FC 00000000
+
+// Music All
+Author = libretro-database contributors / original PSP cheat authors
+8037EEA8 00050001
+000000FF 00000000
+
+// Play Time 100 Hour
+Author = libretro-database contributors / original PSP cheat authors
+206A940C 00A4D000
+
+// Rank S
+Author = libretro-database contributors / original PSP cheat authors
+406AEAE8 000A0001
+05050505 00000000
+
+// Recovery Max
+Author = libretro-database contributors / original PSP cheat authors
+0037ECFF 000000F0
+8037ED00 000E0001
+000000FF 00000000
+0037ED0E 0000001F
+
+// SP No Decrease
+Author = libretro-database contributors / original PSP cheat authors
+C004A3A8 00000000
+
+// Unlock All Character
+Author = libretro-database contributors / original PSP cheat authors
+806AD778 0065001D
+00000001 00000000
+
+// Wallpaper All
+Author = libretro-database contributors / original PSP cheat authors
+8037EE6A 000A0001
+000000FF 00000000
