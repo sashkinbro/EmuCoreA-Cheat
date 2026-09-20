@@ -1,8 +1,0 @@
-# PSP cheat pack
-# Serial: ULES-00683
-# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
-
-// Lock 50 Lives (Player)
-Author = libretro-database contributors / original PSP cheat authors
-207F45E8 42480000
-20834C04 42480000

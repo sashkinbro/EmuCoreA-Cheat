@@ -1,7 +1,0 @@
-# PSP cheat pack
-# Serial: SCES-99999
-# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
-
-// Units Take No Damage
-Author = libretro-database contributors / original PSP cheat authors
-20023C84 AC800090

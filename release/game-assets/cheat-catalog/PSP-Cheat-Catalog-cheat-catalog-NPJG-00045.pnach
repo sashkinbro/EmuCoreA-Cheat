@@ -1,7 +1,0 @@
-# PSP cheat pack
-# Serial: NPJG-00045
-# Source: https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable
-
-// Display Debug Info
-Author = libretro-database contributors / original PSP cheat authors
-003087C0 00000001

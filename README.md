@@ -15,11 +15,12 @@ pack for a different revision just because the title matches.
 - `cheats.json` - schema version 1 catalog used by EmuCoreA.
 - `files/libretro-psp/` - packs converted from the pinned PSP subset of
   libretro-database under its repository CC-BY-SA-4.0 license.
-- `release/` - locally built aggregate ZIP bundles and SHA-256 sums for GitHub
-  Releases; the Android client installs the individual `.pnach` text packs from
-  release asset URLs hosted in this repository. The asset names use the neutral
-  `PSP-Cheat-Catalog` prefix; they do not claim authorship of the underlying
-  cheat data.
+- `release/` - local, git-ignored build directory for per-release `.pnach`
+  assets and aggregate ZIPs. The published files live on GitHub Releases and
+  the Android client installs the individual `.pnach` packs from their release
+  asset URLs; the generated copies are never committed. The asset names use the
+  neutral `PSP-Cheat-Catalog` prefix; they do not claim authorship of the
+  underlying cheat data.
 - `sources.json` - source attribution and the exact input revision.
 - `schemas/cheat-catalog.schema.json` - public catalog contract.
 - `scripts/build_libretro_batch.py` - reproducible converter for the first 798
@@ -35,6 +36,8 @@ pack for a different revision just because the title matches.
   and verify per-release `.pnach` assets, with optional local ZIP packs.
 - `.gitattributes` - keeps `*.pnach` packs on LF so catalog SHA-256 hashes stay
   byte-stable after checkout on Windows.
+- `.gitignore` - excludes the generated `release/` build output and Python
+  bytecode caches from the repository.
 
 ## Source and attribution
 
@@ -96,7 +99,8 @@ python scripts/build_libretro_expansion.py --source path/to/libretro-database --
 python scripts/check_duplicates.py
 ```
 
-To prepare a release bundle after validation:
+To prepare a release bundle after validation (writes to the git-ignored
+`release/` directory, then upload the files to the matching GitHub release):
 
 ```bash
 python scripts/make_release.py --version cheat-catalog-3
