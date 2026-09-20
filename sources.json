@@ -20,7 +20,7 @@
       "commit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
       "rawUrl": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable",
       "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
-      "notes": "The repository LICENSE is CC-BY-SA-4.0. Its README says cheat files are collected from web sources and user contributions, so this catalog preserves source attribution and does not relicense individual code authors rights."
+      "notes": "The repository LICENSE is CC-BY-SA-4.0. Its README says cheat files are collected from web sources and user contributions, so this catalog preserves source attribution and does not relicense individual code authors rights. The whole PSP folder of the pinned revision is imported: 2513 serial packs with 75691 blocks are published, while 96 serials whose content exactly repeats another serial and 2 serials without parseable blocks are excluded."
     }
   ]
 }

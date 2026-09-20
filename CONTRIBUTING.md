@@ -27,7 +27,12 @@ Run all checks before a pull request:
 python scripts/build_libretro_batch.py --source path/to/libretro-database
 python scripts/validate_catalog.py
 python scripts/validate_libretro_source.py --source path/to/libretro-database
+python scripts/check_duplicates.py
 ```
+
+`check_duplicates.py` must report zero new additions involved in any duplicate.
+The catalog is already free of repeated serials and ids; identical cheat content
+is allowed only for pre-existing regional variants of the same game.
 
 The catalog is an input to the app and is not a guarantee that a code works
 with every game revision. Test codes against the exact serial and PPSSPP
