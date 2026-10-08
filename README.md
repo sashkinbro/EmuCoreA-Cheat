@@ -64,10 +64,11 @@ files resolve to 2611 unique serials, of which 2513 serials are published as
 per-game packs with 75,691 cheat blocks. Two serials had no parseable blocks
 and 96 serials repeated the exact cheat content of another serial (regional
 variants); those are skipped so no pack is published twice. Because GitHub
-allows at most 1000 assets per release, the catalog is served from four stable
+allows at most 1000 assets per release, the catalog is served from five stable
 release tags: `cheat-catalog` (first 798 packs), `cheat-catalog-2` (next 1000)
 and `cheat-catalog-3` (final 715 libretro packs plus the custom camera pack
-only), with the eleven additional author packs on `cheat-catalog-4`.
+only), with the eleven additional author packs on `cheat-catalog-4` and two
+final additional packs on `cheat-catalog-5`.
 Every catalog entry keeps a direct HTTPS `.pnach` URL on the release that holds
 its asset.
 
@@ -96,6 +97,27 @@ and separate US/EU Tag Force Japanese-voice packs (`ULUS-10136`, `ULES-00600`).
 Each shared-region pack is published once with both verified serials; its
 code sequences match both pinned source files. Existing catalog entries and
 packs are unchanged.
+
+The final partial batch on 2026-10-08 adds two packs with 13 new blocks for
+existing games, bringing the catalog to 2527 packs, 2516 unique serials, and
+75,865 blocks. LocoRoco Midnight Carnival (`NPEG-00024`) gains 11 acceleration,
+screen-rotation, and jump-height options from an alternate pinned libretro file.
+Choose one acceleration value and one jump value at a time. Its version-ambiguous
+demo-limit patch is excluded. GTA: Chinatown Wars (`ULUS-10490`) gains two
+guarded object-cell radius settings from TAbdiukov: minimum and default. Choose
+one setting and immediately restart the game after changing it; the higher
+radius is excluded because the author says it exceeds PSP-1000 memory limits.
+Both packs retain their complete source license. Runtime was not tested locally.
+
+The final source sweep found no additional entirely new game title with both
+clear redistribution terms and verified code/build applicability. In particular,
+the Syphon Filter demo's author uses a homebrew-style hash identifier, so a title
+match to an official demo serial was insufficient to publish that candidate.
+The audit also confirmed an existing conversion-fidelity issue: the legacy
+converter drops a required zero operand from `All Items Rare-1` in
+`NPJB-40001`. It is recorded in `build-report.json`; existing packs and scripts
+are unchanged under the add-only scope. New additions preserve complete ordered
+code sequences, including zero operands and repeated lines where required.
 
 Naruto and Daxter come from
 [TAbdiukov/PPSSPP-patches](https://github.com/TAbdiukov/PPSSPP-patches/tree/a38b2aba3e0e24935392d2617b14b35d73ab0f27)

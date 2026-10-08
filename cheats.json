@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T12:47:25Z",
+  "generatedAt": "2026-10-08T13:13:46Z",
   "entries": [
     {
       "id": "libretro-psp-aljs-00351",
@@ -47979,6 +47979,44 @@
       "blockCount": 1,
       "updatedAt": "2026-10-08T12:47:25Z",
       "sha256": "FA9A9D5E815458883D9E44CEF679050C70951FD72E3DFE5B7AB68E26B2A88E30"
+    },
+    {
+      "id": "libretro-psp-npeg-00024-physics",
+      "title": "LocoRoco Midnight Carnival [EU] - Physics options",
+      "serials": [
+        "NPEG-00024"
+      ],
+      "authors": [
+        "libretro-database contributors / original PSP cheat authors"
+      ],
+      "description": "11 optional blocks across acceleration, screen rotation, and jump height. Choose one acceleration value and one jump value at a time. Fully restart the game to clear applied patches. Demo-limit removal is excluded. Runtime not verified locally.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-5/PSP-Cheat-Catalog-cheat-catalog-5-NPEG-00024.pnach",
+      "packPath": "files/libretro-psp/NPEG-00024-physics.pnach",
+      "sourceUrl": "https://github.com/libretro/libretro-database/blob/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable/LocoRoco%20Midnight%20Carnival%20%5BEU%5D%20%5BNPEG-00024%5D.cht",
+      "sourceName": "libretro-database additional PSP options",
+      "license": "CC-BY-SA-4.0",
+      "blockCount": 11,
+      "updatedAt": "2026-10-08T13:13:46Z",
+      "sha256": "AB3956BE2B2646BF7D588A4AF263BBEA2F80B88E9281E9134C168CAD4D472D37"
+    },
+    {
+      "id": "custom-psp-tabdiukov-ulus-10490-cell-window",
+      "title": "Grand Theft Auto: Chinatown Wars [US] - Object-cell window",
+      "serials": [
+        "ULUS-10490"
+      ],
+      "authors": [
+        "Tim Abdiukov (TAbdiukov)"
+      ],
+      "description": "2 optional guarded object-cell radius settings: minimum (0) and author-labeled default (1). Use only one setting. Immediately restart the game after changing the setting. The higher-radius option is excluded because it exceeds PSP-1000 memory limits. Runtime not verified locally.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-5/PSP-Cheat-Catalog-cheat-catalog-5-ULUS-10490.pnach",
+      "packPath": "files/author-psp/ULUS-10490-cell-window.pnach",
+      "sourceUrl": "https://github.com/TAbdiukov/PPSSPP-patches/blob/a38b2aba3e0e24935392d2617b14b35d73ab0f27/GTA-CW_ULUS10490.ini.db",
+      "sourceName": "TAbdiukov PPSSPP patches",
+      "license": "Apache-2.0",
+      "blockCount": 2,
+      "updatedAt": "2026-10-08T13:13:46Z",
+      "sha256": "EB96074B53D33C94A0694BC91B2486ED80231A7C18900923E2BB5EEFD6AB5496"
     }
   ]
 }

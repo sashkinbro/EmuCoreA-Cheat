@@ -20659,6 +20659,156 @@
         "codeOnlyIdenticalPackGroups": 44,
         "legacyPacksModified": 0
       }
+    },
+    {
+      "batch": "final-additions-2026-10-08",
+      "generatedAt": "2026-10-08T13:13:46Z",
+      "release": "cheat-catalog-5",
+      "finalPartialBatch": true,
+      "batchSizeReason": "User requested a final couple of eligible packs and completion if no further additions are found.",
+      "entries": [
+        {
+          "serial": "NPEG-00024",
+          "catalogId": "libretro-psp-npeg-00024-physics",
+          "sourceCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
+          "sourceUrl": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable/LocoRoco%20Midnight%20Carnival%20%5BEU%5D%20%5BNPEG-00024%5D.cht",
+          "sourceSha256": "3B7292573E212EAE3168BA96B9B19A3CAB4341F1C39966B7DDE8AF925F0FCA88",
+          "sourceFormat": "retroarch-cht",
+          "license": "CC-BY-SA-4.0",
+          "licenseSha256": "E8FB767BA9A496AD5A81D52C6ABCD4AF6D67A63651B3024DDFD1809F8AD23178",
+          "blocks": 11,
+          "codeLines": 11,
+          "excludedBlocks": [
+            {
+              "block": "Remove Demo Limitations",
+              "reason": "Demo/retail executable compatibility is not established."
+            }
+          ],
+          "malformedBlocks": 0,
+          "duplicateBlocks": 0,
+          "sha256": "AB3956BE2B2646BF7D588A4AF263BBEA2F80B88E9281E9134C168CAD4D472D37",
+          "verification": "Pinned source hashes, exact ordered source sequences, embedded license, full catalog code-only duplicate comparison; runtime not verified locally."
+        },
+        {
+          "serial": "ULUS-10490",
+          "catalogId": "custom-psp-tabdiukov-ulus-10490-cell-window",
+          "sourceCommit": "a38b2aba3e0e24935392d2617b14b35d73ab0f27",
+          "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/GTA-CW_ULUS10490.ini.db",
+          "sourceSha256": "F855A9F6BE60659823CBCE52A68306441EF1BD93D0F02ACBF1820FE7EEE55CC3",
+          "sourceFormat": "cwcheat",
+          "license": "Apache-2.0",
+          "licenseSha256": "47A7BFD6B3E12546207665BCD53558B4087AC04FBCFC2592966968A3ADAB7987",
+          "blocks": 2,
+          "codeLines": 8,
+          "excludedBlocks": [
+            {
+              "block": "[Misc] Higher object cell window (cannot work within PSP 1000 limitations; requires immediate restart)",
+              "reason": "Upstream explicitly says this exceeds PSP-1000 memory constraints; excluded."
+            }
+          ],
+          "malformedBlocks": 0,
+          "duplicateBlocks": 0,
+          "sha256": "EB96074B53D33C94A0694BC91B2486ED80231A7C18900923E2BB5EEFD6AB5496",
+          "verification": "Pinned source hashes, exact ordered source sequences, embedded license, full catalog code-only duplicate comparison; runtime not verified locally."
+        }
+      ],
+      "totals": {
+        "packs": 2,
+        "blocks": 13,
+        "newSerials": 0,
+        "entirelyNewGameTitles": 0
+      },
+      "notes": "Existing catalog entries, packs, releases, scripts and application contract are unchanged. Final additions target existing games. New-game candidates that lacked a payload license or exact executable evidence were not imported."
     }
-  ]
+  ],
+  "researchAudit": {
+    "date": "2026-10-08",
+    "catalogCommit": "bed5ba3fab0603232213e614788d04732c09553e",
+    "scope": "Add only new licensed PSP cheat packs; prioritize games absent from catalog; commit/push batches of 10-20. No application changes.",
+    "publishedBatch": {
+      "release": "cheat-catalog-4",
+      "packs": 11,
+      "blocks": 32,
+      "newSerials": 3,
+      "entirelyNewGameTitles": 0
+    },
+    "pendingBatch": {
+      "packs": 0,
+      "blocks": 0
+    },
+    "research": [
+      {
+        "source": "libretro/libretro-database",
+        "commit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
+        "result": "Latest PSP subtree unchanged; malformed filename candidates and duplicate-serial alternate files audited. One eligible existing-title physics pack staged."
+      },
+      {
+        "source": "OctopusButtons/libretro-database",
+        "result": "PSP subtree identical to official upstream; no unique data."
+      },
+      {
+        "source": "9r3i/mhp3-cheats",
+        "commit": "0fa6113635aff3ff78e16b0c5075863871d389f1",
+        "result": "Existing serials only; root custom per-slot bag counts overlap existing item-count cheats. No novel feature accepted."
+      },
+      {
+        "source": "Bunkai9448/digipet_PSP",
+        "commit": "7d7aecdddf507d26f4d94ce4dce50b5b45eac965",
+        "result": "Existing title, author labels cheat incomplete/buggy, nonstandard operands; excluded."
+      },
+      {
+        "source": "sanmiguel234/ppsspp-60fps-lagfix",
+        "commit": "f1250a507506418b1b80ecf894bb055be34094db",
+        "result": "No cheat payload; archive cheats directory empty."
+      },
+      {
+        "source": "raing3/tempar",
+        "commit": "61cf50433f6d2aecad0de44dbf0f935d894946d9",
+        "result": "BSD plugin license does not establish grant for bundled third-party cheat binary database; excluded."
+      }
+    ],
+    "heldCandidates": [
+      {
+        "title": "Syphon Filter: Dark Mirror Demo [US]",
+        "sourceId": "HBC3365416",
+        "possibleSerial": "UCUS-98656",
+        "blocks": 3,
+        "reason": "Original code author uses HBC pseudo/hash ID. Metadata title-to-serial join does not prove executable compatibility.",
+        "originalAuthorSource": "https://forums.ppsspp.org/showthread.php?mode=threaded&pid=127064&tid=4799"
+      },
+      {
+        "title": "LocoRoco [US]",
+        "serial": "UCUS-98662",
+        "reason": "Retail alternate source conflicts with existing same-serial Halloween Demo attribution. Build applicability unresolved."
+      }
+    ],
+    "existingDataFindings": [
+      {
+        "type": "conversion-fidelity",
+        "status": "confirmed-example-not-modified",
+        "pack": "files/libretro-psp/NPJB-40001.pnach",
+        "block": "All Items Rare-1",
+        "sourceSequence": [
+          "801D0FB9 03D20014",
+          "00000000 00000000"
+        ],
+        "publishedSequence": [
+          "801D0FB9 03D20014"
+        ],
+        "reason": "Existing converter drops (0,0) lines globally. Here the zero pair is the operand for an 0x8 multi-write and must be preserved. Existing converter also removes repeated pairs inside a block; future additions must preserve full ordered source sequences.",
+        "source": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable/Monster%20Hunter%20Portable%203rd%20HD%20Ver.%20%5BJP%5D%20%5BNPJB-40001%5D.cht"
+      }
+    ],
+    "nextActions": [
+      "No additional packs pending. User requested completion after final eligible additions.",
+      "Existing conversion-fidelity finding is reported only; old packs/scripts were not changed in the add-only scope."
+    ],
+    "finalPartialBatch": {
+      "release": "cheat-catalog-5",
+      "packs": 2,
+      "blocks": 13,
+      "newSerials": 0,
+      "entirelyNewGameTitles": 0
+    }
+  }
 }

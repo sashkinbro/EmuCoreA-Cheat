@@ -52,7 +52,8 @@
         "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULES01088.ini.db",
         "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULUS10349.ini.db",
         "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Star-Wars-Battlefront-2_ULUS10053.ini.db",
-        "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Star-Wars-Battlefront-2_ULES00183.ini.db"
+        "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Star-Wars-Battlefront-2_ULES00183.ini.db",
+        "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/GTA-CW_ULUS10490.ini.db"
       ],
       "additionalAuthors": [
         "theboy181"
@@ -93,6 +94,19 @@
       "licensePath": "LICENSES/MIT-TagForce-Essentials.txt",
       "notes": "Voice-only US/EU patches. Japanese audio is already present in game files; Source/Program.cs extractor concerns visual/card assets and is not needed for these blocks. Original xdelta research credited to Matheus Abreu. Reload the shop when enabling there; upstream reports title-screen voice timing limits. Other source blocks requiring extracted assets are excluded. Full MIT license is embedded in individual downloads. Runtime not verified locally.",
       "distribution": "catalog"
+    },
+    {
+      "id": "libretro-psp-additional",
+      "name": "libretro-database additional PSP options",
+      "author": "libretro-database contributors and the original PSP cheat authors",
+      "url": "https://github.com/libretro/libretro-database",
+      "commit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
+      "rawUrl": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/cht/Sony%20-%20PlayStation%20Portable/LocoRoco%20Midnight%20Carnival%20%5BEU%5D%20%5BNPEG-00024%5D.cht",
+      "license": "CC-BY-SA-4.0 repository license; individual upstream code authors remain credited",
+      "licenseUrl": "https://raw.githubusercontent.com/libretro/libretro-database/740ebdf03247073658ccea45ddedfd57ea9d2974/LICENSE",
+      "licensePath": "LICENSES/CC-BY-SA-4.0-libretro-database.txt",
+      "distribution": "catalog",
+      "notes": "Additional gameplay options from an alternate same-serial source file omitted by the original per-serial selection. Full ordered source sequences and attribution are preserved. The demo-limit block is excluded because executable compatibility is not established. Each pack embeds the full source license; runtime not verified locally."
     }
   ]
 }
