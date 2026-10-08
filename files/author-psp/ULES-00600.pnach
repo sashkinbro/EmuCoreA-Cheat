@@ -1,0 +1,44 @@
+# PSP author patch pack
+# Serial: ULES-00600
+# Game: Yu-Gi-Oh! GX Tag Force [EU] - Japanese voices
+# Source: https://raw.githubusercontent.com/DeaTh-G/tagforce-essentials/0e47a5f37a268e4a516893ac5f69588b0c424acd/Codes/PPSSPP/ULES00600.ini
+# Source commit: 0e47a5f37a268e4a516893ac5f69588b0c424acd
+# Copyright (c) 2023 DeaTh-G
+# Research credit: Matheus Abreu, original Japanese Voice Enabler xdelta patches used by upstream for reverse engineering.
+# License: MIT
+# Modified 2026-10-08: extracted only Enable Voice Acting and converted CWCheat syntax; excluded visual/card mods requiring external files.
+# Codes remain optional; original _C0 activation flag is not imported.
+# Enables Japanese voices already in the game; no extracted mod files required. Reload the shop if enabled there. Upstream notes cheat-engine timing may miss title-screen voices. Runtime not verified locally.
+# Complete upstream license follows:
+# MIT License
+#
+# Copyright (c) 2023 DeaTh-G
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
+// Enable Voice Acting
+Author = DeaTh-G
+# Enable Voice Acting in Shop
+D09C8FE2 00005440
+009C8FE3 00000050
+# Enable Voice Acting during Gameplay
+000631A7 00000004
+# Enable Voice Acting on Title Screen
+D0703C0E 00005440
+00703C0F 00000004

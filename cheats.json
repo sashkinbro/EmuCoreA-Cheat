@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T00:00:00Z",
+  "generatedAt": "2026-10-08T12:47:25Z",
   "entries": [
     {
       "id": "libretro-psp-aljs-00351",
@@ -47767,6 +47767,218 @@
       "blockCount": 4,
       "updatedAt": "2026-09-20T00:00:00Z",
       "sha256": "D49E2EC0F49D498417979896C48506524DCEF8823AD11824A2D84D8EE7E09E55"
+    },
+    {
+      "id": "custom-psp-tabdiukov-psp-ulks-46086",
+      "title": "Naruto: Ultimate Ninja Heroes 2 [KR]",
+      "serials": [
+        "ULKS-46086"
+      ],
+      "authors": [
+        "Tim Abdiukov (TAbdiukov)"
+      ],
+      "description": "5 optional author patch blocks for ULKS-46086. Choose only one aerial-dogfight option at a time. Choose either disable or restore for CPU substitution; do not enable both. Runtime not verified locally.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-4/PSP-Cheat-Catalog-cheat-catalog-4-ULKS-46086.pnach",
+      "packPath": "files/author-psp/ULKS-46086.pnach",
+      "sourceUrl": "https://github.com/TAbdiukov/PPSSPP-patches/blob/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULKS46086.ini.db",
+      "sourceName": "TAbdiukov PPSSPP patches",
+      "license": "Apache-2.0",
+      "blockCount": 5,
+      "updatedAt": "2026-10-08T12:34:58Z",
+      "sha256": "84EF95968F9F2E2838691CBAA6477F712523394A6622F0E6A8658D4F9D4CC61C"
+    },
+    {
+      "id": "custom-psp-silent-psp-uljm-05904",
+      "title": "Midnight Club: L.A. Remix (Rockstar Classics) [JP]",
+      "serials": [
+        "ULJM-05904"
+      ],
+      "authors": [
+        "Adrian Zdanowicz (Silent)"
+      ],
+      "description": "1 optional author patch blocks for ULJM-05904. Unlocks prototype cheats for this exact Japanese Rockstar Classics serial only. Runtime not verified locally.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-4/PSP-Cheat-Catalog-cheat-catalog-4-ULJM-05904.pnach",
+      "packPath": "files/author-psp/ULJM-05904.pnach",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PSP/Midnight%20Club%20LA%20Remix/Unlock%20prototype%20cheats/ULJM05904_cheats.ini",
+      "sourceName": "Silent console cheat codes",
+      "license": "MIT",
+      "blockCount": 1,
+      "updatedAt": "2026-10-08T12:34:58Z",
+      "sha256": "9041F07033338205FA9751CC66E9DF06EAE17417B4B00619C2C07DEEC4917C87"
+    },
+    {
+      "id": "custom-psp-tabdiukov-psp-npug-80329",
+      "title": "Daxter (PlayStation Store) [US]",
+      "serials": [
+        "NPUG-80329"
+      ],
+      "authors": [
+        "theboy181",
+        "Tim Abdiukov (TAbdiukov)"
+      ],
+      "description": "1 optional analog-controls patch block for NPUG-80329. US PlayStation Store build only. Runtime not verified locally.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-4/PSP-Cheat-Catalog-cheat-catalog-4-NPUG-80329.pnach",
+      "packPath": "files/author-psp/NPUG-80329.pnach",
+      "sourceUrl": "https://github.com/TAbdiukov/PPSSPP-patches/blob/a38b2aba3e0e24935392d2617b14b35d73ab0f27/several-%28theboy181%29.ini.db",
+      "sourceName": "TAbdiukov PPSSPP patches",
+      "license": "Apache-2.0",
+      "blockCount": 1,
+      "updatedAt": "2026-10-08T12:35:43Z",
+      "sha256": "6496C081E1BFDEBBB9ECA8830A681BBAA56E7A93CD4139F1A46322856716A255"
+    },
+    {
+      "id": "custom-psp-tabdiukov-psp-ules-00865",
+      "title": "Naruto: Ultimate Ninja Heroes [EU]",
+      "serials": [
+        "ULES-00865"
+      ],
+      "authors": [
+        "Tim Abdiukov (TAbdiukov)"
+      ],
+      "description": "5 optional patch block(s). Choose one aerial-dogfight option at a time. Do not combine CPU substitution disable and restore. Experimental human-substitution blocks excluded. Runtime not verified locally.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-4/PSP-Cheat-Catalog-cheat-catalog-4-ULES-00865.pnach",
+      "packPath": "files/author-psp/ULES-00865.pnach",
+      "sourceUrl": "https://github.com/TAbdiukov/PPSSPP-patches/blob/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-1_ULES00865.ini.db",
+      "sourceName": "TAbdiukov PPSSPP patches",
+      "license": "Apache-2.0",
+      "blockCount": 5,
+      "updatedAt": "2026-10-08T12:44:03Z",
+      "sha256": "FC2EDED43BB82C53DB1F6E502BF29D4DF9C6E94C4FC13CEC1FFFABF90367023C"
+    },
+    {
+      "id": "custom-psp-tabdiukov-psp-ulus-10299",
+      "title": "Naruto: Ultimate Ninja Heroes [US]",
+      "serials": [
+        "ULUS-10299"
+      ],
+      "authors": [
+        "Tim Abdiukov (TAbdiukov)"
+      ],
+      "description": "5 optional patch block(s). Choose one aerial-dogfight option at a time. Do not combine CPU substitution disable and restore. Experimental human-substitution blocks excluded. Runtime not verified locally.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-4/PSP-Cheat-Catalog-cheat-catalog-4-ULUS-10299.pnach",
+      "packPath": "files/author-psp/ULUS-10299.pnach",
+      "sourceUrl": "https://github.com/TAbdiukov/PPSSPP-patches/blob/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-1_ULUS10299.ini.db",
+      "sourceName": "TAbdiukov PPSSPP patches",
+      "license": "Apache-2.0",
+      "blockCount": 5,
+      "updatedAt": "2026-10-08T12:44:03Z",
+      "sha256": "B350AA232C1ED8EB4E792331292E3DA462B55685AA64A1E4B5EE3B2BE5A4700D"
+    },
+    {
+      "id": "custom-psp-tabdiukov-psp-ules-01088",
+      "title": "Naruto: Ultimate Ninja Heroes 2 [EU]",
+      "serials": [
+        "ULES-01088"
+      ],
+      "authors": [
+        "Tim Abdiukov (TAbdiukov)"
+      ],
+      "description": "5 optional patch block(s). Choose one aerial-dogfight option at a time. Do not combine CPU substitution disable and restore. Experimental human-substitution blocks excluded. Runtime not verified locally.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-4/PSP-Cheat-Catalog-cheat-catalog-4-ULES-01088.pnach",
+      "packPath": "files/author-psp/ULES-01088.pnach",
+      "sourceUrl": "https://github.com/TAbdiukov/PPSSPP-patches/blob/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULES01088.ini.db",
+      "sourceName": "TAbdiukov PPSSPP patches",
+      "license": "Apache-2.0",
+      "blockCount": 5,
+      "updatedAt": "2026-10-08T12:44:03Z",
+      "sha256": "89A6E706ACCECF4B8EFD1824E97697CD5500CDCFAC369C5DA3AC2338C2B7279A"
+    },
+    {
+      "id": "custom-psp-tabdiukov-psp-ulus-10349",
+      "title": "Naruto: Ultimate Ninja Heroes 2 [US]",
+      "serials": [
+        "ULUS-10349"
+      ],
+      "authors": [
+        "Tim Abdiukov (TAbdiukov)"
+      ],
+      "description": "5 optional patch block(s). Choose one aerial-dogfight option at a time. Do not combine CPU substitution disable and restore. Experimental human-substitution blocks excluded. Runtime not verified locally.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-4/PSP-Cheat-Catalog-cheat-catalog-4-ULUS-10349.pnach",
+      "packPath": "files/author-psp/ULUS-10349.pnach",
+      "sourceUrl": "https://github.com/TAbdiukov/PPSSPP-patches/blob/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULUS10349.ini.db",
+      "sourceName": "TAbdiukov PPSSPP patches",
+      "license": "Apache-2.0",
+      "blockCount": 5,
+      "updatedAt": "2026-10-08T12:44:03Z",
+      "sha256": "4227E8AE217BB9FDD252A296A80C1E688776F8ECB9AC7CF72A7CFCD4944FFEFE"
+    },
+    {
+      "id": "custom-psp-tabdiukov-psp-ulus-10053",
+      "title": "Star Wars: Battlefront II [US/EU] - ticket rebalance",
+      "serials": [
+        "ULUS-10053",
+        "ULES-00183"
+      ],
+      "authors": [
+        "Tim Abdiukov (TAbdiukov)"
+      ],
+      "description": "2 optional patch block(s). Choose either disable or restore ticket bleeding; do not enable both. One payload is shared by both source-verified regional serials. Runtime not verified locally.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-4/PSP-Cheat-Catalog-cheat-catalog-4-ULUS-10053.pnach",
+      "packPath": "files/author-psp/ULUS-10053.pnach",
+      "sourceUrl": "https://github.com/TAbdiukov/PPSSPP-patches/blob/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Star-Wars-Battlefront-2_ULUS10053.ini.db",
+      "sourceName": "TAbdiukov PPSSPP patches",
+      "license": "Apache-2.0",
+      "blockCount": 2,
+      "updatedAt": "2026-10-08T12:44:03Z",
+      "sha256": "20C5ADACBF7FAE62A34ABA08D58F2A892ACDF9F67D4756475AA5FC76361283B5"
+    },
+    {
+      "id": "custom-psp-silent-psp-ulus-10383",
+      "title": "Midnight Club: L.A. Remix [US/EU] - prototype cheats",
+      "serials": [
+        "ULUS-10383",
+        "ULES-01144"
+      ],
+      "authors": [
+        "Adrian Zdanowicz (Silent)"
+      ],
+      "description": "1 optional patch block(s). After enabling the patch, enter prototype passwords in the game's cheat menu. US/EU source-verified builds only. Runtime not verified locally.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-4/PSP-Cheat-Catalog-cheat-catalog-4-ULUS-10383.pnach",
+      "packPath": "files/author-psp/ULUS-10383.pnach",
+      "sourceUrl": "https://github.com/CookiePLMonster/Console-Cheat-Codes/blob/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PSP/Midnight%20Club%20LA%20Remix/Unlock%20prototype%20cheats/ULUS10383_cheats.ini",
+      "sourceName": "Silent console cheat codes",
+      "license": "MIT",
+      "blockCount": 1,
+      "updatedAt": "2026-10-08T12:44:03Z",
+      "sha256": "72B5365DBE0325C440D4E5EC9738EBDE100E705C4FD760FCCA3C5E60BB1C54E3"
+    },
+    {
+      "id": "custom-psp-tagforce-ulus-10136",
+      "title": "Yu-Gi-Oh! GX Tag Force [US] - Japanese voices",
+      "serials": [
+        "ULUS-10136"
+      ],
+      "authors": [
+        "DeaTh-G"
+      ],
+      "description": "1 optional Japanese voice-acting block. Enables Japanese voices already in the game; no extracted mod files required. Reload the shop if enabled there. Upstream notes cheat-engine timing may miss title-screen voices. Runtime not verified locally.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-4/PSP-Cheat-Catalog-cheat-catalog-4-ULUS-10136.pnach",
+      "packPath": "files/author-psp/ULUS-10136.pnach",
+      "sourceUrl": "https://github.com/DeaTh-G/tagforce-essentials/blob/0e47a5f37a268e4a516893ac5f69588b0c424acd/Codes/PPSSPP/ULUS10136.ini",
+      "sourceName": "DeaTh-G Tag Force essentials",
+      "license": "MIT",
+      "blockCount": 1,
+      "updatedAt": "2026-10-08T12:47:25Z",
+      "sha256": "E9FB0D3982D7B7F0E4364856E62E30C9BF1F61D7EFF37FB96BA35D1564C7EBC7"
+    },
+    {
+      "id": "custom-psp-tagforce-ules-00600",
+      "title": "Yu-Gi-Oh! GX Tag Force [EU] - Japanese voices",
+      "serials": [
+        "ULES-00600"
+      ],
+      "authors": [
+        "DeaTh-G"
+      ],
+      "description": "1 optional Japanese voice-acting block. Enables Japanese voices already in the game; no extracted mod files required. Reload the shop if enabled there. Upstream notes cheat-engine timing may miss title-screen voices. Runtime not verified locally.",
+      "downloadUrl": "https://github.com/sashkinbro/EmuCoreA-Cheat/releases/download/cheat-catalog-4/PSP-Cheat-Catalog-cheat-catalog-4-ULES-00600.pnach",
+      "packPath": "files/author-psp/ULES-00600.pnach",
+      "sourceUrl": "https://github.com/DeaTh-G/tagforce-essentials/blob/0e47a5f37a268e4a516893ac5f69588b0c424acd/Codes/PPSSPP/ULES00600.ini",
+      "sourceName": "DeaTh-G Tag Force essentials",
+      "license": "MIT",
+      "blockCount": 1,
+      "updatedAt": "2026-10-08T12:47:25Z",
+      "sha256": "FA9A9D5E815458883D9E44CEF679050C70951FD72E3DFE5B7AB68E26B2A88E30"
     }
   ]
 }

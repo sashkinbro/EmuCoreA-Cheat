@@ -20243,5 +20243,422 @@
       "Xyanide - Resurrection (PlayStation Store) (Demo) [EU] [HB4B21CEF8].cht",
       "Ys Seven (USA) (RetroArch).cht"
     ]
-  }
+  },
+  "authorImports": [
+    {
+      "batch": "author-2026-10-08",
+      "generatedAt": "2026-10-08T12:47:25Z",
+      "release": "cheat-catalog-4",
+      "entries": [
+        {
+          "serial": "ULKS-46086",
+          "catalogId": "custom-psp-tabdiukov-psp-ulks-46086",
+          "sourceFile": "Naruto-UNH-2_ULKS46086.ini.db",
+          "sourceCommit": "a38b2aba3e0e24935392d2617b14b35d73ab0f27",
+          "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULKS46086.ini.db",
+          "sourceSha256": "01CF668CDF8B61F00DA414F4499E3B7F8695C43FBA5A27DD37F1B87A63DEAF10",
+          "license": "Apache-2.0",
+          "licenseSha256": "47A7BFD6B3E12546207665BCD53558B4087AC04FBCFC2592966968A3ADAB7987",
+          "blocks": 5,
+          "codeLines": 48,
+          "excludedBlocks": [
+            {
+              "block": "_________[>>>Hacks<<<]_________",
+              "reason": "Non-gameplay menu separator with dummy zero-address write; omitted."
+            }
+          ],
+          "malformedBlocks": 0,
+          "duplicateBlocks": 0,
+          "sha256": "84EF95968F9F2E2838691CBAA6477F712523394A6622F0E6A8658D4F9D4CC61C",
+          "verification": "Exact serial, immutable source, byte hash, numeric block comparison against every existing pack; no local in-game runtime test."
+        },
+        {
+          "serial": "ULJM-05904",
+          "catalogId": "custom-psp-silent-psp-uljm-05904",
+          "sourceFile": "PSP/Midnight Club LA Remix/Unlock prototype cheats/ULJM05904_cheats.ini",
+          "sourceCommit": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+          "sourceUrl": "https://raw.githubusercontent.com/CookiePLMonster/Console-Cheat-Codes/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PSP/Midnight%20Club%20LA%20Remix/Unlock%20prototype%20cheats/ULJM05904_cheats.ini",
+          "sourceSha256": "67C23D39BF81BB36213785C6ACDB96DC761450866DB7E806EC3142CCD5645386",
+          "license": "MIT",
+          "licenseSha256": "61EDEE29D9F0561F7D46034A0454167934D537BCECA996F12FEB360CCB01C667",
+          "blocks": 1,
+          "codeLines": 1,
+          "excludedBlocks": [],
+          "malformedBlocks": 0,
+          "duplicateBlocks": 0,
+          "sha256": "9041F07033338205FA9751CC66E9DF06EAE17417B4B00619C2C07DEEC4917C87",
+          "verification": "Exact serial, immutable source, byte hash, numeric block comparison against every existing pack; no local in-game runtime test."
+        },
+        {
+          "serial": "NPUG-80329",
+          "catalogId": "custom-psp-tabdiukov-psp-npug-80329",
+          "sourceFile": "several-(theboy181).ini.db",
+          "sourceCommit": "a38b2aba3e0e24935392d2617b14b35d73ab0f27",
+          "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/several-%28theboy181%29.ini.db",
+          "sourceSha256": "1262CDD703FEFC3A1F3A2F099D51ABEE26524BE35207D61691720D94C0A23929",
+          "license": "Apache-2.0",
+          "licenseSha256": "47A7BFD6B3E12546207665BCD53558B4087AC04FBCFC2592966968A3ADAB7987",
+          "blocks": 1,
+          "codeLines": 2,
+          "excludedBlocks": [
+            {
+              "block": "_________[>>>Hacks<<<]_________",
+              "reason": "Non-gameplay menu separator with dummy zero-address write; omitted."
+            }
+          ],
+          "excludedSections": [
+            "ULUS10249",
+            "UCUS-98632",
+            "ULUS10490"
+          ],
+          "malformedBlocks": 0,
+          "duplicateBlocks": 0,
+          "sha256": "6496C081E1BFDEBBB9ECA8830A681BBAA56E7A93CD4139F1A46322856716A255",
+          "verification": "Exact serial, immutable source, byte hash, numeric block comparison against every existing pack; no local in-game runtime test."
+        },
+        {
+          "serial": "ULES-00865",
+          "serials": [
+            "ULES-00865"
+          ],
+          "catalogId": "custom-psp-tabdiukov-psp-ules-00865",
+          "sourceFile": "Naruto-UNH-1_ULES00865.ini.db",
+          "sourceCommit": "a38b2aba3e0e24935392d2617b14b35d73ab0f27",
+          "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-1_ULES00865.ini.db",
+          "sourceSha256": "FF6ADA8C943A839D2DC1899D2D493B282AB517F458A65E984C39444E0CBFC131",
+          "verifiedSources": [
+            {
+              "serial": "ULES-00865",
+              "sourceFile": "Naruto-UNH-1_ULES00865.ini.db",
+              "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-1_ULES00865.ini.db",
+              "sourceSha256": "FF6ADA8C943A839D2DC1899D2D493B282AB517F458A65E984C39444E0CBFC131"
+            }
+          ],
+          "license": "Apache-2.0",
+          "licenseSha256": "47A7BFD6B3E12546207665BCD53558B4087AC04FBCFC2592966968A3ADAB7987",
+          "blocks": 5,
+          "codeLines": 48,
+          "excludedBlocks": [
+            {
+              "block": "_________[>>>Hacks<<<]_________",
+              "reason": "Dummy zero-address menu separator."
+            },
+            {
+              "block": "_________[>>>Cheats<<<]_________",
+              "reason": "Dummy zero-address menu separator."
+            },
+            {
+              "block": "Auto fast-R Substitute for human (Experimental)",
+              "reason": "Experimental human-substitution option or its paired restore; not imported."
+            },
+            {
+              "block": "Re-enable manual fast-R substitution for human [Default]",
+              "reason": "Experimental human-substitution option or its paired restore; not imported."
+            }
+          ],
+          "malformedBlocks": 0,
+          "duplicateBlocks": 0,
+          "sha256": "FC2EDED43BB82C53DB1F6E502BF29D4DF9C6E94C4FC13CEC1FFFABF90367023C",
+          "verification": "Exact source serials, immutable input hashes, exact numeric block equivalence, no duplicate blocks across full catalog; local game runtime not tested."
+        },
+        {
+          "serial": "ULUS-10299",
+          "serials": [
+            "ULUS-10299"
+          ],
+          "catalogId": "custom-psp-tabdiukov-psp-ulus-10299",
+          "sourceFile": "Naruto-UNH-1_ULUS10299.ini.db",
+          "sourceCommit": "a38b2aba3e0e24935392d2617b14b35d73ab0f27",
+          "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-1_ULUS10299.ini.db",
+          "sourceSha256": "3355443754B546C090696BFA9FDCA4BBA0472A34077ECC9050BE2688D1FE753C",
+          "verifiedSources": [
+            {
+              "serial": "ULUS-10299",
+              "sourceFile": "Naruto-UNH-1_ULUS10299.ini.db",
+              "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-1_ULUS10299.ini.db",
+              "sourceSha256": "3355443754B546C090696BFA9FDCA4BBA0472A34077ECC9050BE2688D1FE753C"
+            }
+          ],
+          "license": "Apache-2.0",
+          "licenseSha256": "47A7BFD6B3E12546207665BCD53558B4087AC04FBCFC2592966968A3ADAB7987",
+          "blocks": 5,
+          "codeLines": 48,
+          "excludedBlocks": [
+            {
+              "block": "_________[>>>Hacks<<<]_________",
+              "reason": "Dummy zero-address menu separator."
+            },
+            {
+              "block": "_________[>>>Cheats<<<]_________",
+              "reason": "Dummy zero-address menu separator."
+            },
+            {
+              "block": "Auto fast-R Substitute for human (Experimental)",
+              "reason": "Experimental human-substitution option or its paired restore; not imported."
+            },
+            {
+              "block": "Re-enable manual fast-R substitution for human [Default]",
+              "reason": "Experimental human-substitution option or its paired restore; not imported."
+            }
+          ],
+          "malformedBlocks": 0,
+          "duplicateBlocks": 0,
+          "sha256": "B350AA232C1ED8EB4E792331292E3DA462B55685AA64A1E4B5EE3B2BE5A4700D",
+          "verification": "Exact source serials, immutable input hashes, exact numeric block equivalence, no duplicate blocks across full catalog; local game runtime not tested."
+        },
+        {
+          "serial": "ULES-01088",
+          "serials": [
+            "ULES-01088"
+          ],
+          "catalogId": "custom-psp-tabdiukov-psp-ules-01088",
+          "sourceFile": "Naruto-UNH-2_ULES01088.ini.db",
+          "sourceCommit": "a38b2aba3e0e24935392d2617b14b35d73ab0f27",
+          "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULES01088.ini.db",
+          "sourceSha256": "321F1A2301EC53B46E5BA7909A119CB95C0348884103AF6A5DC9DA4F1D06ED30",
+          "verifiedSources": [
+            {
+              "serial": "ULES-01088",
+              "sourceFile": "Naruto-UNH-2_ULES01088.ini.db",
+              "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULES01088.ini.db",
+              "sourceSha256": "321F1A2301EC53B46E5BA7909A119CB95C0348884103AF6A5DC9DA4F1D06ED30"
+            }
+          ],
+          "license": "Apache-2.0",
+          "licenseSha256": "47A7BFD6B3E12546207665BCD53558B4087AC04FBCFC2592966968A3ADAB7987",
+          "blocks": 5,
+          "codeLines": 48,
+          "excludedBlocks": [
+            {
+              "block": "_________[>>>Hacks<<<]_________",
+              "reason": "Dummy zero-address menu separator."
+            },
+            {
+              "block": "_________[>>>Cheats<<<]_________",
+              "reason": "Dummy zero-address menu separator."
+            },
+            {
+              "block": "Auto fast-R Substitute for human (Experimental)",
+              "reason": "Experimental human-substitution option or its paired restore; not imported."
+            },
+            {
+              "block": "Re-enable manual fast-R substitution for human [Default]",
+              "reason": "Experimental human-substitution option or its paired restore; not imported."
+            }
+          ],
+          "malformedBlocks": 0,
+          "duplicateBlocks": 0,
+          "sha256": "89A6E706ACCECF4B8EFD1824E97697CD5500CDCFAC369C5DA3AC2338C2B7279A",
+          "verification": "Exact source serials, immutable input hashes, exact numeric block equivalence, no duplicate blocks across full catalog; local game runtime not tested."
+        },
+        {
+          "serial": "ULUS-10349",
+          "serials": [
+            "ULUS-10349"
+          ],
+          "catalogId": "custom-psp-tabdiukov-psp-ulus-10349",
+          "sourceFile": "Naruto-UNH-2_ULUS10349.ini.db",
+          "sourceCommit": "a38b2aba3e0e24935392d2617b14b35d73ab0f27",
+          "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULUS10349.ini.db",
+          "sourceSha256": "FE7CC9BF7E117CF3017DA623A891BDC4BF7C0F32990C456489EF4D85F65A7163",
+          "verifiedSources": [
+            {
+              "serial": "ULUS-10349",
+              "sourceFile": "Naruto-UNH-2_ULUS10349.ini.db",
+              "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULUS10349.ini.db",
+              "sourceSha256": "FE7CC9BF7E117CF3017DA623A891BDC4BF7C0F32990C456489EF4D85F65A7163"
+            }
+          ],
+          "license": "Apache-2.0",
+          "licenseSha256": "47A7BFD6B3E12546207665BCD53558B4087AC04FBCFC2592966968A3ADAB7987",
+          "blocks": 5,
+          "codeLines": 48,
+          "excludedBlocks": [
+            {
+              "block": "_________[>>>Hacks<<<]_________",
+              "reason": "Dummy zero-address menu separator."
+            },
+            {
+              "block": "_________[>>>Cheats<<<]_________",
+              "reason": "Dummy zero-address menu separator."
+            },
+            {
+              "block": "Auto fast-R Substitute for human (Experimental)",
+              "reason": "Experimental human-substitution option or its paired restore; not imported."
+            },
+            {
+              "block": "Re-enable manual fast-R substitution for human [Default]",
+              "reason": "Experimental human-substitution option or its paired restore; not imported."
+            }
+          ],
+          "malformedBlocks": 0,
+          "duplicateBlocks": 0,
+          "sha256": "4227E8AE217BB9FDD252A296A80C1E688776F8ECB9AC7CF72A7CFCD4944FFEFE",
+          "verification": "Exact source serials, immutable input hashes, exact numeric block equivalence, no duplicate blocks across full catalog; local game runtime not tested."
+        },
+        {
+          "serial": "ULUS-10053",
+          "serials": [
+            "ULUS-10053",
+            "ULES-00183"
+          ],
+          "catalogId": "custom-psp-tabdiukov-psp-ulus-10053",
+          "sourceFile": "Star-Wars-Battlefront-2_ULUS10053.ini.db",
+          "sourceCommit": "a38b2aba3e0e24935392d2617b14b35d73ab0f27",
+          "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Star-Wars-Battlefront-2_ULUS10053.ini.db",
+          "sourceSha256": "2607A9362B5F18904E368F33BA26CCD42C27CD78F1EBBEAE1F2E3EC52D892530",
+          "verifiedSources": [
+            {
+              "serial": "ULUS-10053",
+              "sourceFile": "Star-Wars-Battlefront-2_ULUS10053.ini.db",
+              "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Star-Wars-Battlefront-2_ULUS10053.ini.db",
+              "sourceSha256": "2607A9362B5F18904E368F33BA26CCD42C27CD78F1EBBEAE1F2E3EC52D892530"
+            },
+            {
+              "serial": "ULES-00183",
+              "sourceFile": "Star-Wars-Battlefront-2_ULES00183.ini.db",
+              "sourceUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Star-Wars-Battlefront-2_ULES00183.ini.db",
+              "sourceSha256": "E8A24458E586FB5A4BE18551E11BDAE0BCBA5C0F3148CED2D91DCFD7B8C908BA"
+            }
+          ],
+          "license": "Apache-2.0",
+          "licenseSha256": "47A7BFD6B3E12546207665BCD53558B4087AC04FBCFC2592966968A3ADAB7987",
+          "blocks": 2,
+          "codeLines": 12,
+          "excludedBlocks": [
+            {
+              "block": "_________[>>>Hacks<<<]_________",
+              "reason": "Dummy zero-address menu separator."
+            }
+          ],
+          "malformedBlocks": 0,
+          "duplicateBlocks": 0,
+          "sha256": "20C5ADACBF7FAE62A34ABA08D58F2A892ACDF9F67D4756475AA5FC76361283B5",
+          "verification": "Exact source serials, immutable input hashes, exact numeric block equivalence, no duplicate blocks across full catalog; local game runtime not tested."
+        },
+        {
+          "serial": "ULUS-10383",
+          "serials": [
+            "ULUS-10383",
+            "ULES-01144"
+          ],
+          "catalogId": "custom-psp-silent-psp-ulus-10383",
+          "sourceFile": "PSP/Midnight Club LA Remix/Unlock prototype cheats/ULUS10383_cheats.ini",
+          "sourceCommit": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+          "sourceUrl": "https://raw.githubusercontent.com/CookiePLMonster/Console-Cheat-Codes/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PSP/Midnight%20Club%20LA%20Remix/Unlock%20prototype%20cheats/ULUS10383_cheats.ini",
+          "sourceSha256": "AA7486C476BAC93185A41040CD7A578461101BBB2A4A13E9206A012DEF49963C",
+          "verifiedSources": [
+            {
+              "serial": "ULUS-10383",
+              "sourceFile": "PSP/Midnight Club LA Remix/Unlock prototype cheats/ULUS10383_cheats.ini",
+              "sourceUrl": "https://raw.githubusercontent.com/CookiePLMonster/Console-Cheat-Codes/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PSP/Midnight%20Club%20LA%20Remix/Unlock%20prototype%20cheats/ULUS10383_cheats.ini",
+              "sourceSha256": "AA7486C476BAC93185A41040CD7A578461101BBB2A4A13E9206A012DEF49963C"
+            },
+            {
+              "serial": "ULES-01144",
+              "sourceFile": "PSP/Midnight Club LA Remix/Unlock prototype cheats/ULES01144_cheats.ini",
+              "sourceUrl": "https://raw.githubusercontent.com/CookiePLMonster/Console-Cheat-Codes/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PSP/Midnight%20Club%20LA%20Remix/Unlock%20prototype%20cheats/ULES01144_cheats.ini",
+              "sourceSha256": "162BEF90091325D58D72550335877F762ACA48D8959414194F761069C245D507"
+            }
+          ],
+          "license": "MIT",
+          "licenseSha256": "61EDEE29D9F0561F7D46034A0454167934D537BCECA996F12FEB360CCB01C667",
+          "blocks": 1,
+          "codeLines": 1,
+          "excludedBlocks": [],
+          "malformedBlocks": 0,
+          "duplicateBlocks": 0,
+          "sha256": "72B5365DBE0325C440D4E5EC9738EBDE100E705C4FD760FCCA3C5E60BB1C54E3",
+          "verification": "Exact source serials, immutable input hashes, exact numeric block equivalence, no duplicate blocks across full catalog; local game runtime not tested."
+        },
+        {
+          "serial": "ULUS-10136",
+          "catalogId": "custom-psp-tagforce-ulus-10136",
+          "sourceFile": "Codes/PPSSPP/ULUS10136.ini",
+          "sourceCommit": "0e47a5f37a268e4a516893ac5f69588b0c424acd",
+          "sourceUrl": "https://raw.githubusercontent.com/DeaTh-G/tagforce-essentials/0e47a5f37a268e4a516893ac5f69588b0c424acd/Codes/PPSSPP/ULUS10136.ini",
+          "sourceSha256": "A49408B0C3539DC507FDEF6C98B1A61AA1C9FD4B4DB941D9526246657295C63D",
+          "license": "MIT",
+          "licenseSha256": "C7079D3AA8D60F707C1AF11D07A3D9856DC0028677A21EB62D33BE9F0E931821",
+          "blocks": 1,
+          "codeLines": 5,
+          "excludedBlocks": [
+            {
+              "block": "Enable Japanese Point Gauge",
+              "reason": "Outside voice-only intake; visual mods may require extracted files."
+            },
+            {
+              "block": "Uncensored Cards",
+              "reason": "Requires extracted external assets; outside data-only intake."
+            }
+          ],
+          "malformedBlocks": 0,
+          "duplicateBlocks": 0,
+          "sha256": "E9FB0D3982D7B7F0E4364856E62E30C9BF1F61D7EFF37FB96BA35D1564C7EBC7",
+          "serialVerification": {
+            "readmeUrl": "https://raw.githubusercontent.com/DeaTh-G/tagforce-essentials/0e47a5f37a268e4a516893ac5f69588b0c424acd/README.md",
+            "readmeSha256": "40D473C29AC94B7611661848E5CA6AD4CDC8A4665C14243B412A139C18112C44",
+            "method": "Upstream README maps US ULUS-10136 and EU ULES-00600 to their corresponding region-named PPSSPP files."
+          },
+          "verification": "Immutable source hash, exact voice-only numeric sequence, no duplicate block; README and extractor inspected to exclude asset dependencies. No local in-game runtime test."
+        },
+        {
+          "serial": "ULES-00600",
+          "catalogId": "custom-psp-tagforce-ules-00600",
+          "sourceFile": "Codes/PPSSPP/ULES00600.ini",
+          "sourceCommit": "0e47a5f37a268e4a516893ac5f69588b0c424acd",
+          "sourceUrl": "https://raw.githubusercontent.com/DeaTh-G/tagforce-essentials/0e47a5f37a268e4a516893ac5f69588b0c424acd/Codes/PPSSPP/ULES00600.ini",
+          "sourceSha256": "7CAE8889057C70188501597B2FFBC9D5D712DA8E1F4A6443871D2C12FCA0AF0F",
+          "license": "MIT",
+          "licenseSha256": "C7079D3AA8D60F707C1AF11D07A3D9856DC0028677A21EB62D33BE9F0E931821",
+          "blocks": 1,
+          "codeLines": 5,
+          "excludedBlocks": [
+            {
+              "block": "Enable Japanese Point Gauge",
+              "reason": "Outside voice-only intake; visual mods may require extracted files."
+            },
+            {
+              "block": "Uncensored Cards",
+              "reason": "Requires extracted external assets; outside data-only intake."
+            }
+          ],
+          "malformedBlocks": 0,
+          "duplicateBlocks": 0,
+          "sha256": "FA9A9D5E815458883D9E44CEF679050C70951FD72E3DFE5B7AB68E26B2A88E30",
+          "serialVerification": {
+            "readmeUrl": "https://raw.githubusercontent.com/DeaTh-G/tagforce-essentials/0e47a5f37a268e4a516893ac5f69588b0c424acd/README.md",
+            "readmeSha256": "40D473C29AC94B7611661848E5CA6AD4CDC8A4665C14243B412A139C18112C44",
+            "method": "Upstream README maps US ULUS-10136 and EU ULES-00600 to their corresponding region-named PPSSPP files."
+          },
+          "verification": "Immutable source hash, exact voice-only numeric sequence, no duplicate block; README and extractor inspected to exclude asset dependencies. No local in-game runtime test."
+        }
+      ],
+      "upstreamAudit": {
+        "repository": "https://github.com/libretro/libretro-database",
+        "catalogCommit": "740ebdf03247073658ccea45ddedfd57ea9d2974",
+        "checkedCommit": "fbeefcb46c2e1b20a7e2945f34a694a41b2d6f90",
+        "pspSubtreeChanged": false
+      },
+      "existingPacksModified": 0,
+      "applicationChanges": 0,
+      "newPacks": 11,
+      "newBlocks": 32,
+      "previouslyAbsentSerials": [
+        "ULKS-46086",
+        "ULJM-05904",
+        "NPUG-80329"
+      ],
+      "newUniqueTitlesFound": 0,
+      "baselineAudit": {
+        "packs": 2514,
+        "uniqueSerials": 2513,
+        "blocks": 75820,
+        "legacyIdenticalContentGroups": 27,
+        "legacyPacksWithRepeatedBlocks": 42,
+        "codeOnlyIdenticalPackGroups": 44,
+        "legacyPacksModified": 0
+      }
+    }
+  ]
 }

@@ -31,6 +31,68 @@
       "license": "Published by the pack author for the EmuCoreA cheat catalog",
       "notes": "Author-provided PSP camera patch for ULES-00277 (Tenchu: Time of the Assassins [EU]), converted from the CWCheat V18.3 MODE-BYTE FIX source into the catalog pack format. The original CWCheat block names and comments are preserved, _C1/_C0 blocks become catalog blocks, and the pack is published on the cheat-catalog-3 release. ULES-00277 therefore has two catalog entries: the libretro gameplay pack and this camera pack.",
       "distribution": "catalog"
+    },
+    {
+      "id": "tabdiukov-psp",
+      "name": "TAbdiukov PPSSPP patches",
+      "author": "Tim Abdiukov (TAbdiukov)",
+      "url": "https://github.com/TAbdiukov/PPSSPP-patches",
+      "commit": "a38b2aba3e0e24935392d2617b14b35d73ab0f27",
+      "rawUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULKS46086.ini.db",
+      "license": "Apache-2.0",
+      "licenseUrl": "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/LICENCE",
+      "licensePath": "LICENSES/Apache-2.0-TAbdiukov.txt",
+      "notes": "Exact-serial patches from the pinned author repository. Naruto includes only five non-experimental dogfight/CPU disable-restore options per regional pack; human-substitution experiments and dummy menu separators are excluded. Daxter preserves theboy181 attribution. Battlefront II US/EU share one payload verified against both source files; choose either disable or restore ticket bleeding. Each downloadable pack embeds the complete upstream license and copyright notice. Runtime not verified locally.",
+      "distribution": "catalog",
+      "rawUrls": [
+        "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULKS46086.ini.db",
+        "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/several-%28theboy181%29.ini.db",
+        "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-1_ULES00865.ini.db",
+        "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-1_ULUS10299.ini.db",
+        "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULES01088.ini.db",
+        "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Naruto-UNH-2_ULUS10349.ini.db",
+        "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Star-Wars-Battlefront-2_ULUS10053.ini.db",
+        "https://raw.githubusercontent.com/TAbdiukov/PPSSPP-patches/a38b2aba3e0e24935392d2617b14b35d73ab0f27/Star-Wars-Battlefront-2_ULES00183.ini.db"
+      ],
+      "additionalAuthors": [
+        "theboy181"
+      ]
+    },
+    {
+      "id": "silent-psp",
+      "name": "Silent console cheat codes",
+      "author": "Adrian Zdanowicz (Silent)",
+      "url": "https://github.com/CookiePLMonster/Console-Cheat-Codes",
+      "commit": "f55aa8db8e6c79a2af6a9dd216b46635fc7324b5",
+      "rawUrl": "https://raw.githubusercontent.com/CookiePLMonster/Console-Cheat-Codes/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PSP/Midnight%20Club%20LA%20Remix/Unlock%20prototype%20cheats/ULJM05904_cheats.ini",
+      "license": "MIT",
+      "licenseUrl": "https://raw.githubusercontent.com/CookiePLMonster/Console-Cheat-Codes/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/LICENSE",
+      "licensePath": "LICENSES/MIT-Console-Cheat-Codes.txt",
+      "notes": "Prototype-cheat unlock patches. One source-verified payload covers Japanese Rockstar Classics ULJM-05904; a second identical US/EU payload is shared by ULUS-10383 and ULES-01144 and published only once. Enable the patch, then enter passwords in the in-game cheat menu; see researchUrl. Every individual download embeds the complete MIT license and copyright notice. Runtime not verified locally.",
+      "distribution": "catalog",
+      "researchUrl": "https://silentsblog.com/2023/12/27/midnight-club-la-remix-cheat-codes/",
+      "rawUrls": [
+        "https://raw.githubusercontent.com/CookiePLMonster/Console-Cheat-Codes/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PSP/Midnight%20Club%20LA%20Remix/Unlock%20prototype%20cheats/ULJM05904_cheats.ini",
+        "https://raw.githubusercontent.com/CookiePLMonster/Console-Cheat-Codes/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PSP/Midnight%20Club%20LA%20Remix/Unlock%20prototype%20cheats/ULUS10383_cheats.ini",
+        "https://raw.githubusercontent.com/CookiePLMonster/Console-Cheat-Codes/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PSP/Midnight%20Club%20LA%20Remix/Unlock%20prototype%20cheats/ULES01144_cheats.ini"
+      ]
+    },
+    {
+      "id": "tagforce-essentials",
+      "name": "DeaTh-G Tag Force essentials",
+      "author": "DeaTh-G",
+      "url": "https://github.com/DeaTh-G/tagforce-essentials",
+      "commit": "0e47a5f37a268e4a516893ac5f69588b0c424acd",
+      "rawUrl": "https://raw.githubusercontent.com/DeaTh-G/tagforce-essentials/0e47a5f37a268e4a516893ac5f69588b0c424acd/Codes/PPSSPP/ULUS10136.ini",
+      "rawUrls": [
+        "https://raw.githubusercontent.com/DeaTh-G/tagforce-essentials/0e47a5f37a268e4a516893ac5f69588b0c424acd/Codes/PPSSPP/ULUS10136.ini",
+        "https://raw.githubusercontent.com/DeaTh-G/tagforce-essentials/0e47a5f37a268e4a516893ac5f69588b0c424acd/Codes/PPSSPP/ULES00600.ini"
+      ],
+      "license": "MIT",
+      "licenseUrl": "https://raw.githubusercontent.com/DeaTh-G/tagforce-essentials/0e47a5f37a268e4a516893ac5f69588b0c424acd/LICENSE",
+      "licensePath": "LICENSES/MIT-TagForce-Essentials.txt",
+      "notes": "Voice-only US/EU patches. Japanese audio is already present in game files; Source/Program.cs extractor concerns visual/card assets and is not needed for these blocks. Original xdelta research credited to Matheus Abreu. Reload the shop when enabling there; upstream reports title-screen voice timing limits. Other source blocks requiring extracted assets are excluded. Full MIT license is embedded in individual downloads. Runtime not verified locally.",
+      "distribution": "catalog"
     }
   ]
 }

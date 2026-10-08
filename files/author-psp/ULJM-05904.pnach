@@ -1,0 +1,36 @@
+# PSP author patch pack
+# Serial: ULJM-05904
+# Game: Midnight Club: L.A. Remix (Rockstar Classics) [JP]
+# Source: https://raw.githubusercontent.com/CookiePLMonster/Console-Cheat-Codes/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5/PSP/Midnight%20Club%20LA%20Remix/Unlock%20prototype%20cheats/ULJM05904_cheats.ini
+# Source commit: f55aa8db8e6c79a2af6a9dd216b46635fc7324b5
+# Copyright: (c) 2020-2023 Adrian Zdanowicz (Silent)
+# License: MIT
+# Modified 2026-10-08: converted CWCheat headers and hex prefixes to catalog format; explanatory comments retained as # comments.
+# Codes remain optional; original _C0/_C1 activation flags are not imported.
+# Unlocks prototype cheats for this exact Japanese Rockstar Classics serial only. Runtime not verified locally.
+# Complete upstream license follows:
+# The MIT License (MIT)
+#
+# Copyright (c) 2020-2023 Adrian Zdanowicz (Silent)
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
+// Unlock prototype cheats
+Author = Adrian Zdanowicz (Silent)
+20068A54 00000000

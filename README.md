@@ -18,6 +18,9 @@ pack for a different revision just because the title matches.
 - `files/custom-psp/` - author-provided PSP packs that are not derived from
   libretro-database; each one records its own author and source in
   `cheats.json` and `sources.json`.
+- `files/author-psp/` - additional exact-serial patches from pinned,
+  explicitly licensed author repositories. Each downloadable pack embeds
+  its complete upstream license; original copies are in `LICENSES/`.
 - `release/` - local, git-ignored build directory for per-release `.pnach`
   assets and aggregate ZIPs. The published files live on GitHub Releases and
   the Android client installs the individual `.pnach` packs from their release
@@ -61,9 +64,10 @@ files resolve to 2611 unique serials, of which 2513 serials are published as
 per-game packs with 75,691 cheat blocks. Two serials had no parseable blocks
 and 96 serials repeated the exact cheat content of another serial (regional
 variants); those are skipped so no pack is published twice. Because GitHub
-allows at most 1000 assets per release, the catalog is served from three stable
+allows at most 1000 assets per release, the catalog is served from four stable
 release tags: `cheat-catalog` (first 798 packs), `cheat-catalog-2` (next 1000)
-and `cheat-catalog-3` (final 715 libretro packs plus the custom camera pack).
+and `cheat-catalog-3` (final 715 libretro packs plus the custom camera pack
+only), with the eleven additional author packs on `cheat-catalog-4`.
 Every catalog entry keeps a direct HTTPS `.pnach` URL on the release that holds
 its asset.
 
@@ -72,6 +76,61 @@ The catalog also publishes author-provided packs through `files/custom-psp/`.
 already has a libretro gameplay pack, so a serial may appear in more than one
 entry; the Android client lists every matching pack for the selected game and
 the entries must never repeat the same pack bytes.
+
+On 2026-10-08, eleven author packs containing 32 unique blocks were added,
+bringing the catalog to 2525 packs, 2516 unique serials, and 75,852 blocks.
+Three of the additions cover previously absent serials. They are additional
+editions of games represented in other regions, with distinct code content:
+
+| Exact serial | Game edition | Optional patch blocks |
+| --- | --- | --- |
+| `ULKS-46086` | Naruto: Ultimate Ninja Heroes 2 [KR] | Five aerial-dogfight and CPU substitution disable/restore options |
+| `ULJM-05904` | Midnight Club: L.A. Remix (Rockstar Classics) [JP] | Unlock prototype-only in-game cheat passwords |
+| `NPUG-80329` | Daxter (PlayStation Store) [US] | Fix analog controls |
+
+The other eight packs add new features for existing serials: four regional
+Naruto packs (`ULES-00865`, `ULUS-10299`, `ULES-01088`, `ULUS-10349`), one
+shared US/EU Battlefront II ticket-rebalance pack (`ULUS-10053`, `ULES-00183`),
+one shared US/EU Midnight Club prototype-cheat pack (`ULUS-10383`, `ULES-01144`),
+and separate US/EU Tag Force Japanese-voice packs (`ULUS-10136`, `ULES-00600`).
+Each shared-region pack is published once with both verified serials; its
+code sequences match both pinned source files. Existing catalog entries and
+packs are unchanged.
+
+Naruto and Daxter come from
+[TAbdiukov/PPSSPP-patches](https://github.com/TAbdiukov/PPSSPP-patches/tree/a38b2aba3e0e24935392d2617b14b35d73ab0f27)
+under Apache-2.0; the Daxter source credits `theboy181` in its filename.
+Midnight Club comes from
+[CookiePLMonster/Console-Cheat-Codes](https://github.com/CookiePLMonster/Console-Cheat-Codes/tree/f55aa8db8e6c79a2af6a9dd216b46635fc7324b5)
+under MIT, credited to Adrian Zdanowicz (Silent). For Midnight Club, apply
+the patch and enter the prototype passwords through the game's cheat menu;
+the [author's research](https://silentsblog.com/2023/12/27/midnight-club-la-remix-cheat-codes/)
+lists the passwords and explains the serial check.
+
+The Tag Force voice-only patches come from
+[DeaTh-G/tagforce-essentials](https://github.com/DeaTh-G/tagforce-essentials/tree/0e47a5f37a268e4a516893ac5f69588b0c424acd)
+under MIT. Matheus Abreu's original voice-enabler research remains credited.
+These blocks enable audio already in the game and require no extracted mod
+files. Reload the shop if enabling the patch there; upstream reports that
+cheat-engine timing can miss title-screen voices. Visual/card mods requiring
+external assets are excluded.
+
+All 32 new blocks were compared by numeric address/value sequences against
+every existing block and each other, ignoring titles, attribution, and
+comments. No repeated code block or duplicate pack was introduced. Dummy menu
+separators and experimental Naruto human-substitution patches were excluded;
+source hashes, exclusions, and conversion details are in `build-report.json`.
+Existing packs remain unchanged, including legacy baseline duplicates reported
+by `check_duplicates.py`. The pinned libretro PSP subtree was also compared
+with upstream commit `fbeefcb46c2e1b20a7e2945f34a694a41b2d6f90` and had no changes.
+
+These checks validate provenance, format, and uniqueness; the new patches
+have not been tested locally in the games. For Naruto, enable only one
+aerial-dogfight option at a time, and do not enable a CPU substitution disable
+option together with its restore option. The app and catalog schema are
+unchanged; all new entries retain direct `.pnach` release URLs.
+The new release also includes an aggregate archive of the complete catalog;
+previous releases and their assets are preserved.
 
 ## Pack format
 
@@ -116,11 +175,12 @@ To prepare a release bundle after validation (writes to the git-ignored
 `release/` directory, then upload the files to the matching GitHub release):
 
 ```bash
-python scripts/make_release.py --version cheat-catalog-3
-python scripts/make_game_assets.py --version cheat-catalog-3
+python scripts/make_release.py --version cheat-catalog-4
+python scripts/make_game_assets.py --version cheat-catalog-4 --pnach-only
 python scripts/validate_game_assets.py --version cheat-catalog
 python scripts/validate_game_assets.py --version cheat-catalog-2
 python scripts/validate_game_assets.py --version cheat-catalog-3
+python scripts/validate_game_assets.py --version cheat-catalog-4
 ```
 
 The Android client reads `cheats.json` and downloads each entry's
